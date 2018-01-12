@@ -1,4 +1,0 @@
-source-document00123.txt
-source-document01347.txt
-source-document03567.txt
-source-document07005.txt
