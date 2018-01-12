@@ -9,6 +9,10 @@ import utils
 
 lsh = utils.load_lsh(utils.CACHE_WORD_03_FILE)
 # lsh = utils.load_lsh(utils.CACHE_CHAR_03_FILE)
+# lsh = utils.load_lsh(utils.CACHE_CHAR_04_FILE)
+# lsh = utils.load_lsh(utils.CACHE_CHAR_05_FILE)
+
+
 
 
 def check_new_lsh(filename):
@@ -34,7 +38,7 @@ if __name__ == '__main__':
     if len(result) == 0:
         print "The document is not plagiarized"
     else:
-        print "The document is not plagiarized.\n" \
+        print "The document is plagiarized.\n" \
               "Here is the list of the files that were used:\n{}".format(result)
     # TODO:
     # Add argparse for providing file name with script call
