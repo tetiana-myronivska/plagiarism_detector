@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00595.txt">
+  <feature name="project-gutenberg" etext_number="6656" url="http://www.gutenberg.org/dirs/etext04/tkpbo10.txt"/>
+  <feature name="language" value="en" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="20877" this_length="4702" source_reference="source-document06053.txt" source_offset="18768" source_length="4971" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="38457" this_length="1506" source_reference="source-document05314.txt" source_offset="7994" source_length="1492" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="43618" this_length="229" source_reference="source-document05314.txt" source_offset="1559" source_length="261" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="48672" this_length="3134" source_reference="source-document05314.txt" source_offset="3768" source_length="3310" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="68119" this_length="479" source_reference="source-document01870.txt" source_offset="7969" source_length="483" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="72334" this_length="778" source_reference="source-document05314.txt" source_offset="540" source_length="774" />
+  <!-- Use tags like the one below to annotate plagiarism you detected. -->
+  <!-- <feature name="detected-plagiarism" this_offset="50" this_length="1000" source_reference="source-documentX.txt" source_offset="750" source_length="1700"/> -->
+</document>
+

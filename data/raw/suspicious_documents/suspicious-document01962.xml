@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document01962.txt">
+  <feature name="project-gutenberg" etext_number="6490" url="http://www.gutenberg.org/dirs/etext04/tbtrt10.txt"/>
+  <feature name="language" value="en" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="16024" this_length="4876" source_reference="source-document01754.txt" source_offset="2368" source_length="4993" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="108158" this_length="1923" source_reference="source-document04396.txt" source_offset="62073" source_length="1927" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="146888" this_length="259" source_reference="source-document04396.txt" source_offset="16515" source_length="268" />
+  <!-- Use tags like the one below to annotate plagiarism you detected. -->
+  <!-- <feature name="detected-plagiarism" this_offset="50" this_length="1000" source_reference="source-documentX.txt" source_offset="750" source_length="1700"/> -->
+</document>
+

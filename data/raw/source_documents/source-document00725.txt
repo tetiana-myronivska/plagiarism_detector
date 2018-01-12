@@ -1,0 +1,6863 @@
+﻿Produced by Stan Goodman, Mariluz Ochoa de Olza and the Online
+Distributed Proofreading Team.
+
+
+[Illustration: PERO REPITO QUE NO SE JUEGA CONMIGO (Acto Cuarto, Escena
+Dos)]
+
+
+CONTIGO PAN Y CEBOLLA
+
+POR MANUEL EDUARDO DE GOROSTIZA
+
+EDITED WITH NOTES, EXERCISES, AND VOCABULARY BY ELIZABETH MCGUIRE
+
+FORMERLY INSTRUCTOR IN SPANISH UNIVERSITY OF CALIFORNIA
+
+1922
+
+
+PREFACE
+
+
+"Contigo Pan y Cebolla," a prose comedy of the lightest sort, affords
+a pleasant and attractive glimpse of certain phases of Spanish life
+and thought. Manuel Eduardo de Gorostiza is said to have written the
+play in order to cure his daughter Luisa of her infatuation for a
+worthy but impecunious suitor; but in addition to this motive his
+purpose is obviously to entertain.
+
+The theme developed is a family affair, and so the vocabulary is
+essentially domestic. In this vocabulary of over sixteen hundred
+words, many of the phrases and expressions appear again and again in
+the natural fashion of every-day speech.
+
+The text used is that found in Book I of the four-volume edition,
+"Obras de D. Manuel E. de Gorostiza," México, 1899. From the
+standpoint of typography this text is lamentably inexact. The
+necessary corrections have been made, and the accentuation is in
+accordance with the latest rulings of the Royal Spanish Academy. For
+the sake of the student one or two passages have been omitted.
+
+Much work has been left to be done by those who read the play as
+prepared. The Spanish-English vocabulary is limited in most cases to
+defining the word as it occurs in the text, and frequently only an
+approximation of the meaning has been attempted. For instance, the
+English equivalents of the same Latin origin as the sonorous Spanish
+terms that are used so naturally by the man-servant Bruno and the
+garrulous Nicolasa would be strangers to the lips of English-speaking
+individuals of corresponding station.
+
+There has been added a series of questions and topics (Preguntas y
+Temas) that may serve as suggestions for exercises in composition. The
+questions follow the thread of the story, but they are not meant to be
+exhaustive, while the number of topics for descriptive paragraphs or
+additional dialogue can readily be increased.
+
+Instead of the usual biographical data collected from many sources and
+presented to the student in English, selections have been taken from
+a life-sketch of Gorostiza written by the distinguished Mexican Roa
+Bárcena, who secured his information from Gorostiza's son. Naturally
+the biographer has thrown into high relief the part which Gorostiza
+took in the interesting events that occurred in Europe and in the New
+World during his lifetime. We are mainly concerned with Gorostiza the
+dramatist. Next to Juan Ruiz de Alarcón (1581?-1639), Mexico honors
+him as her greatest modern representative in the dramatic field.
+Furthermore, the play "Contigo Pan y Cebolla" is given first place on
+the list of his many literary achievements.
+
+This play the reader is left to gauge by his own standards. No two
+individual opinions will be exactly alike, and the judgment of
+non-Spanish critics will naturally be different from that formed by
+those to whom Spanish is the native tongue. By good fortune there is
+available a criticism of "Contigo Pan y Cebolla" written by Mariano
+José de Larra, and to serve as a guide there have been included here a
+few paragraphs from the pen of this contemporary of Gorostiza, who was
+the foremost Spanish satirist and dramatic critic of his time.
+
+Thus the reader has before him specimens of the prose writings of
+three distinguished men. All three write in Spanish; yet all three
+differ in style and in temperament. To those readers in America who
+have hitherto looked for the best things with a backward glance there
+should be a certain significance in the fact that two of these writers
+are of Mexican birth.
+
+E. McG.
+
+BERKELEY, CALIFORNIA
+
+
+CONTENTS
+
+
+NOTICIA BIOGRÁFICA _José M. Roa Bárcena_
+CRÍTICA DE CONTIGO PAN Y CEBOLLA _M.J. de Larra_
+CONTIGO PAN Y CEBOLLA
+  TEXT
+  NOTES
+  EXERCISES
+  VOCABULARY
+
+
+NOTICIA BIOGRÁFICA
+
+
+Gorostiza nació en nuestro puerto de Veracruz el 13 de octubre de
+1789, de una familia española distinguida, cuyo jefe, el general D.
+Pedro de Gorostiza, vino a la Nueva España con el segundo Conde de
+Revillagigedo, de quien era pariente o amigo, a encargarse del mando
+civil y militar de aquella plaza. Su madre, D.ª María del Rosario
+Cepeda, contaba entre sus ascendientes a Santa Teresa de Jesús, y
+había heredado su ingenio y afición al estudio, de que dió buenas
+pruebas en Cádiz. Muerto D. Pedro en 1794, la viuda regresó a Madrid
+con tres hijos, siendo nacidos en España D. Francisco, en quien debía
+recaer el mayorazgo, y D. Pedro Ángel, después matemático notable y
+a quien como literato elogia D. Eugenio de Ochoa en el _Tesoro del
+Teatro Español_. El menor, nuestro D. Manuel, habiendo recogido el
+primero los bienes patrimoniales y abrazado el segundo la carrera
+de las armas, fué destinado a la Iglesia y emprendió los estudios
+necesarios. Si aprovechólos, como después lo demostró, la vocación
+sacerdotal no le vino, y con ayuda de sus hermanos, pajes de la
+familia real a la sazón, obtuvo plaza de cadete, presentándose a la
+madre el día menos pensado con uniforme militar en vez de hábitos.
+
+La invasión francesa le halló listo a la defensa de la que entonces
+era su patria, como la invasión norteamericana le había de hallar
+muchos años después entre los más distinguidos defensores de su
+tierra natal. Era capitán de granaderos en 1808; batióse contra los
+franceses, derramando a ocasiones su propia sangre, y ya coronel, y
+cambiadas las circunstancias públicas, abandonó las armas en 1814
+para entregarse a las letras. Ya en 1821 había escrito y hecho
+representar[1] en Madrid sus primeras comedias _Indulgencia para
+Todos_, _Tal para cual_, _Las Costumbres de Antaño_ y _Don Dieguito_;
+pero el torbellino de la política habíale envuelto en su tromba. El
+odio a los invasores[2] no le preservó del virus de la revolución
+francesa, y la actitud y las leyes de las Cortes de Cádiz tuviéronle
+de admirador y partidario. Ni era fácil, supuestas las ideas
+dominantes, cuya filiación española databa del reinado de Carlos III,
+que un joven de su carácter e inclinaciones dejara de formar en el
+bando de los Martínez de la Rosa, Alcalá Galiano y Quintana, y a que
+en esfera menos activa pertenecían hasta hombres que, como Gómez
+Hermosilla y Moratín, aceptaron el gobierno efímero de José Bonaparte.
+Gorostiza llevó a la política la actividad y fogosidad de su carácter
+y de sus verdes años; y el príncipe que había asombrado al mundo con
+los rasgos de su deslealtad filial[3] en Aranjuez, de su humillación
+y bajeza en Valencey, y de su versatilidad, falsedad y crueldad en
+el trono, al recobrar el poder absoluto y enviar a los presidios
+de África a los más ilustres ministros y consejeros de su período
+constitucional, no podía haberse olvidado del fecundo y entusiasta
+orador liberal de la _Fontana de Oro_. Proscrito D. Manuel Eduardo
+y confiscados sus bienes, salió de España, recorriendo diversas
+capitales europeas y deteniéndose algún tiempo en Londres, donde
+residían otros muchos emigrados españoles.
+
+[Footnote 1: 'Had written and had had produced,' _hacer_ being here
+used with the active infinitive to express the idea _had caused to be
+produced_.]
+
+[Footnote 2: His hatred for the (French) invaders. As the ideas of the
+American and French Revolutions were permeating the Spanish colonies,
+so Napoleon, quite without intention, gave to Spain herself an
+impulse to national feeling. Charles III had encouraged the growth of
+democratic ideas, and the framing of the Constitution of 1812 by the
+Cortes of Cadiz marks the climax of radical Spanish development during
+this epoch. (Cf. Charles E. Chapman, "A History of Spain," chap. xxxv,
+New York, Macmillan Co., 1918.)]
+
+[Footnote 3: Ferdinand VII, son of Charles IV and Maria Louisa, was
+one of Spain's worst kings. With the army and the people on his side
+he openly opposed his father, causing the latter to abdicate on March
+19, 1808. The humiliating negotiations of this royal family with
+Napoleon at Bayonne and the subsequent invasion of Spain by the French
+led to the glorious uprising of the Spanish people on the second of
+May, 1808.]
+
+Compartió con ellos las penalidades y escaseces del destierro, tanto
+más duro para él cuanto que tenía que atender a familia propia, pues
+se había casado en Madrid con D.ª Juana Castilla y Portugal. Las
+letras, que sólo por afición cultivó antes, fuéronle ahora recurso
+eficaz de subsistencia. Escribía en periódicos sobre materias varias,
+y especialmente contra el absolutismo dominante en España. En 1822
+había publicado en París su _Teatro Original_, con las comedias que
+acabo de citar y que aparecieron dedicadas a Moratín; y tres años
+después, imprimió en Bruselas su _Teatro Escogido_, en que de la
+edición anterior sólo reprodujo _Indulgencia para Todos_ y _D.
+Dieguito_, presentando como nuevas piezas _El Jugador_ y _El Amigo
+Íntimo_, y poniendo al frente su retrato, que es el generalmente
+conocido y que no da idea de la vivacidad y animación de su gesto.
+
+Entretanto, México había realizado su independencia, y siguiendo la
+propensión que en su adolescencia acompaña a los pueblos como a los
+individuos, de llamar la atención ajena y de crearse relaciones que
+prometen grandes bienes, trataba de hacerse representar dignamente en
+el exterior, y por medio de sus agentes invitó a Gorostiza a asumir
+la ciudadanía mexicana y a encargarse de importantes comisiones
+diplomáticas. A consecuencia de ello, nuestro representante en
+Londres, D. José Mariano de Michelena, en Julio de 1824 dirigió al
+Gobierno un ocurso de Gorostiza ofreciendo sus servicios a México; y
+antes de terminar el año, se le encargó una misión confidencial en
+Holanda. Su familia, que había quedado en Madrid, se le reunió después
+en Bruselas de donde en 1829 pasó D. Manuel de encargado de negocios
+a Londres. De esta última corte, y siendo ministro plenipotenciario,
+después de la caída de Carlos X,[1] fué dos veces a París con el
+carácter de enviado extraordinario, logrando ajustar nuestro primer
+tratado de amistad y comercio con Francia. Tuvo, además, misión
+confidencial de la administración de Bustamante para arreglar el
+reconocimiento de nuestra independencia por España, de que se desistió
+en virtud de sus informes; había estado asimismo con carácter
+diplomático en Berlín, y para apreciar el resultado general de sus
+gestiones, bastará recordar que él negoció casi todos nuestros
+primeros tratados con potencias extranjeras. Por entonces, escribió
+e imprimió en Londres su obra dramática más notable a mi juicio,
+_Contigo Pan y Cebolla_; refundió _Las Costumbres de Antaño_, y dio
+a luz una _Cartilla política_ que acaso aun más que sus servicios
+diplomáticos le ganaría la voluntad de nuestros hombres de 1833.[2]
+
+[Footnote 1: Charles X (1757-1836) became king of France in 1824;
+forced to abdicate in 1830.]
+
+[Footnote 2: 'Must have earned him the good will of our men of 1833.'
+In 1832 General Anastasio Bustamante, "a heavy, dull, rather kindly,
+and fairly honest aristocrat, though nominally a moderate Federalist,"
+who had become President of Mexico in 1830 by the revolution which
+displaced Don Vicente Guerrero, was driven from power by another
+revolution in which General Antonio López de Santa Anna joined. Gómez
+Pedraza, the president whom Guerrero had deposed, was restored to fill
+out his own term; then, in 1833, Santa Anna was elected, but retired
+to his estate, leaving the vice-president Gómez Farías in power. He,
+like Gómez Pedraza, attempted reforms directed chiefly against the
+Church and the army, with the backing of the Federalist majority in
+Congress. Thereupon the rival Centralist party, made up largely of the
+Church and the rich proprietors, called in Santa Anna, who had been
+biding his time to go over to their side.]
+
+Vino en ese año con su familia a México, hallando desde Veracruz
+cordial y entusiasta recibimiento; y supuesto su positivo mérito y lo
+avanzado de sus ideas liberales, nada extraño fué verle aquí nombrado
+bibliotecario nacional y síndico del Ayuntamiento, ni que la
+administración de Gómez Farias le hiciera miembro de la Dirección
+General de Instrucción Pública, en que figuraban Rodríguez Puebla,
+Quintana Roo[1] y algunos otros personajes, y que, como es sabido,
+llegó a ser una especie de consejo privado en que se discutieron
+y resolvieron las más graves cuestiones políticas de la época. El
+historiador Mora, Ercilla de esta nueva Araucana[2], habla de la
+aquiescencia de Gorostiza respecto de las medidas dictadas en
+materias eclesiásticas, y de la parte activa que tomó en el plan de
+secularización de la enseñanza y en la formación de la biblioteca;
+pero de su animado relato de aquellos días terribles en que se
+proscribían en masa los partidos[3], nada se deduce en menoscabo de
+los humanos sentimientos del autor de _Indulgencia para Todos_,
+ajeno a los odios y a las persecuciones personales que anublaban el
+horizonte, y en cuanto a sus ideas y tendencias políticas, si las
+ensalzara perdería yo todo derecho a vuestro aprecio.
+
+[Footnote 1: Rodríguez Puebla and Andrés Quintana Roo were prominent
+figures among the _hombres de 1833_. The latter especially, as
+president of the House of Representatives (_Cámara de diputados_), in
+1830 fearlessly protested against the harsh treatment of political
+offenders as he had earlier opposed the expulsion from Mexico of
+the Spaniards on the formation of the Republic. Quintana Roo is
+respectfully styled the _viejo y varonil insurgente_.]
+
+[Footnote 2: José María Luis Mora (1794-1848), author of "Méjico y sus
+revoluciones." Just as, remarks Roa Bárcena, the poet Ercilla has
+recorded the struggles of the Araucanians and the Spaniards, so the
+historian Mora has recorded the struggles of the Mexicans.]
+
+[Footnote 3: Cf. Note I, above. It is plain that Gorostiza and Quintana
+Roo took the same stand on these questions.]
+
+Cambiaron los tiempos; pero, puestas ya en relieve las altas dotes
+de nuestro D. Manuel Eduardo, siguió desempeñando a intervalos papel
+notable en la administración pública, ya como consejero, ya como
+ministro de Relaciones o de Hacienda, cuyas secretarías tuvo diversas
+veces a su cargo; ya, en fin, como plenipotenciario en el arreglo
+de las cuestiones que en 1838 provocaron la guerra con Francia[1].
+Infatigable en su actividad, la consagraba ora a la instrucción
+general y a la de los niños de la Casa de Corrección, cuyo
+establecimiento fué objeto particular de sus desvelos; ora al teatro,
+cuya afición jamás le faltó[2], y a que dió impulso por todos los
+medios posibles, haciendo venir, en mucha parte a su costa, la primera
+compañía de ópera, y constituyéndose empresario del Principal, para
+cuyo fomento refundió y tradujo multitud de piezas extranjeras, entre
+ellas la _Emilia Galotti_, obra de bastante mérito, del dramaturgo
+alemán Léssing. Aun debía figurar, sin embargo, en escenario más
+importante y noble, y sus últimos años nos ofrecen hechos merecedores
+de eterna recordación y que vinieron a coronar dignamente una vida
+empleada casi toda en el servicio de su patria. Refiérome a su misión
+diplomática en los Estados Unidos y a la parte que tomó en 1847 en la
+defensa del territorio nacional[3].
+
+[Footnote 1: Reference is here made to the "Pastry War," so styled
+because among the claims for indemnity made by France in behalf of
+Frenchmen who had sustained losses in Mexico was one of a French baker
+whose wares had been purloined by a Mexican mob.]
+
+[Footnote 2: 'For which he never lost his fondness.']
+
+[Footnote 3: The national territory here referred to is, of course,
+Mexico. (For a general history of Mexico, a standard work in English
+is that of Hubert Howe Bancroft, "A History of Mexico," 6 vols., San
+Francisco, 1883. The latest and most detailed study of the period
+covering the war with the United States is Justin H. Smith's "The War
+with Mexico," 2 vols., New York, 1919).]
+
+
+       *       *       *       *       *
+
+
+Tras las batallas de Palo Alto y Resaca, la toma de Monterey, la
+jornada gloriosa aunque estéril de la Angostura[1], la ocupación de
+Tampico, la rendición de la humeante y heroica Veracruz y el tremendo
+desastre de Cerro Gordo, el cañón norteamericano tronó en el Valle
+mismo de México, y un pueblo vencido ya en cien combates, pero
+conservando el ánimo sereno que heredó de sus dos razas progenitoras,
+se agrupó en torno de sus banderas destrozadas a defender la capital
+de la República. El diplomático ilustre que había sostenido en
+Washington[2] la causa de la justicia, la causa nacional, quiso pelear
+por ella como soldado, aspirando a sellar con su propia sangre sus
+palabras y sus escritos. Levantó y organizó un batallón de artesanos,
+denominado de "Bravos," y cuando los restos del brillante cuerpo
+de ejército debelado en Padierna retirábanse en confusión ante las
+bayonetas del vencedor, el anciano de cerca de sesenta años, fuerte y
+valeroso y resuelto como en los días de su juventud, se apostaba a
+la cabeza de sus guardias nacionales en el convento de Churubusco,
+deteniendo el paso al enemigo hasta quemar el último cartucho y
+recibirle impávido con los brazos descansando sobre las armas. Si la
+gloria humana no es sueño, Gorostiza alcanzóla ese día, recibiendo sus
+palmas en el respeto y la admiración de sus adversarios.
+
+[Footnote 1: The battle known to Americans as Buena Vista. Cf.
+Whittier's poem "The Angels of Buena Vista."]
+
+[Footnote 2: Gorostiza was sent as Special Minister to Washington in
+1836. Justin Smith thus characterizes him: "a witty, agreeable man of
+the world, Mexican by birth, Spanish by education, the author of some
+clever dramas, but not professionally a topographer, a lawyer or even
+a diplomat." ("The War with Mexico," vol. I, p. 64.) The delicate
+question as to the _causa de la justicia_ is ably handled by the two
+historians above mentioned.]
+
+Tal fué el último rasgo de su vida pública y en la privada comenzó
+desde entonces a gustar el cáliz de amargura que tarde o temprano
+llevamos todos a los labios[1] en el huerto del mundo. La muerte de
+una hija suya, las quiebras mercantiles que acabaron con su modesta
+fortuna, la ingratitud de los gobiernos: todas esas nieblas frías que
+traen consigo sobre la frente del hombre los vientos de la adversidad
+al doblarle como frágil caña hacia la tierra que ha de recibir sus
+despojos, quebrantaron su ánimo, debilitaron su físico, y recibiendo
+en un ataque cerebral el golpe de gracia, rindió el alma al Criador el
+23 de octubre de 1851, en Tacubaya.
+
+[Footnote 1: An allusion to the Agony of Christ in the garden of
+Gethsemane.]
+
+JOSÉ MARÍA ROA BÁRCENA
+
+"Datos y apuntamientos para la biografía de D. Manuel E. de
+Gorostiza," en _Memorias de la Academia Mexicana_, México, 1876, t. I,
+págs. 93-101.
+
+
+CRÍTICA DE _CONTIGO PAN Y CEBOLLA_
+
+
+El señor de Gorostiza, poeta ya conocido en nuestro teatro moderno,
+se ha apoderado de una idea feliz y ha escogido un asunto de la mayor
+importancia. ¿Halo desempeñado[1] como de su talento nos debíamos
+prometer[2]? Oiga el lector el argumento, y podrá responder a tan
+atrevida pregunta.
+
+[Footnote 1: Note the position of the pronoun object, since the verb
+is first in the clause.]
+
+[Footnote 2: 'As we ought to expect from a man of his talent.']
+
+Matilde, hija de un padre, que, según de la comedia resulta, no conoce
+sus inclinaciones ni su carácter, ama a don Eduardo de Contreras,
+joven de talento, rico, y que ocupa un puesto distinguido en la
+sociedad; pero ignora estas circunstancias sin embargo de que entra en
+su casa con frecuencia. Anímase don Eduardo a pedir la mano de Matilde
+a don Pedro, quien gustosísimo se la concede, pero en el momento de
+convenir en tan deseado enlace, sabe la heroína que don Eduardo no es
+pobre, nota que no hay en esta boda los obstáculos que en las de sus
+novelas ha leído,[1] desama de pronto a quien tanto amó y despide a
+don Eduardo. Éste, que conoce de donde le viene el golpe,[2] propone
+al padre, aturdido de tal mudanza, una ingeniosa ficción que ha de
+llevar a cabo sus deseos. Fíngese desheredado de un tío suyo, y
+desairado por don Pedro; aparenta la novelesca desesperación de un
+amante despedido, y estos extraordinarios medios hacen renacer el
+acomodaticio cariño de Matilde, que por lo visto sólo ama en casos
+dados. El padre sigue haciendo del negado, y cuando vienen segunda vez
+entrambos a importunarle, se lleva la niña de un brazo y despide
+para siempre al amador. Con esto por fuerza ha de subir de punto la
+frenética pasión de Matilde: inténtase una escapatoria, la cual se
+verifica sin maldita la oposición del padre, que está él mismo en el
+complot que se le arma, y cooperando a ella un pobre criado a quien
+no le vale su honradez[3]. El padre no ha querido oírle por no verse
+comprometido a impedir el rapto, y le amenaza por una parte don
+Eduardo con tirarse un pistoletazo, y por otra Matilde con tragarse
+un veneno que posee, si no abre una reja, por donde se escapa nuestra
+deslumbrada, sin embargo de hallarse la puerta libre y desembarazada;
+y en atención, según dice ella misma, a ser de rigor[4] el salir en
+semejantes casos por la ventana.
+
+[Footnote 1: In another criticism of this play Larra writes: 'y con
+no ver en este amorío los terribles inconvenientes que en los de sus
+novelas está acostumbrada a encontrar....']
+
+[Footnote 2: Eduardo is aware of Matilde's fondness for romantic
+fiction and realizes that her head has been turned.]
+
+[Footnote 3: 'Whose honesty is of no avail' (since his master refuses
+to listen to him and his mistress overrules him).]
+
+[Footnote 4: 'And all because leaving by the window is the thing to
+do,' etc.]
+
+En el cuarto acto, que parece un acto de otra comedia, Matilde se
+halla el día de tornaboda en una miserable boardilla, pero en compañía
+de su constante esposo; no han comido la víspera, no se han desayunado
+aquel día: medios, Dios los dé; dinero, por las nubes:[1] en una
+palabra, pobres de solemnidad y solemnes pobres; la infeliz Matilde
+tendrá que levantar la cama; ... tendrá que barrer, que jabonar, que
+pasar hambres, que estar sola, porque su marido habrá de salir a
+buscar dinero. Matilde comienza ya a padecer los inconvenientes de
+su posición: humíllala el casero, humíllala una antigua compañera de
+colegio, marquesa, que vive en la misma casa, y que dice que una cosa
+es casarse, y otra enamorarse; en lo cual no parece su señoría un si
+es no es verde y alegre de cascos: humíllala, en fin, una vecinilla
+ordinaria entre cotorra y contrabandista:[2] llora Matilde y conoce
+su yerro. Vuelve entonces su esposo, y vienen impacientes papá y el
+criado honrado; descúbrese la ficción, y se van todos muy convencidos
+de que para quererse mucho es indispensable por lo menos haber comido
+algo; verdad indisputable de todos los tiempos y países, y que no
+bastarán a echar por tierra todas las pasiones reunidas que pueden
+agitar a un mísero mortal.
+
+[Footnote 1: 'May God give them means (for they have none); money, up
+in the clouds, perhaps (for there's none in their pockets).']
+
+[Footnote 2: A reference to the neighbor's incessant chatter and her
+smuggled laces.]
+
+Ya puede inferir el lector qué de escenas cómicas ha tenido el autor
+a su disposición. El señor Gorostiza no las ha desperdiciado: rasgos
+hemos visto en su linda comedia que Moliere no repugnaría, escenas
+enteras que honrarían a Moratín. El carácter del criado y las
+situaciones todas en que se encuentra son excelentes y pertenecen a la
+buena comedia:[1] del padre pudiéramos decir lo que dice la marquesa
+de su marido; ni es feo, ni es bonito: es un hombre pasivo, es un
+instrumento no más del astuto don Eduardo. Éste es un bello carácter:
+la carta que escribe es del mayor efecto y pertenece a la alta
+comedia. El lenguaje es castizo y puro; el diálogo bien sostenido y
+chispeando gracias,...
+
+[Footnote 1: 'Belong to first-rate comedy.']
+
+
+       *       *       *       *       *
+
+
+Después de haber tributado el debido homenaje de elogios que de
+nuestra pluma reclamaba imperiosamente la divertida comedia del señor
+Gorostiza ¿nos será permitido indicar algunos de los defectos de que
+rara obra humana consigue verse completamente purgada? ¿Se dirá que
+nos ensangrentamos, que somos parciales, si ponemos al lado del elogio
+el grito de nuestra conciencia literaria? Quisiéramos equivocarnos,
+pero el carácter de la protagonista nos parece por lo menos llevado a
+un punto de exageración tal, que sería imposible hallar en el mundo un
+original siquiera que se le aproximase. Estas niñas románticas, cuya
+cabeza ha podido exaltar la lectura de novelas, no reparan en clases
+ni en dinero; éste podrá ser su yerro; enamóranse de un hombre sin
+preguntarle quién es; ésta es su imprudencia: si sale pobre, verdad
+es, nada les arredra, y en las aras del amor sacrifican su
+porvenir; mas si sale rico, como ya están enamoradas, por esta sola
+circunstancia no se desenamoran. Por la misma razón, si tratan de
+escaparse, y no tienen otro recurso, se arrojan por una ventana; mas
+si tienen la puerta franca, aquel paso ya no es ni medio verosímil.
+Esta exageración hace aparecer a Matilde loca las más veces; quiere
+ser el don Quijote de las novelas. Pero acordémonos de que Cervantes
+para huir de la inverosimilitud que de la exageración debía resultar,
+hizo loco realmente y enfermo a su héroe, y una enfermedad no es un
+carácter. Si la comedia pedía un carácter, era preciso no haber pasado
+los límites de la verosimilitud, pues pasándolos, Matilde no resulta
+enamorada sino maniática; por eso en varias ocasiones parece que ella
+misma se burla de sus desatinos: lo mismo hubiera sucedido con don
+Quijote si no nos hubiera dicho Cervantes desde el principio: "Miren
+ustedes que está loco." Peca además el plan por donde los más del
+mismo poeta:[1] ya en otra ocasión hemos dicho[2] que estos planes en
+que varios personajes fingen una intriga para escarmiento de otro,
+son incompletos y conspiran contra la convicción, que debe ser el
+resultado del arte.
+
+[Footnote 1: As Larra indicates, the element of intrigue, each time
+worked out in a different fashion, is plainly seen in practically all
+of Gorostiza's plays. In "Indulgencia para Todos" the hero, whose only
+fault is his perfection and his consequent intolerance of the failings
+of others, by the intriguing of his hosts is tempted and falls and
+is led to crave pardon for his own shortcomings and for those of
+his hosts who have sinned against the laws of hospitality. In
+"Don Dieguito" the hero is taught the needed lesson of his own
+insignificance, since his wealthy uncle by a clever ruse causes the
+young man to see that the adulation that he has accepted as his due is
+in reality given by self-interested schemers who hope to profit by
+his vanity and gullibility. In "Las Costumbres de Antaño" the old
+gentleman constantly bewailing the departure of the good old days is
+caught asleep. By maneuvering, he is visited with such horrible dreams
+of the past that he is glad to awake to the conditions of a later
+generation.]
+
+[Footnote 2: A reference to one of Larra's numerous other dramatic
+criticisms.]
+
+En Moliere y en Moratín no se encuentra un solo plan de esta especie:
+el poeta cómico no debe hacer hipótesis; debe sorprender y retratar a
+la naturaleza tal cual es; esta comedia hubiera requerido una mujer
+realmente enamorada, y que realmente hubiera hecho una locura, como
+en _el Viejo y la Niña_[1] sucede; verdad es que entonces no hubiera
+podido ser dichoso el desenlace, y acaso habrá huido de esto el señor
+Gorostiza; éste era defecto del asunto, así como lo es también la
+aglomeración en horas de tantas cosas distintas, importantes, y
+regularmente más apartadas entre sí en el discurso de la vida.
+
+[Footnote 1: In Moratin's play the niña has married the old man after
+a designing relative has assured her that her youthful lover has
+married someone else. This rash act is doubtless the locura to which
+Larra refers. As a virtuous wife she first dismisses the young man,
+and when in her weakness she recalls him she is forced to treat him
+with indifference and coldness, since she knows that her husband is
+overhearing their conversation. Goaded to desperation, the young woman
+finally enters a convent.]
+
+Si Matilde no se ha de casar más de una vez con Eduardo, si esa vez
+que se ha casado no ha hecho realmente locura alguna, supuesto que
+Eduardo es rico, ¿de qué puede servirle el escarmiento y el ver lo que
+le hubiera sucedido si hubiera hecho lo que no ha hecho?--A ella
+no, nos contestarán,--a los demás que ven la comedia.--Tampoco,
+responderemos,--porque las que crean en novelas al pie de la letra,
+creerán al pie de la letra en la comedia, que es otra nueva novela
+para ellas; en la novela leen que aquél que se presentó incógnito se
+descubre ser luego hijo de algún señorón oculto, y en la comedia se
+descubre ser rico luego el pobre. Se enamorarán pues, sin cuidado,
+seguras de que hacia el fin de su boda se ha de descubrir la riqueza
+del marido, así como creían que debían salir por la ventana por
+decirlo las novelas.
+
+A pesar de estas observaciones, que no podemos menos de hacer, nos
+complacemos en repetir que es mayor la suma de las bellezas que la
+de los defectos de la comedia. El señor de Gorostiza ha adquirido un
+nuevo laurel, y nosotros quisiéramos que la obligación de periodista
+se limitara a alabar: mucho nos daría que hacer aun en este caso esta
+composición dramática.
+
+En cuanto a la representación, podemos asegurar que no nos acordamos
+de haber visto en Madrid nada mejor desempeñado en este género.
+
+MARIANO JOSÉ DE LARRA
+
+("Contigo Pan y Cebolla," _Obras Completas de Fígaro_, t. I, en
+_Colección de los Mejores Autores Españoles_ t. XLVII, París, 1883.)
+
+
+CONTIGO PAN Y CEBOLLA
+
+COMEDIA ORIGINAL EN CUATRO ACTOS
+
+POR
+
+MANUEL EDUARDO DE GOROSTIZA
+
+
+  DON PEDRO DE LARA
+  DOÑA MATILDE, su hija
+  DON EDUARDO DE CONTRERAS
+  BRUNO, criado de DON PEDRO
+  LA MARQUESA
+  EL CASERO
+  LA VECINA
+
+La escena pasa en Madrid; los tres primeros actos en una sala bien
+amueblada, aunque algo a la antigua, de la casa que habita D. Pedro,
+y el último acto en un cuarto muy miserable y en donde habrá sólo una
+mala cama, dos o tres sillas de paja vieja, un brasero de hierro etc.
+
+
+ACTO PRIMERO
+
+
+ESCENA PRIMERA
+
+DOÑA MATILDE Y BRUNO
+
+
+DOÑA MATILDE. ¡Bruno!
+
+BRUNO. Jesús, señorita, ¿ya se levantó usted?
+
+DOÑA MATILDE. Sí, no he podido cerrar los ojos en toda la noche.
+
+BRUNO. Ya se habrá usted estado leyendo hasta las tres o las cuatro,
+según costumbre....
+
+DOÑA MATILDE. No es eso....
+
+BRUNO. Se le habrá arrebatado el calor a la cabeza....
+
+DOÑA MATILDE. Repito que....
+
+BRUNO. Y con los cascos calientes ya no se duerme por más vueltas que
+uno dé en la cama.
+
+DOÑA MATILDE. Pero hombre, que estás ahí charlando sin saber....
+
+BRUNO. ¿Conque no sé lo que me digo? Y en topando cualquiera de
+ustedes con un libraco de historia o sucedido, de ésos que tienen el
+forro colorado, ya no ha de saber dejarlo de la mano hasta apurar si
+D. Fulano, el de los ojos dormidos y pelo crespo, es hijo o no de su
+padre, y si se casa o no se casa con la joven boquirrubia que se muere
+por sus pedazos, y que es cuando menos sobrina del Papamoscas de
+Burgos: todo mentiras.
+
+DOÑA MATILDE. ¿Acabaste?
+
+BRUNO. No señora, porque es muy malo, muy malo leer en la cama....
+
+DOÑA MATILDE. ¡Aprieta! ¿Y no ha venido nadie?
+
+BRUNO. Nadie ... ah, sí, vino el aguador con su esportilla y su....
+
+DOÑA MATILDE. ¿Qué tengo yo que ver con el aguador ni con su
+esportilla?
+
+BRUNO. ¿Esperaba usted acaso otra visita a las siete de la mañana?
+
+DOÑA MATILDE. No.... Sí.... ¡Válgame Dios, qué desgraciada soy!
+(Sentándose)
+
+BRUNO. ¡Desgraciada! ¿Qué dice usted?
+
+DOÑA MATILDE. ¡Oh, muy desgraciada, muy desgraciada!
+
+BRUNO. Pues señor, ¿qué ha sucedido? acaso su papá de usted....
+
+DOÑA MATILDE. No, papá duerme todavía y estará sin duda bien lejos
+de soñar o de pensar que el terrible momento se aproxima en que va a
+decidirse para siempre el porvenir de su hija única y querida ... ¡para
+siempre! Ay, Bruno, si tú pudieras comprender toda la fuerza y la
+extensión de esta palabra _¡para siempre!_
+
+BRUNO. Sin contar que el día menos pensado nos va a dar usted un susto
+con la luz y la cortina.
+
+DOÑA MATILDE. Mira, Bruno, que estás muy pesado.
+
+BRUNO. Siempre las verdades pesan, señorita, amargan y se indigestan.
+
+DOÑA MATILDE. Qué disparate, sino que anoche cabalmente ni siquiera
+hojeé un libro. Buena estaba yo para lecturas.
+
+BRUNO. ¿Estuvo usted mala, eh? Y cómo no quiere estar usted mala con
+ese maldito te que ha dado usted en tomar ahora en lugar del guisado y
+de la ensalada, que todo cristiano toma a semejantes horas. Yo no digo
+por eso que el te no sea saludable ... pero al cabo no pasa de ser
+agua caliente; sólo podía habernos venido de Inglaterra, que como allí
+son herejes, ni tendrán vino, ni bueyes cebones, ni ... ¿Qué está usted
+curioseando por esa ventana?
+
+DOÑA MATILDE. Nada; miraba si ... ¿qué hora será?
+
+BRUNO. Las siete dieron hace rato en San Juan de Dios. ¡Vaya, y qué
+tonto me hace usted! Conque ¿no comprendo lo que quiere decir _para
+siempre_? Para siempre es lo mismo que decir a uno "hasta que te
+mueras".
+
+DOÑA MATILDE. Decía sólo que si tú pudieras discernir bien y avalorar
+las sensaciones de diferente naturaleza que semejante palabra excita,
+fomenta, inflama....
+
+BRUNO. No, en efecto, todo eso para mí es griego.
+
+DOÑA MATILDE. Y pone en combustión, entonces es cuando estarías en
+estado de.... ¿Pero quién anda en la antesala?
+
+BRUNO. Será quizá el gato que habrá olfateado ya su pitanza.
+
+DOÑA MATILDE. Él es, él es.
+
+BRUNO. ¿Quién había de ser? Minino, minino.
+
+
+ESCENA II
+
+DON EDUARDO, DOÑA MATILDE, BRUNO
+
+
+DOÑA MATILDE. ¡Eduardo!
+
+DON EDUARDO. ¡Matilde!
+
+BRUNO. ¡Calle, pues no era el gato!...
+
+DOÑA MATILDE. Creí que no acababa usted de llegar nunca.
+
+DON EDUARDO. Amanece todavía tan tarde ... y a no haber venido sin
+afeitarme....
+
+DOÑA MATILDE. ¡Oh! eso no; hubiera sido imperdonable en un día tan
+solemne, como lo es éste, el que usted se hubiera presentado con
+barbas.
+
+DON EDUARDO. Y sobre todo, hubiera sido poco limpio.
+
+DOÑA MATILDE. Si usted hubiera tenido que viajar en posta tres o
+cuatro días con sus noches ... como a otros les ha sucedido ... para
+poder llegar a tiempo de arrancar a sus queridas del altar en que un
+padre injusto las iba a inmolar ... ya era otra cosa ... y aun cierto
+desorden en la _toilette_, hubiera sido entonces de rigor; pero como
+usted viene sólo de su casa....
+
+DON EDUARDO. Que está a dos pasos de aquí, en la calle de Cantarranas.
+
+DOÑA MATILDE. Por lo mismo ha hecho usted bien en afeitarse y en ...
+mas a lo menos trataremos de recuperar el tiempo perdido. ¿Bruno?
+
+BRUNO. ¿Señorita?
+
+DOÑA MATILDE. Anda, y dile a papá que el Sr. D. Eduardo de Contreras
+desea hablarle de una materia muy importante.
+
+BRUNO. No creo que el amo se haya despertado todavía.
+
+DOÑA MATILDE. ¿Qué sabes tú?
+
+BRUNO. Porque nunca se despierta antes de las nueve, y porque....
+
+DON EDUARDO. Quizá valga más entonces que yo vuelva un poco más tarde.
+
+DOÑA MATILDE. No, no; ¿a qué prolongar nuestra agonía? Anda, Brunito,
+anda, si es que mi felicidad te interesa.
+
+BRUNO. Bueno, iré; pero lo mismo me ha dicho usted en otras ocasiones,
+y luego la tal felicidad se vuelve agua de borrajas.
+
+DOÑA MATILDE. ¡Bruno!
+
+BRUNO. Iré, iré, no hay que atufarse por eso.
+
+
+ESCENA III
+
+DOÑA MATILDE Y DON EDUARDO
+
+
+DOÑA MATILDE. ¡Estos criados antiguos, que nos han visto nacer, se
+toman siempre unas libertades!...
+
+DON EDUARDO. En justo pago de las cometas que nos han hecho, o de
+las muñecas que nos han arrullado. Y éste me parece además muy buen
+sujeto.
+
+DOÑA MATILDE. ¡Oh, muy bueno!... ¡Si viera usted la ley que nos
+tiene ... y lo que le queremos todos! ¡Pobre Bruno! Cuando estuvo el
+invierno pasado tan malo, ni un instante me separé yo de la cabecera
+de su cama.
+
+DON EDUARDO. Con qué gusto oigo a usted eso, ¡Matilde mía!
+
+DOÑA MATILDE. Nada tiene de particular; sin embargo, una cosa es que
+sus vejeces me desesperen tal cual vez, y otra cosa es que.... ¡Ay
+Dios, y qué temblor me ha dado!
+
+DON EDUARDO. ¿Está usted sin almorzar?
+
+DOÑA MATILDE. Por supuesto.
+
+DON EDUARDO. Entonces es algún frío que ha cogido el estómago, y....
+
+DOÑA MATILDE. Entonces también temblaría usted, porque es bien seguro
+que tampoco habrá usted tomado nada.
+
+DON EDUARDO. Sí, por cierto; he tomado, según mi costumbre, una jícara
+de chocolate, con sus correspondientes bollos y pan de Mallorca.
+
+DOÑA MATILDE. ¡Chocolate y pan de Mallorca en un día como éste!
+
+DON EDUARDO. ¿Es requisito acaso el pedir la novia en ayunas?
+(Sonriéndose)
+
+DOÑA MATILDE. No; ciertamente que no ... con todo hay ocasiones en que
+uno debe estar tan absorbido, que necesariamente olvida cosas tan
+vulgares como el almorzar y el comer. A lo menos yo hablo por mí, y
+puedo asegurar a usted que ni siquiera ha pasado esta mañana por
+mi cabeza el que había cacao en Caracas. ¡Ay, Eduardo, está usted
+demasiado tranquilo!
+
+DON EDUARDO. No veo el por qué había yo de estar fuera de mí cuando
+me lisonjeo con la esperanza de que su padre de usted, que es íntimo
+amigo de mi tío, me concederá esa linda mano, en cuya posesión se
+cifra toda mi felicidad.
+
+DOÑA MATILDE. ¿Y si se la niega a usted?
+
+DON EDUARDO. Si usted hubiera permitido alguna vez que la informara de
+mi posición, de mi familia, como en varias ocasiones lo he intentado
+en balde, comprendería usted ahora si tengo o no motivo para no temer
+el éxito de mi negociación; pero nunca me ha dejado usted hablar en
+esta materia, no sé por qué, y así....
+
+DOÑA MATILDE. Porque ni entonces quise, ni ahora quiero oír hablar
+de intereses ni parentescos. Eso queda bueno cuando se trata de esos
+monstruosos enlaces que se ven por ahí, en donde todo se ajusta como
+libra de peras, y en donde se quiere averiguar antes si habrá luego
+que comer, o si habrá con que educar los hijos que vendrán, o que
+quizá no vendrán. ¿Y yo había de pensar en eso? No, Eduardo, no; yo le
+quiero a usted, más que a mi vida, pero sólo por usted, créame usted,
+por usted solo.
+
+DON EDUARDO. ¡Matilde mía!
+
+
+ESCENA IV
+
+BRUNO Y DICHOS
+
+
+BRUNO. ¡Vaya que estaba su papá de usted como un tronco de dormido!
+
+DOÑA MATILDE. ¿Y qué ha respondido?
+
+BRUNO. Ni oste ni moste: oyó mi relación, se sonrió y echó mano a los
+calzoncillos.
+
+DON EDUARDO. ¿Se sonrió?
+
+BRUNO. ¡Pues! como quien dice "ya sé lo que es".
+
+DOÑA MATILDE. Dios sabe además lo que tú le dirías.
+
+BRUNO. Ésta es otra que bien baila: le dije sólo que usted me había
+mandado le anunciase que el Sr. D. Eduardo....
+
+DOÑA MATILDE. ¿Ves como al fin habías de hacer alguna de las tuyas?
+
+BRUNO. ¿Conque usted no me mandó?
+
+DOÑA MATILDE. Sí; pero no había necesidad de decir que era yo la que
+te enviaba, ni de añadir, como sin duda habrás añadido, que había
+hablado antes o me quedaba hablando con este caballero.
+
+BRUNO. Ya se ve, que le dije también entrambas cosas; ¿y qué mal hubo
+en ello?
+
+DOÑA MATILDE. Que ya papá no se sorprenderá, y que la escena pierde
+por lo mismo una gran parte de su efecto.
+
+DON EDUARDO. En cuanto a mí, le protesto a usted, Matilde, que me
+alegro mucho de que Bruno haya en cierto modo preparado a su papá de
+usted para lo que voy a decirle; porque ahora tendré menos cortedad, y
+podré desde luego entrar en materia.
+
+DOÑA MATILDE. Bueno.... Si a usted le parece así, mejor....
+
+BRUNO. Ya siento al señor en la escalera.
+
+DOÑA MATILDE. ¡Ay Dios.... qué susto!... ¡No sé lo que por mí pasa!...
+¿Me he puesto muy pálida? Me voy, me voy a mi cuarto ... a suspirar ...
+a llorar ... a ponerme un vestido blanco.... Ven tú también Bruno ... y
+el pelo a la Malibrán.... ¡Oh, y qué crisis!... Allí esperaré a que mi
+padre me llame.... ¡La crisis de mi vida! ... porque siempre me llama
+en tales casos ... ánimo Eduardo ... valor ... resignación ... si habrá
+planchado anoche la Juana mi collereta a la María Estuardo ... sobre
+todo confianza en mi eterno cariño. (Vase, llevándose tras sí a Bruno)
+
+BRUNO. Señorita, que me desgarra usted la solapa.
+
+
+ESCENA V
+
+DON EDUARDO Y LUEGO DON PEDRO
+
+
+DON EDUARDO. ¡Muchacha encantadora! Es lástima por cierto que haya
+leído tanta novela, porque su corazón....
+
+DON PEDRO. Buenos días, Sr. D. Eduardo, muy buenos días ¡y qué
+temprano tenemos el gusto de ver a usted en esta su casa!
+
+DON EDUARDO. En efecto, Sr. D. Pedro, la hora es bastante inoportuna,
+y bien sabe Dios que no sé cómo disculparme con usted.
+
+DON PEDRO. ¿De qué, amigo mío?
+
+DON EDUARDO. Por una visita realmente demasiado matutina e inesperada.
+
+DON PEDRO. ¿Y quién le dice a usted que yo no esperaba esta misma
+visita?
+
+DON EDUARDO. ¿Que me esperaba, dice usted?
+
+DON PEDRO. Hoy precisamente, no; pero sí en una de estas mañanas,
+porque ya había yo notado ciertos síntomas ... ya se ve, a ustedes los
+enamorados se les figura que un padre cuando juega en un rincón al
+tresillo, o que una madre cuando está más enfrascada en la letanía de
+las imperfecciones de su cocinera, no piensa en otra cosa sino en el
+codillo que le dieron, o en las almondiguillas que se quemaron, y
+de consiguiente que no notan las ojeadas de ustedes, ni oyen los
+suspiros, ni se enteran de las peloteras ... pues, no señor, están
+ustedes muy equivocados; ni el padre ni la madre pierden ripio de
+cuanto va pasando....
+
+DON EDUARDO. Nada más natural, ciertamente.
+
+DON PEDRO. Y llevan también libro de entradas y salidas como si
+hubieran sido toda su vida horteras.
+
+DON EDUARDO. Así, Sr. D. Pedro, usted habrá ya observado....
+
+DON PEDRO. Sí, señor, ya sé que usted está muy prendado de mi Matilde.
+
+DON EDUARDO. Entonces advinará usted también que el objeto de mi
+visita es....
+
+DON PEDRO. El de pedirme su mano. ¿No es ése?
+
+DON EDUARDO. Ése mismo; y si fuera yo tan dichoso que reuniera a los
+ojos de usted aquellas circunstancias....
+
+DON PEDRO. Muchas reune usted, por vida mía, Sr. D. Eduardo:
+nacimiento ilustre, mayorazgo crecido, educación, talento,
+moralidad....
+
+DON EDUARDO. Usted me confunde, Sr. D. Pedro.
+
+DON PEDRO. Y el ser sobre todo sobrino y heredero de mi mejor
+amigo ... de ahí que yerno más a mi gusto sería muy difícil que se me
+presentase.
+
+DON EDUARDO. ¿Entonces puedo esperar?
+
+DON PEDRO. Pero mi hija es la que se casa, yo no; ella es pues, la que
+ha de juzgar si usted....
+
+DON EDUARDO. ¡Oh, Sr. D. Pedro, y qué feliz soy! La amable, la hermosa
+Matilde, me corresponde, no lo dude usted, y está en el secreto, y....
+
+DON PEDRO. Tanto mejor, amigo mío, y ahora vamos a ver, porque, con el
+permiso de usted, la haré llamar; en presencia de usted consultaremos
+su gusto y su voluntad.
+
+DON EDUARDO. No deseo otra cosa, y cuanto más pronto....
+
+DON PEDRO. Ahora mismo.... ¿Bruno? Que ella venga y se explique, y si
+dice que sí, entonces.... ¿Bruno?
+
+BRUNO. Mande usted. (Desde adentro)
+
+DON PEDRO. Porque si dice que no ... ya ve usted ... un buen padre no
+debe nunca violentar la inclinación de sus hijos.
+
+DON EDUARDO. Repito a usted que ella misma....
+
+
+ESCENA VI
+
+BRUNO Y DICHOS
+
+
+BRUNO. ¿Llama usted?
+
+DON PEDRO. Sí, ¿dónde está la niña?
+
+BRUNO. En su cuarto ... representando, a lo que parece, algún paso de
+comedia.
+
+DON PEDRO. ¿Qué entiendes tú de eso? ... dila que venga.
+
+BRUNO. O de tragedia, ¿qué me sé yo? ... ello es que se la oye hablar
+alto ... que está sola ... y que a no haber perdido la chabeta....
+(Yéndose)
+
+
+ESCENA VII
+
+DON PEDRO Y DON EDUARDO
+
+
+DON PEDRO. Pues, y como le iba a usted diciendo, Sr. D. Eduardo, yo
+soy demasiado buen padre para pretender ... luego, ya voy a viejo,
+estoy viudo, no tengo más que esta hija ... a la que quiero como a las
+niñas de mis ojos ... no soy además amigo de lloros ni tristezas dentro
+de casa, y en suma....
+
+DON EDUARDO. Si tiene usted en todo mil razones.
+
+DON PEDRO. Y en suma, ella hará lo que quiera, como lo hace siempre;
+aunque eso no quita el que la chica sea muy dócil, y muy bien criada,
+y muy temerosa de Dios....
+
+DON EDUARDO. ¡Y es tan bonita!
+
+DON PEDRO. Y el que es muy buena hija, y será muy buena mujer propia.
+
+DON EDUARDO. Oh, excelente, excelente.
+
+DON PEDRO. Y si llega a ser madre....
+
+DON EDUARDO. Por supuesto, ¿no quiere usted que llegue?
+
+DON PEDRO. Tendrá hijos a su vez, y será también muy buena madre, no
+lo dude usted, Sr. D. Eduardo....
+
+DON EDUARDO. ¡Qué he de dudar yo eso Sr. D. Pedro! ¡Poco enamorado
+estoy a fe mía para dudar ahora de nada!
+
+DON PEDRO. Es que no crea usted que es el primero a quien yo le digo
+todo esto, no señor, y otro tanto, sin quitar ni poner, le dije a mi
+sobrino Tiburcio hará ahora unos cuatro meses, cuando se quiso casar
+con su prima.
+
+DON EDUARDO. Que fué sin duda la que se opuso al enlace, ¿eh?
+
+DON PEDRO. ¡Quién había de ser! Y por más señas, que aunque no estuvo
+el tal enlace tan adelantado como el que seis meses antes tuvimos
+entre manos, lo estuvo sin embargo lo bastante para dar después mucho
+que hablar a la gente ociosa.
+
+DON EDUARDO. ¿Y dice usted que hubo otro seis meses antes que lo
+estuvo más?
+
+DON PEDRO. Cien veces más, con el vizconde del Relámpago, un caballero
+andaluz, maestrante de la de Ronda ... con no sé cuántos millares de
+pinares, pegujares y lagares ... hombre muy bien nacido, y que yo....
+
+
+ESCENA VIII
+
+DOÑA MATILDE Y DICHOS
+
+
+DON PEDRO. Ven, hija mía, y nos dirás si....
+
+DOÑA MATILDE. ¡Ah! Padre mío, y qué criminal debo de aparecer a los
+ojos de usted; ya sé que debía consultarle antes de comprometerme; ya
+sé que debía después....
+
+DON PEDRO. Cierto, muy cierto, mas ahora....
+
+DOÑA MATILDE. Haber seguido humilde los consejos de su experiencia,
+de su cariño; ¡pero ay! que no pude, porque arrastrada por una pasión
+irresistible....
+
+DON PEDRO. Si no es eso....
+
+DOÑA MATILDE. Que como una erupción volcánica....
+
+DON EDUARDO. Pero Matilde, si su papá de usted....
+
+DOÑA MATILDE. Calle usted; no me distraiga ... se apoderó de mi pobre
+corazón, que estaba indefenso ... que no había hasta entonces amado....
+
+DON PEDRO. Si me dejarás meter baza....
+
+DOÑA MATILDE. Con todo, padre mío, no crea usted que trato de
+rebelarme contra su autoridad, y si el hombre de mi elección no
+mereciese, como me temo, el sufragio de usted....
+
+DON EDUARDO. Dígole a usted que....
+
+DOÑA MATILDE. Entonces ... no seré nunca de otro ... eso no ... pero
+gemiré en silencio sin ser suya, o iré a sepultarme en las lobregueces
+del claustro.
+
+DON PEDRO. ¡Tú quedarte soltera! ¡Jesús qué desatino! Primero te
+casaría con un bajá de tres colas, cuanto más que el Sr. D. Eduardo es
+muy buen partido por todos títulos....
+
+DOÑA MATILDE. ¿Qué dice usted?
+
+DON PEDRO. De familia muy noble....
+
+DOÑA MATILDE. Eso para mí es tan indiferente como el que fuera
+inclusero.
+
+DON EDUARDO (aparte). Para mí no.
+
+DON PEDRO. Y que será muy rico cuando herede a su tío....
+
+DOÑA MATILDE (aparte). ¡Será rico! ¡Qué lástima!
+
+DON PEDRO. De quien supongo que heredará también el título que aquél
+tiene de alguacil mayor de....
+
+DOÑA MATILDE (aparte). ¡Alguacil mayor! ¡elegante título por vida mía!
+
+DON EDUARDO. ¡Sí señor, si es de mayorazgo!
+
+DOÑA MATILDE (aparte). ¡También mayorazgo!
+
+DON PEDRO. Así, hija mía, puedes tranquilizarte, porque elección más
+juiciosa, más a gusto mío, más a gusto de todos....
+
+DOÑA MATILDE (aparte). ¡Lo que engañan las apariencias!
+
+DON PEDRO. Vamos, era imposible hacerla mejor ... y ya verás lo que se
+alegra tu tía Sinforosa, y las primas Velasco, y tu padrino el señor
+Deán, y....
+
+DOÑA MATILDE (aparte). ¡Y todo el género humano; y sólo porque es
+rico! ¡Gente sórdida!
+
+DON EDUARDO. ¡Ah! ¡Sr. D. Pedro, tanta bondad! Cómo podré yo pagar
+nunca....
+
+DON PEDRO. Haciéndola feliz, Sr. D. Eduardo.
+
+DON EDUARDO. ¡Lo será! ¿Cómo quiere usted que no lo sea? Adorada
+por su marido, mimada por sus parientes, respetada por sus amigos,
+pudiendo disfrutar de todo, sobrándole todo....
+
+DOÑA MATILDE (aparte). ¡Y eso se llama ser feliz!
+
+DON EDUARDO. ¿Pero qué tiene usted, Matilde mía? ¿Por qué se ha
+quedado usted tan callada?
+
+DON PEDRO. La misma alegría que la habrá sobrecogido.... ¿No es eso,
+hija?
+
+DOÑA MATILDE. Pues ... en efecto ... y también ciertas reflexiones ... ya
+ve usted, la cosa es muy seria ... se trata de un lazo indisoluble, de
+la dicha o de la desgracia de toda la vida....
+
+DON PEDRO. Como ya obtuviste mi consentimiento, que era lo que te
+tenía con cuidado....
+
+DON EDUARDO. Y queriéndonos tanto como nos queremos....
+
+DOÑA MATILDE. No digo que no ... y yo agradezco a usted infinito el
+que me quiera ... ciertamente es una preferencia que me debe lisonjear
+mucho, y que ... sin embargo, esto de casarse no es jugar a la gallina
+ciega, y no es extraño que yo me arredre y titubee, y....
+
+DON EDUARDO. Bien sabe Dios, Matilde, que no entiendo....
+
+DON PEDRO. Vaya, vaya, esos escrúpulos se quitan con señalar un día de
+esta semana para que se tomen los dichos.
+
+DOÑA MATILDE. Perdone usted, padre mío; yo no puedo en la agitación en
+que estoy ni decidir ni consentir en nada ... quédese la cosa así ... yo
+lo pensaré ... yo me consultaré a mí misma ... no digo por esto que este
+caballero deba perder toda esperanza ... no tal ... aunque por otra
+parte ... en fin, dentro de tres o cuatro días saldremos de una vez de
+este estado de incertidumbre ... entre tanto permítanme ustedes que me
+retire ... y ... beso a usted la mano.... (Aparte) ¡Mujer de un alguacil
+mayor! ¡No faltaba más!
+
+
+ESCENA IX
+
+DON PEDRO Y DON EDUARDO
+
+
+DON EDUARDO. ¡No sé lo que pasa por mí!
+
+DON PEDRO. A la verdad que yo no me esperaba tampoco ... la niña, como
+le dije a usted, es muy dócil, eso es otra cosa, y muy bien criada,
+pero....
+
+DON EDUARDO. Pero señor, por la Virgen Santísima, si ella apenas hace
+un cuarto de hora....
+
+DON PEDRO. Se lo parecería a usted quizá, Sr. D. Eduardo, porque como
+ella es tan afable ... quién sabe también si usted interpretaría....
+
+DON EDUARDO. Eso es lo mismo que decirme que soy un fatuo,
+presuntuoso, que....
+
+DON PEDRO. No señor, cómo había yo de decirle a usted eso en sus
+barbas, sino que a veces los amantes ... vea usted, ni mi sobrino
+Tiburcio, ni el marqués del Relámpago eran fatuos ni presuntuosos, y
+también se imaginaron que Matilde....
+
+DON EDUARDO. Ya, pero ellos no oirían, como yo oí de sus propios
+labios ... vaya ... lo mismo me he quedado que si me hubiera caído un
+rayo.
+
+DON PEDRO. Así se quedó cabalmente el marqués del Relámpago cuando....
+
+DON EDUARDO. Y le juro a usted que si no la quisiera tan
+sinceramente....
+
+DON PEDRO. Además, no está todo perdido ... ella no ha dicho todavía
+que no, Sr. D. Eduardo.
+
+DON EDUARDO. Pero tampoco ha dicho que sí, Sr. D. Pedro.
+
+DON PEDRO. Es verdad, no lo ha dicho; mas quizá lo diga ... tenga usted
+paciencia ... tres o cuatro días se pasan en un abrir y cerrar de
+ojos ... y ... conque, Sr. D. Eduardo, a la disposición de usted ...
+bueno será que yo vaya a ver lo que hace la chica; y no dude usted que
+si puedo influir....
+
+DON EDUARDO. Quede usted con Dios, Sr. D. Pedro, y mil gracias de
+todos modos.
+
+DON PEDRO. No hay de qué, amigo mío, no hay de qué.... (Vase)
+
+DON EDUARDO. Ya sé yo que no hay mucho de qué.... ¡Caramba y qué
+chasco! Lo peor es que conozco que estoy enamorado de veras. ¡Ah,
+Matilde!... y quién pudiera presumir ... en fin ¡paciencia!... y
+esperaré a estar más de sangre fría para determinar lo que me queda
+que hacer.... ¡Ah, Matilde, Matilde!
+
+
+ACTO SEGUNDO
+
+
+ESCENA PRIMERA
+
+DON PEDRO Y BRUNO
+
+
+BRUNO. Aquí tiene usted una carta del Sr. D. Eduardo.
+
+DON PEDRO. Bueno. Déjala aquí.
+
+BRUNO. ¡Qué! ¿No la lee usted?
+
+DON PEDRO. ¿Para qué? Si ya sé, poco más o menos, lo que dirá ... que
+las ... lamentaciones ... como si uno pudiera remediar el que Matilde no
+le haya querido al cabo.
+
+BRUNO. Y vea usted, cualquiera hubiera dicho al principio que....
+
+DON PEDRO. También me lo creí yo ... y sólo cuando ella me hizo
+escribirle ayer aquella carta que tú le llevaste, fué cuando acabé de
+desengañarme.
+
+BRUNO. Valiente trabucazo fué la tal carta.
+
+DON PEDRO. ¿Qué había de hacer?... Decirle la verdad ... que mi hija
+no se quería ya casar con él, y que yo lo sentía mucho ... porque en
+efecto me pesa de ello por mil y quinientas razones ... ya ves tú ...
+¿qué dirá su tío?... y luego ... no se encuentra así como quiera un
+partido tan ventajoso.
+
+BRUNO. Pero señor, ¡qué _pero_ le puede poner la señorita a D.
+Eduardo! Él es lindo mozo ... muy afable....
+
+DON PEDRO. Y muy callado.
+
+BRUNO. Y siempre que entraba o salía me apretaba la mano.
+
+DON PEDRO. Y nunca me hablaba de dote.
+
+BRUNO. Como que es un caballero.
+
+DON PEDRO. ¡Oh! Todo un caballero.
+
+BRUNO. ¡Si las muchachas hoy día no saben lo que quieren!
+
+DON PEDRO. Ni quieren tampoco.
+
+BRUNO. No, lo que es querer ... con perdón de usted ... lo mismo que las
+de antaño ... sino que se las figura allá yo no sé qué cosas del otro
+jueves, y ... y con nada se satisfacen.
+
+DON PEDRO. Quise indicar que no tienen al parecer tanta gana de
+casarse como tenían las de nuestros tiempos.
+
+BRUNO. Yo diré a usted, las nuestras pasaban sus días y sus noches
+haciendo calceta ... lo que no pide atención ... y podían pensar entre
+tanto en el novio y en la casa ... y ... pero las de ahora, como todas
+leen la Gaceta y saben donde está Pekín, ¿qué sucede? que se les va el
+tiempo en averiguar lo que no les importa ... y ni cuidan de casarse,
+ni saben cómo se espuma el puchero.
+
+DON PEDRO. Tienes mucha razón, Bruno, mucha ... aquéllas eran otras
+mujeres.
+
+BRUNO. Y éstas no son aquéllas, Sr. D. Pedro.
+
+DON PEDRO. También es verdad ... en fin ... ¿cómo ha de ser? La cosa ya
+no tiene remedio ... así....
+
+BRUNO. Así, yo me vuelvo a mi antesala ... a darle sus garbanzos a
+la cotorrita ... que si me gusta por algo es porque de todas las del
+barrio es la única que no picotea el gabacho.
+
+
+ESCENA II
+
+
+DON PEDRO (se sienta junto a la mesa, tomando la carta). ¡Pobre D.
+Eduardo!... ¿Quizá pida respuesta? ¡Qué disparate! Lo que pedirá
+será lo que yo no le puedo otorgar ... que hable a Matilde ... que me
+empeñe ... que la obligue ... cosas imposibles ... ¿dónde habré puesto
+las antiparras? cosas que no pueden hacerse sin ruidos ... ya las
+encontré ... veamos sin embargo. (Lee) "Sr. D. Pedro de Lara, &c. &c.
+Nada de lo que usted me escribe me ha sorprendido, y yo ya estaba
+preparado para semejante fallo...." Más vale así, porque unas calabazas
+ex abrupto son difíciles de digerir ... "lo que sí me ha llenado de
+satisfacción y de gratitud hacia usted son las finas expresiones con
+que se sirve manifestarme lo que siente este desenlace...." Como que
+le decía que hubiera dado un ojo de la cara por poder anunciarle un
+resultado favorable ... no podía estar más expresivo ... "y siendo
+aquéllas, en mi concepto, sinceras, me animan por lo mismo a solicitar
+de usted un favor...." Ya pareció el peine ... "un favor de que va a
+depender la felicidad de toda mi vida...." ¡Si conoceré yo a mi gente!
+"la felicidad, quizá de su propia hija de usted, y es que cuando me
+presente otra vez en su casa me reciba usted lo peor...." ¿Qué ha
+puesto aquí este hombre?... "lo peor que le sea posible" ¡Peor dice, y
+bien claro! "lo peor que le sea posible, esto es, que me trate desde
+hoy con el mayor despego, que murmure de mí en mi ausencia, que se
+burle sin rebozo de mi familia y circunstancias, que me calumnie, si
+fuese necesario, y finalmente...." Vaya, está visto, hay que atarlo ...
+"y finalmente si Matilde algún día cediere a mis votos, y consintiere
+en recompensar con el don de su mano tanta constancia y cariño, que
+usted nos niegue entonces y después su licencia, por más que ella lo
+solicite, y por más que usted mismo lo apetezca, hasta tanto que yo
+se la pida a usted en papel sellado." ¡Repito que se le fué la
+chabeta!... "Si usted accede, pues, a mi súplica, y me promete, bajo
+su palabra de honor, hacer bien su papel, y no confiar el secreto a
+nadie, en este caso nada me quedará que desear, y estoy seguro que muy
+pronto se podrá firmar su obediente hijo el que ahora sólo se dice de
+usted atento y seguro servidor: Eduardo de Contreras." Si comprendo
+una jota de toda esta geringonza.... "Posdata." ¿Todavía le quedaron
+más disparates en el buche?... "Ya le explicaré a usted mi proyecto
+cuando pueda hacerlo a solas y sin dar que sospechar; entre tanto me
+urge el saber si usted me concede lo que tanto anhelo, y para ello iré
+dentro de una hora a su casa, y le haré entrar recado por Bruno de que
+deseo hablarle; usted entonces hágame decir secamente por el mismo que
+no me quiere recibir, y yo entonces interpretaré esta repulsa a mi
+favor. Por Dios Sr. D. Pedro, que no logre yo el ver a usted...." ¡Ah,
+conque es un proyecto!... que luego me explicará ... y a fe que buena
+falta me hace ... y yo entre tanto sólo tengo que hacer ... poco ... muy
+poco es lo que tengo que hacer; no recibirle, encerrarme en mi cuarto
+para mayor seguridad ... la cosa no es difícil ... pero, y si tropiezo
+con él antes de que pueda ponerme al corriente ... entonces ... no
+le miraré a la cara, ahuecaré la voz ... y le volveré pronto las
+espaldas ... tampoco esto es muy difícil ... con todo no sé yo si
+podré ... y por otra parte me parece tan extravagante....
+
+
+ESCENA III
+
+BRUNO Y DON PEDRO
+
+
+BRUNO. El Sr. D. Eduardo desea con mucho ahinco hablar con usted.
+
+DON PEDRO (aparte). ¡Jesús! Tan pronto....
+
+BRUNO. Dice que es materia muy grave....
+
+DON PEDRO (aparte). ¡Qué compromiso!
+
+BRUNO. Y que despachará en un santiamén.
+
+DON PEDRO (aparte). ¿Pero cómo puedo yo negarle un favor tan barato?
+
+BRUNO. Yo le he asegurado que usted tendría mucho gusto en recibirle.
+
+DON PEDRO. Has hecho muy mal.
+
+BRUNO. ¡Como usted le estima tanto!
+
+DON PEDRO. ¿Quién te ha dicho eso?
+
+BRUNO. Usted mismo no hace un credo; por más señas que....
+
+DON PEDRO. Qué señas ni qué berenjenas ... siempre has de meterte en
+camisa de once varas.
+
+BRUNO. Ya las quisiera yo de tres y media.
+
+DON PEDRO (aparte). ¿Pero yo, qué arriesgo en darle gusto?
+
+BRUNO. ¿Conque, por fin, qué le digo?
+
+DON PEDRO. Dile que ... que no le quiero recibir ... anda.
+
+BRUNO. Bueno ... le diré que había usted salido por la puerta falsa, y
+que....
+
+DON PEDRO. No, no; que estoy en casa, y que no le quiero recibir.
+
+BRUNO. Ya estoy, que siente usted mucho no poderle recibir, porque....
+
+DON PEDRO. ¡Habrá mentecato igual con sus malditos cumplidos!...
+No que no puedo, sino que no quiero recibirle, que no quiero; sin
+preámbulos ni sentimientos, ni ... ¿lo entiendes ahora?
+
+BRUNO. Pero eso no se le dice a nadie en sus bigotes.
+
+DON PEDRO. Pues tú se lo vas a decir en los suyos ... ¡y cuidado que no
+se lo digas!... que no quiero recibirle, ni más ni menos.... (Aparte)
+No dudará ahora de mi amistad. (Vase)
+
+
+ESCENA IV
+
+BRUNO, Y LUEGO DON EDUARDO
+
+
+BRUNO. ¡Qué mosca le habrá picado! Jamás le ví tan fosco ... la carta
+traería sin duda alguna pimienta y ... pero esto no quita que yo trate
+de dorar la píldora ... no sea también que se enfade y que yo vaya a
+pagar lo que no debo.
+
+DON EDUARDO. ¡Lo que tarda este Bruno! (A la puerta) Ya me falta
+paciencia ... aquí está solo ... ¡Dios mío, si no se lo habrá dicho
+todavía!
+
+BRUNO. Nadie puede responder de un primer pronto, y....
+
+DON EDUARDO. Bruno, le dijo ya usted a su amo.... (Entrando)
+
+BRUNO. Perdone usted, señor don Eduardo, si no he vuelto tan luego
+como ... me entretuve aquí en....
+
+DON EDUARDO. No importa, no importa; y ¿qué ha contestado su amo de
+usted?
+
+BRUNO. Ya ve usted ... el amo puede salir por la puerta trasera sin que
+nosotros lo sintamos....
+
+DON EDUARDO. ¡Había salido!... Y bien; esperaré a que vuelva; ¡cómo ha
+de ser!... (Se sienta)
+
+BRUNO. No digo que haya salido, sino que....
+
+DON EDUARDO. ¿No me quiere recibir? Acabe usted. (Se levanta)
+
+BRUNO. A veces, con la mejor voluntad del mundo, hay momentos tan
+ocupados en que no se puede....
+
+DON EDUARDO. En que no se quiere recibir, ¿querrá usted decir?
+
+BRUNO. En que no se puede....
+
+DON EDUARDO. En que no se quiere ... ¿a qué andar con rodeos?
+
+BRUNO (aparte). ¡También es empeño el de los dos!
+
+DON EDUARDO. Vaya ... ¿no es cierto que D. Pedro no quiere recibirme?
+
+BRUNO (aparte). Estoy por cantar de plano.
+
+DON EDUARDO. Ea, no tenga usted empacho ... ¿no es cierto?...
+
+BRUNO. Cierto ... ya que usted exige absolutamente....
+
+DON EDUARDO. ¡Oh! ¡Qué fortuna!
+
+BRUNO. ¡Fortuna!
+
+DON EDUARDO. La de no morirme aquí de repente al oír semejante
+desengaño.
+
+BRUNO (aparte). ¡Qué lástima me da!
+
+DON EDUARDO. ¿Y D. Pedro, por supuesto se serviría de palabras agrias
+y malsonantes?
+
+BRUNO. Oh no señor; el amo es incapaz de....
+
+DON EDUARDO. Pero al menos se expresaría ... así ... con cierta
+sequedad ... ¿eh?
+
+BRUNO. Oiga usted, no necesita uno humedecerse mucho la boca para
+decir "no quiero".
+
+DON EDUARDO. ¡Y bien, tanto mejor!
+
+BRUNO. Si es a gusto de usted....
+
+DON EDUARDO. Porque es bien claro que lo que más importa a un
+desgraciado es llegar a serlo tanto, que ya no pueda serlo más.
+
+BRUNO. ¿Eso llama usted claro?
+
+DON EDUARDO. ¿No ve usted que así se pierde toda esperanza y toma uno
+al cabo su partido?
+
+BRUNO. Cuando hay partido que tomar, no digo que no.
+
+DON EDUARDO. Ahora quisiera yo que usted, mi querido Bruno....
+
+BRUNO (aparte). ¡Su querido Bruno!...
+
+DON EDUARDO. Me concediera una gracia que le voy a pedir y que será
+probablemente la última que le pediré en mi vida.
+
+BRUNO. Si está en mi arbitrio....
+
+DON EDUARDO. Lo está, y consiste sólo en que usted me proporcione una
+conferencia de dos minutos con su señorita.
+
+BRUNO. Pero ¿cómo quiere usted que yo...?
+
+DON EDUARDO. Aquí mismo, en presencia de usted ... dos minutos tan
+sólo.
+
+BRUNO. ¡Así podré oír!
+
+DON EDUARDO. Cuanto hablemos ... que yo no soy partidario de misterios
+ni de cosas irregulares ... lo único que solicito es ver todavía otra
+vez a doña Matilde ... y probarla con sólo tres palabras que yo no era
+enteramente indigno del tesoro que codiciaba.
+
+BRUNO. ¿Quién puede dudarlo?... y muy digno que era usted. Con todo,
+¿yo, qué puedo hacer? decírselo cuando más a la señorita ... pero si
+ella sale con lo que su padre ... entonces....
+
+DON EDUARDO. Entonces, tendremos los dos paciencia ... y no la volveré a
+importunar más.
+
+BRUNO. Siendo así, voy, pues, y Dios haga que no la coja de mal
+talante. (Vase)
+
+
+ESCENA V
+
+DON EDUARDO Y LUEGO BRUNO
+
+
+DON EDUARDO. Qué miedo tenía que D. Pedro no quisiera prestarse a mi
+proyecto sin saber antes ... y también que el buen Bruno ... pero hasta
+aquí todo va viento en popa; ahora sólo falta el que Matilde venga,
+y me dé ocasión para entablar la comedia ... porque si no consigo
+hablarla, entonces no sé cómo podré....
+
+BRUNO. Pues ... lo mismo que su padre. (Entrando)
+
+DON EDUARDO. ¡Malo!
+
+BRUNO. Me echó con cajas destempladas, y....
+
+DON EDUARDO. ¿Tampoco quiere verme?
+
+BRUNO. Tampoco.
+
+DON EDUARDO (aparte). Voto va ... ¿Qué haré? si tuviera papel y
+tintero ... quizá cuatro renglones ... bien torcidos, como si me
+temblara el pulso ... y cuatro expresiones bien campanudas ... bien
+misteriosas....
+
+BRUNO. Dijo que nada tenía que añadir ni quitar a lo que la carta
+rezaba....
+
+DON EDUARDO. Allí creo hay uno y otro. (Se dirige a la mesa)
+
+BRUNO. Y que de consiguiente era inútil que ustedes se hablasen.
+
+DON EDUARDO. En efecto, aquí hay papel.... (Sentándose y escribiendo)
+y también pluma ... escribamos. "Matilde ..." sin adjetivo; cuando uno
+está muy agitado deben dejarse los adjetivos en el tintero.
+
+BRUNO. ¿Qué escribirá?
+
+DON EDUARDO. "¡¡Matilde!!" Dos signos de admiración ... "no tema usted
+que la importune, no...." Este segundo "no" vale un Perú. "Ya sé que
+las condenas de amor no admiten apelación, y que no es culpa de usted
+el que yo no haya sabido agradarla;" Punto y coma ... "pero al menos
+que la vea yo a usted hoy, que la vea a usted siquiera otra vez, antes
+que nos separe para siempre el océano...." ¡No vaya a parecerla todavía
+poco el océano!... "el océano o la eternidad...." Ahora sí que hay
+tierra de por medio ... nada de firma ... ni de sobre.... Bruno, entre
+usted este papel a doña Matilde.
+
+BRUNO. Si....
+
+DON EDUARDO. Éntrele usted por la Virgen.
+
+BRUNO. Cuando....
+
+DON EDUARDO. Mire usted que me va la vida.
+
+BRUNO. ¡Santa Margarita! (Entra precipitadamente)
+
+
+ESCENA VI
+
+DON EDUARDO Y LUEGO DOÑA MATILDE Y BRUNO
+
+
+DON EDUARDO. Si esto no la ablanda, digo que es de piedra
+berroqueña.... ¡Pobre de mí, y a lo que me veo obligado para obtener a
+Matilde!... ¡a engañarla, a fingir un carácter tan opuesto al mío!...
+¡Oh! si yo no estuviera tan convencido como lo estoy de que Matilde me
+prefiere a pesar de pesares y que me deberá su futuro bienestar, jamás
+apelaría ... ¡pero ella es!... Pongámonos en guardia. (Se sienta como
+absorbido en una profunda meditación)
+
+BRUNO. Allí le tiene usted hecho una estatua. (A doña Matilde)
+
+DOÑA MATILDE. No nos ha sentido ... y en efecto, le encuentro muy
+desmejorado ... retírate un poco ... no, no tan lejos.
+
+BRUNO. ¿Si se habrá dormido?
+
+DOÑA MATILDE. He consentido, caballero.... (Aparte) No me oye.
+
+DON EDUARDO. ¡Ay!
+
+DOÑA MATILDE. ¿Suspira? (A Bruno)
+
+BRUNO. Ya lo creo ... y de mi alma. (A doña Matilde)
+
+DOÑA MATILDE. He consentido, Sr. D. Eduardo.... (Acercándose)
+
+DON EDUARDO. ¿Quién?... ¡Ah! Perdone usted, Matilde, si absorbido en
+mis tristes meditaciones ... perdone usted ... la desgracia hace injusto
+al mísero a quien agobia ... y yo ya me había rendido al desaliento,
+persuadido a que usted persistiría en su cruel negativa.
+
+DOÑA MATILDE. Quizá hubiera sido más prudente; porque ... ya ve usted,
+antes de tomar un partido irrevocable he debido pesar todas las
+circunstancias, y ... no soy ninguna niña de quince años.
+
+BRUNO. Como que tiene usted ya sus diez y siete.
+
+DOÑA MATILDE. Diez y ocho son los que tengo, si vamos a eso.
+
+BRUNO. Diez y siete.
+
+DOÑA MATILDE. Diez y ocho. ¡Habrá pesado igual!
+
+BRUNO. Pero hija, si nació usted el día de los innumerables mártires
+de Zaragoza, que cayó en viernes en el mes pasado, y entonces hizo
+usted los diez y siete.
+
+DOÑA MATILDE. Bueno, diez y siete; y lo que va desde entonces acá, ¿no
+lo cuentas? Si sabré yo que tengo diez y ocho años.
+
+DON EDUARDO. ¡Indudablemente! Diez y ocho años tiene usted, y más bien
+más que menos, edad, por mi desgracia, en que ya se calcula y se
+tiene la experiencia necesaria para conocer lo que se quiere y lo que
+conviene. Por eso, Matilde, no tema usted que la importune con mis
+súplicas, ni la entristezca con el relato de mis padecimientos ... no
+por cierto ... ¿de qué serviría? Usted ha hecho lo que ha debido ...
+cerciorarse primero de que no me amaba, y quitarme luego de una vez
+toda esperanza ... nada más natural, ni más de agradecer ... otro más
+afortunado que yo habrá quizá obtenido....
+
+DOÑA MATILDE. Oh, no, por lo que es eso, puede estar usted bien
+satisfecho ... ni siquiera me he vuelto a acordar de que hay hombres en
+este mundo, desde ayer que creí necesario el desengañar a usted.
+
+DON EDUARDO. Siempre es ése un consuelo ... aunque por otra parte,
+si usted podía ser dichosa con otro hombre ¿por qué no me había de
+alegrar? ¡Ah! Matilde, su felicidad de usted es la única idea que me
+ha preocupado siempre, y si algún día, en medio de los países remotos
+en que voy a arrastrar mi mísera existencia, me llegará por acaso la
+noticia....
+
+DOÑA MATILDE. ¡Qué! ¿Se va usted tan lejos?
+
+DON EDUARDO. ¡Oh! Sí, muy lejos.
+
+DOÑA MATILDE. Arrima unas sillas, Bruno.... ¿Y dónde? Esto es, si usted
+no tiene interés en callarlo.
+
+DON EDUARDO. Apenas lo sé yo todavía ... cualquiera país me es
+indiferente con tal que sea bien agreste y selvático.
+
+BRUNO (aparte). ¡Si se irá a Sacedón?
+
+DON EDUARDO. He titubeado algún tiempo entre Californias y la Nueva
+Holanda; pero al cabo puede ser que me decida por la Isla de Francia.
+
+DOÑA MATILDE. ¡Allí nacieron Pablo y Virginia!
+
+DON EDUARDO. Y el negro Domingo también.
+
+DOÑA MATILDE. En efecto ... siéntese usted, siéntese usted.
+
+DON EDUARDO. Es que temería....
+
+DOÑA MATILDE. No, no; siéntese usted ... y como iba diciendo allí fué
+donde pasó toda su trágica historia, que tengo bien presente.
+
+DON EDUARDO (aparte). Más la tengo yo, que la leí anoche de cabo a
+rabo.
+
+DOÑA MATILDE. ¡Y aquella madre señor, aquella madre tan cruel que se
+empeñó en que su hija había de ser rica!
+
+BRUNO. Más cruel me parece a mí que hubiera sido si se hubiera
+empeñado en lo contrario.
+
+DON EDUARDO. Luego hallaré en dicha isla todo cuanto puedo apetecer en
+mi posición actual; cascadas que se despeñan, ríos que salen de madre,
+precipicios, huracanes....
+
+BRUNO (aparte). No iré yo a la tal isla.
+
+DON EDUARDO. Y bosques inmensos de plátanos, cocoteros y tamarindos,
+con cuyos frutos podré sustentarme, o a cuya sombra podrán reposar tal
+cual vez mis fatigados miembros.
+
+DOÑA MATILDE. ¡Y qué! ¿No tendrá usted miedo de los negros cimarrones?
+
+BRUNO (aparte). ¿Quiénes serán esos demonios?
+
+DON EDUARDO. ¡Ah! ¡Matilde, si viera usted qué poco vale la vida
+cuando se vive sin deseos, ni porvenir!
+
+DOÑA MATILDE. ¡Pobre Eduardo!
+
+DON EDUARDO. ¿Se enternece usted?
+
+BRUNO. También a mí me empiezan a escocer los ojos, si vamos a eso.
+
+DOÑA MATILDE. Ciertamente que no puedo menos de agradecer y admirar el
+que vaya así a exponerse por mi causa a tantos peligros un joven de
+tales esperanzas, tan rico....
+
+DON EDUARDO. ¿Yo rico?
+
+DOÑA MATILDE. Contando con la herencia del tío....
+
+DON EDUARDO. No hay duda que he podido ser rico, pero....
+
+DOÑA MATILDE. ¿Pero qué?
+
+DON EDUARDO. Nada, nada.
+
+DOÑA MATILDE. Explíquese usted.
+
+DON EDUARDO. Son cosas mías, que ya no pueden interesar a usted.
+
+DOÑA MATILDE. ¡Oh! sí, sí ... hable usted ... lo quiero ... lo exijo....
+
+DON EDUARDO. Bueno; sepa usted que cuando el Sr. D. Pedro creía que
+mi tío aprobaba nuestro proyectado enlace, éste me instaba a que me
+casase con la hija única del conde de la Langosta....
+
+BRUNO (aparte). Familia muy noble en tierra de Campos.
+
+DOÑA MATILDE. ¿Y bien?
+
+DON EDUARDO. ¡Y que mi tío me ha desheredado en seguida, porque no he
+querido darle gusto!
+
+DOÑA MATILDE. ¿Le ha desheredado a usted?
+
+DON EDUARDO. Así me lo anuncia en una carta que recibí ayer suya, dos
+o tres horas antes que Bruno me entregara la de su padre de usted.
+
+DOÑA MATILDE. ¿Le ha desheredado a usted?
+
+DON EDUARDO. Pues, y por lo mismo nada sacrifico, en punto a bienes de
+fortuna, al desterrarme para siempre de mi patria.
+
+DOÑA MATILDE. ¿Y había de consentir yo en ese destierro?
+
+BRUNO. Perrada fuera.
+
+DOÑA MATILDE. ¡Yo, que tengo la culpa de todas las desgracias de
+usted!
+
+DON EDUARDO. Pero qué remedio....
+
+DOÑA MATILDE. No, jamás se realizará tan terrible separación ... si es
+cierto que usted me quiere....
+
+DON EDUARDO. ¿Lo duda usted todavía?
+
+DOÑA MATILDE. ¿Desheredado por mí! ¡Y yo he podido, Dios mío,
+desconocer un instante tanto mérito!
+
+DON EDUARDO. ¡No llore usted, por mi vida, Matilde mía!
+
+DOÑA MATILDE. ¡Sí, hace usted bien en llamarme suya ... que de usted
+soy y seré ... que de usted he sido siempre; porque ahora lo conozco, y
+no tengo vergüenza de confesarlo!
+
+BRUNO. ¡Pobrecita, qué ha de hacer más que conocerlo y confesarlo!
+
+DON EDUARDO. ¿Puedo creer tamaña dicha!
+
+DOÑA MATILDE. Ojalá estuviera aquí mi padre, para que en su
+presencia....
+
+
+ESCENA VII
+
+DON PEDRO Y DICHOS
+
+
+DON PEDRO (aparte). Si se habrá ya ido.
+
+DOÑA MATILDE. Papá, papá, aquí está D. Eduardo.
+
+DON PEDRO. ¡Hola! Conque.... (Risueño)
+
+DON EDUARDO. Hum. (Tosiendo)
+
+DON PEDRO (aparte). ¡Canario! que se me olvidaba el encargo....
+
+DOÑA MATILDE. Y ya nos hemos explicado cierto _qui pro quo_ que
+había ... y ... nos hemos mutuamente satisfecho ... y....
+
+DON PEDRO. ¡Oh! pues si se han satisfecho ustedes, entonces....
+(Risueño)
+
+DON EDUARDO. Hum. (Tose)
+
+DON PEDRO (aparte). ¡Maldita carraspera!
+
+DOÑA MATILDE. ¿No es verdad, papá, que usted se alegra de ello, y
+que?...
+
+DON EDUARDO. Achí. (Estornuda fuerte)
+
+BRUNO. _Dominus tecum_.
+
+DON PEDRO. No, hija mía, no me alegro de semejante cosa ni tampoco
+puedo aprobar ... porque ... después de todo, y ... en fin, yo me
+entiendo, yo me entiendo.
+
+DOÑA MATILDE. Yo soy la que no entiendo a usted, papá mío, porque....
+
+DON EDUARDO. Su papá de usted, Matilde mía, se habrá irritado al verme
+aquí en conversación con usted, cuando me había hecho decir que no
+quería recibirme.
+
+DON PEDRO. Precisamente.
+
+DON EDUARDO. Y creerá que en esto le hemos faltado al respeto.
+
+DON PEDRO. Cabal.
+
+DON EDUARDO. Y que nuestra conferencia clandestina es contra las leyes
+del decoro.
+
+DON PEDRO. Sí, señor, clandestina, y contra las leyes del decoro.
+
+DON EDUARDO. Y al notar yo el furor de sus miradas y el calor con
+que se expresa, le protesto a usted empiezo a temer además que ya no
+quiera atender a otras razones, que nos quiera separar, y aun para
+separarnos más pronto que la coja ahora mismo del brazo y se la lleve
+a su gabinete.
+
+DON PEDRO. Eso es, eso es, ni más ni menos, lo que voy a hacer....
+Vente conmigo. (A Matilde)
+
+DOÑA MATILDE. ¿Pero papá?
+
+DON PEDRO. Vente conmigo. (Llevándola como por fuerza)
+
+DON EDUARDO. Pero Sr. D. Pedro....
+
+DON PEDRO. ¡Eh! (Volviéndose para oír lo que va a decir)
+
+DON EDUARDO. Decía que yo también me retiraba para no ofender a usted
+más con mi presencia.
+
+DON PEDRO. Bien hecho.... Vamos. (A Matilde)
+
+DOÑA MATILDE. Adiós, Eduardo.
+
+DON EDUARDO. Adiós, Matilde.
+
+DON PEDRO. Vamos, repito.
+
+DOÑA MATILDE. Fíate en mi constancia. (Al entrarse)
+
+DON EDUARDO. Ya me fío. (Yéndose)
+
+DOÑA MATILDE. Adiós. (Desde adentro)
+
+DON EDUARDO. Adiós. (Vase)
+
+BRUNO. ¡Cómo se quieren! Como dos tortolillos ... y el amo, a pesar de
+eso, y sin saber por qué, los separa y los ... vaya, no hiciera otro
+tanto Herodes el Ascalonita.
+
+
+ACTO TERCERO
+
+
+ESCENA PRIMERA
+
+DON PEDRO Y DOÑA MATILDE
+
+
+DOÑA MATILDE. Por Dios, papá, déjese usted ablandar.
+
+DON PEDRO. No, no; nunca consentiré en semejante bodorrio.
+
+DOÑA MATILDE. ¿Pues no lo aprobaba usted antes?
+
+DON PEDRO. No sabía entonces lo que sé ahora.
+
+DOÑA MATILDE. ¿Pero qué sabe usted?
+
+DON PEDRO. Mil cosas ... sé en primer lugar que tu D. Eduardo no tiene
+un ochavo.
+
+DOÑA MATILDE. ¿Y ése es acaso gran defecto?
+
+DON PEDRO. No te lo parece a ti ahora, que te sientas, por ejemplo, a
+la mesa, y si hay tortilla comes tortilla, sin informarte siquiera de
+a cómo va la docena de huevos; pero cuando seas ama de casa y veas
+volver a Toribio con la esportilla vacía, porque tu marido no dejó una
+blanca con que llenarla, ya verás entonces si se te cae la baba por la
+gracia.
+
+DOÑA MATILDE (aparte). ¡Qué preocupación!...
+
+DON PEDRO. En fin, te repito que no me acomoda el yerno que me quieres
+dar ... ni yo sé tampoco lo que te prenda en él, porque fisonomía menos
+expresiva....
+
+DOÑA MATILDE. ¡Calle usted, señor, y tiene dos ojos como dos
+carbunclos!
+
+DON PEDRO. Lo dicho dicho, Matilde; no cuentes jamás con mi
+licencia ... si te quieres casar con ese hombre y morirte después de
+hambre ... cásate enhorabuena, y buen provecho te haga, con tal que yo
+no te vuelva a ver en mi vida.... Esto es lo único y lo último que te
+digo ... adiós.... (Aparte) Bueno será que me vaya antes que empiecen
+los pucheros.
+
+
+ESCENA II
+
+DOÑA MATILDE
+
+
+DOÑA MATILDE. ¡Que me case y que no le vuelva a ver en su vida!... y
+él mismo me lo indica.... ¡Dios mío, qué entrañas tienen estos padres!
+¡Que me case!... ¡Si sospechará alguna cosa de lo que Eduardo y yo
+tenemos tratado para cuando ya no haya otro recurso! ¿Y queda ya
+alguno por ventura? ¡Que me case!... Y bien, sí ... me casaré ... me
+casaré con el hombre de mi elección, con el único mortal que me es
+simpático, y que puede proporcionarme la mayor felicidad posible en
+este mundo ... la de amar y ser amada; porque o yo no sé en lo que se
+cifra el ser una mujer dichosa, o ha de consistir necesariamente en
+estar siempre al lado de lo que ella ama; en jurarle a cada instante
+un eterno cariño; en respirar el aire que él respire ... ¿y cuesta
+acaso algo de esto dinero? No, no ... por fortuna todo esto se hace de
+balde, por más que digan lo contrario ... y todo esto lo haré con mi
+Eduardo.... Con él pasaré mi vida en un continuo éxtasis, y cuando una
+misma losa cubra al cabo de muchos años nuestras cenizas, todavía
+inseparables, que vengan entonces a echarme en cara si lo que comí en
+vida fué potaje de lentejas, o si mi esposo tenía un miserable arriero
+por tatarabuelo.
+
+
+ESCENA III
+
+DOÑA MATILDE, BRUNO Y DESPUÉS DON EDUARDO
+
+
+BRUNO. ¿Está usted sola? (Entreabriendo la puerta)
+
+DOÑA MATILDE. Sí, ¿qué hay?
+
+BRUNO. ¿Qué hay?... lo de siempre ... que el Sr. D. Eduardo está ya
+ahí con ganas de parleta, y que yo, como me han hecho ustedes, _velis
+nolis_, su corre ve y dile, me adelanto a reconocer el campo.
+
+DOÑA MATILDE. ¿Dónde le dejas?
+
+BRUNO. En el descanso de la escalera.
+
+DOÑA MATILDE. Que suba ... y tú, oye.
+
+BRUNO. Suba usted caballerito ... y yo oigo.
+
+DOÑA MATILDE. Es necesario que te pongas en el cancel de esa puerta (A
+Bruno) y que nos avises de cualquier ruido que adviertas en el cuarto
+de papá, no sea que salga y nos sorprenda.
+
+DON EDUARDO. ¿Qué tenemos, Matilde mía?
+
+DOÑA MATILDE. Nada bueno, Eduardo; papá me acaba de asegurar que jamás
+me dará su consentimiento.
+
+DON EDUARDO. ¡Será posible!
+
+DOÑA MATILDE. Y tanto como lo es ... me ha dicho también mil horrores
+de usted....
+
+DON EDUARDO. ¡De mí!
+
+DOÑA MATILDE. En primer lugar, y según costumbre, que era usted pobre.
+
+DON EDUARDO. Pero usted le habrá respondido, según costumbre....
+
+DOÑA MATILDE. Lo bastante para indicarle que esto es la mayor
+perfección que usted tiene a mis ojos.
+
+DON EDUARDO. Muchas gracias.
+
+DOÑA MATILDE. En seguida se ha ensangrentado con la familia de
+usted ... con su persona ... vamos, le aborrece a usted con sus cinco
+sentidos ... ¡ya ve usted si es injusticia!
+
+DON EDUARDO. ¿Y ya ve usted si me lo parecerá a mí?
+
+DOÑA MATILDE. Así confieso que ya no me queda esperanza alguna.
+
+DON EDUARDO. Ni a mí tampoco ... verdad es que nunca la tuve ... de ahí
+que no me haya dormido, y que si usted quiere....
+
+DOÑA MATILDE. Explíquese usted.
+
+DON EDUARDO. Sepa usted que si bien es cierto que he gastado hasta el
+último real que poseía, también lo es que ya tengo todo listo para
+nuestro casamiento ... dispensa, cura, testigos, cuarto en que vivir,
+un poco alto sin duda ... como que está en un quinto piso ... pero en
+buena calle ... en la calle del Desengaño ... en fin, nada falta ... sino
+que usted se decida ... y dentro de media hora....
+
+DOÑA MATILDE. ¡De media hora!
+
+DON EDUARDO. Nos sobra aún tiempo, porque ni usted necesita más de
+diez minutos para prepararse, ni yo más de veinte para dar mis últimas
+órdenes, volver a esta calle, aprovechar el primer momento en que no
+pase gente, avisar a usted de ello con tres palmadas, recibirla cuando
+baje y conducirla en dos brincos a la iglesia, cuya puerta, por
+fortuna, tenemos casi enfrente de esa reja.
+
+DOÑA MATILDE. No decía yo eso, sino que tanta precipitación ... estas
+cosas, Eduardo, necesitan siempre pensarse algo.
+
+DON EDUARDO. ¡Al revés Matilde! estas cosas, si se piensan algo no se
+hacen nunca ... porque ... ya ve usted ... a cada paso ocurren nuevas
+dificultades. Se trasluce entretanto el proyecto ... se suscitan
+persecuciones ... hay encierros a pan y agua en calabozos subterráneos,
+hay vapuleo no pocas veces ... y si desgraciadamente hubiera esto para
+nosotros, no sé yo luego cómo nos habíamos de casar.
+
+DOÑA MATILDE. ¡Oh! Eso es muy cierto ... dígalo si no Ofelia ... la del
+castillo negro.
+
+DON EDUARDO. Y Malvina, y Etelvina, y Coralina, y otras mil víctimas
+desaventuradas de la injusticia paterna, a quienes han enterrado con
+palma por andarse en miramientos. Conque vamos Matilde mía, ¿qué
+resuelve usted? Mire usted que cada instante se pierde....
+
+DOÑA MATILDE. No sé lo que haga ... salirse una así de su casa sin....
+
+DON EDUARDO. Pues si no, ¿qué otro camino tenemos? A menos que usted,
+arredrada con los peligros que pueden amenazarnos, no se arrepienta de
+sus juramentos y....
+
+DOÑA MATILDE. ¡Yo arredrada! ¡yo arrepentida! No creía yo que me
+calumniara usted de ese modo, Eduardo, después de tantas pruebas como
+le tengo a usted dadas de mi amor....
+
+DON EDUARDO. No es que yo dude ... ¿ni cómo había de dudar ... cuando
+esta misma mañana ... allí ... delante de aquel cuadro de Atala
+moribunda, me prometió usted casarse conmigo y seguirme, aunque fuera
+al fin del mundo? sino que ... haciendo una hipótesis casi imposible,
+decía....
+
+DOÑA MATILDE. Dichoso usted que tiene la cabeza para hipótesis ... no
+me sucede a mí otro tanto ... y si al cabo cedo a las instancias de
+usted....
+
+DON EDUARDO. ¿Cede usted a mis instancias? ¡Oh! ¡qué ventura!
+
+DOÑA MATILDE. Sí, hombre injusto; y para ceder mejor a ellas cierro
+los ojos sobre todas las consecuencias ... diga usted ahora que soy
+tímida, o que soy....
+
+DON EDUARDO. Digo, Matilde, que es usted una hembra extraordinaria ...
+una verdadera heroína de novela ... y arrojándome a sus pies protesto.
+
+BRUNO. Que el amo bosteza. (Sin dejar su puesto)
+
+DON EDUARDO. ¡Caramba! si se fastidia de estar solo y sale ... no,
+no.... (Levantándose) aprovechemos los momentos ... ahora son las ocho
+de la noche ... conque así, Matilde, a las ocho y media me tiene usted
+al pie de aquella reja.
+
+DOÑA MATILDE. Bueno; entonces ya me tendrá usted también pronta.
+
+DON EDUARDO. No olvide usted la seña, tres palmadas mías.
+
+DOÑA MATILDE. Me parece mejor que intercale usted entre la segunda y
+la tercera un gran suspiro para que no sea tan fácil el que yo pueda
+equivocarme, si acaso hubiera otra intriga amorosa en la calle.
+
+DON EDUARDO. Observación muy prudente ... suspiraré entre la segunda y
+la tercera.
+
+DOÑA MATILDE. Pues lo demás déjelo a mi cargo, que Bruno y yo
+dispondremos el cómo burlar la vigilancia de mi padre.
+
+DON EDUARDO. No hay más que hablar. Adiós bien mío.
+
+DOÑA MATILDE. Adiós.
+
+DON EDUARDO. Ah, se me pasaba el recomendar a usted que no traiga
+consigo alhaja alguna, ni dinero ni cosa que lo valga, porque dirían
+que yo....
+
+DOÑA MATILDE. Pierda usted cuidado ... una muda o dos cuando más, con
+las cartas que usted me ha escrito, el retrato de Atala, la sortija de
+alianza, y la rosa que usted me dió en el primer rigodón que bailamos
+juntos, y que conservo en polvo, envuelta en un papel de seda; esto es
+todo lo que pienso llevar.
+
+DON EDUARDO. Ni necesita usted más. Adiós otra vez.
+
+
+ESCENA IV
+
+DOÑA MATILDE Y BRUNO
+
+
+DOÑA MATILDE. Adiós ... Bruno.
+
+BRUNO. ¿Señorita?
+
+DOÑA MATILDE. ¿Te enteraste de lo que hemos tratado?
+
+BRUNO. Ni jota ... como tenía que atender a lo que pasaba por allá
+dentro....
+
+DOÑA MATILDE. Pues has de saber ... pero antes jura que no lo has de
+decir a nadie.
+
+BRUNO. Digo que no lo diré a nadie.
+
+DOÑA MATILDE. Júralo.
+
+BRUNO. Cuando prometo yo una cosa....
+
+DOÑA MATILDE. Bueno ... escucha ahora.
+
+BRUNO. ¿Qué es ello? (Con curiosidad)
+
+DOÑA MATILDE. ¿Me quieres, Bruno?
+
+BRUNO. Toma, ¿y para eso tantos aspavientos?
+
+DOÑA MATILDE. Es que si tú no me quieres ... (y mira, Bruno, que me has
+de querer mucho) de lo contrario es inútil que te refiera nada, porque
+ni me ayudarías ni ... conque así responde, ¿me quieres mucho, Bruno?
+
+BRUNO. ¿Que si la quiero a usted? Buena pregunta, cuando la he visto a
+usted nacer, como quien dice, y la he arrullado, y la he dado papilla
+y la he....
+
+DOÑA MATILDE. Tienes razón ... y por lo mismo me decido ahora a
+confiarte que me caso esta noche con don Eduardo.
+
+BRUNO. ¡Oiga! Su padre de usted consintió al cabo....
+
+DOÑA MATILDE. No tal, antes al contrario se opone a ello.
+
+BRUNO. ¿Y dice usted que se casa?
+
+DOÑA MATILDE. Dentro de media hora ... ahí está el misterio.
+
+BRUNO. No puede ser eso entonces, niña.
+
+DOÑA MATILDE. Te digo que sí ... D. Eduardo lo ha arreglado ya todo, y
+me vendrá a buscar dentro de media hora para llevarme a la iglesia.
+
+BRUNO. No será el hijo de mi madre el que le abrirá la puerta.
+
+DOÑA MATILDE. No importa, porque precisamente tengo decidido el salir
+por la ventana.
+
+BRUNO. ¿Por la ventana?
+
+DOÑA MATILDE. Por esa reja, quise decir, cuya llave tienes tú, y que
+está tan baja que con la ayuda de una silla, cualquiera puede....
+
+BRUNO. Según eso, ¿usted cree que yo le voy a dar la llave?
+
+DOÑA MATILDE. ¿Por qué no?
+
+BRUNO. ¿Y también quizá que yo mismo le pondré la silla para
+encaramarse?
+
+DOÑA MATILDE. ¿Quién había de ser?
+
+BRUNO. ¿Y quien la sostendrá de los brazos hasta que el Sr. D. Eduardo
+la recoja en los suyos?
+
+DOÑA MATILDE. Sí.
+
+BRUNO. Pues se engañó usted de medio a medio.
+
+DOÑA MATILDE. ¡Cómo!
+
+BRUNO. Y ahora mismo voy a noticiar al amo todo este fregado. (Hace
+que se va)
+
+DOÑA MATILDE. ¡Detente!
+
+BRUNO. No faltaba más ... ¡una niña bien nacida pensar en semejante
+gitanada!
+
+DOÑA MATILDE. ¡Bruno!
+
+BRUNO. ¡Y proponérmela a mí, que he comido treinta y cinco años el pan
+de su padre!
+
+DOÑA MATILDE. Pero escucha, por Dios....
+
+BRUNO. Ni por la Virgen ... todo lo sabrá el señor D. Pedro.
+
+DOÑA MATILDE. Recuerda que prometiste....
+
+BRUNO. Si prometí fué en la suposición de que sería cosa inocente....
+
+DOÑA MATILDE. ¿Qué hará luego mi padre?
+
+BRUNO. ¿Qué? Encerrar a usted bajo llave si no desiste....
+
+DOÑA MATILDE. ¡Encerrarme ... a mí!... Bruno, está visto ... me quieres
+precipitar ... pues bien ... lo lograrás ... ¿ves este papel?...
+
+BRUNO. ¿Y qué hay en ese cucurucho?
+
+DOÑA MATILDE. Píldoras.
+
+BRUNO. ¿De jalapa?
+
+DOÑA MATILDE. De rejalgar.
+
+BRUNO. ¡Jesús mil veces!
+
+DOÑA MATILDE. Que D. Eduardo me trajo esta mañana.
+
+BRUNO. ¡Habrá bribón!
+
+DOÑA MATILDE. A petición mía ... porque una mujer desgraciada no puede
+estar sin un poco de veneno en su ridículo.
+
+BRUNO. Maldita la necesidad que veo yo de eso....
+
+DOÑA MATILDE. A grandes males, grandes remedios ... así ... tenlo por
+cierto ... si das otro paso hacia la puerta con tan vil propósito, ni
+una píldora dejo de todo el cuarterón que no me trague.
+
+BRUNO. ¡Condenadas boticas!
+
+DOÑA MATILDE. Y me verás caer aquí redonda, lo mismo que si me
+hubieras dado un trabucazo.
+
+BRUNO. No haga usted tal ... tenga usted compasión de su pobre padre y
+de mí....
+
+DOÑA MATILDE. Tenla tú de la desventurada Matilde.
+
+BRUNO. Yo ... sí ... pero....
+
+DOÑA MATILDE. ¿En fin, qué determinas?
+
+BRUNO. Vaya ... no diré nada, con tal que me dé usted esas píldoras
+para....
+
+DOÑA MATILDE. ¿Y me ayudarás también?
+
+BRUNO. Eso no, porque....
+
+DOÑA MATILDE. Que me las trago.
+
+BRUNO. Sí, sí, ayudaré ... haré todo lo que usted quiera ... pero vengan
+esas píldoras, repito.
+
+DOÑA MATILDE. Qué desatino ... no ves que me desarmaría si te las
+diera.... Lo que haré será guardarlas en donde las guardaba antes, para
+el caso en que intentes todavía venderme.
+
+BRUNO. ¡Paciencia!
+
+DOÑA MATILDE. Ahora paso a decirte lo que exijo de ti, y es que si
+papá viene a esta sala, en tanto que yo entro en mi cuarto a recoger
+algunas frioleras, trates de alejarle de aquí con cualquier pretexto.
+
+BRUNO (aparte). Ojalá viniera.
+
+DOÑA MATILDE. Que cuides de que no haya luz....
+
+BRUNO. En soplando las que están encendidas....
+
+DOÑA MATILDE. Y que la reja esté abierta para cuando yo vuelva.
+
+BRUNO. Si sé donde puse la llave, que me....
+
+DOÑA MATILDE. Ya la encontrarás ... no se te olvide nada ... ¿lo
+entiendes? y yo me voy a lo que dije ... cuidado que es menester que
+una mujer tenga cabeza para atar tantos cabos.
+
+
+ESCENA V
+
+BRUNO
+
+
+BRUNO. Más cabeza se necesita para desatarlos ... y a fe que la mía no
+acierta el cómo ... ello sin las malditas píldoras ... bastaba con que
+yo cantara de plano ... pero si la chica ... que se ha echado el alma
+atrás ... lo sospecha y en un abrir y cerrar de ojos ... zas ... se
+engulle media docena de los tales confites ... ¡vea usted entonces qué
+desgracia!... qué sentimiento para todos!... y que es capaz de hacerlo
+lo mismo que lo dice ... sí, señor, lo mismo, porque hay mujeres que
+por salirse con lo que se les pone entre ceja y ceja comerán ... no
+digo yo rejalgar, sino ... ¿por otra parte puedo yo callarle a mi pobre
+amo una cosa que tanto le interesa? que tanto interesa al honor de la
+familia ... imposible ... y mucho más cuando quizá su merced encontraría
+algún medio término ... alguna estratagema ... calle, ¡una palmada junto
+a nuestra reja! ¡otra! si pudiera atisbar ... ¡San Bruno y qué suspiro!
+¡suspiro de alma de pena!... ¡tercer palmada!... si será nuestro
+perillán.... (Se asoma a la ventana y habla con D. Eduardo, que está
+en la calle) cabalito ... él es ... cé, cé, D. Eduardo ... soy yo ... el
+mismo que viste y calza ... ¿eh? no, no está todavía aquí ... tenga
+usted un poco de paciencia ... en efecto van a dar las ocho y media ...
+ya veo que es una pistola lo que usted me enseña ... ésta es otra
+que bien baila: que se levantará la tapa de los sesos si al dar
+la campanada de la media no está ya doña Matilde en la calle ¡qué
+diablura! Diga usted, D. Eduardo ... diga usted ... sí, se marchó
+renegando a la esquina opuesta ... pues por Dios ... que estamos
+frescos ... veneno por aquí ... pistoletazo por allá, y a todo esto el
+amo metido en su aposento....
+
+
+ESCENA VI
+
+DON PEDRO Y DICHO
+
+
+DON PEDRO (aparte). Necesito no descuidarme si he de llegar a tiempo
+de ponerme junto a un confesonario sin que me vean....
+
+BRUNO. ¡Ah! ¡Señor D. Pedro de mi vida!... ¡algún ángel le ha traído a
+usted tan a punto!
+
+DON PEDRO. No me entretengas, Bruno, que estoy muy de prisa.
+
+BRUNO. Dos palabras tan sólo.
+
+DON PEDRO. Ni media.
+
+BRUNO. Sepa usted....
+
+DON PEDRO. No quiero saber nada, déjame.
+
+BRUNO. Que la señorita....
+
+DON PEDRO. Ya me lo dirás cuando vuelva ... suelta.
+
+BRUNO. Es que cuando usted vuelva ya no quedará mucho que decir,
+porque doña Matilde....
+
+DON PEDRO. Suelta, suelta, o vive Dios....
+
+BRUNO. Ya suelto, pero luego no se queje usted....
+
+DON PEDRO. Luego me las pagará todas juntas el que haya contribuído a
+ofenderme.
+
+BRUNO. ¡Oídos que tal oyen!
+
+DON PEDRO. Y para eso hice afilar el otro día mi espadín de acero.
+
+BRUNO. Y por eso cabalmente quiero yo hablar ahora, y contar a
+usted....
+
+DON PEDRO. Calla.
+
+BRUNO. Pero si no me deja usted hablar, ¿cómo quiere usted...?
+
+DON PEDRO. Calla, y hasta después que ajustaremos cuentas.... (Aparte)
+Pobre Bruno, no le queda mal susto en el cuerpo.
+
+
+ESCENA VII
+
+BRUNO, Y DESPUÉS DOÑA MATILDE
+
+
+BRUNO. ¡No sabía yo lo de la afiladura del espadín! Con esto, y con
+que después se le antoje el que yo tuve arte o parte en el negocio ...
+y me atraviese como un palomino.... Dígole a usted que ... vamos, por
+más que lo miro y lo remiro ... no hay escapatoria ... tiene que acabar
+la tragedia ... porque a la altura en que estamos ... es claro que o
+se matan ellos o los mata D. Pedro, o me mata éste a mí ... o se mata
+él ... o nos morimos todos de pesadumbre ... lo dicho ... tiene que
+haber muertes ... tiene que haberlas necesariamente ... a menos que un
+milagro....
+
+DOÑA MATILDE. ¿Salió mi padre?
+
+BRUNO (aparte). Adiós con mi dinero ... ya está aquí doña Matilde.
+
+DOÑA MATILDE. ¿No me respondes si salió mi padre?
+
+BRUNO. Salió, y como un rehilete ... no sé yo lo que podía urgirle
+tanto ... pero ... ¿qué hace usted?...
+
+DOÑA MATILDE. Lo que tú has olvidado ... apagar las velas....
+
+BRUNO. ¿Que es de rigor en tales aventuras el andar a tientas?
+
+DOÑA MATILDE. Es prudencia por lo menos para evitar el que la vecina
+de enfrente fisgonee lo que va a pasar en este cuarto.
+
+BRUNO. ¡Ay! (Dase con la cabeza contra la pared)
+
+DOÑA MATILDE. ¿Qué es eso?
+
+BRUNO. No es cosa, un chichón que debo a la vecina de enfrente.
+
+DOÑA MATILDE. ¡Y todavía no has abierto la reja!
+
+BRUNO. ¿Para qué? ¿Si se ha de ir usted al cabo, no vale más el que se
+salga usted por la puerta?
+
+DOÑA MATILDE. No lo creas ... eso cualquiera lo haría ... y es también
+menos dramático.
+
+BRUNO. ¿Menos qué?
+
+DOÑA MATILDE. Vaya, despáchate en abrir la reja ... mira que creo que
+ya ha dado la media.
+
+BRUNO. ¿Qué había de dar? no, señora ... ni por pienso.... Dios nos
+libre de que hubiera dado.
+
+DOÑA MATILDE. ¿No abres?
+
+BRUNO. Aquí tengo la llave; pero antes reflexione usted, hija mía, la
+pesadumbre que va usted a dar a su padre con este escándalo ... y lo
+que....
+
+DOÑA MATILDE. ¿Oyes ahora la media?
+
+BRUNO. Virgen del Tremedal.... (Corriendo a la ventana) ¡Allá va, allá
+va!... (Gritando a don Eduardo)
+
+DOÑA MATILDE. ¡Cómo! ¿A quién gritas?
+
+BRUNO. Nada, nada.
+
+DOÑA MATILDE. ¡Ah traidor! ya te entiendo ... pero antes que vengan a
+sorprendernos apelaré a mi último recurso. (Hace como que saca las
+píldoras)
+
+BRUNO. Tenga usted el brazo; (Corriendo a doña Matilde) tire usted
+esas píldoras, que es a D. Eduardo a quien yo avisaba.... (Vuelve a la
+ventana) Allá va, allá va.... Repito que es D. Eduardo a quien yo....
+(Vuelve a doña Matilde) ¡ay qué sudor frío me ha entrado!
+
+DOÑA MATILDE. ¿Pues por qué no me decías que D. Eduardo estaba ya
+esperándome?
+
+BRUNO. Porque ... porque ... bueno estoy yo ahora para decir el porqué
+de nada, y si me sangraran....
+
+DOÑA MATILDE. En suma, ¿quieres o no quieres abrir la reja?
+
+BRUNO. En este instante.... (Aparte) Empecemos al menos por salvar dos
+vidas ... ¡qué premiosa está!
+
+DOÑA MATILDE. Pon luego una silla.
+
+BRUNO. Pongo una silla.
+
+DOÑA MATILDE. ¿Y está ya D. Eduardo?
+
+BRUNO. Le estoy tocando con la mano la copa del sombrero.
+
+DOÑA MATILDE. Entonces ... ¿dónde dejaré la carta para papá?... y muy
+contenta que estoy con ella ... ¡oh! me ha salido muy tierna y muy
+respetuosa ... mucho más tierna que la de Clari en la ópera ... aquí
+la pondré sobre la mesa ... ahora vamos ... no; me falta todavía que
+implorar al cielo, y rogar también por mi padre. (Se pone de rodillas)
+
+BRUNO. ¡Si la tocará Dios en el corazón!
+
+DOÑA MATILDE. Ahora quiero besar la poltrona (Se levanta) en que
+duerme papá la siesta ... la mesa ... la jaula de la cotorra ... adiós,
+muebles queridos ... adiós, paredes que me guarecisteis durante mis
+primeros ... mis más dichosos años ... y que quizá no volveré a ver
+más ... dame la mano, Bruno ... adiós, Bruno ... que seas feliz ... que me
+vengas a ver ... ¡ay, que me caigo!...
+
+BRUNO. No tenga usted cuidado ... y déjese usted ir ... ¡maldito
+alfiler!
+
+DOÑA MATILDE. Que consueles a mi padre.
+
+BRUNO. A buena hora, mangas verdes ... téngala usted, D. Eduardo ...
+así ... ya llegó al suelo ... y corren como gamos ... y ya llegan a la
+iglesia ... y ya entran y ... Dios los haga buenos casados ... quitémonos
+ahora de la reja ... cerrémosla ... y cuidemos antes de todo de esconder
+el espadín de acero.
+
+
+ACTO CUARTO
+
+
+ESCENA PRIMERA
+
+DOÑA MATILDE Y DON EDUARDO
+
+
+DOÑA MATILDE. ¡Lo que tarda en encenderse esta lumbre!
+
+DON EDUARDO. Si no soplas derecho.
+
+DOÑA MATILDE. Será culpa del fuelle.
+
+DON EDUARDO. Mira cómo se va el aire por los lados.
+
+DOÑA MATILDE. ¡Ay! que no puedo más.
+
+DON EDUARDO. Vaya, se conoce que éste es el primer brasero que
+enciendes en tu vida ... dame, dame el fuelle.
+
+DOÑA MATILDE. Tómale enhorabuena ... y despáchate, por Dios, que me
+siento muy débil.
+
+DON EDUARDO. Ya lo creo; no cenaste anoche.
+
+DOÑA MATILDE. ¡Qué descuido el tuyo!... no tener siquiera un bocado de
+pan en casa.
+
+DON EDUARDO. Como nunca tienes apetito en semejantes días....
+
+DOÑA MATILDE. Ya, pero ... ¿y tú?
+
+DON EDUARDO. Oh, lo que es por mí no te inquietes, y si no te
+enfadaras te confesaría....
+
+DOÑA MATILDE. ¿Qué?
+
+DON EDUARDO. Que por lo que podía tronar, me forré el estómago con un
+buen par de chuletas antes de ir a buscarte.
+
+DOÑA MATILDE. ¡Pues estuvo bueno el chiste!
+
+DON EDUARDO. Ya pienso que puedes arrimar la chocolatera al fuego.
+
+DOÑA MATILDE. ¡Y qué enorme armatoste!
+
+DON EDUARDO. ¿Sabrás hacer chocolate?
+
+DOÑA MATILDE. Creo que se echa primero el chocolate partido a
+pedazos....
+
+DON EDUARDO. No me parece que es eso....
+
+DOÑA MATILDE. Entonces echaré primero el agua....
+
+DON EDUARDO. Tampoco.
+
+DOÑA MATILDE. Pues no hay más que echar las dos cosas a un tiempo.
+
+DON EDUARDO. Dices bien ... y una onza entera, otra partida ... así no
+podemos errarla de mucho ... pon más agua.
+
+DOÑA MATILDE. ¡Si le he puesto cerca de un cuartillo!
+
+DON EDUARDO. Y ¿qué es un cuartillo para dos jícaras?... llena la
+chocolatera, llénala.
+
+DOÑA MATILDE. ¡Hombre!
+
+DON EDUARDO. Llénala, y no empecemos con economías.
+
+DOÑA MATILDE. Ya lo está.
+
+DON EDUARDO. Divinamente; y volviendo a lo de anoche, ¿creerás,
+Matilde, que todavía me río al recordar lo asustada que estabas
+durante la ceremonia?
+
+DOÑA MATILDE. Pues mira, mayor fué, si cabe, mi congoja al subir esta
+eterna escalera a tientas, al tardar diez minutos en acertar con el
+agujero de la llave, al encontrarme después sola y sin luz en este
+aposento desconocido y frío, sin atreverme a dar un paso por no
+tropezar con algún mueble, hasta que volviste con el candelero que te
+prestó la vecina.
+
+DON EDUARDO. ¡Bendita vecina!... por ella nos escapamos anoche sin un
+chichón cada uno cuando menos, y a fe que hubiera sido de mal agüero.
+
+DOÑA MATILDE. Ya empieza a hervir el agua.
+
+DON EDUARDO. Y también deduzco del gesto que hiciste involuntariamente
+al entrar yo con la luz y recorrer tú con la vista el cuarto en que te
+hallabas, que te sorprendió en gran manera su pelaje.
+
+DOÑA MATILDE. ¡Qué disparate!
+
+DON EDUARDO. Vaya, la verdad. ¿No esperabas hallar otra cosa?
+
+DOÑA MATILDE. ¡Oh! lo que es eso....
+
+DON EDUARDO. ¿No esperabas el que los muebles, aunque pocos y sin
+embutidos, fueran siquiera de caoba y nuevos? el que hubiera cortinas
+de muselina blanca, aunque sin guarniciones ni flecos?
+
+DOÑA MATILDE. No, eso no ... ya sé yo que la caoba y la muselina no se
+han hecho para casas pobres ... pero hay muebles bastante bonitos de
+cerezo o de nogal ... hay cortinas muy baratas de percal o de zaraza ...
+y si juntas a eso unas paredes recién blanqueadas, unos pisos muy
+fregados, unas ventanas con sus correspondientes tiestos de flores, y
+otras bagatelas semejantes que cuestan poco o nada, resultará de todo
+cierta elegancia en la misma pobreza, que....
+
+DON EDUARDO. Dime, Matilde, ¿has entrado en muchas casas pobres?
+
+DOÑA MATILDE. En la de la vieja de la Alameda....
+
+DON EDUARDO. Ya me lo sospechaba yo....
+
+DOÑA MATILDE. Y además he leído mil descripciones muy verídicas, y por
+ellas....
+
+DON EDUARDO. ¡Que se va el chocolate!
+
+DOÑA MATILDE. ¿Qué dices?
+
+DON EDUARDO. Quítalo presto de la lumbre.
+
+DOÑA MATILDE. ¡Ay!
+
+DON EDUARDO. ¿Te quemaste?
+
+DOÑA MATILDE. Todo el dedo meñique.
+
+DON EDUARDO. ¡Qué desgracia!
+
+DOÑA MATILDE. No es eso lo peor, sino que como me dolía solté la
+chocolatera, y....
+
+DON EDUARDO. ¿Y se habrá apagado el fuego?
+
+DOÑA MATILDE. Completamente.
+
+DON EDUARDO. ¡Cómo ha de ser! En encendiéndola otra vez....
+
+DOÑA MATILDE. ¡Otra vez!
+
+DON EDUARDO. Aquí tengo las dos onzas restantes....
+
+DOÑA MATILDE. ¡Pero eso de soplar otra hora y media!...
+
+DON EDUARDO. ¿Qué remedio tiene? a menos que no prefieras el que cada
+cual se coma cruda la onza que le corresponde....
+
+DOÑA MATILDE. Ello todo es chocolate.
+
+DON EDUARDO. Y en bebiendo luego un buen vaso de agua....
+
+DOÑA MATILDE. Así tendremos también más lugar para hablar de nuestras
+cosas.
+
+DON EDUARDO. Para establecer desde luego nuestro método de vida.
+
+DOÑA MATILDE. Y el empleo de las horas del día. Ea, pues, venga mi
+onza, y sentémonos.
+
+DON EDUARDO. Tómala, y sentémonos ... ¿en qué piensas?
+
+DOÑA MATILDE. En nada ... en que papá estará ahora desayunándose, y....
+
+DON EDUARDO. También nosotros ... más frugalmente ... pero....
+
+DOÑA MATILDE. ¡Oh! lo que es por eso ... en estando a tu lado ... y la
+ventaja de no tener criados que nos murmuren, ni sibaritas que nos
+importunen con sus visitas....
+
+DON EDUARDO. ¿Qué habíamos de tener?
+
+DOÑA MATILDE. Disfrutando en cambio de independencia y de
+tranquilidad.
+
+DON EDUARDO. Por supuesto.
+
+DOÑA MATILDE. Y esto de vivir tranquilos, Eduardo, esto de que nadie
+venga a desencantarnos con su odiosa presencia en uno de aquellos
+momentos deliciosos.
+
+DON EDUARDO. ¡Calla! ¿Llamaron?
+
+DOÑA MATILDE. Creo que sí.
+
+DON EDUARDO. Habla bajo.
+
+DOÑA MATILDE. Pero que....
+
+DON EDUARDO. Más bajo.
+
+DOÑA MATILDE. ¿Quieres que abra?
+
+DON EDUARDO. No, no ... pero ve de puntillas, y mira si por la rendija
+puedes atisbar quién es.
+
+DOÑA MATILDE. Voy ... es un viejecito barrigoncito, con calzones de
+pana y medias rayadas.
+
+DON EDUARDO. ¡Él es!
+
+DOÑA MATILDE. ¿Quién dices?
+
+DON EDUARDO. El diablo.
+
+DOÑA MATILDE. ¡Jesús mil veces!
+
+DON EDUARDO. O el casero, que es lo mismo ... ¿dónde me esconderé?
+
+DOÑA MATILDE. ¡Esconderte!
+
+DON EDUARDO. Allí ... debajo de la cama ... y tú abre luego, y dile que
+he salido muy temprano, y que no volveré hasta la noche.
+
+DOÑA MATILDE. Eduardo....
+
+DON EDUARDO. Abre ya ... antes que nos rompa la puerta. (Al meterse
+debajo de la cama)
+
+DOÑA MATILDE. Pero, Eduardo, no entiendo....
+
+DON EDUARDO. Abre, abre. (Se mete enteramente)
+
+DOÑA MATILDE. ¡Dios mío! ¿Qué querrá decir esto?
+
+
+ESCENA II
+
+EL CASERO Y DICHOS
+
+
+CASERO. ¡Vaya, y qué dormida estaba usted!
+
+DOÑA MATILDE. No señor, sino que....
+
+CASERO. ¿Y el Sr. D. Eduardo?
+
+DOÑA MATILDE. Acaba de salir....
+
+CASERO. ¡Calle! ¡Y me había prometido que me pagaría por la mañana el
+mes adelantado!
+
+DOÑA MATILDE. Es que....
+
+CASERO. ¡Mal principio ... muy malo, a fe mía! ¿Y cuando estará de
+vuelta?
+
+DOÑA MATILDE. Me dijo que volvería al anochecer y que luego....
+
+CASERO. ¡Al anochecer!... Salir en un día de tornaboda a las ocho de
+la mañana y no volver hasta el anochecer, dígole a usted que no me da
+buena espina.
+
+DOÑA MATILDE. Puede que vuelva más pronto, y....
+
+CASERO. Pues no crea que a mí me ha de traer como a un zarandillo ... y
+lo que son los trastos no valen ni treinta reales.
+
+DOÑA MATILDE. Caballero, mi marido es incapaz de....
+
+CASERO. ¡De pagar a su casero, eh?
+
+DOÑA MATILDE. No digo eso, sino que aunque somos pobres somos personas
+de honor, y que....
+
+CASERO. Sí, sí, personas de honor sin dinero ... eso es lo que yo me
+temía ... y ésos son los peores inquilinos.
+
+DOÑA MATILDE (aparte). ¡Qué insolencia!
+
+CASERO. Pero repito que no se juega conmigo ... dígaselo usted así, y
+que si esta noche no me baja los tres duros, mañana pongo a ustedes en
+la calle con todos sus cachivaches....
+
+
+ESCENA III
+
+DOÑA MATILDE Y DON EDUARDO
+
+
+DOÑA MATILDE. ¿Tratar de ese modo a una señora?
+
+DON EDUARDO. ¡Matilde! ¿Se fué ya? (Asomando la cabeza)
+
+DOÑA MATILDE. Ya se fué.
+
+DON EDUARDO. Pues entonces prosigue aquello que decías (Saliendo de
+debajo de la cama), de que era gran cosa el poder vivir tranquilos y
+sin que nadie....
+
+DOÑA MATILDE. Sí, buena es la tranquilidad que vamos disfrutando por
+cierto.
+
+DON EDUARDO. ¡Toma, ya te desanimas!
+
+DOÑA MATILDE. No, pero sí extraño cómo has tenido paciencia para oír
+tanta grosería.
+
+DON EDUARDO. En efecto, merecía el gran vinagre que le hubiera tirado
+los tres duros a la cabeza.
+
+DOÑA MATILDE. Y ¿por qué no lo has hecho?
+
+DON EDUARDO. En primer lugar porque no tenía los tres duros.
+
+DOÑA MATILDE. Podías haberle castigado de otro modo.
+
+DON EDUARDO. No, hija, que para castigar con dignidad a un acreedor
+que se insolenta hay siempre que empezar por pagarle.
+
+DOÑA MATILDE. ¡Siempre!
+
+DON EDUARDO. ¿No ves que si no, se puede creer que uno ha querido
+zafarse a un mismo tiempo del acreedor y de la deuda?
+
+
+ESCENA IV
+
+LA VECINA Y DICHOS
+
+
+VECINA. Buenos días, vecinita ... ¿qué tal se ha dormido?.... ¿Oyeron
+ustedes los truenos a eso de las cuatro?... La encajera que vive en la
+guardilla dice que ha caído un rayo en Santa Bárbara ... pero yo no lo
+creo ... porque basta que la encajera diga una cosa para que yo no la
+crea....
+
+DOÑA MATILDE. Nosotros no hemos oído....
+
+VECINA. Ya lo supongo ... ¿qué habían ustedes de oír?... si es una
+grandísima embustera ... muy tonta y muy presumida ... sin que yo sepa
+en qué se funda ... porque al cabo, ¿qué ha sido antes de casarse?
+¿doncella en casa de un consejero? Y bien, también yo he sido
+doncella, si vamos a eso ... en casa de un covachuelista ... y un
+consejero y un covachuelo allá se van ... los dos tienen usía ... conque
+diga usted, vecina, ¿acabó usted con mi candelero?
+
+DOÑA MATILDE. Sí, señora, aquí está ... y muchas gracias....
+
+VECINA. Jesús, señora, no hay de qué ... entre vecinas y amigas hoy por
+ti, mañana por mí ... ¡y nosotras que vamos a ser tan amigas!... como
+que vivimos en el mismo piso ... porque aquí en esta casa, como en
+todas, con el vecino de al lado es con quien se trata ... y nadie
+quiere bajarse ... ni subir escaleras ... muy bien hecho ... cada oveja
+con su pareja ... la marquesa con el canónigo en el piso principal ...
+en el segundo, el abogado con el comerciante ... en el tercero, el
+agente de negocios con la viuda del coronel ... así en los demás
+pisos ... por eso también nadie trata con la encajera ... verdad es que
+no hay más guardilla que la suya ... y luego ya le dije a usted que es
+muy necia y muy vana.... Pero voyme corriendo, que dejé la sartén a
+la lumbre, no sea que se me queme la salchicha ... porque ha de saber
+usted que mi marido almuerza todos los días salchicha. (A don Eduardo)
+
+DON EDUARDO. ¡Hola!
+
+VECINA. Como usted lo oye ... y a fe que lo acierta ... para eso es casi
+un empleado ... con siete reales y lo que cae ... guarda de a caballo,
+para servir a usted y a Dios.... Ea, quédense ustedes con él.
+
+DON EDUARDO. ¿Con su marido de usted?
+
+VECINA. No señor, con Dios ... decía que se quedasen ustedes con
+Dios ... vaya, que según veo me parece usted pieza.... Ah, vecina, se me
+olvidaba, ¿necesita usted de una lavandera?
+
+DOÑA MATILDE. Precisamente iba yo....
+
+DON EDUARDO. Di que no. (Bajo a Doña Matilde)
+
+DOÑA MATILDE. No, señora, ya tenemos una....
+
+VECINA. Lo siento, porque mi hermana lava muy bien ... como que lava a
+todas las colegialas de Loreto ... y si no fuera por cierta desgracia
+que tuvo ... ya se lo contaré a usted otro día ... porque ahora estoy de
+prisa ... agur ... ¿pues no me huele a salchicha quemada?
+
+
+ESCENA V
+
+DOÑA MATILDE Y DON EDUARDO
+
+
+DON EDUARDO. ¡Qué taravilla!
+
+DOÑA MATILDE. Y ¡qué mujer tan ordinaria!
+
+DON EDUARDO. ¡Así hablas de tu amiga! (Sonriéndose)
+
+DOÑA MATILDE. ¡Pobre de mí si no tuviera otras amigas!
+
+DON EDUARDO. ¿Cuáles? (Sonriéndose)
+
+DOÑA MATILDE. Toma, las mismas que tenía antes de ayer.
+
+DON EDUARDO. ¿Viven todas ellas en quinto piso? (Sonriéndose)
+
+DOÑA MATILDE. ¿Qué sabe esa mujer lo que dice? Amigas tengo yo,
+con quienes me he criado en las Salesas, que si me vieran pidiendo
+limosna....
+
+DON EDUARDO. Te la darían quizá. (Sonriéndose)
+
+DOÑA MATILDE. Se gloriarían entonces de llamarse tales, más que si me
+vieran habitando en palacios de cristal.
+
+DON EDUARDO. O, lo que es lo mismo, en casa de un vidriero.
+
+DOÑA MATILDE. Ya, si no crees tampoco en aquellas amistades que se
+engendran en la edad preciosa....
+
+DON EDUARDO. En que no se sabe todavía lo que se quiere.
+
+DOÑA MATILDE. ¡Qué terrible estás, Eduardo!
+
+DON EDUARDO. ¿Pero no conoces que te estoy embromando? ¿De otro modo
+pudiera yo contradecirte en materias tan evidentes?
+
+DOÑA MATILDE. Eso era lo que me confundía ... pero ahora que me
+acuerdo ... ¿por qué me hiciste responder a la vecina que no
+necesitábamos de su lavandera?
+
+DON EDUARDO. Porque como no nos había de lavar de balde....
+
+DOÑA MATILDE. Alguien ha de lavar lo que emporquemos, sin embargo.
+
+DON EDUARDO. Preciso ... pero lo harás tú.
+
+DOÑA MATILDE. ¡Yo!
+
+DON EDUARDO. ¿Quién quieres que lo haga en tanto que no tengamos con
+qué pagar a otra mujer?
+
+DOÑA MATILDE. ¡Y se me llenarán de grietas!
+
+DON EDUARDO. Como que no hay cosa peor que el jabón y el agua
+caliente ... mas puedes estar segura, Matilde mía, que con la misma
+ilusión con que tu Eduardo te besa ahora esta mano tan suave y blanca,
+con la misma te la besará cuando la tengas áspera como una lija y
+colorada como un tomate.
+
+DOÑA MATILDE. No lo dudo, Eduardo; pero ... pero ello de todos modos es
+muy desagradable ... ¡y mi pobre papá que tenía tanta vanidad con mis
+manos!... ¿Qué buscas?
+
+DON EDUARDO. Di, Matilde, ¿has visto por ahí algún cepillo?
+
+DOÑA MATILDE. ¿Para qué?
+
+DON EDUARDO. Quisiera cepillarme un poco, antes de salir porque el
+polvillo del carbón....
+
+DOÑA MATILDE. ¿Que vas a salir?
+
+DON EDUARDO. Ya te dije que el apoderado de mi tío, que es escribano
+del consejo, me ha ofrecido emplearme en su despacho como copiante ...
+cuando tenga que copiar, se entiende ... y voy a ver si me adelanta
+cien reales, a cuenta de mis futuros garabatos, para pagar el casero y
+para ir viviendo.
+
+DOÑA MATILDE. Y ¿qué me he de hacer yo entretanto, sin libros, sin
+piano...?
+
+DON EDUARDO. En efecto, no tienes hoy mucho que trabajar....
+
+DOÑA MATILDE. ¡En que trabajar!
+
+DON EDUARDO. Sólo levantar la cama, barrer el cuarto, y ... pero, lo
+que es desde mañana, ya me dirás si te queda tiempo para fastidiarte.
+
+DOÑA MATILDE. ¿También tendré que barrer mañana?
+
+DON EDUARDO. Todos los días, ¡a ti que te gusta tanto la limpieza!
+y tendrás asimismo que guisar, fregar, jabonar, planchar, coser,
+remendar, y hacer en fin, todo aquello que hace una mujer casada sin
+criada.
+
+DOÑA MATILDE. Ay, Eduardo, ¿sabes que es dinero muy bien gastado el de
+los salarios?
+
+DON EDUARDO. ¿Quién dice que el dinero no sirve alguna vez de
+algo? pero no muy a menudo ... y si uno va a considerar todos sus
+inconvenientes ¿crees tú que ... no son éstas que dan las nueve?
+¡Cáspita y qué tarde!... Con esto y con que haya salido ya mi
+escribano, nos quedemos también sin comer.... Adiós vida mía, abrázame.
+
+DOÑA MATILDE. Anda con Dios.
+
+DON EDUARDO. ¡Otro abrazo ... otro ... es tanto lo que te quiero! Adiós.
+
+
+ESCENA VI
+
+DOÑA MATILDE
+
+
+DOÑA MATILDE. Ay, no sé lo que tengo ... pero ... no, no me siento muy
+buena.... ¡Ay! ¡Si se pudiera lavar con guantes de encerado! ¡Qué se ha
+de poder! ¡Luego cásese usted para estar todo el día sola! ¡Paciencia¡
+¡Picaros autores! dejarse precisamente en el tintero lo que las pobres
+habían tenido que trabajar entre sus cuatro paredes!... y ello ninguna
+tenía criada ... como yo ... y habían tenido todas que empezar cada
+mañana por levantar sus camas ... como yo voy a levantar la mía ...
+porque si yo no la levanto ... vamos allá ... ¡aquella Juana si que
+despachaba en casa todas estas cosas en un santiamén! como que estaba
+acostumbrada ... y yo desgraciadamente no lo estoy.... ¡Lo que pesa
+el colchón! (Lo pone en el suelo) ¡Pues el jergón!... (Ídem) ¡Ay,
+descansemos un poco! (Se sienta sobre uno de ellos)
+
+
+ESCENA VII
+
+LA MARQUESA Y DICHA
+
+
+MARQUESA. ¿Vive en este cuarto una mujer que lava encajes?... Pero
+¿qué ven mis ojos? ¡Matilde!
+
+DOÑA MATILDE. ¡Clementina!
+
+MARQUESA. ¡Tú aquí!
+
+DOÑA MATILDE. ¡Oh! ¡qué gusto tengo en verte!
+
+MARQUESA. ¡Y yo!... Pero ¿qué haces en este desván?
+
+DOÑA MATILDE. Ya te diré ... es que ... ¿y tú, estás todavía en las
+Salesas?
+
+MARQUESA. Qué, si me casé hace cinco meses, y vivo precisamente en el
+cuarto principal de esta misma casa.
+
+DOÑA MATILDE. Cuánto me alegro ... así estaremos todo el día juntas
+y ... pues me habían dicho que era una marquesa la que....
+
+MARQUESA. Ésa soy yo.
+
+DOÑA MATILDE. Entonces no te has casado con aquel cadete de Algarbe....
+
+MARQUESA. Qué disparate; una cosa es hacer telégrafos por entre las
+ventanas, y otra cosa es casarse.
+
+DOÑA MATILDE. Pero supongo que siempre te habrás casado enamorada de
+tu marido.
+
+MARQUESA. No lo creas ... ni le ví hasta que todo estaba tratado y
+firmado.
+
+DOÑA MATILDE. ¿Y eres dichosa?
+
+MARQUESA. Así, así ... tengo coche ... dos mil reales al mes de
+alfileres ... y en cuanto a mi marido ... es como todos los maridos, ni
+feo, ni bonito, ni ... tu suerte, Matilde, es la que no me parece muy
+envidiable.
+
+DOÑA MATILDE. Al contrario ... ayer me casé con el hombre que adoraba.
+
+MARQUESA. ¡Calla! ¿Serías tú acaso la novia que estuvo a pique de
+acostarse anoche a oscuras?
+
+DOÑA MATILDE. Verdad es que....
+
+MARQUESA. ¡Ja, ja!... y que no tuvo que cenar.... (Riéndose) ¡ja,
+ja!... Vaya, quién me hubiera dicho cuando las criadas me contaban al
+desnudarme tu fracaso, ¡ja, ja!...
+
+DOÑA MATILDE. ¡Clementina!
+
+MARQUESA. Perdona, Matilde; pero es un lance tan gracioso ... ¡ja,
+ja!... ¡tan inesperado!
+
+DOÑA MATILDE. Inesperado no; y acuérdate que siempre te juré que no me
+casaría sino a gusto mío, y con quien no tuviera nada.
+
+MARQUESA. Sí, es cierto ... también yo lo juré, si mal no me acuerdo, y
+ya ves cómo lo he cumplido ... ¡pobre Matilde!
+
+DOÑA MATILDE. ¡Me compadeces!
+
+MARQUESA. Criada con tanto regalo, y obligada ahora a tener que ganar
+tu vida, cosiendo o bordando, o ... porque algo tendrás que hacer para
+ayudar a tu marido ... que por su parte también trabajará sin duda....
+
+DOÑA MATILDE. Un escribano le ha dicho que le dará que copiar ...
+cuando tenga.
+
+MARQUESA. Pues ... a dos reales el pliego ... y tres o cuatro pliegos al
+día en escribiendo corrido ... buena ocupación, por vida mía ... pero
+dime, y tu padre ¿está furioso, eh?
+
+DOÑA MATILDE. Ya ves, habiéndome casado sin su consentimiento....
+
+MARQUESA. Y tiene mucha razón ... ningún padre puede aprobar el que su
+hija se case con un perdulario.
+
+DOÑA MATILDE. ¡Perdulario mi Eduardo! ¡Y se ha dejado desheredar de diez
+mil ducados de renta a trueque de casarse conmigo!
+
+MARQUESA. Entonces tu Eduardo es un loco de atar, porque....
+
+DOÑA MATILDE. Basta Clementina ... tu marquesado no te autoriza para
+que me insultes porque me ves ahora pobre ... y mucho más cuando nada
+pienso pedirte.
+
+MARQUESA. Harás muy mal ... que si no se pide a las amigas cuando no se
+tiene que llevar a la boca, no sé yo cuándo se ha de pedir ... y yo lo
+he sido tuya, Matilde ... no de las íntimas ... pero ... pero siempre te
+he querido bien ... ya lo sabes ... y te lo voy a probar ahora mismo ...
+allí tengo en casa cuatro docenas de camisas de batista sin hacer del
+agua, y te las enviaré....
+
+DOÑA MATILDE. No, Clementina, mil gracias, pero....
+
+MARQUESA. Sí, te las enviaré ... para que las bordes ... y para que ...
+lo que había de ganar otra ... tú bordabas muy bien....
+
+DOÑA MATILDE (aparte). ¡Qué humillación!
+
+
+ESCENA VIII
+
+LA VECINA Y DICHAS
+
+
+VECINA. Vecinita, perdone usted que me entre así de rondón ... como la
+puerta estaba abierta ... y como somos uña y carne quería enseñar a
+usted cierta cosa ... ¡mas oiga! si tendré telarañas ... ¡su señoría la
+marquesa aquí! ¡Subir una marquesa ocho tramos de escalera!
+
+MARQUESA. ¿Quién es esta buena mujer? (A doña Matilde)
+
+DOÑA MATILDE. Es una vecina que....
+
+VECINA. Soy la Nicolasa, señora ... la mujer del guarda de a caballo ...
+que vive en ese otro cuarto ... ya se ve ... su señoría no se acordará
+de mí ... porque nunca me ha visto ... o por mejor decir nunca me
+ha mirado a la cara, cuando me ha encontrado al subir o bajar del
+coche ... aunque yo saludo siempre ... pero doña Manuela la doncella me
+conoce muy bien ... y le habrá hablado de mí a su señoría ... toma si
+le habrá hablado muchas veces ... como que por ella me tomó su señoría
+el otro día aquella pieza de batista.
+
+MARQUESA. ¡Ah! ya caigo ... usted es la que suele proporcionar ropa y
+géneros de lance.
+
+VECINA. Cabalito ... como mi marido es guarda....
+
+MARQUESA. ¿Y tiene usted ahora algo de nuevo?
+
+VECINA. Sí, señora, y de bueno ... a eso venía, a enseñar a la vecinita
+un corte de vestido de punto de Flandes ... como es recién casada ... y
+como nada cuesta el ver ... pero, con permiso de su señoría, cerraré la
+puerta ... no sea que la encajera lo olfatee y vaya con el chisme ...
+porque la tal encajera es capaz de todo ... y si yo fuera a contar....
+
+MARQUESA. No, no, mejor será que veamos ese corte.
+
+VECINA. Aquí está ... ¡cosa superior! y por un pedazo de pan ...
+ochocientos reales ... ni un ochavo menos.
+
+DOÑA MATILDE. ¡Qué bonito!
+
+MARQUESA. ¡Precioso!
+
+DOÑA MATILDE. Y qué punto tan igual.
+
+MARQUESA. ¿Y la cenefa?... también es de mucho gusto.
+
+DOÑA MATILDE. Y de las más anchas ... sobresaldrá mucho sobre un viso
+caña ... ¿no te parece?
+
+MARQUESA. En efecto, y me irá muy bien como tengo bastante color ...
+y luego como tú ... en tus circunstancias, no puedes soñar en
+comprarlo....
+
+VECINA. ¡Oh! es caro bocado para un estudiante.
+
+MARQUESA. No te debe importar el que yo lo tome ... y que al fin lo
+tomaré ... ¿qué he de hacer? son tentaciones que....
+
+VECINA. ¿Y para qué es el dinero, señora, si no para gastar?... como
+dijo el otro ... y Dios le dé a su señoría mucho ... porque lo sabe
+emplear, y porque no regatea ... como otras usías de medio pelo que
+conozco yo, y que....
+
+MARQUESA. Así, Nicolasa, baje usted y le haré dar los cuarenta
+duros ... adiós, Matilde, ya nos veremos ... ya te avisaré alguna vez
+cuando esté sola ... y diré que te suban entretanto las camisas.
+
+DOÑA MATILDE. No, Clementina, no ... te lo agradezco ... pero no tengo
+tiempo ahora.
+
+MARQUESA. Como quieras ... por ti lo hacía ... mas si lo tienes a
+menos.... ¡Pobrecilla, me da mucha lástima! (A la vecina) Ella siempre
+fué un poco tiesa ... pero ya amansará, ya amansará....
+
+
+ESCENA IX
+
+DOÑA MATILDE, Y LUEGO BRUNO
+
+
+DOÑA MATILDE. ¿Sueño por ventura? ¡Es ésta aquella Clementina tan
+sentimental, de cuya amistad estaba yo tan segura! ¡Cómo me ha tratado
+con su aire de protección!... ¡peor que el casero con su grosería! y
+compró el vestido sólo por darme en ojos ... porque vió que me gustaba,
+y que ... ¡ah si yo hubiera tenido ochocientos reales! Sí, ¡cuándo
+volveré yo a tener ochocientos reales! Lo que tendré serán trabajos ...
+y humillaciones ... y jabonaduras ... ¡ah Eduardo! mucho te quiero,
+muchísimo, pero si hubiera sabido....
+
+BRUNO. ¡Señorita!
+
+DOÑA MATILDE. ¡Bruno! (Corre a abrazarle)
+
+BRUNO. ¡Pobrecita mía! Metida en esta pocilga.
+
+DOÑA MATILDE. ¿Y papá? ¿Cómo está papá? Pobre papá, cómo le he
+ofendido.
+
+BRUNO. Está bueno ... no tenga usted cuidado ... y él es quien me ha
+dicho donde vivían ustedes.
+
+DOÑA MATILDE. ¡Papá! ¿Pues cómo sabía...?
+
+BRUNO. Qué sé yo ... algún duende ... lo cierto es que ahora me llamó,
+y me dijo que le siguiera hasta aquí ... que subiera sólo ... y que
+le avisara si D. Eduardo estaba fuera de casa, para que su merced
+entonces....
+
+DOÑA MATILDE. ¡De veras? ¿Será posible que me quiera ver?
+
+BRUNO. Si estaba desde anoche como si tuviera hormiguillo ... y aunque
+no descosía sus labios, se le conocía a la legua que ... pero voy a
+abrirle.
+
+DOÑA MATILDE. Sí, corre, despáchate, ¿adonde vas? por allí está la
+escalera.
+
+BRUNO. No hay necesidad de que yo baje ... que su merced se quedó de
+centinela en la puerta principal de los Basilios, y así con una seña
+que yo le haga desde aquella ventana con el pañuelo....
+
+DOÑA MATILDE. Con el pañuelo no, que quizá no lo advierta ... toma
+esta sábana....
+
+BRUNO. Venga. (Vanse los dos a la ventana)
+
+
+ESCENA X
+
+DON EDUARDO Y DICHOS
+
+
+DON EDUARDO. Apretemos otro poco el tornillo. (Al salir y aparte)
+¡Maldito sea el primer escribano que pisó los consejos! ¡Negarme a mí
+la miseria de cien reales! (Sale ahora, tira el sombrero, y se pasea
+como muy agitado) Es una infamia.
+
+DOÑA MATILDE. Válgame Dios, ¡qué es esto!... ¿qué te ha sucedido?
+(Quitándose de la ventana)
+
+DON EDUARDO. Déjame en paz ... bribón ... tunante. Estoy por volver, y
+por....
+
+DOÑA MATILDE. Pero, Eduardo ... tranquilízate por la Virgen.
+
+DON EDUARDO. Te digo que me dejes.
+
+DOÑA MATILDE. Mira que te va a dar algo.
+
+DON EDUARDO. No será indigestión a buen seguro; pero, mujer, ¿qué has
+hecho en todo este tiempo? ¿Cómo tienes todavía así el cuarto? Vaya,
+que no es mala porquería.
+
+DOÑA MATILDE. Yo ... si ... ay, Eduardo, ¿cómo te puedes enfadar tanto
+conmigo? (Llora)
+
+DON EDUARDO. No, Matilde mía, yo no me enfado contigo ... ¿cómo había
+yo de enfadarme contigo? Vamos, no llores ... ¿quién no tiene un
+momento de mal humor? sobre todo cuando vuelve uno a su casa sin una
+blanca y....
+
+BRUNO. Y por eso se dijo que casa donde no hay harina.... (Quitándose
+de la ventana)
+
+DON EDUARDO. Calle ... ¿aquí estaba Bruno?
+
+
+ESCENA ÚLTIMA
+
+DON PEDRO Y DICHOS
+
+
+DON PEDRO. ¡Hija de mis entrañas!
+
+DOÑA MATILDE. ¡Papá, papá de mi vida!... (Se quiere arrodillar)
+
+DON PEDRO. ¿Qué haces? Levántate.
+
+DON EDUARDO (aparte). Qué pronto ha venido este demonio de hombre.
+
+DOÑA MATILDE. No señor, déjeme usted que le pida de rodillas que me
+perdone.
+
+DON PEDRO. Todo está ya perdonado y olvidado con tal que me jures que
+no nos volveremos a separar en la vida.
+
+DOÑA MATILDE. Oh, nunca, nunca.
+
+DON PEDRO. ¿Y qué, no me abraza usted, Sr. D. Eduardo? Ea, déme usted
+uno bien apretado, y salgamos pronto de este camaranchón ... que se me
+va la cabeza sólo de acordarme....
+
+DON EDUARDO. Pero, Sr. D. Pedro, me parece que usted no ha comprendido
+bien a Matilde ... ella se alegra, como buena hija, de que la vuelva a
+su gracia ... pero por lo demás está muy satisfecha con su suerte, ahí
+donde usted la ve ... y lejos de querer dejar su casa....
+
+DON PEDRO. No; no; vivirán ustedes conmigo.
+
+DOÑA MATILDE. Sí, sí, con usted, papá, con usted. (A su padre en voz
+baja)
+
+DON EDUARDO. Y si no ... con permiso de usted, Sr. D. Pedro. Oye,
+Matilde, (Se la lleva a un lado del teatro) ¿no es cierto que lo que
+a ti te acomoda es vivir tranquila en un rincón como éste, y comer
+conmigo un pedazo de pan y cebolla?
+
+DOÑA MATILDE. Si la cebolla no me recordara siempre que la como ...
+luego, Eduardo, hazte cargo ... ¿podemos acaso desairar a papá cuando
+se muestra tan bondadoso?
+
+DON EDUARDO. Según eso te resignarías y....
+
+DOÑA MATILDE. ¿Qué hemos de hacer?
+
+DON EDUARDO. El caso es que cada cual tiene su amor propio ... y para
+mí ... la verdad ... no puede ser plato de gusto el entrar en tu familia
+como un pobretón.
+
+DOÑA MATILDE. ¿Qué importa eso?
+
+DON EDUARDO. A mí mucho ... y se me caería la cara de vergüenza.
+
+DOÑA MATILDE. Pero, hombre, ¿no ves que tu tío te tiene, por fuerza,
+que perdonar también pronto?
+
+DON EDUARDO. Y ¿crees tú que me volverá a nombrar su heredero?
+
+DOÑA MATILDE. Como tres y dos son cinco.
+
+DON EDUARDO. Es que entonces tendríamos la dificultad del alguacilazgo
+y....
+
+DOÑA MATILDE. Tanto mejor, es un título muy distinguido ... casi tanto
+como maestrante.
+
+DON PEDRO. Vaya, hijos, ¿qué sale de esta consulta?
+
+DOÑA MATILDE. Que nos vamos con usted.
+
+DON PEDRO. ¡Alabado sea Dios!
+
+DON EDUARDO. Y que mi Matilde, sólo por vivir con su padre y por
+disfrutar a su lado de las ruines comodidades de la vida, sacrifica
+magnánima todos los placeres de la indigencia, que por más que digan
+aquellos que los han conocido sin buscarlos ... ni merecerlos ... tienen
+con todo mucho mérito a los ojos de ... las jóvenes de diez y siete
+años que leen novelas.
+
+
+TELÓN
+
+
+NOTES
+
+
+TITLE
+
+*Contigo pan y cebolla*: the Spanish version for 'love in a cottage'
+has many parallels. Cf. for example two such widely different sources
+as Prov. xv, 17: "Better a dinner of herbs where love is...," and Omar
+Khayyam's "A book of verses" etc.
+
+*sillas de paja vieja*: 'worn-out cane (or reed) chairs.'
+
+
+ACTO PRIMERO, ESCENA PRIMERA
+
+*se habrá usted estado leyendo*: 'you must have been reading.' The
+future of possibility, with the corresponding conditional to express
+possibility in the past, occurs very frequently in this play.
+
+*Pero hombre, que estás ahí charlando sin saber*: 'but, man alive,
+there you are' etc. The redundant que as employed by the various
+characters in the play would make a profitable study in idiomatic
+Spanish speech.
+
+*Papamoscas de Burgos*: a popular carved figure that forms part of the
+mechanism of a clock in the famous cathedral at Burgos, Spain. The
+*papamoscas* comes out at certain hours just as do the figures in
+a cuckoo clock. The term *papamoscas* is also familiarly used
+for *papanatas* (gullible person). Since the stories about the
+*Papamoscas* are, to the sophisticated, pure inventions, to speak of
+the niece of the *Papamoscas* is from Bruno's point of view, at least,
+to indicate the highest degree of improbability.
+
+*se indigestan*: 'are hard to digest' (cf. English "are hard to
+swallow").
+
+*San Juan de Dios*: reference to the clock in the neighboring tower of
+the monastery of St. John of God. (An excellent book of reference
+that gives details of the monuments and streets of old Madrid is "El
+antiguo Madrid," by Ramón de Mesonero Romanos, Madrid, 1861.)
+
+
+ESCENA SEGUNDA
+
+*se vuelve agua de borrajas*: the correct expression is *agua de
+cerrajas* 'nothing at all,' 'shucks' (*cerraja* meaning the common
+sow-thistle). As the flower of the borage is used to induce
+perspiration, Bruno is misled by the similarity of sound between
+*cerraja* and *borraja*.
+
+
+ESCENA CUARTA
+
+*como un tronco de dormido*: 'sleeping like a log.'
+
+*Malibrán*: Marie Félicité Malibran (1808-1836), singer, of Spanish
+blood, born in Paris; by Spanish maiden name María Felicia García.
+
+
+ESCENA QUINTA
+
+*Mande usted*: stock reply of servants, children, etc. when called by
+their superiors in station or age. Cf. other stock expressions used in
+the play on other occasions, as Matilde's *beso a V. la mano* and don
+Pedro's *a la disposición de V.*
+
+
+ESCENA SEXTA
+
+*qué me sé yo*: 'what do I know about it?' Note the redundant
+reflexive.
+
+
+ACTO SEGUNDO, ESCENA PRIMERA
+
+*qué _pero_ le puede poner la señorita*: 'what fault can the young
+lady find with.'
+
+
+ESCENA SEGUNDA
+
+*geringonza*: cf. vocabulary, *jerigonza*.
+
+*hágame decir: hágame el favor de decir.*
+
+
+ESCENA TERCERA
+
+*Ya las quisiera yo de tres y media*: 'I'd rather have them of three
+and a half.' Three and a half yards is the regulation quantity of
+material needed for making a man's shirt.
+
+
+ESCENA SEXTA
+
+*el día de los innumerables mártires de Zaragoza*: April 16, the
+feast-day of the eighteen martyrs condemned to death in Saragossa in
+the time of the emperor Diocletian.
+
+*si usted podía ser dichosa*: note the imperfect indicative in an
+unreal condition.
+
+*Sacedón*: watering-place in the province of Guadalajara, Spain.
+
+*Nueva Holanda*: Australia.
+
+*Isla de Francia*: Spanish form for the old French name of the island
+Mauritius, to the east of Madagascar. It is now an English possession.
+
+Pablo y Virginia: Paul and Virginia (cf. vocabulary under *Domingo*).
+
+
+ESCENA SÉPTIMA
+
+*_qui pro quo_*: French *quiproquo* 'misunderstanding' (by taking one
+person or thing for another); from medieval Latin *quid pro quod*, the
+blunder of using one grammatical form for another. Contrast English
+*quid pro quo* 'equivalent.'
+
+*_Dominus tecum_*: medieval superstition required the pronouncing of a
+blessing when a person sneezed, because of a belief in the presence of
+a demon. The custom survives in many countries as a form of courtesy.
+
+*Herodes el Ascalonita*: 'Herod of Askelon'; Bruno's mind, which works
+in a fashion similar to the working of Sancho's brain in Don Quixote,
+is searching for a case of extreme cruelty, and he here probably
+recalls the slaughter of the innocents at the command of Herod.
+
+
+ACTO TERCERO, ESCENA TERCERA
+
+*_velis nolis_* (Latin): 'willy-nilly.'
+
+*no sea que salga: para que no sea que salga.*
+
+*dispensa*: in this case, permission from the bishop or other
+dignitary to waive the formalities preceding a wedding in the Catholic
+church.
+
+*Ofelia, Malvina, Etelvina, Coralina*: heroines of the various books
+*de forro colorado* that Matilde has been reading.
+
+*que conservo en polvo*: 'that I keep although there is nothing left
+of it but dust' (or ashes).
+
+
+ESCENA CUARTA
+
+*como quien dice*: 'as you might say.'
+
+*Hace que se va*: 'pretends to go.'
+
+
+ESCENA QUINTA
+
+*el mismo que viste y calza*: 'fine and dandy'; 'as big as life.' The
+correct expression is *vestido y calzado*.
+
+
+ESCENA SÉPTIMA
+
+*A buena hora, mangas verdes*: 'nice time for that.' Cf. the similar
+expression *buenas son mangas después de pascua* 'it's high time, but
+better late than never.'
+
+
+ACTO CUARTO, ESCENA CUARTA
+
+*ha caído un rayo en Santa Bárbara*: Mesonero Romanos in "El antiguo
+Madrid" mentions the convent of Santa Barbara at the end of the *Calle
+de Hortaleza*, a well-known street in Madrid, but states that the
+building has been removed to make way for private residences.
+
+*y lo que cae*: 'and with what he can pick up.'
+
+*me parece usted pieza*: 'it strikes me you're something of a wag.'
+
+*todas las colegialas de Loreto*: 'all the girls who attend the
+convent of Our Lady of Loreto.' The convent was so named in honor of
+the Virgin Mary, an image of whom, called *Nuestra Señora de Loreto*,
+had been brought from Rome and set up in the adjoining church of the
+same name. The school at first was for poor children; but later Philip
+IV established here a convent for orphan girls of good family.
+
+
+ESCENA QUINTA
+
+*las Salesas*: convent of the nuns of Our Lady of the Visitation.
+Mesonero Romanos ("El antiguo Madrid," p. 253) writes of it: "El
+convento puede llamarse un verdadero palacio regio."
+
+
+ESCENA SEXTA
+
+*ello ninguna tenía: ello es que ninguna tenía*; 'it is a fact that
+not one of them had.'
+
+*vamos allá*: 'no one else will.'
+
+
+ESCENA SÉPTIMA
+
+*Algarbe*: Algarve, province in the extreme south of Portugal.
+
+
+ESCENA OCTAVA
+
+*soy la Nicolasa*: definite article frequently used with a woman's
+name in a slightly depreciative sense or to express familiarity.
+
+*me irá muy bien*: 'will be very becoming to me.'
+
+*como dijo el otro*: colloquial expression used after what the speaker
+considers a pat remark. Cf. English "as Shakespeare says."
+
+
+ESCENA DÉCIMA
+
+*casa donde no hay harina*: the correct version of the proverb is
+*donde no hay harina, todo es mohina* ('ill humor' or 'bickering');
+"love flies out of the window when poverty enters the door."
+
+
+PREGUNTAS Y TEMAS
+
+
+ACTO PRIMERO
+
+1. ¿Cómo estará amueblada la sala en donde pasan los tres primeros
+actos?
+
+2. ¿Quiénes son los primeros personajes que hablan?
+
+3. ¿Por qué está sorprendido Bruno?
+
+4. ¿Ha dormido bien Matilde?
+
+5. ¿Qué vicio tiene la joven?
+
+6. ¿Quién es la única persona que ha venido a la casa antes de las
+siete?
+
+7. Generalmente ¿quiénes son las gentes que llegan tan temprano?
+
+8. ¿A qué cosa atribuye Bruno la indisposición de su ama?
+
+9. ¿Cómo entiende Matilde la frase "para siempre"?
+
+10. ¿Qué idea tiene Bruno de estas palabras?
+
+11. ¿Por qué ha tardado Eduardo?
+
+12. ¿Cómo deben llegar los héroes de novela a pedir la mano de la
+dama?
+
+13. Al entrar Eduardo ¿qué le manda Matilde a Bruno?
+
+14. De almuerzo ¿qué ha tomado Eduardo?
+
+15. Generalmente ¿qué toman en el almuerzo los americanos? ¿los
+franceses? ¿los ingleses?
+
+16. ¿Por qué no ha probado bocado Matilde?
+
+17. ¿Qué se sabe de Eduardo?
+
+18. ¿Por qué no le permite Matilde que hable de su familia?
+
+19. ¿Por qué regaña Matilde a Bruno al volver éste?
+
+20. ¿Por qué no está enojado Eduardo también?
+
+21. Al sentir los pasos de su padre ¿qué preparativos va a hacer la
+heroína?
+
+22. ¿Cómo es que no le sorprende al padre la visita del joven?
+
+23. Según las ideas de D. Pedro ¿cuáles son las circunstancias
+favorables para un enlace dichoso?
+
+24. ¿Por qué está seguro D. Eduardo de la contestación que va a darle
+Matilde?
+
+25. ¿Qué está haciendo ella mientras hablan los dos señores?
+
+26. ¿Cómo se explica el extraño modo de hablar de Matilde cuando la
+hace entrar su padre? Repita V. algunos de los disparates que dice.
+
+27. ¿Cómo recibe la muchacha las noticias de las circunstancias
+favorables de Eduardo?
+
+28. ¿Cómo se termina el acto?
+
+1. Los argumentos de los libros de forro colorado.
+
+2. Repita V. el diálogo entre los dos caballeros al saludarse.
+
+3. Las diversiones de los españoles cuando se reúnen en tertulia. ¿De
+qué hablan la señoras? ¿Cómo se portan los jóvenes?
+
+4. Cuente V. las cosas de que hablan ellos.
+
+5. Una descripción imaginaria de los antiguos pretendientes de la
+joven.
+
+6. Describa V. cómo se juega a "la gallina ciega".
+
+7. Aprenda V. de memoria la contestación de Matilde a la declaración
+de Eduardo.
+
+8. Un resumen de la acción dramática.
+
+
+ACTO SEGUNDO
+
+1. ¿Qué cree D. Pedro antes de leer la carta de Eduardo?
+
+2. ¿Qué piensa después?
+
+3. ¿Se comprende ya el motivo que tenía éste en formar el plan?
+
+4. ¿Sabe Bruno la causa del enojo de su amo?
+
+5. ¿Cuál es el último favor que pide Eduardo al criado?
+
+6. ¿Bajo qué pretexto quiere Eduardo hablar con Matilde?
+
+7. ¿En qué piensa éste cuando se queda solo?
+
+8. ¿Cuál es el único recurso que tiene?
+
+9. ¿Por qué habla él de esta manera?
+
+10. ¿Sobre qué disputan Bruno y su ama?
+
+11. ¿Cómo introduce Eduardo las noticias de su partida?
+
+12. ¿Cuándo comienza a ablandarse la joven?
+
+13. ¿Qué le cuenta Eduardo de sus riquezas?
+
+14. ¿Qué rasgos del carácter de ella se revelan ahora?
+
+15. Al verlos reconciliados ¿qué quiere hacer el padre?
+
+16. ¿Cómo se lo impide el novio?
+
+17. ¿Cómo indica Eduardo al padre el papel que tendrá que hacer éste?
+
+18. ¿Qué piensa Bruno?
+
+1. Las buenas cualidades de Eduardo según D. Pedro; según las ideas de
+Bruno.
+
+2. La diferencia entre las señoritas de antaño y las muchachas
+modernas.
+
+3. El proyecto de Eduardo.
+
+4. Las excusas que da Bruno cuando su amo no quiere recibir a Eduardo.
+
+5. Aprenda V. de memoria una parte del diálogo entre Eduardo y Bruno.
+
+6. Explique V. la sorpresa del criado al ser llamado "querido Bruno".
+
+7. Describa V. la acción en la escena V.
+
+8. Las primeras palabras de Eduardo cuando le habla por segunda vez
+Matilde.
+
+9. La acusación que hace Eduardo.
+
+10. Los lugares a donde cuenta Eduardo que irá.
+
+11. Diga V. lo que sabe de cada uno de estos sitios.
+
+12. Describa V. lo que se encuentra en la Isla de Francia.
+
+13. Los pensamientos de la muchacha al tener que retirarse.
+
+14. Un breve resumen del acto.
+
+
+15. Las ocupaciones de las señoritas españolas y las de las señoritas
+de otros países.
+
+16. Lista de los varios modismos encontrados en la carta de Eduardo.
+
+17. Una carta semejante a la que escribe Eduardo a Matilde.
+
+18. La historia de Pablo y Virginia.
+
+
+ACTO TERCERO
+
+1. ¿Qué excusa le da el padre a su hija para no aceptar al
+pretendiente?
+
+2. ¿Qué sufren las amas de casa cuando son pobres?
+
+3. ¿Quién es Toribio?
+
+4. ¿Cuáles son sus deberes?
+
+5. ¿Qué alternativa le queda a Matilde si no obedece a su padre?
+
+6. ¿Cuáles son los nuevos quehaceres de Bruno?
+
+7. ¿Cuáles son los preparativos que ha hecho el novio para la boda?
+
+8. ¿Por qué se convence Matilde de que debe ceder a las instancias de
+Eduardo?
+
+9. Cuando está indecisa ella ¿cómo la anima su amante?
+
+10. ¿Qué va a suceder a las ocho y media?
+
+11. ¿Qué prendas va a llevar consigo Matilde?
+
+12. ¿Por qué se empeña en salir por la ventana?
+
+13. ¿Qué escribe de esta acción el crítico Larra?
+
+14. ¿Qué opina V.?
+
+15. ¿Cómo es que cede Bruno a Matilde?
+
+16. ¿Por qué tiene D. Pedro tanta prisa en salir de la casa?
+
+17. ¿Por qué se apagan las luces?
+
+18. ¿De qué manera debe salir de la casa paterna una señorita
+romántica?
+
+19. ¿Qué opina el crítico Larra de todo esto?
+
+20. ¿Cuáles son las últimas cosas que hace Matilde antes de irse?
+
+21. ¿Qué elementos cómicos hay en el acto?
+
+1. Un resumen del monólogo de Matilde al hallarse sola.
+
+2. Hable V. de los "mil horrores" que ha dicho D. Pedro acerca de D.
+Eduardo.
+
+3. Cuente V. lo que pasa cuando el criado se queda solo.
+
+4. Describa V. la escena entre Bruno y su amo.
+
+5. Explique V. la lucha que tiene Bruno consigo mismo.
+
+6. Aprenda V. una lista de las expresiones chistosas que se encuentran
+en este acto.
+
+7. Discuta V. sobre las improbabilidades.
+
+8. Un análisis del carácter de Bruno.
+
+9. Una escena imaginaria tratando de los preparativos que hace D.
+Eduardo antes de las ocho y media.
+
+
+ACTO CUARTO
+
+1. ¿Qué hay de gracioso en la preparación del chocolate?
+
+2. ¿Cómo consiguieron ellos el candelero?
+
+3. ¿Qué pasa en el momento en que llaman a la puerta?
+
+4. ¿Qué diferencias se notan entre los criados y los otros personajes
+de la comedia en cuanto a su lenguaje, sus pensamientos, sus modales
+etc.?
+
+5. ¿Cuáles son los nuevos deberes de Matilde?
+
+6. ¿Por qué salió su esposo?
+
+7. ¿Qué importancia dramática tiene la escena VI?
+
+8. ¿Cuántas emociones distintas tiene Matilde en su encuentro con su
+antigua amiga?
+
+9. ¿Cómo ofrece a ayudar a Matilde?
+
+10. ¿Qué indica la entrada de Bruno?
+
+11. ¿Cómo sigue Eduardo engañando a su esposa?
+
+12. ¿Qué hay de bueno y de natural en lo que hace él ahora?
+
+13. En la escena última ¿se arrodilla Matilde porque es romántica o
+porque está verdaderamente arrepentida?
+
+1. Una descripción del escenario aquí representado.
+
+2. Indique V. cómo se sabe que es una escena española.
+
+3. Los muebles que pondría Matilde en un cuarto cómodo.
+
+4. Descripción de otros cuartos sencillos y cómodos.
+
+5. Descripción de la boda.
+
+6. Aprenda V. de memoria el diálogo entre Matilde y el casero.
+
+7. La vecina y el motivo de su visita.
+
+8. La gente que vive en la misma casa con Matilde.
+
+9. Eduardo en busca de trabajo.
+
+10. La vida de Matilde y Clementina en el colegio.
+
+11. La vida diaria de la marquesa.
+
+12. Un análisis del carácter de la marquesa.
+
+13. Lo significante de la situación después de irse la marquesa.
+
+14. Describa V. cómo Eduardo aprieta el tornillo.
+
+15. Indique V. las ideas prácticas que ya tiene Matilde.
+
+16. Un resumen del cuarto acto.
+
+17. Un resumen del argumento de la comedia.
+
+18. Una crítica de ella.
+
+19. La crítica de D. Mariano José de Larra.
+
+20. Otra terminación posible.
+
+21. El significado del título.
+
+22. Una defensa de Matilde.
+
+23. Escenas encontradas en otras comedias semejantes a las de _Contigo
+Pan y Cebolla_.
+
+
+VOCABULARY
+
+The sign "*----*" means the word printed in black type at the head of
+the paragraph; thus, *buenos ----s* under *día* means *buenos días*
+
+
+*a* at; to; for; as; from; *---- la* (_with noun or adj._) in the
+style of
+
+*abandonar* abandon
+
+*ablandar* soften
+
+*abogado* _m._ lawyer
+
+*aborrecer* abhor
+
+*abrazar* embrace
+
+*abrazo* _m._ embrace
+
+*abrir* open
+
+*absolutamente* absolutely
+
+*absolutismo* _m._ despotism
+
+*absoluto* absolute
+
+*absorber* absorb
+
+*acá* here; *desde entonces ----* from then till now
+
+*acabar* finish, end; *---- con* use up; *---- de* (_with inf._) have
+just; *que no acababa de llegar nunca* that you were never going to
+come
+
+*acaso, por ----*, perhaps; by chance
+
+*acceder* accede to, grant
+
+*acción* _f._ action
+
+*aceptar* accept
+
+*acerca: ---- de* about, concerning
+
+*acercar(se)* draw near
+
+*acero* _m._ steel
+
+*acertar (con)* hit; hit upon; *a fe que lo acierta* you bet it agrees
+with him
+
+*acomodar* suit
+
+*acomodaticio* adaptable, accommodating
+
+*acompañar* accompany
+
+*acordarse (de)* remember
+
+*acostarse* go to bed
+
+*acostumbrar* accustom
+
+*acreedor* _m._ creditor
+
+*actitud* _f._ attitude
+
+*actividad* _f._ activity
+
+*activo* active
+
+*acto* _m._ act
+
+*actual* present
+
+*acusación* _f._ accusation
+
+*adelantado* (_pp. of_ *adelantar*) advanced, in advance
+
+*adelantar(se)* advance
+
+*además* besides
+
+*adentro* within; off stage
+
+*adiós* good-by
+
+*adivinar* guess
+
+*adjetivo* _m._ adjective
+
+*administración* _f._ administration
+
+*admiración* _f._ admiration
+
+*admirador* _m._ admirer
+
+*admirar* wonder; admire
+
+*admitir* admit
+
+*adolescencia* _f._ adolescence
+
+*adonde* where
+
+*adorado* (_pp. of_ *adorar*) adored
+
+*adorar* adore
+
+*adquirir* acquire
+
+*adversario* _m._ adversary
+
+*adversidad* _f._ adversity
+
+*advertir* notice
+
+*afable* affable, kind
+
+*afeitar(se)* shave
+
+*afición* _f._ fondness, liking; *---- a* fondness for
+
+*afiladura* _f._ sharpening
+
+*afilar* sharpen
+
+*afortunado* fortunate
+
+*África* _f._ Africa
+
+*agente* _m._ agent
+
+*agitación* _f._ agitation
+
+*agitar* agitate
+
+*aglomeración* _f._ heaping up
+
+*agobiar* oppress
+
+*agonía* _f._ agony
+
+*agradar* please
+
+*agradecer* be thankful for
+
+*agreste* rough
+
+*agrio* sour, bitter
+
+*agrupar* group
+
+*agua* _f._ water
+
+*aguador* _m._ water-carrier
+
+*agüero* _m._ omen
+
+*agujero* _m._ hole
+
+*agur* _colloquial exclamation of farewell_ (_cf. English_ So long)
+
+*ahí* here; *de ----* from this, therefore
+
+*ahinco* _m._ earnestness
+
+*ahora* now, nowadays; *---- mismo* right now
+
+*ahuecar* hollow; *---- la voz* speak in a solemn tone
+
+*aire* _m._ air
+
+*ajeno* foreign, remote; another's
+
+*ajustar* adjust, fit, arrange, settle
+
+*alabar* praise
+
+*alameda* _f._ grove of poplar or cottonwood trees; public walk; park
+
+*Alcalá Galiano, Antonio* (1789-1865), noted Spanish statesman and
+orator
+
+*alcanzar* attain, reach
+
+*alegrar* gladden; *--se* be glad
+
+*alegre* merry, gay; *---- de cascos* giddy
+
+*alegría* _f._ joy, gladness
+
+*alejar* remove
+
+*alemán* German
+
+*alfiler* _m._ pin
+
+*algo* anything; something; somewhat
+
+*alguacil* _m._ constable; *---- mayor* chief constable (an honorary
+office)
+
+*alguacilazgo* _m._ constabulary office
+
+*alguien* some one
+
+*alguno* some, any; (_with negative_) at all, whatever; *alguna de las
+tuyas* one of your breaks
+
+*alhaja* _f._ jewel
+
+*alianza* _f._ engagement
+
+*alma* _f._ soul
+
+*almondiguilla* _f. dim. of_ *almóndiga* (_also written_ *albóndiga,
+albondiguilla*) little ball of forced meat with rice and egg etc.
+*Albóndigas* are served in the clear soup in which they have been
+cooked
+
+*almorzar* breakfast; eat for breakfast
+
+*almuerzo* _m._ breakfast
+
+*altar* _m._ altar
+
+*alternativa* _f._ alternative
+
+*alto* high, loud
+
+*altura* _f._ height
+
+*allá* there; *---- se van* are one and the same thing
+
+*allí* there
+
+*ama* _f._ mistress; *---- de casa* house-wife
+
+*amable* kind
+
+*amador* _m._ lover
+
+*amanecer* dawn
+
+*amansar* tame, soften
+
+*amante* _m. and f._ lover
+
+*amar* love
+
+*amargar* embitter; be bitter
+
+*amargura* _f._ bitterness
+
+*amenazar* threaten
+
+*americano* American
+
+*amigo* _m._ friend
+
+*amistad* _f._ friendship
+
+*amo* _m._ master
+
+*amor* _m._ love; *---- propio* self-esteem
+
+*amoroso* love (_as in_ "love letters"), loving
+
+*amueblar* furnish
+
+*análisis* _m._ analysis
+
+*anciano* _m._ old man
+
+*ancho* wide
+
+*andaluz* Andalusian
+
+*andar* walk, go; *--se en miramientos* be too particular; *---- a
+tientas* grope (as in darkness)
+
+*ángel* _m._ angel
+
+*Angostura* _f._ Angostura (name of a narrow pass about seven miles
+from the town of Saltillo in the state of Coahuila, Mexico)
+
+*anhelar* long for
+
+*animación* _f._ animation
+
+*animar* encourage, animate
+
+*ánimo* _m._ courage, spirit
+
+*anís* _m._ anise
+
+*anoche* last night; *lo de ----* what happened last night
+
+*anochecer* grow dark
+
+*anotar* note
+
+*antaño* last year; times gone by
+
+*ante* before
+
+*anterior* former
+
+*antes* before; rather; first
+
+*antesala* _f._ antechamber, hall
+
+*antiguo* old; former; *a la antigua* in the old style
+
+*antiparras* _f. pl._ glasses, spectacles
+
+*antojarse* fancy, imagine
+
+*anublar* cloud
+
+*anunciar* announce
+
+*añadir* add
+
+*año* _m._ year
+
+*apagar* put out, extinguish
+
+*aparecer* appear
+
+*aparentar* assume, sham
+
+*apariencia* _f._ appearance
+
+*apartamiento* _m._ apartment
+
+*apartar* separate; *apartados entre sí* removed from each other
+
+*aparte* aside
+
+*apelación* _f._ appeal
+
+*apelar* appeal; resort to
+
+*apenas* scarcely
+
+*apetecer* crave
+
+*apetito* _m._ appetite
+
+*apoderado* _m._ business representative
+
+*apoderarse de* take possession of
+
+*aposento* _m._ room
+
+*apostar* place, station
+
+*apreciar* appreciate
+
+*aprecio* _m._ appreciation
+
+*aprender* learn
+
+*apretar* press, tighten; *aprieta* _exclam._ hush, stop
+
+*aprobar* approve of
+
+*aprovechar* take advantage of
+
+*aproximar(se)* approximate; approach
+
+*apurar* find out, clear up
+
+*aquel, aquella*, _dem. adj._ that, that very
+
+*aquél, aquélla, aquello*, _dem. pron._ that one, he, she, the former,
+_etc._
+
+*aquí* here
+
+*aquiescencia* _f._ acquiescence
+
+*ara* _f._ altar
+
+*Aranjuez* Aranjuez (town and royal palace near Madrid. Here occurred
+in 1808 the popular uprising against Godoy, the Spanish minister,
+which caused Charles IV to abdicate in favor of his son Ferdinand)
+
+*Araucana* _f._ Araucana (epic by Alonso de Ercilla, on the conquest
+of Chile and the bloody encounters of the Spaniards with the native
+*araucanos*)
+
+*arbitrio* _m._ power, means
+
+*argumento* _m._ plot (of a play or story)
+
+*arma* _f._ arm, weapon
+
+*armar* lay, set up (as a plot)
+
+*armatoste* _m._ clumsy article
+
+*arrancar* snatch, pull
+
+*arrastrar* drag, drag out, draw
+
+*arrebatar* carry off, snatch; *----se* be led away; rush
+
+*arredrar* terrify; *----se* become terrified
+
+*arreglar* arrange
+
+*arreglo* _m._ arrangement, settlement
+
+*arrepentirse* repent
+
+*arriero* _m._ muleteer
+
+*arriesgar* risk
+
+*arrimar* draw near, draw up
+
+*arrodillarse* kneel
+
+*arrojar* throw
+
+*arrullar* rock to sleep
+
+*arte* _m. and f._ art
+
+*artesano* _m._ artisan
+
+*Ascalonita* _m._ native of Askelon (in Palestine), Askelonite
+
+*ascendiente* _m. and f._ ancestor (direct or collateral)
+
+*asegurar* assure; assert positively
+
+*así* this way; that way; so; *---- como* just as
+
+*asimismo* likewise
+
+*asomar* thrust out; *----se* appear
+
+*asombrar* astonish
+
+*aspaviento* _m._ demonstration of terror
+
+*áspero* rough
+
+*aspirar* aspire
+
+*astuto* astute
+
+*asumir* assume
+
+*asunto* _m._ subject, matter
+
+*asustar* frighten
+
+*Atala* Atala (heroine of Chateaubriand's novel "Atala")
+
+*ataque* _m._ attack
+
+*atar* tie; *hay que --lo* he needs a strait-jacket; *---- tantos
+cabos* arrange so many things
+
+*atención* _f._ attention; *en ---- a* bearing in mind
+
+*atender a* heed, listen to; attend
+
+*atento* attentive; *su ---- y seguro servidor* sincerely yours
+
+*atisbar* take a peep; spy out
+
+*atrás* backwards
+
+*atravesar* cross; pierce
+
+*atreverse a* dare
+
+*atrevido* bold
+
+*atribuir* attribute
+
+*atufarse* be angry
+
+*aturdir* stun, bewilder
+
+*aún* yet; still; even; _when placed before the word modified it is
+written without the accent_
+
+*aunque* although
+
+*ausencia* _f._ absence
+
+*autor* _m._ author
+
+*autoridad* _f._ authority
+
+*autorizar* authorize
+
+*avalorar* estimate, appreciate
+
+*avanzado* (_pp. of_ *avanzar*) advanced
+
+*aventura* _f._ adventure
+
+*averiguar* find out
+
+*avisar* inform, notify
+
+*ay* _exclam._ oh
+
+*ayer* yesterday
+
+*ayuda* _f._ help
+
+*ayudar* help
+
+*ayuno* in a state of fasting; *en ----, en ayunas*, without knowing,
+without understanding
+
+*ayuntamiento* _m._ municipal governing body
+
+
+*baba* _f._ drivel; *caerse la ----* drivel, slaver with pleasure;
+_cf. English_ lick one's chops
+
+*bagatela* _f._ trifle
+
+*bailar* dance; *esta es otra que bien baila* here's another one just
+as bad
+
+*bajá* _m._ pasha
+
+*bajar* come down; go down; bring down
+
+*bajeza* _f._ lowness
+
+*bajo* under; on; _adj. and adv._ low
+
+*balde* _m._ (_from_ *balda* _f._ a thing of trifling value): *de
+----* free; *en ----* in vain
+
+*bandera* _f._ flag
+
+*bando* _m._ party, faction
+
+*barato* cheap
+
+*barba* _f._ beard; _pl._ whiskers; *decir en sus ----s* say to one's
+face
+
+*Bárbara* Barbara; *Santa ----* patron saint of gunnery; the
+powder-house
+
+*barrer* sweep
+
+*barrigoncito* _dim. of_ *barrigón* pot-bellied
+
+*barrio* _m._ district, neighborhood
+
+*Basilio* Basil; _as adj. applied to a monk_ of the order of St. Basil
+
+*bastante* enough; quite; considerable
+
+*bastar* be enough
+
+*batalla* _f._ battle
+
+*batallón* _m._ battalion
+
+*batir* strike; _--se_ fight
+
+*batista* _f._ batiste
+
+*bayoneta* _f._ bayonet
+
+*baza* _f._ trick (at cards)
+
+*beber* drink
+
+*belleza* _f._ beauty
+
+*bello* beautiful, fine
+
+*bendecir* bless
+
+*berenjena* _f._ plant one of whose varieties is the egg-plant (_to
+eat its fruit was once popularly supposed to cause insanity_); *qué
+----s* what craziness; what stuff
+
+*Berlín* Berlin
+
+*berroqueña* _adj. used with noun_ *piedra* (rock, stone) _to mean_
+granite, _as_ *piedra ----* granite, granite rock; *ser de piedra
+----* be hard as stone
+
+*besar* kiss
+
+*biblioteca* _f._ library
+
+*bibliotecario* _m._ librarian
+
+*bien* well; quite; *más ----* rather; _m._ good, benefit; object of
+love; _pl._ property; *----es de fortuna* worldly treasures
+
+*bienestar* _m._ well-being
+
+*bigote* _m._ mustache; *decir en sus ----s* say to one's face (_cf._
+*decir en sus barbas*)
+
+*blanca* _f._ old silver coin (no longer in use)
+
+*blanco* white
+
+*blanquear* whiten
+
+*boardilla* _f._ garret
+
+*boca* _f._ mouth
+
+*bocado* _m._ mouthful
+
+*boda* _f._ wedding; marriage
+
+*bodorrio* _m._ (_fam. for_ *bodijo*) unequal marriage
+
+*bollo* _m._ roll, cake
+
+*Bonaparte, Joseph* (1768-1844), brother of Napoleon I, through whose
+agency he became Spain's unwelcome ruler from 1808 to 1813
+
+*bondad* _f._ goodness
+
+*bondadoso* kind, generous
+
+*bonito* pretty; good-looking
+
+*boquirrubio* simple, artless
+
+*bordar* embroider
+
+*borraja* _f._ borage
+
+*bosque* _m._ forest
+
+*bostezar* yawn
+
+*botica* _f._ drug store; drug
+
+*brasero* _m._ brazier, pan to hold coals
+
+*bravo* brave, fierce
+
+*brazo* _m._ arm
+
+*breve* brief
+
+*bribón* _m._ rascal
+
+*brillante* brilliant
+
+*brinco* _m._ leap
+
+*Bruno* Bruno (brown)
+
+*Bruselas* Brussels
+
+*buche* _m._ crop, craw; "chest"
+
+*bueno* good; all right; *estar ----* be well; *estar ---- para* be in
+the mood for (_often with the opposite meaning_, be in no mood for)
+
+*buey* _m._ ox
+
+*Burgos* Burgos (city in northern Spain)
+
+*burlarse de* make fun of, mock
+
+*busca* _f._ search
+
+*buscar* look for
+
+*Bustamante, General Anastasio* (1780-1853), vice-president of Mexico
+under President Guerrero in 1829; president of Mexico in 1830; again
+president from 1837 to 1841
+
+
+*cabal* exact; exactly
+
+*cabalito* (_intensive of_ *cabal*) just exactly so
+
+*cabalmente* exactly, precisely
+
+*caballerito* _m._ (_dim. of_ *caballero*) young gentleman, young
+master (_expression used by servants in addressing a young master_)
+
+*caballero* _m._ sir; gentleman
+
+*cabecera* _f._ head (of a bed)
+
+*caber* be contained; *si cabe* if possible
+
+*cabeza* _f._ head; *irse la ----* go mad
+
+*cabo* _m._ end; *al ----* after all, finally, at last; *de ---- a
+rabo* from start to finish
+
+*cacao* _m._ cocoa
+
+*cachivache* _m._ broken crockery; _pl._ worthless pots and pans
+
+*cada* each, every; *---- cual* each one
+
+*cadete* _m._ cadet
+
+*Cádiz* Cadiz (city in Spain; in 1810 the scene of the radical
+outburst of the Cortes that embodied the Spanish spirit of democracy;
+here in Cadiz was drawn up the famous Constitution of 1812)
+
+*caer* fall; *----se* fall down; *ya caigo* now I remember, now I
+understand
+
+*caída* _f._ fall
+
+*caja* _f._ drum; *echar con ----s destempladas* send away angrily
+
+*calabaza* _f._ pumpkin, squash; *dar ----s* jilt, reject
+
+*calabozo* _m._ cell, dungeon
+
+*calceta* _f._ under-stocking; *hacer ----* knit
+
+*calcular* calculate
+
+*caliente* hot
+
+*California* _f._ California; _pl._ Upper and Lower California
+
+*cáliz* _m._ chalice, cup
+
+*calor* _m._ heat
+
+*calumniar* slander
+
+*calzar* put on shoes, put on spurs, _etc._
+
+*calzoncillos* _m. pl._ drawers
+
+*calzones* _m. pl._ breeches
+
+*callado* (_pp. of_ *callar*) silent
+
+*callar* hush; be silent; not mention; *calla, calle,* whew, why
+
+*calle* _f._ street
+
+*cama* _f._ bed
+
+*camaranchón* _m._ garret
+
+*cambiar* change
+
+*cambio* _m._ change; *en ----* on the other hand; on the contrary
+
+*camino* _m._ road, way
+
+*camisa* _f._ shirt; chemise
+
+*campanada* _f._ stroke of a bell
+
+*campanudo* high-sounding
+
+*campo* _m._ country; field
+
+*canario* _exclam. of astonishment as_ good gracious
+
+*cancel* _m._ inner door or wooden screen just inside the main
+entrance; space between the inner door and the outer one (many of the
+public buildings in the United States have an arrangement similar to
+the Spanish *cancel*)
+
+*candelero* _m._ candlestick
+
+*canónigo* _m._ canon (of a church)
+
+*cantar* sing; *---- de plano* speak out plainly
+
+*Cantarranas (Cantaranas)* _literally_ croaking frogs. _The name of
+the street was later changed to_ *Calle de Lope de Vega*
+
+*caña* _f._ reed, cane
+
+*cañón* _m._ cannon
+
+*caoba* _f._ mahogany
+
+*capaz* capable
+
+*capital* _f._ capital city
+
+*capitán* _m._ captain
+
+*cara* _f._ face
+
+*Caracas* Caracas (capital of Venezuela)
+
+*carácter* _m._ office; character
+
+*caramba* _commonest exclam. in Spanish, expressing surprise,
+admiration, vexation, etc._ indeed, the deuce
+
+*carbón* _m._ coal
+
+*carbunclo* _m._ carbuncle (glowing precious stone)
+
+*cargo* _m._ care, charge; *a su ----* under his charge
+
+*cariño* _m._ tenderness, affection
+
+*Carlos* Charles; Charles III, king of Spain from 1759 to 1788
+
+*caro* dear; expensive
+
+*carraspera* _f._ hoarseness (necessitating frequent clearing of the
+throat)
+
+*carrera* _f._ career
+
+*carta* _f._ letter
+
+*cartilla* _f._ primer
+
+*cartucho* _m._ cartridge
+
+*casa* _f._ house; *en ----* at home
+
+*casamiento* _m._ marriage.
+
+*casarse con* marry
+
+*cascada* _f._ cascade, waterfall
+
+*casco* _m._ skull, head (_used also in pl._)
+
+*casero* _m._ landlord
+
+*casi* almost
+
+*caso* _m._ case; *el ---- es* the fact is
+
+*cáspita* _exclam. indicating surprise_ wonderful, gracious
+
+*castigar* punish
+
+*castillo* _m._ castle
+
+*castizo* chaste, pure
+
+*causa* _f._ cause, sake
+
+*cé* ts (hissing sound made to call some one's attention)
+
+*cebolla* _f._ onion
+
+*cebón* fattened
+
+*ceder* yield
+
+*ceja* _f._ eyebrow; *entre ---- y ----* in one's head
+
+*cenar* dine
+
+*cenefa* _f._ border. (In what the ladies style a "dress pattern," the
+*cenefa* is of the same material as the body of the goods with the
+design so modified that the *cenefa* may serve as trimming at sleeves,
+waist line, edge of skirt, etc.)
+
+*ceniza* _f._ ashes
+
+*centinela* _m._ sentinel; *de ----* on guard, on the lookout
+
+*cepillar* brush
+
+*cepillo* _m._ brush
+
+*cerca de* near; about
+
+*cerciorar* inform
+
+*cerebral* cerebral
+
+*ceremonia* _f._ ceremony
+
+*cerezo* _m._ cherry-tree; cherry-wood
+
+*cerrar* close; lock
+
+*Cerro Gordo* Cerro Gordo (site near Jalapa in the state of Vera Cruz,
+Mexico, scene of an important victory for the American forces under
+General Winfield Scott, April 18, 1847)
+
+*Cervantes Saavedra, Miguel de* (1547-1616), author of "Don Quixote"
+
+*ciego* blind
+
+*cielo* _m._ heaven
+
+*cien* one hundred
+
+*ciertamente* certainly
+
+*cierto* true; certain; *por ----* certainly, of course; *lo ---- es*
+the fact is
+
+*cifrar(se)* reckon, count
+
+*cimarrón* wild, maroon (term applied to runaway slave living wild in
+the woods or mountains)
+
+*cinco* five
+
+*circunstancia* _f._ circumstance, condition; event
+
+*citar* cite
+
+*ciudadanía* _f._ citizenship
+
+*civil* civil
+
+*clandestino* clandestine
+
+*Clari* _f._ girl's name
+
+*claro* clear
+
+*clase* _f._ class
+
+*claustro* _m._ cloister
+
+*Clementina* _f._ Clementine
+
+*cocinero* _m._ cook
+
+*cocotero* _m._ coconut tree
+
+*coche* _m._ coach
+
+*codiciar* covet
+
+*codillo* _m._ codille; card term in the game of *tresillo* or
+*hombre* (_French_ *hombre*, _English_ *ombre*); _in tresillo the
+hombre or solo player plays against two others;_ *dar ----* defeat the
+solo player; _the solo player loses if either one of the other two
+takes more tricks than he does_
+
+*coger* catch
+
+*cola* _f._ tail, train
+
+*colchón* _m._ mattress
+
+*colegiala* _f._ schoolgirl
+
+*colegio* _m._ school
+
+*color* _m._ color
+
+*colorado* red
+
+*collereta* _f._ (_dim. of_ *collera*) collar
+
+*coma* _f._ comma
+
+*combate* _m._ conflict, engagement
+
+*combustión* _f._ combustion
+
+*comedia* _f._ comedy; *entablar la ----* stage the play; begin
+operations
+
+*comenzar* commence
+
+*comer* eat
+
+*comerciante* _m._ merchant
+
+*comercio* _m._ commerce
+
+*cometa* _f._ kite
+
+*cómico* comic, comical, humorous
+
+*comisión* _f._ commission
+
+*como* as; how; like
+
+*cómo* _interrog._ how; *de a ----* at how much
+
+*comodidad* _f._ comfort
+
+*cómodo* comfortable
+
+*compadecer* feel sorry for
+
+*compañera* _f._ companion, mate
+
+*compañía* _f._ company
+
+*compartir* share
+
+*compasión* _f._ compassion
+
+*complacerse en* take delight in
+
+*completamente* completely
+
+*complot* _m._ plot, conspiracy
+
+*composición* _f._ composition, piece of work
+
+*comprar* buy
+
+*comprender* understand
+
+*comprometer* bind; *----se* become engaged to marry
+
+*compromiso* _m._ embarrassing situation
+
+*con* with; *---- tal que* provided, provided that
+
+*conceder* grant
+
+*concepto* _m._ opinion
+
+*conciencia* _f._ conscience
+
+*conde* _m._ count
+
+*condena* _f._ sentence
+
+*condenar* condemn, damn
+
+*conducir* conduct
+
+*conferencia* _f._ meeting, interview
+
+*confesar* confess
+
+*confesonario* _m._ confessional
+
+*confianza* _f._ confidence, trust
+
+*confiar* confide
+
+*confidencial* confidential
+
+*confiscar* confiscate
+
+*confite* _m._ candy
+
+*confundir* embarrass, confuse
+
+*confusión* _f._ confusion
+
+*congoja* _f._ anguish
+
+*conmigo* with me
+
+*conocer* know; *si conoceré a mi gente* don't I know them
+
+*conque* and so
+
+*consagrar* consecrate
+
+*consecuencia* _f._ consequence
+
+*conseguir* succeed in; attain; obtain
+
+*consejero* _m._ counselor
+
+*consejo* _m._ advice, counsel; council-house; *---- privado* privy
+council
+
+*consentimiento* _m._ consent
+
+*consentir* consent
+
+*conservar* keep, preserve
+
+*considerar* consider
+
+*consigo* with him; with her; with you; with them; with themselves;
+with yourselves, _etc._
+
+*consiguiente* _m._ consequence; *de ----, por ----,* consequently
+
+*consistir* consist
+
+*consolar* console
+
+*conspirar* conspire; war
+
+*constancia* _f._ constancy
+
+*constante* constant, faithful
+
+*constitucional* constitutional
+
+*constituir* constitute
+
+*consuelo* _m._ consolation
+
+*consulta* _f._ consultation
+
+*consultar* consult
+
+*contar* count
+
+*contento* happy, satisfied
+
+*contestación* _f._ answer
+
+*contestar* answer
+
+*contigo* with thee
+
+*continuo* continual
+
+*contra* against
+
+*contrabandista* _m. and f._ smuggler
+
+*contradecir* contradict
+
+*contrario* contrary; *de lo ----* otherwise; *al ----* on the
+contrary
+
+*contribuir* contribute
+
+*convencer* convince
+
+*convenir* suit; *---- en* agree to, agree upon
+
+*convento* _m._ convent
+
+*conversación* _f._ conversation
+
+*convicción* _f._ conviction
+
+*cooperar* coöperate; *---- a ella* coöperate in it
+
+*copa* _f._ crown (of a hat)
+
+*copiante* _m. and f._ copyist
+
+*copiar* copy
+
+*Coralina* girl's name
+
+*corazón* _m._ heart
+
+*cordial* cordial
+
+*coronar* crown
+
+*coronel* _m._ colonel
+
+*corrección* _f._ correction
+
+*correr* run; *su corre ve y dile* (_now_ *correvedile* _or_
+*correveidile*; _m. or f._) your fetch-and-carry
+
+*corresponder* requite, love in return; belong
+
+*correspondiente* corresponding
+
+*corriente* current
+
+*corte* _m._ cut, pattern
+
+*corte* _f._ court; _pl._ Spanish Senate and Congress of Deputies
+
+*cortedad* _f._ diffidence
+
+*cortina* _f._ curtain
+
+*cosa* _f._ thing, matter; anything
+
+*coser* sew
+
+*costa* _f._ cost
+
+*costar* cost
+
+*costumbre* _f._ custom
+
+*cotorra* _f._ magpie
+
+*cotorrita* _f. dim. of_ *cotorra*
+
+*covachuelista, covachuelo,* _m._ familiar name given to an official
+in the service of a minister to the Crown (the offices where the
+secretaries worked were called *covachuelas*, little caves, because
+located in the vaults of the old royal palace)
+
+*Creador* _m._ Creator, God
+
+*crear* create
+
+*crecido* (_pp. of_ *crecer* grow, increase) large
+
+*credo* _m._ creed (prayer containing the articles of Christian
+belief); *hace un ----* a few minutes ago
+
+*creer* believe; *ya lo creo* yes, to be sure
+
+*crespo* crisp, curly
+
+*criado (_pp. of_ *criar*) brought up; _m._ servant; _f._ servant
+
+*criar* raise; rear, bring up
+
+*criminal* criminal
+
+*crisis* _f._ crisis
+
+*cristal* _m._ glass; crystal
+
+*cristiano* Christian
+
+*crítica* _f._ criticism *crítico* _m._ critic
+
+*crudo* raw
+
+*cruel* cruel
+
+*crueldad* _f._ cruelty
+
+*cuadro* _m._ picture
+
+*cual* which
+
+*cualidad* _f._ quality
+
+*cualquiera* any, any one
+
+*cuando* when; *---- más* at most (_cf._ *a lo más*); *---- menos* at
+least
+
+*cuanto* as, as much; whatever; *en ---- a* as for; as regards; *----
+más pronto* the sooner; *---- más que* the more so as
+
+*cuánto* how much
+
+*cuarenta* forty
+
+*cuarterón* _m._ quarter of a pound
+
+*cuartillo* _m._ pint
+
+*cuarto* _m._ quarter; fourth; room; flat
+
+*cuatro* four
+
+*cubrir* cover
+
+*cucurucho* _m._ paper cone
+
+*cuenta* _f._ account
+
+*cuerpo* _m._ body; *---- de ejército* main body of an army
+
+*cuestión* _f._ question
+
+*cuidado* _m._ care, worry; *tener ---- con* worry; *---- que* I tell
+you, no mistake; _used as an exclam. with verb understood_ take care,
+be careful
+
+*cuidar de* care, take care
+
+*culpa* _f._ fault, blame
+
+*cultivar* cultivate
+
+*cumplido* _m._ compliment
+
+*cumplir* fulfill; keep a promise
+
+*cura* _m._ priest
+
+*curiosear* watch, pry into others' affairs
+
+*curiosidad* _f._ curiosity
+
+*cuyo* whose
+
+*charlar* chatter
+
+*chasco* _m._ disappointment; trick
+
+*chaveta* _f._ (_sometimes written_ *chabeta*) linchpin, key; *perder
+la ----* _fam. expression_ go crazy (_cf. English_ go to pieces)
+
+*chico* little; _m._ boy; _f._ girl
+
+*chichón* _m._ bump
+
+*chisme* _m._ gossip
+
+*chispear* sparkle; *---- gracias* sparkle with witticisms
+
+*chiste* _m._ joke
+
+*chistoso* funny, humorous
+
+*chocolate* _m._ chocolate
+
+*chocolatera* _f._ chocolate pot
+
+*chuleta* _f._ chop
+
+*Churubusco* Churubusco (small village near Mexico City whose central
+feature was the massive stone convent of San Pablo. A battle was won
+here by the American troops on August 20, 1847)
+
+
+*dama* _f._ lady
+
+*dar* give; cause; *---- a luz* publish; *---- en* (_with inf_.) take
+to; *---- la hora* strike the hour; *va a ---- algo* you are going to
+have an attack of some sort; *--se con la cabeza* bump one's head
+
+*datar* date
+
+*de* of; from; as; by; at; with; _with inf._ to
+
+*deán* _m._ dean
+
+*debajo de* underneath
+
+*debelar* conquer
+
+*deber* owe; ought; *debía resultar* must result
+
+*debido* (_pp. of_ *deber*) due
+
+*débil* weak
+
+*debilitar* weaken
+
+*decidir* decide
+
+*decir* say, tell
+
+*declaración* _f._ proposal of marriage
+
+*decoro* _m._ decorum
+
+*dedicar* dedicate
+
+*dedo* _m._ finger; *---- meñique* little finger
+
+*deducir* deduce
+
+*defecto* _m._ defect
+
+*defender* defend
+
+*defensa* _f._ defense
+
+*defensor* _m._ defender
+
+*dejar* leave; let alone; allow; *---- en el tintero* leave out in
+writing; *---- de* (_with inf._) fail to
+
+*delante* before
+
+*delicioso* delightful
+
+*demás: lo ----* the rest, the other; *los ----* the rest, the others
+
+*demasiado* too; too much
+
+*demonio* _m._ demon
+
+*demostrar* show, indicate
+
+*denominar* designate by name
+
+*dentro* within, inside
+
+*depender* depend
+
+*derecho* straight; _m._ right
+
+*derramar* shed
+
+*desagradable* disagreeable
+
+*desairar* slight, provoke, offend
+
+*desaliento* _m._ discouragement
+
+*desamar* cease to love
+
+*desanimarse* become discouraged
+
+*desarmar* disarm
+
+*desastre* _m._ disaster
+
+*desatar* untie, disarrange
+
+*desatino* _m._ nonsense, folly
+
+*desayunarse* take breakfast
+
+*descansar* rest
+
+*descanso* _m._ landing (of a staircase)
+
+*desconocer* fail to recognize
+
+*desconocido* (_pp. of_ *desconocer*) strange, unknown
+
+*descoser* rip; open
+
+*describir* describe
+
+*descripción* _f._ description
+
+*descubrir* discover, disclose
+
+*descuidar* neglect; *----se* be neglectful
+
+*descuido* _m._ carelessness
+
+*desde* from; *---- luego* at once
+
+*desear* desire, wish
+
+*desembarazado* (_pp. of_ *desembarazar*) unhindered
+
+*desempeñar* perform; *---- un papel* play a part
+
+*desenamorarse* cease to be in love
+
+*desencantar* disillusion
+
+*desengañar* undeceive; *--se* find out one's mistake
+
+*desengaño* _m._ disillusion; discovery of a mistake; *Calle de
+Desengaño* name of a street in Madrid
+
+*desenlace* _m._ dénouement, ending (of a play or story)
+
+*deseo* _m._ desire
+
+*desesperación* _f._ desperation
+
+*desesperar* despair; drive to despair
+
+*desgarrar* tear
+
+*desgracia* _f._ misfortune
+
+*desgraciadamente* unfortunately
+
+*desgraciado* unfortunate
+
+*desheredar* disinherit
+
+*desistir* desist
+
+*deslealtad* _f._ disloyalty
+
+*deslumbrado* (_pp. of_ *deslumbrar*) dazed, dazzled; undecided
+
+*desmejorar* change (for the worse)
+
+*desnudar(se)* undress
+
+*desorden* _m._ disorder
+
+*despachar* finish; *----se* be quick
+
+*despacho* _m._ office
+
+*despedir* dismiss
+
+*despego* _m._ aversion, coldness
+
+*despeñar* precipitate
+
+*desperdiciar* fail to make use of; waste
+
+*despertar(se)* awaken
+
+*despojos* _m. pl._ remains
+
+*después* after; afterwards; *---- de* (_with inf._) after
+
+*desterrar* banish
+
+*destierro* _m._ banishment
+
+*destinar* destine
+
+*destrozar* tear, destroy
+
+*desván* _m._ attic
+
+*desvelo* _m._ anxiety, watchful care
+
+*desventurado* unfortunate
+
+*detener(se)* stop
+
+*determinar a* decide
+
+*deuda* _f._ debt
+
+*día* _m._ day; *hoy ----* nowadays; *el ---- menos pensado*
+unexpectedly; *buenos ----s* good morning
+
+*diablo* _m._ devil
+
+*diablura* _f._ deviltry, mischief
+
+*diálogo* _m._ dialogue
+
+*diario* daily
+
+*dictar* dictate
+
+*dicha* _f._ happiness
+
+*dicho* (_pp. of_ *decir*) aforesaid; *lo ----* I mean it; enough
+said; _m._ legal promise of marriage
+
+*dichoso* happy
+
+*Dieguito* Jimmy
+
+*diez* ten
+
+*diferencia* _f._ difference
+
+*diferente* different
+
+*difícil* difficult
+
+*dificultad* _f._ difficulty
+
+*digerir* digest
+
+*dignamente* worthily, suitably
+
+*dignidad* _f._ dignity
+
+*digno* worthy
+
+*dinero* _m._ money
+
+*Dios* _m._ God; *por ----* for heaven's sake
+
+*diplomático* _m._ diplomat; _adj._ diplomatic
+
+*dirección* _f._ executive board
+
+*dirigir* address; *--se* go (toward)
+
+*discernir* discern, distinguish
+
+*disculpar* excuse
+
+*discurso* _m._ course, space of time
+
+*discutir* discuss
+
+*disfrutar* enjoy
+
+*disparate* _m._ nonsense; foolish remark
+
+*dispensa* _f._ dispensation
+
+*disponer* dispose, arrange
+
+*disposición* _f._ disposal
+
+*disputo* _m._ dispute
+
+*distinguido* (_pp. of_ *distinguir*) distinguished
+
+*distinto* different
+
+*distraer* distract
+
+*diversión* _f._ amusement
+
+*diverso* various
+
+*divertido* (_pp. of_ *divertir*) amusing
+
+*divinamente* divinely
+
+*doblar* bend
+
+*docena* _f._ dozen
+
+*dócil* docile
+
+*doler* pain
+
+*dominante* dominant
+
+*Domingo* Dominic, the black slave in Bernardin de Saint-Pierre's
+story "Paul et Virginie" (Paul and Virginia)
+
+*Dominus* (_Latin_) Lord; *---- tecum* _Latin salutation meaning_ the
+Lord be with thee
+
+*don* _m._ Spanish title used only with a gentleman's Christian ame
+(_abbreviated_ *D.*)
+
+*don* _m._ gift
+
+*doncella* _f._ maid
+
+*donde* where
+
+*dónde* where (_interrog._)
+
+*doña* _f._ Spanish title used only with a lady's Christian name
+(_more commonly used in addressing or speaking of a married lady,
+but as a mark of formality the title may be applied to a lady who is
+unmarried_)
+
+*dorar* gild
+
+*dormido* (_pp. of_ *dormir*) sleepy, dreamy
+
+*dormir* sleep; *----se* go to sleep
+
+*dos* two
+
+*dote* _m. and f._ gift, quality; dowry
+
+*dramático* dramatic
+
+*dramaturgo* _m._ dramatist
+
+*ducado* _m._ ducat
+
+*duda* _f._ doubt
+
+*dudar* doubt
+
+*duende* _m._ fairy, ghost
+
+*durante* during
+
+*duro* _m._ dollar; _adj._ hard
+
+
+*e* and
+
+*eclesiástico* ecclesiastical
+
+*economía* _f._ economy
+
+*echar* throw; throw out; put; pour; *---- mano a* seize; *haberse
+echado el alma atrás* be lost to a sense of duty; *---- por tierra*
+outdo, overcome; _fig._ gainsay
+
+*edad* _f._ age
+
+*edición* _f._ edition
+
+*Eduardo* Edward
+
+*educación* _f._ breeding, education
+
+*educar* educate
+
+*efecto* _m._ effect; *en ----* in fact; really; at any rate
+
+*eficaz* efficacious
+
+*efímero* ephemeral
+
+*ejemplo* _m._ example
+
+*ejército* _m._ army
+
+*el, la, lo,* _pl._ *los, las,* the
+
+*él, ella, ello,* _pl._ *ellos, ellas,* he; she; it; him; her; they;
+them; *ello es* it is a fact
+
+*elección* _f._ choice
+
+*elegancia* _f._ elegance
+
+*elegante* elegant
+
+*elemento* _m._ element
+
+*elogiar* praise
+
+*elogio* _m._ eulogy
+
+*embargo* _m._ embargo; *sin ----, sin ---- de,* notwithstanding; *sin
+---- de que* notwithstanding the fact that
+
+*embromar* joke, tease
+
+*embustero* _m._ liar, cheat
+
+*embutido* _m._ inlaid work
+
+*emigrado* _m._ political exile
+
+*Emilia Galotti* title of a play by Lessing
+
+*emoción* _f._ emotion
+
+*empacho* _m._ bashfulness, embarrassment
+
+*empeñarse en* insist; intercede
+
+*empeño* _m._ determination, insistence
+
+*empezar* begin
+
+*empleado* _m._ employee; office-*holder
+
+*emplear* employ; spend; use
+
+*empleo* _m._ employment
+
+*emporcar* soil
+
+*emprender* begin, undertake
+
+*empresario* _m._ manager (of a theater)
+
+*en* in; on; (_after such verbs as_ *pensar*) of
+
+*enamorado* (_pp. of_ *enamorarse*) enamored, in love; _m._ lover
+
+*enamorarse de* fall in love
+
+*encaje* _m._ lace
+
+*encajera* _f._ lacemaker
+
+*encantador* charming
+
+*encaramar(se)* perch
+
+*encargado de negocios* _m._ chargé d'affaires
+
+*encargar* intrust; *----se* take charge; *----se del mando* assume
+command
+
+*encargo* _m._ charge; request
+
+*encender* light
+
+*encerado* (_pp. of_ *encerar* wax) _m._ oilcloth, oilskin
+
+*encerrar* shut up; shut in; lock up
+
+*encierro* _m._ confinement
+
+*encontrar* find, meet; *----se con* meet
+
+*encuentro* _m._ meeting
+
+*enemigo* _m._ enemy
+
+*enfadar* make angry; *----se* become angry
+
+*enfermedad* _f._ illness, sickness
+
+*enfermo* sick
+
+*enfrascar* bottle up; *----se* be absorbed; be deeply interested in
+
+*enfrente* in front; opposite
+
+*engañar* deceive
+
+*engendrar* beget; form
+
+*engullir* devour
+
+*enhorabuena* _adv._ well and good
+
+*enlace* _m._ union
+
+*enojado* (_pp. of_ *enojar*) provoked, annoyed
+
+*enojo* _m._ anger
+
+*enorme* enormous
+
+*ensalada* _f._ salad
+
+*ensalzar* exalt
+
+*ensangrentarse* rail offensively; *---- con* rail against
+
+*enseñanza* _f._ teaching
+
+*enseñar* teach; show
+
+*entablar* make ready
+
+*entender* understand
+
+*enteramente* entirely
+
+*enterarse de* inform one's self; be informed
+
+*enternecer* move to pity; *----se* be moved to pity
+
+*entero* whole
+
+*enterrar* bury; *---- con palma* bury unwed (the palm branch being
+here a symbol of virginity)
+
+*entonces* then; *por ----* then
+
+*entrada* _f._ entrance; *libro de ----s y salidas* book of debits and
+credits
+
+*entrambos* both
+
+*entraña* _f._ entrail; _pl._ affection, compassion; *hija de mis
+----s* my darling daughter
+
+*entrarse en* enter, come in; come upon; take in
+
+*entre* between; among; *---- tanto* (*entretanto*) meanwhile
+
+*entreabrir* half open
+
+*entregar* hand; give over
+
+*entretener* entertain; delay; *----se* be busy
+
+*entristecer* sadden
+
+*entusiasta* enthusiastic
+
+*enviado* _m._ envoy
+
+*enviar* send
+
+*envidiable* enviable
+
+*envolver* wrap
+
+*época* _f._ epoch
+
+*equivocado* (_pp. of_ *equivocar*) mistaken
+
+*equivocar* mistake; *----se* be mistaken
+
+*Ercilla y Zúñiga, Alonso de* (1533-1594), author of the "Araucana"
+
+*erupción* _f._ eruption
+
+*errar* miss; mistake
+
+*escalera* _f._ stair, stairway
+
+*escándalo* _m._ scandal
+
+*escapar(se)* escape; elope
+
+*escapatoria* _f._ escape; elopement
+
+*escarmiento* _m._ warning, chastisement
+
+*escasez* _f._ privation, scarcity
+
+*escena* _f._ scene
+
+*escenario* _m._ stage; setting
+
+*escocer* smart
+
+*escoger* select, choose
+
+*esconder* hide
+
+*escribano* _m._ notary
+
+*escribir* write; *---- corrido* write steadily; write easily and
+plainly
+
+*escrito* (_pp. of_ *escribir*) _m._ writing
+
+*escrúpulo* _m._ scruple
+
+*escuchar* listen
+
+*ese, esa,* _dem. adj._ that, that very
+
+*ése, ésa, eso,* _dem. pron._ that, that one; _pl._ those
+
+*esfera* _f._ sphere
+
+*eso* _neuter pron. referring to an idea, phrase, or sentence_ that;
+*---- es* that's it; *a ---- de* about
+
+*espadín* _m._ rapier
+
+*espalda* _f._ back; shoulder; *volver las ----s* turn one's back
+
+*España* _f._ Spain; *Nueva ----* early name given to Mexico by the
+Spaniards
+
+*español* Spanish
+
+*especialmente* especially
+
+*especie* _f._ kind
+
+*esperanza* _f._ hope
+
+*esperar* wait; hope
+
+*espina* _f._ thorn; splinter; physical cause of annoyance or
+discomfort; _figurative meaning_ suspicion, worry; *no me da buena
+----* arouses my suspicion (_cf. English_ doesn't look good to me)
+
+*esportilla* _f._ flexible basket or pannier (woven of esparto grass
+or something similar)
+
+*esposa* _f._ wife
+
+*esposo* _m._ husband
+
+*espumar* skim; remove the scum; *saber cómo se espuma el puchero*
+know how to skim a stew
+
+*esquina* _f._ corner
+
+*esta* _adj._ this (_f. form; m._ *este*)
+
+*establecer* settle
+
+*establecimiento* _m._ establishment
+
+*estado* _m._ state
+
+*Estados Unidos* _m. pl._ United States
+
+*estar* be; *---- bueno para* be in a fine state for; *---- de vuelta*
+be back; *---- de prisa* be in a hurry; *ya estoy (enterado)* I
+understand
+
+*estatua* _f._ statue
+
+*este, esta,* _dem. adj._ this
+
+*éste, ésta, esto,* _dem. pron._ this; this one; the latter; _pl._
+these _etc._
+
+*estéril* fruitless
+
+*esto* _neuter pron._ this (_sometimes_ that); *---- es* that is to
+say
+
+*estómago* _m._ stomach
+
+*estornudar* sneeze
+
+*estratagema* _f._ stratagem
+
+*Estuardo* Stuart
+
+*estudiante* _m._ student
+
+*estudio* _m._ study
+
+*Etelvina* Ethelwyn
+
+*eternidad* _f._ eternity
+
+*eterno* eternal
+
+*europeo* European
+
+*evidente* evident
+
+*evitar* avoid; prevent
+
+*ex abrupto* suddenly
+
+*exageración* _f._ exaggeration
+
+*exaltar* exalt; _fig._ carry away; *---- la cabeza* turn one's head
+
+*excelente* excellent
+
+*excitar* excite, arouse
+
+*excusa* _f._ excuse
+
+*exigir* demand; insist on
+
+*existencia* _f._ existence
+
+*éxito* _m._ success
+
+*experiencia* _f._ experience
+
+*explicar* explain
+
+*exponer* expose
+
+*expresar* express
+
+*expresión* _f._ expression
+
+*expresivo* gracious, kind; expressive
+
+*éxtasis* _m._ ecstasy
+
+*extensión* _f._ extent
+
+*exterior* exterior; *en el ----* abroad
+
+*extranjero* foreign
+
+*extrañar(se)* wonder, be surprised
+
+*extraño* strange
+
+*extraordinario* special, extraordinary
+
+*extravagante* extraordinary, outlandish
+
+
+*fácil* easy
+
+*falsedad* _f._ falseness
+
+*falta* _f._ lack; fault; *hacer buena ----* be much in need of; be
+absolutely necessary
+
+*faltar* lack; *---- a* be lacking in; *no faltaba más* (_expression
+of dissent_) the idea! that would be the last straw
+
+*fallo* _m._ decision, sentence
+
+*familia* _f._ family
+
+*fastidiar* weary; *----se* become bored
+
+*fatigado* (_pp. of_ *fatigar*) fatigued, weary
+
+*fatuo* fatuous, conceited
+
+*favor* _m._ favor
+
+*favorable* favorable *fe* _f._ faith; *a ----* _exclam._ upon my word
+
+*fecundo* fecund, fertile
+
+*felicidad* _f._ happiness
+
+*feliz* happy
+
+*feo* ugly
+
+*fiar(se)* trust
+
+*ficción* _f._ fiction; stratagem, invention, trick
+
+*figurar* figure; *----se* imagine
+
+*filiación* _f._ filiation
+
+*filial* filial
+
+*fin* _m._ end; *en ----, al ----, por ----,* after all; finally
+
+*finalmente* finally
+
+*fingir* pretend; plan; invent; counterfeit
+
+*fino* fine, courteous, delicate
+
+*firma* _f._ signature
+
+*firmar* sign
+
+*fisgonear* spy
+
+*físico* _m._ constitution
+
+*fisonomía* _f._ physiognomy
+
+*Flandes* Flanders; *punto de ----* Flemish lace
+
+*fleco* _m._ fringe
+
+*flor* _f._ flower
+
+*fogosidad* _f._ fire, spirit
+
+*fomentar* foment
+
+*fomento _m._ development
+
+*Fontana de Oro* (Golden Fount) famous café in Madrid much frequented
+by such liberals and men of letters as the critic Larra and the
+dramatist Gorostiza
+
+*formación* _f._ formation
+
+*formar* form; *---- en el bando* join the faction
+
+*forrar* line
+
+*forro* _m._ lining; cover (of a book)
+
+*fortuna* _f._ fortune, good luck; *por ----* fortunately
+
+*fosco (hosco)* harsh, frowning
+
+*fracaso* _m._ sorry plight
+
+*frágil* fragile, frail
+
+*francés* French
+
+*Francia* _f._ France
+
+*Francisco* Francis
+
+*franco* open
+
+*frase* _f._ phrase; sentence
+
+*frecuencia* _f._ frequency
+
+*fregado* _m._ tangle
+
+*fregar* scrub
+
+*frenético* frenzied
+
+*frente* _m._ front; _f._ brow, forehead
+
+*fresco* fresh, cool
+
+*frío* _m._ cold
+
+*friolera* _f._ trifle
+
+*frugalmente* frugally
+
+*fruto* _m._ fruit
+
+*fuego* _m._ fire
+
+*fuelle* _m._ bellows
+
+*fuera* outside; *---- de sí* beside one's self
+
+*fuerte* _adj. and adv._ loud; loudly; strong; strongly
+
+*fuerza* _f._ force; *por ----* of necessity
+
+*fulano* _m._ so-and-so
+
+*fundar* found; base
+
+*furioso* furious
+
+*furor* _m._ fury
+
+*futuro* _m._ future
+
+
+*gabacho* _m. disrespectful word for_ French; poor Spanish
+
+*gabinete* _m._ boudoir
+
+*gaceta* _f._ gazette
+
+*gallina* _f._ hen; *la ---- ciega* blind man's buff
+
+*gamo* _m._ buck (of the fallow deer)
+
+*gana* _f._ desire; *tener ----* want
+
+*ganar* earn; *le ----ía la voluntad* must have won for him the good
+will
+
+*garabato* _m._ scrawl
+
+*garbanzo* _m._ chick-pea
+
+*gastar* spend
+
+*gato* _m._ cat
+
+*gemir* moan; grieve
+
+*general* _m._ general
+
+*generalmente* generally
+
+*género* _m._ class; kind; *---- humano* mankind; _pl._ goods
+
+*gente* _f._ people
+
+*geringonza* _see_ *jerigonza*
+
+*gestión* _f._ negotiation; exertion
+
+*gesto* _m._ gesture; expression; *hacer ----* make a wry face
+
+*gitanada* _f._ trick
+
+*gloria* _f._ glory
+
+*gloriarse de* take delight in
+
+*glorioso* glorious
+
+*gobierno* _m._ government, rule
+
+*golpe* blow; *---- de gracia* finishing stroke (blow given or shot
+fired to insure death to a wounded victim)
+
+*Gómez Farías, Valentín*, Mexican statesman and champion of reform.
+The office of president was wrested from him by Santa Anna, April 1,
+1833
+
+*Gómez Hermosilla, José Mamerto* (1771-1837), Spanish man of letters.
+His translation of the Iliad is a noted work
+
+*gracia* _f._ mercy; favor; grace; joke; _pl._ thanks
+
+*gracioso* funny, amusing
+
+*granadero* _m._ grenadier
+
+*grande* great; large, big
+
+*grano* _m._ grain, seed; *---- de anís* very small matter
+
+*gratitud* _f._ gratitude
+
+*grave* serious
+
+*griego* Greek
+
+*grieta* _f._ crack; *----s en las manos* chapped hands
+
+*gritar* shout
+
+*grito* _m._ shout, cry
+
+*grosería* _f._ coarseness, boorishness
+
+*guante* _m._ glove
+
+*guarda* _m._ guard; *---- de a caballo* mounted police
+
+*guardar* keep
+
+*guardia* _f._ guard
+
+*guardilla* _f._ attic
+
+*guarecer* shelter, guard
+
+*guarnición* _f._ trimming
+
+*guerra* _f._ war
+
+*guisado* _m._ stew
+
+*guisar* cook
+
+*gustar* please; like; taste
+
+*gusto* _m._ pleasure; liking; taste
+
+*gustosísimo* (_superlative of_ *gustoso*) most content, most willing
+
+
+*haber* have; (_impersonal_) be; *---- de* (_with inf._) have to; *a
+no ---- venido* if I had not come; *ha de hacer* there is to do; *ha
+de ser* there must be; it must be
+
+*habitar* live
+
+*hábito* _m._ habit; _pl._ priestly dress
+
+*hacer* do; make; commit; cause; *hace un año* (_etc._) a year
+(_etc._) ago; *----se* become; *----se cargo* bear in mind; *qué me he
+de ----* what am I to do with myself; *---- papel* play a part; *sin
+---- del agua* brand new
+
+*hacia* toward
+
+*hacienda* _f._ estate; finance; *ministro de ----* Secretary of the
+Treasury
+
+*hallar* find; *----se* be; be found
+
+*hambre* _f._ hunger
+
+*harina* _f._ flour
+
+*hasta* until; as far as; even; *---- tanto que* until such time as
+
+*hay* (_impersonal irreg. form from_ *haber*) there is; there are; *no
+---- de qué* you are welcome; *---- que* _with infin._ one must; *qué
+----* hello, what's the news
+
+*hecho* _m._ deed
+
+*hembra* _f._ female; woman
+
+*heredar* inherit
+
+*heredero* _m._ heir
+
+*hereje* _m. and f._ heretic
+
+*herencia* _f._ inheritance
+
+*hermana* _f._ sister
+
+*hermano* _m._ brother
+
+*hermoso* beautiful; handsome
+
+*Herodes* _m._ Herod
+
+*héroe* _m._ hero
+
+*heroico* heroic
+
+*heroína* _f._ heroine
+
+*hervir* boil
+
+*hierro* _m._ iron
+
+*hija* _f._ daughter; _used also in direct address as a term of mild
+endearment_
+
+*hijo* _m._ son; _pl._ sons; children
+
+*hipótesis* _f._ hypothesis
+
+*historia* _f._ history
+
+*historiador* _m._ historian
+
+*hojear* turn the pages of; open
+
+*hola* _exclam._ hello, I say, _etc._
+
+*Holanda* _f._ Holland
+
+*hombre* _m._ man
+
+*homenaje* _m._ homage
+
+*honor* _m._ honor
+
+*honradez* _f._ honesty
+
+*honrado* honest, honorable
+
+*honrar* honor
+
+*hora* _f._ hour; time; *a buena ----* at a seasonable time
+
+*horizonte* _m._ horizon
+
+*hormiguillo* _m._ (_from_ *hormiga* ant) distemper of horses
+affecting first the hoofs; amalgamating mixture; *tener ----* be on
+pins and needles
+
+*horror* _m._ horror
+
+*hortera* _m._ nickname applied to certain shop clerks in Madrid
+
+*hoy* today
+
+*huerto* _m._ garden; orchard
+
+*huevo* _m._ egg
+
+*huir* flee; avoid
+
+*humano* human; humane
+
+*humeante* smoking
+
+*humedecer* dampen, moisten
+
+*humilde* humble
+
+*humillación* _f._ humiliation
+
+*humillar* humiliate
+
+*humor* _m._ humor
+
+*huracán _m._ hurricane
+
+
+*idea* _f._ idea
+
+*ídem* (_Latin pronoun_) the same; ditto
+
+*iglesia* _f._ church
+
+*ignorar* be unaware of
+
+*igual* equal, like; even
+
+*ilusión* _f._ illusion; fond fancy
+
+*ilustre* illustrious, distinguished
+
+*imaginar* imagine
+
+*imaginario* imaginary
+
+*impaciente* impatient
+
+*impávido* dauntless
+
+*impedir* hinder
+
+*imperdonable* unpardonable
+
+*imperfección* _f._ imperfection; blemish
+
+*imperiosamente* imperiously
+
+*implorar* implore
+
+*importancia* _f._ importance
+
+*importante* important
+
+*importar* matter
+
+*importunar* importune; bother
+
+*imposible* impossible
+
+*imprimir* print
+
+*improbabilidad* _f._ improbability
+
+*imprudencia* _f._ rashness
+
+*impulso* _m._ impulse; *dar ----* encourage; foster
+
+*incapaz* incapable
+
+*incertidumbre* _f._ uncertainty
+
+*inclinación* _f._ inclination
+
+*inclusero* _m._ foundling; child reared in an Inclusa or orphans'
+home (Mesonero Romanos in his "El antiguo Madrid" states that the name
+Inclusa was given to the institution in Madrid because of a statue of
+the Virgin that is in its chapel and that was brought from Enkhuizen,
+Holland (Inclusa being a corruption of Enkhuizen); a child left in an
+Inclusa could hardly boast of his family)
+
+*incógnito* incognito
+
+*incompleto* incomplete, unfinished
+
+*inconveniente* _m._ inconvenience
+
+*indeciso* undecided
+
+*indefenso* defenseless
+
+*independencia* _f._ independence
+
+*indicar* indicate
+
+*indiferente* indifferent
+
+*indigencia* _f._ poverty
+
+*indigestarse* be hard to stomach
+
+*indigestión* _f._ indigestion
+
+*indigno* unworthy
+
+*indisoluble* indissoluble
+
+*indisposición* _f._ illness (slight)
+
+*indisputable* indisputable
+
+*individuo* _m._ individual
+
+*indudablemente* undoubtedly
+
+*indulgencia* _f._ indulgence, pardon
+
+*inesperado* unexpected; unhoped-for
+
+*infamia* _f._ outrage
+
+*infatigable* indefatigable
+
+*infeliz* unhappy
+
+*inferir* infer
+
+*infinito* infinitely
+
+*inflamar* inflame
+
+*influir* influence
+
+*informar* inform
+
+*informe* _m._ information; _pl._ information
+
+*ingenio* _m._ talent
+
+*ingenioso* ingenious
+
+*Inglaterra* _f._ England
+
+*inglés* English
+
+*ingratitud* _f._ ingratitude
+
+*injusticia* _f._ injustice
+
+*injusto* unjust
+
+*inmenso* immense
+
+*inmolar* immolate, sacrifice
+
+*innumerable* innumerable
+
+*inocente* innocent
+
+*inoportuno* inopportune
+
+*inquietar(se)* fret, worry
+
+*inquilino* _m._ tenant
+
+*inseparable* inseparable
+
+*insolencia* _f._ insolence
+
+*insolentarse* become insolent
+
+*instancia* _f._ urging; petition
+
+*instante* _m._ instant
+
+*instar* urge
+
+*instrucción* _f._ instruction
+
+*instructivo* instructive
+
+*instrumento* _m._ instrument, tool
+
+*insultar* insult
+
+*intentar* try, attempt
+
+*intercalar* intercalate, insert; interpose
+
+*interés* _m._ interest; *tener ---- en* have a reason for
+
+*interesar* interest
+
+*interpretar* interpret
+
+*intervalo* _m._ interval
+
+*íntimo* intimate
+
+*intriga* _f._ intrigue
+
+*introducir* introduce
+
+*inútil* useless
+
+*invasión* _f._ invasion
+
+*invasor* invader
+
+*inverosimilitud* _f._ improbability
+
+*invierno* _m._ winter
+
+*invitar* invite
+
+*involuntariamente* involuntarily
+
+*ir* go; *----se* go away; go off; boil over
+
+*irregular* irregular
+
+*irresistible* irresistible
+
+*irrevocable* irrevocable
+
+*irritar* irritate
+
+*isla* _f._ island
+
+
+*jabón* _m._ soap
+
+*jabonadura* _f._ washing; _pl._ soap suds
+
+*jabonar* wash with soap
+
+*jalapa* _f._ jalap (plant, native of Jalapa, Mexico, whose root has
+strong purgative properties)
+
+*jamás* never
+
+*jaula* _f._ cage
+
+*jefe* _m._ head, chief
+
+*jergón* _m._ straw tick, straw bed
+
+*jerigonza* _f._ (*gerigonza*) jargon; rigmarole
+
+*Jesús* _m._ Jesus; _as an exclam._ mercy, gracious
+
+*jícara* _f._ chocolate cup
+
+*jornada* _f._ military expedition
+
+*José* Joseph
+
+*jota* _f._ letter J; jot
+
+*joven* young; _m. and f._ young man; young woman
+
+*Juan* John
+
+*Juana* Jane, Joan
+
+*jueves* _m._ Thursday; *cosa del otro ----* something unusual
+
+*jugador* _m._ gambler
+
+*jugar* play
+
+*juicio* _m._ judgment
+
+*juicioso* sensible
+
+*julio* _m._ July
+
+*juntar* join
+
+*junto* near; together; *---- a* together with, along with
+
+*juramento* _m._ oath; vow
+
+*jurar* swear
+
+*justicia* _f._ justice
+
+*justo* just, fair
+
+*juventud* _f._ youth
+
+*juzgar* judge
+
+
+*la* _f._ (_definite article_) the; the one; *---- de* that of;
+(_objective pron._) her; it
+
+*labio* _m._ lip
+
+*lado* _m._ side
+
+*lagar* _m._ winepress
+
+*lamentación* _f._ lamentation, wail
+
+*lance* _m._ occurrence; *de ----* at a bargain, cheap, secondhand
+
+*langosta* _f._ lobster
+
+*Larra, Mariano José de* (1809-1837) the celebrated "Fígaro,"
+journalist, novelist, and dramatist, besides being the greatest
+Spanish satirist and literary critic of his time
+
+*lástima* _f._ pity; *dar ----* inspire with pity, make sorry
+
+*laurel* _m._ laurel; honor
+
+*lavandera* _f._ washerwoman
+
+*lavar* wash
+
+*lazo* _m._ tie
+
+*le* him; you; to him; to you; to her; to it
+
+*lector* _m._ reader
+
+*lectura* _f._ reading
+
+*leer* read
+
+*legua* _f._ league
+
+*lejos* far
+
+*lenguaje* _m._ language
+
+*lenteja* _f._ lentil
+
+*Lessing, Gotthold Ephraim,* German dramatist (1729-1781)
+
+*letanía* _f._ litany (long prayer consisting of a series of
+invocations and responses. The best-known litanies are those addressed
+to the Virgin Mary, but there are also litanies of the Saints,
+litanies of the Holy Name, etc.); long list (of any sort)
+
+*letra* _f._ letter
+
+*levantar* raise; *---- la cama* make the bed; *---- la tapa de los
+sesos* blow one's brains out; *--se* get up
+
+*ley* _f._ law; loyalty
+
+*liberal* liberal
+
+*libertad* _f._ liberty
+
+*libra* _f._ pound
+
+*libraco* _m._ old trashy book
+
+*librar* deliver, free
+
+*libre* free, unguarded
+
+*libro* _m._ book
+
+*licencia* _f._ permission, consent
+
+*lija* _f._ dogfish; shark-skin (the dried skin is used for polishing
+woods and metals); sandpaper
+
+*limitar* limit
+
+*límite* _m._ limit
+
+*limosna* _f._ alms
+
+*limpieza* _f._ cleanliness
+
+*limpio* clean
+
+*lindo* charming, lovely; neat; fine; *---- mozo* fine-looking young
+fellow
+
+*lisonjear* flatter
+
+*lista* _f._ list
+
+*listo* ready
+
+*literario* literary
+
+*literato* _m._ writer
+
+*lo* him; it; so; _with m. sing. adj._ *lo* _forms abstract noun_;
+*---- único* the only thing (_cf._ *---- mismo* the same thing;
+likewise); *---- que* that which, what; how much, how; *---- es* it
+is; it is so
+
+*lobreguez* _f._ darkness
+
+*loco* crazy; *---- de atar* raving lunatic
+
+*locura* _f._madness; act of madness
+
+*lograr* succeed; succeed in
+
+*Londres* _m._ London
+
+*losa* _f._ slab
+
+*lucha* _f._ struggle
+
+*luego* then; soon, immediately
+
+*lugar* _m._ place; space; time
+
+*lumbre* _f._ fire
+
+*luz* _f._ light
+
+*llamar* call; knock; attract; *hacer ----* have called
+
+*llave* _f._ key
+
+*llegar* arrive, reach; *---- a* (_with inf._) come
+
+*llenar* fill
+
+*llevar* carry; take; *---- a cabo* carry out, accomplish; *---- a los
+labios* raise to the lips; *----se* take with one; take away
+
+*llorar* cry
+
+*lloro* _m._ weeping
+
+
+*madre* _f._ mother; bed (of a river)
+
+*Madrid* _m._ Madrid
+
+*maestrante* _m._ member of a *maestranza* or riding club of Spanish
+noblemen
+
+*magnánimo* magnanimous
+
+*mal* _m._ wrong; harm; _adv._ badly
+
+*maldito* cursed (_pp. of_ *maldecir*); (_in exclam._) confound,
+plague take (the); (_used to express strong negation_) little; none;
+*sin maldita la oposición* without any opposition whatever
+
+*malo* bad; *estar ----* be sick
+
+*malsonante* ill-sounding
+
+*Malvina* girl's name
+
+*Mallorca* island of Majorca; *pan de ----* kind of rich coffee-cake
+
+*mandar* order
+
+*mando* _m._ command
+
+*manera* _f._ manner; *en gran ----* greatly
+
+*manga* _f._ sleeve
+
+*maniático* maniacal
+
+*manifestar* show
+
+*mano* _f._ hand; *tener entre ----s* have in hand
+
+*Manuel* Manuel
+
+*Manuela* girl's name (_f. of_ *Manuel*)
+
+*mañana* _f._ morning; _adv._ tomorrow
+
+*marchar* march; go; *----se* go away
+
+*Margarita* Margaret
+
+*María* Mary
+
+*marido* _m._ husband
+
+*marqués* _m._ marquis
+
+*marquesa* _f._ marchioness
+
+*marquesado* _m._ marquisate
+
+*Martínez de la Rosa, Francisco* (1789-1862), Spanish statesman and
+writer banished by Ferdinand VII
+
+*mártir* _m. and f._ martyr
+
+*mas* but
+
+*más* more; most; *los (las) ---- de* the majority of; *por ---- que*
+however much; *no ----* nothing more
+
+*masa* _f._ mass
+
+*matar* kill
+
+*matemático* _m._ mathematician
+
+*materia* _f._ matter; *entrar en ----* come to the point
+
+*Matilde* girl's name
+
+*matutino* early (in the morning)
+
+*mayor* (_comp. of_ *grande*) greater; greatest; chief, main
+
+*mayorazgo* _m._ entail; inheritance of oldest son
+
+*me* me

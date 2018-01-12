@@ -1,0 +1,1995 @@
+﻿Siouan Sociology
+
+
+A Posthumous Paper - Fifteenth Annual Report of the Bureau of Ethnology to
+the Secretary of the Smithsonian Institution, 1893-1894, Government
+Printing Office, Washington, 1897, pages 205-244
+
+
+by James Owen Dorsey
+
+
+Edition 1, (October 10, 2006)
+
+
+In 1871, at the age of 23, James Owen Dorsey, previously a student of
+divinity with a predilection for science, was ordained a deacon of the
+Protestant Episcopal church by the bishop of Virginia; and in May of that
+year he was sent to Dakota Territory as a missionary among the Ponka
+Indians. Characterized by an amiability that quickly won the confidence of
+the Indians, possessed of unbounded enthusiasm, and gifted with remarkable
+aptitude in discriminating and imitating vocal sounds, he at once took up
+the study of the native language, and, during the ensuing two years,
+familiarized himself with the Ponka and cognate dialects; at the same time
+he obtained a rich fund of information concerning the arts, institutions,
+traditions, and beliefs of the Indians with whom he was brought into daily
+contact. In August, 1873, his field work was interrupted by illness, and
+he returned to his home in Maryland and assumed parish work, meantime
+continuing his linguistic studies. In July, 1878, he was induced by Major
+Powell to resume field researches among the aborigines, and repaired to
+the Omaha reservation, in Nebraska, under the auspices of the Smithsonian
+Institution, where he greatly increased his stock of linguistic and other
+material. When the Bureau of Ethnology was instituted in 1879, his
+services were at once enlisted, and the remainder of his life was devoted
+to the collection and publication of ethnologic material, chiefly
+linguistic. Although most of his energies were devoted to the Siouan
+stock, he studied also the Athapascan, Kusan, Takilman, and Yakonan
+stocks; and while his researches were primarily linguistic, his
+collections relating to other subjects, especially institutions and
+beliefs, were remarkably rich. His publications were many, yet the greater
+part of the material amassed during his years of labor remains for
+elaboration by others. The memoir on "Siouan Sociology," which was
+substantially ready for the press, is the only one of his many manuscripts
+left in condition for publication. He died in Washington, February 4,
+1895, of typhoid fever, at the early age of 47.
+
+                                                                      WJM.
+
+
+ALPHABET
+
+
+a, as in _father_.
+
+'a, an initially exploded a.
+
+a, as in _what_, or as _o_ in _not_.
+
+'a, an initially exploded a.
+
+ä, as in _hat_.
+
+c, as _sh_ in _she_. See s.
+
+{~LATIN SMALL LETTER OPEN O~}, a medial _sh_, a sonant-surd
+
+c (Dakota letter), as _ch_ in _church_.
+
+ç, as _th_ in _thin_.
+
+{~LATIN SMALL LETTER OPEN O~}{~COMBINING ACUTE ACCENT~}, a medial ç, sonant-surd.
+
+¢, as _th_ in _the_.
+
+e, as in _they_.
+
+'e, an initially exploded e.
+
+e, as in _get_.
+
+'e, an initially exploded e.
+
+g, as in _go_.
+
+g (in Dakota), _gh_. See x.
+
+{~LATIN SMALL LETTER TURNED H~} (in Osage), an h after a pure or nasalized vowel, expelled through the
+mouth with the lips wide apart.
+
+h (in Dakota), _kh_, etc. See q.
+
+i, as in _machine_.
+
+'i, an initially exploded i.
+
+i, as in _pin_.
+
+j, as _z_ in _azure_, or as _j_ in the French _Jacques_.
+
+{~LATIN SMALL LETTER TURNED K~}, a medial k, a sonant-surd,
+
+k', an exploded k. See next letter.
+
+k (in Dakota), an exploded k.
+
+{~LATIN SMALL LETTER TURNED M~} (in Kansa), a medial m, a sound between m and b.
+
+n (in Dakota), after a vowel has the sound of _n_ in the French _bon_. See
+[n].
+
+ñ, as _ng_ in _sing_.
+
+hn, its initial sound is expelled from the nostrils and is scarcely heard.
+
+o, as in _no_.
+
+'o, an initially exploded o.
+
+*d*, a medial b or p, a sonant-surd.
+
+p', an exploded p.
+
+q, as German _ch_ in _ach_. See h.
+
+*s*, a medial z or s, a sonant-surd.
+
+s (in Dakota), as _sh_ in _she_. See c.
+
+{~LATIN SMALL LETTER TURNED T~}, a medial d or t, a sonant-surd.
+
+t', an exploded t.
+
+u, as _oo_ in _tool_.
+
+'u, an initially exploded u.
+
+u, as _oo_ in _foot_.
+
+u{~COMBINING MACRON BELOW~}, a sound between o and u.
+
+ü, as in German _kühl_, _süss_.
+
+x, _gh_, or nearly the Arabic _ghain_. See g.
+
+z (in Dakota), as _z_ in _azure_. See j.
+
+dj, as _j_ in _judge_.
+
+tc, as _ch_ in _church_. See c.
+
+tc', an exploded tc.
+
+{~LATIN SMALL LETTER TURNED T~}{~LATIN SMALL LETTER OPEN O~}, a medial tc, a sonant-surd.
+
+ts', an exploded ts.
+
+{~LATIN SMALL LETTER TURNED T~}s, a medial ts, a sonant-surd.
+
+ai, as in _aisle_.
+
+au, as _ow_ in _how_.
+
+yu, as _u_ in _tune_, or _ew_ in _few_.
+
+The following have the ordinary English sounds: b, d, h, k, l, m, n, p, r,
+s, t, w, y, and z. A superior n (n) after a vowel (compare the Dakota n)
+has the sound of the French n in _bon_, _vin_, etc. A plus sign (+) after
+any letter prolongs it.
+
+The vowels 'a, 'e, 'i, 'o, 'u, and their modifications are styled
+initially exploded vowels for want of a better appellation, there being in
+each case an initial explosion. These vowels are approximately or
+partially pectoral sounds found in the Siouan languages and also in some
+of the languages of western Oregon and in the language of the Hawaiian
+islands.
+
+
+CONTENTS
+
+
+GENERAL FEATURES OF ORGANIZATION
+THE DAKOTA TRIBES
+   DESIGNATION AND MODE OF CAMPING
+   THE MDEWAKANTONWAN
+   THE WAQPE-KUTE
+   THE WAQPE-TONWAN OR WAHPETON
+   THE SISITONWAN OR SISSETON
+   THE IHAÑKTONWAN OR YANKTON
+   THE IHAÑKTONWANNA OR YANKTONAI
+   THE TITONWAN OR TETON
+      TRIBAL DIVISIONS
+      THE SITCANXU
+      THE ITAZIPTCO
+      THE SIHA-SAPA OR BLACKFEET
+      THE MINIKOOJU
+      THE OOHE-NONPA OR TWO KETTLES
+      THE OGLALA
+      THE HUÑKPAPA
+   DAKOTA SOCIAL CUSTOMS
+THE ASINIBOIN
+THE OMAHA
+THE PONKA
+THE QUAPAW OR KWAPA
+THE KANZE OR KANSA
+THE OSAGE
+THE IOWA
+THE OTO
+THE NI-U'-T'A-TCI OR MISSOURI
+THE HOTCAÑGARA OR WINNEBAGO
+THE MANDAN
+THE HIDATSA
+THE CROW OR ABSAROKA
+THE BILOXI
+THE TUTELO
+THE CATAWBA
+
+
+ILLUSTRATIONS
+
+
+FIG. 30.--Sisseton and Wahpeton camping circle.
+FIG. 31.--Sisseton camping circle.
+FIG. 32.--Sitcanxu camping circle.
+FIG. 33.--Oglala camping circle.
+FIG. 34.--Omaha camping circle.
+FIG. 35.--Iñke-sabe gentile assembly. A, The Wa¢igije, Maze or Whorl, or
+Wagnbe-gaxe-aka, He-who-acts-mysteriously. B, The Watanzi-jide-¢ataji,
+Those-who-eat-no-red-corn.
+FIG. 36.--Ponka camping circle.
+FIG. 37.--Kansa camping circle.
+FIG. 38.--Osage camping circle.
+
+
+SIOUAN SOCIOLOGY
+
+
+BY JAMES OWEN DORSEY
+
+
+GENERAL FEATURES OF ORGANIZATION
+
+
+In the study of the organization of societies, units of different orders
+are discovered. Among the tribes of the Siouan family the primary unit is
+the clan or gens, which is composed of a number of consanguinei, claiming
+descent from a common ancestor and having common taboos; the term clan
+implying descent in the female line, while gens implies descent in the
+male line. Among the Dakota, as among the ¢egiha and other groups, the man
+is the head of the family.
+
+Several of the Siouan tribes are divided into two, and one (the Osage) is
+divided into three subtribes. Other tribes are composed of phratries, and
+each subtribe or phratry comprises a number of gentes. In some tribes each
+gens is made up of subgentes, and these in turn of a lower order of
+groups, which are provisionally termed sections for want of a better
+designation. The existence of these minor groups among the Omaha has been
+disputed by some, though other members of the tribe claim that they are
+real units of the lowest order. Among the Teton many groups which were
+originally sections have become gentes, for the marriage laws do not
+affect the original phratries, gentes, and subgentes.
+
+The state, as existing among the Siouan tribes, may be termed a kinship
+state, in that the governmental functions are performed by men whose
+offices are determined by kinship, and in that the rules relating to
+kinship and reproduction constitute the main body of the recognized law.
+By this law marriage and the mutual rights and duties of the several
+members of each body of kindred are regulated. Individuals are held
+responsible, chiefly to their kindred; and certain groups of kindred are
+in some cases held responsible to other groups of kindred. When other
+conduct, such as the distribution of game taken in the forest or fish from
+the waters, is regulated, the rules or laws pertaining thereto involve, to
+a certain extent, the considerations of kinship.
+
+The legislative, executive, and judicative functions have not been
+differentiated in Indian society as found among the Siouan groups. Two
+tendencies or processes of opposite character have been observed among the
+tribes, viz, consolidation and segregation. The effects of consolidation
+are conspicuous among the Omaha, Kansa, Osage, and Oto, while segregation
+has affected the social organization among the Kansa, Ponka, and Teton.
+There have been instances of emigration from one tribe to another of the
+same linguistic family; and among the Dakota new gentes have been formed
+by the adoption into the tribe of foreigners, i.e., those of a different
+stock.
+
+Two classes of organization are found in the constitution of the state,
+viz, (1) major organizations, which relate directly to government, and (2)
+minor organizations, which relate only indirectly to government. The
+former embraces the state functionaries, the latter comprises
+corporations.
+
+Although the state functionaries are not clearly differentiated, three
+classes of such men have been recognized: chiefs, policemen or soldiers,
+and young men or "the common people." The chiefs are the civil and
+religious leaders of the masses; the policemen are the servants of the
+chiefs; the young men are such as have not distinguished themselves in war
+or in any other way. These last have no voice in the assembly, which is
+composed of the chiefs alone. Among the Omaha there is no military class,
+yet there is a war element which is regulated by the Elk gens. The ¢ixida
+gens and part of the Nika*d*a{~LATIN SMALL LETTER OPEN O~}na gens of the Ponka tribe are considered to
+be the warriors of the tribe, though members of other gentes have
+participated in war. In the Kansa tribe two gentes, the Large Hañga and
+the Small Hañga, form the phratry connected with war, though warriors did
+not necessarily belong to those gentes alone. In the Osage camping circle
+all the gentes on the right side are war gentes, but the first and second,
+reckoning from the van, are the soldiers or policemen; while all the
+gentes camping on the left are associated with peace, though their first
+and second gentes, reckoning from the van, are policemen or soldiers.
+Among the Omaha both officers and warriors must be taken from the class of
+"young men," as the chiefs are afraid to act as leaders in war; and among
+both the Omaha and the Ponka the chiefs, being the civil and religious
+leaders of the people, can not serve as captains, or even as members, of
+an ordinary war party, though they may fight when the whole tribe engages
+in war. Among the Dakota, however, chiefs have led in time of war.
+
+Corporations among the Siouan tribes are minor organizations, indirectly
+related to the government, though they do not constitute a part of it. The
+Omaha, for instance, and perhaps other tribes of the family, are organized
+into certain societies for religious, industrial, and other ends. There
+are two kinds of societies, the brotherhoods and the feasting
+organizations. The former are the dancing societies, to some of which the
+physicians belong.
+
+Social classes are undifferentiated. Any man can win a name and rank in
+the section, gens, phratry, tribe, or nation by bravery in war or by
+generosity in the bestowal of presents and the frequent giving of feasts.
+While there are no slaves among the Siouan tribes, there are several kinds
+of servants in civil, military, and religious affairs.
+
+
+THE DAKOTA TRIBES
+
+
+DESIGNATION AND MODE OF CAMPING
+
+
+The Dakota call themselves Otceti cakowin (Oceti sakowin(1)), The Seven
+Fireplaces or Council-fires. This designation refers to their original
+gentes, the Mdewakantonwan (Mdewakan-tonwan), Waqpekute (Wahpe-kute),
+Waqpe-tonwan (Wahpetonwan), Sisitonwan (Sisitonwan), Ihañk-tonwan
+(Ihanktonwan), Ihañk-tonwanna (Ihanktonwanna), and Titonwan (Titonwan).
+They camped in two sets of concentric circles, one of four circles,
+consisting probably of the Mdewakantonwan, Waqpe-kute, Waqpe-tonwan and
+Sisitonwan; and the other of three circles, including the Ihañktonwan,
+Ihañktonwanna, and Titonwan, as shown by the dialectal resemblances and
+variations as well as by the relative positions of their former habitats.
+
+
+THE MDEWAKANTONWAN
+
+
+The Mdewakantonwan were so called from their former habitat, Mdewakan, or
+Mysterious lake, commonly called Spirit lake, one of the Mille Lacs in
+Minnesota. The whole name means Mysterious Lake village, and the term was
+used by De l'Isle as early as 1703. The Mdewakantonwan were the original
+Santee, but the white people, following the usage of the Ihañktonwan,
+Ihañktonwanna, and Titonwan, now extend that name to the Waqpekute,
+Waqpetonwan, and Sisitonwan. The gentes of the Mdewakantonwan are as
+follows:(2)
+
+1. Kiyuksa, Breakers (of the law or custom); so called because members of
+this gens disregarded the marriage law by taking wives within the gens.
+
+2. Qe-mini-tcan (He-mini-can) or Qemnitca (Hemnica), literally,
+"Mountain-water-wood;" so called from a hill covered with timber that
+appears to rise out of the water. This was the gens of Red Wing, whose
+village was a short distance from Lake Pepin, Minnesota.
+
+3. Kap'oja (Kap{~COMBINING DOT BELOW~}oza), Not encumbered-with-much-baggage; "Light Infantry."
+"Kaposia, or Little Crow's village," in Minnesota, in 1852.
+
+4. Maxa-yute-cni (Maga-yute-'sni), Eats-no-geese.
+
+5. Qeyata-otonwe (Heyata-otonwe), of-its-chief-Hake-wacte (Hake waste);
+Qeyata-tonwan (Heyata-tonwan) of Reverend A.L. Riggs,
+Village-back-from-the-river.
+
+6. Oyate-citca (Oyate sica), Bad nation.
+
+7. Tinta-otonwe (Tinta-otornwe), of Hake-wacte, or Tinta tonwan
+(Tintatonwan) of A.L. Riggs, Village on-the-prairie (tinta).
+
+These seven gentes still exist, or did exist as late as 1880.
+
+
+THE WAQPE-KUTE
+
+
+The name waqpe-kute is derived from waqpe (wahpe), leaf, and kute, to
+shoot at, and signifies Shooters-among-the-leaves, i.e., among the
+deciduous trees, as distinguished from Wazi-kute,
+Shooters-at-or-among-the-pines. The gentes exist, but their names have not
+been recorded.
+
+
+THE WAQPE-TONWAN OR WAHPETON
+
+
+The name of this people signifies Yillage-among-the-leaves (of deciduous
+trees), the gens being known to the whites as Leaf Village or Wahpeton.
+The gentes of this people, as given in 1884 by Reverend Edward Ashley, are
+the following:
+
+    [Illustration: FIG. 30.--Sisseton and Wahpeton camping circle.]
+
+            FIG. 30.--Sisseton and Wahpeton camping circle.
+
+
+13. Inyan-tceyaka-atonwan (Inyan-ceyaka-atonwan),
+Village-at-the-dam-or-rapids.
+
+14. Takapsin-tonwanna (Takapsin-tonwanna), Village-at-the-shinny-ground.
+
+15. Wiyaka-otina, Dwellers-on-the-sand (wiyaka).
+
+16. Oteqi-atonwan (Otehi-atonwan),Village-in-the-thicket (otehi).
+
+17. Wita-otina, Dwellers-on-the-island (wita).
+
+18. Wakpa-atonwan (Wakpa-atonwan), Village-on-the-river.
+
+19. Tcan-kaxa-otina (Can-kaga-otina), Dwellers-in-log (-huts?).
+
+The numbers prefixed to the names of these gentes denote their respective
+places in the camping circle of the Sisseton and Wahpeton, as shown in
+figure 30.
+
+
+THE SISITONWAN OR SISSETON
+
+
+It is evident that the Sisseton were formerly in seven divisions, the
+Wita-waziyata-otina and the Ohdihe being counted as one; the Basdetce-cni
+and Itokaq-tina as another; the Kaqmi-atonwan, Maniti, and Keze as a
+third, and the Tizaptan and Okopeya as a fifth. When only a part of the
+tribe journeyed together, the people camped in the following manner: The
+Amdo-wapuskiyapi pitched their tents between the west and north, the
+Wita-waziyata-otina between the north and east, the Itokaq-tina between
+the east and south, and the Kap'oja between the south and west. The
+following are the Sisseton gentes (figure 31):
+
+1. Wita-waziyata-otina, Village-at-the-north-island.
+
+2. Ohdihe (from ohdihan, to fall into an object endwise). This gens is an
+offshoot of the Wita-waziyata-otina.
+
+3. Basdetce-cni (Basdece-sni), Do-not-split (the body of a
+buffalo)-with-a-knife (but cut it up as they please).
+
+4. Itokaq-tina (Itokali-tina), Dwellers-at-the-south (itokaga). These are
+an offshoot of the Basdetce-cni.
+
+5. Kaqmi-atonwan (Kalimi-atonwan), Village-at-the-bend (kalimin).
+
+6. Mani-ti, Those-who-camp (ti)-away-from-the-village. An offshoot of the
+Kaqmi-atonwan.
+
+7. Keze, Barbed-like-a-fishhook. An offshoot of the Kaqmi-atonwan.
+
+8. Tcan-kute (Can kute), Shoot-in-the-woods (among the deciduous trees); a
+name of derision. These people, according to Ashley, resemble the Keze,
+whom he styles a "cross clan."
+
+9. Ti-zaptan (Ti-zaptan), Five-lodges.
+
+10. Okopeya, In-danger. An offshoot of the Ti-zaptan.
+
+11. Kap'oja (Kapoza), Those-who-travel-with-light-burdens. (See number 3
+of the Mdewakantonwan.)
+
+12. Amdo-wapuskiyapi, Those-who-lay-meat-on-their-shoulders
+(amdo)-to-dry-it (wapuskiya)-during-the-hunt.
+
+          [Illustration: FIG. 31.--Sisseton camping circle.]
+
+                  FIG. 31.--Sisseton camping circle.
+
+
+THE IHAÑKTONWAN OR YANKTON
+
+
+The Yankton and Yanktonai speak the Yankton dialect, which has many words
+in common with the Teton.
+
+In 1878 Walking Elk wrote the names of the Yankton gentes in the following
+order: 1, Tcan-kute (Can kute), Shoot-in-the-woods; 2, Tcaxu (Cagu),
+Lights or lungs; 3, Wakmuha-oin (Wakmuha oin),Pumpkin-rind-earring; 4,
+Ihaisdaye, Mouth-greasers; 5, Watceunpa (Waceunpa), Roasters; 6, Ikmun
+(Ikmun), An animal of the cat kind (lynx, panther, or wildcat); 7,
+Oyate-citca (Oyate-sica), Bad-nation; 8, Wacitcun-tcintca (Wasican-cinca)
+(a modern addition), Sons-of-white-men, the "Half-blood band." But in 1891
+Reverend Joseph W. Cook, who has been missionary to the Yankton since
+1870, obtained from several men the following order of gentes (ignoring
+the half-bloods): On the right side of the circle were, 1, Iha isdaye; 2,
+Wakmuha-oin; 3, Ikmun. On the left side of the circle were, 4, Watceunpa;
+5, Tcan-kute; 6, Oyate-citca; and, 7, Tcaxu.
+
+
+THE IHAÑKTONWANNA OR YANKTONAI
+
+
+The Yanktonai are divided into the Upper and Lower Yanktonai, the latter
+being known as the Huñkpatina, Those-camping-at-one-end (or
+"horn")-of-the-tribal-circle.
+
+The Upper Yanktonai geutes are as follows: 1, Tcan-ona (Can ona),
+Shoot-at-trees, or Wazi-kute, Shooters-among-the-pines; from these the
+Ho-he or Asiniboin have sprung. 2, Takini, Improved-in-condition (as a
+lean animal or a poor man). 3, Cikcitcena (Siksicena),
+Bad-ones-of-different-sorts. 4, Bakihon (Bakihon),
+Gash-themselves-with-knives. 5, Kiyuksa, Breakers (of the law or custom);
+see Mdewakantonwan gens number 1. 6, Pa-baksa, Cut-heads; some of these
+are on Devils Lake reservation, North Dakota. 7, Name forgotten.
+
+The following are the gentes of the Lower Yanktonai, or Huñkpatina: 1,
+Pute-temini, Sweat-lips; the gens of Maxa-bomdu or Drifting Goose. 2,
+Gun-iktceka (Sun ikceka), Common dogs. 3, Taquha-yuta (Tahuha-yuta),
+Eat-the-scrapings-of-hides. 4, San-ona (San-ona),
+Shot-at-some-white-object; this name originated from killing an albino
+buffalo; a Huñkpapa chief said that refugees or strangers from another
+tribe were so called. 5, Iha-ca (Iha-sa), Red-lips. 6, Ite-xu (Ite-gu),
+Burned-face. 7, Pte-yute-cni (Pte-yute-sni), Eat-no-buffalo-cows.
+
+
+THE TITONWAN OR TETON
+
+
+TRIBAL DIVISIONS
+
+
+The Teton are divided into seven tribes, which were formerly gentes. These
+are the Sitcanxu (Sicangu), Itaziptco (Itazipco), Siha-sapa, Minikooju
+(Minikoozu), Oohe-nonpa (Oohe-nonpa), Oglala, and Huñkpapa.
+
+
+THE SITCANXU
+
+
+The Sitcanxu, Bois Brulés or Burned Thighs, are divided locally into (1)
+Qeyata-witcaca (Heyata wicasa), People-away-from-the-river, the Highland
+or Upper Brulé, and (2) the Kud (Kuta or Kunta)-witcaca, the Lowland or
+Lower Brulé. The Sitcanxu are divided socially into gentes, of which the
+number has increased in recent years. The following names of their gentes
+were given to the author in 1880 by Tatañka-wakan, Mysterious
+Buffalo-bull: 1, Iyak'oza (Iyakoza), Lump (or wart)-on-a-horse's-leg. 2,
+Tcoka-towela (Coka-towela), Blue-spot-in-the-middle. 3, Ciyo-tañka
+(Siyo-tanka), Large grouse or prairie chicken. 4, Ho-mna, Fish-smellers.
+5, Ciyo-subula (Siyo-subula), Sharp-tail grouse. 6, Kanxi-yuha
+(Kangi-yuha), Raven keepers. 7, Pispiza-witcaca (Pispiza-wicasa),
+Prairie-dog people. 8, Walexa-un-wohan (Walega un wohan),
+Boil-food-with-the-paunch-skin (walega). 9, Watceunpa (Waceunpa),
+Roasters. 10, Cawala (Sawala), Shawnee; the descendants of a Shawnee chief
+adopted into the tribe. 11, Ihañktonwan (Ihanktonwan), Yankton, so called
+from their mothers, Yankton women; not an original Sitcanxu gens. 12,
+Naqpaqpa (Nahpahpa), Take-down (their)-leggings (after returning from
+war). 13, Apewan-tañka (Apewan tanka), Big manes (of horses).
+
+In 1884 Reverend W.J. Cleveland sent the author the accompanying diagram
+(figure 32) and the following list of Sitcanxu gentes, containing names
+which he said were of very recent origin; 1, Sitcanxu proper. 2, Kak'exa
+(Kakega),Making-a-grating-sound. 3a, Hinhan-cun-wapa (Hinhan-sun-wapa),
+Toward-the-owl-feather. 3b, Cuñikaha-napin (Sunkaha napin),
+Wears-a-dogskin-around-the-neek, 4, Hi-ha kanhanhan win (Hi-ha kanhanhan
+win), Woman (win) -the-skin (ha) -of-whose-teeth (hi) -dangles
+(kanhanhan). 5, Huñku-wanitca (Hunku-wanica), Without-a-mother. 6,
+Miniskuya-kitc'un (Miniskuya kicun), Wears salt. 7a, Kiyuksa,
+Breaks-or-cuts-in-two-his-own (custom, etc; probably referring to the
+marriage law; see Mdewakantonwan gens number 1). 7b, Ti-glabu,
+Drums-iu-his-own-lodge. 8, Watceunpa (Waceunpa), Boasters. 9, Wagluqe
+(Wagluhe), Followers, commonly called loafers; A.L. Riggs thinks the word
+means "in-breeders." 10, Isanyati (Isanyati), Santee (probably derived
+from the Mdewakantonwan). 11, Wagmeza-yuha, Has corn. 12a, Walexa-on-wohan
+(Walega-on-wohan), Boils-with-the-paunch-skin. 12b, Waqna (Wahna), Snorts.
+13, Oglala-itc'itcaxa (Oglala-icicaga), Makes-himself-an-Oglala. 14,
+Tiyotcesli (Tiyocesli), Dungs-in-the-lodge. 15, Wajaja (Wazaza), Osage
+(?). 16, Ieska-tcintca (Ieska-cinca), Interpreter's sons; "half-bloods."
+17, Ohe-nonpa (Ohe-nonpa), Two boilings or kettles. 18, Okaxa-witcaca
+(Okaga-wicasa), Man-of-the-south.
+
+          [Illustration: FIG. 32.--Sitcanxu camping circle.]
+
+                  FIG. 32.--Sitcanxu camping circle.
+
+
+THE ITAZIPTCO
+
+
+The Itaziptco (Itazipco), in full, Itazipa-tcodan (Itazipa-codan),
+Without-bows or Sans Arcs, had seven gentes, according to Waanatan or
+Charger, in 1880 and 1884: 1, Itaziptco-qtca (Itazipco-hca), Real
+Itaziptco, also called Mini-cala (Mini-sala), Red water. 2, Cina-luta-oin
+(Sina-luta-oin), Scarlet-cloth-earring. 3, Woluta-yuta, Eat-dried-venison
+(or buffalo meat) -from-the-hind-quarter. 4, Maz-peg-naka, Wear
+(pieces-of) -metal-in-the-hair. 5, Tatañka-tcesli (Tatanka-cesli),
+Dung-of-a-buffalo-bull. 6, Cikcitcela (Siksicela),
+Bad-ones-of-different-kinds. 7, Tiyopa-otcannunpa (Tiyopa-ocannunpa),
+Smokes-at-the-entrance-to-the-lodge.
+
+
+THE SIHA-SAPA OR BLACKFEET
+
+
+The following are the gentes of the Siha-sapa or Blackfeet as given by
+Peji or John Grass, in 1880: 1, Siha-sapa-qtca, Real Blackfeet. 2,
+Kanxi-cun-pegnaka (Kangi-sun-pegnaka), Wears-raven-feathers-in-the-hair.
+3, Glagla-hetca (Glagla-heca), Untidy, slovenly ("Too lazy to tie their
+moccasins"). 4, Wajaje (Wazaze; Kill Eagle's band; named affcer Kill
+Eagle's father, who was a Wajaje of the Oglala tribe). 5, Hohe, Asiniboin.
+6, Wamnuxa-oin (Wamnuga-oin), Shell-ear-pendant. In 1884 Reverend H. Swift
+obtained the following from Waanatan or Charger as the true list of
+Siha-sapa gentes: 1, Ti-zaptan (Ti-zaptan), Five lodges. 2,
+Siha-sapa-qtca, Heal Blackfeet. 3, Hohe, Asiniboin. 4, Kanxi-cun-pegnaka
+(as above). 5, Wajaje (as above). 6, Wamnuxa-oin (as above). Mr Swift
+stated that there was no Siha-sapa division called Glagla-hetca.
+
+
+THE MINIKOOJU
+
+
+In 1880 Tatañka-wanbli, or Buffalo-bull Eagle, gave the author the names
+of numbers 1, 2, 3, 5, 6, 7, and 8 of the following list of the Minikooju
+(Minikoozu), Minikanye-woju (Minikanye-wozu), or Minneconjou gentes. These
+were given in 1884, with numbers 4 and 9, to Reverend H. Swift by No Heart
+(Cante-wanica): 1, Uñktce-yuta (Unkce-yuta), Eat-dung. 2, Glagla-hetca
+(Glagla-heca), Slovenly. 3, Cuñka-yute-cni (Sunka yute-sni), Eat-no-dogs.
+4, Nixe-tañka (Nige-tanka), Big-belly. 5, Wakpokinyan (Wakpokinyan),
+Flies-along-the-creek (wakpa). 6, Inyan-ha-oin (Inyan-h-oin),
+Musselshell-earring. 7, Cikcitcela (Siksicela),
+Bad-ones-of-different-sorts. 8, Wagleza-oin, Watersnake-earring. 9,
+Wan-nawexa (Wan-nawega), Broken-arrows. The Wannawexa are nearly extinct.
+
+
+THE OOHE-NONPA OR TWO KETTLES
+
+
+Of the Oohe-nonpa (Oohe-nonpa), Two Boilings or Two Kettles, Charger knew
+the names of only two gentes, which he gave to Reverend H. Swift in 1884,
+as follows: 1, Oohe-nonpa, Two-boilings. 2, Ma-waqota (Ma-wahota),
+Skin-smeared-with-whitish-earth.
+
+
+THE OGLALA
+
+
+The first list of Oglala gentes was obtained in 1879 from Reverend John
+Robinson and confirmed in 1880 by a member of the tribe. These gentes are
+as follows: 1, Payabya, Pushed-aside. 2, Tapicletca (Tapisleca), Spleen
+(of an animal). 3, Kiyuksa, Breaks-his-own (marriage custom). 4, Wajaja
+(Wazaza. See the Siha-sapa list of gentes). 5, Ite-citca (Ite-sica),
+Bad-face, or Oglala-qtca (Oglala-hca), Real Oglala. 6, Oyuqpe (Oyuhpe);
+identical with Oiyuqpe of the next list. 7, Wagluqe (Wagluhe). Followers
+or Loafers. These were probably the earlier divisions of the Oglala, but
+by 1884 considerable segregation had been accomplished, as shown by the
+following list furnished by Reverend W.J. Cleveland: 1, Ite-citca
+(Ite-sica), Bad-face, under Maqpiya-luta, Scarlet Cloud ("Red Cloud"). 2,
+Payabyeya, Pushed-aside (under Tasunka-kokipapi, They-fear-even-his-horse;
+wrongly rendered Man-afraid-of-his-horses). 3, Oyuqpe (Oyuhpe), Thrown
+down or unloaded. 4, Tapicletca, Spleen (of an animal). 5, Pe-cla
+(Pe-sla), Baldhead. 6, Tceq-huha-ton (Ceh-huha-ton), Kettle-with-legs. 7,
+Wablenitca (Wablenica), Orphans. 8, Pe-cla-ptcetcela (Pe-sla-ptecela),
+Short-baldhead. 9, Tacnahetca (Tasnaheca), Gopher. 10, I-wayusota,
+Uses-up-by-begging-for, "Uses-up-with-the-mouth." 11, Wakan (Wakan),
+Mysterious. 12a, Iglaka-teqila (Iglaka-tehila), Refuses-to-move-camp. 12b,
+Ite-citca, Bad-face (as number 1). 13, Ite-citca-etanhan
+(Ite-sica-etanhan), "From-bad-face," Part-of-bad-face. 14, Zuzetca-kiyaksa
+(Zuzeca kiyaksa), Bit-the-snake-in-two. 15, Watceonpa (Wace-onpa),
+Boasters. 16, Watcape (Wacape), Stabber. 17, Tiyotcesli (Tiyocesli),
+Dungs-in-the-lodge. 18 and 19, Wagluqe, Followers or Loafers. 20, Oglala,
+Scattered-her-own. 21, Ieska-tcintca (Ieska-cinca), Interpreter's sous,
+"Half-bloods."
+
+According to Mr Cleveland the whole Oglala tribe had two other names,
+Oyuqpe, Thrown-down or unloaded, and Kiyaksa, Bit-it-in-two.
+
+
+THE HUÑKPAPA
+
+
+The name Huñkpapa (sometimes corrupted into Uncpapa, Oncpapa, etc), should
+be compared with the Yanktonai name Huñkpatina; both refer to the huñkpa
+or ends of a tribal circle. A Huñkpapa man in 1880 gave the following as
+the names of the gentes: 1, Tcañka-oqan (Canka-ohan) Sore-backs (of
+horses), not the original name. 2, Tce-oqba (Ce-ohba), in which tce (ce)
+has either a vulgar meaning or is a contraction of tceya (ceya), to weep,
+and oqba (ohba), sleepy. 3, Tinazipe-citca (Tinazipe-sica), Bad-bows. 4,
+Talo-nap'in (Talo-napin), Fresh-meat-necklace. 5, Kiglacka (Kiglaska),
+Ties-his-own. 6, Tcegnake-okisela (Cegnake-okisela), Half-a-breechcloth.
+7, Cikcitcela (Siksicela), Bad-ones-of-different-sorts. 8, Wakan (Wakan),
+Mysterious. 9, Hunska-tcantojuha (Hunska-cantozuha),
+Legging-tobacco-pouch.
+
+           [Illustration: FIG. 33.--Oglala camping circle.]
+
+                   FIG. 33.--Oglala camping circle.
+
+
+The real foundation for the totemic system exists among the Dakota, as
+well as among the other Siouan tribes and the Iroquois, in the names of
+men often being taken from mythical animals, but, in the opinion of Dr
+S.R. Riggs, the system was never carried to perfection.
+
+
+DAKOTA SOCIAL CUSTOMS
+
+
+Among the eastern Dakota the phratry was never a permanent organization,
+but it was resorted to on special occasions and for various purposes, such
+as war or the buffalo hunt. The exponent of the phratry was the tiyotipi
+or "soldiers' lodge," which has been described at length by Dr Riggs.(3)
+
+While no political organization has been known to exist within the
+historic period over the whole Dakota nation, the traditional alliance of
+the "Seven Council-fires" is perpetuated in the common name Dakota,
+signifying allied, friendly.
+
+Among the Dakota it is customary for the rank and title of chief to
+descend from father to son, unless some other near relative is ambitious
+and influential enough to obtain the place. The same is claimed also in
+regard to the rank of brave or soldier, but this position is more
+dependent on personal bravery. While among the Omaha and Ponka a chief can
+not lead in war, there is a different custom among the Dakota. The
+Sisseton chief Standing Buffalo told Little Crow, the leader of the
+hostile Santee in the Minnesota outbreak of 1862, that, having commenced
+hostilities with the whites, he must fight it out without help from him,
+and that, failing to make himself master of the situation, he should not
+flee through the country of the Sisseton.
+
+Regarding chieftainship among the Dakota, Philander Prescott(4) says:
+
+
+    The chieftainship is of modern date, there being no chiefs hefore
+    the whites came. The chiefs have little power. The chief's band is
+    almost always a kin totem which helps to sustain him. The chiefs
+    have no votes in council; there the majority rules and the voice
+    of the chief is not decisive till then.
+
+    On the death of a chief, the nearest kinsman in the right line is
+    eligible. If there are no kin, the council of the band can make a
+    chief. Civil chiefs scarcely ever make a war party.
+
+
+The Dakota woman owns the tipi. If a man has more wives than one, they
+have separate tipis, or they arrange to occupy different sides of one.
+Sometimes the young man goes to live with his wife's kindred, but in such
+matters there is no fixed rule. To purchase a wife was regarded the most
+honorable form of marriage, though elopement was sometimes resorted to.
+
+
+THE ASINIBOIN
+
+
+The Asiniboin were originally part of the Wazi-kute gens of the Yanktonai
+(Ihañktonwanna) Dakota. According to the report of E.T. Denig to Governor
+I.I. Stevens,(5) "the Asiniboin call themselves Dakota, meaning Our
+people." The Dakota style them Hohe, "rebels," but Denig says the term
+signifies "fish eaters," and that they may have been so called from the
+fact that they subsisted principally on fish while in British territory.
+
+Lists of the gentes of this people have been recorded by Denig,
+Maximilian, and Hayden, but in the opinion of the present writer they need
+revision.
+
+                            _Asiniboin gentes_
+
+_Denig_                  _Maximilian_        _Hayden_
+We-che-ap-pe-nah,        Itschcabinè, Les    Wi-ic-ap-i-nah,
+60 lodges, under         gens des filles.    Girls' band.
+Les Yeux Gris
+E-an-to-ah, Stone        Jatonabinè, Les     I'-an-to'-an.
+Indians, the             gens des roches,    Either Inyan
+original                 the Stone Indians   tonwan, Stone
+appellation for          of the English.     Village or
+the whole nation;        Call themselves     Ihanktonwan, End
+50 lodges, under         "Eascab."           village or
+Premier qui Voile.                           Yankton. J.O.D.)
+Wah-to-pan-ah,           Otaopabinè, Les     Wah-to'-pap-i-nah
+Canoe Indians, 100       gens des canots.
+lodges, under
+Serpent.
+Wah-to-pah-han-da-toh,   Watópachnato, Les   Wah-to'-pah-an-da-to,
+Old Gauché's gens,       gens de l'age.      Gens du Gauché or
+i.e., Those who                              Left Hand.
+row in canoes; 100
+lodges, under
+Trembling Hand.
+Wah-ze-ah we-chas-ta,    O-see-gah (of       Wah-zi-ah, or
+Northern People (so      Lewis and Clark,    To-kum-pi, Gens du
+called because they      Discoveries, p.     Nord.
+came from the north in   43, 1806).
+1839); 60 lodges,
+under Le Robe de Vent.
+
+The following gentes have not been collated: Of Maximilian's list,
+Otopachgnato, les gens du large, possibly a duplication, by mistake, of
+Watopachnato, les gens de l'age; Tschantoga, les gens des bois;
+Tanin-tauei, les gens des osayes; Chábin, les gens des montagnes. Of
+Hayden's list, Min'-i-shi-nak'-a-to, gens du lac.
+
+The correct form in the Yankton dialect of the first name is Witcinyanpina
+(Wicinyanpina), girls; of the second, probably Inyantonwan (Inyan tonwan);
+the third and fourth gentes derive their names from the verb watopa, to
+paddle a canoe; the fifth is Waziya witcacta (Waziya wicasta). Tschan in
+Tschantoga is the German notation of the Dakota tcan (can), tree, wood.
+Cha in Chábin is the German notation of the Dakota word he, a high ridge
+of hills, a mountain.
+
+In his report to Governor Stevens, from which the following information
+respecting the Asiniboin is condensed, Denig used the term "band" to
+denote a gens of the tribe, and "clans" instead of corporations, under
+which latter term are included the feasting and dancing societies and the
+orders of doctors, shamans, or theurgists.
+
+These bands are distinct and occupy different parts of the country,
+although they readily combine when required by circumstances, such as
+scarcity of game or an attack by a large body of the enemy.
+
+The roving tribes call no general council with other nations; indeed, they
+are suspicious even of those with whom they have been at peace for many
+years, so that they seldom act together in a large body. With the
+exception of the Hidatsa, Mandau, and Arikara, who are stationary and live
+in a manner together, the neighboring tribes are quite ignorant of one
+another's government, rarely knowing even the names of the principal
+chiefs and warriors.
+
+In all these tribes there is no such thing as hereditary rank. If a son of
+a chief is wanting in bravery, generosity, or other desirable qualities,
+he is regarded merely as an ordinary individual; at the same time it is
+true that one qualification for the position of chief consists in having a
+large number of kindred in the tribe or gens. Should there be two or more
+candidates, equally capable and socially well connected, the question
+would be decided on the day of the first removal of the camp, or else in
+council by the principal men. In the former case, each man would follow
+the leader whom he liked best, and the smaller body of Indians would soon
+adhere to the majority.
+
+Women are never acknowledged as chiefs, nor have they anything to say in
+the council. A chief would be deposed for any conduct causing general
+disgust or dissatisfaction, such as incest (marrying within his gens) or
+lack of generosity. Though crime in the abstract would not tend to create
+dissatisfaction with a chief, yet if he murdered, without sufficient
+cause, one whose kindred were numerous, a fight between the two bodies of
+kindred would result and an immediate separation of his former adherents
+would ensue; but should the murdered person be without friends, there
+would be no attempt to avenge the crime, and the people would fear the
+chief only the more. To preserve his popularity a chief must give away all
+his property, and he is consequently always the poorest man in the band;
+but he takes care to distribute his possessions to his own kindred or to
+the rich, from whom he might draw in times of need.
+
+The duties of a leading chief are to study the welfare of his people, by
+whom he is regarded as a father, and whom he addresses as his children. He
+must determine where the camp should be placed and when it should be
+moved; when war parties are advisable and of whom they should be
+composed--a custom radically different from that of the Omaha and
+Ponka,--and all other matters of like character. Power is tacitly committed
+to the leading chief, to be held so long as he governs to general
+satisfaction, subject, however, to the advice of the soldiers. Age,
+debility, or any other natural defect, or incapacity to act, advise, or
+command, would lead a chief to resign in favor of a younger man.
+
+When war is deemed necessary, any chief, soldier, or brave warrior has the
+privilege of raising and leading a war party, provided he can get
+followers. The powers of a warrior and civil chief may be united in one
+person, thus differing from the Omaha and Ponka custom. The leading chief
+may and often does lead the whole band to war; in fact, it devolves on him
+to lead any general expedition.
+
+The Akitcita (Akicita), soldiers or guards (policemen), form an important
+body among the Asiniboin as they do among the other Siouan tribes. These
+soldiers, who are chosen from the band on account of their bravery, are
+from 25 to 45 years of age, steady, resolute, and respected; and in them
+is vested the power of executing the decisions of the council. In a camp
+of 200 lodges these soldiers would number from 50 to 60 men; their lodge
+is pitched in the center of the camp and is occupied by some of them all
+the time, though the whole body is called together only when the chief
+wishes a public meeting or when their hunting regulations are to be
+decided. In their lodge all tribal and intertribal business is transacted,
+and all strangers, both white men and Indians, are domiciled. The young
+men, women, and children are not allowed to enter the soldiers' lodge
+during the time that tribal matters are being considered, and, indeed,
+they are seldom, if ever, seen there. All the choicest parts of meat and
+the tongues of animals killed in hunting are reserved for the soldiers'
+lodge, and are furnished by the young men from time to time. A tax is
+levied on the camp for the tobacco smoked there, which is no small
+quantity, and the women are obliged to furnish wood and water daily. This
+lodge corresponds in some degree to the two sacred lodges of the Hañga
+gens of the Omaha.
+
+Judging from the meager information which we possess concerning the
+Asiniboin kinship system, the latter closely resembles that of the Dakota
+tribes, descent being in the male line. After the smallpox epidemic of
+1838, only 400 thinly populated lodges out of 1,000 remained, relationship
+was nearly annihilated, property lost, and but few, the very young and
+very old, were left to mourn the loss. Remnants of bands had to be
+collected and property acquired, and several years elapsed ere the young
+people were old enough to marry.
+
+The names of the wife's parents are never pronounced by the husband; to do
+so would excite the ridicule of the whole camp. The husband and the
+father-in-law never look on each other if they can avoid it, nor do they
+enter the same lodge. In like manner the wife never addresses her
+father-in-law.
+
+A plurality of wives is required by a good hunter, since in the labors of
+the chase women are of great service to their husbands. An Indian with one
+wife can not amass property, as she is constantly occupied in household
+labors, and has no time for preparing skins for trading. The first wife
+and the last are generally the favorites, all others being regarded as
+servants. The right of divorce lies altogether with the husband; if he has
+children by his wife, he seldom puts her away. Should they separate, all
+the larger children--those who require no further care--remain with the
+father, the smaller ones departing with the mother. When the women have no
+children they are divorced without scruple.
+
+After one gets acquainted with Indians the very opposite of taciturnity
+exists. The evenings are devoted to jests and amusing stories and the days
+to gambling. The soldiers' lodge, when the soldiers are not in session, is
+a very theater of amusement; all sorts of jokes are made and obscene
+stories are told, scarcely a woman in the camp escaping the ribaldry; but
+when business is in order decorum must prevail.
+
+The personal property of these tribes consists chiefly of horses.
+Possession of an article of small value is a right seldom disputed, if the
+article has been honestly obtained; but the possession of horses being
+almost the principal object in life of an Indian of the plains, the
+retention of them is a matter of great uncertainty, if he has not the
+large force necessary to defend them. Rights to property are based on the
+method of acquirement, as (1) articles found; (2) those made by themselves
+(the sole and undisputed property of the makers); (3) those stolen from
+enemies, and (4) those given or bought. Nothing is given except with a
+view to a gift in return. Property obtained by gambling is held by a very
+indefinite tenure.
+
+Murder is generally avenged by the kindred of the deceased, as among the
+Omaha and Ponka. Goods, horses, etc, may be offered to expiate the crime,
+when the murderer's friends are rich in these things, and sometimes they
+are accepted; but sooner or later the kindred of the murdered man will try
+to avenge him. Everything except loss of life or personal chastisement can
+be compensated among these Indians. Rape is nearly unknown, not that the
+crime is considered morally wrong, but the punishment would be death, as
+the price of the woman would be depreciated and the chances of marriage
+lessened. Besides, it would be an insult to her kindred, as implying
+contempt of their feelings and their power of protection. Marriage within
+the gens is regarded as incest and is a serious offense.
+
+
+THE OMAHA
+
+
+The gentes keeping the sacred pipes and those having the sacred tents are
+designated among the Omaha by appropriate designs. The sacred tent of the
+Wejincte was the tent of war, those of the Hañga were the tents associated
+with the buffalo hunt and the cultivation of the soil. The diameter of the
+circle (figure 34) represents the road traveled by the tribe when going on
+the buffalo hunt, numbers 1 and 10 being the gentes which were always in
+the van. The tribe was divided into half tribes, each half tribe
+consisting of five gentes. The sacred tents of the Omaha and all the
+objects that were kept in them are now in the Peabody Museum of
+Archaeology and Ethnology at Cambridge, Massachusetts.
+
+            [Illustration: FIG. 34.--Omaha camping circle.]
+
+                    FIG. 34.--Omaha camping circle.
+
+
+The two groups of gentes forming the half tribes or phratries, sometimes
+composed of subgentes or sections, are as follows:
+
+_Hañgacenu gentes_--1, Wejincte, Elk. 2, Iñke-sabe, Black shoulder, a
+Buffalo gens; the custodian of the real pipes of peace. 3, Hañga or
+Ancestral, a Buffalo gens; the regulator of all the so-called pipes of
+peace and keeper of two sacred tents. 4, ¢atada, meaning uncertain; in
+four subgentes: _a_, Wasabe hit'aji, Touch-not-the-skin-of-a-black-bear;
+_b_, Wajiñga ¢ataji, Eat-no-small-birds; Bird people; _c_, {~LATIN SMALL LETTER TURNED T~}e-*d*a it'aji,
+Touch-no-buffalo-head; Eagle people; _d_, {~LATIN SMALL LETTER TURNED K~}e-'in,
+Carry-a-turtle-on-the-back; Turtle people. 5, {~LATIN SMALL LETTER TURNED K~}anze, Wind people.
+
+_Ictasanda gentes_--6, Man¢iñka-gaxe, Earth-lodge-makers; coyote and wolf
+people. 7, {~LATIN SMALL LETTER TURNED T~}e-sinde, Buffalo-tail; a Buffalo-calf people. 8, {~LATIN SMALL LETTER TURNED T~}a-*d*a,
+Deer-head; Deer people. 9, Iñg¢e-jide, Red dung; a Buffalo-calf gens. 10,
+Icta-sanda, meaning uncertain ("gray eyes"?), said to refer to the effect
+of lightning on the eyes. This last gens consists of Thunder and Reptile
+people.
+
+The Iñke-sabe formerly consisted of four subgentes. When the gens met as a
+whole, the order of sitting was that shown in figure 35. In the tribal
+circle the Wa¢igije camped next to the Hañga gens, and the other Iñke-sabe
+people came next to the Wejincte; but in the gentile "council fire" the
+first became last and the last first.
+
+The Ieki¢e or Criers.
+
+The Naq¢eit'a-baji, Those-who-touch-no-charcoal.
+
+The three subgentes here named sat on the same side of fireplace.
+
+The Hañga formerly had four subgeutes, but two of them, the Wa¢iitan or
+Workers, and the Ha-{~LATIN SMALL LETTER TURNED T~}u-it'aji, Touches-no-green(-corn)-husks, are extinct,
+the few survivors having joined the other subgentes. The remaining
+subgentes are each called by several names: 1, {~LATIN SMALL LETTER TURNED T~}csanha-{~LATIN SMALL LETTER TURNED T~}a¢ican, pertaining
+to the sacred skin of an albino buffalo cow, or Wacabe, Dark buffalo; or
+Hañga-qti, real Hañga; or {~LATIN SMALL LETTER TURNED T~}e-¢eze-¢ataji, Do-not-eat-buffalo-tongues. 2,
+Janha-{~LATIN SMALL LETTER TURNED T~}a¢ican, pertaining to the sacred (cottonwood) bark; or
+Waq¢exe-a¢in, Keeps-the-"spotted-object" (the sacred pole); or
+Jan-waqube-a¢in, Keeps-the-sacred-or-mysterious-wood (pole); or
+{~LATIN SMALL LETTER TURNED T~}a-waqube-¢ataji, Does-not-eat-the-sacred (mysterious)-buffalo-sides; or
+Minxa-san-¢ataji-ki *P*etan-¢ataji, Eat-no-geese-or-swans-or-cranes.
+
+ [Illustration: FIG. 35.--Iñke-sabe gentile assembly. A, The Wa¢igije,
+ Maze or Whorl, or Wagnbe-gaxe-aka, He-who-acts-mysteriously. B, The
+           Watanzi-jide-¢ataji, Those-who-eat-no-red-corn.]
+
+ FIG. 35.--Iñke-sabe gentile assembly. A, The Wa¢igije, Maze or Whorl,
+         or Wagnbe-gaxe-aka, He-who-acts-mysteriously. B, The
+           Watanzi-jide-¢ataji, Those-who-eat-no-red-corn.
+
+
+In the tribal circle the Wacabe camped next to the Iñke-sabe, and the
+Waqe¢xe-acin were next to the Wasabe-hit'aji subgens of the ¢atada; but in
+the Hañga gentile assembly the positions were reversed, the Wacabe sitting
+on the right side of the fire and the Waq¢exe-a¢in on the left.
+
+The Wasabe-hit'aji subgens of the ¢atada was divided into four sections:
+Black-bear, Raccoon, Grizzly-bear, and Porcupine. The only survivors are
+the Black-bear and Raccoon (Singers).
+
+The Wajiñga ¢ataji subgens was divided into four sections: 1, Hawk people,
+under the chief Standing Hawk (now dead). 2, Blackbird people, under the
+chief Wajina-gahiga. B, Starling or Thunder people. 4, Owl and Magpie
+people.
+
+The {~LATIN SMALL LETTER TURNED K~}anze gens was divided into at least two subgentes, the Keepers of the
+pipe and the Wind people. Lion, of the Deer-head gens, said that there
+were four subgentes, but this was denied in 1882 by Two Crows of the Hañga
+gens.
+
+The Man¢iñka-gaxe subgentes, as given by Lion, were: 1, Coyote and Wolf
+people. 2, In'e-waqube-a¢in, Keepers-of-the-mysterious-stones. 3,
+Niniba-t'an, Keepers-of-the-pipe. 4, Minxa-san-wet'aji.
+Touch(es)-not-swans. Cañge-ska, White Horse, chief of the Man¢iñ-ka-gaxe
+(in 1878-1880) named three subgentes, thus: 1, Qube, Mysterious person, a
+modern name (probably including the Mi{~LATIN SMALL LETTER TURNED K~}asi and In'e-waqube-a¢in, and
+certainly consisting of the descendants of the chief Wa-jiñga-sabe or
+Blackbird). 2, Niniba-t'an. 3, Minxa-san-wet'aji.
+
+The {~LATIN SMALL LETTER TURNED T~}a-*d*a were divided into four parts: 1, Niniba-t'an,
+Keepers-of-the-pipe, under Lion. 2, Naq¢e-it'aji, Touches-no-charcoal,
+under Boy Chief. 3, Thunder-people, under Pawnee Chief. 4, Deer-people,
+under Sinde-xanxan (Deer's-)tail-shows-red-at-intervals
+(-as-it-bounds-away).
+
+The Ictasanda gens also was in four parts: 1, Niniba-t'an,
+Keepers-of-the-pipe. 2, Real Ictasanda people, (Numbers 1 and 2 were
+consolidated prior to 1880.) 3, Wacetan or Reptile people, sometimes
+called Keepers-of-the-claws-of-a-wildcat. 4, Real Thunder people, or
+Those-who-do-not-touch-a-clamshell, or
+Keepers-of-the-clamshell-and-the-tooth-of-a-black-bear.
+
+The social organization of the Omaha has been treated at length by the
+author in his paper on Omaha Sociology.(6)
+
+
+THE PONKA
+
+
+The Ponka tribal circle was divided equally between the Tcinju and Wajaje
+half-tribes. To the former belonged two phratries of two gentes each,
+i.e., numbers 1 to 4, inclusive, and to the latter two similar phratries,
+including gentes 5 to 8.
+
+            [Illustration: FIG. 36.--Ponka camping circle.]
+
+                    FIG. 36.--Ponka camping circle.
+
+
+Tcinju half-tribe--Thunder or Fire phratry: Gens 1, Hisada,
+Legs-stretched-ont-stiff (refers to a dead quadruped); Thunder people.
+Gens 2, Touch-not-the-skin-of-a-black-bear. Wind-makers or War phratry:
+Gens 3, ¢ixida, Wildcat (in two subgentes: 1, Sinde-ag¢e, Wears-tails,
+i.e., locks of hair; Naq¢e-it'aji, Does-not-touch-charcoal; and
+Wasc{~LATIN SMALL LETTER TURNED T~}u-it'aji, Does-not-tonch-verdigris. 2, Wami-it'aji,
+Does-not-touch-blood). Gens 4, Nika-*d*a-{~LATIN SMALL LETTER OPEN O~}na, "Bald human-head;" Elk
+people (in at least three subgentes: 1, {~LATIN SMALL LETTER TURNED T~}e-sinde-it'aji,
+Does-not-touch-a-buffalo-tail; 2, {~LATIN SMALL LETTER TURNED T~}e ¢eze ¢ataji,
+Does-not-eat-buffalo-tongues; 3, {~LATIN SMALL LETTER TURNED T~}aqti ki Anpan ¢ataji,
+Does-not-eat-deer-and-elk).
+
+Wajaje half-tribe--Earth phratry: Gens 5, Ma{~LATIN SMALL LETTER TURNED K~}an, Medicine, a buffalo gens,
+also called {~LATIN SMALL LETTER TURNED T~}e-sinde it'aji, Does-not-touch-buffalo-tails (in two
+subgentes: 1, Real Ponka, Keepers-of-a-sacred-pipe; 2, Gray Ponka). Gens
+6, Wacabe, Dark buffalo (in two subgentes: 1, Buffalo tail, or,{~LATIN SMALL LETTER TURNED T~}e-¢eze
+¢ataji, Does-not-eat-buffalo-tongues, or {~LATIN SMALL LETTER TURNED T~}e-jiñga ¢ataji,
+Does-not-eat-a-very-young-buffalo-calf; 2, {~LATIN SMALL LETTER TURNED T~}e-*d*a it'aji,
+Does-not-touch-a-buffalo-head or skull). Water phratry (?): Gens 7,
+Wajaje, Osage (in two subgentes at present: 1, Dark Osage,
+Keepers-of-a-sacred-pipe, or Wase{~LATIN SMALL LETTER TURNED T~}u-it'aji, Does-not-touch-verdigris, or
+Naq¢e-it'aji, Does-not-touch-charcoal; 2, Gray Osage, or Wes'a wet'aji,
+Does-not-touch-serpents; 3, Necta, an Owl subgens, now extinct). Gens 8,
+Nuqe, Reddish-yellow buffalo (miscalled Nuxe, Ice). Subgentes uncertain,
+but there are four taboo names: Does-not-touch-a-Buffalo-head (or skull),
+Does-not-touch-a-buffalo-calf,
+Does-not-touch-the-yellow-hide-of-a-buffalo-calf, and
+Does-not-eat-buffalo-tongues.
+
+
+THE QUAPAW OR KWAPA
+
+
+When the Kwapa were discovered by the French they dwelt in five villages,
+described by the early chroniclers as the Imaha (Imaham, Imahao), Capaha,
+Toriman, Tonginga (Doginga, Topinga), and Southois (Atotchasi,
+Ossouteouez). Three of these village names are known to all the tribe: 1,
+U{~LATIN SMALL LETTER TURNED K~}a'qpa-qti, Real Kwapa; 2, Ti'-u-a'-d¢i-man (Toriman), Ti'-u-a-d¢i' man
+(of Mrs Stafford); 3, U-zu'-ti-u'-we (Southois, etc). The fourth was
+Tan'wan ji'{~LATIN SMALL LETTER TURNED K~}a, Small village. Judging from analogy and the fact that the
+fifth village, Imaha, was the farthest up Arkansas river, that village
+name must have meant, as did the term Omaha, the upstream people.
+
+The following names of Kwapa gentes were obtained chiefly from Alphonsus
+Vallière, a full-blood Kwapa, who assisted the author at Washington, from
+December, 1890, to March, 1891:
+
+Nan'panta, a Deer gens; Onphun enikaci{~LATIN SMALL LETTER TURNED K~}a, the Elk gens; Qid¢ e'nikaci'{~LATIN SMALL LETTER TURNED K~}a,
+the Eagle gens; Wajiñ'{~LATIN SMALL LETTER TURNED K~}a enikaci'{~LATIN SMALL LETTER TURNED K~}a, the Small-bird gens; Hañ'{~LATIN SMALL LETTER TURNED K~}a
+e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Hañ'{~LATIN SMALL LETTER TURNED K~}a or Ancestral gens; Wasa' e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the
+Black-bear gens; Mantu' e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Grizzly-bear (?) gens; Te
+e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Buffalo gens (the ordinary buffalo); Tuqe'-nikaci'{~LATIN SMALL LETTER TURNED K~}a, the
+Reddish-yellow Buffalo gens (answering to Nuqe of the Ponka, Yuqe of the
+Kansa, ¢uqe of the Osage); Jawe' nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Beaver gens; Hu
+i'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Fish gens; Mika'q'e ni'kaci'{~LATIN SMALL LETTER TURNED K~}a, the Star gens; Pe'tan
+e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Crane gens; Cañ{~LATIN SMALL LETTER TURNED K~}e'-nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Dog (or Wolf?) gens;
+Wakan'{~LATIN SMALL LETTER TURNED T~}a e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Thunder-being gens; Tand¢an' e'nikaci'{~LATIN SMALL LETTER TURNED K~}a or
+Tan'd¢an tañ'{~LATIN SMALL LETTER TURNED K~}a e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Panther or Mountain-lion gens;
+Ke-ni'kaci'{~LATIN SMALL LETTER TURNED K~}a, the Turtle gens; Wes'a e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Serpent gens; Mi
+e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, the Sun gens. Vallière was unable to say on which side of the
+tribal circle each gens camped, but he gave the personal names of some
+members of most of the gentes.
+
+On visiting the Kwapa, in the northeastern corner of Indian Territory, in
+January, 1894, the author recorded the following, with the assistance of
+Mrs Stafford, a full-blood Kwapa of about 90 years of age: Among the Hañka
+gentes are the Hañ'{~LATIN SMALL LETTER TURNED K~}a tañ{~LATIN SMALL LETTER TURNED K~}a, Large Hañ{~LATIN SMALL LETTER TURNED K~}a or Mancka' e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, Crawfish
+people; Wajiñ{~LATIN SMALL LETTER TURNED K~}a e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, Small-bird people; Jiñ'{~LATIN SMALL LETTER TURNED K~}a e'nikaci'{~LATIN SMALL LETTER TURNED K~}a,
+Small-bird people; Te ni'kaci'{~LATIN SMALL LETTER TURNED K~}a, Buffalo people, or Hañ'{~LATIN SMALL LETTER TURNED K~}a ji'{~LATIN SMALL LETTER TURNED K~}a, Small
+Hañ{~LATIN SMALL LETTER TURNED K~}a; An'pan e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, Elk people; Qid¢a' e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, Eagle people;
+Tuqe'-nikaci'{~LATIN SMALL LETTER TURNED K~}a, Reddish-yellow Buffalo people; and Cañ{~LATIN SMALL LETTER TURNED K~}e'-nikaci'{~LATIN SMALL LETTER TURNED K~}a, Dog
+(or Wolf?) people. Mrs Stafford knew that five gentes were not on the
+Hañ{~LATIN SMALL LETTER TURNED K~}a side, three of them, Hu i´'nikaci'{~LATIN SMALL LETTER TURNED K~}a, Fish people, Ni'kia'ta
+(meaning unknown), and Ke-ni'kaci'{~LATIN SMALL LETTER TURNED K~}a, Turtle people, being on the same
+side; Mantu' e'nikaci'{~LATIN SMALL LETTER TURNED K~}a, Lion people; and Ti'ju (answering to the Osage
+Tsi{~LATIN SMALL LETTER OPEN O~}u, the Kansa Tciju, and the Ponka Tcinju), meaning not obtained, which
+last is extinct. Mrs Stafford could not tell on which side camped any of
+the following gentes given by Vallière: Maqe, Wes'a, Wasa, Jawe, Mikaq'e,
+Mi, etc. The only persons capable of giving the needed information are
+among those Kwapa who reside on Osage reservation. According to George
+Redeagle and Buffalo Calf, two full-blood Quapaw, the Maqe-nikaci'{~LATIN SMALL LETTER TURNED K~}a,
+Upper World people, were identical with the Wakan{~LATIN SMALL LETTER TURNED T~}a e'nikaci'{~LATIN SMALL LETTER TURNED K~}a,
+Thunder-being people, of Vallière. These two men said, also, that there
+was no single gens known as the Hañ{~LATIN SMALL LETTER TURNED K~}a, that name belonging to a major
+division, probably a half-tribe.
+
+
+THE KANZE OR KANSA
+
+
+            [Illustration: FIG. 37.--Kansa camping circle.]
+
+                    FIG. 37.--Kansa camping circle.
+
+
+Among the Omaha the Yata people are those who camp on the yata or left
+side of the tribal circle; the Ictuñga people, those who camp on the
+Ictuñga or right side. The tribe is divided into seven phratries, or, as
+the Kansa style each, wayunmindan, (i.e., those who sing together), as
+follows:
+
+_Phratries_   _Gentes_                               _Subgentes_
+I             1. Manyiñka,                           _a_, Manyinka
+              Earth, or                              tañga, Large
+              Earth-lodge-makers.                    earth. _b_,
+                                                     Manyiñka
+                                                     gaxe,&Manyiñka
+                                                     jiñga, Small
+                                                     earth.
+II            2. Ta, Deer, or                        _a_, Taqtci, Real
+              Wajaje, Osage.                         deer. _b_, Ta
+                                                     yatcaji,
+                                                     Eats-no-deer, or
+                                                     Ta ts'eye,
+                                                     Kills-deer, or
+                                                     Wadjüta ts'eye,
+                                                     Kills-quadrupeds.
+III           3. Pañka, Ponka                        _a_, Pañk
+                                                     unikacinga, Ponka
+                                                     people. _b_,
+                                                     Qundj-alan,
+                                                     Wear-red-cedar
+                                                     (-fronds)-on-their-heads.
+III           4. Kanze, Kansa, or                    _a_, Tadje unikacinga,
+              Tci hacin,                             Wind people, or Ak'a
+              Lodge-in-the-rear;                     unikacinga, South-wind
+              Last-lodge.                            people, or Tci hacinqtci,
+                                                     Real Tci hacin,
+                                                     Camp-behind-all. _b_,
+                                                     Tadje jiñga, Small-wind,
+                                                     or Mannanhind-je, Makes-a
+                                                     breeze-near-the-ground.
+III           5. Wasabe, Black                       _a_, Wasabeqtci, Real
+              bear.                                  Black-bear, or Sakun
+                                                     wayatce, Eats-raw
+                                                     (-food). _b_, Sindjale,
+                                                     Wears-tails (locks of
+                                                     hair) -on-the-head.
+I             6. Wanaxe, Ghost                       Not learned.
+IV            7. Ke k'in,                            Not learned.
+              Carries-a-turtle-on-his-back.
+V             8. Min k'in,                           Not learned.
+              Carries-the-sun-on-his-back.
+I             9. Upan, Elk                           _a_, Upan-qtci, Real elk,
+                                                     or Mansanha, referring to
+                                                     the color of the fur.
+                                                     _b_, Sanhange, meaning
+                                                     unknown.
+VI            10. Qüya, White eagle                  _a_, Hüsada,
+                                                     Legs-stretched-out-stiff;
+                                                     Qüyunikacinga,
+                                                     White-eagle people. _b_,
+                                                     Wabin ijupye,
+                                                     Wade-in-blood; Wabin
+                                                     unikacinga, Blood people.
+VI            11. Han, Night                         _a_, Han nikacinga, Night
+                                                     people. _b_, Dakan
+                                                     manyin, Walks-shining
+                                                     (Star people?)
+VII           12. Ibatc'e,                           _a_, Qüyego jiñga,
+              Holds-the-firebrand-to-sacred-pipes,   Hawk-that-has-a-tail-like-a-"king-eagle;"
+              or Hañga jiñga, small Hañga.           "Little-one-like-an-eagle."
+                                                     _b_, Mika unikacinga,
+                                                     Raccoon people, or Mika
+                                                     qla jiñga, Small lean
+                                                     racoon.
+VII           13. Hañga tañga, Large Hañga; Hañga    A black eagle with spots. Subgentes not
+              utanandji,                             recorded.
+              Hañga-apart-from-the-rest, or Ta
+              sindje qaga, Stiff-deer-tail.
+II            14. Tceduñga, Buffalo (bull), or       _a_, Tceduñga, Buffalo with dark hair.
+              Sitañga, Big feet.                     _b_, Yuqe, Reddish-yellow Buffalo. (See
+                                                     Ponka Nuqe, Osage ¢uqe, Kwapa Tuqe.)
+V             15. Tci ju wactage, Tci-ju             (Red-hawk people?). Subgentes not
+              peacemaker.                            recorded.
+II            16. Lu nikacinga, Thunder-being        Subgentes not recorded.
+              people; Ledan unikacinga, Gray-hawk
+              people.
+
+Great changes have occurred among the Kansa since they have come in
+contact with the white race; but when Say visited them in the early part
+of the present century they still observed their aboriginal marriage laws.
+No Kansa could take a wife from a gens on his side of the tribal circle,
+nor could he marry any kinswoman, however remote the relationship might
+be. There are certain gentes that exchange personal names (jaje kik'übe
+au), as among the Osage. Civil and military distinctions were based on
+bravery and generosity. Say informs us that the Kansa had been at peace
+with the Osage since 1806; that they had intermarried freely with them, so
+that "in stature, features, and customs they are more and more closely
+approaching that people." He states also that the head chief of the Kansa
+was Gahinge Wadayiñga, Saucy Chief (which he renders "Fool Chief"), and
+that the ten or twelve underchiefs did not seem to have the respect of the
+people.
+
+Unmarried females labored in the fields, served their parents, carried
+wood and water, and cooked. When the eldest daughter married she
+controlled the lodge, her mother, and all the sisters; the latter were
+always the wives of the same man. Presents were exchanged when a youth
+took his first wife. On the death of the husband the widow scarified
+herself, rubbed her person with clay, and became careless about her dress
+for a year. Then the eldest brother of the deceased married her without
+any ceremony, regarding her children as his own. When the deceased left no
+brother (real or potential) the widow was free to select her next husband.
+Fellowhood (as in cases of Damon and Pythias, David and Jonathan) often
+continues through life.
+
+The Kansa had two kinds of criers or heralds: 1, the wadji'panyin or
+village crier; 2, the ie'kiye'(Omaha and Ponka i'eki'¢e. In 1882, Sansile
+(a woman) was hereditary wadji'panyin of the Kansa, having succeeded her
+father, Pezihi, the last male crier. At the time of an issue (about 1882)
+Sansile's son-in-law died, so she, being a mourner, could not act as
+crier; hence her office devolved on K'axe of the Taqtci subgens. In that
+year one of the Ta yatcaji subgens (of the Taqtci or Deer gens) was iekiye
+number 1. Iekiye number 2 belonged to the Tadje or Kanze (Wind) gens.
+
+
+THE OSAGE
+
+
+In the Osage nation there are three primary divisions, which are tribes in
+the original acceptation of that term. These are known as the Tsi{~LATIN SMALL LETTER OPEN O~}u utse
+pe¢un*d*a, the Seven Tsi{~LATIN SMALL LETTER OPEN O~}u fireplaces, Hañ{~LATIN SMALL LETTER TURNED K~}a utsse pe¢u*d*a, the Seven
+Hañ{~LATIN SMALL LETTER TURNED K~}a fireplaces, and Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e utse pe¢u*d*a, the Seven Osage fireplaces.
+Each "fireplace" is a gens, so that there are twenty-one gentes in the
+Osage nation. The Seven Hañ{~LATIN SMALL LETTER TURNED K~}a fireplaces were the last to join the nation,
+according to the tradition of the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e people. When this
+occurred, the seven Hañ{~LATIN SMALL LETTER TURNED K~}a gentes were reckoned as five, and the seven
+Osage gentes as two, in order to have not more than seven gentes on the
+right side of the tribal circle.
+
+At first the Hañ{~LATIN SMALL LETTER TURNED K~}a uta¢antse gens had seven pipes, and the Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e had as
+many. The Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e gave their seventh pipe to the Tsi{~LATIN SMALL LETTER OPEN O~}u, with the right to
+make seven pipes from it, so now the Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e people have but six pipes,
+though they retain the ceremonies pertaining to the seventh.
+
+            [Illustration: FIG. 38.--Osage camping circle.]
+
+                    FIG. 38.--Osage camping circle.
+
+
+When there is sickness among the children on the Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e or right (war)
+side of the circle, their parents apply to the Tsi{~LATIN SMALL LETTER OPEN O~}u (Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e?) for
+food for them. In like manner, when the children on the left or Tsi{~LATIN SMALL LETTER OPEN O~}u side
+are ill, their parents apply to the Panhka (wactaqe?), on the other side,
+in order to get food for them.
+
+The Seven Tsi{~LATIN SMALL LETTER OPEN O~}u fireplaces occupy the left or peace side of the circle.
+Their names are:
+
+1. Tsi{~LATIN SMALL LETTER OPEN O~}u Sintsa{~LATIN SMALL LETTER TURNED K~}¢e, Tsi{~LATIN SMALL LETTER OPEN O~}u-wearing-a-tail (of hair)-on-the-head; also
+called Tsi{~LATIN SMALL LETTER OPEN O~}u Wanun', Elder Tsi{~LATIN SMALL LETTER OPEN O~}u; in two subgentes, Sintsa{~LATIN SMALL LETTER TURNED K~}¢e, Sun and
+Comet people, and Cuñ{~LATIN SMALL LETTER TURNED K~}e i'nik'acin'a, Wolf people.
+
+2. Tse {~LATIN SMALL LETTER TURNED T~}u'{~LATIN SMALL LETTER TURNED K~}a intse', Buffalo-bull face; in two subgentes, of which the
+second is Tse' ¢añka' or Min'paha', Hide-with-the-hair-on. The policemen
+or soldiers on the left side belong to these two gentes.
+
+3. Min k'in', Sun carriers, i.e., Carry-the-snn (or Buffalo
+hides)-on-their-backs. These have two subgentes, _a_, Mini'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a,
+Sun people; _b_, Minxa' ska i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Swan people,
+
+4. Tsi'{~LATIN SMALL LETTER OPEN O~}u wacta'{~LATIN SMALL LETTER TURNED K~}e, Tsi{~LATIN SMALL LETTER OPEN O~}u peacemaker, or Tan'wan{~LATIN SMALL LETTER TURNED K~}a'xe, Village-maker, or,
+Ni'wa¢e, Giver of life. These have two subgentes, _a_, Wapin it'a'{~LATIN SMALL LETTER OPEN O~}i,
+Touches-no-blood, or Qü¢a' {~LATIN SMALL LETTER OPEN O~}ü'tse, Red-eagle (really a hawk); _b_, Qü¢a'
+pa san', Bald-eagle, or Oansan'u'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Sycamore people, the leading
+gens on the left side of the circle.
+
+5. Han i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Night people, or Tsi'{~LATIN SMALL LETTER OPEN O~}u we'ha{~LATIN SMALL LETTER TURNED K~}i¢e, the
+Tsi{~LATIN SMALL LETTER OPEN O~}u-at-the-end, or Tse'¢añka'. Their two subgentes are: _a_, Night
+people proper; _b_, Wasa'*d*e, Black-bear people.
+
+6. Tse {~LATIN SMALL LETTER TURNED T~}u'{~LATIN SMALL LETTER TURNED K~}a, Buffalo bull. In two subgentes, _a_, Tse {~LATIN SMALL LETTER TURNED T~}u'{~LATIN SMALL LETTER TURNED K~}a, Buffalo
+bull; _b_, ¢u'qe, Reddish-yellow buffalo (corresponding to the Nuqe of the
+Ponka, Tuqe of the Quapaw, and Yuqe of the Kansa).
+
+7. {~LATIN SMALL LETTER TURNED K~}¢un, Thunder-being, or Tsi'hacin, Camp-last, or Ma'xe, Upper-world
+people, or Ni{~LATIN SMALL LETTER TURNED H~}'ka wakan'{~LATIN SMALL LETTER TURNED T~}a{~LATIN SMALL LETTER TURNED K~}i, Mysterious-male-being. Subgentes not
+recorded.
+
+On the right (Hañ{~LATIN SMALL LETTER TURNED K~}a or Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e) side of the circle are the following:
+
+8. Wa{~LATIN SMALL LETTER OPEN O~}a'{~LATIN SMALL LETTER OPEN O~}e Wanun', Elder Osage, composed of six of the seven Osage
+fireplaces, as follows: _a_, Wa{~LATIN SMALL LETTER OPEN O~}a'{~LATIN SMALL LETTER OPEN O~}e ska', White Osage; _b_, Ke k'in',
+Turtle-carriers; _c_, Wake'¢e ste'tse, Tall-flags(?), Ehnan' min'tse tun',
+They-alone-have-bows, or Minke'¢e ste'tse, Tall-flags; _d_, Ta ¢a'xü,
+Deer-lights, or Ta i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Deer people; _e_, Hu i'niqk'acin'a, Fish
+people; _f_, Nan'panta, a deer gens, called by some Ke {~LATIN SMALL LETTER TURNED K~}a'tsü,
+Turtle-with-a-serrated-crest-along-the-shell (probably a water monster, as
+there is no such species of turtle).
+
+9. Hañ'{~LATIN SMALL LETTER TURNED K~}a uta'¢antsi, Hañ{~LATIN SMALL LETTER TURNED K~}a-apart-from-the-rest, or Qü¢a'qtsi
+i'ni{~LATIN SMALL LETTER TURNED H~}-k'acin'a, Real eagle people--the War eagle gens, and one of the
+original Hañ{~LATIN SMALL LETTER TURNED K~}a fireplaces. The soldiers or policemen from the right side
+are chosen from the eighth and ninth gentes.
+
+10. The leading gens on the right side of the circle, and one of the
+original seven Osage fireplaces. Pan{~LATIN SMALL LETTER TURNED H~}'ka wacta'{~LATIN SMALL LETTER TURNED K~}e, Ponka peace-maker,
+according to a Tsi{~LATIN SMALL LETTER OPEN O~}u man; in two subgentes, _a_, Tse'wa¢e, Pond-lily, and
+_b_, Waca'*d*e, Dark-buffalo; but according to Pan{~LATIN SMALL LETTER TURNED H~}'ka wa{~LATIN SMALL LETTER TURNED T~}a'yin{~LATIN SMALL LETTER TURNED K~}a, a
+member of the gens, his people have three subgentes, _a_, Wake'¢e, Flags;
+_b_, Wa'tsetsi, meaning, perhaps, Has-come hither
+(tsi)-after-touching-the-foe (watse); _c_, Quntse', Red cedar.
+
+11. Hañ'{~LATIN SMALL LETTER TURNED K~}a a'hü tun', Hañ{~LATIN SMALL LETTER TURNED K~}a-having-wings, or Hü'sa{~LATIN SMALL LETTER TURNED T~}a,
+Limbs-stretched-stiff, or Qü¢ i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, White-eagle people, in two
+subgentes, which were two of the original Hañ{~LATIN SMALL LETTER TURNED K~}a fireplaces: _a_, Hü'sa{~LATIN SMALL LETTER TURNED T~}a
+Wanun', Elder Hüsa{~LATIN SMALL LETTER TURNED T~}a; _b_, Hü'sa{~LATIN SMALL LETTER TURNED T~}a, those wearing four locks of hair
+resembling those worn by the second division of the Wasape tun.
+
+12. Wasa'*d*e tun, Having-black-bears. In two parts, which were originally
+two of the Hañ{~LATIN SMALL LETTER TURNED K~}a fireplaces: A, Sintsa{~LATIN SMALL LETTER TURNED K~}¢se, Wearing-a-tail- (or
+lock)-of-hair-on-the-head; in two subgentes, (_a_) Wasa*d*e, Black bear,
+or Hañ'{~LATIN SMALL LETTER TURNED K~}a Wa'ts'ekawa' (meaning not learned); (_b_) Iñ{~LATIN SMALL LETTER TURNED K~}¢uñ'{~LATIN SMALL LETTER TURNED K~}a {~LATIN SMALL LETTER OPEN O~}iu'{~LATIN SMALL LETTER TURNED K~}a,
+Small cat. B, Wasa'*d*e tun, Wearing-four-locks-of-hair, in two subgentes,
+(_a_) Minxa'ska, Swan; (_b_) Tse'wa¢e qe'{~LATIN SMALL LETTER TURNED K~}a, Dried pond-lily.
+
+13. U'pqan, Elk, one of the seven Hañ{~LATIN SMALL LETTER TURNED K~}a fireplaces.
+
+14. Kan'se, Kansa, or I'*d*ats'e,
+Holds-a-firebrand-to-the-sacred-pipes-in-order-to-light-them, or A'k'a
+i'ni{~LATIN SMALL LETTER TURNED H~}ak'acin'a, South-wind people, or Tatse' i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Wind people,
+or Pe'tse i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Fire people. One of the seven Hañ{~LATIN SMALL LETTER TURNED K~}a fireplaces.
+
+The following social divisions cannot be identified: Oa'*d*e
+i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Beaver people, said to be a subgens of the Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e, no gens
+specified; Pe'tqan i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Crane people, said to be a subgens of
+the Hañ{~LATIN SMALL LETTER TURNED K~}a(?) sintsa{~LATIN SMALL LETTER TURNED K~}¢e; Wapuñ'{~LATIN SMALL LETTER TURNED K~}a i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Owl people; Manyiñ'{~LATIN SMALL LETTER TURNED K~}a
+i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, Earth people; *d*aqpü' i'ni{~LATIN SMALL LETTER TURNED H~}k'acin'a, meaning not recorded.
+
+There is some uncertainty respecting the true positions of a few subgentes
+in the camping circle. For instance, Alvin Wood said that the Tsewa¢e qe{~LATIN SMALL LETTER TURNED K~}a
+formed the fourth subgens of the Tse {~LATIN SMALL LETTER TURNED T~}u'{~LATIN SMALL LETTER TURNED K~}a intse; but this was denied by
+{~LATIN SMALL LETTER TURNED K~}ahi{~LATIN SMALL LETTER TURNED K~}e wa{~LATIN SMALL LETTER TURNED T~}ayiñ{~LATIN SMALL LETTER TURNED K~}a, of the Tsi'{~LATIN SMALL LETTER OPEN O~}u wacta'{~LATIN SMALL LETTER TURNED K~}e, who said that it belonged to the
+Pan{~LATIN SMALL LETTER TURNED H~}ka wacta{~LATIN SMALL LETTER TURNED K~}e prior to the extinction of the subgens. Tsepa {~LATIN SMALL LETTER TURNED K~}axe of the
+Wasape gens said that it formed the fourth subgens of his own people. Some
+make the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e the third gens on the left, instead of the fourth.
+According to {~LATIN SMALL LETTER TURNED K~}ahi{~LATIN SMALL LETTER TURNED K~}e wa{~LATIN SMALL LETTER TURNED T~}ayiñ{~LATIN SMALL LETTER TURNED K~}a, "All the Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e gentes claim to have come
+from the water, so they have ceremonies referring to beavers, because
+those animals swim in the water." The same authority said in 1883 that
+there were seven men who acted as wacta{~LATIN SMALL LETTER TURNED K~}e, as follows: 1, Ka{~LATIN SMALL LETTER TURNED H~}i{~LATIN SMALL LETTER TURNED K~}e wacta{~LATIN SMALL LETTER TURNED K~}e,
+of the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e subgens, who had acted for eight years; 2, Pahü-ska,
+of the Bald-eagle or Qü¢a pa san subgens; 3, {~LATIN SMALL LETTER TURNED K~}¢eman, Clermont, of the
+ki*d*anan of the Tsi{~LATIN SMALL LETTER OPEN O~}u wehaki¢e or Night gens; 6, Pan{~LATIN SMALL LETTER TURNED H~}ka wa{~LATIN SMALL LETTER TURNED T~}ayiñ{~LATIN SMALL LETTER TURNED K~}a, Saucy
+Ponka, of the Wa'tsetsi or Ponka gens; 7, Ni{~LATIN SMALL LETTER TURNED H~}ka wa{~LATIN SMALL LETTER OPEN O~}in tana, of the same
+gens.
+
+On the death of the head chief among the Osage the leading men call a
+council. At this council four men are named as candidates for the office,
+and it is asked, "Which one shall be appointed?" At this council a cuka of
+the Watsetsi (Ponka gens, or else from some other gens on the right)
+carries his pipe around the circle of councilors from right to left, while
+a Tsi{~LATIN SMALL LETTER OPEN O~}u cuka (one of the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e gens, or else one from some other
+gens on the left) carries the other pipe around from left to right. The
+ceremonies resemble the Ponka ceremonies for making chiefs. When the
+chiefs assemble in council a member of the Kanse or I*d*ats'e gens (one on
+the right) lights the pipes. The criers are chosen from the Kanse, Upqan,
+and Min k'in gentes. The Tsi{~LATIN SMALL LETTER OPEN O~}u Sintsa{~LATIN SMALL LETTER TURNED K~}¢e and Tse {~LATIN SMALL LETTER TURNED T~}u{~LATIN SMALL LETTER TURNED K~}a intse gentes furnish
+the soldiers or policemen for the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e. A similar function is
+performed for the Pan{~LATIN SMALL LETTER TURNED H~}ka wacta{~LATIN SMALL LETTER TURNED K~}e by the Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e wanun and Hañ{~LATIN SMALL LETTER TURNED K~}a u{~LATIN SMALL LETTER TURNED T~}a¢antsi
+gentes. The Sintsa{~LATIN SMALL LETTER TURNED K~}¢e and Hañ{~LATIN SMALL LETTER TURNED K~}a u{~LATIN SMALL LETTER TURNED T~}a¢autsi are "aki{~LATIN SMALL LETTER TURNED T~}a watañ{~LATIN SMALL LETTER TURNED K~}a," chiefs of
+the soldiers; the Tse{~LATIN SMALL LETTER TURNED T~}u{~LATIN SMALL LETTER TURNED K~}a intse and Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e Wanun being ordinary soldiers,
+i.e., subordinate to the others. The Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e Ke k'in are the moccasin
+makers for the tribe. It is said that in the olden days the members of
+this gens used turtle shells instead of moccasins, with leeches for
+strings. The makers of the war-standards and war-pipes must belong to the
+Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e ska.
+
+Saucy Chief is the authority for the following: "Should all the Osage wish
+to dwell very near another tribe, or in case two or three families of us
+wish to remove to another part of the reservation, we let the others know
+our desire to live near them. We make up prizes for them--a pony, a
+blanket, strouding, etc--and we ask them to race for them. The fastest
+horse takes the first prize, and so on. We take along a pipe and some
+sticks--one stick for each member of the party that is removing. The other
+people meet us and race with us back to their home. They make us sit in a
+row; then one of their men or children brings a pipe to one of our party
+to whom he intends giving a horse. The pipe is handed to the rest of the
+party. The newcomers are invited to feasts, all of which they are obliged
+to attend." When the Osage go on the hunt the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e (chief) tells
+the Sintsa{~LATIN SMALL LETTER TURNED K~}¢e and Tse {~LATIN SMALL LETTER TURNED T~}u{~LATIN SMALL LETTER TURNED K~}a intse where the people must camp. The following
+evening the Pan{~LATIN SMALL LETTER TURNED H~}ka wacta{~LATIN SMALL LETTER TURNED K~}e (chief) tells the soldiers on his side (the
+Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e and Hañ{~LATIN SMALL LETTER TURNED K~}a u{~LATIN SMALL LETTER TURNED T~}a¢antsi) where the camp must be on the following day.
+The members of the four gentes of soldiers or policemen meet in council
+and decide on the time for departure. They consult the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e and
+Hañ{~LATIN SMALL LETTER TURNED K~}a (Pan{~LATIN SMALL LETTER TURNED H~}ka wacta{~LATIN SMALL LETTER TURNED K~}e?) who attend the council. The crier is generally a
+man of either the Upqan or Kanse gens, but sometimes a Min k'in man acts.
+The four leaders of the soldier gentes call on the crier to proclaim the
+next camping place, etc, which he does thus:
+
+"Ha+! | han'*d*a | {~LATIN SMALL LETTER TURNED K~}asin'|{~LATIN SMALL LETTER TURNED T~}an | awahe'{~LATIN SMALL LETTER OPEN O~}ún   | tatsi' | a'pin{~LATIN SMALL LETTER TURNED T~}au+!  | Ha+!
+| (Ni{~LATIN SMALL LETTER OPEN O~}ü'tse | masin'ta)
+
+Halloo! | day        | tomorrow  |on      | you make up in packs | shall
+| they really say | Halloo! | Missouri river     | on the other side
+
+tci'     | i'he¢a'e             | ta'tsi | a'*d*intau+!"
+
+tent {?} | you place in a line {?} | shall  | they really say.
+
+which is to say, "Halloo! tomorrow morning you shall pack your goods
+(strike camp). Halloo! you shall lay them down, after reaching (the other
+side of Missouri river)!"
+
+Then the four leaders of the soldier gentes choose a'ki{~LATIN SMALL LETTER TURNED T~}a (policemen) who
+have a {~LATIN SMALL LETTER TURNED T~}u{~LATIN SMALL LETTER TURNED T~}an'hañ{~LATIN SMALL LETTER TURNED K~}a or captain, who then acts as crier in giving orders,
+thus:
+
+"Ha+!   | ni'kawasa'e! | Ha+!    | {~LATIN SMALL LETTER TURNED K~}ahi'{~LATIN SMALL LETTER TURNED K~}e | wa{~LATIN SMALL LETTER TURNED T~}a'yiñ{~LATIN SMALL LETTER TURNED K~}a | ni'kawasa'e! |
+a'¢aki'{~LATIN SMALL LETTER TURNED T~}a | tatsi'
+
+Halloo! | O warrior!   | Halloo, | Chief       | Saucy!         | O
+warrior!   | you guard   | shall
+
+a*d*intau'    | ni'kawasa'e!"
+
+they say really | O warrior!
+
+which means, "Halloo, O warrior! Halloo, O warrior, Saucy Chief! They have
+really said that you shall act as policeman or guard, O warrior!"
+
+These a'ki{~LATIN SMALL LETTER TURNED T~}a have to punish any persons who violate the laws of the hunt.
+But there is another grade of men; the four leaders of the soldier gentes
+tell the captain to call certain men wa'pa{~LATIN SMALL LETTER TURNED K~}¢a'{~LATIN SMALL LETTER OPEN O~}i utsin', and they are
+expected to punish any a'ki{~LATIN SMALL LETTER TURNED T~}a who fail to do their duty. Supposing Min
+k'in wa{~LATIN SMALL LETTER TURNED T~}ayiñ{~LATIN SMALL LETTER TURNED K~}a was selected, the crier would say:
+
+"Ha+! ni'kawasa'e! Ha+, Min k'in' wa{~LATIN SMALL LETTER TURNED T~}a'yiñ{~LATIN SMALL LETTER TURNED K~}a n'ikawasa'e! Ha+! u¢a'tsin
+tatsi' a'*d*intau', ni'kawasa'e!"
+
+"Halloo, O warrior! Halloo, O warrior, Saucy Sun Carrier! Halloo, it has
+been really said that you shall strike the offenders without hesitation, O
+warrior!"
+
+The four headmen direct a captain to order a Hañ{~LATIN SMALL LETTER TURNED K~}a u{~LATIN SMALL LETTER TURNED T~}a¢antsi man to lead
+the scouts, and subsequently to call on a Sintsa{~LATIN SMALL LETTER TURNED K~}¢e man for that purpose,
+alternating between the two sides of the camping circle. There are thus
+three grades of men engaged in the hunt--the ordinary members of the
+soldier gentes, the aki{~LATIN SMALL LETTER TURNED T~}a, and the wapa{~LATIN SMALL LETTER TURNED K~}¢a{~LATIN SMALL LETTER OPEN O~}i utsin.
+
+Should the Osage be warring against the Kansa or any other tribe, and one
+of the foe slip into the Osage camp and beg for protection of the Tsi{~LATIN SMALL LETTER OPEN O~}u
+wacta{~LATIN SMALL LETTER TURNED K~}e (chief), the latter is obliged to help the suppliant. He must send
+for the Sintsa{~LATIN SMALL LETTER TURNED K~}¢e and Tse {~LATIN SMALL LETTER TURNED T~}u{~LATIN SMALL LETTER TURNED K~}a intse (leaders), whom he would thus
+address: "I have a man whom I wish to live. I desire you to act as my
+soldiers." At the same time the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e would send word to the
+Pan{~LATIN SMALL LETTER TURNED H~}ka wacta{~LATIN SMALL LETTER TURNED K~}e, who would summon a Wa{~LATIN SMALL LETTER OPEN O~}a{~LATIN SMALL LETTER OPEN O~}e and a Hañ{~LATIN SMALL LETTER TURNED K~}a uta¢antsi to act as
+his soldiers or policemen. Meantime the kettle of the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e was
+hung over the fire as soon as possible and food was cooked and given to
+the fugitive. When he had eaten (a mouthful) he was safe. He could then go
+through the camp with impunity. This condition of affairs lasted as long
+as he remained with the tribe, but it terminated when he returned to his
+home. After food had been given to the fugitive by the Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e any
+prominent man of the tribe could invite the fugitive to a feast.
+
+The privilege of taking care of the children was given to the Tsi{~LATIN SMALL LETTER OPEN O~}u
+wacta{~LATIN SMALL LETTER TURNED K~}e and the Pan{~LATIN SMALL LETTER TURNED H~}ka wacta{~LATIN SMALL LETTER TURNED K~}e, according to Saucy Chief. When a child (on
+the Tsi{~LATIN SMALL LETTER OPEN O~}u side) is named, a certain old man is required to sing songs
+outside of the camp, dropping some tobacco from his pipe down on the toes
+of his left foot as he sings each song. On the first day the old man of
+the Tsi{~LATIN SMALL LETTER OPEN O~}u (wacta{~LATIN SMALL LETTER TURNED K~}e?) takes four grains of corn, one grain being black,
+another red, a third blue, and a fourth white, answering to the four kinds
+of corn dropped by the four buffalo, as mentioned in the tradition of the
+Osage. After chewing the four grains and mixing them with his saliva, he
+passes them between the lips of the child to be named. Four stones are put
+into a fire, one stone toward each of the four quarters. The Tsi{~LATIN SMALL LETTER OPEN O~}u old man
+orders some cedar and a few blades of a certain kind of grass that does
+not die in winter, to be put aside for his use on the second day. On the
+second day, before sunrise, the Tsi{~LATIN SMALL LETTER OPEN O~}u old man speaks of the cedar tree and
+its branches, saying, "It shall be for the children." Then he mentions the
+river, the deep holes in it, and its branches, which he declares shall be
+medicine in future for the children. He takes the four heated stones,
+places them in a pile, on which he puts the grass and cedar. Over this he
+pours water, making steam, over which the child is held. Then four names
+are given by the headman of the gens to the father, who selects one of
+them as the name for the child. Meantime men of different gentes bring
+cedar, stones, etc, and perform their respective ceremonies. The headman
+(Tsi{~LATIN SMALL LETTER OPEN O~}u wacta{~LATIN SMALL LETTER TURNED K~}e?) takes some of the water (into which he puts some cedar),
+giving four sips to the child. Then he dips his own left hand into the
+water and rubs the child down the left side, from the top of the head to
+the feet; next he rubs it in front, then down the right side, and finally
+down the back. He invites all the women of his gens who wish to be blessed
+to come forward, and he treats them as he did the infant. At the same time
+the women of the other gentes are blessed in like manner by the headmen of
+their respective gentes.
+
+
+THE IOWA
+
+
+The Iowa camping circle was divided into two half-circles, occupied by two
+phratries of four gentes each. The first phratry regulated the hunt and
+other tribal affairs during the autumn and winter; the second phratry took
+the lead during the spring and summer. The author is indebted to the late
+Reverend William Hamilton for a list of the Iowa gentes, obtained in 1880
+during a visit to the tribe. Since then the author has recorded the
+following list of gentes and subgentes, with the aid of a delegation of
+the Iowa who visited Washington:
+
+                             _First phratry_
+
+_Gentes_                    _Subgentes_
+1. Tu'-nan-p'in, Black      1. Ta'po-çka, a large
+bear. Tohin and Çi{~LATIN SMALL LETTER TURNED K~}re       black bear with a white
+wonañe were chiefs of       spot on the chest.
+this gens in 1880.  Tohin   2. Pun'-xa çka, a black
+kept the sacred pipe.       bear with a red nose;
+                            literally, Nose White.
+                            3. Mun-tci'-nye, Young
+                            black bear, a short black
+                            bear.
+                            4. Ki'-ro-ko'-qo-tce, a
+                            small reddish black bear,
+                            motherless; it has little
+                            hair and runs swiftly.
+2. Mi-tci'-ra-tce, Wolf.    1. Cun'-tan çka,
+Ma'-hin was a chief of      White-wolf.
+this gens.                  2. Cun'-tan çe-we,
+                            Black-wolf.
+                            3. Cun'-tan qo'-{~LATIN SMALL LETTER TURNED T~}{~LATIN SMALL LETTER OPEN O~}e,
+                            Gray-wolf.
+                            4. Ma-nyi'-ka-qçi',
+                            Coyote.
+3. Tce'-xi-ta, Eagle and    1. Na' tci-tce', i.e.
+Thunder-being gens.         Qra'-qtci, Real or Golden
+                            eagle.
+                            2. Qra' huñ'-e, Ancestral
+                            or Gray eagle.
+                            3. Qra' {~LATIN SMALL LETTER TURNED K~}re'-ye,
+                            Spotted-eagle.
+                            4. Qra' pa çan;
+                            Bald-eagle.
+4. Qo'-ta-tci, Elk; now     1. Un'-pe-xa qan'-ye,
+extinct. The Elk gens       Big-elk.
+funished the soldiers or    2. Un'-pe-xa yiñ'-e,
+policemen.                  Young-elk (?).
+                            3. Un'-pe-xa {~LATIN SMALL LETTER OPEN O~}{~COMBINING ACUTE ACCENT~}re'-{~LATIN SMALL LETTER TURNED T~}{~LATIN SMALL LETTER OPEN O~}e
+                            yiñ'-e,
+                            Elk-somewhat-long.
+                            4. Ho'-ma yiñ'-e, Young
+                            elk (?). The difference
+                            between Un'pexa and Homa
+                            is unknown.  The former
+                            may be the archaic name
+                            for "elk."
+5. Pa'-qça, Beaver.         1. Ra-we' qan'ye,
+Probably the archaic        Big-Beaver.
+name, as beaver is now      2. Ra-{~LATIN SMALL LETTER OPEN O~}{~COMBINING ACUTE ACCENT~}ro'-{~LATIN SMALL LETTER TURNED T~}{~LATIN SMALL LETTER OPEN O~}e, meaning
+ra-we. The survivors of     unknown.
+this gens have joined the   3. Ra-we' yiñ'-e,
+Pa-ça or Beaver gens of     Young-beaver.
+the Oto tribe.              4. Ni'wan-ci'-ke,
+                            Water-person.
+
+                             _Second phratry_
+
+6. Ru'-tce, Pigeon      1. Min-ke' qan'-ye,
+                        Big-raccoon.
+                        2. Min-ke'yiñ'-e,
+                        Young-raccoon
+                        3. Ru'-tce yiñ'-e,
+                        Young-pigeon.
+                        4. Oo'-ke,
+                        Prairie-chicken, grouse.
+7. A'-ru-qwa, Buffalo   1. Tce-{~LATIN SMALL LETTER TURNED T~}o qan'-ye,
+                        Big-buffalo-bull.
+                        2. Tce-{~LATIN SMALL LETTER TURNED T~}o yiñ'-o,
+                        Young-buffalo-bull.
+                        3. Tce-p'o'-cke yiñ'-e,
+                        Young-buffalo-bull-that-is-distended
+                        (?).
+                        4. Tce-yiñ'-ye,
+                        Buffalo-calf.
+8. Wa-kan', Snake. An   1. Wa-kan' {~LATIN SMALL LETTER OPEN O~}{~COMBINING ACUTE ACCENT~}i, Yellow-snake, i.e.,
+extinct gens.           Rattlesnake.
+                        2. Wa-kan'-qtci, Real-snake, (named
+                        after a species shorter than the
+                        rattlesnake).
+                        3. Ce'-ke yiñ'-e, Small or young
+                        ceke, the copperhead snake (?).
+                        4. Wa-kan' qo'-{~LATIN SMALL LETTER TURNED T~}{~LATIN SMALL LETTER OPEN O~}e, Gray-snake (a
+                        long snake, which the Omaha call
+                        swift blue snake).
+9. Mañ'-ko-ke, Owl.     The names of the subgentes have been
+Extinct.                forgotten.
+
+An account of the mythical origin of each Iowa gens, first recorded by the
+Reverend William Hamilton, has been published in the Journal of American
+Folk-lore.(7)
+
+The visiting and marriage customs of the Iowa did not differ from those of
+the cognate tribes, nor did their management of the children differ from
+that of the Dakota, the Omaha, and others.
+
+Murder was often punished with death, by the nearest of kin or by some
+friend of the murdered person. Sometimes, however, the murderer made
+presents to the avengers of blood, and was permitted to live.
+
+
+THE OTO
+
+
+The author has not yet learned the exact camping order of the Oto and
+Missouri tribes, though he has recorded lists of their gentes (subject to
+future revision), with the aid of Ke-{~LATIN SMALL LETTER TURNED K~}re{~LATIN SMALL LETTER OPEN O~}{~COMBINING ACUTE ACCENT~}e, an Oto, Cka{~LATIN SMALL LETTER TURNED T~}{~LATIN SMALL LETTER OPEN O~}oinye, a
+Missouri, and Battiste Deroin, the interpreter for the two tribes. These
+gentes are as follows: 1, Pa-ça', Beaver; 2, Tunan'-p'in, Black bear, or
+Mn-tci'-ra-tce, Wolf; 3, A-ru'-qwa, Buffalo; 4, Ru'-qtca, Pigeon; 5,
+Ma-ka'-tce, Owl; 6, Tce'-xi-ta, Eagle, Thunderbird, etc; 7, Wa-kan',
+Snake.
+
+
+THE NI-U'-T'A-TCI OR MISSOURI
+
+
+This tribe, which for many years has been consolidated with the Oto, has
+at least three gentes. It may have had more, but their names have not yet
+been recorded. 1, Tu-nan'-p'in, Black bear; 2, Tce-xi'-ta, Eagle,
+Thunderbird, etc, in four subgentes: (_a_) Wa-kan'-ta, Thunderbird; (_b_)
+Qra, Eagle; (_c_) {~LATIN SMALL LETTER TURNED K~}re'-tan, Hawk; (_d_) Mo'-mi, A-people-who
+eat-no-small-birds-which-have-been-killed-by-larger-ones (a recent
+addition to this gens, probably from another tribe): 3, Ho-ma' or
+Ho-ta'-tci, Elk.
+
+
+THE HOTCAÑGARA OR WINNEBAGO
+
+
+The Winnebago call themselves Ho-tcañ'-ga-ra', "First or parent speech."
+While they have gentes, they have no camping circle, as their priscan
+habitat was in a forest region. The following names were obtained from
+James Alexander, a full-blood of the Wolf gens, and from other members of
+the tribe:
+
+1. _Wolf gens_--Common name, Cuñk i-ki'-ka-ra'-tca-da, or
+Cuñk-tcañk'i-ki'-ka-ra'-tca-da,
+Those-calling-themselves-after-the-dog-or-wolf; archaic name,
+¢e-go'-ni-na, meaning not recorded.
+
+2. _Black-bear gens_--Common name, Honte' i-ki'-ka-ra'-tca-da,
+They-call-themselves-after-the-black-bear; archaic name, Tco'-na-ke-ra,,
+meaning not recorded.
+
+3. _Elk gens_--Common name, Hu-wan'-i-ki'-ka-ra'-tca-da,
+They-callthemselves-after-the-elk; archaic name not recorded.
+
+4. Snake gens--Common name, Wa-kan' i-ki'-ka-ra'-tca-da,
+They-call-themselves-after-a-snake; archaic name not recorded.
+
+5. _Bird gens_--Common name, Wa-ni¢k' i-ki'-ka-ra'-tca-da,
+They-call-themselves-after-a-bird; archaic name not recorded. This gens is
+composed of four subgentes, as follows: (_a_) Hi-tca-qce-pa-ra, or Eagle;
+(_b_) Ru-tcke, or Pigeon; (c) Ke-re-tcun, probably Hawk; (d)
+Wa-kan'-tca-ra, or Thunderbird. The archaic names of the subgentes were
+not recorded.
+
+6. _Buffalo gens_--Common name, Tce' i-ki'-ka-ra'-tca-da,
+They-call-themselves-after-a-buffalo; archaic name not recorded.
+
+7. _Deer gens_--Common name, Tca' i-ki'-ka-ra'-tca-da,
+They-call-themselves-after-a-deer; archaic name not recorded.
+
+8. _Water-monster gens_--Common name, Wa-ktce'-qi i-ki'-ka-ra'-tca-da,
+They-call-themselves-after-a-water-monster; archaic name not recorded.
+
+Some of the Winnebago say that there is an Omaha gens among the Winnebago
+of Wisconsin, but James Alexander knew nothing about it. It is very
+probable that each Winnebago gens was composed of four subgentes; thus, in
+the tradition of the Winnebago Wolf gens, there is an account of four
+kinds of wolves, as in the corresponding Iowa tradition.
+
+The Winnebago lodges were always built with the entrances facing the east.
+When the warriors returned from a fight they circumambulated the lodge
+four times, sunwise, stopping at the east just before entering.
+
+
+THE MANDAN
+
+
+The Mandan tribe has not been visited by the author, who must content
+himself with giving the list of gentes furnished by Morgan, in his
+"Ancient Society." This author's system of spelling is preserved:
+
+1. Wolf gens, Ho-ra-ta'-mu-make (Qa-ra-ta' nu-mañ'-ke?).
+
+2. Bear gens, Mä-to'-no-mäke (Ma-to' nu-mañ'-ke).
+
+3. Prairie-chicken gens, See-poosh'-kä (Si-pu'-cka nu-mañ'-ke).
+
+4. Good-knife gens, Tä-na-tsu'-kä (Ta-ne-tsu'-ka nu-mañ'-ke?).
+
+5. Eagle gens, Ki-tä'-ne-mäke (Qi-ta' nu-mañ'-ke?).
+
+6. Flat-head gens, E-stä-pa' (Hi-sta pe' nu-mañ'-ke?).
+
+7. High-village gens, Me-te-ah'-ke.
+
+All that follows concerning the Mandan was recorded by Prince Maximilian
+in 1833. Polygamy was everywhere practiced, the number of wives differing,
+there being seldom more than four, and in general only one. The Mandan
+marriage customs resemble those of the Dakota and other cognate peoples.
+
+When a child is born a person is paid to give it the name chosen by the
+parents and kindred. The child is held up, then turned to all sides of the
+heavens, in the direction of the course of the sun, and its name is
+proclaimed. A Mandan cradle consists of a leather bag suspended by a strap
+to a crossbeam in the hut.
+
+There are traces of descent in the female line; for example, sisters have
+great privileges; all the horses that a young man steals or captures in
+war are brought by him to his sister. He can demand from his sister any
+object in her possession, even the clothing which she is wearing, and he
+receives it immediately. The mother-in-law never speaks to her son-in-law,
+unless on his return from war he bring her the scalp and gun of a slain
+foe, in which event she is at liberty from that moment to converse with
+him. This custom is found, says Maximilian, among the Hidatsa, but not
+among the Crow and Arikara. While the Dakota, Omaha, and other tribes
+visited by the author have the custom of "bashfulness," which forbids the
+mother-in-law and son-in-law to speak to each other, no allowable
+relaxation of the prohibition has been recorded.
+
+
+THE HIDATSA
+
+
+Our chief authority for the names of the Hidatsa gentes is Morgan's
+"Ancient Society." Dr Washington Matthews could have furnished a corrected
+list from his own notes had they not unfortunately been destroyed by fire.
+All that can now be done is to give Morgan's list, using his system of
+spelling:
+
+1. Knife, Mit-che-ro'-ka.
+
+2. Water, Min-ne pä'-ta.
+
+3. Lodge, Bä-ho-hä'-ta.
+
+4. Prairie chicken, Scech-ka-be-ruh-pä'-ka (Tsi-tska' do-hpa'-ka of
+Matthews; Tsi-tska' d¢o-qpa'-ka in the Bureau alphabet).
+
+5. Hill people, E-tish-sho'-ka.
+
+6. Unknown animal, Ah-nah-ha-nä'-me-te.
+
+7. Bonnet, E-ku'-pä-be-ka.
+
+The Hidatsa have been studied by Prince Maximilian (1833), Hayden, and
+Matthews, the work of the last writer(8) being the latest one treating of
+them; and from it the following is taken:
+
+Marriage among the Hidatsa is usually made formal by the distribution of
+gifts on the part of the man to the woman's kindred. Afterward presents of
+equal value are commonly returned by the wife's relations, if they have
+the means of so doing and are satisfied with the conduct of the husband.
+Some travelers have represented that the "marriage by purchase" among the
+Indians is a mere sale of the woman to the highest bidder, whose slave she
+becomes. Matthews regards this a misrepresentation so far as it concerns
+the Hidatsa, the wedding gift being a pledge to the parents for the proper
+treatment of their daughter, as well as an evidence of the wealth of the
+suitor and his kindred. Matthews has known many cases where large marriage
+presents were refused from one person, and gifts of much less value
+accepted from another, simply because the girl showed a preference for the
+poorer lover. Marriages by elopement are considered undignified, and
+different terms are applied to a marriage by elopement and one by parental
+consent. Polygamy is practiced, but usually with certain restrictions. The
+husband of the eldest of several sisters has a claim to each of the others
+as she grows up, and in most cases the man takes such a potential wife
+unless she form another attachment. A man usually marries his brother's
+widow, unless she object, and he may adopt the orphans as his own
+children. Divorce is easily effected, but is rare among the better class
+of people in the tribe. The unions of such people often last for life; but
+among persons of a different character divorces are common. Their social
+discipline is not very severe. Punishments by law, administered by the
+"soldier band," are only for serious offenses against the regulations of
+the camp. He who simply violates social customs in the tribe often
+subjects himself to no worse punishment than an occasional sneer or
+taunting remark; but for grave transgressions he may lose the regard of
+his friends. With the Hidatsa, as with other western tribes, it is
+improper for a man to hold a direct conversation with his mother-in-law;
+but this custom seems to be falling into disuse.
+
+The kinship system of the Hidatsa does not differ materially from that of
+any of the cognate tribes. When they wish to distinguish between the
+actual father and a father's real or potential brothers, or between the
+actual mother and the mother's real or potential sisters, they use the
+adjective ka'ti (ka{~LATIN SMALL LETTER TURNED H~}t{~LATIN SMALL LETTER OPEN O~}i), real, true, after the kinship term when the
+actual parent is meant.
+
+
+THE CROW OR ABSAROKA
+
+
+As this tribe belongs to the Hidatsa linguistic substock, it is very
+probable that the social laws and customs of the one people are identical
+with those of the other, as there has been nothing to cause extensive
+differentiation.
+
+It is not known whether the Hidatsa and Crow tribes ever camped in a
+circle. Morgan's list of the Crow gentes is given, with his peculiar
+notation, as follows:
+
+1. Prairie Dog gens, A-che-pä-be'-cha.
+
+2. Bad Leggings, E-sach'-ka-buk.
+
+3. Skunk, Ho-ka-rut'-cha.
+
+4. Treacherous Lodges, Ash-bot-chee-ah.
+
+5. Lost Lodges, Ah-shin'-nä de'-ah (possibly intended for Last Lodges,
+those who camped in the rear).
+
+6. Bad Honors, Ese-kep-kä'-buk.
+
+7. Butchers. Oo-sä-bot'-see.
+
+8. Moving Lodges, Ah-hä-chick.
+
+9. Bear-paw Mountain, Ship-tet'-zä.
+
+10. Blackfoot Lodges, Ash-kane'-na.
+
+11. Fish Catchers, Boo-a-da'-sha.
+
+12. Antelope, O-hot-du-sha.
+
+13. Raven, Pet-chale-ruh-pä'-ka.
+
+
+THE BILOXI
+
+
+The tribal organization of this people has disappeared. When the few
+survivors were visited by the author at Lecompte, Louisiana, in 1892 and
+1893, they gave him the names of three of the clans of the Biloxi, descent
+being reckoned in the female line. These clans are: 1, Ita anyadi, Deer
+people; 2, On{~LATIN SMALL LETTER TURNED T~}i anyadi, Bear people; 3, Naqotod¢a anyadi, Alligator
+people. Most of the survivors belong to the Deer clan. The kinship system
+of the Biloxi is more complicated than that of any other tribe of the
+stock; in fact, more than that of any of the tribes visited by the author.
+The names of 53 kinship groups are still remembered, but there are at
+least a dozen others whose names have been forgotten. Where the ¢egiha
+language, for example, has but one term for grandchild, and one grandchild
+group, the Biloxi has at least fourteen. In the ascending series the
+Dakota and ¢egiha do not have any terms beyond grandfather and
+grandmother. But for each sex the Biloxi has terms for at least three
+degrees beyond the grandparent. The ¢egiha has but one term for father's
+sister and one for mother's brother, father's brother being "father," and
+mother's sister "mother." But the Biloxi has distinct terms (and groups)
+for father's elder sister, father's younger sister, father's elder
+brother, father's younger brother, and so on for the mother's elder and
+younger brothers and sisters. The Biloxi distinguishes between an elder
+sister's son and the son of a younger sister, and so between the daughter
+of an elder sister and a younger sister's daughter. A Biloxi man may not
+marry his wife's brother's daughter, nor his wife's father's sister,
+differing in this respect from a Dakota, an Omaha, a Ponka, etc; but he
+can marry his deceased wife's sister. A Biloxi woman may marry the brother
+of her deceased husband. Judging from the analogy furnished by the Kansa
+tribe it was very probably the rule before the advent of the white race
+that a Biloxi man could not marry a woman of his own clan.
+
+
+
+
+
+THE TUTELO
+
+
+It is impossible to learn whether the Tutelo ever camped in a circle. The
+author obtained the following clan names (descent being in the female
+line) from John Key, an Indian, on Grand River reservation, Ontario,
+Canada, in September, 1882: On "one side of the fire" were the Bear and
+Deer clans, the Wolf and Turtle being on the other side. John Key's
+mother, maternal grandmother, and Mrs Christine Buck were members of the
+Deer clan. There were no taboos. The Tutelo names of the clans have been
+forgotten.
+
+
+
+
+
+THE CATAWBA
+
+
+Dr A. S. Gatschet, of the Bureau of Ethnology, visited the Catawba tribe
+prior to March, 1882, when he obtained an extensive vocabulary of the
+Catawba language, but he did not record any information respecting the
+social organization of the people.
+
+For further information regarding the Siouan tribes formerly inhabiting
+the Atlantic coast region, see "Siouan Tribes of the East," by James
+Mooney, published as a bulletin of the Bureau of Ethnology.
+
+
+
+
+
+
+FOOTNOTES
+
+
+    1 Wherever in this paper there is a double notation of a Dakota name
+      the former is expressed in the alphabet of the Bureau of Ethnology
+      and the latter in that of Dr S.R. Riggs, author of the memoirs in
+      Contributions to North American Ethnology, vols. VII and IX.
+
+    2 S.R. Riggs, in Smithsonian Contributions to Knowledge, vol. IV, p.
+      xvi, 1852, and in Contributions to North American Ethnology, vol.
+      IX.
+
+    3 Contributions to North American Ethnology, vol. ix, pp. 195-202.
+
+    4 Schoolcraft, Indian Tribes, vol. II, 182, Philadelphia. 1852.
+
+    5 Manuscript in the archives of the Bureau of Ethnology.
+
+    6 Third Annual Report of the Bureau of Ethnology, 1881-82.
+
+    7 Vol. IV, No. 15, pp. 333-340, 1891.
+
+    8 Ethnography and Philology of the Hidatsa Indians; U.S. Geological
+      and Geographical Survey, miscellaneous publications No. 7,
+      Washington, 1877.

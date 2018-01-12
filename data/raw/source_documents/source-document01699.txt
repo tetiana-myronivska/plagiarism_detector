@@ -1,0 +1,506 @@
+﻿
+_Dramatic Literature_.--This must have had a considerable influence on
+the development of the sacred drama in England, but none of the
+French plays acted in England in the 12th and 13th centuries has been
+preserved. _Adam_, which is generally considered to be an Anglo-Norman
+mystery of the 12th century, was probably written in France at
+the beginning of the 13th century (_Romania_ xxxii. 637), and the
+so-called Anglo-Norman _Resurrection_ belongs also to continental
+French. It is necessary to state that the earliest English moralities
+seem to have been imitations of the French ones.
+
+
+BIBLIOGRAPHY.--Apart from the works already mentioned see generally:
+Scheibner, "Über die Herrschaft der frz. Sprache in England"
+(Annaberg, Progr. der Königlichen Realschule, 1880, 38 f.); Groeber,
+_Grundr. der romanischen Philologie_, ii. iii. (Strassburg, 1902); G.
+Paris, _La Litt. fr. au moyen âge_ (1905); _Esquisse historique de
+la litt. fr. au moyen âge_ (1907); _La Litt. norm, avani l'annexion
+912-1204_ (Paris, 1899); "L'Esprit normand en Angleterre," _La
+Poésie au moyen âge_ (2nd series 45-74, Paris, 1906); Thomas Wright,
+_Biographia britannica literaria_ (Anglo-Norman period, London, 1846);
+Ten Brink, _Geschichte der englischen Litteratur_ (Berlin, 1877, i.
+2); J.J. Jusserand, _Hist. litt. du peuple anglais_ (2nd ed. 1895,
+vol. i.); W.H. Schofield, _English Literature from the Norman Conquest
+to Chaucer_ (London, 1906); Johan Vising, _Franska Sprâket i England_
+(Göteborg, 1900, 1901, 1902).
+
+(L. BR.)
+
+
+[v.02 p.0035]
+
+ANGLO-SAXON CHRONICLE. It is usual to speak of "the Anglo-Saxon
+Chronicle"; it would be more correct to say that there are four
+Anglo-Saxon Chronicles. It is true that these all grow out of a common
+stock, that in some even of their later entries two or more of them
+use common materials; but the same may be said of several groups
+of medieval chronicles, which no one dreams of treating as single
+chronicles. Of this fourfold Chronicle there are seven MSS. in
+existence; _C.C.C. Cant._ 173 (A); _Cott. Tib._ A vi. (B); _Cott.
+Tib._ B i. (C); _Cott. Tib._ B iv. (D); _Bodl. Laud. Misc._ 636 (E);
+_Cott. Domitian_ A viii. (F); _Cott. Otho_ B xi. (G). Of these G is
+now a mere fragment, and it is known to have been a transcript of A.
+F is bilingual, the entries being given both in Saxon and Latin. It
+is interesting as a stage in the transition from the vernacular to
+the Latin chronicle; but it has little independent value, being a
+mere epitome, made at Canterbury in the 11th or 12th century, of a
+chronicle akin to E. B, as far as it goes (to 977), is identical with
+C, both having been copied from a common original, but A, C, D, E have
+every right to be treated as independent chronicles. The relations
+between the four vary very greatly in different parts, and the neglect
+of this consideration has led to much error and confusion. The common
+stock, out of which all grow, extends to 892. The present writer sees
+no reason to doubt that the idea of a national, as opposed to earlier
+local chronicles, was inspired by Alfred, who may even have dictated,
+or at least revised, the entries relating to his own campaigns; while
+for the earlier parts pre-existing materials, both oral and written,
+were utilized. Among the latter the chronological epitome appended to
+Bede's _Ecclesiastical History_ may be specially mentioned. But even
+this common stock exists in two different recensions, in A, B, C, on
+the one hand, and D, E on the other. The main points of difference are
+that in D, E (1) a series of northern annals have been incorporated;
+(2) the Bede entries are taken, not from the brief epitome, but from
+the main body of the _Eccl. Hist._ The inference is that, shortly
+after the compiling of this Alfredian chronicle, a copy of it was sent
+to some northern monastery, probably Ripon, where it was expanded in
+the way indicated. Copies of this northernized Chronicle afterwards
+found their way to the south. The impulse given by Alfred was
+continued under Edward, and we have what may be called an official
+continuation of the history of the Danish wars, which, in B, C, D
+extends to 915, and in A to 924. After 915 B, C insert as a separate
+document a short register of Mercian affairs during the same period
+(902-924), which might be called the acts of Æthelflaed, the famous
+"Lady of the Mercians," while D has incorporated it, not very
+skilfully, with the official continuation. Neither of these documents
+exists in E. From 925 to 975 all the chronicles are very fragmentary;
+a few obits, three or four poems, among them the famous ballad on
+the battle of Brunanburh, make up the meagre tale of their common
+materials, which each has tried to supplement in its own way. A has
+inserted a number of Winchester entries, which prove that A is a
+Winchester book. And this local and scrappy character it retains
+to 1001, where it practically ends. At some subsequent time it
+was transferred bodily to Canterbury, where it received numerous
+interpolations in the earlier part, and a few later local entries
+which finally tail off into the Latin acts of Lanfranc. A may
+therefore be dismissed. C has added to the common stock one or
+two Abingdon entries, with which place the history of C is closely
+connected; while D and E have a second group of northern annals
+901-966, E being however much more fragmentary than D, omitting, or
+not having access to, much both of the common and of the northern
+material which is found in D. From 983 to 1018 C, D and E are
+practically identical, and give a connected history of the Danish
+struggles under Æthelred II. This section was probably composed at
+Canterbury. From 1018 the relations of C, D, E become too complicated
+to be expressed by any formula; sometimes all three agree together,
+sometimes all three are independent; in other places each pair in
+turn agree against the third. It may be noted that C is strongly
+anti-Godwinist, while E is equally pro-Godwinist, D occupying an
+intermediate position. C extends to 1066, where it ends abruptly, and
+probably mutilated. D ends at 1079 and is certainly mutilated. In
+its later history D is associated with some place in the diocese of
+Worcester, probably Evesham. In its present form D is a comparatively
+late MS., none of it probably much earlier, and some of it later, than
+1100. In the case of entries in the earlier part of the chronicles,
+which are peculiar to D, we cannot exclude the possibility that they
+may be late interpolations. E is continued to 1154. In its present
+form it is unquestionably a Peterborough book. The earlier part is
+full of Peterborough interpolations, to which place many of the later
+entries also refer. But (apart from the interpolations) it is only the
+entries after 1121, where the first hand in the MS. ends, which were
+actually composed at Peterborough. The section 1023-1067
+certainly, and possibly also the section 1068-1121, was composed at
+St. Augustine's, Canterbury; and the former is of extreme interest
+and value, the writer being in close contact with the events which he
+describes. The later parts of E show a great degeneration in language,
+and a querulous tone due to the sufferings of the native population
+under the harsh Norman rule; "but our debt to it is inestimable; and
+we can hardly measure what the loss to English history would have
+been, if it had not been written; or if, having been written, it had,
+like so many another English chronicle, been lost."
+
+
+BIBLIOGRAPHY.--The above account is based on the introduction in vol.
+ii. of the Rev. C. Plummer's edition of _Two of the Saxon Chronicles
+Parallel_ (Clarendon Press, 1892, 1899); to which the student may
+be referred for detailed arguments. The _editio princeps_ of the
+Anglo-Saxon Chronicle was by Abraham Wheloc, professor of Arabic at
+Cambridge, where the work was printed (1643-1644). It was based mainly
+on the MS. called G above, and is the chief source of our knowledge of
+that MS. which perished, all but three leaves, in the Cottonian fire
+of 1723. Edmund Gibson of Queen's College, Oxford, afterwards bishop
+of London, published an edition in 1692. He used Wheloc's edition, and
+E, with collations or transcripts of B and F. Both Wheloc and Gibson
+give Latin translations. In 1823 appeared an edition by Dr. Ingram, of
+Trinity College, Oxford, with an English translation. Besides A, B, E,
+F, Ingram used C and D for the first time. But both he and Gibson made
+the fatal error of trying to combine the disparate materials contained
+in the various chronicles in a single text. An improvement in this
+respect is seen in the edition made by Richard Price (d. 1833) for
+the first (and only) volume of _Monumenta Historica Britannica_ (folio
+1848). There is still, however, too much conflation, and owing to the
+plan of the volume, the edition only extends to 1066. A translation is
+appended. In 1861 appeared Benjamin Thorpe's six-text edition in the
+Rolls Series. Though not free from defects, this edition is absolutely
+indispensable for the study of the chronicles and the mutual relations
+of the different MSS. A second volume contains the translation. In
+1865 the Clarendon Press published _Two Saxon Chronicles (A and E)
+Parallel, with supplementary extracts from the others_, by the Rev.
+John Earle. This edition has no translation, but in the notes and
+introduction a very considerable advance was made. On this edition is
+partly based the later edition by the Rev. C. Plummer, already cited
+above. In addition to the translations contained in the editions
+already mentioned, the following have been issued separately. The
+first translation into modern English was by Miss Anna Gurney,
+privately printed in 1819. This was largely based on Gibson's edition,
+and was in turn the basis of Dr. Giles' translation, published in 1847,
+and often reprinted. The best translation is that by the Rev. Joseph
+Stevenson, in his series of _Church Historians of England_ (1853). Up
+to the Conquest it is a revision of the translation contained in _Mon.
+Hist. Brit._ From that point it is an independent translation.
+
+(C. PL.)
+
+
+ANGLO-SAXON LAW. 1. The body of legal rules and customs which
+obtained in England before the Norman conquest constitutes, with
+the Scandinavian laws, the most genuine expression of Teutonic legal
+thought. While the so-called "barbaric laws" (_leges barbarorum_)
+of the continent, not excepting those compiled in the territory now
+called Germany, were largely the product of Roman influence, the
+continuity of Roman life was almost completely broken in the island,
+and even the Church, the direct heir of Roman tradition, did not carry
+on a continuous existence: Canterbury was not a see formed in a Roman
+province in the same sense as Tours or Reims. One of the striking
+expressions of this Teutonism is presented by the language in which
+the Anglo-Saxon laws were written. They are uniformly worded in
+English, while continental laws, apart from the Scandinavian, are all
+in Latin. The English dialect in which the Anglo-Saxon laws have been
+handed down to us is in most cases a common speech derived from West
+Saxon--naturally enough as Wessex became the predominant English
+state, and the court of its kings the principal literary centre from
+which most of the compilers and scribes derived their dialect and
+spelling. Traces of Kentish speech may be detected, however, in the
+_Textus Roffensis_, the MS. of the Kentish laws, and Northumbrian
+dialectical peculiarities are also noticeable on some occasions, while
+Danish words occur only as technical terms. At the conquest, Latin
+takes the place of English in the compilations made to meet the demand
+for Anglo-Saxon law texts as still applied in practice.
+
+[v.02 p.0036]
+
+2. It is easy to group the Anglo-Saxon laws according to the manner of
+their publication. They would fall into three divisions: (1) laws and
+collections of laws promulgated by public authority; (2) statements of
+custom; (3) private compilations of legal rules and enactments. To
+the first division belong the laws of the Kentish kings, Æthelberht,
+Hlothhere and Eadric, Withraed; those of Ine of Wessex, of Alfred,
+Edward the Elder, Æthelstan,[1] Edmund, Edgar, Æthelred and Canute;
+the treaty between Alfred and Guthrum and the so-called treaty between
+Edward and Guthrum. The second division is formed by the convention
+between the English and the Welsh _Dunsaetas_, the law of the
+Northumbrian priests, the customs of the North people, the fragments
+of local custumals entered in Domesday Book. The third division would
+consist of the collections of the so-called _Pseudo-leges Canuti_, the
+laws of Edward the Confessor, of Henry I., and the great compilation
+of the _Quadripartitus_, then of a number of short notices and
+extracts like the fragments on the "wedding of a wife," on oaths,
+on ordeals, on the king's peace, on rural customs (_Rectitudines
+singularum personarum_), the treatises on the reeve (_gerefa_) and on
+the judge (_dema_), formulae of oaths, notions as to wergeld, &c. A
+fourth group might be made of the charters, as they are based on
+Old English private and public law and supply us with most important
+materials in regard to it. Looking somewhat deeper at the sources
+from which Old English law was derived, we shall have to modify our
+classification to some extent, as the external forms of publication,
+although important from the point of view of historical criticism, are
+not sufficient standards as to the juridical character of the various
+kinds of material. Direct statements of law would fall under the
+following heads, from the point of view of their legal origins: i.
+customary rules followed by divers communities capable of formulating
+law; ii. enactments of authorities, especially of kings; iii. private
+arrangements made under recognized legal rules. The first would
+comprise, besides most of the statements of custom included in the
+second division according to the first classification, a great many
+of the rules entered in collections promulgated by kings; most of the
+paragraphs of Æthelberht's, Hlothhere's, and Eadric's and Ine's
+laws, are popular legal customs that have received the stamp of royal
+authority by their insertion in official codes. On the other hand,
+from Withraed's and Alfred's laws downwards, the element of enactment
+by central authority becomes more and more prominent. The kings
+endeavour, with the help of secular and clerical witan, to introduce
+new rules and to break the power of long-standing customs (e.g. the
+precepts about the keeping of holidays, the enactments of Edmund
+restricting private vengeance, and the solidarity of kindreds as to
+feuds, and the like). There are, however, no outward signs enabling
+us to distinguish conclusively between both categories of laws in the
+codes, nor is it possible to draw a line between permanent laws and
+personal ordinances of single sovereigns, as has been attempted in the
+case of Frankish legislation.
+
+[Footnote 1: The _Judicia civitatis Lundoniae_ are a gild statute
+confirmed by King Æthelstan.]
+
+3. Even in the course of a general survey of the legal lore at
+our disposal, one cannot help being struck by peculiarities in the
+distribution of legal subjects. Matters which seem to us of primary
+importance and occupy a wide place in our law-books are almost
+entirely absent in Anglo-Saxon laws or relegated to the background.
+While it is impossible to give here anything like a complete or
+exact survey of the field--a task rendered almost impossible by the
+arbitrary manner in which paragraphs are divided, by the difficulty
+of making Old English enactments fit into modern rubrics, and by the
+necessity of counting several times certain paragraphs bearing on
+different subjects--a brief statistical analysis of the contents of
+royal codes and laws may be found instructive.
+
+We find roughly 419 paragraphs devoted to criminal law and procedure
+as against 91 concerned with questions of private law and civil
+procedure. Of the criminal law clauses, as many as 238 are taken
+up with tariffs of fines, while 80 treat of capital and corporal
+punishment, outlawry and confiscation, and 101 include rules of
+procedure. On the private law side 18 clauses apply to rights of
+property and possession, 13 to succession and family law, 37 to
+contracts, including marriage when treated as an act of sale; 18 touch
+on civil procedure. A subject which attracted special attention was
+the law of status, and no less than 107 paragraphs contain disposition
+dictated by the wish to discriminate between the classes of society.
+Questions of public law and administration are discussed in 217
+clauses, while 197 concern the Church in one way or another, apart
+from purely ecclesiastical collections. In the public law division it
+is chiefly the power, interests and privileges of the king that are
+dealt with, in roughly 93 paragraphs, while local administration comes
+in for 39 and purely economic and fiscal matter for 13 clauses. Police
+regulations are very much to the fore and occupy no less than 72
+clauses of the royal legislation. As to church matters, the most
+prolific group is formed by general precepts based on religious and
+moral considerations, roughly 115, while secular privileges conferred
+on the Church hold about 62, and questions of organization some 20
+clauses.
+
+The statistical contrasts are especially sharp and characteristic when
+we take into account the chronological sequence in the elaboration of
+laws. Practically the entire code of Æthelberht, for instance, is a
+tariff of fines for crimes, and the same subject continues to occupy
+a great place in the laws of Hlothhere and Eadric, Ine and Alfred,
+whereas it appears only occasionally in the treaties with the Danes,
+the laws of Withraed, Edward the Elder, Æthelstan, Edgar, Edmund and
+Æthelred. It reappears in some strength in the code of Canute, but the
+latter is chiefly a recapitulation of former enactments. The system of
+"compositions" or fines, paid in many cases with the help of kinsmen,
+finds its natural place in the ancient, tribal period of English
+history and loses its vitality later on in consequence of the growth
+of central power and of the scattering of maegths. Royalty and the
+Church, when they acquire the lead in social life, work out a
+new penal system based on outlawry, death penalties and corporal
+punishments, which make their first appearance in the legislation of
+Withraed and culminate in that of Æthelred and Canute.
+
+As regards status, the most elaborate enactments fall into the period
+preceding the Danish settlements. After the treaties with the Danes,
+the tendency is to simplify distinctions on the lines of an opposition
+between twelvehynd-men and twyhynd-men, paving the way towards
+the feudal distinction between the free and the unfree. In the
+arrangements of the commonwealth the clauses treating of royal
+privileges are more or less evenly distributed over all reigns, but
+the systematic development of police functions, especially in regard
+to responsibility for crimes, the catching of thieves, the suppression
+of lawlessness, is mainly the object of 10th and 11th century
+legislation. The reign of Æthelred, which witnessed the greatest
+national humiliation and the greatest crime in English history, is
+also marked by the most lavish expressions of religious feeling and
+the most frequent appeals to morality. This sketch would, of course,
+have to be modified in many ways if we attempted to treat the
+unofficial fragments of customary law in the same way as the
+paragraphs of royal codes, and even more so if we were able to
+tabulate the indirect evidence as to legal rules. But, imperfect as
+such statistics may be, they give us at any rate some insight into the
+direction of governmental legislation.
+
+4. The next question to be approached concerns the pedigree of
+Anglo-Saxon law and the latter's natural affinities. What is its
+position in the legal history of Germanic nations? How far has it been
+influenced by non-Germanic elements, especially by Roman and Canon
+law? The oldest Anglo-Saxon codes, especially the Kentish and the
+West Saxon ones, disclose a close relationship to the barbaric laws
+of Lower Germany--those of Saxons, Frisians, Thuringians. We find a
+division of social ranks which reminds us of the threefold gradation
+of Lower Germany (edelings, frilings, lazzen-eorls, ceorls, laets),
+and not of the twofold Frankish one (_ingenui Franci, Romani_), nor
+of the minute differentiation of the Upper Germans and Lombards. In
+subsequent history there is a good deal of resemblance between the
+capitularies' legislation of Charlemagne and his successors on one
+hand, the acts of Alfred, Edward the Elder, Æthelstan and Edgar on the
+other, a resemblance called forth less by direct borrowing of
+Frankish institutions than by the similarity of political problems
+and condition. Frankish law becomes a powerful modifying element
+in English legal history after the Conquest, when it was introduced
+wholesale in royal and in feudal courts. The Scandinavian invasions
+brought in many northern legal customs, especially in the districts
+thickly populated with Danes. The Domesday survey of Lincolnshire,
+Nottinghamshire, Yorkshire, Norfolk, &c., shows remarkable deviations
+in local organization and justice (lagmen, sokes), and great
+peculiarities as to status (socmen, freemen), while from laws and
+a few charters we can perceive some influence on criminal law
+(_nidings-vaerk_), special usages as to fines (_lahslit_), the keeping
+of peace, attestation and sureties of acts (_faestermen_), &c. But, on
+the whole, the introduction of Danish and Norse elements, apart from
+local cases, was more important owing to the conflicts and compromises
+it called forth and its social results,--than on account of any
+distinct trail of Scandinavian views in English law. The Scandinavian
+newcomers coalesced easily and quickly with the native population.
+
+[v.02 p.0037]
+
+The direct influence of Roman law was not great during the Saxon
+period: we notice neither the transmission of important legal
+doctrines, chiefly through the medium of Visigothic codes, nor the
+continuous stream of Roman tradition in local usage. But indirectly
+Roman law did exert a by no means insignificant influence through the
+medium of the Church, which, for all its insular character, was still
+permeated with Roman ideas and forms of culture. The Old English
+"books" are derived in a roundabout way from Roman models, and the
+tribal law of real property was deeply modified by the introduction of
+individualistic notions as to ownership, donations, wills, rights of
+women, &c. Yet in this respect also the Norman Conquest increased the
+store of Roman conceptions by breaking the national isolation of the
+English Church and opening the way for closer intercourse with France
+and Italy.
+
+5. It would be useless to attempt to trace in a brief sketch
+the history of the legal principles embodied in the documents of
+Anglo-Saxon law. But it may be of some value to give an outline of a
+few particularly characteristic subjects.
+
+(a) The Anglo-Saxon legal system cannot be understood unless one
+realizes the fundamental opposition between folk-right and privilege.
+Folk-right is the aggregate of rules, formulated or latent but
+susceptible of formulation, which can be appealed to as the expression
+of the juridical consciousness of the people at large or of the
+communities of which it is composed. It is tribal in its origin, and
+differentiated, not according to boundaries between states, but on
+national and provincial lines. There may be the folk-right of West and
+East Saxons, of East Angles, of Kentish men, Mercians, Northumbrians,
+Danes, Welshmen, and these main folk-right divisions remain even when
+tribal kingdoms disappear and the people is concentrated in one or
+two realms. The chief centres for the formulation and application of
+folk-right were in the 10th and 11th centuries the shire-moots, while
+the witan of the realm generally placed themselves on the higher
+ground of State expediency, although occasionally using folk-right
+ideas. The older law of real property, of succession, of contracts,
+the customary tariffs of fines, were mainly regulated by folk-right;
+the reeves employed by the king and great men were supposed to take
+care of local and rural affairs according to folk-right. The law had
+to be declared and applied by the people itself in its communities,
+while the spokesmen of the people were neither democratic majorities
+nor individual experts, but a few leading men--the twelve eldest
+thanes or some similar quorum. Folk-right could, however, be broken
+or modified by special law or special grant, and the fountain of such
+privileges was the royal power. Alterations and exceptions were, as
+a matter of fact, suggested by the interested parties themselves,
+and chiefly by the Church. Thus a privileged land-tenure was
+created--bookland; the rules as to the succession of kinsmen were set
+at nought by concession of testamentary power and confirmations of
+grants and wills; special exemptions from the jurisdiction of the
+hundreds and special privileges as to levying fines were conferred.
+In process of time the rights originating in royal grants of privilege
+overbalanced, as it were, folk-right in many respects, and became
+themselves the starting-point of a new legal system--the feudal one.
+
+(b) Another feature of vital importance in the history of Anglo-Saxon
+law is its tendency towards the preservation of peace. Society
+is constantly struggling to ensure the main condition of its
+existence--peace. Already in Æthelberht's legislation we find
+characteristic fines inflicted for breach of the peace of householders
+of different ranks--the ceorl, the eorl, and the king himself
+appearing as the most exalted among them. Peace is considered not so
+much a state of equilibrium and friendly relations between parties,
+but rather as the rule of a third within a certain region--a house,
+an estate, a kingdom. This leads on one side to the recognition of
+private authorities--the father's in his family, the master's as to
+servants, the lord's as to his personal or territorial dependents.
+On the other hand, the tendency to maintain peace naturally takes
+its course towards the strongest ruler, the king, and we witness in
+Anglo-Saxon law the gradual evolution of more and more stringent and
+complete rules in respect of the king's peace and its infringements.
+
+(c) The more ancient documents of Anglo-Saxon law show us the
+individual not merely as the subject and citizen of a certain
+commonwealth, but also as a member of some group, all the fellows
+of which are closely allied in claims and responsibilities. The most
+elementary of these groups is the _maegth_, the association of agnatic
+and cognatic relations. Personal protection and revenge, oaths,
+marriage, wardship, succession, supervision over settlement, and good
+behaviour, are regulated by the law of kinship. A man's actions are
+considered not as exertions of his individual will, but as acts of the
+kindred, and all the fellows of the maegth are held responsible for
+them. What began as a natural alliance was used later as a means of
+enforcing responsibility and keeping lawless individuals in
+order. When the association of kinsmen failed, the voluntary
+associations--guilds--appeared as substitutes. The gild brothers
+associated in mutual defence and support, and they had to share in
+the payment of fines. The township and the hundred came also in for
+certain forms of collective responsibility, because they presented
+groups of people associated in their economic and legal interests.
+
+(d) In course of time the natural associations get loosened and
+intermixed, and this calls forth the elaborate police legislation of
+the later Anglo-Saxon kings. Regulations are issued about the sale of
+cattle in the presence of witnesses. Enactments about the pursuit
+of thieves, and the calling in of warrantors to justify sales of
+chattels, are other expressions of the difficulties attending peaceful
+intercourse. Personal surety appears as a complement of and substitute
+for collective responsibility. The _hlaford_ and his _hiredmen_ are
+an institution not only of private patronage, but also of police
+supervision for the sake of laying hands on malefactors and suspected
+persons. The _landrica_ assumes the same part in a territorial
+district. Ultimately the laws of the 10th and 11th centuries show
+the beginnings of the frankpledge associations, which came to act so
+important a part in the local police and administration of the feudal
+age.
+
+The points mentioned are not many, but, apart from their intrinsic
+importance in any system of law, they are, as it were, made prominent
+by the documents themselves, as they are constantly referred to in the
+latter.
+
+
+BIBLIOGRAPHY.--_Editions_: Liebermann, _Die Gesetze der Angelsachsen_
+(1903, 1906) is indispensable, and leaves nothing to be desired as
+to the constitution of the texts. The translations and notes are,
+of course, to be considered in the light of an instructive, but not
+final, commentary. R. Schmid, _Gesetze der Angelsachsen_ (2nd ed.,
+Leipzig, 1858) is still valuable on account of its handiness and the
+fulness of its glossary. B. Thorpe, _Ancient Laws and Institutes of
+England_ (1840) is not very trustworthy. _Domesday Book_, i. ii. (Rec.
+Comm.); _Codex Diplomaticus Aevi Saxonici_, i.-vi. ed. J.M. Kemble
+(1839-1848); _Cartularium Saxonicum_ (up to 940), ed. W. de Gray
+Birch (1885-1893); J. Earle, _Land Charters_ (Oxford, 1888); Thorpe,
+_Diplomatarium Anglicanum; Facsimiles of Ancient Charters_, edited
+by the Ordnance Survey and by the British Museum; Haddan and Stubbs,
+_Councils of Great Britain_, i.-iii. (Oxford, 1869-1878).
+
+[v.02 p.0038]
+
+_Modern works_.--Konrad Maurer, _Über Angelsachsische
+Rechtsverhaltnisse, Kritische Ueberschau_ (Munich, 1853 ff.), still
+the best account of the history of Anglo-Saxon law; _Essays on
+Anglo-Saxon Law_, by H. Adams, H.C. Lodge, J.L. Laughlin and E. Young
+(1876); J.M. Kemble, _Saxons in England_; F. Palgrave, _History of the
+English Commonwealth_; Stubbs, _Constitutional History of England_,
+i.; Pollock and Maitland, _History of English Law_, i.; H. Brunner,
+_Zur Rechtsgeschichte der romisch-germanischen Urkunde_ (1880); Sir
+F. Pollock, _The King's Peace_ (Oxford Lectures); F. Seebohm; _The
+English Village Community_; Ibid. _Tribal Custom in Anglo-Saxon Law_;
+Marquardsen, _Haft und Burgschaft im Angelsachsischen Recht_;
+Jastrow, "Über die Strafrechtliche Stellung der Sklaven," Gierke's
+_Untersuchungen_, i.; Steenstrup, _Normannerne_, iv.; F.W. Maitland,
+_Domesday and Beyond_ (Cambridge, 1897); H.M. Chadwick, _Studies on
+Anglo-Saxon Institutions_ (1905); P. Vinogradoff, "Folcland" in
+the _English Historical Review_, 1893; "Romanistische Einflusse im
+Angelsächsischen Recht: Das Buchland" in the _Mélanges Fitting_, 1907;
+"The Transfer of Land in Old English Law" in the _Harvard Law Review_,
+1907.
+
+(P. Vi.)
+

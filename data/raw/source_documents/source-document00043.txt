@@ -1,0 +1,595 @@
+﻿ 1 1850 Dover             Calais           1     25     25    30   ..  1 day.
+ 2 1853 England           Holland          1    360    360    30 2.00  5 yrs.
+        (Three Cables)
+ 3 1854 Holyhead          Howth            1     75     75    70 2.00  5  "
+ 4 1854 Nantucket         Cape Cod         1     25     25    16   ..  ....
+ 5 1855 Varna             Balaklava        1    355    355   300 0.10  9 mos.
+ 6 1855 Balaklava         Eupatoria        1      1      1    ..   ..  9  "
+ 7 1856 Martha's Vineyard Cape Cod         1      5      5    15   ..  2 wks.
+ 8 1856 Newfoundland      Cape Breton      1     85     85   360 2.50  9 yrs.
+ 9 1857 Sardinia          Bona             4    150    600 1,500   ..  3  "
+10 1857 Varna             Constantinople   1    170    170    .. 0.75  5  "
+11 1857 Cape Cod          Naushon          1      1     ..    ..   ..  2  "
+12 1857 Martha's Vineyard Nantucket        1     30     30    16   ..  4  "
+13 1857 Sardinia          Corfu            1    700    700 1,000 0.90  1  "
+14 1858 England           Channel Islands  1    102    102    60 2.50  3  "
+15 1858 Ireland(Atlantic) Newfoundland     1  2,500  2,500 2,400 1.00 23 ds.
+16 1859 Singapore         Batavia          1    630    630    20 0.04  2 yrs.
+17 1859 Suez              Kurrachee        1  3,500  3,500 1,910 0.94  6 mos.
+        (Red Sea & India)
+18 1859 Spain             Africa (Centa)   1     25     25    .. 1.00  1 yr.
+19 1859 England           Isle of Man      1     36     36    30 2.50  3 yrs.
+20 1859 South Australia   Tasmania         1    100    100    60 2.00  1 yr.
+21 1859 Liverpool         Holyhead         2     25     50    14 3.10  1  "
+22 1859 Syra              Candia           1    150    150    .. 0.89  3 yrs.
+23 1860 Across the Mersey   ..             1      3      3    ..   ..  1 yr.
+                                              _____  _____
+                                              9,053  9,527
+
+TABLE III.
+
+_Submarine Telegraph Cables Which Are Total Failures._
+
+Column A: No.
+Column B: Date when laid.
+Column C: From
+Column D: To
+Column E: Number of conducting wires.
+Column F: Length of cable in statute miles.
+Column G: Length of insulated wire in statute miles.
+Column H: Maximum depth of water in fathoms.
+Column I: Weight in tons per statute mile.
+
+ A   B        C             D              E     F      G     H    I
+
+ 1 1852 Holyhead          Howth            1     75     75    70 0.45
+ 2 1852 Portpatrick       Donaghadee       2     17     34   160  ..
+ 3 1852 Portpatrick       Donaghadee       5     15     75   160 4.80
+ 4 1854 Holyhead          Howth            1     65     65    70 2.00
+ 5 1855 Sardinia          Africa           6     50    300   800 8.00
+ 6 1855 Cape Ray          Cape North       3     30     90   360  ..
+ 7 1855 Sardinia          Africa           3    160    480 1,500 3.70
+ 8 1857 Ireland           Newfoundland     1    300    300 2,400  ..
+        (Lost in laying)
+ 9 1859 Candia            Alexandria       1    150    150 1,600 0.89
+10 1865 Ireland           Newfoundland     1  1,300  1,300 2,400 1.75
+
+It will be seen from the above list of failures, that the great
+extension and success of submarine cables has been attained through many
+great failure,--among the most prominent being the old and new Atlantic,
+the Red Sea and India, (which was laid in five sections, that worked
+from six to nine months each, but was never in working order from end to
+end,) the Singapore and Batavia, and Sardinia and Corfu. None of these
+cable, with the exception of the new Atlantic, were tested under water
+after manufacture, and every one of them was covered with a sheathing of
+light iron wire, weighing in the aggregate only about fifteen hundred
+pounds per mile.
+
+These two peculiarities are sufficient to account for every failure
+which has occurred, with the exception of the new Atlantic. No
+electrical test will show the presence of flaws in the insulating cover
+of a wire, unless water, or some other conductor, enters the flaws and
+establishes an electrical connection between the outside and inside of
+the cable. All cables now manufactured are tested under water before
+being laid.
+
+       *       *       *       *       *
+
+Communication between the Ottoman capital and Western Europe passes
+through Vienna. From this city to Constantinople there are two distinct
+lines,--one passing by Semlin and Belgrade to Adrianople, the other by
+Toultcha, Kustendji, and Varna. There is a third line to Adrianople by
+Bucharest; and by the opening of the submarine line between Avlona and
+Otranto, in Italy, the Turkish telegraph service will be in direct
+communication with the West, without going through Servia or the
+Moldo-Wallachian Principalities.
+
+Communication between Constantinople and India is maintained over the
+following route:--To Ismid, 55 miles; thence to Mudurli, 104 miles;
+thence to Angora, 111 miles; thence to Guzgat, 113 miles; thence to
+Sivas, 140 miles; Kharpoot, 178 miles; Diarbekir, 77 miles; Mardeen, 61
+miles; Djezireh, 104 miles; Mosul, (Nineveh,) 91 miles; Kerkook, 114
+miles; Bagdad, 189 miles. From Bagdad to Fao, at the mouth of the
+Shat-el-Arab, on the Persian Gulf, is 400 miles. From Fao to Kurrachee
+the submarine cable stretches along the bottom of the Persian Gulf for
+1,450 miles; and thence are 500 miles of aërial line across a portion of
+British India to Bombay.
+
+The accounts of the successful opening of this line tell of the
+astonishment of the savage Beloochees and Arabs along the Mekran coast
+at the marvel of a blue spark flashing for the Sahib to the Indus and
+back again in less time than it takes to smoke a hookah. At Gwadur, no
+sooner was the cable landed than the people of the surrounding country
+flocked down to hear and talk of the Feringhee witchcraft. Chiefs of the
+Beloochees, Muscatees, and Heratees, with their retainers, trod upon
+each other's toes in their eagerness to see it work. Gwadur has given up
+the idea that Mahomet taught everything that could be known, and now
+sits upon the carpet of astonishment and chews the betel-nut of
+meditation.
+
+The establishment of the electric telegraph in India presented some
+curious as well as difficult problems. In the first place, it was
+discovered that the air of India is in a state of constant electrical
+perturbation of the strongest kind, so that the instruments there
+mounted went into a high fever and refused to work. Along the north and
+south lines a current of electricity was constantly passing, which threw
+the needles out of gear and baffled the signallers. Moreover, the
+tremendous thunder-storms ran up and down the wires and melted the
+conductors; the monsoon winds tore the teak-posts out of the sodden
+ground; the elephants and buffaloes trampled the fallen lines into kinks
+and tangles; the Delta aborigines carried off the timber supports for
+fuel, and the wires or iron rods upon them to make bracelets and to
+supply the Hindoo smitheries; the cotton- and rice-boats, kedging up and
+down the river, dragged the subaqueous wires to the surface. In addition
+to these graver difficulties were many of an amusing character. Wild
+pigs and tigers scratched their skins against the posts in the jungle,
+and porcupines and bandicoots burrowed them out of the ground. Kites,
+fishing-eagles, and hooded-crows came in hundreds and perched upon the
+line to see what on earth it could mean, and sometimes after a
+thunder-storm, when the wires were wet, were found dead by dozens, the
+victims of their curiosity, Monkeys climbed the posts and ran along the
+lines, chattering, and dropping an interfering tail from one wire to
+another, which tended to confound the conversations of Calcutta.
+Parrots, with the same contempt for electrical insulation, fastened upon
+one string by the beak and another by the leg; and in one village, the
+complacent natives hung their fishing-lines to dry upon them.
+
+In 1856 there were four thousand miles of telegraph-wire stretched over
+India: some upon bamboo posts, which bent to the storms and thus defied
+them; some, as in the Madras Presidency, upon monoliths of
+granite,--these, during the Mutiny, proving worth ten times their cost.
+
+       *       *       *       *       *
+
+Whilst the telegraph has been thus rapidly encircling the globe with its
+iron threads, great improvement has been made in the apparatus for
+transmitting the electrical signals over them. Instruments called
+translators, or repeaters, have been devised, by which aërial lines may
+be operated, without repetition, over distances of many thousands of
+miles. Through the use of this valuable invention upon the California
+line, operators in New York and San Francisco are able to converse as
+readily and rapidly as those situated at the extremities of a line only
+a hundred miles in length.
+
+The enormous increase in the amount of matter to be transmitted over the
+wires has stimulated the inventive genius of our own country and Europe
+to produce an apparatus by which the capacity of a wire may be greatly
+increased. Mr. M. G. Farmer of Boston, Mr. J. G. Smith of Portland,
+Maine, Dr. Gintl of Germany, and one or two other persons, have solved
+the problem of the simultaneous transmission of messages over a single
+wire in opposite directions. But while their apparatus, with the proper
+arrangement of batteries, will unquestionably permit the accomplishment
+of this apparent paradox, the natural disturbances upon a wire of any
+considerable length, together with the inequalities of the current
+caused by escape in wet weather, have precluded its practical use.
+
+In this country, General Lefferts of New York, and in Europe, Professor
+Bonelli, have devoted much time and expense to the perfection of
+apparatus for securing greater rapidity of transmission over the aërial
+lines.
+
+General Lefferts owns several patents covering inventions of great
+ingenuity and value, which are now being perfected and will shortly be
+brought into operation. The apparatus consists of an instrument,
+operated by keys similar to those of a piano-forte, for punching
+characters, composed of dots and lines, upon a narrow strip of paper.
+The paper, when thus prepared, is passed rapidly through an instrument
+attached to a telegraph-wire, at the other end of which is a similar
+instrument which runs in unison. The first instrument is provided with a
+flexible metallic comb, which presses through the perforations in the
+paper and thus closes the circuit at each dot and line, while the second
+instrument is provided with a metallic stylus, or pointer, which rests
+upon a fillet of paper prepared with chemicals, and produces, whenever
+the circuit is closed, dots and lines of a dark blue color upon the
+prepared paper. When the paper is prepared by the perforating apparatus,
+it can be run through the instrument at any rate of speed that is
+desirable, and it is estimated that with this apparatus one wire may
+easily perform as much work in a day as ten can under the ordinary
+arrangement.
+
+In Professor Bonelli's system the dispatch is set up in printing-type,
+and placed on a little carriage, which is made to pass beneath a comb
+with five teeth, which are in communication with five aërial wires of
+the line, at the extremity of which these same wires are joined to the
+five teeth of a second comb, under which passes a chemically prepared
+paper, carried along on a little carriage similar to the one at the
+other end on which the printing-type is placed. If under this
+arrangement the electric circuit of a battery composed of a sufficient
+number of elements, and distributed in a certain order, be completed,
+then, at the same time that the first comb is passing over the
+printing-type at the one end, the second comb at the other end will
+trace the dispatch on the prepared paper in beautiful Roman letters, and
+with so great a rapidity that it may be expected that five hundred
+messages of twenty words each will be transmitted hourly.
+
+On Wednesday, April 19th, the day of Mr. Lincoln's funeral, eighty-five
+thousand words of reports were transmitted between Washington and New
+York, between the hours of 7, P. M., and 1, A. M., being at the rate of
+over fourteen thousand words per hour. Nine wires were employed for the
+purpose. Thirteen thousand six hundred words were transmitted by the
+House printing instruments on a single wire after half past seven
+o'clock.
+
+A telegraphic message was recently received in London from India in
+eight hours and a half. This message was forwarded by the Indo-European
+Telegraph Company, _viâ_ Kurrachee and the Persian Gulf, crossing one
+half of Asia and the whole of Europe.
+
+During the late Rebellion in this country the telegraph was extensively
+employed both by the Government and the Insurgents. In the course of the
+past year, there have been in the service of the Government thirty
+field-trains, distributed as follows:--In the Army of the Potomac, five;
+in the Department of the Cumberland, five; in the Department of the
+Gulf, three; in the Department of North Carolina and Virginia, three; in
+the Department of the South, two; in the Department of the Tennessee,
+six; in the Department of the Ohio, two; at the Signal Camp of
+Instruction, Georgetown, D. C., three; at the United States Military
+Academy, West Point, New York, one. Of these trains, some were equipped
+with five, and others with ten miles of insulated wire. There were
+carried in the trains lances for setting up the wire, when
+necessary,--reels, portable by hand, carrying wire made purposely
+flexible for this particular use,--and various minor appliances, which
+experience has proved useful. A military organization was directed for
+each train.
+
+In duty of this kind, the construction of the trains, the equipment to
+be carried by them, and the military organization to be provided for
+their use, to enable them to be most rapidly and anywhere brought into
+action, are the subjects for study: the particular instrument to be
+equipped is a secondary consideration. The soldiers drilled to the duty
+of construction acquire in a short time a remarkable skill in the rapid
+extension of these lines. As was anticipated, they have proved valuable
+auxiliaries to the services of the corps, and have sometimes rendered
+them available when they would have been otherwise useless. The greatest
+distance at which the instruments are reported to have worked is twenty
+miles. The average distances at which they are used are from five to
+eight miles. The average speed of the most rapid construction is
+reported to be at the rate of a slow walk.
+
+At the first Battle of Fredericksburg field-trains were for the first
+time in the history of the war used on the battle-field, under the fire
+of the enemy's batteries. The movements to be made on the day of that
+battle were of the first magnitude. The movements of the retreat were
+perilous to the whole army. The trains in use contributed something to
+the success of those movements.
+
+Many incidents are recorded of operators accompanying raiding parties
+into the enemy's territory and tapping the telegraph-lines, sometimes
+obtaining valuable information. One is related by the "Selma Rebel." The
+operator at that place was called to his instrument by some one up the
+Tennessee and Alabama Road, who desired information as to the number of
+the forces and supplies at Coosa Bridge. After getting all the
+information he could, regarding the location and strength of the Rebel
+forces, he informed the Selma operator that he was attached to the
+expedition under General Wilson, and that, at that particular time, he
+was stationed with his instruments up a tree near Monticello, in the
+hardest rain he ever saw! Permission being given, he sent a dispatch to
+a young lady in Mobile, and another to a telegraph-operator in the Rebel
+lines, telling him he loved him as much as before the war. After some
+other conversation, the Yankee operator clambered down from the tree,
+mounted his horse, and rode away.
+
+FOOTNOTES:
+
+[E] The Chinese Government has been informed by the Russian Ambassador
+that the Russian portion of this line to Pekin will be completed by the
+first of January, 1868.
+
+
+THE FIELD OF GETTYSBURG.
+
+
+In the month of August, 1865, I set out to visit some of the scenes of
+the great conflict through which the country has lately passed.
+
+On the twelfth, I reached Harrisburg,--a plain, prosaic town of brick
+and wood, with nothing especially attractive about it, except its
+broad-sheeted, shining river, flowing down from the Blue Ridge, around
+wooded islands, and between pleasant shores.
+
+It is in this region that the traveller from the North first meets with
+indications of recent actual war. The Susquehanna, on the eastern shore
+of which the city stands, forms the northern limit of Rebel military
+operations. The "highwater mark of the Rebellion" is here: along these
+banks its uttermost ripples died. The bluffs opposite the town are still
+crested with the hastily constructed breastworks, on which the citizens
+worked night and day in the pleasant month of June, 1863, throwing up,
+as it were, a dike against the tide of invasion. These defences were of
+no practical value. They were unfinished when the Rebels appeared in
+force in the vicinity. Harrisburg might easily have been taken, and a
+way opened into the heart of the North. But a Power greater than man's
+ruled the event. The Power that lifted these azure hills, and spread out
+the green valleys, and hollowed a passage for the stream, appointed to
+treason also a limit and a term. "Thus far, and no farther."
+
+The surrounding country is full of lively reminiscences of those
+terrible times. Panic-stricken populations flying at the approach of the
+enemy; whole families fugitive from homes none thought of defending;
+flocks and herds, horses, wagon-loads of promiscuously heaped household
+stuffs and farm produce; men, women, children, riding, walking, running,
+driving or leading their bewildered four-footed chattels,--all rushing
+forward with clamor and alarm under clouds of dust, crowding every road
+to the river, and thundering across the long bridges regardless of the
+"five-dollars-fine" notice (though it is to be hoped that the
+toll-takers did their duty):--such were the scenes which occurred to
+render the Rebel invasion memorable. The thrifty German farmers of the
+lower counties did not gain much credit either for courage or patriotism
+at that time. It was a panic, however, to which almost any community
+would have been liable. Stuart's famous raid of the previous year was
+well remembered. If a small cavalry force had swept from their track
+through a circuit of about sixty miles over two thousand horses, what
+was to be expected from Lee's whole army? Resistance to the formidable
+advance of one hundred thousand disciplined troops was of course out of
+the question. The slowness, however, with which the people responded to
+the State's almost frantic calls for volunteers was in singular contrast
+with the alacrity each man showed to run off his horses and get his
+goods out of Rebel reach.
+
+From Harrisburg, I went, by the way of York and Hanover, to Gettysburg.
+Having hastily secured a room at a hotel in the Square, (the citizens
+call it the "Di'mond,") I inquired the way to the battle-ground.
+
+"You are on it now," said the landlord, with proud satisfaction,--for
+it is not every man that lives, much less keeps a tavern, on the field
+of a world-famous fight. "I tell you the truth," said he; and, in proof
+of his words, (as if the fact were too wonderful to be believed without
+proof,) he showed me a Rebel shell imbedded in the brick wall of a house
+close by. (N. B. The battle-field was put into the bill.)
+
+Gettysburg is the capital of Adams County: a town of about three
+thousand souls,--or fifteen hundred, according to John Burns, who
+assured me that half the population were Copperheads, and that they had
+no souls. It is pleasantly situated on the swells of a fine undulating
+country, drained by the headwaters of the Monocacy. It has no special
+natural advantages,--owing its existence, probably, to the mere fact
+that several important roads found it convenient to meet at this point,
+to which accident also is due its historical renown. The circumstance
+which made it a burg made it likewise a battle-field.
+
+About the town itself there is nothing very interesting. It consists
+chiefly of two-story houses of wood and brick, in dull rows, with
+thresholds but little elevated above the street. Rarely a front yard or
+blooming garden-plot relieves the dreary monotony. Occasionally there is
+a three-story house, comfortable, no doubt and sufficiently expensive,
+about which the one thing remarkable is the total absence of taste in
+its construction. In this respect Gettysburg is but a fair sample of a
+large class of American towns, the builders of which seem never once to
+have been conscious that there exists such a thing as beauty.
+
+John Burns, known as "the hero of Gettysburg," was almost the first
+person whose acquaintance I made. He was sitting under the thick shade
+of an English elm in front of the tavern. The landlord introduced him as
+"the old man who took his gun and went into the first day's fight." He
+rose to his feet and received me with sturdy politeness,--his evident
+delight in the celebrity he enjoys twinkling through the veil of a
+naturally modest demeanor.
+
+"John will go with you and show you the different parts of the
+battle-ground," said the landlord. "Will you, John?"
+
+"Oh, yes, I'll go," said John, quite readily; and we set out at once.
+
+A mile south of the town is Cemetery Hill, the head and front of an
+important ridge, running two miles farther south to Round Top,--the
+ridge held by General Meade's army during the great battles. The Rebels
+attacked on three sides,--on the west, on the north, and on the east;
+breaking their forces in vain upon this tremendous wedge, of which
+Cemetery Hill may be considered the point. A portion of Ewell's Corps
+had passed through the town several days before, and neglected to secure
+that very commanding position. Was it mere accident, or something more,
+which thus gave the key to the country into our hands, and led the
+invaders, alarmed by Meade's vigorous pursuit, to fall back and fight
+the decisive battle here?
+
+With the old "hero" at my side pointing out the various points of
+interest, I ascended Cemetery Hill. The view from the top is beautiful
+and striking. On the north and east is spread a finely variegated farm
+country; on the west, with woods and valleys and sunny slopes between,
+rise the summits of the Blue Ridge.
+
+It was a soft and peaceful summer day. There was scarce a sound to break
+the stillness, save the shrill note of the locust, and the perpetual
+click-click of the stone-cutters, at work upon the granite headstones of
+the soldiers' cemetery. There was nothing to indicate to a stranger that
+so tranquil a spot had ever been a scene of strife. We were walking in
+the time-hallowed place of the dead, by whose side the martyr-soldiers,
+who fought so bravely and so well on those terrible first days of July,
+slept as sweetly and securely as they.
+
+"It don't look here as it did after the battle," said John Burns. "Sad
+work was made with the tombstones. The ground was all covered with dead
+horses, and broken wagons, and pieces of shells, and battered muskets,
+and everything of that kind, not to speak of the heaps of dead." But
+now the tombstones have been replaced, the neat iron fences have been
+mostly repaired, and scarcely a vestige of the fight remains. Only the
+burial-places of the slain are there. _Thirty-five hundred and sixty
+slaughtered Union soldiers lie on the field of Gettysburg._ This number
+does not include those whose bodies have been claimed by friends and
+removed.
+
+The new cemetery, devoted to the patriot slain, and dedicated with
+fitting ceremonies on the 19th of November, 1863, adjoins the old one.
+In the centre is the spot reserved for the monument, the corner-stone of
+which was laid on the 4th of July, 1865. The cemetery is semicircular,
+in the form of an amphitheatre, except that the slope is reversed, the
+monument occupying the highest place. The granite headstones resemble
+rows of semicircular seats. Side by side, with two feet of ground
+allotted to each, and with their heads towards the monument, rest the
+three thousand five hundred and sixty. The name of each, when it could
+be ascertained, together with the number of the company and regiment in
+which he served, is lettered on the granite at his head. But the
+barbarous practice of stripping such of our dead as fell into their
+hands, in which the Rebels indulged here as elsewhere, rendered it
+impossible to identify large numbers. The headstones of these are
+lettered, "Unknown." At the time when I visited the cemetery, the
+sections containing most of the unknown had not yet received their
+headstones, and their resting-places were indicated by a forest of
+stakes. I have seen few sadder sights.
+
+The spectacle of so large a field crowded with the graves of the slain
+brings home to the heart an overpowering sense of the horror and
+wickedness of war. Yet, as I have said, not all our dead are here. None
+of the Rebel dead are here. Not one of those who fell on other fields,
+or died in hospitals and prisons in those States where the war was
+chiefly waged,--not one out of those innumerable martyred hosts lies on
+this pleasant hill. The bodies of once living and brave men, slowly
+mouldering to dust in this sanctified soil, form but a small, a single
+sheaf from that great recent harvest reaped by Death with the sickle of
+war.
+
+Once living and brave! How full of life, how full of unflinching courage
+and fiery zeal, they marched up hither to fight the great fight, and to
+give their lives! And each man had his history; each soldier resting
+here had his interests, his loves, his darling hopes, the same as you or
+I. All were laid down with his life. It was no trifle to him, it was as
+great a thing to him as it would be to you, thus to be cut off from all
+things dear in this world, and to drop at once into a vague eternity.
+Grown accustomed to the waste of life through years of war, we learn to
+think too lightly of such sacrifices. "So many killed,"--with that brief
+sentence we glide over the unimaginably fearful fact, and pass on to
+other details. We indulge in pious commonplaces,--"They have gone to a
+better world, they have their reward," and the like. No doubt this is
+true; if not, then life is a mockery, and hope a lie. But the future,
+with all our faith, is vague and uncertain. It lies before us like one
+of those unidentified heroes, hidden from sight, deep-buried,
+mysterious, its headstone lettered "Unknown." Will it ever rise? Through
+trouble, toils, and privations,--not insensible to danger, but braving
+it,--these men--and not these only, but the uncounted thousands
+represented by these--confronted, for their country's sake, that awful
+uncertainty. Did they believe in your better world? Whether they did or
+not, this world was a reality, and dear to them.
+
+I looked into one of the trenches in which workmen were laying
+foundations for the headstones, and saw the ends of the coffins
+protruding. It was silent and dark down there. Side by side the soldiers
+slept, as side by side they fought. I chose out one coffin from among
+the rest, and thought of him whose dust it contained,--your brother and
+mine, although we never knew him. I thought of him as a child, tenderly
+reared--for this. I thought of his home, his heart-life:--
+
+    "Had he a father?
+      Had he a mother?
+    Had he a sister?
+      Had he a brother?
+    Or was there a nearer one
+    Still, and a dearer one
+      Yet, than all other?"
+
+I could not know: in this world, none will ever know. He sleeps with the
+undistinguishable multitude, and his headstone is lettered, "Unknown."
+
+Eighteen loyal States are represented by the tenants of these graves.
+New York has the greatest number,--upwards of eight hundred;
+Pennsylvania comes next in order, having upwards of five hundred. Tall
+men from Maine, young braves from Wisconsin, heroes from every state
+between, met here to defend their country and their homes. Sons of
+Massachusetts fought for Massachusetts on Pennsylvania soil. If they had
+not fought, or if our armies had been annihilated there, the whole North
+would have been at the mercy of Lee's victorious legions. As Cemetery
+Hill was the pivot on which turned the fortunes of the battle, so
+Gettysburg itself was the pivot on which turned the destiny of the
+nation. Here the power of aggressive treason culminated; and from that
+memorable Fourth of July when the Rebel invaders, beaten in the three
+days' previous fight, stole away down the valleys and behind the
+mountains on their ignominious retreat,--from that day, signalized also
+by the fall of Vicksburg in the West, it waned and waned, until it was
+swept from the earth.
+
+Cemetery Hill should be the first visited by the tourist of the
+battle-ground. Here a view of the entire field, and a clear
+understanding of the military operations of the three days, are best
+obtained. Looking north, away on your left lies Seminary Ridge, the
+scene of the first day's fight, in which the gallant Reynolds fell, and
+from which our troops were driven back in confusion through the town by
+overwhelming numbers, in the afternoon. Farther south spread the
+beautiful woods and vales that swarmed with Rebels on the second and
+third day, and from which they made such desperate charges upon our
+lines. On the right as you stand is Culp's Hill, the scene of Ewell's
+furious, but futile, attempts to flank us there. You are in the focus of
+a half-circle, from all points of which was poured in upon this now
+silent hill such an artillery fire as has seldom been concentrated upon
+one point of an open field in any of the great battles upon this planet.
+From this spot extend your observations as you please.
+
+Guided by the sturdy old man, I proceeded first to Culp's Hill,
+following a line of breastworks into the woods. Here are seen some of
+the soldiers' devices hastily adopted for defence. A rude embankment of
+stakes and logs and stones, covered with earth, forms the principal
+work; aside from which you meet with little private breastworks, as it
+were, consisting of rocks heaped up by the trunk of a tree, or beside a
+larger rock, or across a cleft in the rocks, where some sharpshooter
+stood and exercised his skill at his ease.
+
+The woods are of oak chiefly, but with a liberal sprinkling of chestnut,
+black-walnut, hickory, and other common forest-trees. Very beautiful
+they were that day, with their great, silent trunks, all so friendly,
+their clear vistas and sun-spotted spaces. Beneath reposed huge, sleepy
+ledges and boulders, their broad backs covered with lichens and old
+moss. A more fitting spot for a picnic, one would say, than for a
+battle.
+
+Yet here remain more astonishing evidences of fierce fighting than
+anywhere else about Gettysburg. The trees in certain localities are all
+seamed, disfigured, and literally dying or dead from their wounds. The
+marks of balls in some of the trunks are countless. Here are limbs, and
+yonder are whole tree-tops, cut off by shells. Many of these trees have
+been hacked for lead, and chips containing bullets have been carried
+away for relics.
+
+Past the foot of the hill runs Rock Creek, a muddy, sluggish stream,
+"great for eels," said John Burns. Big boulders and blocks of stone lie
+scattered along its bed. Its low shores are covered with thin grass,
+shaded by the forest-trees. Plenty of Rebel knapsacks and haversacks lie
+rotting upon the ground; and there are Rebel graves in the woods near
+by. By these I was inclined to pause longer than John Burns thought it
+worth the while. I felt a pity for these unhappy men which he could not
+understand. To him they were dead Rebels, and nothing more; and he spoke
+with great disgust of an effort which had been made by certain
+"Copperheads" of the town to have all the buried Rebels, now scattered
+about in the woods and fields, gathered together in a cemetery near that
+dedicated to our own dead.
+
+"Yet consider, my friend," I said, "though they were altogether in the
+wrong, and their cause was infernal, these, too, were brave men; and
+under different circumstances, with no better hearts than they had, they
+might have been lying in honored graves up yonder, instead of being
+buried in heaps, like dead cattle, down here."
+
+Is there not a better future for these men also? The time will come when
+we shall at least cease to hate them.
+
+The cicada was singing, insects were humming in the air, crows were
+cawing in the tree-tops, the sunshine slept on the boughs or nestled in
+the beds of brown leaves on the ground,--all so pleasant and so pensive,
+I could have passed the day there. But John reminded me that night was
+approaching, and we returned to Gettysburg.
+
+That evening I walked alone to Cemetery Hill to see the sun set behind
+the Blue Ridge. A quiet prevailed there still more profound than during
+the day. The stonecutters had finished their day's work and gone home.
+The katydids were singing, and the shrill, sad chirp of the crickets
+welcomed the cool shades. The sun went down, and the stars came out and
+shone upon the graves,--the same stars which were no doubt shining even
+then upon many a vacant home and mourning heart left lonely by the
+husbands, the fathers, the dear brothers and sons, who fell at
+Gettysburg.
+
+The next morning, according to agreement, I went to call on the old
+hero. I found him living in the upper part of a little whitewashed
+two-story house, on the corner of two streets, west of the town. A
+flight of wooden steps outside took me to his door. He was there to
+welcome me. John Burns is a stoutish, slightly bent, hale old man, with
+a light blue eye, a long, aggressive nose, a firm-set mouth, expressive
+of determination of character, and a choleric temperament. His hair,
+originally dark brown, is considerably bleached with age; and his beard,
+once sandy, covers his face (shaved once or twice a week) with a fine
+crop of silver stubble. A short, massy kind of man; about five feet four
+or five inches in height, I should judge. He was never measured but once
+in his life. That was when he enlisted in the War of 1812. He was then
+nineteen years old, and stood five feet in his shoes. "But I've growed a
+heap since," said the old hero.
+
+He introduced me to his wife, a slow, somewhat melancholy old lady, in
+ill health. "She has been poorly now for a good many years." They have
+no children.
+

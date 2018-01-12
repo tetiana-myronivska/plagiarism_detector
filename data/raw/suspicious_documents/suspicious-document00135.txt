@@ -1,0 +1,1946 @@
+﻿This eBook was produced by David Widger <widger@cecomet.net>
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+AN EGYPTIAN PRINCESS, Part 1.
+
+By Georg Ebers
+
+Volume 1.
+
+
+THE HISTORICAL ROMANCES OF GEORG EBERS
+
+
+Translated from the German by Eleanor Grove
+
+
+PREFACE TO THE SECOND GERMAN EDITION
+
+                    Aut prodesse volunt ant delectare poetae,
+                    Aut simul et jucunda et idonea dicere vitae.
+                              Horat.  De arte poetica v. 333.
+
+It is now four years since this book first appeared before the public,
+and I feel it my duty not to let a second edition go forth into the world
+without a few words of accompaniment.  It hardly seems necessary to
+assure my readers that I have endeavored to earn for the following pages
+the title of a "corrected edition."  An author is the father of his book,
+and what father could see his child preparing to set out on a new and
+dangerous road, even if it were not for the first time, without
+endeavoring to supply him with every good that it lay in his power to
+bestow, and to free him from every fault or infirmity on which the world
+could look unfavorably?  The assurance therefore that I have repeatedly
+bestowed the greatest possible care on the correction of my Egyptian
+Princess seems to me superfluous, but at the same time I think it
+advisable to mention briefly where and in what manner I have found it
+necessary to make these emendations.  The notes have been revised,
+altered, and enriched with all those results of antiquarian research
+(more especially in reference to the language and monuments of ancient
+Egypt) which have come to our knowledge since the year 1864, and which
+my limited space allowed me to lay before a general public.  On the
+alteration of the text itself I entered with caution, almost with
+timidity; for during four years of constant effort as academical tutor,
+investigator and writer in those severe regions of study which exclude
+the free exercise of imagination, the poetical side of a man's nature may
+forfeit much to the critical; and thus, by attempting to remodel my tale
+entirely, I might have incurred the danger of removing it from the more
+genial sphere of literary work to which it properly belongs.  I have
+therefore contented myself with a careful revision of the style, the
+omission of lengthy passages which might have diminished the interest of
+the story to general readers, the insertion of a few characteristic or
+explanatory additions, and the alteration of the proper names.  These
+last I have written not in their Greek, but in their Latin forms, having
+been assured by more than one fair reader that the names Ibykus and Cyrus
+would have been greeted by them as old acquaintances, whereas the
+"Ibykos" and "Kyros" of the first edition looked so strange and learned,
+as to be quite discouraging.  Where however the German k has the same
+worth as the Roman c I have adopted it in preference.  With respect to
+the Egyptian names and those with which we have become acquainted through
+the cuneiform inscriptions, I have chosen the forms most adapted to our
+German modes of speech, and in the present edition have placed those few
+explanations which seemed to me indispensable to the right understanding
+of the text, at the foot of the page, instead of among the less easily
+accessible notes at the end.
+
+The fact that displeasure has been excited among men of letters by this
+attempt to clothe the hardly-earned results of severer studies in an
+imaginative form is even clearer to me now than when I first sent this
+book before the public.  In some points I agree with this judgment, but
+that the act is kindly received, when a scholar does not scorn to render
+the results of his investigations accessible to the largest number of the
+educated class, in the form most generally interesting to them, is proved
+by the rapid sale of the first large edition of this work.  I know at
+least of no better means than those I have chosen, by which to instruct
+and suggest thought to an extended circle of readers.  Those who read
+learned books evince in so doing a taste for such studies; but it may
+easily chance that the following pages, though taken up only for
+amusement, may excite a desire for more information, and even gain a
+disciple for the study of ancient history.
+
+Considering our scanty knowledge of the domestic life of the Greeks and
+Persians before the Persian war--of Egyptian manners we know more--even
+the most severe scholar could scarcely dispense with the assistance of
+his imagination, when attempting to describe private life among the
+civilized nations of the sixth century before Christ.  He would however
+escape all danger of those anachronisms to which the author of such a
+work as I have undertaken must be hopelessly liable.  With attention and
+industry, errors of an external character may be avoided, but if I had
+chosen to hold myself free from all consideration of the times in which I
+and my readers have come into the world, and the modes of thought at
+present existing among us, and had attempted to depict nothing but the
+purely ancient characteristics of the men and their times, I should have
+become unintelligible to many of my readers, uninteresting to all, and
+have entirely failed in my original object.  My characters will therefore
+look like Persians, Egyptians, &c., but in their language, even more than
+in their actions, the German narrator will be perceptible, not always
+superior to the sentimentality of his day, but a native of the world in
+the nineteenth century after the appearance of that heavenly Master,
+whose teaching left so deep an impression on human thought and feeling.
+
+The Persians and Greeks, being by descent related to ourselves, present
+fewer difficulties in this respect than the Egyptians, whose dwelling-
+place on the fruitful islands won by the Nile from the Desert, completely
+isolated them from the rest of the world.
+
+To Professor Lepsius, who suggested to me that a tale confined entirely
+to Egypt and the Egyptians might become wearisome, I owe many thanks; and
+following his hint, have so arranged the materials supplied by Herodotus
+as to introduce my reader first into a Greek circle.  Here he will feel
+in a measure at home, and indeed will entirely sympathize with them on
+one important point, viz.: in their ideas on the Beautiful and on Art.
+Through this Hellenic portico he reaches Egypt, from thence passes on to
+Persia and returns finally to the Nile.  It has been my desire that the
+three nations should attract him equally, and I have therefore not
+centred the entire interest of the plot in one hero, but have endeavored
+to exhibit each nation in its individual character, by means of a fitting
+representative.  The Egyptian Princess has given her name to the book,
+only because the weal and woe of all my other characters were decided by
+her fate, and she must therefore be regarded as the central point of the
+whole.
+
+In describing Amasis I have followed the excellent description of
+Herodotus, which has been confirmed by a picture discovered on an ancient
+monument.  Herodotus has been my guide too in the leading features of
+Cambyses' character; indeed as he was born only forty or fifty years
+after the events related, his history forms the basis of my romance.
+
+"Father of history" though he be, I have not followed him blindly, but,
+especially in the development of my characters, have chosen those paths
+which the principles of psychology have enabled me to lay down for
+myself, and have never omitted consulting those hieroglyphic and
+cuneiform inscriptions which have been already deciphered.  In most cases
+these confirm the statements of Herodotus.
+
+I have caused Bartja's murder to take place after the conquest of Egypt,
+because I cannot agree with the usually received translation of the
+Behistun inscription.  This reads as follows: "One named Cambujiya, son
+of Curu, of our family, was king here formerly and had a brother named
+Bartiya, of the same father and the same mother as Cambujiya.  Thereupon
+Cambujiya killed that Bartiya."  In a book intended for general readers,
+it would not be well to enter into a discussion as to niceties of
+language, but even the uninitiated will see that the word "thereupon" has
+no sense in this connection.  In every other point the inscription agrees
+with Herodotus' narrative, and I believe it possible to bring it into
+agreement with that of Darius on this last as well; but reserve my proofs
+for another time and place.
+
+It has not been ascertained from whence Herodotus has taken the name
+Smerdis which he gives to Bartja and Gaumata.  The latter occurs again,
+though in a mutilated form, in Justin.
+
+My reasons for making Phanes an Athenian will be found in Note 90. Vol.
+I.  This coercion of an authenticated fact might have been avoided in the
+first edition, but could not now be altered without important changes in
+the entire text.  The means I have adopted in my endeavor to make Nitetis
+as young as possible need a more serious apology; as, notwithstanding
+Herodotus' account of the mildness of Amasis' rule, it is improbable that
+King Hophra should have been alive twenty years after his fall.  Even
+this however is not impossible, for it can be proved that his descendants
+were not persecuted by Amasis.
+
+On a Stela in the Leyden Museum I have discovered that a certain Psamtik,
+a member of the fallen dynasty, lived till the 17th year of Amasis'
+reign, and died at the age of seventy-five.
+
+Lastly let me be permitted to say a word or two in reference to Rhodopis.
+That she must have been a remarkable woman is evident from the passage in
+Herodotus quoted in Notes 10, and 14, Vol. I., and from the accounts
+given by many other writers.  Her name, "the rosy-cheeked one," tells us
+that she was beautiful, and her amiability and charm of manner are
+expressly praised by Herodotus.  How richly she was endowed with gifts
+and graces may be gathered too from the manner in which tradition and
+fairy lore have endeavored to render her name immortal.  By many she is
+said to have built the most beautiful of the Pyramids, the Pyramid of
+Mycerinus or Menkera.  One tale related of her and reported by Strabo and
+AElian probably gave rise to our oldest and most beautiful fairy tale,
+Cinderella; another is near akin to the Loreley legend.  An eagle,
+according to AElian--the wind, in Strabo's tale,--bore away Rhodopis'
+slippers while she was bathing in the Nile, and laid them at the feet of
+the king, when seated on his throne of justice in the open market.  The
+little slippers so enchanted him that he did not rest until he had
+discovered their owner and made her his queen.
+
+The second legend tells us how a wonderfully beautiful naked woman could
+be seen sitting on the summit of one of the pyramids (ut in una ex
+pyramidibus); and how she drove the wanderers in the desert mad through
+her exceeding loveliness.
+
+Moore borrowed this legend and introduces it in the following verse:
+
+              "Fair Rhodope, as story tells--
+               The bright unearthly nymph, who dwells
+               'Mid sunless gold and jewels hid,
+               The lady of the Pyramid."
+
+Fabulous as these stories sound, they still prove that Rhodopis must have
+been no ordinary woman.  Some scholars would place her on a level with
+the beautiful and heroic Queen Nitokris, spoken of by Julius Africanus,
+Eusebius and others, and whose name, (signifying the victorious Neith)
+has been found on the monuments, applied to a queen of the sixth dynasty.
+This is a bold conjecture; it adds however to the importance of our
+heroine; and without doubt many traditions referring to the one have been
+transferred to the other, and vice versa.  Herodotus lived so short a
+time after Rhodopis, and tells so many exact particulars of her private
+life that it is impossible she should have been a mere creation of
+fiction.  The letter of Darius, given at the end of Vol. II., is intended
+to identify the Greek Rhodopis with the mythical builder of the Pyramid.
+I would also mention here that she is called Doricha by Sappho.  This may
+have been her name before she received the title of the "rosy-cheeked
+one."
+
+I must apologize for the torrent of verse that appears in the love-scenes
+between Sappho and Bartja; it is also incumbent upon me to say a few
+words about the love-scenes themselves, which I have altered very
+slightly in the new edition, though they have been more severely
+criticised than any other portion of the work.
+
+First I will confess that the lines describing the happy love of a
+handsome young couple to whom I had myself become warmly attached, flowed
+from my pen involuntarily, even against my will (I intended to write a
+novel in prose) in the quiet night, by the eternal Nile, among the palms
+and roses.  The first love-scene has a story of its own to me.  I wrote
+it in half an hour, almost unconsciously.  It may be read in my book that
+the Persians always reflected in the morning, when sober, upon the
+resolutions formed the night before, while drunk.  When I examined in the
+sunshine what had come into existence by lamplight, I grew doubtful of
+its merits, and was on the point of destroying the love-scenes
+altogether, when my dear friend Julius Hammer, the author of "Schau in
+Dich, und Schau um Dich," too early summoned to the other world by death,
+stayed my hand.  Their form was also approved by others, and I tell
+myself that the 'poetical' expression of love is very similar in all
+lands and ages, while lovers' conversations and modes of intercourse vary
+according to time and place.  Besides, I have to deal with one of those
+by no means rare cases, where poetry can approach nearer the truth than
+prudent, watchful prose.  Many of my honored critics have censured these
+scenes; others, among whom are some whose opinion I specially value, have
+lavished the kindest praise upon them.  Among these gentlemen I will
+mention A. Stahr, C. V. Holtei, M. Hartmann, E. Hoefer, W. Wolfsohn, C.
+Leemans, Professor Veth of Amsterdam, etc.  Yet I will not conceal the
+fact that some, whose opinion has great weight, have asked: "Did the
+ancients know anything of love, in our sense of the word?  Is not
+romantic love, as we know it, a result of Christianity?"  The following
+sentence, which stands at the head of the preface to my first edition,
+will prove that I had not ignored this question when I began my task.
+
+     "It has often been remarked that in Cicero's letters and those of
+     Pliny the younger there are unmistakeable indications of sympathy
+     with the more sentimental feeling of modern days.  I find in them
+     tones of deep tenderness only, such as have arisen and will arise
+     from sad and aching hearts in every land and every age."
+
+                              A. v. HUMBOLDT.  Cosmos II. P. 19.
+
+This opinion of our great scholar is one with which I cheerfully coincide
+and would refer my readers to the fact that love-stories were written
+before the Christian era: the Amor and Psyche of Apuleius for instance.
+Indeed love in all its forms was familiar to the ancients.  Where can we
+find a more beautiful expression of ardent passion than glows in Sappho's
+songs?  or of patient faithful constancy than in Homer's Penelope?  Could
+there be a more beautiful picture of the union of two loving hearts, even
+beyond the grave, than Xenophon has preserved for us in his account of
+Panthea and Abradatas? or the story of Sabinus the Gaul and his wife,
+told in the history of Vespasian?  Is there anywhere a sweeter legend
+than that of the Halcyons, the ice-birds, who love one another so
+tenderly that when the male becomes enfeebled by age, his mate carries
+him on her outspread wings whithersoever he will; and the gods, desiring
+to reward such faithful love, cause the sun to shine more kindly, and
+still the winds and waves on the "Halcyon days" during which these birds
+are building their nest and brooding over their young?  There can surely
+have been no lack of romantic love in days when a used-up man of the
+world, like Antony, could desire in his will that wherever he died his
+body might be laid by the side of his beloved Cleopatra: nor of the
+chivalry of love when Berenice's beautiful hair was placed as a
+constellation in the heavens.  Neither can we believe that devotion in
+the cause of love could be wanting when a whole nation was ready to wage
+a fierce and obstinate war for the sake of one beautiful woman.  The
+Greeks had an insult to revenge, but the Trojans fought for the
+possession of Helen.  Even the old men of Ilium were ready "to suffer
+long for such a woman."  And finally is not the whole question answered
+in Theocritus' unparalleled poem, "the Sorceress?"  We see the poor love-
+lorn girl and her old woman-servant, Thestylis, cowering over the fire
+above which the bird supposed to possess the power of bringing back the
+faithless Delphis is sitting in his wheel.  Simoetha has learnt many
+spells and charms from an Assyrian, and she tries them all.  The distant
+roar of the waves, the stroke rising from the fire, the dogs howling in
+the street, the tortured fluttering bird, the old woman, the broken-
+hearted girl and her awful spells, all join in forming a night scene the
+effect of which is heightened by the calm cold moonshine.  of arable in
+the world is also still good wheat, often referred to as the weed grows
+darzwischen. I blame not the use of different stuff, but the abuse.
+I would also like know of many more vices and abuses can write, just the
+time, and the Betrübniß on tödtlichen Hintrit my seel. Mother made me
+discouraged. Most people, and particularly the women's room, have the
+nasty use of the Bey müsigen hours on other people beyderley of
+sex, often even minor weaknesses, fashions, Geberden, customs and
+stop action.
+
+                              Now such people, and
+               especially my gender to make me equal, and
+               only they do not make Vorwurff to leave,
+               so I will also allhier on other people, and so may not be cross
+with sex, so well on the man = person than on the women's room, but
+not to a mob-like, kind of vile and childish, but so much to me
+possible, and in a serious way in the following lines moquiren.
+beholder So you, my readers!
+
+these letters, and you are virtuous, so you will be with my Gedancken
+match, and no deßwegen hatred and anger towards me throw.
+
+                                                  Are
+               you with but one or the other vices it, not
+               so angry about me. What Wilster you about the
+               mirror that shows you your spots, and the
+               master who has honed it, are evil. You
+               ashamed of your self-made stains you, and
+               be on your bad habit muthwillige bad. You kanst in.
+
+I do not avenge it better than if you store your Thorheiten and besserst
+you and me afterwards, as those who are virtuous warhaft, weighed wilt and
+remain, as why you and I kindly ask all people. The faunas of which lashed
+vise of Sidonia Hedwig fences Once ReGet man on the train almost
+choked, that what I otherwise shied away from winning jetzo I love,
+that what I just made fear, it does not succeed Bißher back, I jetzo
+sing. Caliope! thy pipe, thy gentle Sayten = Game, The charmed me
+stopped, and gods wohlgefiel Mag ruhn there in the corner: a satyr
+is spühren. The aim me at your take on the Pindus lead. My god! it
+otherwise, and Grass heßlich Seyde; Before whose presence the women =
+Volcker is shy, and shy and flees runs as if a murderer came to
+them with violence Kranz, jewelry and lose lives.
+
+                   Seyde your pleasure and now my
+                    favorite focus . Here you have
+                    my hand, come! leads
+                    me to the mountain, Where Phoebus
+                    and his people in the
+                    laurel forest dance.
+                    Come on! let me by you
+                    my happiness Bey planting them.
+
+Sezt your feet nice to me today and let's see if your jumps so
+artificially, as former geschehn. Spielt just so good you can, or at
+Pfeiffer Flöthen. You may, because you already roth , Do not dabey
+erröhten.
+
+                   On! makes me a pleasure! and also
+                    to the Muses = Lord, And sings the
+                    world Trutz who have the teeth knirst.
+                    Oh! Alas! what I see there? My folly
+                    has not lied, a gray storm ways; the point with a flash and bang
+withdrawn.
+
+                    The air is darkened, the sun
+                    loses the note, The song of the
+                    earth the air sirens.
+
+The cattle running back and forth, it schreyt, it trembles, it trembles,
+It Seek branch and protection, so cruel dieweils senses. The earth trembles
+and cracks, and the mountains almost wancken, And make the case taken
+with their beauty. The thunder continued to roll, and roar from dermasen
+as wolter them to the world blow to fall. Now the bristle Wolk entzwey,
+and suggests Loss Once, Was it hard bißher forced Schooß And in their
+body has taken, making it LEYDER! come, that thunder, lightning, and the
+fear Erdkreiß received.
+
+                   But what is probably because of clouds and
+                    air down, how? ists a Güldner
+                    Thau Hammon there were? are fish
+                    that are here in this Fluth move? It
+                    is so, like me, seems not
+                    bad, meaner rain.
+
+Seyn vermin reserves, the field and forest poison and damage and
+deterioration on the mountain and stift meadows?
+
+                   So ists: but much more: it is a human = rain.
+                    Come on Pluto! Come and see! o what a
+                    beautiful Seeger! Jupiter felt fear,
+                    pain, Quaal and North, as his heated brow, and as a fire-red,
+bloated and had jumped out eh Pallas, What wonder if the cloud Diess
+army so stocky, And ye shall Quaal great balance and has made it
+bite by bang and flash Diess mischief away.
+
+Who needs it Anherr Seyn? how are they organized? As the so Phrygia Bey
+managed Güldner time. Not otherwise; Midas needs her father, older = Seyn.
+To see mans ears yes, the voice works. A nation which is at the
+weak mind gleichet children. At Boßheit but hardly the devil himself
+weichet.
+
+Diess people covered the world, and the beard which is emblazoned, gnug
+Shows how much it has to power and strength gained. Yes forces in the
+thumb, but not in brains, with wrinkles Boßheit grows at the same time
+in the forehead.
+I returned long since from the
+journey to the Nile, for which I was preparing while correcting the
+proof-sheets of the third edition, and on which I can look back with
+special satisfaction.  During my residence in Egypt, in 1872-73, a lucky
+accident enabled me to make many new discoveries; among them one treasure
+of incomparable value, the great hieratic manuscript, which bears my
+name.  Its publication has just been completed, and it is now in the
+library of the Leipzig University.
+
+The Papyrus Ebers, the second in size and the best preserved of all the
+ancient Egyptian manuscripts which have come into our possession, was
+written in the 16th century B. C., and contains on 110 pages the hermetic
+book upon the medicines of the ancient Egyptians, known also to the
+Alexandrine Greeks.  The god Thoth (Hermes) is called "the guide" of
+physicians, and the various writings and treatises of which the work is
+composed are revelations from him.  In this venerable scroll diagnoses
+are made and remedies suggested for the internal and external diseases of
+most portions of the human body.  With the drugs prescribed are numbers,
+according to which they are weighed with weights and measured with hollow
+measures, and accompanying the prescriptions are noted the pious axioms
+to be repeated by the physician, while compounding and giving them to the
+patient.  On the second line of the first page of our manuscript, it is
+stated that it came from Sais.  A large portion of this work is devoted
+to the visual organs.  On the twentieth line of the fifty-fifth page
+begins the book on the eyes, which fills eight large pages.  We were
+formerly compelled to draw from Greek and Roman authors what we knew
+about the remedies used for diseases of the eye among the ancient
+Egyptians.  The portion of the Papyrus Ebers just mentioned is now the
+only Egyptian source from whence we can obtain instruction concerning
+this important branch of ancient medicine.
+
+All this scarcely seems to have a place in the preface of a historical
+romance, and yet it is worthy of mention here; for there is something
+almost "providential" in the fact that it was reserved for the author of
+"An Egyptian Princess" to bestow the gift of this manuscript upon the
+scientific world.  Among the characters in the novel the reader will meet
+an oculist from Sais, who wrote a book upon the diseases of the visual
+organs.  The fate of this valuable work exactly agrees with the course of
+the narrative.  The papyrus scroll of the Sais oculist, which a short
+time ago existed only in the imagination of the author and readers of "An
+Egyptian Princess," is now an established fact.  When I succeeded in
+bringing the manuscript home, I felt like the man who had dreamed of a
+treasure, and when he went out to ride found it in his path.
+
+A reply to Monsieur Jules Soury's criticism of "An Egyptian Princess" in
+the Revue des deux Mondes, Vol. VII, January 1875, might appropriately be
+introduced into this preface, but would scarcely be possible without
+entering more deeply into the ever-disputed question, which will be
+answered elsewhere, whether the historical romance is ever justifiable.
+Yet I cannot refrain from informing Monsieur Soury here that "An Egyptian
+Princess" detained me from no other work.  I wrote it in my sick-room,
+before entering upon my academic career, and while composing it, found
+not only comfort and pleasure, but an opportunity to give dead scientific
+material a living interest for myself and others.
+
+Monsieur Soury says romance is the mortal enemy of history; but this
+sentence may have no more justice than the one with which I think myself
+justified in replying: Landscape painting is the mortal enemy of botany.
+The historical romance must be enjoyed like any other work of art.  No
+one reads it to study history; but many, the author hopes, may be aroused
+by his work to make investigations of their own, for which the notes
+point out the way.  Already several persons of excellent mental powers
+have been attracted to earnest Egyptological researches by "An Egyptian
+Princess."  In the presence of such experiences, although Monsieur
+Soury's clever statements appear to contain much that is true, I need not
+apply his remark that "historical romances injure the cause of science"
+to the present volume.
+
+          how is your gender so wonderfully propagated, how high it raises
+you how much you are revered.
+
+                                        Dießen your heated referendum prohibits the poets, That they in
+their pipe and nettgestimmten Flöthen Nothing sing, according to
+art and morals = Teaching tastes, and how Apollo then awakens favor
+of the gods.
+
+The Warheit will not tolerate in their writings, Man, and directed
+them punisheth Ohn cheap fault.
+
+O you surprised me! so much that are rich in spirit, And in the chair
+of Schöppe = Advocaten Wind And their Scoffers = Kiel, insult opponents,
+Persohn The error of the mouth and nose = = hulls, gear, clothes, youth
+= lust, and what the like more, with very serene and cheerful voices
+heard, And lächlender shape so clever you can tolerate. They suffer
+without Scheubeck zwey that run together, And even if the client
+Wehmuth and annoyances, well more than twenty sheets must otherwise
+pay.
+
+Dießen is still not enough it is a wonder any, When the heated
+blood to schools and Catheder Of bickers immodest, and the main purpose
+is, of envy and blame the opponent for Addiction beisend schmäht, So you
+can hear too frisky, and can be unconcerned. Writes but a poet, how the
+world is worse, And as the vice grows, so you can see darzu Scheel, And
+makes great envy from the poet no Ruh Whether Orthodox already on the show
+= square, and by the fierce enemies of the keel fortunate cases, such as
+some philosopher, as some moralist, in which a pure fire, mind and whiteness
+is, Did the morals = gnug written satirical art, And yet they are
+always in Ruh and Friedhelm remained. In prose fluchet man of morals
+= teaching; Poor Poetry is Ohn forensic interrogation. One
+speaker, a poet has learned Orders, And beyde have already been to
+moralists. Everyone loves and honors the rules of nature; A follow
+any yes light of virtue and Spuhr, And shows the truck = train, and searches
+the world for profit. Only the poet can almost sit quietly niemahls.
+At this great nature and cheekier rarity, the lively rhyme Giebt
+unlikely opportunity; No, but the reason is not yet ausgeheitert
+Because the whiteness of light in they are not extended to virtue because
+they never recognized in its splendor; Because most of the time to use
+deceit and cunning; Because her father's spirit on them zweyfach is
+located, I think, Midas sense that they are so highly vergnüget; Yes
+his head jewelry , they also inherited the spirit of this nation
+has darkened and depraved.
+
+     Now as the symbol of heart and ear and mouth spoiled, And virtue
+and reason in their breasts erstorben, What miracle?
+
+                                   Diess people that hates Satyr and shy, And your morals = teaching
+with curse and Grimme dräut.
+
+O!
+
+The luxuriant corn-fields and blooming
+gardens on its shores were lost beneath a boundless waste of waters; and
+only the gigantic temples and palaces of its cities, (protected from the
+force of the water by dikes), and the tops of the tall palm-trees and
+acacias could be seen above its surface.  The branches of the sycamores
+and plane-trees drooped and floated on the waves, but the boughs of the
+tall silver poplars strained upward, as if anxious to avoid the watery
+world beneath.  The full-moon had risen; her soft light fell on the
+Libyan range of mountains vanishing on the western horizon, and in the
+north the shimmer of the Mediterranean could faintly be discerned.  Blue
+and white lotus-flowers floated on the clear water, bats of all kinds
+darted softly through the still air, heavy with the scent of acacia-
+blossom and jasmine; the wild pigeons and other birds were at roost in
+the tops of the trees, while the pelicans, storks and cranes squatted in
+groups on the shore under the shelter of the papyrus-reeds and Nile-
+beans.  The pelicans and storks remained motionless, their long bills
+hidden beneath their wings, but the cranes were startled by the mere beat
+of an oar, stretching their necks, and peering anxiously into the
+distance, if they heard but the song of the boatmen.  The air was
+perfectly motionless, and the unbroken reflection of the moon, lying like
+a silver shield on the surface of the water, proved that, wildly as the
+Nile leaps over the cataracts, and rushes past the gigantic temples of
+Upper Egypt, yet on approaching the sea by different arms, he can abandon
+his impetuous course, and flow along in sober tranquillity.
+
+On this moonlight night in the year 528 B. C. a bark was crossing the
+almost currentless Canopic mouth of the Nile.  On the raised deck at the
+stern of this boat an Egyptian was sitting to guide the long pole-rudder,
+and the half-naked boatmen within were singing as they rowed.  In the
+open cabin, which was something like a wooden summer-house, sat two men,
+reclining on low cushions.  They were evidently not Egyptians; their
+Greek descent could be perceived even by the moonlight.  The elder was an
+unusually tall and powerful man of more than sixty; thick grey curls,
+showing very little attempt at arrangement, hung down over his short,
+firm throat; he wore a simple, homely cloak, and kept his eyes gloomily
+fixed on the water.  His companion, on the contrary, a man perhaps twenty
+years younger, of a slender and delicate build, was seldom still.
+Sometimes he gazed into the heavens, sometimes made a remark to the
+steersman, disposed his beautiful purple chlanis in fresh folds, or
+busied himself in the arrangement of his scented brown curls, or his
+carefully curled beard.
+
+     [The chlanis was a light summer-mantle, worn especially by the more
+     elegant Athenians, and generally made of expensive materials.  The
+     simpler cloak, the himation, was worn by the Doric Greeks, and
+     principally by the Spartans.]
+
+The boat had left Naukratis, at that time the only Hellenic port in
+Egypt, about half an hour before.
+
+     [This town, which will form the scene of a part of our tale, lies in
+     the northwest of the Nile Delta, in the Saitic Nomos or district, on
+     the left bank of the Canopic mouth of the river.  According to
+     Strabo and Eusebius it was founded by Milesians, and Bunsen reckons
+     749 B. C.  It seems that in the earliest times Greek ships were only
+     allowed to enter this mouth of the Nile in case of necessity.  The
+     entire intercourse of the Egyptians with the hated strangers was, at
+     that time, restricted to the little island of Pharos lying opposite
+     to the town of Thonis.]
+
+During their journey, the grey-haired, moody man had not spoken one word,
+and the other had left him to his meditations.  But now, as the boat
+neared the shore, the restless traveller, rising from his couch, called
+to his companion: "We are just at our destination, Aristomachus!  That
+pleasant house to the left yonder, in the garden of palms which you can
+see rising above the waters, is the dwelling of my friend Rhodopis.  It
+was built by her husband Charaxus, and all her friends, not excepting the
+king himself, vie with one another in adding new beauties to it year by
+year.  A useless effort!  Let them adorn that house with all the
+treasures in the world, the woman who lives within will still remain its
+best ornament!"
+
+     [We are writing of the month of October, when the Nile begins to
+     sink.  The inundations can now be accurately accounted for,
+     especially since the important and laborious synoptical work of H.
+     Barth and S. Baker. They are occasioned by the tropical rains, and
+     the melting of the snows on the high mountain-ranges at the Equator.
+     In the beginning of June a gradual rising of the Nile waters can be
+     perceived; between the 15th and 20th June, this changes to a rapid
+     increase; in the beginning of October the waters reach their highest
+     elevation, a point, which, even after having begun their retreat,
+     they once more attempt to attain; then, at first gradually, and
+     afterwards with ever increasing rapidity, they continue to sink.  In
+     January, February and March, the Nile is still drying up; and in May
+     is at its lowest point, when the volume of its waters is only one-
+     twentieth of that in October.]
+
+The old man sat up, threw a passing glance at the building, smoothed the
+thick grey beard which clothed his cheeks and chin, but left the lips
+free,--[The Spartans were not in the habit of wearing a beard on the
+upper lip.]--and asked abruptly: "Why so much enthusiasm, Phanes, for
+this Rhodopis?  How long have the Athenians been wont to extol old
+women?"  At this remark the other smiled, and answered in a self-
+satisfied tone, "My knowledge of the world, and particularly of women,
+is, I flatter myself, an extended one, and yet I repeat, that in all
+Egypt I know of no nobler creature than this grey-haired woman.  When you
+have seen her and her lovely grandchild, and heard your favorite melodies
+sung by her well-practised choir of slave-girls, I think you will thank
+me for having brought you hither."--"Yet," answered the Spartan gravely,
+"I should not have accompanied you, if I had not hoped to meet Phryxus,
+the Delphian, here."
+
+"You will find him here; and besides, I cannot but hope that the songs
+will cheer you, and dispel your gloomy thoughts."  Aristomachus shook his
+head in denial, and answered: "To you, sanguine Athenians, the melodies
+of your country may be cheering: but not so to me; as in many a sleepless
+night of dreams, my longings will be doubled, not stilled by the songs of
+Alkman."
+
+     [Alkman (Attic, Alkmaeon) flourished in Sparta about 650 B. C.  His
+     mother was a Lydian slave in Sardes, and he came into the possession
+     of Agesides, who gave him his freedom.  His beautiful songs soon
+     procured him the rights of a Lacedaemonian citizen.  He was
+     appointed to the head-directorship in the entire department of music
+     in Lacedaemon and succeeded in naturalizing the soft Lydian music.
+     His language was the Doric-Laconian.  After a life devoted to song,
+     the pleasures of the table and of love, he is said to have died of
+     a fearful disease.  From the frequent chorusses of virgins
+     (Parthenien) said to have been originally introduced by him, his
+     frequent songs in praise of women, and the friendly relations in
+     which he stood to the Spartan women (more especially to the fair
+     Megalostrata), he gained the name of the woman's poet.]
+
+"Do you think then," replied Phanes, "that I have no longing for my
+beloved Athens, for the scenes of our youthful games, for the busy life
+of the market?  Truly, the bread of exile is not less distasteful to my
+palate than to yours, but, in the society afforded by this house, it
+loses some of its bitterness, and when the dear melodies of Hellas, so
+perfectly sung, fall on my ear, my native land rises before me as in a
+vision, I see its pine and olive groves, its cold, emerald green rivers,
+its blue sea, the shimmer of its towns, its snowy mountain-tops and
+marble temples, and a half-sweet, half-bitter tear steals down my cheek
+as the music ceases, and I awake to remember that I am in Egypt, in this
+monotonous, hot, eccentric country, which, the gods be praised, I am soon
+about to quit.  But, Aristomachus, would you then avoid the few Oases in
+the desert, because you must afterwards return to its sands and drought?
+Would you fly from one happy hour, because days of sadness await you
+later?  But stop, here we are!  Show a cheerful countenance, my friend,
+for it becomes us not to enter the temple of the Charites with sad
+hearts."--[The goddesses of grace and beauty, better known by their Roman
+name of "Graces."]
+
+As Phanes uttered these words, they landed at the garden wall, washed by
+the Nile.  The Athenian bounded lightly from the boat, the Spartan
+following with a heavier, firmer tread.  Aristomachus had a wooden leg,
+but his step was so firm, even when compared with that of the light-
+footed Phanes, that it might have been thought to be his own limb.
+
+The garden of Rhodopis was as full of sound, and scent and blossom as a
+night in fairy-land.  It was one labyrinth of acanthus shrubs, yellow
+mimosa, the snowy gelder-rose, jasmine and lilac, red roses and
+laburnums, overshadowed by tall palm-trees, acacias and balsam trees.
+Large bats hovered softly on their delicate wings over the whole, and
+sounds of mirth and song echoed from the river.
+
+This garden had been laid out by an Egyptian, and the builders of the
+Pyramids had already been celebrated for ages for their skill in
+horticulture.  They well understood how to mark out neat flower-beds,
+plant groups of trees and shrubs in regular order, water the whole by
+aqueducts and fountains, arrange arbors and summerhouses, and even
+inclose the walks with artistically clipped hedges, and breed goldfish in
+stone basins.
+
+At the garden gate Phanes stopped, looked around him carefully and
+listened; then shaking his head, "I do not understand what this can
+mean," he said.  "I hear no voices, there is not a single light to be
+seen, the boats are all gone, and yet the flag is still flying at its gay
+flag-staff, there, by the obelisks on each side of the gate."
+
+     [Obelisks bearing the name of the owner were sometimes to be seen
+     near the gates of the Egyptian country-houses.  Flags too were not
+     uncommon, but these were almost exclusively to be found at the gates
+     of the temples, where to this day the iron sockets for the flagstaff
+     can still be seen.  Neither were flags unknown to the Greeks.  It
+     appears from some inscriptions on the staffs of the Pylons, that if
+     the former were not actually erected for lightning-rods, it had been
+     noticed that they attracted the electricity.]
+
+"Rhodopis must surely be from home; can they have forgotten?"--Here a
+deep voice suddenly interrupted him with the exclamation, "Ha! the
+commander of the body-guard!"
+
+"A pleasant evening to you, Knakais," exclaimed Phanes, kindly greeting
+the old man, who now came up.  "But how is it that this garden is as
+still as an Egyptian tomb, and yet the flag of welcome is fluttering at
+the gate?  How long has that white ensign waved for guests in vain?"
+
+"How long indeed?"  echoed the old slave of Rhodopis with a smile.  "So
+long as the Fates graciously spare the life of my mistress, the old flag
+is sure to waft as many guests hither as the house is able to contain.
+Rhodopis is not at home now, but she must return shortly.  The evening
+being so fine, she determined on taking a pleasure-trip on the Nile with
+her guests.  They started at sunset, two hours ago, and the evening meal
+is already prepared; they cannot remain away much longer.  I pray you,
+Phanes, to have patience and follow me into the house.  Rhodopis would
+not easily forgive me, if I allowed such valued guests to depart.  You
+stranger," he added, turning to the Spartan, "I entreat most heartily to
+remain; as friend of your friend you will be doubly welcome to my
+mistress."
+
+The two Greeks, following the servant, seated themselves in an arbor, and
+Aristomachus, after gazing on the scene around him now brilliantly
+lighted by the moon, said, "Explain to me, Phanes, by what good fortune
+this Rhodopis, formerly only a slave and courtesan can now live as a
+queen, and receive her guests in this princely manner?"
+
+     [The mistresses (Hetaere) of the Greeks must not be compared with
+     modern women of bad reputation.  The better members of this class
+     represented the intelligence and culture of their sex in Greece, and
+     more especially in the Ionian provinces.  As an instance we need
+     only recall Aspasia and her well-attested relation to Pericles and
+     Socrates.  Our heroine Rhodopis was a celebrated woman.  The
+     Hetaera, Thargalia of Miletus, became the wife of a Thessalian king.
+     Ptolemy Lagi married Thais; her daughter was called Irene, and her
+     sons Leontiskus and Lagus.  Finally, statues were erected to many.]
+
+"I have long expected this question," answered the Athenian.  "I shall be
+delighted to make you acquainted with the past history of this woman
+before you enter her house.  So long as we were on the Nile, I would not
+intrude my tale upon you; that ancient river has a wonderful power of
+compelling to silence and quiet contemplation.  Even my usually quick
+tongue was paralyzed like yours, when I took my first night-journey on
+the Nile."
+
+"I thank you for this," replied the Spartan.  "When I first saw the aged
+priest Epimenides," at Knossus in Crete, he was one hundred and fifty
+years old, and I remember that his age and sanctity filled me with a
+strange dread; but how far older, how far more sacred, is this hoary
+river, the ancient stream 'Aigyptos'!"  Who would wish to avoid the power
+of his spells?  Now, however, I beg you to give me the history of
+Rhodopis."
+
+Phanes began: "When Rhodopis was a little child playing with her
+companions on the Thracian sea-shore, she was stolen by some Phoenician
+mariners, carried to Samos, and bought by Iadmon, one of the geomori, or
+landed aristocracy of the island.  The little girl grew day by day more
+beautiful, graceful and clever, and was soon an object of love and
+admiration to all who knew her.  AEsop, the fable-writer, who was at that
+time also in bondage to Iadmon, took an especial pleasure in the growing
+amiability and talent of the child, taught her and cared for her in the
+same way as the tutors whom we keep to educate our Athenian boys.
+
+The kind teacher found his pupil tractable and quick of comprehension,
+and the little slave soon practised the arts of music, singing and
+eloquence, in a more charming and agreeable manner than the sons of her
+master Iadmon, on whose education the greatest care had been lavished.
+By the time she had reached her fourteenth year, Rhodopis was so
+beautiful and accomplished, that the jealous wife of Iadmon would not
+suffer her to remain any longer in the house, and the Samian was forced,
+with a heavy heart, to sell her to a certain Xanthus.  The government of
+Samos at that time was still in the hands of the less opulent nobles; had
+Polykrates then been at the head of affairs, Xanthus need not have
+despaired of a purchaser.  These tyrants fill their treasuries as the
+magpies their nests!  As it was, however, he went off with his precious
+jewel to Naukratis, and there gained a fortune by means of her wondrous
+charms.  These were three years of the deepest humiliation to Rhodopis,
+which she still remembers with horror.
+
+Now it happened, just at the time when her fame was spreading through all
+Greece, and strangers were coming from far to Naukratis for her sake
+alone, that the people of Lesbos rose up against their nobles, drove them
+forth, and chose the wise Pittakus as their ruler.
+
+     [According to Herodotus the beauty of Rhodopis was so great that
+     every Greek knew her by name.]
+
+The highest families of Lesbos were forced to leave the country, and
+fled, some to Sicily, some to the Greek provinces of Italy, and others to
+Egypt.  Alcaeus, the greatest poet of his day, and Charaxus, the brother
+of that Sappho whose odes it was our Solon's last wish to learn by heart,
+came here to Naukratis, which had already long been the flourishing
+centre of commercial communication between Egypt and the rest of the
+world.  Charaxus saw Rhodopis, and soon loved her so passionately, that
+he gave an immense sum to secure her from the mercenary Xanthus, who was
+on the point of returning with her to his own country; Sappho wrote some
+biting verses, derisive of her brother and his purchase, but Alcaeus on
+the other hand, approved, and gave expression to this feeling in glowing
+songs on the charms of Rhodopis.  And now Sappho's brother, who had till
+then remained undistinguished among the many strangers at Naukratis,
+became a noted man through Rhodopis.  His house was soon the centre of
+attraction to all foreigners, by whom she was overwhelmed with gifts.
+The King Hophra, hearing of her beauty and talent, sent for her to
+Memphis, and offered to buy her of Charaxus, but the latter had already
+long, though secretly, given Rhodopis her freedom, and loved her far too
+well to allow of a separation.  She too, loved the handsome Lesbian and
+refused to leave him despite the brilliant offers made to her on all
+sides.  At length Charaxus made this wonderful woman his lawful wife, and
+continued to live with her and her little daughter Kleis in Naukratis,
+until the Lesbian exiles were recalled to their native land by Pittakus.
+He then started homeward with his wife, but fell ill on the journey, and
+died soon after his arrival at Mitylene.  Sappho, who had derided her
+brother for marrying one beneath him, soon became an enthusiastic admirer
+of the beautiful widow and rivalled Alcaeus in passionate songs to her
+praise.
+
+After the death of the poetess, Rhodopis returned, with her little
+daughter, to Naukratis, where she was welcomed as a goddess.  During this
+interval Amasis, the present king of Egypt, had usurped the throne of the
+Pharaohs, and was maintaining himself in its possession by help of the
+army, to which caste he belonged.
+
+     [Amasis, of whom much will be said in our text, reigned 570-526 B.
+     C.  His name, in the hieroglyphic signs, was Aahmes or young moon
+     but the name by which he was commonly called was Sa-Nit "Son of
+     Neith."  His name, and pictures of him are to be found on stones in
+     the fortress of Cairo, on a relief in Florence, a statue in the
+     Vatican, on sarcophagi in Stockholm and London, a statue in the
+     Villa Albani and on a little temple of red granite at Leyden.  A
+     beautiful bust of gray-wacke in our possession probably represents
+     the same king.]
+
+As his predecessor Hophra had accelerated his fall, and brought the army
+and priesthood to open rebellion by his predilection for the Greek
+nation, and for intercourse with foreigners generally, (always an
+abomination in the eyes of the Egyptians), men felt confident that Amasis
+would return to the old ways, would rigorously exclude foreigners from
+the country, dismiss the Greek mercenaries, and instead of taking counsel
+from the Greeks, would hearken only to the commands of the priesthood.
+But in this, as you must see yourself, the prudent Egyptians had guessed
+wide of the mark in their choice of a ruler; they fell from Scylla into
+Charybdis.  If Hophra was called the Greeks' friend, Amasis must be named
+our lover.  The Egyptians, especially the priests and the army, breathe
+fire and flame, and would fain strangle us one and all, off hand,  This
+feeling on the part of the soldiery does not disturb Amasis, for he knows
+too well the comparative value of their and our services; but with the
+priests it is another and more serious matter, for two reasons: first,
+they possess an unbounded influence over the people; and secondly.
+Amasis himself retains more affection than he likes to acknowledge to us,
+for this absurd and insipid religion--a religion which appears doubly
+sacred to its adherents simply because it has existed in this eccentric
+land--unchanged for thousands of years.  These priests make the king's
+life burdensome to him; they persecute and injure us in every possible
+way; and indeed, if it had not been for the king's protection, I should
+long ago have been a dead man.  But I am wandering from my tale!  As I
+said before, Rhodopis was received at Naukratis with open arms by all,
+and loaded with marks of favor by Amasis, who formed her acquaintance.
+Her daughter Kleis, as is the case with the little Sappho now--was never
+allowed to appear in the society which assembled every evening at her
+mother's house, and indeed was even more strictly brought up than the
+other young girls in Naukratis.  She married Glaucus, a rich Phocaean
+merchant of noble family, who had defended his native town with great
+bravery against the Persians, and with him departed to the newly-founded
+Massalia, on the Celtic coast.  There, however, the young couple both
+fell victims to the climate, and died, leaving a little daughter, Sappho.
+Rhodopis at once undertook the long journey westward, brought the orphan
+child back to live with her, spent the utmost care on her education, and
+now that she is grown up, forbids her the society of men, still feeling
+the stains of her own youth so keenly that she would fain keep her
+granddaughter (and this in Sappho's case is not difficult), at a greater
+distance from contact with our sex than is rendered necessary, by the
+customs of Egypt.  To my friend herself society is as indispensable as
+water to the fish or air to the bird.  Her house is frequented by all the
+strangers here, and whoever has once experienced her hospitality and has
+the time at command will never after be found absent when the flag
+announces an evening of reception.  Every Greek of mark is to be found
+here, as it is in this house that we consult on the wisest measures for
+encountering the hatred of the priests and bringing the king round to our
+own views.  Here you can obtain not only the latest news from home, but
+from the rest of the world, and this house is an inviolable sanctuary for
+the persecuted, Rhodopis possessing a royal warrant which secures her
+from every molestation on the part of the police.
+
+     [A very active and strict police-force existed in Egypt, the
+     organization of which is said to have owed much to Amasis' care.  We
+     also read in inscriptions and papyrus rolls, that a body of mounted
+     police existed, the ranks of which were generally filled by
+     foreigners in preference to natives.]
+
+Our own songs and our own language are to be heard here, and here we take
+counsel on the best means for delivering Greece from the ever fresh
+encroachments of her tyrants.
+
+In a word, this house is the centre of attraction for all Hellenic
+interests in Egypt, and of more importance to us politically, than our
+temple, the Hellenion itself, and our hall of commerce.
+
+In a few minutes you will see this remarkable grandmother, and, if we
+should be here alone, perhaps the grandchild too; you will then at once
+perceive that they owe everything to their own rare qualities and not to
+the chances of good fortune.  Ah! there they come!  they are going
+towards the house.  Cannot you hear the slave-girls singing?  Now they
+are going in.  First let them quietly be seated, then follow me, and when
+the evening is over you shall say whether you repent of having come
+hither, and whether Rhodopis resembles more nearly a queen or a freed
+bond-woman."
+
+The houses was built in the Grecian style.  It was a rather long, one-
+storied building, the outside of which would be called extremely plain in
+the present day; within, it united the Egyptian brilliancy of coloring
+with the Greek beauty of form.  The principal door opened into the
+entrance-hall.  To the left of this lay a large dining-room, overlooking
+the Nile, and, opposite to this last was the kitchen, an apartment only
+to be found in the houses of the wealthier Greeks, the poorer families
+being accustomed to prepare their food at the hearth in the front
+apartment.  The hall of reception lay at the other end of the entrance-
+hall, and was in the form of a square, surrounded within by a colonnade,
+into which various chambers opened.  This was the apartment devoted to
+the men, in the centre of which was the household fire, burning on an
+altar-shaped hearth of rich AEginetan metal-work.
+
+It was lighted by an opening in the roof, which formed at the same time,
+an outlet for the smoke.  From this room (at the opposite end to that on
+which it opened into the entrance-hall), a passage, closed by a well-
+fastened door, led into the chamber of the women.  This was also
+surrounded by a colonnade within, but only on three sides, and here the
+female inhabitants were accustomed to pass their time, when not employed,
+spinning or weaving, in the rooms lying near the back or garden-door as
+it was termed.  Between these latter and the domestic offices, which lay
+on the right and left of the women's apartment, were the sleeping-rooms;
+these served also as places of security for the valuables of the house.
+The walls of the men's apartment were painted of a reddish-brown color,
+against which the outlines of some white marble carvings, the gift of a
+Chian sculptor,  stood out in sharp relief.  The floor was covered with
+rich carpets from Sardis; low cushions of panthers' skins lay ranged
+along the colonnade; around the artistically wrought hearth stood quaint
+Egyptian settees, and small, delicately-carved tables of Thya wood, on
+which lay all kinds of musical instruments, the flute, cithara and lyre.
+Numerous lamps of various and singular shapes, filled with Kiki oil, hung
+against the walls.  Some represented fire-spouting dolphins; others,
+strange winged monsters from whose jaws the flames issued; and these,
+blending their light with that from the hearth, illumined the apartment.
+
+In this room a group of men were assembled, whose appearance and dress
+differed one from the other.  A Syrian from Tyre, in a long crimson robe,
+was talking animatedly to a man whose decided features and crisp, curly,
+black hair proclaimed him an Israelite.  The latter had come to Egypt to
+buy chariots and horses for Zerubbabel, the governor of Judah--the
+Egyptian equipages being the most sought after at that time.  Close to
+him stood three Greeks from Asia Minor, the rich folds of whose garments
+(for they wore the costly dress of their native city Miletus), contrasted
+strongly with the plain and unadorned robe of Phryxus, the deputy
+commissioned to collect money for the temple of Apollo at Delphi, with
+whom they were in earnest conversation.  Ten years before, the ancient
+temple had been consumed by fire; and at this time efforts were being
+made to build another, and a more beautiful one.
+
+Two of the Milesians, disciples of Anaximander and Anaximenes, were
+staying then in Egypt, to study astronomy and the peculiar wisdom of the
+Egyptians at Heliopolis, and the third was a wealthy merchant and ship-
+owner, named Theopompus, who had settled at Naukratis.
+
+     [Anaximander of Miletus, born 611-546, was a celebrated
+     geometrician, astronomer, philosopher and geographer.  He was the
+     author of a book on natural phenomena, drew the first map of the
+     world on metal, and introduced into Greece a kind of clock which he
+     seems to have borrowed from the Babylonians.  He supposes a primary
+     and not easily definable Being, by which the whole world is
+     governed, and in which, though in himself infinite and without
+     limits, everything material and circumscribed has its foundation.
+     "Chaotic matter" represents in his theory the germ of all created
+     things, from which water, earth, animals, nereids or fish-men, human
+     beings &c.  have had their origin.]
+
+Rhodopis herself was engaged in a lively conversation with two Samian
+Greeks: the celebrated worker in metals, sculptor and goldsmith
+Theodorus, and the Iambic poet Ibykus of Rhegium, who had left the court
+of Polykrates for a time in order to become acquainted with Egypt, and
+were bearers of presents to Amasis from their ruler.  Close to the fire
+lay Philoinus of Sybaris, a corpulent man with strongly-marked features
+and a sensual expression of face; he was stretched at full-length on a
+couch covered with spotted furs, and amused himself by playing with his
+scented curls wreathed with gold, and with the golden chains which fell
+from his neck on to the long saffron-colored robe that clothed him down
+to his feet.
+
+     [Sybaris was a town in Lower Italy notorious throughout the ancient
+     world for its luxury.  According to Strabo it was founded by
+     Achaeans 262.  About 510 it was conquered and destroyed by the
+     Crotoniates and then rebuilt under the name of Thurii.]
+
+Rhodopis had a kind word for each of her guests, but at present she
+occupied herself exclusively with the two celebrated Sarnians; their talk
+was of art and poetry.  The fire of youth still glowed in the eyes of the
+Thracian woman, her tall figure was still full and unbent; her hair,
+though grey, was wound round her beautifully formed head in luxuriant
+waves, and laid together at the back in a golden net, and a sparkling
+diadem shone above her lofty forehead.
+
+Her noble Greek features were pale, but still beautiful and without a
+wrinkle, notwithstanding her great age; indeed her small mouth with its
+full lips, her white teeth, her eyes so bright and yet so soft, and her
+nobly-formed nose and forehead would have been beauty enough for a young
+maiden.
+
+Rhodopis looked younger than she really was, though she made no attempt
+to disavow her age.  Matronly dignity was visible in every movement, and
+the charm of her manner lay, not in a youthful endeavor to be pleasing,
+but in the effort of age to please others, considering their wishes, and
+at the same time demanding consideration in return.
+
+Our two friends now presenting themselves in the hall, every eye turned
+upon them, and as Phanes entered leading his friend by the hand, the
+heartiest welcome met him from all sides; one of the Milesians indeed
+exclaimed: "Now I see what it is that was wanting to our assembly.  There
+can be no merriment without Phanes."
+
+And Philoinus, the Sybarite, raising his deep voice, but not allowing
+himself for a moment to be disturbed in his repose, remarked: "Mirth is a
+good thing, and if you bring that with you, be welcome to me also,
+Athenian."
+
+"To me," said Rhodopis, turning to her new guests, "you are heartily
+welcome, but not more in your joy than if borne down by sadness.  I know
+no greater pleasure than to remove the lines of care from a friend's
+brow.  Spartan, I venture to address you as a friend too, for the friends
+of my friends are my own."  Aristomachus bowed in silence, but Phanes,
+addressing himself both to Rhodopis and to the Sybarite, answered: "Well
+then, my friends, I can content you both.  To you, Rhodopis, I must come
+for comfort, for soon, too soon I must leave you and your pleasant house;
+Philoinus however can still enjoy my mirth, as I cannot but rejoice in
+the prospect of seeing my beloved Hellas once more, and of quitting, even
+though involuntarily, this golden mouse-trap of a country."
+
+"You are going away! you have been dismissed?  Whither are you going?"
+echoed on all sides.
+
+"Patience, patience, my friends," cried Phanes.  "I have a long story to
+tell, but I will rather reserve it for the evening meal.  And when he
+on occasion a dance vielumworbene have a young lady, the daughter of a
+wealthy factory owner, with striking ease entgegenkam, and he so
+suddenly the possibility of a slight connection looked ahead to his
+position and his wealth was appropriate, he began the other, like
+a cheerful casual adventure started as annoying to feel tethered
+to a young man by his virtues should be safe off.
+
+But the smiling peace with him ever again Elise received her always steady
+devotion become scarcer in the hours of togetherness, the unsuspecting
+security with him from her arms into an unknown world sacked her,
+all urged him not only every word of this parting the lips, to which
+he was always determined previously believed, but filled him with
+a kind of excruciating pity, whose barely conscious utterances such
+a warm and trusting wife Elise as a new and intimate character of
+his inclination had to appear.
+
+And so it was then that Elise never hotter he adored believed than
+if it was a new encounter with Adele, when he durchbebt by the memory
+süßfragender glances, hand pressures, and promised in the last rush of
+the first secret kisses the bride in that silent, he alone, and
+his unfaithful love consecrated had returned home, and instead
+of the farewell, which he still carried on the threshold, leaving the
+lover Alfred morning with renewed oaths of eternal families. So the
+days went by both adventure out at last there was only more decide which
+evening for the debate has become inevitable with Elisen would be better,
+before or after the engagement with Adele, and the first of these
+evenings, because yes is still a time limit before it was published
+by Alfred in the habit his double-game almost calmed soul in the
+beloved Constitution.
+
+                   He found her pale, as he never
+                    before seen in the corner of the
+                    Diwan lean, even she is not as usual
+                    at his admission to his forehead
+                    and mouth to Willkommskuß to offer,
+                    but showed a tired, slightly forced smile, so that also with a
+sense of relief the presumption in Alfred ascended, the news of his
+impending betrothal was, despite all the secrecy after the enigmatic
+nature of the rumors are already up to her stocky.
+
+But on his überstürzenden questions that he learned nothing other than
+the fact that Elise, what it previously withheld from time to time, suffer
+from heart spasms, of which they are otherwise used to recover quickly,
+the after-effect but this time more than ever threatened them. Alfred,
+in the consciousness of his good intentions to blame, this opening was so
+much affected that he is in terms of participation, in evidence of goodness
+not enough was done, and before midnight, without understanding how
+it got that far, he had Elisen with the plan a joint trip designed, on
+which they certainly lasting recovery from their evil should be
+coincidences.
+
+[Illustration] Never so tenderly loved, but never so durchtränkt of his
+own tenderness had he ever made it as a farewell in the night, so that he
+is seriously on the way home a rejection letter to Adele considered, in
+which he made his escape Engagements and ties like a bid for a permanent
+his luck still not created unsettled nature to apologize imagined. The
+artful Devouring the rates pursued him even to sleep, but the morning
+light, through the columns of the blinds on his roof playing, let him to
+reconcile effort as foolish as superfluous.
+
+Yes, he was hardly able to marvel that he is the suffering of the lover
+verflossenen night traumhaft away seemed like an abandoned, while Adele
+blooming bouquet immense longing before his soul was.
+
+To noon he brought nobility to the Father his advertising, which
+probably very friendly, but not with complete consent was. In
+good-natured mocking allusion to the candidate's youth often tried
+to put the father rather the requirement that Alfred may be initially
+for one year to go traveling, so the distance in the strength and
+resilience to examine his feelings, and he even objected to the
+proposal an exchange of letters between the young people to the
+possibility of self-deception in this way certainly off to know.
+
+When Alfred with the intentions of today again returned, and when he
+at the same sensation Adele wiederfände which they now cherish convinced
+that it will be of immediate marriage of the young couple to his
+side not in the slightest way.
+
+    Alfred, of these conditions, only reluctantly seemed to add, she is
+     in fact as a new deadline extension of the skills internally
+     breathe contrary, after a brief and reflect, he said under these
+     circumstances is already wanting to adopt, it would be
+     even, so while the end of the required separation time closer
+     heranzurücken.
+
+Adele seemed first of these unexpected docility to be injured, but after
+a short interview of the father verstatteten under four eyes had Alfred
+then brought his bride, that they love him for his wisdom's sake,
+and admired him with oaths of fidelity, even with tears in his eyes
+in a dangerous separation distance fired.
+
+Hardly on the road, Alfred already started to consider all sorts of
+possibilities in the course of this available to him in a solution to
+its relations with Elisen could. And his thirst, the most difficult issues
+of life without the active intervention to do was so overpowering
+that not only those about his vanity davontrug the victory, but
+also the Aufschweben drabber Premonitions was favorable, with his
+snivelling like nature otherwise zurückschreckte.
+
+In the forced unusually close together, as the trip has brought,
+so he thought, it might well happen that Elise, cool, gradually
+turns away from him, and also the heart of the lover was the view
+on a clearly undesirable nature of the liberation.
+
+Soon, however, he both hope and fear, with such violent motion of
+themselves, that nothing in the end it was the childlike, joyful expectation
+of a pleasure trip to the colorful expanse in the company of a devoted
+lovable creature, and yet on the evening of same day chatted it
+is consistent with the unsuspecting lover in the mood heiterster
+delightful prospect of the forthcoming trip.
+
+     Since the suit was in the spring, looked Alfred Elisen first with
+     the mild to the shores of Lake Geneva. Later they went to the cooler
+     mountain altitudes up, spent the late summer in an English seaside
+     resort, visited in the fall of Dutch and German cities, to finally
+the bleaker weather collapsing under the southern sun consolation
+to escape.
+
+Until that Elise was not just with the surroundings of Vienna did not
+come out was like a delicious Dreaming by the hand of their beloved leader
+this year of wonders geschwebt, also Alfred, so clearly he is always the
+future to continue with their difficulties only deferred was aware,
+had the luck of fellow Elisen like to join the graceful presence of abandoned
+safe.
+
+And while he was at the beginning of the journey encounters with acquaintances
+carefully sought to avoid it if possible avoided had with Elisen
+to bustling promenades and in the dining halls of large hotels to
+show he later called with some intentions fate, and was happy to
+vote, by a Depesche his bride accused of treason and thus although
+an even more hotly awaited possessions, but everything dichotomy,
+all anxiety and all the responsibility to be married.
+
+     But no news, nor otherwise a message from the home came to him,
+     because Adele was against Alfreds vain expectation as strict as he
+     himself referred to the agreement requested by the father. But
+     it was the hour in which, at least for this miracle Alfred year
+     sudden end, and took a zauberlos times, yes Oeder than any other,
+which he experienced at the time seemed stillezustehen.
+
+This occurred in the botanic garden at Palermo on a bright autumn
+day, as Elise, which until then are fresh, lively and prosperous show
+had suddenly with both hands grabbed at her heart, the lover looked
+fearfully and immediately smiled, as if it's as a duty recognize
+him no cause to be inconvenient.
+
+This, however, instead of stirring it, filled it with bitterness, which he
+admittedly being the face of anxious to conceal knew.
+
+He accused her, without even believe that it certainly has similar
+coincidences kept secret several times, gave expression of his
+mortification, that she seems heartless for holding conjured them
+today, immediately, with him see a doctor, and was quite glad when
+this proposal with respect to their low confidence in the salvation
+of the country artists rejected.
+
+But when they suddenly as on streaming of gratitude and love, here,
+under the open sky, on the bank of the People passed by, his hand pressed
+to her lips, he felt, like a flying shaft, through his hatred Pulse
+chase, whose presence he even sat in amazement, but he soon before
+dealing with the memories of many hours of boredom and emptiness apologized,
+in which the journey, as he once thought to know, was too rich. At the
+same time such a flared incandescent desire for nobility in him that he,
+too, despite all the arrangements, on the same day a dispatch sent to
+them, in which it is a word to Genoa and the sacrifice he wrote: Your
+the Ewig. [ Illustration] A few days later, he found their response
+in Genoa, which was: And I yours for ebensolang.
+
+With the wrinkled hand on the heart, which he now questionable, despite the
+jocular tone the embodiment of all hopes meant he entered Elisen
+accompany the trip to Ceylon, which is expected to be the most
+beautiful part of the journey at the end of which was set.
+
+     Elise verschlagenerer Gemütsart would have to be as it was
+     when, on this trip would have been able to guess that only the bold
+     play of her imagination Alfreds richer delights of Loved One gift
+     than ever before, and if they had known that they are not even there
+     was more, now in the silent dark nights at sea was a jibe, but the
+distant, with its longing in all of life herbeigezauberte bride
+wealth.
+
+But on the island finally reached glowing, in the dull uniformity of the
+last stay, because he realized that the latter too fussy fantasy he
+wanted the service to fail, he started from Elisen away and was tricky
+enough, a slight reminder of the suffering heart, they enter the first
+floor of the fixed angewandelt as the cause of his reticence indicated.
+She took it out like anything that came from him, as a sign of love,
+now all you sense and all the bliss of being signified. And if, under
+the wild splendor blaugoldenen a heaven, it is firmly connected
+to geschmiegt and salvaged by the rushing shadows of the forests
+went, she knew not that her companion only the lonely hours
+herbeiwünschte in it, undisturbed by Elisen, opportunity was flying
+with feathered incantatory, scorching words to another at the paper
+to throw their lives into the world Elise up to this moment nothing,
+and never suspected anything suspect should be.
+
+In such hours of Solo One increased his desire for the remote so powerful,
+that the A which is near the end of his hearing, which, with whom he
+will soon be a year crossed the world, apart from the features of the
+face, so to to the voice could be forgotten. And when he was in the night
+before the commencement of the journey home, from the writing
+room, take in a new Elise severe seizure half unconscious on the
+bed hingestreckt thought, he realized what he usually like a quiet
+fear is thought to feel, with mild, almost sweet horror will never
+be extinct, dark glowing hope his soul.
+
+Nevertheless, he sent without delay and in a truly painful agitation after
+the doctor, who immediately appeared and the patient by a morphine
+injection provided relief.
+
+     The alleged husband, however, now the journey has become a concern
+     for important reasons not to defer said he gave a ticket with the
+     suffering end of the special care of the ship's doctor advised.
+
+Immediately in the first few days seemed to be the sea air on the Elise
+benevolent influence. Their pallor disappeared, it was open-minded
+beings, their conduct of free, as Alfred ever to her perceived.
+
+And while they used to defend itself against any, even the most harmless
+approximation of indifferent foreign side, so defensive behavior was
+most common to this conversation, as life on the ships are brought from
+far and took the respectful homage of some men with accompanying
+satisfaction opposite. In particular, a German baron, based on the
+healing waters of a long suffering lung examined, stayed in Elis near
+as much, as it is still without intrusiveness could happen, and Alfred
+would like to persuade the depression behavior, the Elise this lovable
+their admirers contributed to the review, as the welcome signs of
+a tendency to neukeimenden. But when he once Elise apparently angry
+about their remarkable ease to the speech tried to make, she said to him
+smiling, that all of this oncoming beings towards other aims have nothing
+else than the lover to excite jealousy, and they are the successful
+list unutterable glad.
+
+This could Alfred his impatience, his disappointment not to hide. He
+said her confession, which she reassured him and happy to have believed
+that with their words of an unfathomable hardship in dull helplessness
+they felt they stood for a while until it suddenly on the roof, where the
+interview took place, and collapses unconscious hinuntergetragen in the
+cabin had to be. The ship's doctor, by the letter of his colleagues
+informed enough, gave a more detailed investigation is not necessary,
+and brought the tormented heart of the already proven means temporary
+relief.
+"I confided my pair of cats to the care of one of the Egyptian servants
+at the palace, feeling sure that these enemies of the rats would keep my
+dwelling clear for the future; indeed I began to feel a certain
+veneration for my deliverers from the plague of mice.
+
+"Last year Amasis fell ill before the court could adjourn to Memphis, and
+we remained at Sais.
+
+"At last, about six week ago, we set out for the city of the Pyramids.
+I betook me to my old quarters; not the shadow of a mouse's tail was to
+be seen there, but instead, they swarmed with another race of animals not
+one whit dearer to me than their predecessors.  The pair of cats had,
+during my two years' absence, increased twelve-fold.  I tried all in my
+power to dislodge this burdensome brood of all ages and colors, but in
+vain; every night my sleep was disturbed by horrible choruses of four-
+footed animals, and feline war-cries and songs.
+
+"Every year, at the period of the Bubastis festival, all superfluous cats
+may be brought to the temple of the cat-headed goddess Pacht, where they
+are fed and cared for, or, as I believe, when they multiply too fast,
+quietly put out of the way.  These priests are knaves!
+
+"Unfortunately the journey to the said temple" did not occur during the
+time of our stay in Memphis; however, as I really could not tolerate this
+army of tormentors any longer, I determined at least to get rid of two
+families of healthy kittens with which their mothers had just presented
+me.  My old slave Mus, from his very name a natural enemy of cats, was
+told to kill the little creatures, put them into a sack, and throw them
+into the Nile.
+
+"This murder was necessary, as the mewing of the kittens would otherwise
+have betrayed the contents of the sack to the palace-warders.  In the
+twilight poor Muss betook himself to the Nile through the grove of
+Hathor, with his perilous burden.  But alas! the Egyptian attendant who
+was in the habit of feeding my cats, had noticed that two families of
+kittens were missing, and had seen through our whole plan.
+
+"My slave took his way composedly through the great avenue of Sphinxes,
+and by the temple of Ptah, holding the little bag concealed under his
+mantle.  Already in the sacred grove he noticed that he was being
+followed, but on seeing that the men behind him stopped before the temple
+of Ptah and entered into conversation with the priests, he felt perfectly
+reassured and went on.
+
+"He had already reached the bank of the Nile, when he heard voices
+calling him and a number of people running towards him in haste; at the
+same moment a stone whistled close by his head.
+
+"Mus at once perceived the danger which was threatening him.  Summoning
+all his strength he rushed down to the Nile, flung the bag in, and then
+with a beating heart, but as he imagined without the slightest evidence
+of guilt, remained standing on the shore.  A few moments later he was
+surrounded by at least a hundred priests.
+
+"Even  the high-priest of  Ptah, my old enemy Ptahotep, had not disdained
+to follow the pursuers in person.
+
+"Many of the latter, and amongst them the perfidious palace-servant,
+rushed at once into the Nile, and there, to our confusion, found the
+bag with its twelve little corpses, hanging entirely uninjured among the
+Papyrus-reeds and bean-tendrils.  The cotton coffin was opened before
+the eyes of the high-priest, a troop of lower priests, and at least a
+thousand of the inhabitants of Memphis, who had hurried to the spot,
+and when the miserable contents were disclosed, there arose such fearful
+howls of anguish, and such horrible cries of mingled lamentation and
+revenge, that I heard them even in the palace.
+
+"The furious multitude, in their wild rage, fell on my poor servant,
+threw him down, trampled on him and would have killed him, had not the
+all-powerful high-priest-designing to involve me, as author of the crime,
+in the same ruin--commanded them to cease and take the wretched
+malefactor to prison.
+
+"Half an hour later I was in prison too.
+
+"My old Mus took all the guilt of the crime on himself, until at last,
+by means of the bastinado, the high-priest forced him to confess that I
+had ordered the killing of the kittens, and that he, as a faithful
+servant, had not dared to disobey.
+
+"The supreme court of justice, whose decisions the king himself has no
+power to reverse, is composed of priests from Memphis, Heliopolis and
+Thebes: you can therefore easily believe that they had no scruple in
+pronouncing sentence of death on poor Mus and my own unworthy Greek self.
+The slave was pronounced guilty of two capital offences: first, of the
+murder of the sacred animals, and secondly, of a twelve-fold pollution of
+the Nile through dead bodies.  I was condemned as originator of this, (as
+they termed it) four-and-twenty-fold crime.
+
+     [According to the Egyptian law, the man who was cognizant of a crime
+     was held equally culpable with the perpetrator.]
+
+"Mus was executed on the same day.  May the earth rest lightly on him!  I
+shall never think of him again as my slave, but as a friend and
+benefactor!  My sentence of death was read aloud in the presence of his
+dead body, and I was already preparing for a long journey into the nether
+world, when the king sent and commanded a reprieve.
+
+     [This court of justice, which may be compared with the Areopagus at
+     Athens, and the Gerusia at Sparta, (Diod. I, 75.), was composed of
+     30 judges taken from the priestly caste, (10 from Heliopolis, 10
+     from Memphis, 10 from Thebes).  The most eminent from among their
+     number was chosen by them as president.  All complaints and defences
+     had to be presented in writing, that the judges might in no way be
+     influenced by word or gesture.  This tribunal was independent, even
+     of the king's authority.  Much information concerning the
+     administration of justice has been obtained from the Papyrus Abbott,
+     known by the name of the 'Papyrus judiciaire'.  Particulars and an
+     account of their literature may be found in Ebers "Durch Gosen zum
+     Sinai," p.  534 and following.]
+
+"I was taken back to prison.  One of my guards, an Arcadian Taxiarch,
+told me that all the officers of the guard and many of the soldiers,
+(altogether four thousand men) had threatened to send in their
+resignation, unless I, their commander, were pardoned.
+
+"As it was beginning to grow dusk I was taken to the king.
+
+"He received me graciously, confirmed the Taxiarch's statement with his
+own mouth, and said how grieved he should be to lose a commander so
+generally beloved.  I must confess that I owe Amasis no grudge for his
+conduct to me, on the contrary I pity him.  You should have heard how he,
+the powerful king, complained that he could never act according to his
+own wishes, that even in his most private affairs he was crossed and
+compromised by the priests and their influence.
+
+     [See the parallel in the history of 2000 years later in the reigns
+     of Henry III. and IV. confronting the Jesuit influence, finally
+     culminating in assassination.  D.W.]
+
+"Had it only depended on himself, he could easily have pardoned the
+transgression of a law, which I, as a foreigner, could not be expected to
+understand, and might (though unjustly) esteem as a foolish superstition.
+But for the sake of the priests he dare not leave me unpunished.  The
+lightest penalty he could inflict must be banishment from Egypt.
+
+"He concluded his complaint with these words: 'You little know what
+concessions I must make to the priests in order to obtain your pardon.
+Why, our supreme court of justice is independent even of me, its king!'
+
+"And thus I received my dismissal, after having taken a solemn oath to
+leave Memphis that very day, and Egypt, at latest, in three weeks.
+
+"At the palace-gate I met Psamtik, the crown-prince.  He has long been my
+enemy, on account of some vexatious matters which I cannot divulge, (you
+know them, Rhodopis).  I was going to offer him my parting salutation,
+but he turned his back upon me, saying: Once more you have escaped
+punishment, Athenian; but you cannot elude my vengeance.  Whithersoever
+you may go, I shall be able to find you!'--'That remains to be proved,' I
+answered, and putting myself and my possessions on board a boat, came to
+Naukratis.  Here, by good fortune, I met my old friend Aristomachus of
+Sparta, who, as he was formerly in command of the Cyprian troops, will
+most likely be nominated my successor.  I should rejoice to know that
+such a first-rate man was going to take my place, if I did not at the
+same time fear that his eminent services will make my own poor efforts
+seem even more insignificant than they really were."
+
+But here he was interrupted by Aristomachus, who called out: "Praise
+enough, friend Phanes!  Spartan tongues are stiff; but if you should ever
+stand in need of my help, I will give you an answer in deeds, which shall
+strike the right nail on the head."
+
+Rhodopis smiled her approval, and giving her hand to each, said:
+"Unfortunately, the only conclusion to be drawn from your story, my poor
+Phanes, is that you cannot possibly remain any longer in this country.
+I will not blame you for your thoughtlessness, though you might have
+known that you were exposing yourself to great danger for a mere trifle.
+The really wise and brave man never undertakes a hazardous enterprise,
+unless the possible advantage and disadvantage that may accrue to him
+from it can be reckoned at least as equal.  Recklessness is quite as
+foolish, but not so blamable as cowardice, for though both do the man an
+injury, the latter alone can dishonor him.
+
+"Your thoughtlessness, this time, has very nearly cost your life, a life
+dear to many, and which you ought to save for a nobler end.  We cannot
+attempt to keep you here; we should thereby only injure ourselves without
+benefitting you.  This noble Spartan must now take your place as head and
+representative of the Greek nation at the Egyptian court, must endeavor
+to protect us against the encroachment of the priests, and to retain for
+us the royal favor.  I take your hand, Aristomachus, and will not let it
+go till you have promised that you will protect, to the utmost of your
+power, every Greek, however humble, (as Phanes did before you), from the
+insolence of the Egyptians, and will sooner resign your office than allow
+the smallest wrong done to a Hellene to go unpunished.  We are but a few
+thousands among millions of enemies, but through courage we are great,
+and unity must keep us strong.  Hitherto the Greeks in Egypt have lived
+like brothers; each has been ready to offer himself for the good of all,
+and all for each, and it is just this unity that has made us, and must
+keep us, powerful.
+
+"Oh!  could we but bestow this precious gift on our mother-country and
+her colonies! would the tribes of our native land but forget their
+Dorian, Ionian or AEolian descent, and, contenting themselves with the
+one name of Hellenes, live as the children of one family, as the sheep of
+one flock,--then indeed we should be strong against the whole world, and
+Hellas would be recognized by all nations as the Queen of the Earth!"
+
+     [This longing desire for unity was by no means foreign to the
+     Greeks, though we seldom hear it expressed.  Aristotle, for example,
+     says VII.  7.:  "Were the Hellenes united into one state, they could
+     command all the barbarous nations."]
+
+A fire glowed in the eyes of the grey-haired woman as she uttered these
+words; and the Spartan, grasping her hand impetuously and stamping on the
+floor with his wooden leg, cried: "By Zeus, I will not let a hair of
+their heads be hurt; but thou, Rhodopis, thou art worthy to have been
+born a Spartan woman."
+
+"Or an Athenian," cried Phanes.
+
+"An Ionian," said the Milesians, and the sculptor: "A daughter of the
+Samian Geomori--"
+
+"But I am more, far more, than all these," cried the enthusiastic woman.
+"I am a Hellene!"
+
+The whole company, even to the Jew and the Syrian, were carried away by
+the intense feeling of the moment; the Sybarite alone remained unmoved,
+and, with his mouth so full as to render the words almost unintelligible,
+said:
+
+"You deserve to be a Sybarite too, Rhodopis, for your roast beef is the
+best I have tasted since I left Italy, and your Anthylla wine' relishes
+almost as well as Vesuvian or Chian!"
+
+Every one laughed, except the Spartan, who darted a look of indignation
+and contempt at the epicure.
+
+In this moment a deep voice, hitherto unknown to us, shouted suddenly
+through the window, "A glad greeting to you, my friends!"
+
+"A glad greeting," echoed the chorus of revellers, questioning and
+guessing who this late arrival might prove to be.
+
+They had not long to wait, for even before the Sybarite had had time
+carefully to test and swallow another mouthful of wine, the speaker,
+Kallias, the son of Phaenippus of Athens, was already standing by the
+side of Rhodopis.  He was a tall thin man of over sixty, with a head of
+that oval form which gives the impression of refinement and intellect.
+One of the richest among the Athenian exiles, he had twice bought the
+possessions of Pisistratus from the state, and twice been obliged to
+surrender them, on the tyrant's return to power.  Looking round with his
+clear keen eyes on this circle of acquaintances, he exchanged friendly
+greetings with all, and exclaimed:
+
+"If you do not set a high value on my appearance among you this evening,
+I shall think that gratitude has entirely disappeared from the earth."
+
+"We have been expecting you a long time," interrupted one of the
+Milesians.  "You are the first man to bring us news of the Olympic
+games!"
+
+"And we could wish no better bearer of such news than the victor of
+former days?"  added Rhodopis.  "Take your seat," cried Phanes
+impatiently, "and come to the point with your news at once, friend
+Kallias."
+
+"Immediately, fellow-countryman," answered the other.  "It is some time
+ago now since I left Olympia.  I embarked at Cenchreae in a fifty-oared
+Samian vessel, the best ship that ever was built.
+
+"It does not surprise me that I am the first Greek to arrive in
+Naukratis.  We encountered terrific storms at sea, and could not have
+escaped with our lives, if the big-bellied Samian galley, with her Ibis
+beak and fish's tail had not been so splendidly timbered and manned.
+
+"How far the other homeward-bound passengers may have been driven out of
+their course, I cannot tell; we found shelter in the harbor of Samos, and
+were able to put to sea again after ten days.
+
+"We ran into the mouth of the Nile this morning.  I went on board my own
+bark at once, and was so favored by Boreas, who at least at the end of my
+voyage, seemed willing to prove that he still felt kindly towards his old
+Kallias, that I caught sight of this most friendly of all houses a few
+moments since.  I saw the waving flag, the brightly lighted windows,
+and debated within myself whether to enter or not; but Rhodopis, your
+fascination proved irresistible, and besides, I was bursting with all
+my untold news, longing to share your feast, and to tell you, over the
+viands and the wine, things that you have not even allowed yourselves to
+dream of."
+
+Kallias settled himself comfortably on one of the cushions, and before
+beginning to tell his news, produced and presented to Rhodopis a
+magnificent gold bracelet in the form of a serpent's, which he had bought
+for a large sum at Samos, in the goldsmith's workshop of the very
+Theodorus who was now sitting with him at table.
+
+"This I have brought for you,"' he said, turning to the delighted
+Rhodopis, "but for you, friend Phanes, I have something still better.
+Guess, who won the four-horse chariot-race?"
+
+"An Athenian?"  asked Phanes, and his face glowed with excitement; for
+the victory gained by one citizen at the Olympic games belonged to his
+whole people, and the Olympic olive-branch was the greatest honor and
+happiness that could fall to the lot, either of a single Hellene, or an
+entire Greek tribe.
+
+"Rightly guessed, Phanes!"  cried the bringer of this joyful news, "The
+first prize has been carried off by an Athenian; and not only so, your
+own cousin Cimon, the son of Kypselos, the brother of that Miltiades,
+who, nine Olympiads ago, earned us the same honor, is the man who has
+conquered this year; and with the same steeds that gained him the prize
+at the last games.
+
+     [The second triumph won by the steeds of Cimon must have taken
+     place, as Duneker correctly remarks, about the year 528.  The same
+     horses won the race for the third time at the next Olympic games,
+     consequently four years later.  As token of his gratitude Cimon
+     caused a monument to be erected in their honor in "the hollow way"
+     near Athens.  We may here remind our readers that the Greeks made
+     use of the Olympic games to determine the date of each year.  They
+     took place every four years.  The first was fixed 776 B. C.  Each
+     separate year was named the 1st, 2nd, 3rd or 4th of such or such an
+     Olympiad.]
+
+"The fame of the Alkmaeonidae is, verily, darkening more and more before
+the Philaidae.  Are not you proud, Phanes? do not you feel joy at the
+glory of your family?"
+
+In his delight Phanes had risen from his seat, and seemed suddenly to
+have increased in stature by a whole head.
+
+With a look of ineffable pride and consciousness of his own position, he
+gave his hand to the messenger of victory.  The latter, embracing his
+countryman, continued:
+
+"Yes, we have a right to feel proud and happy, Phanes; you especially,
+for no sooner had the judges unanimously awarded the prize to Cimon, than
+he ordered the heralds to proclaim the tyrant Pisistratus as the owner of
+the splendid team, and therefore victor in the race.  Pisistratus at once
+caused it to be announced that your family was free to return to Athens,
+and so now, Phanes, the long-wished for hour of your return home is
+awaiting you."
+
+But at these words Phanes turned pale, his look of conscious pride
+changed into one of indignation, and he exclaimed:
+
+"At this I am to rejoice, foolish Kallias?  rather bid me weep that a
+descendant of Ajax should be capable of laying his well-won fame thus
+ignominiously at a tyrant's feet!  No!  I swear by Athene, by Father
+Zeus, and by Apollo, that I will sooner starve in foreign lands than take
+one step homeward, so long as the Pisistratidae hold my country in
+bondage.  When I leave the service of Amasis, I shall be free, free as a
+bird in the air; but I would rather be the slave of a peasant in foreign
+lands, than hold the highest office under Pisistratus.  The sovereign
+power in Athens belongs to us, its nobles; but Cimon by laying his
+chaplet at the feet of Pisistratus has acknowledged the tyrants, and
+branded himself as their servant.  He shall hear that Phanes cares little
+for the tyrant's clemency.  I choose to remain an exile till my country
+is free, till her nobles and people govern themselves, and dictate their
+own laws.  Phanes will never do homage to the oppressor, though all the
+Philaidae, the Alkmaeonidae, and even the men of your own house, Kallias,
+the rich Daduchi, should fall down at his feet!"
+
+With flashing eyes he looked round on the assembly; Kallias too
+scrutinized the faces of the guests with conscious pride, as if he would
+say:
+
+"See, friends, the kind of men produced by my glorious country!"
+
+Taking the hand of Phanes again, he said to him: "The tyrants are as
+hateful to me as to you, my friend; but I have seen, that, so long as
+Pisistratus lives, the tyranny cannot be overthrown.  His allies,
+Lygdamis of Naxos and Polykrates of Samos, are powerful; but the greatest
+danger for our freedom lies in his own moderation and prudence.  During
+my recent stay in Greece I saw with alarm that the mass of the people in
+Athens love their oppressor like a father.  Notwithstanding his great
+power, he leaves the commonwealth in the enjoyment of Solon's
+constitution.  He adorns the city with the most magnificent buildings.
+They say that the new temple of Zeus, now being built of glorious marble
+by Kallaeschrus, Antistates and Porinus (who must be known to you,
+Theodorus), will surpass every building that has yet been erected by the
+Hellenes.  He understands how to attract poets and artists of all kinds
+to Athens, he has had the poems of Homer put into writing, and the
+prophecies of Musaeus collected by Onomakritus.  He lays out new streets
+and arranges fresh festivals; trade flourishes under his rule, and the
+people find themselves well off, in spite of the many taxes laid upon
+them.  But what are the people? a vulgar multitude who, like the gnats,
+fly towards every thing brilliant, and, so long as the taper burns, will
+continue to flutter round it, even though they burn their wings in doing
+so.  Let Pisistratus' torch burn out, Phanes, and I'll swear that the
+fickle crowd will flock around the returning nobles, the new light, just
+as they now do around the tyrant.
+
+"Give me your hand once more, you true son of Ajax; for you, my friends,
+I have still many an interesting piece of news untold.
+
+"The chariot-race, as I have just related, was won by Cimon who gave the
+olive-branch to Pisistratus.  Four finer horses than his I never saw.
+Arkesilaus of Cyrene, Kleosthenes of Epidamnus, Aster of Sybaris,
+Hekataeus of Miletus and many more had also sent splendid teams.  Indeed
+the games this time were more than brilliant.  All Hellas had sent
+deputies.  Rhoda of the Ardeates, in distant Iberia, the wealthy
+Tartessus, Sinope in the far East on the shores of Pontus, in short,
+every tribe that could boast of Hellenic descent was well represented.
+The Sybarite deputies were of a dazzling beauty; the Spartans, homely and
+simple, but handsome as Achilles, tall and strong as Hercules; the
+Athenians remarkable for their supple limbs and graceful movements, and
+the men of Crotona were led by Milo, strongest of mortal birth.  The
+Samian and Milesian deputies vied in splendor and gorgeousness of attire
+with those from Corinth and Mitylene: the flower of the Greek youth was
+assembled there, and, in the space allotted to spectators, were seated,
+not only men of every age, class and nation, but many virgins, fair and
+lovely maidens, who had come to Olympia, more especially from Sparta, in
+order to encourage the men during the games by their acclamations and
+applause.  The market was set up beyond the Alphaeus, and there traders
+from all parts of the world were to be seen; Greeks, Carthaginians,
+Lydians, Phrygians and shrewd Phoenicians from Palestine settled weighty
+business transactions, or offered their goods to the public from tents
+and booths.  But how can I possibly describe to you the surging throngs
+of the populace, the echoing choruses, the smoking festal hecatombs,
+the bright and variegated costumes, the sumptuousness of the equipages,
+the clang of the different dialects and the joyful cries of friends
+meeting again after years of separation; or the splendid appearance of
+the envoys, the crowds of lookers-on and venders of small wares, the
+brilliant effect produced by the masses of spectators, who filled to
+overflowing the space allotted to them, the eager suspense during the
+progress of the games, and the never ending shouts of joy when the
+victory was decided; the solemn investiture with the olive-branch, cut
+with a golden knife by the Elean boy, (whose parents must both be
+living), from the sacred tree in the Altis planted so many centuries ago
+by Hercules himself; or lastly, the prolonged acclamations which, like
+peals of thunder, resounded in the Stadium, when Milo of Crotona
+appeared, bearing on his shoulders the bronze statue of himself cast by
+Dameas, and carried it through the Stadium into the Altis without once
+tottering.  The weight of the metal would have crushed a bull to the
+earth: but borne by Milo it seemed like a child in the arms of its
+Lacedaemonian nurse.
+
+"The highest honors (after Cimon's) were adjudged to a pair of Spartan
+brothers, Lysander and Maro, the sons of Aristomachus.  Maro was victor
+in the foot race, but Lysander presented himself, amidst the shouts of
+the spectators, as the opponent of Milo!  Milo the invincible, victor at
+Pisa, and in the Pythian and Isthmian combats.  Milo was taller and
+stouter than the Spartan, who was formed like Apollo, and seemed from his
+great youth scarcely to have passed from under the hands of the
+schoolmaster.
+
+"In their naked beauty, glistening with the golden oil, the youth and the
+man stood opposite to one another, like a panther and a lion preparing
+for the combat.  Before the onset, the young Lysander raised his hands
+imploringly to the gods, crying: 'For my father, my honor, and the glory
+of Sparta!'  The Crotonian looked down on the youth with a smile of
+superiority; just as an epicure looks at the shell of the languste he is
+preparing to open.
+
+"And now the wrestling began.  For some time neither could succeed in
+grasping the other.  The Crotonian threw almost irresistible weight into
+his attempts to lay hold of his opponent, but the latter slipped through
+the iron grip like a snake.  This struggle to gain a hold lasted long,
+and the immense multitude watched silently, breathless from excitement.
+Not a sound was to be heard but the groans of the wrestlers and the
+singing of the nightingales in the grove of the Altis.  At last, the
+youth succeeded, by means of the cleverest trick I ever saw, in clasping
+his opponent firmly.  For a long time, Milo exerted all his strength to
+shake him oft, but in vain, and the sand of the Stadium was freely
+moistened by the great drops of sweat, the result of this Herculean
+struggle.
+
+"More and more intense waxed the excitement of the spectators, deeper and
+deeper the silence, rarer the cries of encouragement, and louder the
+groans of the wrestlers.  At last Lysander's strength gave way.
+Immediately a thousand voices burst forth to cheer him on.  He roused
+himself and made one last superhuman effort to throw his adversary: but
+it was too late.  Milo had perceived the momentary weakness.  Taking
+advantage of it, he clasped the youth in a deadly embrace; a full black
+stream of blood welled from Lysander's beautiful lips, and he sank
+lifeless to the earth from the wearied arms of the giant.  Democedes,
+the most celebrated physician of our day, whom you Samians will have
+known at the court of Polycrates, hastened to the spot, but no skill
+could now avail the happy Lysander,--he was dead.
+
+"Milo was obliged to forego the victor's wreath"; and the fame of this
+youth will long continue to sound through the whole of Greece.
+
+     [By the laws of the games the wrestler, whose adversary died, had no
+     right to the prize of victory.]
+
+I myself would rather be the dead Lysander, son of Aristomachus, than the
+living Kallias growing old in inaction away from his country.  Greece,
+represented by her best and bravest, carried the youth to his grave, and
+his statue is to be placed in the Altis by those of Milo of Crotona and
+Praxidamas of AEgina".  At length the heralds proclaimed the sentence of
+the judges: 'To Sparta be awarded a victor's wreath for the dead, for the
+noble Lysander hath been vanquished, not by Milo, but by Death, and he
+who could go forth unconquered from a two hours' struggle with the
+strongest of all Greeks, hath well deserved the olive-branch.'"
+
+Here Kallias stopped a moment in his narrative.  During his animated
+description of these events, so precious to every Greek heart, he had
+forgotten his listeners, and, gazing into vacancy, had seen only the
+figures of the wrestlers as they rose before his remembrance.  Now, on
+looking round, he perceived, to his astonishment, that the grey-haired
+man with the wooden leg, whom he had already noticed, though without
+recognizing him, had hidden his face in his hands and was weeping.
+Rhodopis was standing at his right hand.  Phanes at his left, and the
+other guests were gazing at the Spartan, as if he had been the hero of
+Kallias's tale.  In a moment the quick Athenian perceived that the aged
+man must stand in some very near relation to one or other of the victors
+at Olympia; but when he heard that he was Aristomachus-the father of that
+glorious pair of brothers, whose wondrous forms were constantly hovering
+before his eyes like visions sent down from the abodes of the gods, then
+he too gazed on the sobbing old man with mingled envy and admiration, and
+made no effort to restrain the tears which rushed into his own eyes,
+usually so clear and keen.  In those days men wept, as well as women,
+hoping to gain relief from the balm of their own tears.  In wrath, in
+ecstasy of delight, in every deep inward anguish, we find the mighty
+heroes weeping, while, on the other hand, the Spartan boys would submit
+to be scourged at the altar of Artemis Orthia, and would bleed and even
+die under the lash without uttering a moan, in order to obtain the praise
+of the men.
+
+For a time every one remained silent, out of respect to the old man's
+emotion.  But at last the stillness was broken by Joshua the Jew, who
+began thus, in broken Greek:
+
+"Weep thy fill, O man of Sparta!  I also have known what it is to lose a
+son.  Eleven years have passed since I buried him in the land of
+strangers, by the waters of Babylon, where my people pined in captivity.
+Had yet one year been added unto the life of the beautiful child, he had
+died in his own land, and had been buried in the sepulchres of his
+fathers.  But Cyrus the Persian (Jehovah bless his posterity!) released
+us from bondage one year too late, and therefore do I weep doubly for
+this my son, in that he is buried among the enemies of my people Israel.
+Can there be an evil greater than to behold our children, who are unto us
+as most precious treasure, go down into the grave before us?  And, may
+the Lord be gracious unto me, to lose so noble a son, in the dawn of his
+early manhood, just at the moment he had won such brilliant renown, must
+indeed be a bitter grief, a grief beyond all others!"
+
+Then the Spartan took away his hands from before his face; he was looking
+stern, but smiled through his tears, and answered:
+
+"Phoenician, you err!  I weep not for anguish, but for joy, and would
+have gladly lost my other son, if he could have died like my Lysander."
+
+The Jew, horrified at these, to him, sinful and unnatural words, shook
+his head disapprovingly; but the Greeks overwhelmed the old man with
+congratulations, deeming him much to be envied.  His great happiness made
+Aristomachus look younger by many years, and he cried to Rhodopis:
+"Truly, my friend, your house is for me a house of blessing; for this is
+the second gift that the gods have allowed to fall to my lot, since I
+entered it."--"What was the first?"  asked Rhodopis.  "A propitious
+oracle."--"But," cried Phanes, "you have forgotten the third; on this day
+the gods have blessed you with the acquaintance of Rhodopis.  But, tell
+me, what is this about the oracle?"--"May I repeat it to our friends?"
+asked the Delphian.
+
+Aristomachus nodded assent, and Phryxus read aloud a second time the
+answer of the Pythia:
+
+    "If once the warrior hosts from the snow-topped mountains descending
+     Come to the fields of the stream watering richly the plain,
+     Then shall the lingering boat to the beckoning meadows convey thee
+     Which to the wandering foot peace and a home will afford.
+     When those warriors come from the snow-topped mountains descending
+     Then will the powerful Five grant thee what they long refused."
+
+Scarcely was the last word out of his mouth, when Kallias the Athenian,
+springing up, cried: "In this house, too, you shall receive from me the
+fourth gift of the gods.  Know that I have kept my rarest news till last:
+the Persians are coming to Egypt!"
+
+At this every one, except the Sybarite, rushed to his feet, and Kallias
+found it almost impossible to answer their numerous questions.  "Gently,
+gently, friends," he cried at last; "let me tell my story in order, or I
+shall never finish it at all.  It is not an army, as Phanes supposes,
+that is on its way hither, but a great embassy from Cambyses, the present
+ruler of the most powerful kingdom of Persia.  At Samos I heard that they
+had already reached Miletus, and in a few days they will be here.  Some
+of the king's own relations, are among the number, the aged Croesus, king
+of Lydia, too; we shall behold a marvellous splendor and magnificence!
+Nobody knows the object of their coming, but it is supposed that King
+Cambyses wishes to conclude an alliance with Amasis; indeed some say the
+king solicits the hand of Pharaoh's daughter."
+
+"An alliance?"  asked Phanes, with an incredulous shrug of the shoulders.
+"Why the Persians are rulers over half the world already.  All the great
+Asiatic powers have submitted to their sceptre; Egypt and our own mother-
+country, Hellas, are the only two that have been shared by the
+conqueror."
+
+"You forget India with its wealth of gold, and the great migratory
+nations of Asia," answered Kallias.  "And you forget moreover, that an
+empire, composed like Persia of some seventy nations or tribes of
+different languages and customs, bears the seeds of discord ever within
+itself, and must therefore guard against the chance of foreign attack;
+lest, while the bulk of the army be absent, single provinces should seize
+the opportunity and revolt from their allegiance.  Ask the Milesians how
+long they would remain quiet if they heard that their oppressors had been
+defeated in any battle?"
+
+Theopompus, the Milesian merchant, called out, laughing at the same time:
+"If the Persians were to be worsted in one war, they would at once be
+involved in a hundred others, and we should not be the last to rise up
+against our tyrants in the hour of their weakness!"
+
+"Whatever the intentions of the envoys may be," continued Kallias, "my
+information remains unaltered; they will be here at the latest in three
+days."
+
+"And so your oracle will be fulfilled, fortunate Aristomachus!"
+exclaimed Rhodopis, "for see, the warrior hosts can only be the Persians.
+When they descend to the shores of the Nile, then the powerful Five,'
+your Ephori, will change their decision, and you, the father of two
+Olympian victors, will be recalled to your native land.
+
+     [The five Ephori of Sparta were appointed to represent the absent
+     kings during the Messenian war.  In later days the nobles made use
+     of the Ephori as a power, which, springing immediately from their
+     own body, they could oppose to the kingly authority.  Being the
+     highest magistrates in all judicial and educational matters, and in
+     everything relating to the moral police of the country, the Ephori
+     soon found means to assert their superiority, and on most occasions
+     over that of the kings themselves.  Every patrician who was past the
+     age of thirty, had the right to become a candidate yearly for the
+     office.  Aristot.  Potit, II. and IV.  Laert.  Diog. I. 68.]
+
+"Fill the goblets again, Knakias.  Let us devote this last cup to the
+manes of the glorious Lysander; and then I advise you to depart, for it
+is long past midnight, and our pleasure has reached its highest point.
+The true host puts an end to the banquet when his guests are feeling at
+their best.  Serene and agreeable recollections will soon bring you
+hither again; whereas there would be little joy in returning to a house
+where the remembrance of hours of weakness, the result of pleasure, would
+mingle with your future enjoyment."  In this her guests agreed, and
+Ibykus named her a thorough disciple of Pythagoras, in praise of the
+joyous, festive evening.
+
+Every one prepared for departure.  The Sybarite, who had been drinking
+deeply in order to counteract the very inconvenient amount of feeling
+excited by the conversation, rose also, assisted by his slaves, who had
+to be called in for this purpose.
+
+While he was being moved from his former comfortable position, he
+stammered something about a "breach of hospitality;" but, when Rhodopis
+was about to give him her hand at parting, the wine gained the ascendancy
+and he exclaimed, "By Hercules, Rhodopis, you get rid of us as if we were
+troublesome creditors.  It is not my custom to leave a supper so long as
+I can stand, still less to be turned out of doors like a miserable
+parasite!"
+
+"Hear reason, you immoderate Sybarite," began Rhodopis, endeavoring with
+a smile to excuse her proceeding.  But these words, in Philoinus' half-
+intoxicated mood, only increased his irritation; he burst into a mocking
+laugh, and staggering towards the door, shouted: "Immoderate Sybarite,
+you call me? good! here you have your answer: Shameless slave! one can
+still perceive the traces of what you were in your youth.  Farewell then,
+slave of Iadmon and Xanthus, freedwoman of Charaxus!"  He had not however
+finished his sentence, when Aristomachus rushed upon him, stunned him
+with a blow of his fist, and carried him off like a child down to the
+boat in which his slaves were waiting at the garden-gate.
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Did the ancients know anything of love
+Folly to fret over what cannot be undone
+Go down into the grave before us (Our children)
+He who kills a cat is punished (for murder)
+In those days men wept, as well as women
+Lovers delighted in nature then as now
+Multitude who, like the gnats, fly towards every thing brilliant
+Olympics--The first was fixed 776 B.C.
+Papyrus Ebers
+Pious axioms to be repeated by the physician, while compounding
+Romantic love, as we know it, a result of Christianity
+True host puts an end to the banquet
+Whether the historical romance is ever justifiable

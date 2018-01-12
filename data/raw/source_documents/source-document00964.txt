@@ -1,0 +1,1082 @@
+﻿Produced by Robert J. Hall
+
+
+HALF-HOURS WITH THE STARS
+
+
+A PLAIN AND EASY GUIDE TO THE KNOWLEDGE OF THE CONSTELLATIONS
+
+SHOWING, IN TWELVE MAPS, THE POSITION FOR THE UNITED STATES OF
+THE PRINCIPAL STAR GROUPS NIGHT AFTER NIGHT THROUGHOUT THE YEAR,
+WITH INTRODUCTION AND A SEPARATE EXPLANATION OF EACH MAP.
+
+TRUE FOR EVERY YEAR
+
+MAPS AND TEXT SPECIALLY PREPARED FOR AMERICAN STUDENTS
+
+
+BY
+
+RICHARD A. PROCTOR, F.R.A.S.
+
+AUTHOR OF "HALF HOURS WITH THE TELESCOPE," "EASY STAR LESSONS," "A
+LARGER STAR ATLAS," AND THE ARTICLE ON ASTRONOMY IN THE "AMERICAN
+CYCLOPÆDIA" AND THE "CYCLOPÆDIA BRITTANICA." ETC., ETC.
+
+
+"Here I may sit and rightly spell
+ Of every star that Heav'n doth show."--MILTON.
+
+The Heavens declare the glory of God; and the Firmament showeth
+His handiwork.--PSALMS xix: 1.
+
+
+G. P. PUTNAM'S SONS
+
+NEW YORK AND LONDON
+
+The Knickerbocker press
+
+1911
+
+
+INTRODUCTION ON THE USE OF THE MAPS.
+
+It is very easy to gain a knowledge of the stars, if the learner
+sets to work in the proper manner. But he commonly meets with a
+difficulty at the outset of his task. He provides himself with a
+set of the ordinary star-maps, and then finds himself at a loss
+how to make use of them. Such maps tell him nothing of the position
+of the constellations _on the sky_. If he happen to recognize a
+constellation, then indeed his maps, if properly constructed, will
+tell him the names of the stars forming the constellation, and also
+he may be able to recognize a few of the neighboring constellations.
+But when he has done this he may meet with a new difficulty, even
+as respects this very constellation. For if he look for it again
+some months later, he will neither find it in its former place nor
+will it present the same aspect,--if indeed it happen to be above
+the horizon at all.
+
+It is clear, then, that what the learner wants is a set of maps
+specially constructed to show him in what part of the sky the
+constellations are to be looked for. He ought on any night of the
+year to be able to turn at once to the proper map, and in that
+map he ought to see at once what to look for, toward what point
+of the compass each visible constellation lies, and how high it
+is above the horizon. And, if possible (as the present work shows
+is the case), _one_ map ought to suffice to exhibit the aspect of
+the whole heavens, in order that the beginner may not be confused
+by turning from map to map, and trying to find out how each fits
+in with the others.
+
+It is to fulfil these requirements that the present maps have been
+constructed. Each exhibits the aspect of the whole sky at a given
+day and hour. The circumference of the map represents the natural
+horizon, the middle of the map representing the part of the sky
+which lies immediately overhead. If the learner hold one of these
+maps over his head, so as to look vertically upwards at it, the
+different parts of the horizon marked in round the circumference
+being turned towards the proper compass points, he will see the
+same view of the heavens as he would if he were to lie on his back
+and look upwards at the sky, only that the map is a planisphere
+and the sky a hemisphere.
+
+But although this illustration serves to indicate the nature of
+the maps, the actual mode of using them is more convenient.
+
+Let it first be noted that properly speaking the maps have neither
+top, bottom, nor sides. Each map may be held with any part of the
+circumference downward: then the centre of the map is to be looked
+upon as the top for that part of the circumference. The portion
+of the map lying beneath the centre represents the portion of the
+sky lying between the point overhead and a certain part of the
+horizon--the part in fact corresponding to the particular part
+of the circumference which is turned downwards. Thus if on any
+night we wish to learn what are the stars towards the north, we
+look for the map corresponding to that night. At the hour named
+the stars toward the north will be those shown between the centre
+of the map and the top; and, of course, we hold the map upside
+down so as to bring the centre above the northern part of the
+circumference.
+
+But this matter will be more clearly understood by comparing the
+account of any of the accompanying maps with the map itself.
+
+Again, it must be noted that, although the maps are necessarily
+arranged in a certain order, there is in reality no first or last
+in the series. The map numbered I. follows the map numbered XII.
+in exactly the same manner that the latter follows the map numbered
+XI. The maps form a circular series, in fact.
+
+The only reason for numbering the maps as at present, is that the map
+numbered I. Happens to exhibit the aspect of the sky at a convenient
+hour on the night of January 1st. It will be found that the dates
+follow on with intervals of seven or eight days right round the year,
+the end of the year falling in the left-hand column of the table
+under Map I., while the beginning of the year is in the right-hand
+column of the same map.[*]
+
+[Footnote *: It may be mentioned in passing, that the dates have
+not been thrown in so as to fall regularly round the year, but
+correspond with the variations due to the earth's variable motion
+round the sun.]
+
+It will be seen at once that a map can always be found corresponding
+to a convenient hour on any night of the year. (In midsummer, on
+a few of the dates mentioned under the maps, night has not begun
+at the hour named.) On any date named under a map, the aspect of
+the sky two hours later than that named is that represented in
+the following map. Thus at eight o'clock in the evening of January
+22d, the aspect of the stars is as shown in Map I. At ten o'clock
+on the same night the aspect of the sky is that shown in Map II., as
+a date under that map shows. Applying this rule to the few occasions
+on which the hour named is not available for observation (five or
+six in all out of ninety-six dates), the observer can manage as
+well for those occasions as for any others.
+
+Next, as to finding the north point, or any point of the compass
+which will enable the observer to determine the rest. If he is
+only familiar with the aspect of those seven bright stars of the
+Great Bear which have been called the Dipper, Charles' Wain, (really
+"The Churl's Wain,") the Butcher's Cleaver, and by other names,
+he can always determine the north point by means of the two stars
+called the Pointers, since these seven stars never set. In the
+explanation of each map I have shown where the Great Bear is to
+be looked for on each night, the observer being assumed to have
+such a general knowledge of the direction of the compass-points,
+as will suffice for the purpose of finding so marked a collection
+of stars. Thus the pole-star is found, and for the purpose of such
+observations as are here considered, this star may be looked upon
+as marking the exact direction of the north.
+
+Perhaps nothing further is required; but if the observer prefer it
+he can determine the north point conveniently _at noon_ by setting
+up a vertical stick in the sunlight and noting the direction in which
+the shadow lies. Once the observation has been made, he can note what
+objects (these should be distant) lie towards the different points
+of the compass, and from that time he can use the accompanying maps
+without any reference to the Great Bear and the Pointers.
+
+It is worth noticing that the stars called the Guardians of the
+Pole form no bad time-piece when used with the aid of such maps
+as the present. They revolve round the pole once in twenty-four
+hours (less about four minutes), in a direction contrary to that of
+a clock's hands. But stars near the equator, whose motions are much
+more rapid, afford a yet better measure of time, if the direction
+of the south point is well determined.
+
+Of course, the observer who really wishes to become an astronomer
+will not rest satisfied by learning only the principal stars shown
+in these maps. By means of the regular star-maps, such as those
+of my School Star Atlas, he will be able to explore the depths
+of all the constellations, having once learned their position and
+general appearance from the accompanying maps. It will be well for
+the student to remember that the planets Venus, Mars, Jupiter, and
+Saturn will at times appear among the constellations here shown.
+Venus and Jupiter can always be recognized by their superior light,
+Mars and Saturn by the steadiness with which they shine. The almanac
+will always show when these planets and Mercury (often very bright
+in the clear skies of America) are above the horizon, and where
+they are situate. They never appear except among the zodiacal
+constellations.
+
+For particulars and pictures of the different constellations, and
+other details associated with the study of the star-groupings,
+the reader is referred to my "Easy Star Lessons," published like
+the present maps by Messrs. PUTNAM'S SONS. I have to thank the
+proprietors of the _Scientific American_ for permission to publish
+these maps, which originally appeared (though in a slightly different
+form) in the pages of that excellent magazine. The Latin names
+of the constellations included in the maps of this series are as
+follows:
+
+  THE LITTLE BEAR, URSA MINOR (a, the _Pole Star_; b, g, _the Guardians_).
+  THE DRAGON, DRACO (a, _Thuban_).
+  KING CEPHEUS, CEPHEUS.
+  THE LADY IN THE CHAIR, CASSIOPEIA.
+  THE CHAMPION, PERSEUS (b, _Algol_, remarkable variable).
+  THE CHARIOTEER, AURIGA (a, _Capella_).
+  THE GREATER BEAR, URSA MAJOR (a, b, the _Pointers_).
+  THE HUNTING DOGS, CANES VENATICI (a, _Cor Caroli_).
+  QUEEN BERENICE'S HAIR, COMA BERENICES.
+  THE HERDSMAN, BOÖTES (a, _Arcturus_).
+  THE NORTHERN CROWN, CORONA BOREALIS.
+  THE SERPENT, SERPENS.
+  THE KNEELER, HERCULES.
+  THE LYRE, LYRA (a, _Vega_).
+  THE SWAN, CYGNUS (a, _Arided_; b, _Albireo_).
+  THE WINGED HORSE, PEGASUS.
+  THE CHAINED LADY, ANDROMEDA.
+  THE TRIANGLES, TRIANGULA.
+  THE RAM, ARIES.
+  THE BULL, TAURUS (a, _Aldebaran_; ae, _Alcyone_, the chief _Pleiad_).
+  THE TWINS, GEMINI (a, _Castor_; b, _Pollux_).
+  THE CRAB, CANCER (the cluster between g and d is the _Beehive_).
+  THE LION, LEO (a, _Regulus_).
+  THE VIRGIN, VIRGO (a, _Spica_).
+  THE SCALES, LIBRA.
+  THE SERPENT-HOLDER, OPHIUCHUS.
+  THE EAGLE, AQUILA (a, _Altair_).
+  THE DOLPHIN, DELPHINUS.
+  THE WATER CARRIER, AQUARIUS.
+  THE FISHES, PISCES.
+  THE SEA MONSTER, CETUS (o, _Mira_, remarkable variable)
+  THE RIVER, ERIDANUS.
+  THE GIANT HUNTER, ORION (a, _Betelgeux_; b, _Rigel_).
+  THE LESSER DOG, CANIS MINOR (a, _Procyon_).
+  THE SEA SERPENT, HYDRA (a, _Alphard_).
+  THE CUP, CRATER (a, _Alkes_).
+  THE CROW, CORVUS.
+  THE SCORPION, SCORPIO (a, _Antares_).
+  THE ARCHER, SAGITTARIUS.
+  THE SEA-GOAT, CAPRICORNUS.
+  THE SOUTHERN FISH, PISCIS AUSTRALIS (a, _Fomalhaut_).
+  THE HARE, LEPUS.
+  THE DOVE, COLUMBA.
+  THE GREATER DOG, CANIS MAJOR, (a, _Sirius_).
+  THE SHIP, ARGO.
+  THE CENTAUR, CENTAURUS.
+
+The following table exhibits the names of all the stars of the
+first three magnitudes to which astronomers have given names; at
+least, all those whose names are in common use:
+
+a Andromedæ, _Alpheratz_
+b ----, _Mirach, Mizar_.
+g ----, _Almach_.
+a Aquarii, _Sadalmelik_
+b ----, _Sadalsund_
+g ----, _Skat_
+a Aquilæ, _Altair_
+b ----, _Alshain_
+g ----, _Tarazed_
+a Arietis, _Hamal_
+b ----, _Sheratan_
+g ----, _Mesartim_
+a Aurigæ, _Capella_
+b ----, _Menkalinan_
+a Boötis, _Arcturus_
+b ----, _Nekkar_
+e ----, _Izar, Mizar, Mirach_
+ae ----, _Muphrid_
+a Canum Ven., _Cor Caroli_
+a Canis Majoris, _Sirius_
+b ----, _Mirzam_
+e ----, _Adara_
+a Canis Minoris, _Procyon_
+b ----, _Gomeisa_
+a2 Capricorni, _Secunda Giedi_
+d ----, _Deneb Algiedi_
+a Cassiopeiæ, _Schedar_
+b ----, _Chaph_
+a Cephei, _Alderamin_
+b ----, _Alphirk_
+g ----, _Errai_
+a Ceti, _Menkar_
+b ----, _Diphda_
+
+z Ceti, _Baten Kaitos_
+o ----, _Mira_
+a Columbæ, _Phact_
+a Coronæ Bor, _Alphecca_
+a Corvi, _Alchiba_
+d ----, _Algores_
+a Crateris, _Alkes_
+a Cygni, _Arided, Deneb Adige_
+b ----, _Albireo_
+a Draconis, _Thuban_
+b ----, _Alwaid_
+g ----, _Etanin_
+b Eridani, _Cursa_
+g ----, _Zaurac_
+a Geminorum, _Castor_.
+b ----, _Pollux_
+g ----, _Alhena_
+d ----, _Wesat_
+e ----, _Mebsuta_
+a Herculis, _Ras Algethi_
+b ----, _Korneforos_
+a Hydræ, _Al Fard, Cor Hydroe_
+a Leonis, _Regulus, Cor Leonis_
+b ----, _Deneb Aleet, Denebola, Deneb_
+g ----, _Algeiba_
+d ----, _Zosma_
+a Leporis, _Arneb_
+a Libræ, _Zuben el Genubi_
+b ----, _Zuben el Chamali_
+g ----, _Zuben Hakrabi_
+a Lyræ, _Vega_
+b ----, _Sheliak_
+g ----, _Salaphat_
+
+a Ophiuchi, _Ras Alhague_
+b ----, _Cebalrai_
+a Orionis, _Betelgeux_
+b ----, _Rigel_
+g ----, _Bellatrix_
+d ----, _Mintaka_
+e ----, _Alnilam_
+a Pegasi, _Markab_
+b ----, _Scheat_
+g ----, _Algenib_
+e ----, _Enif_
+z ----, _Homan_
+a Persei, _Mirfak_
+b ----, _Algol_
+a Piscis Aust., _Fomalhaut_
+e Sagittarii, _Kaus Australis_
+a Scorpionis, _Antares, Cor Scorpionis_
+a Serpentis, _Unukalhai_
+a Tauri, _Aldebaran_
+b ----, _Nath_
+ae ----, _Alcyone_ (Pleiad)
+a Ursæ Majoris, _Dubhe_
+b ----, _Merak_
+g ----, _Phecda_
+e ----, _Alioth_
+z ----, _Mizar_
+ae ----, _Alkaid, Benetnasch_
+i ----, _Talitha_
+a Ursa Minoris, _Polaris_
+b ----, _Kochab_
+a Virginis, _Spica Azimech, Spica_
+b ----, _Zavijava_
+e ----, _Vindemiatrix_
+
+
+[Illustration: MAP I. NIGHT SKY.--DECEMBER AND JANUARY.
+
+At 11 o'clock: Dec. 7.     |                 |At 9 o'clock: Jan. 7.
+At 10-1/2 o'clock: Dec. 15.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Jan. 14.
+At 10 o'clock: Dec. 23.    |  Dec. 30.       |At 8 o'clock: Jan. 22.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+NIGHT SKY.--DECEMBER AND JANUARY.
+
+The Great Bear (_Ursa Major_) is now rising well above the horizon, in
+the northeast, the Pointers about midway between north and northeast.
+A line from the Pole Star to the Guardians of the Pole is now in
+the position of the minute hand of a clock about 28 minutes past
+an hour. The Dragon (_Draco_) lies due north, curving round under
+the Little Bear, its head close to the horizon. Low down in the
+northwest is a part of the Swan (_Cygnus_). Higher up we see King
+Cepheus, his wife _Cassiopeia_, and their daughter _Andromeda_
+(the Seated Lady and Chained Lady, respectively), with the Rescuer
+(_Perseus_) nearly overhead. The Winged Horse is setting, his head
+close by the western horizon, and near the jar of the Water Bearer
+(_Aquarius_).
+
+In the southwest is the Whale; and close by, the constellation
+_Pisces_, or the Fishes; above them the Ram (_Aries_), between which
+and _Andromeda_ the Triangles can be seen.
+
+In the south the River (_Eridanus_) makes now its best show. Its
+leading brilliant, _Achernar_, is, however, never seen in the United
+States. In the southeast the Great Dog, with the splendid Sirius
+("which brightliest shines when laved of ocean's wave"), shows
+resplendently. Above is Orion now standing upright, treading on the
+Hare (_Lepus_) and facing the Bull (_Taurus_), now at its highest. The
+Dove (_Columba_) below the Hare is a modern and not very interesting
+constellation.
+
+The Little Dog (_Canis Minor_) is on the east of Orion. In the
+east the Sea Serpent (_Hydra_) is rising, and due east a little
+higher we find _Cancer_, the Crab, (note the pretty cluster called
+the Beehive (_Proesepe_)); above are the twins (_Gemini_), and
+above them the Charioteer (_Auriga_), with the bright _Capella_,
+nearly overhead.
+
+The Lion is rising in the northeast, his heart star _Regulus_ (a)
+being low down a little north of east.
+
+Lastly, due north, high up, the absurd Giraffe (_Camelopardus_)
+stands proudly on his ridiculous head.
+
+
+NIGHT SKY.--JANUARY AND FEBRUARY.
+
+The Great Bear (_Ursa Major_) with its Dipper and Pointers, occupies
+the northeasterly mid-heaven. A line from the Pole Star (a of the
+Little Bear, _Ursa Minor_) to the Guardians, b and g, lies in the
+position of the minute hand of a clock 23 minutes after an hour.
+The Camelopard (_Camelopardus_) is above. The Dragon (_Draco_),
+whose head is below the horizon, curves round the Little Bear to
+between the Guardians and the Pointers. In the northwest, fairly
+high up, we find _Cassiopeia_, the Seated Lady, and on her right,
+lower down, the inconspicuous constellation _Cephius_. _Andromeda_,
+the Chained Lady, is on _Cassiopeia's_ left. The Great Nebula will
+be noticed in the map--it is faintly visible to the naked eye. Above
+_Andromeda_ is _Perseus_, the Rescuing Knight, and above him the
+Charioteer (_Auriga_), nearly overhead. On the left of _Andromeda_
+is _Aries_, the Ram, the small constellation the Triangles lying
+between them.
+
+Toward the southwest, the Whale (_Cetus_) is beginning to set. The
+River (_Eridanus_) occupies the lower part of the southwesterly
+sky, and extends also to the mid-heavens in that direction. The
+Dove (_Columba_) is nearly due south, and at its best--which is
+not saying much. Above is the Hare (_Lepus_), on which _Orion_
+treads. The Giant now presents his noblest aspect--prince of all
+the constellations as he is. He faces the Bull (_Taurus_), known
+by the _Pleiades_ and the bright _Aldebaran_.
+
+Close by the poor Hare, on the left, leaps _Canis Major_, the Greater
+Dog, with the bright Sirius, which "bickers into green and emerald."
+The stern of the Star Ship (_Argo_) is nearing the south.
+
+Very high in the southeast we find the Twins (_Gemini_), with the
+twin stars, _Castor_ and _Pollux_ (a and b); and below them the
+Little Dog (_Canis Minor_). The Sea Serpent (_Hydra_) is rearing
+its tall neck above the eastern horizon (by south), as if aiming
+either for the Little Dog or for the Crab (_Cancer_), now high
+up in the east, with its pretty Beehive cluster showing well in
+clear weather. The Lion (_Leo_) is due east, the Sickle (marked
+by the stars a, ae, g, m, and e) being easily recognized.
+
+Queen Berenice's Hair (_Coma Berenices_, not _Berenicis_, as often
+ignorantly given) is in the northeast. It used to mark the tip of
+the real Lion's tail, just as the stars of the Crab marked his
+head. The Hunting Dogs occupy the space between Berenice's Hair
+and the Great Bear.
+
+
+[Illustration: MAP II. NIGHT SKY.--JANUARY AND FEBRUARY.
+
+At 11 o'clock: Jan. 7.     |                 |At 9 o'clock: Feb. 6.
+At 10-1/2 o'clock: Jan. 14.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Feb. 14.
+At 10 o'clock: Jan. 22.    |  Jan. 29.       |At 8 o'clock: Jan. 21.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+[Illustration: MAP III. NIGHT SKY.--FEBRUARY AND MARCH.
+
+At 11 o'clock: Feb. 6.     |                 |At 9 o'clock: Mar. 8.
+At 10-1/2 o'clock: Feb. 14.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Mar. 16.
+At 10 o'clock: Feb. 21.    |  Mar. 1.        |At 8 o'clock: Mar. 23.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+NIGHT SKY.--FEBRUARY AND MARCH.
+
+The Great Bear (_Ursa Major_), with its Dipper and Pointers, is
+now high up in the northeastern sky. The Pointers direct us to the
+Pole Star, (a of the Little Bear _Ursa Minor_). A line from the
+Pole Star to the Guardians of the Pole (b and g) lies in the position
+of the minute hand of a clock 18 minutes after an hour. The Dragon
+(_Draco_) extends from between the Bears to the horizon--east of
+north--where its head with its two bright eyes can be seen.
+
+_Cepheus_ is low down, somewhat to the west of north; his Queen
+(_Cassiopeia_) the Seated Lady, beside him (a and b mark the top rail
+of her chair's back); while above her lies the poor constellation
+_Camelopardus_, the Giraffe.
+
+_Andromeda_, the Chained Lady, is in the northwest, low down--in
+fact, partly set; the Triangles and the Ram (_Aries_) beside her,
+toward the west. Above them is _Perseus_, the Rescuing Knight; and
+above him, somewhat to the west, the Charioteer (_Auriga_). The
+Bull (_Taurus_), with the _Pleiades_ and the bright _Aldebaran_,
+is in the mid-heaven, due west; _Gemini_, the Twins, higher, and
+toward the southwest. _Orion_, below them, is already slanting
+toward "his grave, low down in the west"; beneath him the Hare,
+and in the southwest a part of the River (_Eridanus_).
+
+Due south is a part of the Star Ship (_Argo_), beside which, low
+down, is the foolish Dove (_Columba_), while above leaps the Great
+Dog (_Canis Major_), with the splendid _Sirius_, chief of all the
+stars in the sky, marking his mouth.
+
+High up, a little west of north, is the Little Dog (_Canis Minor_);
+and higher, a little east of north, the Crab (_Cancer_), the "dark
+constellation," as it was called of old, with the pretty cluster
+_Proesepe_, or the Beehive.
+
+The Sea Serpent (_Hydra_) is rearing his long neck high above the
+horizon, bearing on his back, absurdly enough, Noah's Cup (_Crater_)
+and Noah's Raven or Crow (_Corvus_).
+
+Nearly due east, the Virgin (_Virgo_) has risen, Spica shining
+brightly just above the horizon. The Lion (_Leo_) occupies the
+mid-space above; the "Sickle in the Lion"--its handle marked by ae
+and a, its curved blade by g, m, and e--will at once be recognized.
+The Hair of Queen Berenice (_Coma Berenices_) is nearly due east,
+and fairly high. Between this small but remarkable group and the
+Great Bear, lies Hevelius's foolish constellation, the Hunting
+Dogs (_Canes Venatici_). Lastly, in the northeast, the Herdsman
+(_Boötes_), with the orange-yellow brilliant, Arcturus, is rising,
+though at present, paradoxical as it may seem, he lies on his back.
+
+
+NIGHT SKY.--MARCH AND APRIL.
+
+The Great Bear (_Ursa Major_) is now nearing the point overhead,
+the Pointers (a and b) aiming almost directly downward toward the
+Pole Star. The line from this star (a of the Little Bear, _Ursa
+Minor_) to the Guardians (b and g) is now in the position of the
+minute hand of a clock about 13 minutes after an hour.
+
+_Cepheus_ lies north, low down, _Cassiopeia_ on his left, the Camelopard
+above her, _Andromeda_ just setting, almost due northwest, on the left.
+_Perseus_ is due northwest, rather low, the Charioteer (_Auriga_) on
+his left, but higher. Setting between west and northwest we see
+the Bull (_Taurus_), with the _Pleiades_ and the ruddy _Aldebaran_.
+_Orion_ is almost prone in his descent toward his western grave.
+The Twins (_Gemini_) are due west, in the mid-heavens; the Little
+Dog (_Canis Minor_) beside them on their left, the Crab (_Cancer_)
+above, the Greater Dog (_Canis Major_) below, chasing the Hare
+(_Lepus_) below the horizon. Just behind the Dog the poop of the
+Great Ship (_Argo_) is also setting.
+
+The Sea Serpent (_Hydra_) now shows his full length, rearing his
+head high in the south. Observe the darkness of the region around
+his heart, marked by the star a, _Alfard_, the Solitary One. The
+Cup (_Crater_) and Crow (_Corvus_) stand on his back.
+
+The Sickle in the Lion (_Leo_) now stands with handle upright, due
+south. Below the tail stars of the Lion we see the Virgin (_Virgo_),
+with the bright _Spica Azimech_. The set of five third magnitude
+stars, above, was called by the Arabs, for reasons not explained,
+the "Retreat of the Howling She Dog."
+
+Behind the Lion, due east and high up, we see _Coma Berenices_,
+the hair of Queen Berenice, between which and the tail of the Great
+Bear we see in the chart one star only of the Hunting Dogs (_Canes
+Venatici_).
+
+The Herdsman (_Boötes_), still on his back, pursues in that striking
+and effective position the Great Bear. Below the shoulder stars of
+the Herdsman we see the Crown (_Corona Borealis_), near which, on
+the right, low down and due east, the head of the Serpent (_Serpens_)
+is rising. _Hercules_ is also rising, but in the northeast.
+
+Lastly, the stars of the Dragon (_Draco_) can be seen curving from
+between the Pointers and the Pole, round the Little Bear, then back
+toward _Hercules_, the head of the Dragon, with the bright eyes,
+b and g, being rather low down, and somewhat north of northeast.
+
+
+[Illustration: MAP IV. NIGHT SKY.--MARCH AND APRIL.
+
+At 11 o'clock: Mar. 8.     |                 |At 9 o'clock: Apr. 7.
+At 10-1/2 o'clock: Mar. 16.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Apr. 14.
+At 10 o'clock: Mar. 23.    |  Mar. 30.       |At 8 o'clock: Apr. 22.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+[Illustration: MAP V. NIGHT SKY.--APRIL AND MAY.
+
+At 11 o'clock: Apr. 7.     |                 |At 9 o'clock: May 7.
+At 10-1/2 o'clock: Apr. 14.|At 9-1/2 o'clock:|At 8-1/2 o'clock: May 15.
+At 10 o'clock: Apr. 22.    |  Apr. 30.       |At 8 o'clock: May. 22.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+NIGHT SKY.--APRIL AND MAY.
+
+The Great Bear (_Ursa Major_) is now at its highest and nearly
+overhead, the pointers aiming downward from high up, slightly west
+of due north. A line from the Pole Star, (a of the Little Bear,
+_Ursa Minor_) to the Guardians of the Pole, (b and g) is now in
+the position of the minute hand of a clock 8 minutes after an hour.
+
+Below the Little Bear we find _Cepheus_ low down to the east of
+north, and _Cassiopeia_ low down to the west of north. _Perseus_,
+the Rescuer, is setting in the northwest; the Camelopard is above,
+trying to get on his feet.
+
+The Charioteer (_Auriga_), with the bright _Capella_, is nearing
+the northwestern horizon, followed by the Twins (_Gemini_), in the
+west. Further west and higher we find the Crab (_Cancer_), below
+which is the Little Dog (_Canis Minor_).
+
+The southwestern sky is very barren of bright stars. _Alfard_, the
+heart of the Sea Serpent, _Hydra_, shines here alone in a great
+blank space. Above the Sea Serpent's head we see the Sickle in the
+Lion, _Leo_ himself stretching his tail to due south, very high
+up. _Coma Berenices_ is close by, and the Hunting Dogs (_Canes
+Venatici_) between _Coma_ and the Great Bear.
+
+In the south, lower down, we find the Crow (_Corvus_), and the Cup
+(_Crater_), on the Serpent's back; the Virgin (_Virgo_), extending
+in the mid-heavens from southeast to south, between the Lion's
+tail and the Crow. In the same direction, but low down, we find
+the head and body of the Centaur (_Centaurus_), supposed to have
+typified the patriarchal Noah.
+
+In the southeast the Scorpion's heart has just risen, and between
+the head of _Scorpio_ and the Virgin's robes we see the stars of
+the Scales (_Libra_).
+
+Due east, low down, is the Serpent-Holder (_Ophiuchus_), on his
+back--it is the customary attitude of heavenly bodies when rising.
+The Serpent (_Serpens_) held by him is seen curving upward toward
+the Crown (_Corona Borealis_). The Serpent's head is due west,
+and above it we see the bright Arcturus, chief brilliant of the
+Herdsman (_Boötes_).
+
+In the northeast is _Hercules_, his head close to the head of the
+Serpent-Holder. Beneath his feet is the Lyre (_Lyra_) with the
+brilliant _Vega_; and the Swan (_Cygnus_) has already half risen
+above the northeastern horizon.
+
+Lastly, the Dragon (_Draco_) curves from between the Pointers and
+the Pole, round the Guardians toward _Cepheus_, and then retorts its
+head, with gleaming eyes (b and g), toward the heel of _Hercules_.
+
+
+NIGHT SKY.--MAY AND JUNE.
+
+The Great Bear (_Ursa Major_) occupies all the upper sky from the
+west to north, except a small space occupied by the Hunting Dogs
+(_Canes Venatici_). The Pointers are in the northwest, almost
+horizontal. A line from the Pole Star (a of the Little Bear--_Ursa
+Minor_) to the Guardians of the Pole (b and g) now occupies the
+position of the minute hand of a clock 3 minutes past an hour.
+
+Due north, low down, lies _Cassiopeia_, while above, somewhat toward
+the east, we find the inconspicuous constellation _Cepheus_. The
+Camelopard is in the west of north, and getting upright.
+
+Low down in the northwest lie the Charioteer (_Auriga_), and the
+head stars of the Twins (_Gemini_) further west. The Crab (_Cancer_)
+is nearly due west, the Sea Serpent (_Hydra_) holding his head
+almost exactly to the west point. Above is the Sickle in the Lion,
+its blade curved downward, and the tail of the Lion (_Leo_) lies
+above, toward the south of west.
+
+On the Serpent's back we find the Cup (_Crater_) and the Crow
+(_Corvus_), in the southwest and to the south of southwest respectively.
+Above these constellations, and extending beyond the south toward
+the east, the Virgin (_Virgo_) occupies the mid-heavens.
+
+Above the Virgin we see the Herdsman (_Boötes_), his head and shoulders
+nearly overhead. Low down in the south is the Centaur (_Centaurus_),
+bearing on his spear the Wolf (_Lupus_) as an offering for the
+Altar (_Ara_), which, however, is invisible in these latitudes.
+Above the Wolf we see the Scales (_Libra_), while the Scorpion
+(_Scorpio_), one of the few constellations which can at once be
+recognized by its shape, is rising balefully in the southeast.
+
+The Serpent Bearer (_Ophiuchus_) bears the Serpent (_Serpens_) in
+the mid-heavens toward the southeast, the Crown (_Corona Borealis_)
+being high up in the east, close by the Serpent's head.
+
+Low down in the east is the Eagle (_Aquila_), with the fine steel-blue
+star _Altair_, the Swan on the left about northeast, and above
+it the Lyre (_Lyra_), with the still more brilliant steel-blue
+star _Vega_. Hercules occupies the space between the Lyre on the
+one side and the Crown and the Serpent's head on the other. He
+is high up, due east.
+
+Lastly, the Dragon winds from between the Pointers and the Pole
+round the Little Bear, toward Cepheus, and then eastward toward
+the feet of Hercules, close by which we see his head and gleaming
+eyes (b and g).
+
+
+[Illustration: MAP VI. NIGHT SKY.--MAY AND JUNE.
+
+At 11 o'clock: May 7.     |                  |At 9 o'clock: June 7.
+At 10-1/2 o'clock: May 15.|At 9-1/2 o'clock: |At 8-1/2 o'clock: June 14.
+At 10 o'clock: May 22.    |  May 30.         |At 8 o'clock: June 22.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+[Illustration: MAP VII. NIGHT SKY.--JUNE AND JULY.
+
+At 11 o'clock: June 7.     |                 |At 9 o'clock: July 7.
+At 10-1/2 o'clock: June 14.|At 9-1/2 o'clock:|At 8-1/2 o'clock: July 14.
+At 10 o'clock: June 22.    |  June 30.       |At 8 o'clock: July 22.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+NIGHT SKY.--JUNE AND JULY.
+
+The Great Bear (_Ursa Major_) is in the mid-heavens toward the
+northwest, the Pointers not far from the horizontal position. They
+direct us to the Pole Star (a of the Little Bear, _Ursa Minor_).
+The line from this star to the Guardians of the Pole, b and g, is
+in about the position of the minute hand of a clock 2 minutes before
+an hour. The Dragon (_Draco_) curls over the Little Bear, curving
+upward on the east, to where its head, high up in the northeast, is
+marked by the gleaming eyes, b and g. Under the Little Bear, the
+Camelopard has at last come upright.
+
+Low down in the west the Lion (_Leo_) is setting. The point of
+the "Sickle in the Lion" is turned toward the horizon; the handle
+(marked by a and ae) is nearly horizontal. Above the Lion's tail
+is Berenice's Hair (_Coma Berenices_); and between that and the
+Great Bear's tail our chart shows a solitary star of the Hunting
+Dogs (_Canes Venatici_). The Crow (_Corvus_) is low down in the
+southwest, the Cup (_Crater_) beside it, partly set, on the right.
+Above is _Virgo_, the Virgin. Still higher in the southwest--in fact,
+with head close to the point overhead--is the Herdsman (_Boötes_),
+the Crown (_Corona Borealis_) near his southern shoulder marking
+what was once the Herdsman's uplifted arm.
+
+Low down between the south and southwest we find the head and shoulders
+of the Centaur (_Centaurus_), who holds the Wolf (_Lupus_) due
+south. Above the Wolf are the Scales (_Libra_), and above these
+the Serpent (_Serpens_), his head in the south, stretching toward
+the Crown. In the mid-sky, toward the southeast, we find the Serpent
+Bearer (_Ophiuchus_--one star of the Serpent lies east of him).
+Below the Serpent Bearer we find the Scorpion (_Scorpio_), now
+fully risen, and showing truly scorpionic form. Beside the Scorpion
+is the Archer (_Sagittarius_), low down in the southeast. To his
+left we see, low down, two stars marking the head of the Sea Goat
+(_Capricornus_), and one belonging to the Water Bearer (_Aquarius_).
+Above the Sea Goat flies the Eagle (_Aquila_), with the bright
+star _Altair_; and above, near the point overhead, is the kneeling
+_Hercules_. Due east, we see part of the Winged Horse (_Pegasus_);
+above that, the little Dolphin (_Delphinus_), and higher, the Swan
+(_Cygnus_) and the Lyre (_Lyra_), with the beautiful bluish-white
+star _Vega_.
+
+Lastly, low down, between north and northeast, we find the Seated
+Lady (_Cassiopeia_); and above, somewhat eastwardly, the inconspicuous
+constellation _Cepheus, Cassiopeia's_ royal husband.
+
+
+NIGHT SKY.--JULY AND AUGUST.
+
+The Great Bear (_Ursa Major_) is now in the northwest, his paws
+near the horizon. The Pointers (a and b) direct us to the Pole
+Star, (a of the Little Bear, _Ursa Minor_). A line from the Pole
+Star to the Guardians of the Pole is in the position of the minute
+hand of a clock about 7 minutes before an hour. Below the Little
+Bear we see the Camelopard, a little to the east of due north.
+The Dragon (_Draco_) curves round from between the Pointers and
+the Pole, above the Little Bear toward the east, then upward to
+near the point overhead, its head, with the bright stars b and g,
+being highest. Low down in the west we see Berenice's Hair (_Coma
+Berenices_), and one star of the Hunting Dogs (_Canes Venatici_) is
+seen in the chart between _Coma_ and the Great Bear. The Herdsman
+{_Boötes_) occupies the mid-heaven in the west, the Crown (_Corona
+Borealis_) higher up, and due west, Hercules, between the Crown
+and the point overhead.
+
+Low down, extending from the west to near the southwest, we find the
+Virgin (_Virgo_), the bright _Spica_ near its setting place. In the
+southwest are the Scales (_Libra_), and farther to the left, extending
+from the Scales to low down near the south, we find the Scorpion
+(_Scorpio_), one of the finest of the constellations, _Antares_,
+the rival of Mars (as the name means), marking its heart. Above the
+Scorpion and the Scales are the Serpent Bearer (_Serpentarius_ or
+_Ophiuchus_) and the Serpent (_Serpens_), extending right across
+him to near the Crown, after which the Serpent seems reaching.
+
+A little east due south, low down, we find the Archer (_Sagittarius_);
+in the southeast, low down, the Sea Goat (_Capricornus_); and farther
+east, and lower down, the Water Bearer (_Aquarius_). Above the Sea
+Goat is the Eagle (_Aquila_), with the bright bluish-white star
+_Altair_; on its left the pretty little Dolphin (_Delphinus_),
+and above the Dolphin, nearly overhead, the Lyre (_Lyra_), with
+the bluish-white star _Vega_ (even brighter than _Altair_) nearly
+overhead.
+
+Below the Lyre we see the Swan (_Cygnus_), due east; and below the
+Swan the Winged Horse (_Pegasus_), upside down, as usual.
+
+In the northeast, _Andromeda_, the Chained Lady, is rising, her
+head marked by the star a (which was also called d of _Pegasus_).
+(The "Square of Pegasus" is formed by a of _Andromeda_ and a, b,
+and g of _Pegasus_.)
+
+Between the north and northeast is _Cassiopeia_, the Seated Lady,
+and above her, her husband, King _Cepheus_. And lastly _Perseus_
+is just rising, between the north and northeast.
+
+
+[Illustration: MAP VIII. NIGHT SKY.--JULY AND AUGUST.
+
+At 11 o'clock: July 7.     |                 |At 9 o'clock: Aug. 7.
+At 10-1/2 o'clock: July 14.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Aug. 14.
+At 10 o'clock: July 22.    |  July 30.       |At 8 o'clock: Aug. 22.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+[Illustration: MAP IX. NIGHT SKY.--AUGUST AND SEPTEMBER.
+
+At 11 o'clock: Aug. 7.     |                 |At 9 o'clock: Sept. 6.
+At 10-1/2 o'clock: Aug. 14.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Sept. 14.
+At 10 o'clock: Aug. 22.    | Aug. 29.        |At 8 o'clock: Sept. 21.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+NIGHT SKY.--AUGUST AND SEPTEMBER.
+
+The Great Bear (_Ursa Major_) is low down, between northwest and
+north, the Pointers (a and b) directed slantingly upward toward
+the Pole. A line from the Pole Star (a of the Little Bear, _Ursa
+Minor_) to the Guardians of the Pole (b and g), is in the position
+of the minute hand of a clock 12 minutes before an hour. Between
+the Great Bear and the Little Bear run the stars of the Dragon
+(_Draco_), round the Little Bear toward the north, thence toward
+the northwest, where we see the head of the Dragon high up, its two
+bright eyes, b and g, directed toward _Hercules_, which occupies
+the western mid-heaven. Above Hercules is _Lyra_, the Lyre, with
+the bright steel-blue star Vega high up toward the point overhead.
+Right overhead is the Swan (_Cygnus_).
+
+Low down in the northwest we see in the chart one star of the Hunting
+Dogs (_Canes Venatici_). Nearer the west stands the Herdsman, rather
+slanting forward, however, with the Crown (_Corona Borealis_) on his
+left, almost due west. The long winding Serpent (_Serpens_) runs
+from near the Crown (where we see its head due west) to farther
+south than southwest, high up on the western side of the Serpent
+Holder (_Serpentarius_ or _Ophiuchus_), now standing upright in
+the southwest. Low down creeps the Scorpion (_Scorpio_), its heart
+Antares, rival of Mars, in the southwest, the end of its tail between
+south and southwest. Above and south of the Scorpion's tail we see
+the Archer (_Sagittarius_).
+
+Due south, and high up, is the Eagle (_Aquila_), its tail at z and
+e, its head at th, the bright steel-blue Altair marking its body.
+On the left, or east, of the Eagle lies the neat little Dolphin
+(_Delphinus_). Midway between the Dolphin and the horizon is the
+tip of the tail of the Sea Goat (_Capricornus_), whose head lies
+nearly due south.
+
+On the southern horizon is the head of the Indian (_Indus_); on its
+left a part of the Crane (_Grus_), and low down in the southeast
+lies Fomalhaut, the chief brilliant of the Southern Fish (_Piscis
+Australis_). Above lies the Water Bearer (_Aquarius_), in the
+southwestern mid-heaven.
+
+Due east, fairly high, is "the Square of Pegasus," the head of the
+Winged Horse, Pegasus lying close by the Water Pitcher of Aquarius
+(marked by the stars z, g, and a).
+
+The Fishes (_Pisces_) are low down in the east. A few stars of
+the Whale (_Cetus_) are seen on their right, very low down. On
+the left of Pisces we see the Ram (_Aries_), low down; above it
+the Triangle; and above that the Chained Lady (_Andromeda_).
+
+Low down in the northeast is the Rescuing Knight (_Perseus_); above
+whom is _Cassiopeia_, and on her left, higher up, the inconspicuous
+constellation _Cepheus_.
+
+Lastly, immediately below _Cepheus_, we find the Camelopard, below
+which, very low down, between north and northeast, is the Charioteer
+(_Auriga_), the brilliant Capella being just above the horizon.
+
+
+NIGHT SKY.--SEPTEMBER AND OCTOBER.
+
+Low down, between north and northwest, we find the seven stars
+of the Dipper, the Pointers on the right nearly due north. They
+direct us to the Pole Star. The Guardians of the Pole (b and g of
+the Little Bear, _Ursa Minor_) lie in a direction from the Pole
+Star corresponding to that of the minute hand of a clock about 17
+minutes before an hour. Between the Pointers and the Pole Star we
+find the tip of the Dragon's tail: then passing round the Little
+Bear with the Dragon's long train of third magnitude stars, we come,
+after a bend, to the Dragon's head, with the two bright eyes, a
+and b--(part of the Dragon's nose has been borrowed by Hercules).
+These two stars are almost exactly midway between the horizon and
+the point overhead, and nearly northwest. King Cepheus--not a very
+conspicuous constellation--lies between the point overhead and
+the Little Bear.
+
+Low down in the northwest we find the head of the Herdsman (_Boötes_).
+The Crown (_Corona Borealis_), which no one can mistake, lies on
+his left; and close by is the setting head of the Serpent. Above
+these three groups we see Hercules--the Kneeler--his head at a,
+his upraised club by g. Above the head of Hercules we find the
+Lyre, with the bright star Vega; and above that the Swan.
+
+Passing southward, we see the Serpent-Holder (_Serpentarius_ or
+_Ophiuchus_), beyond whom lies the Serpent's tail; a most inconvenient
+arrangement, as the Serpent is divided into two parts. Almost exactly
+southeast, and low down, are the stars of the Archer (_Sagittarius_);
+while above, in the mid-sky, we see the Eagle (_Aquila_), with the
+bright Altair. Note the neat little constellation the Dolphin
+(_Delphinus_), close by.
+
+Due south is the Crane (_Grus_); above it the Southern Fish, with
+the bright star Fomalhaut. Above that the Sea Goat (_Capricornus_),
+and on the left of this the Water Bearer (_Aquarius_); one can
+recognize his water pitcher, marked by the stars b, g, and a.
+
+Toward the west, high up, is the Winged Horse (_Pegasus_); he is
+upside down just now. Below lies the Whale (_Cetus_), or rather
+the Sea Monster. I have my own notion about Cetus, regarding him
+as an icthyosaurus: but that is neither here nor there. The star
+o of this constellation is called Mira; it is a wonderful variable
+star. The Fishes (_Pisces_) may be seen between the Whale and Pegasus.
+Few constellations have suffered more than Pisces by the breaking
+up of star groups. The Fishes themselves are now lost in Andromeda
+and Pegasus.
+
+Note how on the left of Pisces the Ram (_Aries_) "bears aloft"
+Andromeda, the Chained Lady (whose head lies at a), as Milton set
+Aries doing long since. The Triangles serve only as a saddle. Between
+Andromeda and her father, Cepheus, we find her mother, Cassiopeia, or
+rather Cassiopeia's Chair. (Of course b, a, and g mark the chair's
+back.) Perseus, the Rescuer, lies below; b is the famous variable
+_Algol_. Below him lies the Bull (_Taurus_), with the Pleiades and
+the bright Aldebaran. Low down to the left of the Bull, we find
+the Charioteer (_Auriga_), with the bright Capella. And lastly,
+anyone who likes may admire the Camelopard (_Camelopardalis_),
+between the Great Bear, Cepheus, and the Charioteer.
+
+
+[Illustration: MAP X. NIGHT SKY.--SEPTEMBER AND OCTOBER.
+
+At 11 o'clock: Sept. 7.     |                 |At 9 o'clock: Oct. 7.
+At 10-1/2 o'clock: Sept. 14.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Oct. 15.
+At 10 o'clock: Sept. 21.    |  Sept. 30.      |At 8 o'clock: Oct. 22.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+[Illustration: MAP XI. NIGHT SKY.--OCTOBER AND NOVEMBER.
+
+At 11 o'clock: Oct. 7.     |                 |At 9 o'clock: Nov. 7.
+At 10-1/2 o'clock: Oct. 15.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Nov. 14.
+At 10 o'clock: Oct. 22.    |  Oct. 30.       |At 8 o'clock: Nov. 22.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]
+
+
+NIGHT SKY.--OCTOBER AND NOVEMBER.
+
+The Dipper lies low, the Pointers a little east of north. They
+direct to the Pole Star. The Guardians of the Pole (b and g of
+the Little Bear, _Ursa Minor_) lie in a direction from the pole
+star corresponding to that of the minute hand of a clock about 22
+minutes before an hour. Between the Pointers and Pole Star lies
+the tip of the Dragon's Tail. Sweeping around the Little Bear (_Ursa
+Minor_) we find the stars of the Dragon (_Draco_) curving back by
+the star d to the Dragon's Head, with the two bright eyes, g and
+b. Above is the inconspicuous constellation Cepheus; and somewhat
+higher, the stars of Cassiopeia, a and b, marking the top rail of
+the Seated Lady's Chair.
+
+Low down in the northwest Hercules is setting. Above is the Lyre,
+with the bright steel-blue Vega; and above that the stars of the
+Swan (_Cygnus_), which has sometimes been called the Northern Cross.
+
+Nearly due west we find the Eagle (_Aquila_), z and e marking its
+tail, th the head. Above the Eagle is the pretty little constellation
+_Delphinus_, the Dolphin.
+
+In the southwest, rather low, is the Sea Goat (_Capricornus_);
+above and to the south of him the Water Bearer (_Aquarius_), with
+his pitcher, marked by the stars, a, g, and z. The head of the
+Winged Horse, _Pegasus_, now upside down (in fact, he is seldom
+otherwise), is just above this group. The "Square of Pegasus" will
+be noticed high up, due south. The star a of Andromeda, one of
+the corners of this square, used to be also called d of Pegasus.
+
+Much attention need not be directed to the Phoenix, low in the
+southern horizon. The River _Eridanus_ is coming well into view;
+and the great Sea Monster (_Cetus_) now shows finely, his head at
+a and g, his paddles at z and t. The Fishes (_Pisces_) are above;
+the Ram (_Aries_) above them and eastward, lying toward the southeast;
+then the Triangle (_Triangula_, or the Triangles, according to modern
+maps), and the Chained Lady (_Andromeda_) too nearly overhead to be
+very pleasantly observed. The great nebula in which the new star
+recently appeared is near the point overhead.
+
+The grand giant Orion is rising in the east; above him the Bull
+(_Taurus_) with the Pleiades. Low down in the northeast the Twins
+(_Gemini_) are rising; above is the Charioteer (_Auriga_), and
+above him the Rescuing Knight (_Perseus_), "of fair-haired Danae
+born." The Camelopard is hardly worth noticing, except as marking
+a barren region of the heavens.
+
+
+NIGHT SKY.--NOVEMBER AND DECEMBER.
+
+The Great Bear (_Ursa Major_) is beginning to rise above the northeast
+(by north) horizon. The end of the Dipper's handle is hidden. A line
+from the Pole Star (toward which the Pointers direct the observer)
+to the Guardians of the pole (b and g of the Little Bear, _Ursa
+Minor_), is now in the position of the minute hand of a clock 27
+minutes before an hour. The stars of the Dragon wind round below
+the Little Bear toward the west, the head of the Dragon with the
+gleaming eyes ("oblique retorted that askant cast gleaming fire")
+being low down, a little north of northwest. Above is King Cepheus,
+and above him his queen, the Seated Lady (_Cassiopeia_); their
+daughter, the Chained Lady (_Andromeda_) being nearly overhead.
+
+Low down in the northwest we see the Lyre (_Lyra_), with the bright
+Vega; and close by toward the west the Swan (_Cygnus_), or Northern
+Cross. The Eagle is setting in the west, and the Little Dolphin
+nears the western horizon.
+
+Toward the southwest (by west) we see the Water Bearer (_Aquarius_),
+with his pitcher (b, g, a), close by which is the head of the Winged
+Horse (_Pegasus_). In the south, low down, is the absurd Phoenix;
+above, the Sea Monster, or Whale (_Cetus_); above him, the Fishes
+(_Pisces_); above them, the Ram (_Aries_); while nearly overhead
+lies the Triangle, in reality the Triangles (_Triangula_).
+
+The River (_Eridanus_) occupies the southeasterly sky. The Dove and
+Great Dog (_Columba_ and _Canis Major_) are rising in the southeast.
+The glorious _Orion_ has now come well into view, though not yet
+so upright as we could wish a knightly hunter to be. He treads
+on the Hare (_Lepus_), and faces the Bull (_Taurus_) above.
+
+Due east we find the Crab (_Cancer_), and Little Dog (_Canis Minor_)
+low down; the Twins (_Gemini_) higher; above them the Charioteer
+(_Auriga_), with the bright _Capella_, and _Perseus_ the Rescuer
+nearing the point overhead. In the mid-space between _Perseus,
+Auriga_, and the two Bears, we find the ridiculous constellation
+_Camelopardus_, or the Giraffe.
+
+
+[Illustration: MAP XII. NIGHT SKY.--NOVEMBER AND DECEMBER.
+
+At 11 o'clock: Nov. 7.     |                 |At 9 o'clock: Dec. 7.
+At 10-1/2 o'clock: Nov. 14.|At 9-1/2 o'clock:|At 8-1/2 o'clock: Dec. 15.
+At 10 o'clock: Nov. 22.    |  Nov. 30.       |At 8 o'clock: Dec. 23.
+
+Stars of the first magnitude are eight-pointed; second magnitude,
+six-pointed; third magnitude, five-pointed; fourth magnitude (a
+few), four-pointed; fifth magnitude (very few), three-pointed.
+For star names refer to page 4.]

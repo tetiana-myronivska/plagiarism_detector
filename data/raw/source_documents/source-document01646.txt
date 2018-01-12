@@ -1,0 +1,362 @@
+﻿  Hunferþ maleode                 _Hunferd_ loquebatur
+  Ecglafes bearn                  _Ecglavi_ filius,
+  Þe æt fotum sæt                 Qui ad pedes sedit
+  Frean Scyldinga                 Domini Scyldingorum,
+  On band beadu                   Emeritus stipendiis
+  Rune wæs him                    Momordit eum
+  Beowulfes siþ modges            _Beowulfi_ itinere elati
+  Mere faran                      Maria sulcando
+  Micel æfþunca                   Magna indignatio,
+  For þon þe he ne uþe     10     Propterea quod ille nesciret
+  Þæt ænig oþer man               Ullum alium virum
+  Æfre mærþa                      Magis celebrem
+  Þon ma middangardes             In mundo
+  Gehedde under heofenum          Nominari sub coelo
+  Þon he sylfa eart               Quam se ipsum.
+  Þu se Beowulf                   Tu sis _Beowulfus_,
+  Se þe wiþ breccan               Qui ob prædas
+  Wunne on sidne sæ               Ceris per latum æquor
+  Ymb sund flite                  Et maria pugnas.
+  Þær git for wlence       20     Ibi vos ob divitias
+  Wada cunnedon                   Vada explorastis,
+  And for dol gilpe               Et ob falsam gloriam
+  On deop wæter                   Profundas æquas.
+  Aldrum neþdon                   Annis subacto
+  Ne mic ænig mon                 Non mihi aliquis
+  Ne leof ne laþ                  Amicus aut hostis
+  Belean mighte.                  Objicere potest,
+  Sorh fullne siþ                 Illacrimabiles expeditiones.
+  Þa git on sund reon.            Ubi vos per æquora ruistis,
+  Þa git ea gor stream     30     Ibi fluctus sanguinis rivis
+  Earmum þehton                   Miseri texistis.
+  Mæton mere stræta               Metiti estis maris strata:
+  Mundum brugdon                  Castella terruistis:
+  Glidon ofer garsecg             Fluitavistis trans æquora.
+  Geofon yþum                     Salis undæ
+  Weol wintris wylm               Fervuerunt nimborum æstu.
+  Git on wæteris æht              Vos in aquarum vadis
+  Seofon night swuncon            Septem noctibus afflicti fuistis.
+  He þe at sunde                  Ille cum sundum
+  Oferflat hæfde          40      Transvolasset,
+  Mare mægen                      Magis intensæ vires
+  Þa hine on morgen tid           Illum tempore matutino
+  On heaþo Ræmis                  In altam Ræmis
+  Holm up æt baer                 Insulam advexere.
+  Þonon he gesohte                Deinde petiit
+  Swæsne.                         Dulcem,
+  Leof his leodum                 Charam suo populo
+  Lond Brondinga                  Terram Brondingorum.
+  Freoþo burh fægere.             Libertate urbem conspicuam
+  Þaer he folc ahte       50      Ibi populo possessam
+  Burh and beagas                 Urbem et opes
+  Beot eal wiþ                    Correpsit. Omne contra
+  Þe sunu Beanstanes              Tibi filius _Beansteni_
+  Sode gelæste.                   Vere persolvit.
+
+
+_Criticism of the Text._
+
+In order to show how corrupt the text is, I append a collation of the
+above passage with the MS. It may be added that the lines are among the
+simplest in the poem, and call for no emendation. In passages that
+present any real difficulty, Thorkelin is, if possible, even more at
+fault.
+
+  Line 1, _for_ maleode _read_ maþelode.
+       4, _insert period after_ Scyldinga.
+       9, _insert period after_ æfþunca.
+      13, _for_ middangardes _read_ middangeardes.
+      15, _for_ þon _read_ þon{ne}.
+      17, _for_ breccan _read_ brecan (i.e. Brecan).
+      25, _for_ mic _read_ inc.
+      27, _for_ mighte _read_ mihte.
+      37, _for_ wæteris _read_ wæteres.
+      38, _for_ night _read_ niht.
+      40, _insert period after_ oferflat.
+      43, _for_ heaþo Ræmis _read_ heaþoræmes (i.e. Heaþor[-æ]mas).
+      46, _for_ Swæsne _read_ swæsne · [[rune]] · (i.e. [-e]ðel).
+      54, _for_ sode _read_ soðe.
+
+In the composition of his text Thorkelin made all the errors known to
+scribes and editors. He misread words and letters of the MS., although
+he had two transcripts. He dropped letters, combinations of letters, and
+even whole words. He joined words that had no relation to each other;
+he broke words into two or even three parts; he ignored compounds. He
+produced many forms the like of which cannot be found in Old English.
+One further example of his great carelessness may be given. The first
+line of the poem, which is written in large capitals in the MS.:--
+
+  Hwæt we Gardena....
+
+Thorkelin perversely transcribed:--
+
+  Hwæt wegar Dena....
+
+and for this combination of syllables he chose the translation:--
+
+  Quomodo Danorum.
+
+There is, of course, no such word as 'wegar' in Old English.
+
+Of the necessity of punctuation Thorkelin seems to have been serenely
+unconscious; he did not even follow the guides afforded by the MS. Had
+he done so, he would have saved himself many humiliating errors. For
+example, in the text given above, to have noticed the periods mentioned
+in the collation would have been to avoid two glaring instances of
+'running-in.'
+
+
+_Criticism of the Translation._
+
+But, in spite of the wretched text, it remained for the translation to
+discover the depths of Thorkelin's ignorance. It will be seen by reading
+the extract given from the translation that he did not even perceive
+that two men were swimming in the sea. It is to be remembered, too, that
+his error of the 'piratical expedition' is carried on for sixty
+lines--certainly a triumph of ingenuity. It is useless to attempt a
+classification of the errors in this version. In the words of Kemble:--
+
+  'Nothing but malevolence could cavil at the trivial errors which
+  the very best scholars are daily found to commit, but the case is
+  widely different when those errors are so numerous as totally to
+  destroy the value of a work. I am therefore most reluctantly
+  compelled to state that not five lines of Thorkelin's edition can
+  be found in succession in which some gross fault, either in the
+  transcription or translation, does not betray the editor's utter
+  ignorance of the Anglo-Saxon language.' --Edition of 1835,
+  Introd., p. xxix.
+
+
+_Reception of Thorkelin's Edition._
+
+The book was of value only in that it brought Beowulf to the attention
+of scholars. The edition was used by Turner, Grundtvig, and Conybeare.
+I have found the following notices of the book, which will show how it
+was received by the scholarly world.
+
+  TURNER. On collating the Doctor's printed text with the MS. I have
+  commonly found an inaccuracy of copying in every page.--Fifth
+  edition, p. 289, footnote.
+
+  KEMBLE, see supra.
+
+  THORPE. (The work of the learned Icelander exhibits) 'a text
+  formed according to his ideas of Anglo-Saxon, and accompanied by
+  his Latin translation, both the one and the other standing equally
+  in need of an Oedipus.' --Edition of 1855, Preface, xiv.
+
+  See also Grundtvig's criticism in _Beowulfs Beorh_, pp. xvii ff.
+
+    [Footnote 1: Supra, p. 7.]  [[Preliminary Remarks]]
+
+    [Footnote 2: See also Grundtvig's edition of the text of
+    _Beowulf_, p. xvi.]
+
+    [Footnote 3: See _Beowulfs Beorh_, p. xviii.]
+
+    [Footnote 4: See supra, p. 11.]  [[Turner's Account...]]
+
+    [Footnote 5: See Thorkelin, p. 257.]
+
+    [Footnote 6: Ibid., p. 259.]
+
+    [Footnote 7: See Thorkelin, p. 40.]
+
+
+GRUNDTVIG'S TRANSLATION
+
+
+*Bjowulf's Draape. Et Gothisk Helte-digt fra forrige Aar-tusinde af
+Angel-Saxisk paa Danske Riim ved Nic. Fred. Sev. Grundtvig, Præst.
+Kjøbenhavn, 1820[1]. 8vo, pp. lxxiv, 325.
+
+Bjovulvs-Draapen, et Høinordisk Heltedigt, fra Anguls-Tungen fordansket
+af Nik. Fred. Sev. Grundtvig. Anden forbedrede Udgave. Kiøbenhavn. Karl
+Schønbergs Forlag. 1865. 8vo, pp. xvi, 224.
+
+First Danish Translation. Ballad Measures.
+
+
+_Grundtvig._
+
+Nicolas Frederic Severin Grundtvig (1783-1872) was especially noted as a
+student of Old Germanic literature. He began his career in 1806 by his
+studies on the _Edda_. This was followed by a book on Northern Mythology
+(1810), and by various creative works in verse and prose, the subjects
+of which were usually drawn from old Danish history. An account of his
+labors on the _Beowulf_ will be found in the following section. His
+interest in Old English literature continued through his long life, and
+he was well and favorably known among the scholars of his day.
+
+
+_Circumstances of Publication._
+
+In _Beowulfs Beorh_ (Copenhagen, 1861), Grundtvig tells the story of his
+early translation of the poem. He had always had a passionate interest
+in Danish antiquities, and was much excited upon the appearance of
+Thorkelin's text[2]. At that time, however, he knew no Old English, and
+his friend Rask, the famous scholar in Germanic philology, being absent
+from Denmark, he resolved to do what he could with the poem himself. He
+began by committing the entire poem to memory. In this way he detected
+many of the outlines which had been obscured by Thorkelin. The results
+of this study he published in the _Copenhagen Sketch-Book_ (_Kjøbenhavns
+Skilderie_), 1815. When Thorkelin saw the studies he was furious, and
+pronounced the discoveries mere fabrications.
+
+But Rask, upon his return, thought differently, and proposed to
+Grundtvig that they edit the poem together. They began the work, but
+when they reached line 925 the edition was interrupted by Rask's journey
+into Russia and Asia. With the help of Rask's _Anglo-Saxon Grammar_
+(Stockholm, 1817), Grundtvig proceeded with his translation. By the
+munificence of Bülow, who had also given assistance to Thorkelin,
+Grundtvig was relieved of the expense of publication.
+
+
+_Progress of the Interpretation of the Poem._
+
+Grundtvig was the first to understand the story of _Beowulf_. With no
+other materials than Thorkelin's edition of the text and his own
+knowledge of Germanic mythology, he discovered the sea-burial of King
+Scyld, the swimming-match, and the Finn episode. He identified Breca,
+Hnæf, Hengest, King Hrethel, and other characters whose names Thorkelin
+had filched from them.
+
+
+_Text Used._
+
+Rask borrowed the original transcripts which Thorkelin had brought from
+the British Museum, and copied and corrected them. This was the basis of
+Grundtvig's translation.
+
+
+_Differences between the First and Second Editions._
+
+The principal difference is in the introduction; but of the nature and
+extent of changes in the second edition I can give no notion. All my
+information respecting the first volume is derived from transcripts of
+certain parts of it sent me from the British Museum. These copies do not
+reveal any differences between the two translations.
+
+
+_Aim of the Volume, and Nature of the Translation._
+
+We begin by quoting the author's words:--
+
+  'I have studied the poem as if I were going to translate it word
+  for word ... but I will not and have not translated it in that
+  way, and I will venture to maintain that my translation is a
+  faithful one, historically faithful, inasmuch as I have never
+  wilfully altered or interpolated anything, and poetically faithful
+  inasmuch as I have tried with all my might vividly to express what
+  I saw in the poem.... Whoever understands both languages and
+  possesses a poetical sense will see what I mean, and whoever is
+  deficient in knowledge or sense, or both, may stick to his own
+  view, if he will only let me stick to mine, which may be weak
+  enough, but is not so utterly devoid of style and poetry as little
+  pettifoggers in the intellectual world maintain because they can
+  see very well that my method is not theirs. "I have," said Cicero,
+  "translated Demosthenes, not as a grammarian but as an orator, and
+  therefore have striven not so much to convince as to persuade my
+  readers of the truth of his words": methinks I need no other
+  defence as regards connoisseurs and just judges, and if I am much
+  mistaken in this opinion, then my work is absolutely
+  indefensible[3].' --Pages xxxiv, xxxv.
+
+In the introduction to his text of 1861, Grundtvig speaks of his theory
+of translation, saying that he gave, as it were, new clothes, new money,
+and new language to the poor old Seven Sleepers, so that they could
+associate freely with moderns. He believed that it was necessary to put
+the poem into a form that would seem natural and attractive to the
+readers of the day. In so doing he departed from the letter of the law,
+and rewrote the poem according to his own ideas.
+
+In the second edition the author states that he hopes the poem will
+prove acceptable as a reading-book for schools. Its value as a text-book
+in patriotism is also alluded to.
+
+
+EXTRACT.
+
+  SJETTE SANG.
+
+  Trætten med Hunferd Drost og Trøsten derover.
+
+  Nu _Hunferd_ tog til Orde[4],
+  Og _Egglavs_ Søn var han,
+  Men Klammeri han gjorde
+  Med Tale sin paa Stand.
+  Han var en fornem Herre,
+  Han sad ved Thronens Fod,
+  Men avindsyg desværre,
+  Han var ei Bjovulv god;
+  En Torn var ham i Øiet
+  Den Ædlings Herrefærd,
+  Som havde Bølgen pløiet
+  Og Ære høstet der;
+  Thi Hunferd taalte ikke,
+  Med Næsen høit i Sky,
+  At Nogen vilde stikke
+  Ham selv i Roes og Ry.
+
+    'Er du,' see det var Skosen,
+  'Den Bjovulv Mudderpram,
+  Som dykked efter Rosen
+  Og drev i Land med Skam,
+  Som kæppedes med _Brække_
+  Og holdt sig ei for brav,
+  Dengang I, som to Giække,
+  Omflød paa vildne Hav!
+  I vilde med jer Svømmen
+  Paa Vandet giøre Blæst,
+  Men drev dog kun med Strømmen,
+  Alt som I kunde bedst;
+  For aldrig Det ei keise
+  Jeg vilde slig en Klik,
+  Som for den Vendereise
+  I paa jert Rygte sik.
+  Paa Landet var I friske,
+  Men Vand kan slukke Ild,
+  I svømmed som to Fiske,
+  Ia, snart som døde Sild;
+  Da sagtnedes Stoheien,
+  Der Storm og Bølge strid
+  Ier viste Vinterveien
+  Alt i en Uges Tid.
+  Dog, om end Narre begge,
+  Kom du dog værst deran,
+  Thi fra dig svømmed Brække
+  Og blev din Overmand;
+  Du artig blev tilbage,
+  Der han en Morgenstund
+  Opskvulpedes saa fage
+  Paa høie Romøs Grund,
+  Hvorfra sin Kaas han satte
+  Til _Brondingernas_ Land,
+  Med Borge der og Skatte
+  Han var en holden Mand;
+  Der havde han sit Rige,
+  Og deiligt var hans Slot,
+  Han elsket var tillige
+  Af hver sin Undersaat.
+  Saa _Bjansteens_ Søn udførte
+  Alt hvad han trued med;
+  Men da du, som vi hørte,
+  Kom der saa galt afsted,
+  Saa tør jeg nok formode,
+  Om end du giør dig kry,
+  Det giør slet ingen Gode,
+  Du brænder dig paany;
+  Ia, vil en Nat du vove
+  At bie Grændel her,
+  Da tør derfor jeg love,
+  Dig times en Ufærd.'
+
+
+_Criticism of the Translation._
+
+The poem departs so far from the text of _Beowulf_ that any discussion
+of its accuracy would be out of place. As has been shown by the section
+on the nature of the translation, the author had no intention of being
+true to the letter of the text. Grundtvig's scholarship has been
+discussed above.
+

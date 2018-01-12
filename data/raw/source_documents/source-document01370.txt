@@ -1,0 +1,2383 @@
+﻿Produced by Janet Kegg and PG Distributed Proofreaders
+
+
+[Illustration: SAINT ETHELBURGA'S CHURCH, INTERIOR]
+
+
+HENRY HUDSON
+
+A BRIEF STATEMENT OF
+HIS AIMS AND HIS ACHIEVEMENTS
+
+BY
+
+THOMAS A. JANVIER
+
+
+TO WHICH IS ADDED
+A NEWLY-DISCOVERED PARTIAL RECORD
+NOW FIRST PUBLISHED
+
+OF
+
+THE TRIAL OF THE MUTINEERS
+BY WHOM HE AND OTHERS
+WERE ABANDONED TO THEIR DEATH
+
+
+1909
+
+
+TO
+C.A.J.
+
+
+CONTENTS
+
+
+PART I
+A Brief Life of Henry Hudson
+
+PART II
+Newly-discovered Documents
+
+
+PREFACE
+
+
+It is with great pleasure that I include in this volume
+contemporary Hudson documents which have remained neglected for
+three centuries, and here are published for the first time. As I
+explain more fully elsewhere, their discovery is due to the
+painstaking research of Mr. R.G. Marsden, M.A. My humble share in
+the matter has been to recognize the importance of Mr. Marsden's
+discovery; and to direct the particular search in the Record
+Office, in London, that has resulted in their present reproduction.
+I regret that they are inconclusive. We still are ignorant of what
+punishment was inflicted upon the mutineers of the "Discovery"; or
+even if they were punished at all.
+
+The primary importance of these documents, however, is not that
+they establish the fact--until now not established--that the
+mutineers were brought to trial; it is that they embody the sworn
+testimony, hitherto unproduced, of six members of Hudson's crew
+concerning the mutiny. Asher, the most authoritative of Hudson's
+modern historians, wrote: "Prickett is the only eye-witness that
+has left us an account of these events, and we can therefore not
+correct his statements whether they be true or false." We now have
+the accounts of five additional eye-witnesses (Prickett himself is
+one of the six whose testimony has been recovered), and all of
+them, so far as they go, substantially are in accord with
+Prickett's account. Such agreement is not proof of truth. The newly
+adduced witnesses and the earlier single witness equally were
+interested in making out a case in their own favor that would save
+them from being hanged. But this new evidence does entitle
+Prickett's "Larger Discourse" to a more respectful consideration
+than that dubious document heretofore has received. Save in matters
+affected by this fresh material, the following narrative is a
+condensation of what has been recorded by Hudson's authoritative
+biographers, of whom the more important are: Samuel Purchas, Hessel
+Gerritz, Emanuel Van Meteren, G.M. Asher, Henry C. Murphy, John
+Romeyn Brodhead, and John Meredith Read.
+
+T.A.J.
+New York, _July_ 16, 1909.
+
+
+THE ILLUSTRATIONS
+
+
+No portrait of Hudson is known to be in existence. What has passed
+with the uncritical for his portrait--a dapper-looking man wearing
+a ruffed collar--frequently has been, and continues to be,
+reproduced. Who that man was is unknown. That he was not Hudson is
+certain.
+
+Lacking Hudson's portrait, I have used for a frontispiece a
+photograph, especially taken for this purpose, of the interior of
+the Church of Saint Ethelburga: the sole remaining material link,
+of which we have sure knowledge, between Hudson and ourselves. The
+drawing on the cover represents what is very near to being another
+material link--the replica, lately built in Holland, of the "Half
+Moon," the ship in which Hudson made his most famous voyage.
+
+The other illustrations have been selected with a strict regard to
+the meaning of that word. In order to throw light on the text, I
+have preferred--to the ventures of fancy--reproductions of
+title-pages of works on navigation that Hudson probably used;
+pictures of the few and crude instruments of navigation that he
+certainly used; and pictures of ships virtually identical with
+those in which he sailed.
+
+The copy of Wright's famous work on navigation that Hudson may have
+had, and probably did have, with him was of an earlier date than
+that (1610) of which the title-page here is reproduced. This
+reproduction is of interest in that it shows at a glance all of the
+nautical instruments that Hudson had at his command; and of a still
+greater interest in that the map which is a part of it exhibits
+what at that time, by exploration or by conjecture, was the known
+world. To the making of that map Hudson himself contributed: on it,
+with a previously unknown assurance, his River clearly is marked.
+The inadequate indication of his Bay probably is taken from
+Weymouth's chart--the chart that Hudson had with him on his voyage.
+A curious feature of this map is its marking--in defiance of known
+facts--of two straits, to the north and to the south of a large
+island, where should be the Isthmus of Panama.
+
+The one seemingly fanciful picture, that of the mermaids, is not
+fanciful--a point that I have enlarged upon elsewhere--by the
+standard of Hudson's times. Hudson himself believed in the
+existence of mermaids: as is proved by his matter-of-fact entry in
+his log that a mermaid had been seen by two of his crew.
+
+
+A BRIEF LIFE OF HENRY HUDSON
+
+
+HENRY HUDSON
+
+I
+
+
+If ever a compelling Fate set its grip upon a man and drove him to
+an accomplishment beside his purpose and outside his thought, it
+was when Henry Hudson--having headed his ship upon an ordered
+course northeastward--directly traversed his orders by fetching
+that compass to the southwestward which ended by bringing him into
+what now is Hudson's River, and which led on quickly to the
+founding of what now is New York.
+
+Indeed, the late Thomas Aquinas, and the later Calvin, could have
+made out from the few known facts in the life of this navigator so
+pretty a case in favor of Predestination that the blessed St.
+Augustine and the worthy Arminius--supposing the four come together
+for a friendly dish of theological talk--would have had their work
+cut out for them to formulate a countercase in favor of Free Will.
+It is a curious truth that every important move in Hudson's life of
+which we have record seems to have been a forced move: sometimes
+with a look of chance about it--as when the directors of the Dutch
+East India Company called him back and hastily renewed with him
+their suspended agreement that he should search for a passage to
+Cathay on a northeast course past Nova Zembla, and so sent him off
+on the voyage that brought the "Half Moon" into Hudson's River;
+sometimes with the fatalism very much in evidence--as when his own
+government seized him out of the Dutch service, and so put him in
+the way to go sailing to his death on that voyage through Hudson's
+Strait that ended, for him, in his mutineering crew casting him
+adrift to starve with cold and hunger in Hudson's Bay. And, being
+dead, the same inconsequent Fate that harried him while alive has
+preserved his name, and very nobly, by anchoring it fast to that
+River and Strait and Bay forever: and this notwithstanding the fact
+that all three of them were discovered by other navigators before
+his time.
+
+Hudson sought, as from the time of Columbus downward other
+navigators had sought before him, a short cut to the Indies; but
+his search was made, because of what those others had accomplished,
+within narrowed lines. In the century and more that had passed
+between the great Admiral's death and the beginning of Hudson's
+explorations one important geographical fact had been established:
+that there was no water-way across America between, roughly,
+the latitudes of 40° South and 40° North. Of necessity,
+therefore--since to round America south of 40° South would make a
+longer voyage than by the known route around the Cape of Good
+Hope--exploration that might produce practical results had to be
+made north of 40° North, either westward from the Atlantic or
+eastward from the North Sea.
+
+Even within those lessened limits much had been determined before
+Hudson's time. To the eastward, both Dutch and English searchers
+had gone far along the coast of Russia; passing between that coast
+and Nova Zembla and entering the Kara Sea. To the westward, in the
+year 1524, Verazzano had sailed along the American coast from 34°
+to 50° North; and in the course of that voyage had entered what now
+is New York Bay. In the year 1598, Sebastian Cabot had coasted
+America from 38° North to the mouth of what now is Hudson's Strait.
+Frobisher had entered that Strait in the year 1577; Weymouth had
+sailed into it nearly one hundred leagues in the year 1602; and
+Portuguese navigators, in the years 1558 and 1569, probably had
+passed through it and had entered what now is Hudson's Bay.
+
+[Illustration: FAC-SIMILE OF TITLE-PAGE OF A SEA HANDBOOK OF
+HUDSON'S TIME]
+
+As the result of all this exploration, Hudson had at his command a
+mass of information--positive as well as negative--that at once
+narrowed his search and directed it; and there is very good reason
+for believing that he actually carried with him charts of a crude
+sort on which, more or less clearly, were indicated the Strait and
+the Bay and the River which popularly are regarded as of his
+discovery and to which have been given his name. But I hold that
+his just fame is not lessened by the fact that his discoveries,
+nominally, were rediscoveries. Within the proper meaning of the
+word they truly were his dis-coveries: in that he did un-cover them
+so effectually that they became known clearly, and thereafter
+remained known clearly, to the world.
+
+
+II
+
+
+Because of his full accomplishment of what others essayed and only
+partially accomplished, Hudson's name is the best known--excepting
+only that of Columbus--of all the names of explorers by land and
+sea. From Purchas's time downward it has headed the list of Arctic
+discoverers; in every history of America it has a leading place; on
+every map of North America it thrice is written large; here in New
+York, which owes its founding to his exploring voyage, it is
+uttered--as we refer to the river, the county, the city, the
+street, the railroad, bearing it--a thousand times a day.
+
+And yet, in despite of this familiarity with his name, our certain
+knowledge of Hudson's life is limited to a period (April 19,
+1607-June 22,1611) of little more than four years. Of that period,
+during which he did the work that has made him famous, we have a
+partial record--much of it under his own hand--that certainly is
+authentic in its general outlines until it reaches the culminating
+tragedy. At the very last, where we most want the clear truth, we
+have only the one-sided account presented by his murderers: and
+murderers, being at odds with moral conventions generally, are not,
+as a rule, models of veracity. And so it has fallen out that what
+we know about the end of Hudson's life, save that it ended foully,
+is as uncertain as the facts of the earlier and larger part of his
+life are obscure.
+
+An American investigator, the late Gen. John Meredith Read, has
+gone farthest in unearthing facts which enlighten this obscurity;
+but with no better result than to establish certain strong
+probabilities as to Hudson's ancestry and antecedents. By General
+Read's showing, the Henry Hudson mentioned by Hakluyt as one of the
+charter members (February 6, 1554-5) of the Muscovy Company,
+possibly was our navigator's grandfather. He was a freeman of
+London, a member of the Skinners Company, and sometime an alderman.
+He died in December, 1555, according to Stow, "of the late hote
+burning feuers, whereof died many olde persons, so that in London
+died seven Aldermen in the space of tenne monthes." They gave that
+departed worthy a very noble funeral! Henry Machyn, who had charge
+of it, describes it in his delightful "Diary" in these terms: "The
+xx day of December was bered at Sant Donstones in the Est master
+Hare Herdson, altherman of London and Skynner, and on of the
+masters of the gray frere in London with men and xxiiij women in
+mantyl fresse [frieze?] gownes, a herse [catafalque] of wax and
+hong with blake; and there was my lord mare and the swordberer in
+blake, and dyvers oder althermen in blake, and the resedew of the
+althermen, atys berying; and all the masters, boyth althermen and
+odur, with ther gren staffes in ther hands, and all the chylders of
+the gray frersse, and iiij in blake gownes bayring iiij gret
+stayffes-torchys bornying, and then xxiiij men with torchys
+bornying; and the morrow iij masses songe; and after to ys plasse
+to dener; and ther was ij goodly whyt branches, and mony prestes
+and clarkes syngying." Stow adds that the dead alderman's widow,
+Barbara, caused to be set up in St. Dunstan's to his memory--and
+also to that of her second husband, Sir Richard Champion, and
+prospectively to her own--a monument in keeping with their worldly
+condition and with the somewhat mixed facts of their triangular
+case. This was a "very faire Alabaster Tombe, richly and curiously
+gilded, and two ancient figures of Aldermen in scarlet kneeling,
+the one at the one end of the tombe in a goodly arch, the other at
+the other end in like manner, and a comely figure of a lady between
+them, who was wife to them both."
+
+The names have been preserved in legal records of three of the
+sons--Thomas, John and Edward--of this eminent Londoner: who
+flourished so greatly in life; who was given so handsome a send-off
+into eternity; and who, presumably, retains in that final state an
+undivided one-half interest in the lady whose comely figure was
+sculptured upon his tomb. General Read found record of a Henry
+Hudson, mentioned by Stow as a citizen of London in the year 1558,
+who may also have been a son of the alderman; of a Captain Thomas
+Hudson, of Limehouse, who had a leading part in an expedition set
+forth "into the parts of Persia and Media" by the Muscovy Company
+in the years 1577-81; of a Thomas Hudson, of Mortlake, who was a
+friend of Dr. John Dee, and to whom references frequently are made
+in the famous "Diary" such as the following: "March 6 [1583]. I,
+and Mr. Adrian Gilbert and John Davis did mete with Mr. Alderman
+Barnes, Mr. Townson, and Mr. Young, and Mr. Hudson abowt the N.W.
+voyage." Concerning a Christopher Hudson--who was in the service of
+the Muscovy Company as its agent and factor at Moscow from about
+the year 1553 until about the year 1576--the only certainty is that
+he was not a son of the Alderman. There is a record of the year
+1560 that "Christopher Hudson hath written to come home ...
+considering the death of his father and mother"; and, as the
+Alderman died in the year 1555, and as his remarried widow was
+alive in the year 1560, this is conclusive. Being come back to
+England, this Christopher rose to be a person of importance in the
+Company; as appears from the fact that he was one of a committee
+(circa 1583) appointed to confer with "Captain Chris. Carlile ...
+upon his intended discoveries and attempt into the hithermost parts
+of America."
+
+[Illustration: APPARATUS FOR CORRECTING ERRORS OF THE COMPASS.
+FROM "CERTAINE ERRORS IN NAVIGATION." LONDON, 1610]
+
+General Read thus summarized the result of his investigations: "We
+have learned that London was the residence of Henry Hudson the
+elder, of Henry Hudson his son, and of Christopher Hudson, and that
+Captain Thomas Hudson lived at Limehouse, now a part of the
+Metropolis; while Thomas Hudson, the friend of Dr. John Dee,
+resided at Mortlake, then only six or seven miles from the City
+... By reference to a statement made by Abakuk Prickett, in his
+'Larger Discourse,' it will be found that Henry Hudson the
+discoverer also was a citizen of London and had a house there."
+From all of which, together with various minor corroborative facts,
+he draws these conclusions: That Henry Hudson the discoverer was
+the descendant, probably the grandson, of the Henry Hudson who died
+while holding the office of Alderman of the City of London in the
+year 1555; that he "received his early training, and imbibed the
+ideas which controlled the purposes of his after life, under the
+fostering care of the great Corporation [the Muscovy Company] which
+his relatives had helped to found and afterwards to maintain"; that
+he entered the service of that Company as an apprentice, in
+accordance with the then custom, and in due course was advanced to
+command rank.
+
+That is the net result of General Read's most laboriously
+painstaking investigations. The facts for which he searched so
+diligently, and so longed to find, he did not find. In a foot-note
+he added: "The place and date of Hudson's birth will doubtless be
+accurately ascertained in the course of the examinations now being
+made in England under my directions. The result of these researches
+I hope to be able to present to the public at no distant day." That
+note was written nearly fifty years ago, and its writer died long
+since with his hope unrealized.
+
+But while General Read failed to accomplish his main purpose, he
+did, as I have said, more than any other investigator has done to
+throw light on Hudson's ancestry, and on his connection with the
+Muscovy Company in whose service he sailed. Our navigator may or
+may not have been a grandson of the alderman who cut so fine a
+figure in the City three centuries and a half ago; but beyond a
+reasonable doubt he was of the family--so eminently distinguished
+in the annals of discovery--to which that alderman, one of the
+founders of the Muscovy Company, and Christopher Hudson, one of its
+later governors, and Captain Thomas Hudson, who sailed in its
+service, all belonged. And, being akin to such folk, the natural
+disposition to adventure was so strong within him that it led him
+on to accomplishments which have made him the most illustrious
+bearer of his name.
+
+
+III
+
+
+"Anno, 1607, Aprill the nineteenth, at Saint Ethelburge, in Bishops
+Gate street, did communicate with the rest of the parishioners,
+these persons, seamen, purposing to goe to sea foure days after,
+for to discover a passage by the North Pole to Japan and China.
+First, Henry Hudson, master. Secondly, William Colines, his mate.
+Thirdly, James Young. Fourthly, John Colman. Fiftly, John Cooke.
+Sixtly, James Beubery. Seventhly, James Skrutton. Eightly, John
+Pleyce. Ninthly, Thomas Barter. Tenthly, Richard Day. Eleventhly,
+James Knight. Twelfthly, John Hudson, a boy."
+
+With those words Purchas prefaced his account of what is
+known--because we have no record of earlier voyages--as Hudson's
+first voyage; and with those words our certain knowledge of
+Hudson's life begins.
+
+St. Ethelburga's, a restful pause in the bustle of Bishopsgate
+Street, still stands--the worse, to be sure, for the clutter of
+little shops that has been built in front of it, and for
+incongruous interior renovation--and I am very grateful to Purchas
+for having preserved the scrap of information that links Hudson's
+living body with that church which still is alive: into which may
+pass by the very doorway that he passed through those who venerate
+his memory; and there may stand within the very walls and beneath
+the very roof that sheltered him when he and his ship's company
+partook of the Sacrament together three hundred years ago. Purchas,
+no doubt, could have told all that we so gladly would know of
+Hudson's early history. But he did not tell it--and we must rest
+content, I think well content, with that poetic beginning at the
+chancel rail of St. Ethelburga's of the strong life that less than
+four years later came to its epic ending.
+
+The voyage made in the year 1607, for which Hudson and his crew
+prepared by making their peace with God in St. Ethelburga's, had
+nothing to do with America; nor did his voyage of the year
+following have anything to do with this continent. Both of those
+adventures were set forth by the Muscovy Company in search of a
+northeast passage to the Indies; and, while they failed in their
+main purpose, they added important facts concerning the coasts of
+Spitzbergen and of Nova Zembla to the existing stock of
+geographical knowledge, and yielded practical results in that they
+extended England's Russian trade.
+
+The most notable scientific accomplishment of the first voyage was
+the high northing made. By observation (July 23, 1607) Hudson was
+in 80° 23'. By reckoning, two days later, he was in 81°. His
+reckoning, because of his ignorance of the currents, always has
+been considered doubtful. His observed position recently has been
+questioned by Sir Martin Conway, who has arrived at the conclusion:
+"It is demonstrably probable that for 80° 23' we should read 79°
+23'."[1] But even with this reduction accepted, the fact remains
+that until the year 1773, when Captain Phipps reached 80° 48',
+Hudson held the record for "farthest north."
+
+  [Footnote 1: "Hudson's Voyage to Spitzbergen in 1607," by Sir
+  Martin Conway. _The Geographical Journal_, February, 1900.]
+
+To the second voyage belongs the often-quoted incident of the
+mermaid. The log of that voyage that has come down to us was kept
+by Hudson himself; and this is what he wrote in it (June 15, 1608)
+with his own hand: "All day and night cleere sunshine. The wind at
+east. The latitude at noone 75 degrees 7 minutes. We held westward
+by our account 13 leagues. In the afternoon, the sea was asswaged,
+and the wind being at east we set sayle, and stood south and by
+east, and south southeast as we could. This morning one of our
+companie looking over boord saw a mermaid, and calling up some of
+the companie to see her, one more came up and by that time shee was
+come close to the ships side, looking earnestly on the men. A
+little after a sea came and overturned her. From the navill upward
+her backe and breasts were like a womans, as they say that saw her,
+but her body as big as one of us. Her skin very white, and long
+haire hanging downe behinde of colour blacke. In her going downe
+they saw her tayle, which was like the tayle of a porposse, and
+speckled like a macrell. Their names that saw her were Thomas
+Hilles and Robert Rayner."
+
+[Illustration: FROM DE BREY. EDITION 1619]
+
+I am sorry to say that the too-conscientious Doctor Asher, in
+editing this log, felt called upon to add, in a foot-note:
+"Probably a seal"; and to quote, in support of his prosaic
+suggestion, various unnecessary facts about seals observed a few
+centuries later in the same waters by Doctor Kane. For my own part,
+I much prefer to believe in the mermaid--and, by so believing, to
+create in my own heart somewhat of the feeling which was in the
+hearts of those old seafarers in a time when sea-prodigies and
+sea-mysteries were to be counted with as among the perils of every
+ocean voyage.
+
+This belief of mine is not a mere whimsical fancy. Unless we take
+as real what the shipmen of Hudson's time took as real, we not
+only miss the strong romance which was so large a part of their
+life, but we go wide of understanding the brave spirit in which
+their exploring work was done. Adventuring into tempests in their
+cockle-shell ships they took as a matter of course--and were brave
+in that way without any thought of their bravery. As a part of the
+day's work, also, they took their wretched quarters aboard ship and
+their wretched, and usually insufficient, food. Their highest
+courage was reserved for facing the fearsome dangers which existed
+only in their imaginations--but which were as real to them as were
+the dangers of wreck and of starvation and of battlings with wild
+beasts, brute or human, in strange new-found lands. It followed of
+necessity that men leading lives so full of physical hardship, and
+so beset by wondering dread, were moody and discontented--and so
+easily went on from sullen anger into open mutiny. And equally did
+it follow that the shipmasters who held those surly brutes to the
+collar--driving them to their work with blows, and now and then
+killing one of them by way of encouraging the others to
+obedience--were as absolutely fearless and as absolutely strong of
+will as men could be. All of these conditions we must recognize,
+and must try to realize, if we would understand the work that was
+cut out for Hudson, and for every master navigator, in that cruel
+and harsh and yet ardently romantic time.
+
+
+IV
+
+
+It is Hudson's third voyage--the one that brought him into our own
+river, and that led on directly to the founding of our own
+city--that has the deepest interest to us of New York. He made it
+in the service of the Dutch East India Company: but how he came to
+enter that service is one of the unsolved problems in his career.
+
+In itself, there was nothing out of the common in those days in an
+English shipmaster going captain in a Dutch vessel. But Hudson--by
+General Read's showing--was so strongly backed by family influence
+in the Muscovy Company that it is not easy to understand why he
+took service with a corporation that in a way was the Muscovy
+Company's trade rival. Lacking any explanation of the matter, I am
+inclined to link it with the action of the English Government--when
+he returned from his voyage and made harbor at Dartmouth--in
+detaining him in England and in ordering him to serve only under
+the English flag; and to infer that his going to Holland was the
+result of a falling out with the directors of the Muscovy Company;
+and that at their request, when the chances of the sea brought him
+within English jurisdiction, he was detained in his own
+country--and so was put in the way to take up with the adventure
+that led him straight onward to his death. In all of which may be
+seen the working-out of that fatalism which to my mind is so
+apparent in Hudson's doings, and which is most apparent in his
+third voyage: that evidently had its origin in a series of curious
+mischances, and that ended in his doing precisely what those who
+sent him on it were resolved that he should not do.
+
+All that we know certainly about his taking service with the Dutch
+Company is told in a letter from President Jeannin--the French
+envoy who was engaged in the years 1608-9, with representatives of
+other nations, in trying to patch up a truce or a peace between the
+Netherlands and Spain--to his master, Henry IV. Along with his open
+instructions, Jeannin seems to have had private instructions--in
+keeping with the customs and principles of the time--to do what he
+could do in the way of stealing from Holland for the benefit of
+France a share of the East India trade. In regard to this amiable
+phase of his mission, under date of January 21, 1609, he wrote:
+
+"Some time ago I made, by your Majesty's orders, overtures to an
+Amsterdam merchant named Isaac Le Maire, a wealthy man of a
+considerable experience in the East India trade. He offered to make
+himself useful to your Majesty in matters of this kind.... A few
+days ago he sent to me his brother, to inform me that an English
+pilot who has twice sailed in search of a northern passage has been
+called to Amsterdam by the East India Company to tell them what he
+had found, and whether he hoped to discover that passage. They had
+been well satisfied with his answer, and had thought they might
+succeed in the scheme. They had, however, been unwilling to
+undertake at once the said expedition; and they had only
+remunerated the Englishman for his trouble, and had dismissed him
+with the promise of employing him next year, 1610. The Englishman,
+having thus obtained his leave, Le Maire, who knows him well, has
+since conferred with him and has learnt his opinions on these
+subjects; with regard to which the Englishman had also intercourse
+with Plancius, a great geographer and clever mathematician.
+Plancius maintains, according to the reasons of his science, and
+from the information given him, ... that there must be in the
+northern parts a passage corresponding to the one found near the
+south pole by Magellan.... The Englishman also reports that, having
+been to the north as far as 80 degrees, he has found that the more
+northwards he went, the less cold it became."
+
+[Illustration: "HOW THE EARTH IS ROUND"
+FAC-SIMILE OF PAGE "THE ARTE OF NAVIGATION" LONDON. EDITION 1596]
+
+Hudson's name is not mentioned by Jeannin, but as no other
+navigator had been so far north as 80°, there can be no doubt as to
+who "the Englishman" was. The letter goes on to urge that the
+French king should undertake the "glorious enterprise" of searching
+for a northerly passage to the Indies, and that he should undertake
+it openly: as "the East India Company will not have even a right
+to complain, because the charter granted to them by the States
+General authorizes them to sail only around the Cape of Good Hope,
+and not by the north." But Jeannin adds that Le Maire "does not
+dare to speak about it to any one, because the East India Company
+fears above everything to be forestalled in this design."
+
+Precisely that fear on the part of the East India Company did
+undercut the French envoy's plans. In a postscript to his letter he
+adds: "This letter having been terminated, and I being ready to
+send it to your Majesty, Le Maire has again written to me.... Some
+members of the East India Company, who had been informed that the
+Englishman had secretly treated with him, had become afraid that I
+might wish to employ him for the discovery of the passage. For this
+reason they have again treated with him about his undertaking such
+an expedition in the course of the present year. The directors of
+the Amsterdam Chamber have written to the other chambers of the
+same Company to request their approval; and should the others
+refuse, the Amsterdam Chamber will undertake the expedition at
+their own risk."
+
+In point of fact, the other chambers did refuse (although, before
+Hudson actually sailed, they seem to have ratified the agreement
+made with him); and the Amsterdam Chamber, single-handed, did set
+forth the voyage.
+
+In view of the fact that the French project in a way was realized,
+a curiously subtle interest attaches to Jeannin's showing of how
+narrow were the chances by which Hudson missed being taken into the
+French service, and was taken into that of the Dutch. A French
+ship, under the command of a captain whose name has not been
+preserved, did sail for the North--almost precisely a month later
+than Hudson's sailing--on May 5, 1609. Beyond the bare fact that
+such a voyage was made, nothing is known about it: whence the
+inference is a reasonable one that it produced no new discoveries.
+But suppose that Hudson had commanded; and, so commanding, had not
+sailed that unknown captain's useless course but had brought his
+French ship into what now are our bay and our river; and that the
+French, not the Dutch, had founded the city here that now is--but
+by those hair-wide chances might not have been--New York?
+
+
+V
+
+
+Mr. Henry C. Murphy--to whose searchings in the archives of Holland
+we owe so much--found at The Hague a manuscript history of the East
+India Company, written by P. van Dam in the seventeenth century, in
+which a copy of Hudson's contract with the Company is preserved.
+The contract reads as follows:
+
+"On this eighth of January, in the year of our Lord one thousand
+six hundred and nine, the Directors of the East India Company of
+the Chamber of Amsterdam of the ten years reckoning of the one
+part, and Master Henry Hudson, Englishman, assisted by Jodocus
+Hondius[1], of the other part, have agreed in manner following, to
+wit: That the said Directors shall in the first place equip a small
+vessel or yacht of about thirty lasts [60 tons] burden, well
+provided with men, provisions and other necessaries, with which the
+above named Hudson shall, about the first of April, sail in order
+to search for a passage by the north, around the north side of Nova
+Zembla, and shall continue thus along that parallel until he shall
+be able to sail southward to the latitude of sixty degrees. He
+shall obtain as much knowledge of the lands as can be done without
+any considerable loss of time, and if it is possible return
+immediately in order to make a faithful report and relation of his
+voyage to the Directors, and to deliver over his journals,
+log-books, and charts, together with an account of everything
+whatsoever which shall happen to him during the voyage without
+keeping anything back.
+
+"For which said voyage the Directors shall pay the said Hudson, as
+well for his outfit for the said voyage as for the support of his
+wife and children, the sum of eight hundred guilders [say $336].
+And in case (which God prevent) he does not come back or arrive
+hereabouts within a year, the Directors shall farther pay to his
+wife two hundred guilders in cash; and thereupon they shall not be
+farther liable to him or his heirs, unless he shall either
+afterward or within the year arrive and have found the passage good
+and suitable for the Company to use; in which case the Directors
+will reward the before named Hudson for his dangers, trouble, and
+knowledge, in their discretion.
+
+"And in case the Directors think proper to prosecute and continue
+the same voyage, it is stipulated and agreed with the before named
+Hudson that he shall make his residence in this country with his
+wife and children, and shall enter into the employment of no other
+than the Company, and this at the discretion of the Directors, who
+also promise to make him satisfied and content for such farther
+service in all justice and equity. All without fraud or evil
+intent. In witness of the truth, two contracts are made hereof ...
+and are subscribed by both parties and also by Jodocus Hondius as
+interpreter and witness."
+
+[Footnote 1: Hondius, an eminent map-engraver of the time, was a
+Fleming, who, being driven from Flanders by the Spanish cruelties,
+made his home in Amsterdam, where he died in the year 1611.]
+
+[Illustration: FAC-SIMILE OF TITLE-PAGE OF A SEA HANDBOOK OF
+HUDSON'S TIME]
+
+Of Hudson's sailing orders no copy has been found; but an abstract
+of them has been preserved by Van Dam in these words: "This
+Company, in the year 1609, fitted out a yacht of about thirty lasts
+burden and engaged a Mr. Henry Hudson, an Englishman, and a
+skilful pilot, as master thereof: with orders to search for the
+aforesaid passage by the north and north-east above Nova Zembla
+toward the lands or straits of Amian, and then to sail at least as
+far as the sixtieth degree of north latitude, when if the time
+permitted he was to return from the straits of Amian again to this
+country. But he was farther ordered by his instructions to think of
+discovering no other route or passages except the route around the
+north and north-east above Nova Zembla; with this additional
+proviso that, if it could not be accomplished at that time, another
+route would be the subject of consideration for another voyage."
+
+It is evident from the foregoing that never did a shipmaster get
+away to sea with more explicit orders than those which were given
+to Hudson as to how his voyage was, and as to how it was not, to be
+made. On his obedience to those orders, which essentially were a
+part of his contract, depended the obligation of the directors to
+pay him for his services; and farther depended--a consideration
+that reasonably might be expected to touch him still more
+closely--their obligation to bestow a solatium upon his wife and
+children in the event of his death. And yet, with those facts
+clearly before him, he did precisely what he had contracted, and
+what in most express terms he was ordered, not to do.
+
+
+VI
+
+
+Hudson sailed from the Texel in the "Half Moon" (possibly
+accompanied by a small vessel, the "Good Hope," that did not pursue
+the voyage) on March 27-April 6, 1609; and for more than a
+month--until he had doubled the North Cape and was well on toward
+Nova Zembla--went duly on his way. Then came the mutiny that made
+him change, or that gave him an excuse for changing, his ordered
+course.
+
+The log that has been preserved of this voyage was kept by Robert
+Juet; who was Hudson's mate on his second voyage, and who was mate
+again on Hudson's fourth voyage--until his mutinous conduct caused
+him to be deposed. What rating he had on board the "Half Moon" is
+not known; nor do we know whether he had, or had not, a share in
+the mutiny that changed the ship's course from east to west. With a
+suspicious frankness, he wrote in his log: "Because it is a journey
+usually knowne I omit to put downe what passed till we came to the
+height of the North Cape of Finmarke, which we did performe by the
+fift of May (stilo novo), being Tuesday." To this he adds the
+observed position on May 5th, 71° 46' North, and the course, "east,
+and by south and east," and continues: "After much trouble, with
+fogges sometimes, and more dangerous ice. The nineteenth, being
+Tuesday, was close stormie weather, with much wind and snow, and
+very cold. The wind variable between the north north-west and
+north-east. We made our way west and by north till noone."
+
+[Illustration: DUTCH SHIPS OF HUDSON'S TIME.
+FROM DE VEER. DRIE SEYLAGIEN, AMSTERDAM, 1605]
+
+His abrupt transition from the fifth to the nineteenth of May
+covers the time in which the mutiny occurred. Practically, his log
+begins almost on the day that the ship's course was changed. In the
+smooth concluding paragraph of this same log, to be cited later, he
+passes over unmentioned the mutiny that occurred on the homeward
+voyage. Judging him by the facts recorded in the accounts of the
+voyage into Hudson's Bay, it is a fair assumption that in both of
+these earlier mutinies Juet had a hand.
+
+I wish that we could find the bond that held Hudson and Juet
+together. That Juet could write, and that he understood the science
+of navigation--although those were rare accomplishments among
+seamen in his time--fail sufficiently to account for Hudson's
+persistent employment of him. For my own part, I revert to my
+theory of fatalism. It is my fancy that this "ancient man"--as he
+is styled by one of his companions--was Hudson's evil genius; and I
+class him with the most finely conceived character in Marryat's
+most finely conceived romance: the pilot Schriften, in "The Phantom
+Ship." Just as Schriften clung to the younger Van der Decken to
+thwart him, so Juet seems to have clung to Hudson to thwart him;
+and to take--in the last round between them--a leading part in
+compassing Hudson's death.
+
+One authority, and a very good authority, for the facts which Juet
+suppressed concerning the third voyage is the historian Van
+Meteren: who obtained them, there is good reason for believing,
+directly from Hudson himself. In his "Historie der Niederlanden"
+(1614) Van Meteren wrote: "This Henry Hudson left the Texel the
+6th of April, 1609, and having doubled the Cape of Norway the 5th
+of May, directed his course along the northern coasts toward Nova
+Zembla. But he there found the sea as full of ice as he had found
+it in the preceding year, so that he lost the hope of effecting
+anything during the season. This circumstance, and the cold which
+some of his men who had been in the East Indies could not bear,
+caused quarrels among the crew, they being partly English, partly
+Dutch; upon which the captain, Henry Hudson, laid before them two
+propositions. The first of these was, to go to the coast of America
+to the latitude of forty degrees. This idea had been suggested to
+him by some letters and maps which his friend Captain Smith had
+sent him from Virginia, and by which he informed him that there was
+a sea leading into the western ocean to the north of the southern
+English colony [Virginia]. Had this information been true
+(experience goes as yet to the contrary), it would have been of
+great advantage, as indicating a short way to India. The other
+proposition was to direct their search to Davis's Straits. This
+meeting with general approval, they sailed on the 14th of May, and
+arrived, with a good wind, at the Faroe Islands, where they stopped
+but twenty-four hours to supply themselves with fresh water. After
+leaving these islands they sailed on till, on the 18th of July,
+they reached the coast of Nova Francia under 44 degrees.... They
+left that place on the 26th of July, and kept out at sea till the
+3d of August, when they were again near the coast in 42 degrees of
+latitude. Thence they sailed on till, on the 12th of August, they
+reached the shore under 37° 45'. Thence they sailed along the shore
+until we [sic] reached 40° 45', where they found a good entrance,
+between two headlands, and thus entered on the 12th of September
+into as fine a river as can be found, with good anchoring ground on
+both sides."
+
+That river, "as fine as can be found," was our own Hudson.
+
+Van Meteren's account of the voyage, although not published until
+the year 1614, was written very soon after Hudson's return--the
+slip that he makes in using "we" points to the probability that he
+copied directly from Hudson's log--and in it we have all that we
+ever are likely to know about the causes which led to the change in
+the "Half Moon's" course. For my own part, I believe that Hudson
+did precisely what he had wanted to do from the start. The
+prohibitory clause in his instructions, forbidding him to go upon
+other than the course laid down for him, pointedly suggests that he
+had expressed the desire--natural enough, since he twice had
+searched vainly for a passage by Nova Zembla--to search westward
+instead of eastward for a water-way to the Indies. As Van Meteren
+states, authoritatively, he was encouraged to search in that
+direction by the information given him by Captain John Smith
+concerning a passage north of Virginia across the American
+continent--a notion that Smith probably derived in the first
+instance from Michael Lok's planisphere, which shows the continent
+reduced to a mere strip in about the latitude of the river that
+Hudson found; and that he very well might have conceived to be
+confirmed by stories about a great sea not far westward (the great
+lakes) which he heard from the Indians.
+
+But the starting point of this geographical error is immaterial.
+The important fact is that Hudson entertained it: and so was led to
+offer for first choice to his mutinous crew that they should "go
+to the coast of America in the latitude of forty degrees." His
+readiness with that proposition, when the chance to make it came,
+confirms my belief that his own desire was to sail westward, and
+that he made the most of his opportunity. And the essential point,
+after all, is not whether the mutiny forced him to change, or
+merely gave him an excuse for changing, his ordered course: it is
+that he was equal to the emergency when the mutiny came, and so
+controlled it that--instead of going back, defeated of his purpose,
+to Holland--he deliberately took the risk of personal loss that
+attended breaking his contract and traversing his orders, and
+continued on new lines his exploring voyage. It is indicative of
+Hudson's character that he met that cast of fate against him most
+resolutely; and most resolutely played up to it with a strong hand.
+
+
+VII
+
+
+As the direct result of breaking his orders, Hudson was the
+discoverer of our river--to which, therefore, his name properly has
+been given--and also was the first navigator by whom our harbor
+effectively was found. I use advisedly these precisely
+differentiating terms. On the distinctions which they make rests
+Hudson's claim to take practical precedence of Verrazano and of
+Gomez, who sailed in past Sandy Hook nearly a hundred years ahead
+of him; and of those shadowy nameless shipmen who in the
+intervening time, until his coming, may have made our harbor one of
+their stations--for refitting and watering--on their voyages from
+and to Portugal and Spain.
+
+The exploring work of John and of Sebastian Cabot, who sailed along
+our coast, but who missed our harbor, does not come within my
+range: save to note that Sebastian Cabot pretty certainly was one
+of the several navigators, including Frobisher and Davis, who
+entered Hudson's Strait before Hudson's time.
+
+Verrazano was an Italian, sailing in the French service. Gomez was
+a Portuguese, sailing in the Spanish service. Both sought a
+westerly way to the Indies, and both sought it in the same
+year--1524. Verrazano has left a report of his voyage, written
+immediately upon his return to France; and with it a vaguely drawn
+chart of the coasts which he explored. (It is my duty to add that
+certain zealous historians have denounced his report as a forgery,
+and his chart as a "fake"--a matter so much too large for
+discussion here that I content myself with expressing the opinion
+that these charges have not been sustained.) Gomez has left no
+report of his voyage, but a partial account of it may be pieced
+together from the maritime chronicles of his time. He also charted,
+with an approximate accuracy, the lands which he coasted; and while
+his chart has not been preserved in its original shape, there is
+good reason for believing that we have it embodied in the
+planisphere drawn by Juan Ribero, geographer to Charles V., in the
+year 1529. On that planisphere the seaboard of the present states
+of Maryland, New Jersey, New York, and Rhode Island is called "the
+land of Estevan Gomez."
+
+Lacking the full report that Gomez presumably made of his voyage,
+and lacking the original of his chart, it is impossible to decide
+whether he did or did not pass through the Narrows and enter the
+Upper Bay. Doctor Asher holds that he did make that passage; and
+adds: "It is certain that the later Spanish seamen who followed in
+his track in after years were familiar with the [Hudson] river, and
+called it the Rio de Gamas." In support of this strong assertion he
+cites the still-extant "Rutters," or "Routiers," of the period--the
+ocean guide-books showing the distances from place to place,
+marking convenient stations for watering and refitting, and
+describing the entrances to rivers and to harbors--"from which we
+learn," he declares, "that the Rio de Gamas, the name then
+regularly applied to the Hudson on the charts of the time, was one
+of these stages between New Foundland and the colonies of Central
+America."[1]
+
+  [Footnote 1: Asher mentions, in this connection, that
+  "Nantucket Island also figures in some of these rutters under
+  the name of the island of Juan Luis, or Juan Fernandez, and is
+  recommended as a most convenient stage for those who, coming
+  from Europe, wish to proceed to the West Indies by way of the
+  Bermudas."]
+
+In regard to Verrazano--admitting his report to be genuine--the
+fact that he did pass through the Narrows into the Upper Bay is not
+open to dispute. He therefore must have seen--as, a little later,
+Gomez may have seen--the true mouth of Hudson's river eighty-five
+years before Hudson, by actual exploration of it, made himself its
+discoverer. But Verrazano, by his own showing, came but a little
+way into the Upper Bay--which he called a lake--and he made no
+exploration of a practical sort of the harbor that he had found.
+
+It is but simple justice to Verrazano and to Gomez to put on record
+here, along with the story of Hudson's effective discovery, the
+story of their ineffective finding. Fate was against them as
+distinctly as it was with Hudson. They came under adverse
+conditions, and they came too soon. Back of the explorer in the
+French service there was not an alert power eager for colonial
+expansion. Back of the explorer in the Spanish service there was a
+power so busied with colonial expansion on a huge scale--in that
+very year, 1524, Cortes was completing his conquest of Mexico, and
+Pizarro was beginning his conquest of Peru--that a farther
+enlargement of the colonization contract was impossible.
+
+[Illustration: FAC-SIMILE OF TITLE-PAGE OF THE MOST FAMOUS SEA
+HANDBOOK OF HUDSON'S TIME]
+
+Therefore we may fall back upon the assured fact--in which I see
+again the touch of fatalism--that not until Hudson came at the
+right moment, and at the right moment gave an accurate account of
+his explorations to a power that was ready immediately to colonize
+the land that he had found, were our port and our river,
+notwithstanding their earlier technical discovery, truly discovered
+to the world. As for the river, it assuredly is Hudson's very own.
+
+
+VIII
+
+
+From Juet's log I make the following extracts, telling of the "Half
+Moon's" approach to Sandy Hook and of her passage into the Lower
+Bay:
+
+"The first of September, faire weather, the wind variable betweene
+east and sooth; we steered away north north west. At noone we found
+our height [a little north of Cape May] to bee 39 degrees 3
+minutes.... The second, in the morning close weather, the winde at
+south in the morning. From twelve untill two of the clocke we
+steered north north west, and had sounding one and twentie fathoms;
+and in running one glasse we had but sixteene fathoms, then
+seventeene, and so shoalder and shoalder untill it came to twelve
+fathoms. We saw a great fire but could not see the land. Then we
+came to ten fathoms, whereupon we brought our tacks aboord, and
+stood to the eastward east south east, foure glasses. Then the
+sunne arose, and we steered away north againe, and saw the land
+[the low region about Sandy Hook] from the west by north to the
+north west by north, all like broken islands, and our soundings
+were eleven and ten fathoms. Then we looft in for the shoare, and
+faire by the shoare we had seven fathoms. The course along the land
+we found to be north east by north. From the land which we had
+first sight of, untill we came to a great lake of water [the Lower
+Bay] as we could judge it to be, being drowned land, which made it
+to rise like islands, which was in length ten leagues. The mouth
+of that land hath many shoalds, and the sea breaketh on them as it
+is cast out of the mouth of it. And from that lake or bay the land
+lyeth north by east, and we had a great streame out of the bay; and
+from thence our sounding was ten fathoms two leagues from the land.
+At five of the clocke we anchored, being little winde, and rode in
+eight fathoms water.... This night I found the land to hall the
+compasse 8 degrees. For to the northward off us we saw high hils
+[Staten Island and the Highlands]. For the day before we found not
+above two degrees of variation. This is a very good land to fall
+with, and a pleasant land to see.
+
+"The third, the morning mystie, untill ten of the clocke. Then it
+cleered, and the wind came to the south south east, so wee weighed
+and stood to the northward. The land is very pleasant and high, and
+bold to fall withal. At three of the clocke in the after noone, we
+came to three great rivers [the Raritan, the Arthur Kill and the
+Narrows]. So we stood along to the northermost [the Narrows],
+thinking to have gone into it, but we found it to have a very
+shoald barre before it, for we had but ten foot water. Then we cast
+about to the southward, and found two fathoms, three fathoms, and
+three and a quarter, till we came to the souther side of them; then
+we had five and sixe fathoms, and anchored. So wee sent in our
+boate to sound, and they found no lesse water than foure, five,
+sixe, and seven fathoms, and returned in an houre and a halfe. So
+we weighed and went in, and rode in five fathoms, oze ground, and
+saw many salmons, and mullets, and rayes, very great. The height is
+40 degrees 30 minutes."
+
+That is the authoritative account of Hudson's great finding. I
+have quoted it in full partly because of the thrilling interest
+that it has for us; but more to show that the record of his
+explorations--the "Half Moon's" log being written throughout with
+the same definiteness and accuracy--gave what neither Gomez nor
+Verrazano gave: clear directions for finding with certainty the
+haven that he, and those earlier navigators, had found by chance.
+On that fact, and on the other fact that his directions promptly
+were utilized, rests his claim to be the practical discoverer of
+the harbor of New York.
+
+For more than a week the "Half Moon" lay in the Lower Bay and in
+the Narrows. Then, on the eleventh of September, she passed fairly
+beyond Staten Island and came out into the Upper Bay: and Hudson
+saw the great river--which on that day became his river--stretching
+broadly to the north. I can imagine that when he found that
+wide waterway, leading from the ocean into the heart of the
+continent--and found it precisely where his friend Captain John
+Smith had told him he would find it, "under 40 degrees"--his hopes
+were very high. The first part of the story being confirmed, it was
+a fair inference that the second part would be confirmed; that
+presently, sailing through the "strait" that he had entered, he
+would come out, as Magellan had come out from the other strait,
+upon the Pacific--with clear water before him to the coasts of
+Cathay.
+
+That glad hope must have filled his heart during the ensuing
+fortnight; and even then it must have died out slowly through
+another week--while the "Half Moon" worked her way northward as far
+as where Albany now stands. Twice in the course of his voyage
+inland--on September 14th, when his run was from Yonkers to
+Peekskill--he reasonably may have believed that he was on the very
+edge of his great discovery. As the river widened hugely into the
+Tappan Sea, and again widened hugely into Haverstraw Bay, it well
+may have seemed to him that he was come to the ocean outlet--and
+that in a few hours more he would have the waters of the Pacific
+beneath his keel. Then, as he passed through the Southern Gate of
+the Highlands, and thence onward, his hope must have waned--until
+on September 22d it vanished utterly away. Under that date Juet
+wrote in his log: "This night, at ten of the clocke, our boat
+returned in a showre of raine from sounding the river; and found it
+to bee at an end for shipping to goe in."
+
+That was the end of the adventure inland. Juet wrote on the 23d:
+"At twelve of the clocke we weighed, and went downe two leagues";
+and thereafter his log records their movements and their
+doings--sometimes meeting with "loving people" with whom they had
+friendly dealings; sometimes meeting and having fights with people
+who were anything but loving--as the "Half Moon" dawdled slowly
+down the stream. By the 2d of October they were come abreast of
+about where Fort Lee now stands. There they had their last brush
+with the savages, killing ten or twelve of them without loss on
+their own side.
+
+After telling about the fight, Juet adds: "Within a while after wee
+got downe two leagues beyond that place and anchored in a bay
+[north of Hoboken], cleere from all danger of them on the other
+side of the river, where we saw a very good piece of ground [for
+anchorage]. And hard by it there was a cliffe [Wiehawken] that
+looked of the colour of a white greene, as though it were either
+copper or silver myne. And I thinke it to be one of them, by the
+trees that grow upon it. For they be all burned, and the other
+places are greene as grasse. It is on that side of the river that
+is called Manna-hata. There we saw no people to trouble us, and
+rode quietly all night, but had much wind and raine."
+
+In that entry the name Manna-hata was written for the first time,
+and was applied, not to our island but to the opposite Jersey
+shore. The explanation of Juet's record seems to be that the
+Indians known as the Mannahattes dwelt--or that Juet thought that
+they dwelt--on both sides of the river. That they did dwell on, and
+that they did give their name to, our island of Manhattan are facts
+absolutely established by the records of the ensuing three or four
+years.
+
+During October 3d the "Half Moon" was storm-bound. On the 4th, Juet
+records "Faire weather, and the wind at north north west, wee
+weighed and came out of the river into which we had runne so
+farre." Thence, through the Upper Bay and the Narrows, and across
+the Lower Bay--with a boat out ahead to sound--they went onward
+into the Sandy Hook channel. "And by twelve of the clocke we were
+cleere of all the inlet. Then we took in our boat, and set our
+mayne sayle and sprit sayle and our top sayles, and steered away
+east south east, and south east by east, off into the mayne sea."
+
+Juet's log continues and concludes--passing over unmentioned the
+mutiny that occurred before the ship's course definitely was set
+eastward--in these words: "We continued our course toward England,
+without seeing any land by the way, all the rest of this moneth of
+October. And on the seventh day of November (stilo novo), being
+Saturday, by the grace of God we safely arrived in the range of
+Dartmouth, in Devonshire, in the yeere 1609."[1]
+
+  [Footnote 1: From Mr. Brodhead's "History of the State of New
+  York" I reproduce the following note, that tells of the little
+  "Half Moon's" dismal ending: "The subsequent career of the
+  'Half Moon' may, perhaps, interest the curious. The small 'ship
+  book,' before referred to, which I found, in 1841, in the
+  Company's archives at Amsterdam, besides recording the return
+  of the yacht on the 15th of July, 1610, states that on the 2d
+  of May, 1611, she sailed, in company with other vessels, to the
+  East Indies, under the command of Laurens Reael; and that on
+  the 6th of March, 1615, she was 'wrecked and lost' on the
+  island of Mauritius."]
+
+From the standpoint of the East India Company, Hudson's quest upon
+our coast and into our river--the most fruitful of all his
+adventurings, since the planting of our city was the outcome of
+it--was a failure. Hessel Gerritz (1613) wrote: "All that he did
+in the west in 1609 was to exchange his merchandise for furs in
+New France." And Hudson himself, no doubt, rated his great
+accomplishment--on which so large a part of his fame rests
+enduringly--as a mere waste of energy and of time. I hope that he
+knows about, and takes a comforting pride in--over there in the
+Shades--the great city which owes its founding to that seemingly
+bootless voyage!
+
+
+IX
+
+
+What happened to Hudson when he reached Dartmouth has been
+recorded; and, broadly, why it happened. Hessel Gerritz wrote that
+"he ... returned safely to England, where he was accused of having
+undertaken a voyage to the detriment of his own country." Van
+Meteren wrote: "A long time elapsed, through contrary winds, before
+the Company could be informed of the arrival of the ship [the "Half
+Moon"] in England. Then they ordered the ship and crew to return
+[to Holland] as soon as possible. But when they were going to do
+so, Henry Hudson and the other Englishmen of the ship were
+commanded by government there not to leave England but to serve
+their own country." Obviously, international trade jealousies were
+at the root of the matter. Conceivably, as I have stated, the
+Muscovy Company, a much interested party, was the prime mover in
+the seizure of Hudson out of the Dutch service. But we only know
+certainly that he was seized out of that service: with the result
+that he and Fate came to grips again; and that Fate's hold on him
+did not loosen until Death cast it off.
+
+Hudson's fourth, and last, voyage was not made for the Muscovy
+Company; but those chiefly concerned in promoting it were members
+of that Company, and two of them were members of the first
+importance in the direction of its affairs. The adventure was set
+forth, mainly, by Sir Dudley Digges, Sir Thomas Smith, and Master
+John Wolstenholme--who severally are commemorated in the Arctic by
+Smith's Sound, Cape Digges, and Cape Wolstenholme--and the
+expedition got away from London in "the barke 'Discovery'" on April
+17, 1610.
+
+Purchas wrote a nearly contemporary history of this voyage that
+included three strictly contemporary documents: two of them
+certainly written aboard the "Discovery"; and the third either
+written aboard the ship on the voyage home, as is possible, or not
+long after the ship had arrived in England.
+
+The first of these documents is "An Abstract of the Journal of
+Master Henry Hudson." This is Hudson's own log, but badly
+mutilated. It begins on the day of sailing, April 17th, and ends on
+the ensuing August 3d. There are many gaps in it, and the block of
+more than ten months is gone. The missing portions, presumably,
+were destroyed by the mutineers.
+
+The second document is styled by Purchas: "A Note Found in the
+Deske of Thomas Wydowse, Student in the Mathematickes, hee being
+one of them who was put into the Shallop." Concerning this poor
+"student in the mathematickes" Prickett testified before the court:
+"Thomas Widowes was thrust out of the ship into the shallop, but
+whether he willed them take his keys and share his goods, to save
+his life, this examinate knoweth not." Practically, this is an
+assurance that he did make such an offer; and his despairing
+resistance to being outcast is implied also in the pathetic note
+following his name in the Trinity House list of the abandoned ones:
+"put away in great distress." There is nothing to show how he
+happened to be aboard the "Discovery," nor who he was. Possibly he
+may have been a son of the "Richard Widowes, goldsmith," who is
+named in the second charter (1609) of the Virginia Company. His
+"Note"--cited in full later on--exhibits clearly the evil
+conditions that obtained aboard the "Discovery"; and especially
+makes clear that Juet's mutinous disposition began to be manifested
+at a very early stage of the voyage.
+
+The third document is the most important, in that it gives--or
+professes to give--a complete history of the whole voyage. Purchas
+styles it: "A Larger Discourse of the Same Voyage, and the Successe
+Thereof, written by Abacucks Prickett, a servant of Sir Dudley
+Digges, whom the Mutineers had Saved in hope to procure his Master
+to worke their Pardon." Purchas wrote that "this report of Prickett
+may happely bee suspected by some as not so friendly to Hudson."
+Being essentially a bit of special pleading, intended to save his
+own neck and the necks of his companions, it has rested always
+under the suspicion that Purchas cast upon it. Nor is it relieved
+from suspicion by the fact that it is in accord with his sworn
+testimony, and with the sworn testimony of his fellows, before the
+High Court of Admiralty when he and they were on trial for their
+lives as mutineers. The imperfect record of this trial merely shows
+that Prickett and all of the other witnesses--with the partial
+exception of Byleth--told substantially the same story; and--as
+they all equally were in danger of hanging--that story most
+naturally was in their own favor and in much the same words. From
+the Trinity House record it appears that Prickett was "a land man
+put in by the Adventurers"; and in the court records he is
+described, most incongruously, as a "haberdasher"--facts which
+place him, as his own very remarkable narrative places him, on a
+level much above that of the ordinary seamen of Hudson's time.
+
+Dr. Asher's comment upon Prickett's "Discourse," is a just
+determination of its value: "Though the paper he has left us is in
+form a narrative, the author's real intention was much more to
+defend the mutineers than to describe the voyage. As an apologetic
+essay, the 'Larger Discourse' is extremely clever. It manages to
+cast some, not too much, shadow upon Hudson himself. The main fault
+of the mutiny is thrown upon some men who had ceased to live when
+the ship reached home. Those who were then still alive are
+presented as guiltless, some as highly deserving. Prickett's
+account of the mutiny and of its cause has often been suspected.
+Even Purchas himself and Fox speak of it with distrust. But
+Prickett is the only eye-witness that has left us an account of
+these events; and we can therefore not correct his statements,
+whether they be true or false."
+
+My fortunate finding of contemporary documents, unknown to Hudson's
+most authoritative historian, has produced other "eye-witnesses"
+who have "left us an account of these events"; but, obviously,
+their accounts--so harmoniously in agreement--do not affect the
+soundness of Dr. Asher's conclusions. The net result of it all
+being, as I have written, that our whole knowledge of Hudson's
+murder is only so much of the truth as his murderers were agreed
+upon to tell.
+
+
+X
+
+
+In the ruling of that, his last, adventure all of Hudson's malign
+stars seem to have been in the ascendant. His evil genius, Juet,
+again sailed with him as mate; and out of sheer good-will,
+apparently, he took along with him in the "Discovery" another
+villainous personage, one Henry Greene--who showed his gratitude
+for benefits conferred by joining eagerly with Juet in the mutiny
+that resulted in the murder of their common benefactor.
+
+Hudson, therefore, started on that dismal voyage with two
+firebrands in his ship's company--and ship's companies of those
+days, without help from firebrands, were like enough to explode
+into mutiny of their own accord. I must repeat that the sailor-men
+of Hudson's time--and until long after Hudson's time--were little
+better than dangerous brutes; and the savage ferocity that was in
+them was kept in check only by meeting it with a more savage
+ferocity on the part of their superiors.
+
+At the very outset of the voyage trouble began. Hudson wrote on
+April 22, when he was in the mouth of the Thames, off the Isle of
+Sheppey: "I caused Master Coleburne to bee put into a pinke bound
+for London, with my letter to the Adventurars imparting the reason
+why I put him out of the ship." He does not add what that reason
+was;[1] nor is there any reference in what remains of his log to
+farther difficulties with his crew. The newly discovered testimony
+of the mutineers, cited later, refers only to the final mutiny.
+Prickett, therefore--in part borne out by the "Note" of poor
+Widowes--is our authority for the several mutinous outbreaks
+which occurred during the voyage; and Prickett wrote with a
+vagueness--using such phrases as "this day" and "this time,"
+without adding a date--that helped him to muddle his narrative in
+the parts which we want to have, but which he did not want to have,
+most clear.
+
+  [Footnote 1: Captain Lake Fox has the following: "In the road
+  of Lee, in the river Thames, he [Hudson] caused Master
+  Coalbrand to be set in a pinke to be carried back againe to
+  London. This Coalbrand was in every way held to be a better man
+  than himselfe, being put in by the adventurers as his
+  assistant, who envying the same (he having the command in his
+  own hands) devised this course, to send himselfe the same way,
+  though in a farre worse place, as hereafter followeth."
+  Prickett tells only: "Thwart of Sheppey, our Master sent Master
+  Colbert back to the owners with his letter."]
+
+Prickett's first record of trouble refers to some period in July,
+at which time the "Discovery" was within the mouth of Hudson's
+Strait and was beset with ice. It reads: "Some of our men this day
+fell sicke, I will not say it was for feare, although I saw small
+signe of other griefe." His next entry seems to date a fortnight or
+so later, when the ship was farther within the strait and
+temporarily ice-bound: "Here our Master was in despaire, and (as he
+told me after) he thought he should never have got out of this ice,
+but there have perished. Therefore he brought forth his card
+[chart] and showed all the company that hee was entered above an
+hundred leagues farther than ever any English was: and left it to
+their choice whether they should proceed any farther--yea or nay.
+Whereupon some were of one minde and some of another, some wishing
+themselves at home, and some not caring where so they were out of
+the ice. But there were some who then spake words which were
+remembered a great while after." This record shows that Hudson had
+with him a chart of the strait--presumably based on Weymouth's
+earlier (1602) exploration of it--with the discovery of which he
+popularly is credited; and, as Weymouth sailed into the strait a
+hundred leagues, his assertion that he had "entered a hundred
+leagues farther than ever any English was" obviously is an error.
+But the more important matter made clear by Prickett (admitting
+that Prickett told the truth) is that a dangerously ugly feeling
+was abroad among the crew nearly a year before that feeling
+culminated in the final tragedy.
+
+Prickett concludes this episode by showing that Hudson's eager
+desire to press on prevailed: "After many words to no purpose, to
+worke we must on all hands, to get ourselves out and to cleere our
+ship."
+
+And so the "Discovery" went onward--sometimes working her way
+through the ice, sometimes sailing freely in clear water--until
+Hudson triumphantly brought her, as Purchas puts it, into "a
+spacious sea, wherein he sayled above a hundred leagues South,
+confidently proud that he had won the passage"! It was his resolve
+to push on until he could be sure that he truly "had won the
+passage" that won him to his death.
+
+When they had entered that spacious sea--rounding the cape which
+then received its name of Cape Wolstenholme--they came to where
+sorrel and scurvy-grass grew plentifully, and where there was
+"great store of fowle." Prickett records that the crew urged Hudson
+"to stay a daye or two in this place, telling him what refreshment
+might there bee had. But by no means would he stay, who was not
+pleased with the motion." This refers to August 3d, the day on
+which Hudson's log ends. Prickett adds, significantly: "So we left
+the fowle, and lost our way downe to the South West."
+
+By September, the "Discovery" was come into James Bay, at the
+southern extremity of Hudson's Bay; and then it was that the
+serious trouble began. By Prickett's showing, there seems to have
+been a clash of opinions in regard to the ship's course; and of so
+violent a sort that strong measures were required to maintain
+discipline. The outcome was that "our Master took occasion to
+revive old matters, and to displace Robert Juet from being his
+mate, and the boatswaine from his place, for the words spoken in
+the first great bay of ice."
+
+For what happened at that time we have a better authority than
+Prickett. The "Note" of Thomas Widowes covers this episode; and, in
+covering it, throws light upon the mutinous conditions which
+prevailed increasingly as the voyage went on. As the only
+contemporary document giving Hudson's side of the matter it is of
+first importance--we may be very sure that it would not have come
+down to us had it been discovered by the mutineers--and I cite it
+here in full as Purchas prints it:
+
+"The tenth day of September, 1610, after dinner, our Master called
+all the Companie together, to heare and beare witnesse of the abuse
+of some of the Companie (it having beene the request of Robert
+Juet), that the Master should redresse some abuses and slanders, as
+hee called them, against this Juet: which thing after the Master
+had examined and heard with equitie what hee could say for
+himselfe, there were proued so many and great abuses, and mutinous
+matters against the Master, and [the] action by Juet, that there
+was danger to have suffered them longer: and it was fit time to
+punish and cut off farther occasions of the like mutinies.
+
+"It was proved to his face, first with Bennet Mathew, our Trumpet,
+upon our first sight of Island [Iceland], and he confest, that he
+supposed that in the action would be man slaughter, and proue
+bloodie to some.
+
+"Secondly, at our coming from Island, in hearing of the Companie,
+hee did threaten to turne the head of the Ship home from the
+action, which at that time was by our Master wisely pacified,
+hoping of amendment.
+
+"Thirdly, it was deposed by Philip Staffe, our Carpenter, and
+Ladlie Arnold [Arnold Ludlow] to his face upon the holy Bible, that
+hee perswaded them to keepe Muskets charged, and Swords readie in
+their Cabbins, for they should be charged with shot ere the Voyage
+was over.
+
+"Fourthly, wee being pestered in the Ice, hee had used words
+tending to mutinie, discouragement, and slander of the action,
+which easily took effect in those that were timorous; and had not
+the Master in time preuented, it might easily have overthrowne the
+Voyage: and now lately being imbayed in a deepe Bay, which the
+Master had desire to see, for some reasons to himselfe knowne, his
+word tended altogether to put the Companie into a fray [fear] of
+extremitie, by wintering in cold: Jesting at our Master's hope to
+see Bantam by Candlemas.
+
+"For these and diuers other base slanders against the Master, hee
+was deposed, and Robert Bylot [Bileth, or Byleth], who had showed
+himself honestly respecting the good of the action, was placed in
+his stead the Masters Mate.
+
+"Also Francis Clement the Boatson, at this time was put from his
+Office, and William Wilson, a man thought more fit, preferred to
+his place. This man had basely carried himselfe to our Master and
+the action.
+
+"Also Adrian Mooter was appointed Boatsons mate: and a promise by
+the Master, that from this day Juats wages should remain to Bylot,
+and the Boatsons overplus of wages should bee equally diuided
+betweene Wilson and one John King, to the owners good liking, one
+of the Quarter Masters, who had very well carryed themselves to the
+furtherance of the businesse.
+
+"Also the Master promised, if the Offenders yet behaued themselves
+henceforth honestly, hee would be a means for their good, and that
+hee would forget injuries, with other admonitions."
+
+Hudson's fame is the brighter for this testament of the poor
+"Student in the Mathematickes" whose loyalty to his commander cost
+him his life. At times, Hudson seems to have temporized with his
+mutinous crews. In this grave crisis he did not temporize. For
+cause, he disrated his chief officers: and so asserted in that
+desolate place, as fearlessly as he would have asserted it in an
+English harbor, that aboard his ship his will was law.
+
+But his strong action only scotched the mutiny. Prickett's
+narrative of the doings of the ensuing seven weeks deals with what
+he implies was purposeless sailing up and down James Bay. He casts
+reflections upon Hudson's seamanship in such phrases as "our Master
+would have the anchor up, against the mind of all who knew what
+belongeth thereto"; and in all that he writes there is a
+perceptible note of resentment of the Master's doings that reflects
+the mutinous feeling on board. Especially does this feeling show in
+his account of their settling into winter quarters: "Having spent
+three moneths in a labyrinth without end, being now the last of
+October, we went downe to the East, to the bottome of the Bay; but
+returned without speeding of that we went for. The next day we went
+to the South and South West, and found a place, whereunto we
+brought our ship and haled her aground. And this was the first of
+November. By the tenth thereof we were frozen in."
+
+And then the Arctic night closed down upon them: and with it the
+certainty that they were prisoners in that desolate freezing
+darkness until the sun should come again and set them free.
+
+
+XI
+
+
+Nerves go to pieces in the Arctic. Captain Back, who commanded the
+"Terror" on her first northern voyage (1836), has told how there
+comes, as the icy night drags on, "a weariness of heart, a blank
+feeling, which gets the better of the whole man"; and Colonel
+Brainard, of the Greely expedition, wrote: "Take any set of men,
+however carefully selected, and let them be thrown as intimately
+together as are the members of an exploring expedition--hearing the
+same voices, seeing the same faces, day after day--and they will
+soon become weary of one another's society and impatient of one
+another's faults."
+
+The Greely expedition--composed of twenty-five men, of whom
+only seven were found alive by the rescue party--in many ways
+parallels, and pointedly illustrates, the Hudson expedition.
+There was dissension in Greely's command almost from the start.
+Surgeon Pavy's angry protests compelled the sending back in
+the "Proteus"--paralleling the sending back of Coleburne
+in the pink--of one member of the company; and Lieutenant
+Kislingbury--paralleling Juet's insubordination--objected so
+strongly to Greely's regulations that he gave in his resignation
+and tried, unsuccessfully, to overtake the "Proteus" and go home
+in her. Being returned to Fort Conger, he was not restored to his
+rank, and remained--as Juet remained after being superseded--a
+malcontent.
+
+One of the commentators on the expedition thus has summarized the
+conditions of that dreadful winter of 1883-84: "It was now
+October, and the situation of the explorers was becoming desperate,
+but the bickerings seem to have increased with their peril. As the
+weary days of starvation and death wore on, nearly every member of
+the party developed a grievance. Israel was reprimanded by Greely
+for falsely accusing Brainard of unfairness in the distribution of
+articles. Bender annoyed the whole camp by his complaints regarding
+his bed-clothes; Pavy and Henry accused Fredericks, the cook, of
+not giving them their fair share of food; and Pavy and Kislingbury
+had a quarrel that barely stopped short of blows. Then Jewell was
+accused of selecting the heaviest dishes of those issued.... Bender
+and Schneider had a fist fight in their sleeping bag; and on one
+occasion Bender was so violent that a general mutiny was imminent,
+and Greely says in his written record:
+
+'If I could have got Long's gun I would have killed him.' Bender
+brutally treated Ellison, who was very weak; and Schneider abused
+Whistler as he was dying--the second occurrence of the kind.... The
+thefts of food by Henry, and his execution, formed a culmination to
+the dissensions, though it did not entirely stop them. Never was
+there a more terrible example of the demoralizing effects of the
+conditions of Arctic life and privations upon men who in other
+circumstances were able to dwell at peace with their fellows."
+
+[Illustration: BARENTZ'S SHIP IN THE ICE.
+FROM DE VEER. DRIE SEYLAGIEN, AMSTERDAM, 1605]
+
+Out of those conditions came like results aboard Hudson's ship:
+discontent developing into insubordination; hatred of the
+commander; hatred of each other; petty squabblings leading on to
+tragedies--as minor ills were magnified into catastrophes and
+little injuries into deadly wrongs. Strictly in keeping with the
+mean traditions of the Arctic is the fact that the point of
+departure of the final mutiny was a wrangle that arose over the
+ownership of "a gray cloth gowne."
+
+Prickett records: "About the middle of this moneth of November dyed
+John Williams our Gunner. God pardon the Masters uncharitable
+dealing with this man. Now for that I am come to speake of him, out
+of whose ashes (as it were) that unhappie deed grew which brought a
+scandall upon all that are returned home, and upon the action
+itself, the multitude (like the dog) running after the stone, but
+not at the caster; therefore, not to wronge the living nor slander
+the dead, I will (by the leave of God) deliver the truth as neere
+as I can."
+
+Prickett's deliverance of the truth leaves much to be desired.
+Without giving any information in regard to Hudson's "uncharitable
+dealing" with the gunner, he takes a fresh departure in these
+words: "You shall understand that our Master kept (in his house at
+London) a young man named Henrie Greene, borne in Kent, of
+worshipfull parents, but by his leud life and conversation hee had
+lost the good will of all his frinds, and had spent all that hee
+had. This man our Master would have to sea with him because hee
+could write well.... This Henrie Greene was not set down in the
+owners booke, nor any wages for him.... At Island the Surgeon and
+hee fell out in Dutch, and hee beat him ashoare in English, which
+set all the Companie in a rage soe that wee had much adoe to get
+the Surgeon aboord. [This curiously parallels the fight between
+Surgeon Pavy and Lieutenant Kislingbury] ... Robert Juet, (the
+Masters Mate) would needs burne his finger in the embers, and tolde
+the Carpenter a long tale (when hee was drunke) that our Master had
+brought in Greene to cracke his credit that should displease him:
+which wordes came to the Masters eares, who when hee understood it,
+would have gone back to Island, when hee was fortie leagues from
+thence, to have sent home his Mate Robert Juet in a fisherman. But,
+being otherwise perswaded, all was well.... Now when our Gunner was
+dead, and (as the order is in such cases) if the Company stand in
+neede of any thing that belonged to the man deceased, then it is
+brought to the mayne mast, and there sold to them that will give
+moste for the same. This Gunner had a gray cloth gowne, which
+Greene prayed the Master to friend him so much as to let him have
+it, paying for it as another would give. The Master saith hee
+should, and thereupon hee answered some, that sought to have it,
+that Greene should have it, and none else, and soe it rested.
+
+"Now out of season and time the Master calleth the Carpenter to
+goe in hand with an house on shoare, which at the beginning our
+Master would not heare, when it might have been done. The Carpenter
+told him, that the snow and froste were such, as hee neither could
+nor would goe in hand with such worke. Which when our Master heard,
+hee ferreted him out of his cabbin to strike him, calling him by
+many foule names, and threatening to hang him. The Carpenter told
+him that hee knew what belonged to his place better than himselfe,
+and that he was no house carpenter. So this passed, and the house
+was (after) made with much labour, but to no end. The next day
+after the Master and the Carpenter fell out, the Carpenter took his
+peece and Henrie Greene with him, for it was an order that none
+should goe out alone, but one with a peece and another with a pike.
+This did move the Master soe much the more against Henrie Greene,
+that Robert Billot his Mate [who had been promoted to Juet's place]
+must have the gowne, and had it delivered unto him; which when
+Henrie Greene saw he challenged the Masters promise [to him]. But
+the Master did so raile on Greene, with so many words of disgrace,
+telling him that all his friends would not trust him with twenty
+shillings, and therefore why should hee. As for wages hee had none,
+nor none should have if hee did not please him well. Yet the Master
+had promised him to make his wages as good as any mans in the ship;
+and to have him one of the Princes guard when we came home. But you
+shall see how the devil out of this soe wrought with Greene that he
+did the Master what mischiefe hee could in seeking to discredit
+him, and to thrust him and many other honest men out of the ship in
+the end. To speake of all our trouble in this time of Winter (which
+was so colde, as it lamed the most of our Companie and my selfe
+doe yet feele it) would bee too tedious."
+
+That is all that Prickett tells about their wintering; but what he
+leaves untold, as "too tedious," easily may be filled in. Beginning
+with that brabble over the "gray cloth gowne," there must have gone
+on in Hudson's party the same bickerings and wranglings that went
+on in Greely's party, and the same development of small animosities
+into burning hatreds. And it all, with Hudson's people, must have
+been rougher and fiercer and deadlier than it was with Greely's
+people: because Hudson's crew was of a time when sea-men, for
+cause, were called sea-wolves; while Greely's crew was the better
+(yet exhibited scant evidence of it) by an additional two centuries
+and a half of civilization, and was made up (though with little to
+show for it) of picked men.
+
+
+XII
+
+
+The end came in the spring-time. Through the winter the party had
+"such store of fowle," and later had for a while so good a supply
+of fish, that starvation was staved off. When the ice broke up,
+about the middle of June, Hudson sailed from his winter quarters
+and went out a little way into Hudson's Bay. There they were caught
+and held in the floating ice--with their stores almost exhausted,
+and with no more fowl nor fish to be had. Then the nip of hunger
+came; and with it came openly the mutiny that secretly had been
+fermenting through those months of cold and gloom.
+
+Prickett writes: "Being thus in the ice on Saturday, the one and
+twentieth of June, at night, Wilson the boat swayne, and Henry
+Greene, came to mee lying (in my cabbin) lame, and told mee that
+they and the rest of their associates would shift the company and
+turne the Master and all the sicke men into the shallop, and let
+them shift for themselves. For there was not fourteen daies
+victuall left for all the company, at that poore allowance they
+were at, and that there they lay, the Master not caring to goe one
+way or other: and that they had not eaten any thing these three
+dayes, and therefore were resolute, either to mend or end, and what
+they had begun they would goe through with it, or dye."
+
+According to his own account, Prickett made answer to this precious
+pair of scoundrels that he "marvelled to heare so much from them,
+considering that they were married men, and had wives and
+children, and that for their sakes they should not commit so foule
+a thing in the sight of God and man as that would bee"; to which
+Greene replied that "he knew the worst, which was, to be hanged
+when hee came home, and therefore of the two he would rather be
+hanged at home than starved abroad." With that deliverance "Henry
+Greene went his way, and presently came Juet, who, because he was
+an ancient man, I hoped to have found some reason in him. But hee
+was worse than Henry Greene, for he sware plainly that he would
+justifie this deed when he came home."
+
+More of the conspirators came to Prickett to urge him to join them
+in their intended crime. We have his weak word for it that he
+refused, and that he tried to stay them; to which he weakly adds:
+"I hoped that some one or other would give some notice, either to
+the Carpenter [or to] John King or the Master." That he did not try
+to give "some notice" himself is the blackest count against him.
+The just inference may be drawn from his narrative, as a whole,
+that he was a liar; and from this particular section of it the
+farther inference may be drawn that he was a coward.
+
+In the dawn of the Sunday morning the outbreak came. Prickett tells
+that it began by clapping the hatch over John King (one of the
+faithful men), who had gone down into the hold for water; and
+continues: "In the meane time Henrie Greene and another went to the
+carpenter [Philip Staffe] and held him with a talke till the Master
+came out of his cabbin (which hee soone did); then came John Thomas
+and Bennet before him, while Wilson bound his arms behind him. He
+asked them what they meant. They told him he should know when he
+was in the shallop. Now Juet, while this was a-doing, came to John
+King into the hold, who was provided for him, for he had got a
+sword of his own, and kept him at a bay, and might have killed him,
+but others came to helpe him, and so he came up to the Master. The
+Master called to the Carpenter, and told him that he was bound, but
+I heard no answer he made. Now Arnold Lodlo and Michael Bute rayled
+at them, and told them their knaverie would show itselfe. Then was
+the shallop haled up to the ship side, and the poore sicke and lame
+men were called upon to get them out of their cabbins into the
+shallop.
+
+"The Master called to me, who came out of my cabbin as well as I
+could, to the hatch way to speake with him: where, on my knees, I
+besought them, for the love of God, to remember themselves, and to
+doe as they would be done unto. They bade me keepe myselfe well,
+and get me into my cabbin; not suffering the Master to speake with
+me. But when I came into my cabbin againe, hee called to me at the
+horne which gave light into my cabbin, and told me that Juet would
+overthrow us all; nay (said I) it is that villaine Henrie Greene,
+and I spake it not softly. Now was the Carpenter at libertie, who
+asked them if they would bee hanged when they came home: and, as
+for himselfe, hee said, hee would not stay in the ship unless they
+would force him. They bade him goe then, for they would not stay
+him....
+
+"Now were all the poore men in the shallop, whose names are as
+followeth: Henrie Hudson, John Hudson, Arnold Lodlo, Sidrack Faner,
+Philip Staffe, Thomas Woodhouse or Wydhouse, Adam Moore, Henrie
+[sic] King, Michael Bute. The Carpenter got of them a peece, and
+powder, and shot, and some pikes, an iron pot, with some meale,
+and other things. They stood out of the ice, the shallop being
+fast to the sterne of the shippe, and so (when they were nigh out,
+for I cannot say they were cleane out) they cut her head fast from
+the sterne of our ship, then out with their top sayles, and toward
+the east they stood in a cleere sea.
+
+"In the end they took in their top sayles, righted their helme, and
+lay under their fore sayle till they had ransacked and searched all
+places in the ship. In the hold they found one of the vessels of
+meale whole, and the other halfe spent, for wee had but two; wee
+found also two firkins of batter, some twentie seven pieces of
+porke, halfe a bushell of pease; but in the Masters cabbin we found
+two hundred of bisket cakes, a pecke of meale, of beere to the
+quantitie of a butt, one with another. Now it was said that the
+shallop was come within sight, they let fall the main sayle, and
+out with their top sayles, and fly as from an enemy. Then I prayed
+them yet to remember themselves; but William Wilson (more than the
+rest) would heare of no such matter. Comming nigh the east shore
+they cast about, and stood to the west and came to an iland and
+anchored.... Heere we lay that night, and the best part of the next
+day, in all which time we saw not the shallop, or ever after."
+
+That is the story of Hudson's murder as we get it from his
+murderers; and even from Prickett's biased narrative so complete a
+case is made out against the mutineers that there is comfort in
+knowing that some of them, and the worst of them, came quickly to
+their just reward.
+
+
+XIII
+
+
+A month later, July 28, a halt was made in the mouth of Hudson's
+Strait to search for "fowle" for food on the homeward voyage. There
+"savages" were encountered, seemingly of so friendly a nature that
+on the day following the first meeting with them a boat's crew--of
+which Prickett was one--went ashore unarmed. Then came a sudden
+attack. Prickett himself was set upon in the boat--of which, "being
+lame," he had been left keeper--by a savage whom he managed to
+kill. What happened to the others he thus tells:
+
+"Whiles I was thus assaulted in the boat, our men were set upon on
+the shoare. John Thomas and William Wilson had their bowels cut,
+and Michael Perse and Henry Greene, being mortally wounded, came
+tumbling into the boat together. When Andrew Moter saw this medley,
+hee came running downe the rockes and leaped into the sea, and so
+swamme to the boat, hanging on the sterne thereof, till Michael
+Perse took him in, who manfully made good the head of the boat
+against the savages, that pressed sore upon us. Now Michael Perse
+had got an hatchet, wherewith I saw him strike one of them, that he
+lay sprawling in the sea. Henry Greene crieth _Coragio_, and layeth
+about him with his truncheon. I cryed to them to cleere the boat,
+and Andrew Moter cryed to bee taken in. The savages betooke them to
+their bowes and arrowes, which they sent amongst us, wherewith
+Henry Greene was slaine out-right, and Michael Perse received many
+wounds, and so did the rest. Michael Perse cleereth [unfastened]
+the boate, and puts it from the shoare, and helpeth Andrew Moter
+in; but in turning of the boat I received a cruell wound in my
+backe with an arrow. Michael Perse and Andrew Moter rowed the boate
+away, which, when the savages saw, they ranne to their boats, and I
+feared they would have launched them to have followed us, but they
+did not, and our ship was in the middle of the channel and could
+not see us.
+
+"Now, when they had rowed a good way from the shoare, Michael Perse
+fainted, and could row no more. Then was Andrew Moter driven to
+stand in the boat head, and waft to the ship, which at first saw us
+not, and when they did they could not tell what to make of us, but
+in the end they stood for us, and so tooke us up. Henry Greene was
+throwne out of the boat into the sea, and the rest were had
+aboard, the savage [with whom Prickett had fought] being yet alive,
+yet without sense. But they died all there that day, William Wilson
+swearing and cursing in most fearefull manner. Michael Perse lived
+two dayes after, and then died. Thus you have heard the tragicall
+end of Henry Greene and his mates, whom they called captaine, these
+four being the only lustie men in all the ship."
+
+[Illustration: AN ASTROLABIE, 1596.
+FROM "THE ARTE OF NAVIGATION." LONDON. EDITION 1596]
+
+I am glad that Prickett got "a cruell wound in the backe." Were it
+not that by the killing of him we should have lost his narrative, I
+should wish that that weak villain had been killed along with the
+stronger ones. They were strong. It was a brave fight that they
+made; and Henry Greene's last recorded word, "Coragio!" was worthy
+of the lips of a better man. But he and the others eminently
+deserved the death that the savages gave them, and it is good to
+know that Hudson's murder so soon was avenged. Juet's equally
+exemplary punishment, equally deserved, came a little later. On the
+homeward voyage the whole company got to the very edge, and Juet
+passed beyond the edge, of starvation. When the ship was only sixty
+or seventy leagues from Ireland, where she made her landfall,
+Prickett tells that he "dyed for meere want."
+
+What befell the survivors of the "Discovery's" crew, on the ship's
+return to England, has remained until now unknown; and even now the
+account of them is inconclusive. In the Latin edition of the year
+1613 of his "Detectio Freti" Hessel Gerritz wrote: "They exposed
+Hudson and the other officers in a boat on the open sea, and
+returned into their country. There they have been thrown into
+prison for their crime, and will be kept in prison until their
+captain shall be safely brought home. For that purpose some ships
+have been sent out last year by the late Prince of Wales and by the
+Directors of the Moscovia Company, about the return of which
+nothing as yet has been heard."
+
+For three hundred years that statement of fact has ended Hudson's
+story. The fragmentary documents which I have been so fortunate as
+to obtain from the Record Office carry it a little, only a little,
+farther. Unhappily they stop short--giving no assurance that the
+mutineers got to the gallows that they deserved. All that they
+prove is that the few survivors were brought to trial: charged with
+having put the master of their ship, and others, "into a shallop,
+without food, drink, fire, clothing, or any necessaries, and then
+maliciously abandoning them: so that they came thereby to their
+death, and miserably perished."
+
+There, unfinished, the record ends. What penalty, or that any
+penalty, was exacted of those who survived to be tried for Hudson's
+murder remains unknown. Their ignoble fate is hidden in a sordid
+darkness: fitly in contrast with his noble fate--that lies retired
+within a glorious mystery.
+
+
+XIV
+
+
+Hudson has no cause to quarrel with the rating that has been fixed
+for him in the eternal balances. All that he lost (or seemed to
+lose) in life has been more than made good to him in the flowing of
+the years since he fought out with Fate his last losing round.
+
+In his River and Strait and Bay he has such monuments set up before
+the whole world as have been awarded to only one other navigator.
+And they are his justly. Before his time, those great waterways,
+and that great inland sea, were mere hazy geographical concepts.
+After his time they were clearly defined geographical facts. He
+did--and those who had seen them before him did not--make them
+effectively known. Here, in this city of New York--which owes to
+him its being--he has a monument of a different and of a nobler
+sort. Here, assuredly, down through the coming ages his memory will
+be honored actively, his name will be in men's mouths ceaselessly,
+so long as the city shall endure.
+
+And I hold that Hudson's fame, as a most brave explorer and as a
+great discoverer, is not dimmed by the fact that up to a certain
+point he followed in other men's footsteps; nor do I think that his
+glory is lessened by his seeming predestination to go on fixed
+lines to a fixed end. On the contrary, I think that his fame is
+brightened by his willingness to follow, that he might--as he
+did--surpass his predecessors; and that his glory is increased by
+the resolute firmness with which he played up to his destiny.
+Holding fast to his great purpose to find a passage to the East by
+the North, he compelled every one of Fate's deals against
+him--until that last deal--to turn in his favor; and even in that
+last deal he won a death so heroically woful that exalted pity for
+him, almost as much as admiration for his great achievements, has
+kept his fame through the centuries very splendidly alive.
+
+
+NEWLY-DISCOVERED DOCUMENTS
+
+
+CONCERNING THE DOCUMENTS
+
+
+In an article entitled "English Ships in the Time of James I.," by
+R.G. Marsden, M.A., in Volume XIX of the Transactions of the Royal
+Historical Society, I came upon this entry: "'Discovery' (or
+'Hopewell,' or 'Good Hope') Hudson's ship on his last voyage;
+Baffin also sailed in her." A list of references to manuscript
+records followed; and one of the entries, relating to the High
+Court of Admiralty, read: "Exam. 42. 25 Jan. 1611. trial of some of
+the crew for the murder of Hudson."
+
+   Note--The varying spelling, most obvious in proper names,
+   follows that of the documents.
+
+As I have stated elsewhere, none of the historians who has dealt
+with matters relating to Hudson has told what became of his
+murderers when they returned to England. Hessel Gerritz alone has
+given the information (1613, two years after the event) that they
+"were to be" put on trial. Whether they were, or were not, put on
+trial has remained unknown. Any one who has engaged in the
+fascinating pursuit of elusive historical truth will understand,
+therefore, my warm delight, and my warm gratitude to Mr. Marsden,
+when this clew to hitherto unpublished facts concerning Hudson was
+placed in my hands.
+
+Following it has not led me so far as, in my first enthusiasm, I
+hoped that it would lead me. The search that I have caused to be
+made in the Record Office, in London, has not brought to light even
+all of the documents referred to by Mr. Marsden. The record of the
+trial is incomplete; and, most regrettably, the most essential of
+all the documents is lacking: the judgment of the Court. So far as
+the mutineers are concerned, all that these documents prove is that
+they actually were brought to trial: what penalty was put upon
+them, or if any penalty was put upon them, still remains unknown.
+
+But in another way these documents do possess a high value, and are
+of an exceptional interest, in that they exhibit the sworn
+testimony of six eye-witnesses to the fact as to the circumstances
+of Hudson's out-casting. Five of these witnesses now are produced
+(in print) for the first time. The sixth, Abacuck Prickett, was the
+author of the "Larger Discourse" that hitherto has been the sole
+source of information concerning the final mutiny on board the
+"Discovery." That Prickett's sworn testimony and unsworn narrative
+substantially are in agreement, as they are, is not surprising;
+nor does such agreement appreciably affect the truth of either of
+them. Sworn or unsworn, Prickett was not a person from whom pure
+truth could be expected when, as in this case, he was trying to
+tell a story that would save him from being hanged. Neither is the
+corroboration of Prickett's story by the five newly produced
+witnesses--they equally being in danger of hanging--in itself
+convincing. But certain of the details (e.g., the door between
+Hudson's cabin and the hold) brought out in this new testimony,
+together with the way in which it all hangs together, does raise
+the probability that the crew of the "Discovery" had more than a
+colorable grievance against Hudson, and does imply that Prickett's
+obviously biased narrative may be less far from the truth than
+heretofore it has been held to be.
+
+The summing up of the Trinity House examination gives the crux of
+the matter: "They all charge the Master with wasting [i.e.,
+filching] the victuals by a scuttle made out of his cabin into the
+hold, and it appears that he fed his favorites, as the surgeon,
+etc., and kept others at ordinary allowance. All say that, to save
+some from starving, they were content to put away [abandon] so
+many." It was from this presentment that the Elder Brethren drew
+the just conclusion--as we know from Prickett's characteristic
+denial under oath that he "ever knew or heard" such expression of
+their opinion--that "they deserved to be hanged for the same."
+
+In the testimony of Edward Wilson, the surgeon--one of the
+"favorites"--the point is made, credited to Staffe, that "the
+reason why the Master should soe favour to give meate to some of
+the companie and not the rest" was because "it was necessary that
+some of them should be kepte upp"--in other words, that some
+members of the crew, without regard to the needs of the remainder,
+should receive food enough to give them strength to work the ship.
+This is an agreement, substantially, with the charge preferred
+against Hudson in the "Larger Discourse"; upon which Dr. Asher made
+the exculpating comment: "But even if this charge be a true one,
+Hudson's motives were certainly honorable; with such men as he had
+under his orders it was dangerous to deal openly. Their crime had
+no other cause than the fear that he would continue his search and
+expose them to new privations: and it seems that in providing for
+this emergency, he had even increased his dangers." Dr. Asher's
+excuse, I should add, refers more to concealment of food than to
+unfair apportionment.
+
+I have no desire to play the part of devil's advocate; but--in the
+guise of that personage under his more respectable title of
+Promotor Fidei--it is my duty to point out that if Hudson
+deliberately did "keep up" himself and a favored few by putting the
+remainder on starvation rations--no matter what may have been his
+motives--he exceeded his ship-master's right over his crew of life
+and death. His doing so, if he did do so, did not justify mutiny.
+Mutiny is a sea-crime that no provocation justifies. But if the
+point at issue was who should die of hunger that the others should
+have food enough to keep them alive, then the mutineers could
+claim--and this is what virtually they did claim in making their
+defence--that they did by the Master in a swift and bold way
+precisely what in a slow and underhand way he was doing by them.
+
+In the more agreeable rôle of Postulator, I may add that this
+charge against Hudson--while not disproved--is not sustained. The
+one witness, Robert Byleth, of whom reputable record survives--the
+only witness, indeed, of whom we have any record whatever beyond
+that of the case in hand--did not even refer to it. In his
+Admiralty Court examination--he is not included in the record of
+those examined at the Trinity House--he said no more than that the
+"discontent" of the crew was "by occasion of the want of
+victualls." Neither in his statement in chief nor in his
+cross-examination did he charge Hudson with wrong-doing of any
+kind. Byleth himself does not seem to have been looked upon as a
+criminal: as is implied by his being sent with Captain Button
+(1612) on the exploring expedition toward the northwest that was
+directed to search for Hudson; by his sailing two voyages
+(1615-1616) with Baffin; and, still more strongly, by the fact
+that he was employed on each of these occasions by the very
+persons--members of the Muscovy Company and others--who most would
+have desired to punish him had they believed that punishment was
+his just desert. That he did not testify against Hudson must count,
+therefore, as a strong point in Hudson's favor; so strong--his
+credibility and theirs being considered comparatively--that it goes
+far toward offsetting the testimony of the haberdasher and the
+barber-surgeon and the common sailors by whom Hudson was accused.
+
+But it is useless to try to draw substantial conclusions from these
+fragmentary records. The most that can be deduced from them--and
+even that, because of Byleth's silence, hesitantly--is that in a
+general way they do tend to confirm Prickett's narrative. They
+would be more to my liking if this were not the case.
+
+A curious feature of the trial of the mutineers is its long
+delay--more than five years. The Trinity House authorities acted
+promptly. Almost immediately upon the return to London of the eight
+survivors of the "Discovery" five of them (Prickett, Wilson,
+Clemens, Motter and Mathews--no mention is made in the record of
+Byleth, Bond, and the boy Syms) were brought before the Masters
+(October 24, 1611) for examination. In a single day their
+examination was concluded: with the resulting verdict of the
+Masters upon their actions that they "deserved to be hanged for the
+same." Three months later, 25 January, 1611 (O.S.), the matter was
+before the Instance and Prize Records division of the High Court of
+Admiralty; of which hearing the only recorded result is the
+examination of the barber-surgeon, Edward Wilson. Then,
+apparently, the mutineers were left to their own devices for five
+full years.
+
+So far as the records show, no action was taken until the trial
+began in Oyer and Terminer. The date of that beginning cannot be
+fixed precisely--there being no date attached to the True Bill
+found against Bileth, Prickett, Wilson, Motter, Bond, and Sims.
+(For some unknown reason Mathews and Clemens were not included in
+the indictment; although Clemens, certainly, was within the
+jurisdiction of the Court.) The date may be fixed very closely,
+however, by the fact that the two most important witnesses,
+Prickett and Byleth, were examined on 7 February, 1616 (O.S.).
+Three months later, 13 May, 1617 (O.S.), Clemens was examined. And
+that is all! There, in the very middle of the trial--leaving in the
+air the examinations of the other witnesses and the judgments of
+the Court--the records end.
+
+Had document No. 2 of the Oyer and Terminer series been found, some
+explanation of the five years' delay of the trial might have been
+forthcoming; and the exact date of its beginning probably would
+have been fixed. As the records stand, they leave us--so far as the
+trial is concerned--with a series of increasingly disappointing
+negatives: We do not know why two of the crew--one of them
+certainly within reach of the Court--were not included in the
+indictment; nor why the trial was postponed for so long a time; nor
+certainly when it ended; nor, worst of all, what was its result.
+
+I should be glad to believe that the mutineers--even including
+Byleth, who was the best of them--came to the hanging that the
+Elder Brethren of the Trinity, in their off-hand just judgment,
+declared that they deserved. If they did, there is no known record
+of their hanging. A curiously suggestive interest, however,
+attaches to the fact that at just about the time when the trial
+ended one of them, and the only conspicuous one of them, seems
+permanently to have disappeared. That most careful investigator the
+late Mr. Alexander Brown was unable to find any sure trace of
+Byleth after his second voyage with Baffin, which was made in
+March-August, 1616. Seven months later, as the subjoined records
+prove, he was on trial for his life. It seems to me to be at least
+a possibility that the result of that trial may have led directly
+to his permanent disappearance. If it did, and if Prickett and the
+others in a like way disappeared with him, then was justice done on
+Hudson's murderers.
+
+
+THE DOCUMENTS
+
+
+Trinity House MS. Transactions. 1609-1625.
+
+(24 _October_ 1611)
+
+
+   The 9 men turned out of the ship:
+   Henry Hudson, master.
+   John Hudson, his son.
+   Arnold Ladley.
+   John King, quarter master.
+   Michael Butt, married.
+   Thomas Woodhoase, a mathematician, put away in great distress.
+   Adame Moore.
+   Philip Staff, carpenter.
+   Syracke Fanner, married.
+
+   John Williams, died on 9 October.
+   --Ivet [Juet], died coming home.
+
+   Slain:
+   Henry Greene.
+   William Wilson.
+   John Thomas.
+   Michell Peerce.
+
+   Men that came home:
+   Robart Billet, master.
+   Abecocke Prickett, a land man put in by the Adventurers.
+   Edward Wilson, surgeon.
+   Francis Clemens, boteson.
+   Adrian Motter.
+   Bennet Mathues, a land man.
+   Nicholas Syms, boy.
+   Silvanus Bond, couper.
+
+
+After Hudson was put out, the company elected Billet as master.
+
+Abacuck Pricket, sworn, says the ship began to return about 12th
+June, and about the 22d or 23d, they put away the master. Greene
+and Wilson were employed to fish for the company, and being at sea
+combined to steal away the shallope, but at last resolved to take
+away the ship, and put the master and other important men into the
+shallope.
+
+He clears the now master of any foreknowledge of this complot, but
+they relied on Ivett's judgment and skill.
+
+Edward Wilson, surgeon, knew nothing of the putting of the master
+out of the ship, till he saw him pinioned down before his cabin
+door.
+
+Francis Clemens, Adrian Motter and Bennet Mathues say the master
+was put out of the ship by the consent of all that were in health,
+in regard that their victualls were much wasted by him; some of
+those that were put away were directly against the master, and yet
+for safety of the rest put away with him, and all by those men that
+were slain principally.
+
+They all charge the master with wasting the victuals by a scuttle
+made out of his cabin into the hold, and it appears that he fed his
+favourites, as the surgeon, etc., and kept others at only ordinary
+allowance. All say that, to save some from starving, they were
+content to put away so many, and that to most of them it was
+utterly unknown who should go, or who tarry, but as affection or
+rage did guide them in that fury that were authors and executors of
+that plot.
+
+
+Instance & Prize Records. (High Court of Admiralty). Examinations,
+&c. Series I. Vol. 42. 1611-12 to 1614.
+
+
+Die Sabbto XXV'to _January_ 1611.
+
+EDWARD WILLSON, of Portesmouth Surgion aged xxij yeares sworne and
+examined before the Right Wor'll M'r [Master] Doctor Trevor Judge
+of His Matyes High Court of the Admiltye concerninge his late
+beinge at sea in the Discovery of London whereof Henry Hudson was
+M'r for the Northwest discovery sayth as followeth.
+
+Being demaunded whether he was one of the companie of the Discovery
+wherof Henry Hudson was M'r for the Northwest passage saythe by
+vertue of his oathe that he was Surgion of the said Shipp the said
+voyadge.
+
+Beinge asked further whether there was not a mutynie in the said
+Shipp the said voyadge by some of the companie of the said Shipp
+against the M'r, and of the manner and occasion thereof and by
+whome saythe that their victualls were soe scante that they had but
+two quartes of meale allowed to serve xxij men for a day, and that
+the M'r had bread and cheese and aquavite in his cabon and called
+some of the companie whome he favoured to eate and drinke with him
+in his cabon whereuppon those that had nothinge did grudge and
+mutynye both against the M'r and those that he gave bread and
+drinke unto, the begynning whereof was thus viz't. One William
+Willson then Boateswayne of the said shipp but since slayne by the
+salvages went up to Phillipp Staffe the M'rs Mate and asked him the
+reason why the M'r should soe favour to give meate to some of the
+companie, and not the rest whoe aunswered that it was necessary
+that some of them should be kepte upp Whereuppon Willson went downe
+agayne and told one Henry Greene what the said Phillipp Staffe had
+said to the said Willson Whereuppon they with others consented
+together and agreed to pynion him the said M'r and one John Kinge
+whoe was Quarter M'r and put them into a shallopp and Phillipp
+Staffe mighte have stayed still in the shipp but he would
+voluntarilie goe into the said shallopp for love of the M'r uppon
+condition that they would give him his clothes (which he had) there
+was allso six more besides the other three putt into the said
+shallopp whoe thinkeinge that they were onely put into the shallopp
+to keepe the said Hudson the M'r and Kinge till the victuals were
+a sharinge went out willinglie but afterwards findinge that the
+companie in the shipp would not suffer them to come agayne into the
+shipp they desyred that they mighte have their cloathes and soe pte
+of them was delivered them, and the rest of their apparell was
+soulde at the mayne mast to them that would give most for them and
+an inventory of every mans pticuler goodes was made and their money
+was paid by Mr Allin Cary to their friendes heere in England and
+deducted out of their wages that soe boughte them when they came
+into England.
+
+Beinge asked whoe were the pties that consented to this mutynie
+saythe he knoweth not otherwise then before he hath deposed savinge
+he saythe by vertue of his oathe that this exãet never knewe
+thereof till the M'r was brought downe pynioned and sett downe
+before this eãxtes cabon and then this examinate looked out and
+asked him what he ayled and he said that he was pynioned and then
+this exãte would have come out of his cabon to have gotten some
+victualls amongest them and they that had bounde the M'r said to
+this exãte that yf he were well he should keepe himselfe soe and
+further saythe that neither did Silvanus Bond Nicholas Simmes and
+Frances Clements consente to this practize against the M'r of this
+exãtes knowledge.
+
+Beinge demaunded whether he knoweth that the Hollanders have an
+intent to goe forthe uppon a discovery to the said Northwest
+passadge and whether they have anie card [chart] delivered them
+concerninge the said discovery saythe that this exãte for his parte
+never gave them anie card or knowledge of the said discovery but he
+hath heard saye that they intend such a voyadge and more he cannot
+saye savinge that some gentlemen and merchants of London that are
+interessed in this discovery have shewed divers cardes abroad w'ch
+happelie might come to some of their knowledge.
+
+Beinge asked further whither there bee a passadge throughe there he
+saythe that by all likeliehood there is by reason of the tyde of
+flood came out of the westerne ptes and the tyde of ebbe out of the
+easterne which may bee easely discovered yf such may bee imployed
+as have beene acquainted with the voyadge and knoweth the manner of
+the ice but in cominge backe agayne they keepinge the northerne
+most land aboard found little or noe ice in the passadge.
+
+Beinge asked what became of the said Hudson the M'r and the rest
+of the companie that were put into the shallopp saythe that they
+put out sayle and followed after them that were in the shipp the
+space of halfe an houre and when they sawe the shipp put one [on]
+more sayle and that they could not followe them then they putt in
+for the shoare and soe they lost sighte of them and never heard of
+them since And more he cannot depose.
+
+Rich: Trevor.      Edw: Willsonn.
+
+
+I certify that the foregoing is a true and authentic copy.
+
+J.F. Handcock,
+Assistant-Keeper of the Public Records
+London, 9th _June_, 1909.
+
+       *       *       *       *       *
+
+Admiralty Court. Oyer and Terminer. 6.
+
+No. 2 cannot be found. The bundle commences at present with No. 8.
+
+No. 77. True Bill found for the trial of Robert Bileth alias
+Blythe, late of the precinct of St. Katherine next the Tower of
+London, co. Middlesex, mariner, Abacucke Prickett, late of the city
+of London, haberdasher, Edward Wilson of the same, barber-surgeon,
+Adrian Matter, late of Ratcliffe, Middlesex, mariner; Silvanus
+Bonde, of London, cooper, and Nicholas Sims, late of Wapping,
+sailor, to be indicted for having, on 22 June 9 James I, in a
+certain ship called The Discovery of the port of London, then being
+on the high sea near Hudson's Straits in the parts of America,
+pinioned the arms of Henry Hudson, late of the said precinct of St.
+Katherine, mariner, then master of the said ship The Discovery, and
+putting him thus bound, together with John Hudson, his son, Arnold
+Ladley, John Kinge, Michael Butt, Thomas Woodhouse, Philip Staffe,
+Adam Moore and Sidrach Fanner, mariners of the said ship, into a
+shallop, without food, drink, fire, clothing or any necessaries,
+and then maliciously abandoning them, so that they came thereby to
+their death and miserably perished. [Latin. Not dated.]
+
+       *       *       *       *       *
+
+Admiralty. Oyer and Terminer. 41.
+
+[_Abstract_]
+
+Friday 7 _February_, 1616 [O.S.]
+
+Abacucke Prickett, of London, haberdasher, examined, says that
+Henry Hudson, John Hudson, Thomas Widowes, Philip Staffe, John
+Kinge, Michael Burte, Sidrach Fanner, Adrian Moore and John Ladley,
+mariners of the Discovery in the voyage for finding out the N.W.
+passage, about 6 years past, were put out of the ship by force into
+the Shallop in the strait called Hudson's Strait in America, by
+Henry Grene, John Thomas, John Wilson, Michael Pearce, and others,
+by reason they were sick and victuals wanted, "under account"
+[i.e., if rations from the existing scant store were served out
+equally] they should starve for want of food if all the company
+should return home in the ship. Philip Staffe went out of the ship
+of his own accord, for the love he bare to the said Hudson, who was
+thrust out of the ship. Grene, with 11 or 12 more of the company,
+sailed away with the Discovery, leaving Hudson and the rest in the
+shallop in the month of June in the ice. What became of them he
+knows not. He was lame in his legs at the time, and unable to
+stand. He greatly lamented the deed, and had no hand in it. Hudson
+and Staffe were the best friends he had in the ship.
+
+About five weeks after the said ship came to Sir Dudley Digges
+Island. Here Grene, Wilson, Thomas, Pearse and Adrian Mouter would
+needs go ashore to trade with the savages, and were betrayed and
+set upon by the savages, and all of them sore wounded, yet
+recovered the boat before they died. Grene, coming into the boat,
+died presently. Wilson, Thomas and Pearse were taken into the ship,
+and died a few hours afterwards, two of them having had their
+bowels cut out. The blood upon the clothes brought home was the
+blood of these persons so wounded and slain by the savages, and no
+other.
+
+There was falling out between Grene and Hudson the master, and
+between Wilson the surgeon and Hudson, and between Staffe and
+Hudson, but no mutiny was in question, until of a sudden the said
+Grene and his consorts forced the said Hudson and the rest into the
+shallop, and left them in the ice.
+
+The chests of Hudson and the rest were opened, and their clothes,
+and such things as they had, inventoried and sold by Grene and the
+others, and some of the clothes were worn.
+
+Thomas Widowes was thrust out of the ship into the shallop, but
+whether he willed them take his keys and share his goods, to save
+his life, this examinate knoweth not.
+
+At the putting out of the men, the ship's carpenter [Staffe] asked
+the company if they would be [wished to be] hanged, when they came
+to England.
+
+He does not know whether the carpenter is dead or alive, for he
+never saw him since he was put out into the shallop.
+
+No shot was made at Hudson or any of them nor any hurt done them,
+that he knows.
+
+He did not see Hudson bound, but heard that Wilson pinioned his
+arms, when he was put into the shallop. But, when he was in the
+shallop, this examinate saw him in a motley gown at liberty, and
+they spoke together, Hudson saying: It is that villain Ivott
+[Juet], that hath undone us; and he answered: No, it is Grene that
+hath done all this villainy.
+
+It is true that Grene, Wilson and Thomas had consultation together
+to turn pirates, and so he thinks they would have done, had they
+not been slain.
+
+There was no watchword given, but Grene, Wilson, Thomas and Bennett
+watched the master, when he came out of his cabin, and forced him
+over board into the shallop, and then they put out the rest, being
+sick men.
+
+He told Sir Thomas Smith the truth, as to how Hudson and the rest
+were turned out of the ship.
+
+He told the masters of the Trinity-house the truth of the business,
+but never knew or heard that the masters said they deserved to be
+hanged for the same.
+
+They were not victualled with rabbits or partridges before Hudson
+and the rest were turned into the shallop, nor after.
+
+There was no mutiny otherwise than as aforesaid, they were turned
+out only for want of victuals, as far as he knows.
+
+He does not know the handwriting of Thomas Widowes. He, for his
+part, made no means to hinder any proceedings that might have been
+taken against them.
+
+(Signed) ABACOOKE PERIKET.
+
+
+[_On the same day_.]
+
+
+Robert Bilett, of St. Katherine's, mariner, examined, saith that,
+upon a discontent amongst the company of the ship the Discovery in
+the finding out of the N.W. passage, by occasion of the want of
+victualls, Henry Grene, being the principal, together with John
+Thomas, William Wilson, Robert Ivett [Juet] and Michael Pearse,
+determined to shift the company, and thereupon Henry Hudson, the
+master, was by force put into the shallop, and 8 or 9 more were
+commanded to go into the shallop to the master, which they did,
+this examinate thinking this course was taken only to search the
+master's cabin and the ship for victualls, which the said Grene and
+others thought the master concealed from the company to serve his
+own turn. But, when they were in the shallop, Grene and the rest
+would not suffer them to come any more on board the ship, so Hudson
+and the rest in the shallop went away to the southward, and the
+ship came to the eastward, and the one never saw the other since.
+What is otherwise become of them be knoweth not.
+
+He says that the men went ashore (as above) to get victuals; and
+from their wounds the cabins, beds and clothes were made bloody.
+
+There was discontent amongst the company, but no mutiny to his
+knowledge, until the said Grene and his associates turned the
+master and the rest into the shallop.
+
+He heard of no mutiny "till overnight that Hudson and the rest were
+[to be] put into the shallop the next day," and this examinate and
+M'r. Prickett persuaded the crew to the contrary, and Grene
+answered the master was resolved to overtrowe all, and therefore he
+and his friends would shift for themselves.
+
+Such clothes as were left behind in the ship by Hudson and his
+associates were sold, and worn by some of the company that wanted
+clothes.
+
+The ship's carpenter never used such speeches, to his knowledge.
+[This seems to refer to Staffe's question, "Would they be hanged
+when they came to England?"]
+
+Philip Staffe, the carpenter, went into the shallop of his own
+accord, without any compulsion; whether he be dead or alive, or
+what has become of him, he knoweth not.
+
+No man, either drunk or sober, can report that Hudson and his
+associates were shot at after they were in the shallop, for there
+was no such thing done.
+
+He was under the deck, when Henry Hudson was put out of the ship,
+so that he saw it not, nor knoweth whether he were bound or not,
+but saith he heard he was pinioned.
+
+Henry Grene, and two or three others, made a motion to turn
+pirates, and he believes they would have done, if they had lived.
+
+He denieth that he took any ringe out of Hudson's pocket, neither
+ever saw it except on his finger, nor knoweth what became of it.
+
+Such beds and clothes as were left in the ship, and not taken by
+Hudson and the rest into the shallop, were brought into England,
+because they left them behind in the ship.
+
+There was no watchword given, but Grene and the others commanded
+the said Hudson and the rest into the shallop, and upon that
+command they went.
+
+He told Sir Thomas Smith the manner how Hudson and the rest went
+from them, but what Sir Thomas said to their wives he knoweth not.
+
+There was no mutiny, but some discontent, amongst the company; they
+were not victualled with any abundance of rabbits and partridges
+all the voyage. He doth not know the handwriting of Widowes, nor
+hath he seen what he put down in writing.
+
+(Signed) ROBERT BYLETH.
+
+       *       *       *       *       *
+
+Admiralty. Oyer and Terminer. 41.
+
+13 _May_, 1617.
+
+
+Frances Clemence, of Wapping, mariner, aged 40, says that Henry
+Hudson, the master, and 8 persons more were put out of the
+Discovery into the shallop about 20 leagues from the place where
+they wintered, about 22d of June shall be 6 years in June next, as
+he heard from the rest of the company, for this examinate had his
+nails frozen off, and was very sick at the time.
+
+Henry Grene, William Wilson, John Thomas and Michael Pearse were
+slain on shore by the savages at Sir Dudley Digges Island, and
+Robert Ivett [Juet] died at sea after they were slain.
+
+Philip Staffe, the ship's carpenter, was one of them who were put
+into the shallop with the master and the rest; whether he is dead
+or not, he knows not.
+
+The master displaced some of the crew, and put others in their
+room, but there was no mutiny that he knew of.
+
+Henry Hudson was pinioned, when he was put into the shallop. (With
+other answers as in the previous examinations.)
+
+
+THE END

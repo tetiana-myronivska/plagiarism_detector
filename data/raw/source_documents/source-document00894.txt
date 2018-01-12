@@ -1,0 +1,746 @@
+﻿Produced by Jeannie Howse and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+       *       *       *       *       *
+
+  +-----------------------------------------------------------------+
+  | Transcriber's Note:                                             |
+  |                                                                 |
+  | In this document, _italics_ are represented as underscores,     |
+  | =bold text= is marked with equals signs, and bullets are        |
+  | represented as »                                                |
+  |                                                                 |
+  | One of the tables in this document is very wide (80 characters) |
+  |                                                                 |
+  +-----------------------------------------------------------------+
+
+       *       *       *       *       *
+
+
+AN ASSESSMENT OF THE CONSEQUENCES
+AND PREPARATIONS FOR A CATASTROPHIC
+CALIFORNIA EARTHQUAKE:
+FINDINGS AND ACTIONS TAKEN
+
+
+PREPARED BY
+FEDERAL EMERGENCY MANAGEMENT AGENCY
+FROM ANALYSES CARRIED OUT BY THE
+NATIONAL SECURITY COUNCIL
+ad hoc COMMITTEE ON ASSESSMENT OF
+CONSEQUENCES AND PREPARATIONS FOR
+A MAJOR CALIFORNIA EARTHQUAKE
+
+
+[Illustration: fema symbol
+federal emergency
+management agency]
+
+Washington, D.C. 20472
+November 1980
+
+
+TABLE OF CONTENTS
+
+
+                                                             Page
+
+CHAPTER:
+
+  I. Executive Summary of Findings, Issues, and Actions         1
+
+ II. Geologic Earthquake Scenarios                             15
+
+III. Assessment of Losses for Selected Potential
+     California Earthquakes                                    21
+
+ IV. An Assessment of the Current State of Readiness
+     Capability of Federal, State, and Local
+     Governments for Earthquake Response                       27
+
+  V. An Assessment of the Social Impacts                       35
+
+
+ANNEX:
+
+    1. Copies of Correspondence Between President
+       Carter and Governor Brown                               37
+
+    2. Current California and Federal Earthquake
+       Response Planning                                       43
+
+    3. California Assembly Bill No. 2202                       53
+
+
+ACKNOWLEDGEMENTS                                               57
+
+
+CHAPTER I
+
+EXECUTIVE SUMMARY OF FINDINGS, ISSUES, AND ACTIONS
+
+
+A. BACKGROUND
+
+After viewing the destruction wrought by the eruption of Mt. St.
+Helens in Washington State in May 1980, President Carter became
+concerned about the impacts of a similar event of low probability but
+high damage potential, namely a catastrophic earthquake in California,
+and the state of readiness to cope with the impacts of such an event.
+
+As a result of the President's concern, an _ad hoc_ committee of the
+National Security Council was formed to conduct a government review of
+the consequences of, and preparation for such an event. In addition to
+the Federal Emergency Management Agency, the Committee included
+representatives from the Office of Science and Technology Policy, the
+United States Geological Survey of the Department of the Interior, the
+Department of Defense, the Department of Transportation, and the
+National Communications System, at the Federal level; State of
+California agencies and California local governments at the State and
+local levels; and consultants from the private sector. During the
+summer of 1980, the participants in this review prepared working papers
+on relevant issues and problem areas for the consideration of the _ad
+hoc_ committee. Pertinent facts, conclusions and recommendations were
+reviewed with the Governor of the State of California. The President
+reviewed the _ad hoc_ committee's findings and approved the
+recommendations for Federal action. This report summarizes the results
+of the assessment and notes these actions.
+
+A number of Federal legislative and administrative actions have been
+taken to bring about, in the near future, an increased capability to
+respond to such an event. The Earthquake Hazards Reduction Act of 1977
+(P.L. 95-124) authorizes a coordinated and structured program to
+identify earthquake risks and prepare to lessen or mitigate their
+impacts by a variety of means. The coordination of this program, the
+National Earthquake Hazards Reduction Program (NEHRP), is the
+responsibility of the Federal Emergency Management Agency (FEMA),
+which is charged with focusing Federal efforts to respond to
+emergencies of all types and lessen their impacts before they occur.
+The NEHRP has six high-priority thrusts:
+
+      » Overall coordination of Federal departments and agencies'
+        programs
+
+      » Maintenance of a comprehensive program of research and
+        development for earthquake prediction and hazards
+        mitigation
+
+      » Leadership and support of the Federal Interagency
+        Committee on Seismic Safety in Construction as it develops
+        seismic design and construction standards for use in
+        Federal projects
+
+      » Development of response plans and assistance to State and
+        local governments in the preparation of their plans
+
+      » Analysis of the ability of financial institutions to
+        perform their functions after a creditable prediction of
+        an earthquake as well as after an event, together with an
+        exploration of the feasibility of using these institutions
+        to foster hazard reduction
+
+      » An examination of the appropriate role of insurance in
+        mitigating the impacts of earthquakes.
+
+More recently, a cooperative Federal, State, local, and private-sector
+effort was initiated to prepare for responding to a credible
+large-magnitude earthquake, or its prediction, in Southern California.
+
+
+B. SUMMARY
+
+The review provided the overall assessment that the Nation is
+essentially unprepared for the catastrophic earthquake (with a
+probability greater than 50 percent) that must be expected in
+California in the next three decades. While current response plans and
+preparedness measures may be adequate for moderate earthquakes,
+Federal, State, and local officials agree that preparations are
+woefully inadequate to cope with the damage and casualties from a
+catastrophic earthquake, and with the disruptions in communications,
+social fabric, and governmental structure that may follow. Because of
+the large concentration of population and industry, the impacts of
+such an earthquake would surpass those of any natural disaster thus
+far experienced by the Nation. Indeed, the United States has not
+suffered any disaster of this magnitude on its own territory since the
+Civil War.
+
+The basis for this overall assessment is summarized below and
+discussed in more detail in the subsequent chapters of this report.
+
+
+C. LIKELIHOOD OF FUTURE EARTHQUAKES
+
+Earth scientists unanimously agree on the inevitability of major
+earthquakes in California. The gradual movement of the Pacific Plate
+relative to the North American Plate leads to the inexorable
+concentration of strain along the San Andreas and related fault
+systems. While some of this strain is released by moderate and smaller
+earthquakes and by slippage without earthquakes, geologic studies
+indicate that the vast bulk of the strain is released through the
+occurrence of major earthquakes--that is, earthquakes with Richter
+magnitudes of 7.0 and larger and capable of widespread damage in a
+developed region. Along the Southern San Andreas fault, some 30 miles
+from Los Angeles, for example, geologists can demonstrate that at
+least eight major earthquakes have occurred in the past 1,200 years
+with an average spacing in time of 140 years, plus or minus 30 years.
+The last such event occurred in 1857. Based on these statistics and
+other geophysical observations, geologists estimate that the
+probability for the recurrence of a similar earthquake is currently as
+large as 2 to 5 percent per year and greater than 50 percent in the
+next 30 years. Geologic evidence also indicates other faults capable
+of generating major earthquakes in other locations near urban centers
+in California, including San Francisco-Oakland, the immediate Los
+Angeles region, and San Diego. Seven potential events have been
+postulated for purposes of this review and are discussed in chapter
+II. The current estimated probability for a major earthquake in these
+other locations is smaller, but significant. The aggregate probability
+for a catastrophic earthquake in the whole of California in the next
+three decades is well in excess of 50 percent.
+
+
+D. CASUALTIES AND PROPERTY DAMAGE
+
+Casualties and property damage estimates for four of the most likely
+catastrophic earthquakes in California were prepared to form a basis
+for emergency preparedness and response. Chapter III gives details on
+these estimates. Deaths and injuries would occur principally because
+of the failure of man-made structures, particularly older, multistory,
+and unreinforced brick masonry buildings built before the adoption of
+earthquake-resistant building codes. Experience has shown that some
+modern multistory buildings--constructed as recently as the late
+1960's but not adequately designed or erected to meet the current
+understanding of requirements for seismic resistance--are also subject
+to failure. Strong ground shaking, which is the primary cause of
+damage during earthquakes, often extends over vast areas. For example,
+in an earthquake similar to that which occurred in 1857, strong ground
+shaking (above the threshold for causing damage) would extend in a
+broad strip along the Southern San Andreas fault, about 250 miles long
+and 100 miles wide, and include almost all of the Los Angeles-San
+Bernardino metropolitan area, and all of Ventura, Santa Barbara, San
+Luis Obispo, and Kern counties.
+
+For the most probable catastrophic earthquake--a Richter magnitude 8+
+earthquake similar to that of 1857, which occurred along the Southern
+San Andreas fault--estimates of fatalities range from about 3,000, if
+the earthquake were to occur at 2:30 a.m. when the population is
+relatively safe at home, to more than 13,000, if the earthquake were to
+occur at 4:30 p.m. on a weekday, when much of the population is either
+in office buildings or on the streets. Injuries serious enough to
+require hospitalization under normal circumstances are estimated to be
+about four times as great as fatalities. For the less likely prospect
+of a Richter magnitude 7.5 earthquake on the Newport-Inglewood fault in
+the immediate Los Angeles area, fatalities are estimated to be about
+4,000 to 23,000, at the same respective times. Such an earthquake,
+despite its smaller magnitude, would be more destructive because of its
+relative proximity to the most heavily developed regions; however, the
+probability of this event is estimated to be only about 0.1 percent per
+year. Smaller magnitude--and consequently less damaging--earthquakes
+are anticipated with greater frequency on a number of fault systems in
+California.
+
+In either of these earthquakes, casualties could surpass the previous
+single greatest loss of life in the United States due to a natural
+disaster, which was about 6,000 persons killed when a hurricane and
+storm surge struck the Galveston area of the Texas coast in 1900. The
+highest loss of life due to earthquakes in the United States occurred
+in San Francisco in 1906, when 700 people were killed. By way of
+comparison (in spite of the vast differences in building design and
+practices and socioeconomic systems) the devastating 1976 Tangshan
+earthquake in China caused fatalities ranging from the official
+Chinese Government figure of 242,000 to unofficial estimates as high
+as 700,000. Fortunately, building practices in the United States
+preclude such a massive loss of life.
+
+Property losses are expected to be higher than in any past earthquake
+in the United States. For example, San Francisco in 1906, and
+Anchorage in 1964, were both much less developed than today when they
+were hit by earthquakes. And the San Fernando earthquake in 1971, was
+only a moderate shock that struck on the fringe of a large urban area.
+Each of these three earthquakes caused damage estimated at about $0.5
+billion in the then current dollars. Estimates of property damage for
+the most probable catastrophic earthquake on the Southern San Andreas
+(Richter magnitude 8+) and for the less probable but more damaging one
+(Richter magnitude 7.5) on the Newport-Inglewood fault, are about $15
+billion and $70 billion respectively. By comparison, tropical storm
+Agnes caused the largest economic loss due to a natural disaster in
+the United States to date but it amounted to only $3.5 billion (in
+1972 dollars).
+
+It should be noted, however, that substantial uncertainty exists in
+casualty and property damage estimates because they are based on
+experience with only moderate earthquakes in the United States (such
+as the 1971 San Fernando earthquake) and experience in other countries
+where buildings are generally less resistant to damage. The
+uncertainty is so large that the estimated impacts could be off by a
+factor of two or three, either too high or too low. Even if these
+lowest estimates prevail, however, the assessment about preparedness
+and the capability to respond to the disasters discussed in this
+report would be substantially unchanged.
+
+Assuming a catastrophic earthquake, a variety of secondary problems
+could also be expected. Search and rescue operations--requiring heavy
+equipment to move debris--would be needed to free people trapped in
+collapsed buildings. It is likely that injuries, particularly those
+immediately after the event, could overwhelm medical capabilities,
+necessitating a system of allocating medical resources to those who
+could be helped the most. Numerous local fires must be expected;
+nevertheless, a conflagration such as that which followed the Tokyo
+earthquake of 1923, or the San Francisco earthquake of 1906, is
+improbable, unless a "Santa Ana type" wind pattern is in effect. Since
+the near failure of a dam in the San Fernando, California, earthquake
+of 1971 (which was a moderate event), substantial progress has been
+made in California to reduce the hazard from dams, in some cases
+through reconstruction. For planning purposes, however, experts
+believe that the failure of at least one dam should be anticipated
+during a catastrophic earthquake in either the Los Angeles or San
+Francisco regions.
+
+Experience in past earthquakes, particularly the 1971 San Fernando
+earthquake, has demonstrated the potential vulnerability of commercial
+telephone service to earthquakes, including the possibility of damage
+to switching facilities from ground shaking and rupture of underground
+cables that cross faults. This is especially serious because
+immediately following earthquakes, public demand for telephone
+services increases drastically. This increased demand overloads the
+capability of the system, even if it had not been damaged, and
+therefore management action to reduce the availability of service to
+non-priority users and to accommodate emergency calls is mandatory.
+Radio-based communication systems, particularly those not requiring
+commercial power, are relatively safe from damage, although some must
+be anticipated. The redundancy of existing communication systems,
+including those designed for emergency use, means that some capability
+for communicating with the affected region from the outside would
+almost surely exist. Restoration of service by the commercial carriers
+should begin within 24 to 72 hours as a result of maintenance and
+management actions; however, total restoration of service would take
+significantly longer.
+
+While numerous agencies have the capability for emergency
+communication within themselves, non-telephonic communication among
+entities and agencies in the affected area is minimal. This is true
+for Federal, State, and local agencies. This weakness has been pointed
+out repeatedly by earthquake response exercises, and the problem is
+raised by almost every emergency preparedness official at every level
+of government. Consequently, a major problem for resolution is the
+operational integration of communications systems and networks among
+the relevant Federal, State, and local agencies.
+
+Because of their network-like character, most systems for
+transportation and water and power generation and distribution, as a
+whole, are resistant to failure, despite potentially severe local
+damage. These systems would suffer serious local outages, particularly
+in the first several days after the event, but would resume service
+over a few weeks to months. The principal difficulty would be the
+greatly increased need for these systems in the first few days after
+the event, when lifesaving activities would be paramount.
+
+Portions of the San Francisco Bay Area and of the Los Angeles Area
+contain substantial concentrations of manufacturing capacity for
+guided missiles and space vehicles, semiconductors, aircraft parts,
+electronic computing equipment, and airframes. Their specific
+vulnerability to the postulated earthquakes was not analyzed. In the
+event of major damage, however, the long-term impacts may be mitigated
+somewhat by such measures as the use of underutilized capacity located
+elsewhere, substitution of capacity from other industries, imports,
+use of other products, and drawing-down of inventories.
+
+Since we have not recently experienced a catastrophic earthquake in
+the United States, there are many unknowns which must be estimated
+with best judgment. This is true particularly for the response of
+individuals as well as governmental and other institutions. Popular
+assumptions of post-disaster behavior include antisocial behavior and
+the need for martial law, the breakdown of government institutions,
+and the requirement for the quick assertion of outside leadership and
+control. Practical experience and field studies of disasters, however,
+indicate that these assumptions are not necessarily correct. On the
+contrary, the impacts of the disaster commonly produce a sense of
+solidarity and cooperativeness among the survivors. Nonetheless, the
+perception remains among emergency response officials that there will
+be an increased need for law enforcement following the event.
+
+Another major unknown involves whether a medium or short-term warning
+of the event would be possible and how such a warning could be
+utilized most effectively. The technology for earthquake prediction is
+in an early stage of development and, therefore it is problematical
+that researchers will succeed in issuing a short-term warning before a
+catastrophic earthquake, should the event occur in the next few
+years. Yet as research progresses, scientifically-based,
+intermediate-term warnings are possible, but subject to a high degree
+of uncertainty. Consequently, response preparations must be made for
+both an earthquake without warning, and one with a short-or
+intermediate-term warning, possibly with a significant level of
+uncertainty.
+
+
+E. CAPABILITY FOR RESPONSE
+
+Planning for response to a large-scale disaster is a complicated
+process encompassing many variables such as population densities and
+distribution characteristics; land-use patterns and construction
+techniques; geographical configurations; vulnerability of
+transportation; communications and other lifeline systems; complex
+response operations; long-term physical, social, and economic recovery
+policies. These factors, together with the realization that an
+earthquake has the potential for being the greatest single-event
+catastrophe in California, make it incumbent upon the State to
+maintain as high a level of emergency readiness as is practicable, and
+to provide guidance and assistance to local jurisdictions desiring to
+plan and prepare for such events. Annex 2 reviews the general nature
+of preparedness planning and the basic characteristics of California
+and Federal Government plans.
+
+Federal, State, and local emergency response capabilities are judged
+to be adequate for moderate earthquakes--those that are most likely to
+occur frequently in California and cause property damage in the range
+of $1 billion. Such an event, however, would severely tax existing
+resources and provide a major test of management relationships among
+different governmental levels. Federal, State, and local officials,
+however, are quick to point out serious shortcomings in their ability
+to respond to a catastrophic earthquake. An analysis of the
+preparedness posture of 60 local governments, 34 California State
+organizations, and 17 Federal agencies, carried out by the California
+Office of Emergency Services (OES) and FEMA, indicates that response
+to such an earthquake would become disorganized and largely
+ineffective. Many governmental units have generalized earthquake
+response plans, some have tailored earthquake plans, and several plans
+are regularly exercised. The coordination of these plans among
+jurisdictions, agencies, and levels of government, however, is
+inadequate. In addition, the potential for prediction is not
+incorporated; long-term recovery issues are not considered; and
+communications problems are significant, as discussed above. Overall,
+Federal preparedness is deficient at this time. Early reaction to a
+catastrophic event would likely be characterized by delays,
+ineffective response, and ineffectively coordinated delivery of
+support.
+
+FEMA Region IX (San Francisco) has drafted an Earthquake Response Plan
+for the San Francisco Bay area. Annex 2 gives an overview of this
+draft plan. This is a site-specific plan for response to potential
+catastrophic earthquake occurrences. The emergency response portion
+relies upon a decentralized approach which provides for Federal
+disaster support activities to be assigned to selected Federal
+agencies by mission assignment letters. No specific plans have been
+prepared in this detail for other seismic risk areas, although it is
+expected that the Bay Area plan could be easily adapted to other
+areas. The Department of Defense and the Department of Transportation
+are developing detailed earthquake plans that would ensure a
+well-organized and adequate response to mission assignments for a
+major earthquake. The plans of other agencies need further
+development.
+
+Very significant capabilities to assist in emergency response exist
+within the California National Guard, California Highway Patrol, the
+Departments of Health Services and Transportation, and the U.S.
+Department of Defense. Capabilities exist for such lifesaving
+activities as _aerial reconnaissance, search and rescue, emergency
+medical services, emergency construction and repair, communications,
+and emergency housing and food_. Current estimates by both Federal and
+State officials, however, indicate that at least 6 to 8 hours would be
+required before personnel and equipment can be mobilized and begin
+initial deployment to the affected area. During the period before the
+arrival of significant outside assistance critical to the saving of
+lives (especially of those trapped in collapsed buildings), the public
+would be forced to rely largely upon its own resources for search and
+rescue, first aid, and general lifesaving actions. The current level
+of public preparation for this critical phase of response can be
+described as only minimal. Much of the current state of preparedness
+arises from past programs aimed at a wide spectrum of emergencies,
+particularly civil defense against nuclear attack. New or strengthened
+programs are needed to enhance public preparedness.
+
+FEMA has recently entered into a cooperative effort with California
+State and local governments to prepare an integrated prototype
+preparedness plan to respond to a catastrophic earthquake in Southern
+California or to a prediction of such an event. The plan's completion,
+in late 1981, promises to improve substantially the state of readiness
+to respond to the prediction and the occurrence of an earthquake in
+that area and to provide a model which could be applied to other
+earthquake-prone regions of California and the rest of the country.
+
+
+F. FINDINGS, ISSUES, AND ACTIONS
+
+The _ad hoc_ committee responsible for this review developed several
+significant findings related to the implications of major earthquakes
+in California and our capabilities to respond to them. It then
+identified major relevant issues raised by these findings and caused a
+number of actions to be taken. A brief discussion of the results of
+its review follows.
+
+
+1. Leadership
+
+=Finding=: _Effective leadership at all governmental levels is the
+single most important factor needed to improve this Nation's
+preparedness for a catastrophic earthquake in California._ The problem
+of emergency preparedness is severely complicated because
+responsibilities for preparation and response cut across normal lines
+of authority. Further complication arises from the large areal extent
+of the impacts expected from a major earthquake, affecting literally
+dozens of government entities. The emergency services coordinator at
+any level of government is effective only to the extent he or she is
+backed by the political leadership at that level. This is especially
+true when preparedness activities must be done, for the most part,
+within existing resources. City and county officials must increasingly
+accept their share of the responsibility for preparedness, but
+commitment by State or Federal leaders is also essential. The general
+tendency among elected officials and the public is to ignore the
+existing hazard problem. Experience, however, teaches that effective
+response mechanisms must be in place before the disaster; they cannot
+be developed in the time of crisis. Overcoming this apathy and
+developing the organizational arrangements among Federal, State, and
+local government and volunteer agencies--together with the private
+sector and the general public will require, above all, leadership.
+
+      =Issue=: The leadership role of the Federal Government in
+      preparing for a catastrophic earthquake in California and
+      how this leadership role is to be exerted require
+      clarification.
+
+        =Action=: The President has communicated with the
+        Governor of California to indicate the results of this
+        review, to express concern about the need for cooperative
+        leadership to prepare for the event, and to offer to
+        increase the Federal effort with the State of California
+        and local governments in the cooperative undertaking to
+        prepare for a catastrophic earthquake. He stressed that
+        the Federal role is to supplement the effort and
+        resources of the State, and that commitment of
+        significant Federal resources would be contingent upon
+        the application of significant State resources. In his
+        response to the President's communications, the Governor
+        of California underscored the State's readiness to
+        participate in this cooperative effort and announced his
+        signing into law a measure that would provide substantial
+        State resources (see annex 1). A summary of the new law
+        (A.B. 2202) is contained in annex 3.
+
+
+2. Management of Preparedness and Response Activities
+
+=Finding=: _Preparedness must be developed as a partnership between
+Federal, State, and local governments with improvements needed at all
+levels_, as none have the resources or authorities to solve the
+problem alone.
+
+      =Issue=: Since the Nation faces a very probable earthquake
+      in California sometime during the next 30 years, FEMA
+      should provide the necessary leadership, management, and
+      coordination required to strengthen planning and
+      preparedness within the Federal Government, as delegated
+      under the National Earthquake Hazards Reduction Program of
+      1977 and the Disaster Relief Act of 1974. In this effort,
+      FEMA requires the support and assistance of numerous other
+      Federal agencies.
+
+        =Actions=: FEMA is taking steps to:
+
+        » Strengthen significantly its management, research,
+          application, and coordination functions, as delegated
+          under the National Earthquake Hazards Reduction Program
+          and Disaster Relief Act.
+
+        » Lead other agencies in the development of a
+          comprehensive preparedness strategy detailing specific
+          objectives and assignments, and periodically monitor
+          accomplishments in meeting assigned responsibilities.
+
+        Departments and agencies with appropriate capabilities
+        will provide needed support to FEMA in strengthening
+        Federal preparedness and hazard mitigation programs.
+
+      =Issue=: A major deficiency that has been identified is the
+      potential for delay following a catastrophic earthquake in
+      processing a request for a Presidential declaration of a
+      major disaster, and the subsequent initiation of full-scale
+      Federal support for lifesaving actions. The first few hours
+      are critical in saving the lives of people trapped in
+      collapsed buildings; consequently, this is when Federal
+      support is needed most. Decisions on post-event recovery
+      aspects of Federal assistance can be deferred until
+      lifesaving operations are underway and sufficient
+      information about damage is in hand.
+
+        =Action=: FEMA will develop and negotiate, before the
+        event, an agreement with the State of California which
+        will enable the President to declare a major disaster and
+        initiate full-scale Federal support for lifesaving and
+        humanitarian action within minutes of a catastrophic
+        earthquake. The agreement will defer resolution of issues
+        relating to longer-term restoration and recovery and
+        similar questions with large budgetary implications until
+        adequate damage estimates are available. The Executive
+        Branch will thus be able to arrive at an informed
+        decision.
+
+      =Issue=: Significant improvements in the Federal, State,
+      and local capability for coordination of operational
+      response to a catastrophic earthquake are needed.
+
+        =Actions=: FEMA and other appropriate Federal agencies will
+        increase their efforts, in a partnership with appropriate
+        State and local agencies and volunteer and private-sector
+        organizations, to:
+
+        » Complete development and agreement on fully integrated
+          earthquake response plans for both the San Francisco
+          and Los Angeles regions, including provision for
+          predicted as well as unpredicted earthquakes, building
+          upon the existing draft plan for San Francisco.
+
+        » Establish a small FEMA staff in California dedicated to
+          the coordination of earthquake preparedness planning and
+          implementation.
+
+        » Develop improved mechanisms for the coordination of
+          medical and mortuary activities following a catastrophic
+          earthquake.
+
+        » Identify and document the critical requirements for
+          emergency communications--particularly non-telephonic
+          communications--among Federal, State, and local
+          agencies. Shortfalls between critical requirements and
+          current capabilities, as well as remedial actions or
+          recommended solutions for each will be identified in
+          accordance with the "National Plan for Communications
+          Support in Emergencies and Major Disasters." This
+          review will include consideration of using existing
+          satellite communications or a dedicated system, should
+          it be found necessary.
+
+        » Cooperatively conduct practice response exercises with
+          State and local officials that will prepare officials
+          and the public for conditions that might be encountered
+          in a catastrophic earthquake and that would reveal
+          deficiencies in planning.
+
+      =Issue=: Improving the current inadequate preparedness of
+      the public for a catastrophic earthquake requires a
+      substantial increase in public information and public
+      awareness. Although public information is primarily a
+      State, local, and private-sector responsibility, the
+      Federal Government has a role as well. Because citizens
+      will have no choice but to rely largely upon their own
+      resources in the first several hours immediately following
+      a catastrophic earthquake, it is important that certain
+      basic knowledge about lifesaving measures be very widely
+      disseminated.
+
+        =Action=: FEMA will stimulate and work with the State of
+        California and other appropriate groups to develop and
+        publicize earthquake awareness, hazard mitigation
+        techniques, specific post-earthquake actions to be taken,
+        including first aid, and other pertinent information.
+
+      =Issue=: The possibility of a credible,
+      scientifically-based prediction of a catastrophic
+      earthquake poses serious challenges to government and our
+      society. The current level of scientific understanding of
+      earthquake prediction and the available resources are such
+      that present instrumentation efforts are directed toward
+      research rather than maintaining extensive monitoring
+      networks for real-time prediction. The transition from
+      research to fully operational capability will require
+      additional scientific understanding as well as resources.
+      Earthquake predictions are possible, perhaps likely,
+      however, from the current research effort. Even with a
+      significant level of uncertainty, any scientifically
+      credible prediction that indicates a catastrophic
+      earthquake is expected within about 1 year or less, will
+      require very difficult and consequential decisions on the
+      part of elected officials at all levels of government.
+      Decisions may include such possibilities as the
+      mobilization of National Guard and U.S. Department of
+      Defense resources prior to the event, the imposition of
+      special procedures or drills at potentially hazardous
+      facilities, such as nuclear reactors or dams, the
+      condemnation or evacuation of particularly unsafe buildings
+      with the subsequent need for temporary housing, and the
+      provisions of special protection of fragile inventories. If
+      the prediction is correct and appropriate actions are
+      taken, thousands of lives can be saved and significant
+      economic losses can be avoided. The costs of responding to
+      a prediction may be substantial, however, and the
+      commitment of resources undoubtedly will have to be made in
+      the face of considerable uncertainty and even reluctance.
+      Indeed, the possibility of an inaccurate prediction must be
+      faced squarely.
+
+        =Actions=: FEMA, in conjunction with other appropriate
+        Federal agencies, State and local governments, and
+        volunteer and private-sector organizations, will increase
+        its actions to develop procedures for responding to a
+        credible, scientific earthquake prediction, including:
+
+        » Identification of constructive and prudent actions to
+          be taken
+
+        » Analysis of the costs and benefits of various
+          alternative actions
+
+        » Identification of roles and responsibilities in deciding
+          which actions should be implemented and by whom
+
+        » Criteria for evaluating circumstances when the provision
+          of Federal assistance would be appropriate
+
+        The U.S. Geological Survey of the Department of the
+        Interior will:
+
+        » Maintain a sound and well-balanced program of research
+          in earthquake prediction and hazard assessment based
+          upon a carefully considered strategic plan
+
+        » Work with State and local officials and FEMA to develop
+          improved mechanisms for the transmission of earthquake
+          predictions and related information, and to plan for the
+          utilization of the capability for earthquake prediction
+
+
+3. Resources
+
+=Finding=: While leadership and management are essential ingredients to
+achieve an adequate earthquake preparedness posture, _the availability
+of adequate staffing and resources at all levels of government
+determines the efficacy of agency programs and initiatives_. In many
+agencies, earthquake preparedness has been accorded a low priority in
+their programs. This is a manifestation of a more general problem of
+minimal agency resource allocation to emergency preparedness. The
+results of the actions that have been indicated will be limited unless
+additional resources are made available.
+
+      =Issue=: Additional resources should be provided as
+      necessary to accelerate the earthquake hazard mitigation
+      and preparedness activities under the National Earthquake
+      Hazards Reduction Program.
+
+        =Action=: FEMA has reassessed its priorities and is
+        allocating resources to increase the staffing, funding,
+        and management attention and direction for earthquake
+        hazards mitigation, including preparations for a
+        catastrophic earthquake in California. This includes an
+        increase of staff resources in FEMA Region IX for
+        Federal, State, and local coordination of planning,
+        preparedness, and mitigation. Resource needs that cannot
+        be fully met by the reassessment and reallocation for
+        Fiscal Year 1981 should be identified and justified along
+        with needs for Fiscal Year 1982 in the course of the
+        budget submissions for Fiscal Year 1982. To facilitate an
+        adequate and balanced response by other Federal agencies,
+        FEMA will provide timely guidance to other agencies on
+        specific priorities for this effort in relation to other
+        major preparedness goals. The Office of Management and
+        Budget and the Office of Science and Technology Policy
+        will work together to develop a cross-agency ranking of
+        budgetary resources for earthquake preparedness for
+        Fiscal Year 1982.
+
+
+CHAPTER II
+
+GEOLOGIC EARTHQUAKE SCENARIOS
+
+
+A. MAJOR EVENTS
+

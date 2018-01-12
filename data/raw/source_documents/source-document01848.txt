@@ -1,0 +1,425 @@
+﻿Produced by David Starner, Sigal Alon and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+UNITED STATES DEPARTMENT OF AGRICULTURE
+
+BULLETIN No. 1091
+
+Also Technical Bulletin No. 1 of the Agricultural Experiment Station
+University of Arizona
+
+Washington, D. C. PROFESSIONAL PAPER September 13, 1922
+
+LIFE HISTORY OF THE KANGAROO RAT
+_Dipodomys spectabilis spectabilis_ Merriam
+
+BY
+
+CHARLES T. VORHIES, Entomologist
+Agricultural Experiment Station, University of Arizona; and
+
+WALTER P. TAYLOR, Assistant Biologist
+Bureau of Biological Survey, U. S. Department
+of Agriculture
+
+
+CONTENTS
+
+
+Importance of Rodent Groups     1
+Identification                  3
+Description                     5
+Occurrence                      7
+Habits                          9
+Food and Storage               18
+Burrow Systems, or Dens        28
+Commensals and Enemies         33
+Abundance                      36
+Economic Considerations        36
+Summary                        38
+Bibliography                   40
+
+
+[Illustration]
+
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1922
+
+
+[Illustration: PLATE I.--Banner-tailed Kangaroo Rat (Dipodomys spectabilis
+spectabilis Merriam).
+
+From _Dipodomys merriami_ Mearns and subspecies, which occur over much
+of its range, this form is easily distinguished by its larger size and
+the conspicuous white brush on the tail.]
+
+
+UNITED STATES DEPARTMENT OF AGRICULTURE
+
+BULLETIN No. 1091
+
+Also Technical Bulletin No. 1 of the
+Agricultural Experiment Station, University of Arizona
+
+Washington, D. C. PROFESSIONAL PAPER September, 1922
+
+LIFE HISTORY OF THE KANGAROO RAT,
+
+_Dipodomys spectabilis spectabilis_ Merriam.
+
+By CHARLES T. VORHIES, _Entomologist, Agricultural Experiment Station,
+University of Arizona_; and WALTER P. TAYLOR, _Assistant Biologist,
+Bureau of Biological Survey, U. S. Department of Agriculture_.
+
+
+CONTENTS.
+
+
+                                 Page
+
+Importance of rodent groups         1
+  Investigational methods           2
+Identification                      3
+Description                         5
+  General characters                5
+  Color                             6
+  Oil gland                         6
+  Measurements and weights          7
+Occurrence                          7
+  General distribution              7
+  Habitat                           7
+Habits                              9
+  Evidence of presence              9
+    Mounds                          9
+    Runways and tracks             10
+    Signals                        11
+    Voice                          12
+  Daily and seasonal activity      12
+  Pugnacity and sociability        13
+  Sense developments               14
+  Movements and attitudes          15
+  Storing habits                   15
+  Breeding habits                  16
+Food and storage                   18
+Burrow systems, or dens            28
+Commensals and enemies             33
+  Commensals                       33
+  Natural checks                   34
+  Parasites                        35
+Abundance                          36
+Economic considerations            36
+  Control                          37
+Summary                            38
+Bibliography                       40
+
+
+NOTE.--This bulletin, a joint contribution of the Bureau of Biological
+Survey and the Arizona Agricultural Experiment Station, contains a
+summary of the results of investigations of the relation of a subspecies
+of kangaroo rat to the carrying capacity of the open ranges, being one
+phase of a general study of the life histories of rodent groups as they
+affect agriculture, forestry, and grazing.
+
+
+IMPORTANCE OF RODENT GROUPS.
+
+
+As the serious character of the depredations by harmful rodents is
+recognized, State, Federal, and private expenditures for their control
+increase year by year. These depredations include not only the attacks
+by introduced rats and mice on food materials stored in granaries,
+warehouses, commercial establishments, docks, and private houses, but
+also, particularly in the Western States, the ravages of several groups
+of native ground squirrels and other noxious rodents in grain and
+certain other field crops. Nor is this all, for it has been found that
+such rodents as prairie dogs, pocket gophers, marmots, ground squirrels,
+and rabbits take appreciable and serious toll of the forage on the open
+grazing range; in fact, that they reduce the carrying capacity of the
+range to such an extent that expenditures for control measures are amply
+justified. Current estimates place the loss of goods due to rats and
+mice in warehouses and stores throughout the United States at no less
+than $200,000,000 annually, and damage to the carrying capacity of the
+open range and to cultivated crops generally by native rodents in the
+Western States at $300,000,000 additional; added together, we have an
+impressive total from depredations of rodents.
+
+The distribution and life habits of rodents and the general
+consideration of their relation to agriculture, forestry, and grazing,
+with special reference to the carrying capacity of stock ranges, is a
+subject that has received attention for many years from the Biological
+Survey of the United States Department of Agriculture. As a result of
+the investigations conducted much has been learned concerning the
+economic status of most of the more important groups, and the knowledge
+already gained forms the basis of the extensive rodent-control work
+already in progress, and in which many States are cooperating with the
+bureau. If the work is to be prosecuted intelligently and the fullest
+measure of success achieved, it is essential that the consideration
+largely of groups as a whole be supplemented by more exhaustive
+treatment of the life histories of individual species and of their place
+in the biological complex. The present report is based upon
+investigations, chiefly in Arizona, of the life history, habits, and
+economic status of the banner-tailed kangaroo rat, _Dipodomys
+spectabilis spectabilis_ Merriam (Pl. I).
+
+
+INVESTIGATIONAL METHODS.
+
+Some 18 years ago (in 1903) a tract of land 49.2 square miles in area on
+the Coronado National Forest near the Santa Rita Mountains, Pima County,
+southern Arizona, was closed to grazing by arrangement between the
+Forest Service and the Agricultural Experiment Station of the University
+of Arizona. Since that time another small tract of nearly a section has
+been inclosed (Griffiths, 1910, 7[1]). This total area of approximately
+50 square miles is known as the United States Range Reserve, and is
+being devoted to a study of grazing conditions in this section and to
+working out the best methods of administering the range (Pl. II, Fig.
+1).
+
+For some years an intensive study of the forage and other vegetative
+conditions of this area has been made, the permanent vegetation quadrat,
+as proposed by Dr. F. E. Clements (1905, 161-175), being largely
+utilized. During the autumn of 1917 representatives of the Carnegie
+Institution and the Arizona Agricultural Experiment Station visited the
+Reserve and were impressed with the evidence of rodent damage to the
+grass cover. The most conspicuous appearance of damage was noted about
+the habitations of the banner-tailed kangaroo rat (_Dipodomys
+spectabilis spectabilis_ Merriam), although it was observed also that
+jack rabbits of two species (_Lepus californicus eremicus_ Allen and _L.
+alleni alleni_ Mearns), which were very abundant in some portions of the
+reserve, were apparently affecting adversely the forage conditions in
+particular localities. Accordingly, the Biological Survey, the
+Agricultural Experiment Station of the University of Arizona, the
+Carnegie Institution of Washington, and the U. S. Forest Service have
+undertaken a study of the relation of the more important rodents to the
+forage crop of the Range Reserve in Arizona.
+
+The present paper is a first step in this larger investigation.[2] In
+this work the authors have made no attempt to deal with the taxonomic
+side of the kangaroo rat problem. It is not unlikely that intensive
+studies will show that the form now known as _Dipodomys spectabilis
+spectabilis_ is made up of a number of local variants, some of them
+perhaps worthy of recognition as additional subspecies. But it is felt
+that the conclusions here reached will be little, if at all, affected by
+such developments.
+
+Color descriptions are based on Ridgway's Color Standards and Color
+Nomenclature published in 1912.
+
+    [Footnote 1: References in parentheses are to the Bibliography, p.
+    40 (the last figure being to the page of the publication).
+    References to authorities where no citation of literature is
+    appended relate for the most part to manuscript notes in the files
+    of the Biological Survey or the University of Arizona Agricultural
+    Experiment Station.]
+
+    [Footnote 2: In addition to assistance rendered by officials of the
+    Biological Survey and the University of Arizona, which is hereby
+    acknowledged, the authors are indebted to the following persons for
+    helpful suggestions and assistance: G. S. Miller and J. W. Gidley,
+    of the U. S. National Museum; Dr. Frederic E. Clements and Gorm
+    Loftfield, of the Carnegie Institution; Morgan Hebard, of the
+    Academy of Natural Sciences of Philadelphia; James T. Jardine and
+    R. L. Hensel, both formerly connected with the U. S. Forest Service;
+    and R. R. Hill, of the Forest Service. They are also indebted to
+    William Nicholson, of Continental, Ariz., for many courtesies
+    extended in connection with work on the Reserve.]
+
+
+IDENTIFICATION.
+
+
+There are only three groups of mammals in the Southwest having external
+cheek pouches. These are (_a_) the pocket gophers (Geomyidæ), which have
+strong fore feet, relatively weak hind feet, and short tail, as compared
+with weak fore feet, relatively strong hind feet, and long tail in the
+other two; (_b_) the pocket mice (_Perognathus_), which are considerably
+smaller than the kangaroo rats and lack the conspicuous white hip
+stripe possessed by all the latter; and (_c_) the kangaroo rats
+(_Dipodomys_).
+
+[Illustration: FIG. 1.--Range, east of the Colorado River, of _Dipodomys
+spectabilis spectabilis_ compared with that of _Dipodomys merriami_.
+Cross hatching indicates area of overlapping of the two forms. The range
+of _Dipodomys deserti_, not shown on the map, is west of that of
+_spectabilis_, and so far as known the two do not overlap.]
+
+_Dipodomys spectabilis spectabilis_ Merriam requires comparison with
+three other forms of kangaroo rats in the same general region, namely,
+_D. deserti_ Stephens, of approximately the same size, and _D. merriami_
+Mearns and _D. ordii_ Woodhouse, the last two of decidedly smaller size.
+The range of _deserti_ lies principally to the west of that of
+_spectabilis_, and the two do not, so far as known, overlap. On the
+other hand, _merriami_ and _ordii_, and subspecies, occur over a large
+part of the range of _spectabilis_, living in very close proximity to
+its burrows; _merriami_ is even suspected of pillaging the stores of
+_spectabilis_. The range of _merriami_, however, is much more extensive
+than that of _spectabilis_ (Fig. 1), which argues against a definite
+ecological dependence or relationship. Separation of the four forms
+mentioned may be easily accomplished by the following key:
+
+_Key to Species of_ Dipodomys _in Arizona._
+
+_a^1_. Size much larger (hind foot and greatest length of skull more
+than 42 millimeters); tail tipped with white.
+
+     _b^1_. Upper parts dark brownish buffy; tail dark brownish or
+     blackish with more sharply contrasted white tip; interparietal
+     broader, distinctly separating mastoids (range in Arizona mainly
+     southeastern part)                          =Dipodomys spectabilis.=
+
+     _b^2_. Upper parts light ochraceous-buffy; tail pale brownish with
+     less sharply contrasted white tip; interparietal narrower, reduced
+     to mere spicule between mastoids (range in Arizona mainly
+     southwestern part)                              =Dipodomys deserti.=
+
+_a^2_. Size much smaller (hind foot and greatest length of skull less
+than 42 millimeters); tail not tipped with white.
+
+     _b^1_. Hind foot with four toes                =Dipodomys merriami.=
+
+     _b^2_. Hind foot with five toes                   =Dipodomys ordii.=
+
+On account of the small size, _merriami_ and _ordii_ do not require
+detailed color comparison with the other two. The general color of the
+upperparts of _spectabilis_ is much darker than that of _deserti_;
+whereas _spectabilis_ is ochraceous-buff or light ochraceous-buff
+grizzled with blackish, _deserti_ is near pale ochraceous-buff and lacks
+the blackish.
+
+The color of the upperparts alone amply suffices to distinguish
+_spectabilis_ and _deserti_; but the different coloration of the tail is
+the most obvious diagnostic feature. The near black of the middle
+portion of the tail, the conspicuous white side stripes, and the pure
+white tip make the tail of _spectabilis_ stand in rather vivid contrast
+to the pale-brown and whitish tail of _deserti_.
+
+The dens of the two larger species of _Dipodomys_--_spectabilis_ and
+_deserti_--can be distinguished at a glance from those of the two
+smaller--_merriami_ and _ordii_--by the fact that the mounds of the
+former are usually of considerable size and the burrow mouths are of
+greater diameter. On the Range Reserve _merriami_ erects no mounds, but
+excavates its burrows in the open or at the base of _Prosopis_,
+_Lycium_, or other brush. The mounds of _spectabilis_ are higher than
+those of _deserti_, the entrances are larger, and they are located in
+harder soil (Pl. III, Fig. 1). The dens of _deserti_ are usually more
+extensive in surface area than those of _spectabilis_, and have a
+greater number of openings (Pl. III, Fig. 2).
+
+
+[Illustration: PLATE II. FIG. 1.--WINTER VIEW OF AREA INHABITED BY
+KANGAROO RATS.
+
+A water-hole scene on the U. S. Range Reserve at the base of the Santa
+Rita Mountains, Ariz., where cooperative investigations are being
+conducted to ascertain the relation of rodents to forage. This is
+typical of a large section of country occupied by _Dipodomys spectabilis
+spectabilis_ and _Dipodomys merriami_. The brush is mesquite
+(_Prosopis_), cat's-claw (_Acacia_), and paloverde (_Cercidium_).]
+
+[Illustration: PLATE II. FIG. 2.--KANGAROO RAT COUNTRY FOLLOWING SUMMER
+DROUGHT.
+
+An area of the U. S. Range Reserve in the autumn of 1918, showing the
+result of failure of summer rains. Such a condition is critical not only
+for the stockmen but also for kangaroo rats and other desert rodents,
+and results in competition between them as to which shall benefit by
+what the range has to offer.]
+
+
+[Illustration: PLATE III. FIG. 1.--KANGAROO RAT MOUND (DIPODOMYS S.
+SPECTABILIS).
+
+Typical _Dipodomys s. spectabilis_ mound on the Range Reserve, under
+shelter of desert hackberry (_Celtis pallida_). Most dens on the reserve
+are located in the shelter of brush plants, the more important being
+mesquite (_Prosopis velutina_), cat's-claw (_Acacia_ spp.), and the
+desert hackberry. (See also Pl. VIII Fig. 2.)]
+
+[Illustration: PLATE III. FIG. 2.--KANGAROO RAT MOUND (DIPODOMYS DESERTI).
+
+Den of _Dipodomys deserti deserti_, showing typical wide, low mound with
+numerous entrance holes. This species excavates its den in soft, sandy
+soil. The tree is a species of _Dalea_.]
+
+
+DESCRIPTION.
+
+
+GENERAL CHARACTERS.
+
+Size large; ears moderate, ear from crown (taken in dry skin) 9 or 10
+millimeters; eyes prominent; whiskers long and sensitive; fore feet
+short and weak; hind feet long and powerful, provided with four
+well-developed toes; tail very long, usually 30 to 40 per cent longer
+than the body. Cranium triangular, the occiput forming the base and the
+point of the nose the apex of the triangle, much flattened, auditory and
+particularly mastoid bullae conspicuously inflated.
+
+
+COLOR.
+
+General color above, brownish buffy, varying in some specimens to
+lighter buffy tints, grizzled with black; oblique hip stripes white;
+tail with dark-brown or blackish stripes above and below, running into
+blackish about halfway between base and tip, and with two lateral side
+stripes of white to a point about halfway back; tail tipped with pure
+white for about 40 millimeters (Pl. I). Underparts white, hairs white to
+bases, with some plumbeous and buffy hairs about base of tail; fore legs
+and fore feet white all around; hind legs like back, brown above, hairs
+with gray bases, becoming blackish (fuscous-black or chætura-black)
+about ankles, hairs on under side white to bases; hind feet white above,
+dark-brown or blackish (near fuscous) below.
+
+Color variations in a series of 12 specimens from the type locality and
+points widely scattered through the range of _spectabilis_ consist in
+minor modifications of the degree of coloration, length of white tip of
+tail, and length of white lateral tail stripes. In general the color
+pattern and characters are remarkably uniform. Young specimens, while
+exhibiting the color pattern and general color of adults, are
+conspicuously less brown, and more grayish.
+
+There appears to be little variation in color with season. In the series
+at hand, most specimens taken during the fall, winter, and spring are
+very slightly browner than those of summer, suggesting that the fresh
+pelage following the fall molt is a little brighter than is the pelage
+after being worn all winter and into the following summer. But at most
+the difference is slight.
+
+
+OIL GLAND.
+
+Upon separating the hairs of the middle region of the back about a third
+of the distance between the ears and the rump, one uncovers a prominent
+gland, elliptical in outline, with long axis longitudinal and about 9
+millimeters in length. The gland presents a roughened and granular
+appearance, and fewer hairs grow upon it than elsewhere on the back. The
+hairs in the vicinity are frequently matted, as if with a secretion. In
+worn stage of pelage the gland may be visible from above without
+separating the hairs. Bailey has suggested that this functions as an oil
+gland for dressing the fur, and our observations bear out this view.
+Kangaroo rats kept in captivity without earth or sand soon come to have
+a bedraggled appearance, as if the pelage were moist. When supplied with
+fine, dusty sand, they soon recover their normal sleek appearance.
+Apparently the former condition is due to an excess of oil, the latter
+to the absorption of the excess in a dust bath. The oil is doubtless an
+important adjunct to the preservation of the skin and hair amid the
+dusty surroundings in which the animal lives.
+
+
+MEASUREMENTS AND WEIGHTS.
+
+External measurements include: _Total length_, from tip of nose to tip
+of tail without hairs, measured before skinning; _tail vertebræ_, length
+of tail from point in angle when tail is bent at right angles to body to
+tip of tail without hairs; and _hind foot_, from heel to tip of longest
+claw.
+
+The following are measurements of a series from the U. S. Range Reserve:
+
+     [Transcriber note: Next line was corrected per erratum. The
+     original text was of the following paragraph (_Averages for 17
+     adult females: Total length, 326.4 millimeters_).]
+

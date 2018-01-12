@@ -1,0 +1,3407 @@
+﻿Produced by David Starner, Asad Razzaki
+and the Online Distributed Proofreading Team
+
+
+CONSANGUINEOUS MARRIAGES
+IN THE
+AMERICAN POPULATION
+
+
+STUDIES IN HISTORY, ECONOMICS AND PUBLIC LAW
+
+EDITED BY THE FACULTY OF POLITICAL SCIENCE OF COLUMBIA UNIVERSITY
+
+[Volume XXXI] [Number 3]
+
+
+CONSANGUINEOUS MARRIAGES
+IN THE
+AMERICAN POPULATION
+
+BY
+GEORGE B. LOUIS ARNER, Ph.D.
+_University Fellow in Sociology_
+
+
+1908
+
+
+PREFACE
+
+
+This monograph does not claim to treat exhaustively, nor to offer a
+final solution of all the problems which have been connected with the
+marriage of kin. The time has not yet come for a final work on the
+subject, for the systematic collection of the necessary statistics,
+which can only be done by governmental authority, has never been
+attempted. The statistics which have been gathered, and which are
+presented in the following pages, are fragmentary, and usually bear
+upon single phases of the subject, but taken together they enable us
+better to understand many points which have long been in dispute.
+
+The need for statistics of the frequency of occurrence of
+consanguineous marriages has been strongly felt by many far-sighted
+men. G.H. Darwin and A.H. Huth have tried unsuccessfully to have the
+subject investigated by the British Census, and Dr. A.G. Bell has
+recently urged that the United States Census make such an
+investigation.[1] Another motive for undertaking this present work,
+aside from the desire to study the problems already referred to, has
+been to test the widely prevalent theory that consanguinity is a
+factor in the determination of sex, the sole basis of which seems to
+be the Prussian birth statistics of Düsing, which are open to other
+interpretations.
+
+[Footnote 1: Cf. Bell, "A Few Thoughts Concerning Eugenics." In
+_National Geographic Magazine_, March, 1908.]
+
+The stock illustrations from isolated communities have been omitted as
+too difficult to verify, and little space has been given to the
+results of the inbreeding of domestic animals, for although such
+results are of great value to Biology, they are not necessarily
+applicable to the human race.
+
+The writer regrets that it is impossible here to acknowledge all his
+obligations to those who have assisted him in the preparation of this
+work. Such acknowledgement is due to the many genealogists and other
+friends who have kindly furnished detailed cases of consanguineous
+marriage. For more general data the writer is especially indebted to
+Dr. Alexander Graham Bell, to Dr. Martin W. Barr, to Professor William
+H. Brewer of Yale University, and to Dr. Lee W. Dean of the University
+of Iowa. In the preparation of the manuscript the suggestions and
+criticisms of Professors Franklin H. Giddings and Henry L. Moore have
+been invaluable.
+
+G.B.L.A.
+
+MARCH, 1908.
+
+
+CONTENTS
+
+
+CHAPTER I
+
+INTRODUCTION
+
+Problems to be Treated--Degrees of Consanguinity--Literature of the
+Subject--Noah Webster--Bemiss--Dally--G.H. Darwin--Huth--Bell--Legal
+Status in the United States--Methods of
+Investigation--Genealogical--Personal--Isolated Communities
+
+
+CHAPTER II
+
+RATIO OF THE CONSANGUINEOUS TO ALL MARRIAGES
+
+Previous Estimates--Mayo-Smith--Mulhall--Darwin--Application of
+Darwin's Method to American Data--Direct Method--Consanguineal
+Attraction--Same-name and Different-name Cousin Marriages--Summary
+
+
+CHAPTER III
+
+MASCULINITY
+
+Constancy of the Sex-ratio--Consanguinity and Masculinity--Theory of
+Westermarck and Thomas--Duesing--Gache--Negroes in the United
+States--Genealogical Material--Other Compilations--Summary
+
+
+CHAPTER IV
+
+CONSANGUINITY AND REPRODUCTION
+
+Theories of the Effect of Consanguinity upon Offspring--Comparative
+Fertility--Statistics from Darwin and Bemiss--Genealogical
+Statistics--Youthful Death-rate--Degeneracy--Fallacies in the Work of
+Bemiss--Isolated Communities--_The Jukes_--Other Degenerate
+Families--Scrofula
+
+
+CHAPTER V
+
+CONSANGUINITY AND MENTAL DEFECT
+
+Idiocy and Insanity--Inheritability of Mental Defect--Intensified
+Heredity--Barr's Investigations--Other American and English
+Data--Mayet's Prussian Statistics--Genealogical Data
+
+
+CHAPTER VI
+
+CONSANGUINITY AND THE SPECIAL SENSES
+
+United States Census Data--The Blind--Consanguinity of Parents--Blind
+Relatives--Degree of Blindness--Causes of Blindness--Retinitis
+Pigmentosa--European Data--Probability of Blind Offspring of
+Consanguineous Marriages--The Deaf--Irish Census--Scotland and
+Norway--United States Census--Consanguinity of Parents--Deaf
+Relatives--Causes of Deafness--Degree of Deafness--Direct Inheritance
+of Deafness--Intensification through Consanguinity--Dr. Fay's
+Statistics--Personal Data--Probability of Deaf Offspring from
+Consanguineous Marriages--Opinion of Dr. Bell
+
+
+CHAPTER VII
+
+SUMMARY AND CONCLUSION
+
+Summary of Results--Inbreeding and Evolution--Effects of Close
+Inbreeding--Crossing and Variation--"Difference of
+Potential"--Resemblance and Intensification--Coefficient of
+Correlation between Husband and Wife--Between Cousins--Between
+Brothers and Sisters--Consanguinity and Eugenics--Consanguinity and
+Social Evolution--Conclusion
+
+
+CHAPTER I
+
+INTRODUCTION
+
+
+The purpose of this essay is to present in a concise form and without
+bias or prejudice, the most important facts in regard to
+consanguineous marriages, their effects upon society, and more
+particularly their bearing upon American social evolution. The
+problems to be considered are not only those which relate primarily to
+the individual and secondarily to the race, such as the supposed
+effect of blood relationship in the parents upon the health and
+condition of the offspring; but also the effect, if any, which such
+marriages have upon the birth-rate, upon the proportion of the sexes
+at birth, and the most fundamental problem of all, the relative
+frequency with which consanguineous marriages take place in a given
+community.
+
+No thorough and systematic study of the subject has ever been made,
+and could not be made except through the agency of the census. The
+statistical material here brought together is fragmentary and not
+entirely satisfactory, but it is sufficient upon which to base some
+generalizations of scientific value. The sources of these data are
+largely American. Little attempt is made to study European material,
+or to discuss phases of the problem which are only of local concern.
+Some topics, therefore, which have frequently been treated in
+connection with the general subject of consanguineous marriages are
+here ignored as having no scientific interest, as for instance that of
+the so-called "marriages of affinity," which has been so warmly
+debated for the past fifty years in the British Parliament.
+
+For obvious reasons it will often be impossible to distinguish between
+the different degrees of consanguinity, but wherever possible the
+degree will be specified. It is probable that where a number of
+marriages are vaguely given as consanguineous, few are more distant
+than second cousins, for in the United States especially, distant
+relationships are rarely traced except by genealogists. In designating
+degrees of relationship the common terminology will be used, as in the
+following table, expressing, however, the rather clumsy expression,
+"first cousin once removed" by the simpler form "1-1/2 cousin."
+
+[Illustration]
+
+By far the greater part of the literature of consanguineous marriage
+is of a controversial rather than of a scientific nature, and a search
+for statistical evidence for either side of the discussion reveals
+surprisingly little that is worthy of the name. Yet men of high
+scientific standing have repeatedly made most dogmatic assertions in
+regard to the results of such unions, and have apparently assumed that
+no proof was necessary. For example, Sir Henry Sumner Maine "cannot
+see why the men who discovered the use of fire, and selected the wild
+forms of certain animals for domestication and of vegetables for
+cultivation, should not find out that children of unsound constitution
+were born of nearly related parents."[2]
+
+[Footnote 2: Maine, _Early Law and Custom_, p. 228.]
+
+Much space is given to the alleged "innate horror of incest," and
+frequent appeals are made to Scripture, wrongly assuming that the
+marriage of cousins is prohibited in the Mosaic Law.
+
+The origin of "prohibited degrees" is only conjectural. The Christian
+Church apparently borrowed its prohibitory canons from the Roman
+Law,[3] and a dispensation is still necessary before a Catholic can
+marry his first cousin. However, such dispensations have always been
+easy to obtain, especially by royal families, and even the marriage of
+uncle and niece sometimes occurs, as among the Spanish Habsburgs, and
+as recently as 1889 in the House of Savoy.
+
+[Footnote 3: Luckock, _History of Marriage_, p. 282.]
+
+The prohibition of the marriage of first cousins was removed in
+England by the Marriage Act of 1540,[4] but by this time the idea of
+the harmfulness of kinship marriage was so thoroughly impressed upon
+the people that they were very prone to look askance at such unions,
+and if they were followed by any defective progeny, the fact would be
+noted, and looked upon as a chastisement visited upon the parents for
+their sin. Naturally the idea became proverbial, and in some places it
+has influenced the civil law.
+
+[Footnote 4: Child, "On Marriages of Consanguinity," in
+_Medico-Chirurgical Review_, April, 1862, p. 469.]
+
+Perhaps the first printed discussion of the subject in America is from
+the pen of Noah Webster, in an essay which should be as interesting to
+the spelling reformer as to the sociologist.[5] He writes: "It iz no
+crime for brothers and sisters to intermarry, except the fatal
+consequences to society; for were it generally practised, men would
+become a race of pigmies. It iz no crime for brothers' and sisters'
+children to intermarry, and this iz often practised; but such near
+blood connections often produce imperfect children. The common peeple
+hav hence drawn an argument to proov such connections criminal;
+considering weakness, sickness and deformity in the offspring az
+judgements upon the parents. Superstition iz often awake when reezon
+iz asleep."
+
+[Footnote 5: Webster, _Collection of Essays and Fugitiv Writings on
+Moral, Historical, Political and Religious Subjects_, 1790, p. 322.]
+
+From about 1855 to 1880 much was written about the effect of
+consanguineal interbreeding. One of the first contributions came from
+America. In 1858 Dr. S.M. Bemiss, of Louisville, Kentucky, reported to
+the American Medical Association the results of his investigation of
+833 cases of consanguineous marriage.[6] His compilation remains to
+this day the largest single piece of direct statistical work on the
+subject. Unfortunately, however, his statistics have a strong, if
+unintentional, bias which seriously affects their value. In France one
+of the earliest discussions was by M. Boudin,[7] who evidently
+obtained the Bemiss report (attributing it to Dr. O.W. Morris, who had
+quoted freely from Bemiss),[8] and enlarged greatly upon its
+fallacies. He also collected statistics of the deaf-mutes in Paris,
+and, by an amazing manipulation of figures, "demonstrated" that
+consanguinity of the parents was the cause of nearly one-third of the
+cases of congenital deafness. The savants of the Société
+d'Anthropologie took sides and the debate became very entertaining.
+Finally M. Dally came to the rescue, and published some very sane and
+logical articles which avoided both extremes, and first advanced the
+theory that any ill effects of consanguineous marriage should be
+attributed to the intensification of inherited characteristics.[9]
+
+[Footnote 6: See _Transactions of the American Medical Association_,
+1858, pp. 321-425.]
+
+[Footnote 7: "Du Croisement des families," _Mem. de la Société
+d'Anthropologie_, vol. i, 1860-63, pp. 505-557.]
+
+[Footnote 8: See Morris: "On Marriages of Consanguinity," in _Amer.
+Med. Times_, Mar. 23, 1861.]
+
+[Footnote 9: See _Bulletins de la Société d'Anthropologie_, 1863, pp.
+515-575; 1877, pp. 203-213.]
+
+In England similar discussions took place during the same period,
+complicated, however, by the presence of the patient and
+long-suffering "deceased wife's sister." The best of the English work
+has been the statistical study by George H. Darwin,[10] and the
+classic "Marriage of Near Kin" by Alfred H. Huth, a book of 475 pages,
+including a very complete bibliography to the date of the second
+edition, 1885. Although Mr. Huth's book is not free from error, and is
+encumbered with a large amount of worthless material, it is now after
+thirty-three years, by far the best treatment of the subject.
+
+[Footnote 10: "Marriages of First Cousins in England and their
+Effects," _Journal Statistical Society_, 1875, pp. 153-184.]
+
+In Italy Dr. Montegazza,[11] in Spain Señor Pastor[12] and others,
+have made useful contributions. German writers have usually preferred
+more general subjects, but many of them have given much space to
+consanguineous marriage in sociological and biological works.
+
+[Footnote 11: _Studj Sui Matrimonj Consanguinei_. Quoted by Darwin,
+op. cit., p. 178.]
+
+[Footnote 12: "De los Matrimonios entre Parientes," Memorias _de la
+Real Academia de Ciencias Morales y Políticas_, vol. ii, pp. 369-400.]
+
+Since the appearance of the Bemiss report little has been published in
+this country which bears directly upon our subject. The most important
+American contribution, however, is to be found in the Special Report
+on the Blind and the Deaf, in the Twelfth Census of the United States,
+prepared by Dr. Alexander Graham Bell. Although American writers have
+had little part in the theoretical discussions, our legislators have
+been active, so that the statutes of every state specify degrees of
+kinship within which marriage is prohibited. In at least sixteen
+states the prohibition is extended to include first cousins. In New
+Hampshire such marriages are void and the children are illegitimate.
+Other states in which first-cousin marriage is forbidden are
+Pennsylvania, Ohio, Indiana, Illinois, Michigan, Kansas, North Dakota,
+South Dakota, Wyoming, Nevada, Washington, Oregon, Missouri, Arkansas,
+and Louisiana. Since both Oklahoma and Indian Territory had similar
+laws, the present State of Oklahoma should probably be added to this
+list. In all of these states marriages within the prohibited degrees
+are incestuous or void or both, except in Ohio, where no express
+declaration is made in the statute. In Ohio, Indiana, Nevada and
+Washington the law is made to read: "and not nearer of kin than
+_second cousins_," therefore including "1-1/2 cousins" within the
+prohibited degrees. In many states the marriage of step relatives is
+forbidden, as also marriage with a mother-in-law or father-in-law. Of
+the territories, Arizona, Alaska, and Porto Rico forbid the marriage
+of first cousins, but in Porto Rico the court may waive the
+impediment.
+
+These laws probably have some effect in reducing the number of
+consanguineous marriages in these states, but the sentiment back of
+the law is more responsible for the decrease in the number of such
+unions than the law itself. For in the nature of things enforcement
+would be very difficult, and apparently little real effort is made in
+that direction. In Ohio, and probably elsewhere, the question as to
+consanguinity is not directly put to the applicants for a marriage
+license. The applicants are required to answer the usual questions in
+regard to age, parentage, residence, etc., and are then required to
+swear that their previous statements have been correct and that
+neither of them is "epileptic, imbecile or insane," that they are "not
+nearer of kin than second cousins, and not at the time under the
+influence of any intoxicating liquor or narcotic drug." Undoubtedly
+violations of the consanguinity clause are very frequent, and it is
+likewise easily evaded by going to another state where the laws are
+more liberal. One effect of the law is to provide a painless method of
+severing the marriage bond. A correspondent, who is a District Court
+Judge in Kansas, in reporting a case of first cousin marriage, adds
+that he "divorced them on the ground of consanguinity."
+
+In the absence of direct investigation by the Census Bureau, or other
+public records of consanguineous marriages, perhaps the most promising
+field for research is in the genealogical records of American
+families. Several thousand volumes of such material have been
+published within the last half-century, and a large number of these
+are very carefully and scientifically prepared. The material gathered
+from such sources is very accurate in regard to the number of births,
+youthful deathrate etc., but mental or physical defects are rarely
+mentioned. The greatest objection to the utilization of this material,
+however, is the amount of labor necessary in order to glean the
+desired facts from the mass of irrelevant data. For example, in order
+to find one case of first cousin marriage it is necessary on an
+average, to examine the records of nearly two hundred other marriages.
+
+The collection of data from personal sources is likewise open to grave
+objections. Not only is the informant likely to be biassed, but the
+cases which he will remember will be those in which something unusual
+has occurred. Herein lay the fallacy in the conclusions of Dr. Bemiss.
+I have endeavored to overcome this bias by restricting my requests
+for information to genealogists and others who would more naturally
+appeal to records, but my efforts have been only partially successful.
+
+The number of cases of consanguineous marriage, embracing all degrees
+of consanguinity, which I have collected from these two sources,
+genealogies and correspondence, is 723, a number too small in itself
+to establish any definite conclusions; but by using this material in
+connection with other related data, I trust I may be able to add
+something to the comparatively small amount of real knowledge which
+the world already possesses in regard to the marriage of kin.
+
+In the course of my investigations I visited Smith's Island, in the
+Chesapeake Bay, about twelve miles across Tangier Sound, from
+Crisfield, Maryland, and nearly opposite the mouth of the Potomac.
+Here is a community of about seven hundred people, who are principally
+engaged in the sea-food industry. Their ancestors have lived on the
+island for many generations and there have been comparatively few
+accessions to the population from the mainland. As a natural
+consequence the population is largely a genetic aggregation.
+Consanguineous marriages have been very frequent, until now nearly all
+are more or less interrelated. Out of a hundred or more families of
+which I obtained some record, at least five marriages were between
+first cousins. All of these were fertile, and all the children were
+living and apparently healthy. Since over thirty per cent of the
+inhabitants bear one surname (Evans), and those bearing the first four
+surnames in point of frequency (Evans, Brad-shaw, Marsh, and Tyler)
+comprise about fifty-nine per cent of the population, it will readily
+be seen that comparatively few absolutely non-related marriages take
+place. Yet in this community from September, 1904, to October, 1907,
+or during the residence there of the present physician, Dr. P.H.
+Tawes, there have been 87 births and but 30 deaths, the latter from
+the usual causes. During this period there has not been a single case
+of idiocy, insanity, epilepsy, deaf-mutism or even of typhoid fever on
+the island.
+
+The evidence gathered from various other isolated communities is very
+conflicting. Huth describes a great many of them which have existed
+for many generations without crosses without ill results. Other
+writers quote instances where whole communities have become
+degenerate. Until the antecedents of a community are known it is of
+course impossible to estimate the effect of consanguinity. The
+exceptionally high percentage of deaf-mutism on Martha's Vineyard may
+to some extent be due to a high percentage of consanguineous marriage,
+but that inbreeding is not the primary cause is revealed by the
+records showing that among the first settlers were two deaf-mutes,
+whose defect has been inherited from generation to generation for two
+hundred and fifty years.[13]
+
+[Footnote 13: See article in Cincinnati _Gazette_, Jan. 22, 1895.]
+
+
+CHAPTER II
+
+RATIO OF THE CONSANGUINEOUS TO ALL MARRIAGES
+
+
+Towards determining the average frequency of occurrence of
+consanguineous marriages, or the proportion which such marriages bear
+to the whole number of marriages, little has as yet been done in this
+country. Professor Richmond Mayo-Smith estimated that marriages
+between near kin constituted less than one per cent of the total,[14]
+and Dr. Lee W. Dean estimates that in Iowa they comprise only about
+one half of one per cent.[15] But these estimates are little more than
+guesses, without any statistical basis.
+
+[Footnote 14: _Statistics and Sociology_, p. 112.]
+
+[Footnote 15: _Effect of Consanguinity upon the Organs of Special
+Sense_, p. 4.]
+
+In several European countries such marriages have been registered,
+though somewhat spasmodically and inaccurately. According to
+Mulhall[16] the ratio of the consanguineous among 10,000 marriages in
+the various countries is as follows:
+
+              TABLE I.
+-----------------------------------
+Country.| Ratio. | Country.| Ratio.
+-----------------------------------
+Prussia |  67    | Alsace  |  107
+Italy   |  69    | France  |  126
+England |  75    | Jews    |  230
+-----------------------------------
+
+[Footnote 16: _Dictionary of Statistics_, p. 383.]
+
+According to Uchermann the ratio is 690 or 6.9 per cent, including
+marriages between second cousins and nearer.[17] Dr. Peer says that 4
+per cent of the marriages in Saxony are consanguineous.[18] The ratio
+seems to be increasing in France but diminishing in Alsace and Italy,
+as indicated in Table II.[19]
+
+[Footnote 17: _Les Sourds-muets en Norvège_. Quoted by Feer, p. 9.]
+
+[Footnote 18: _Der Einfluss der Blutsverwandschaft der Eltern auf die
+Kinder_, p. 9.]
+
+[Footnote 19: Mulhall, _Dictionary of Statistics_, p. 383.]
+
+                       TABLE II.
+---------------------------------------------------------
+Country.| Date.  |Ratio.[A]| Country.|  Date.  |Ratio.[A]
+---------------------------------------------------------
+France  | 1853-60|  97     | France  | 1861-71 |  126
+Alsace  | 1858-65| 143     | Alsace  | 1872-75 |  107
+Italy   | 1868-71|  84     | Italy   | 1872-75 |   69
+---------------------------------------------------------
+  [A] Per 10,000.
+
+In Italy the ratio varies greatly in different parts of the country.
+Mulhall gives the following figures for the years 1872-75:
+
+               TABLE III.
+------------------------------------------
+Province.| Ratio.[A]| Province.| Ratio.[A]
+------------------------------------------
+Venice   |  24      | Sicily   |  117
+Naples   |  30      | Piedmont |  131
+Lombardy | 100      | Liguria  |  183
+------------------------------------------
+  [A] Per 10,000.
+
+It will be noted that the lowest ratios are in provinces where the
+urban population is comparatively large. Wherever statistics have been
+gathered it is the rule that the percentage of consanguineous marriage
+is greater in rural than in urban districts. Table IV, also from
+Mulhall, illustrates this point.
+
+                  TABLE IV.
+-------------------------------------------------
+                   |_Ratio per 10,000 Marriages_.
+-------------------------------------------------
+Country.             | Rural.| Urban. |  General.
+-------------------------------------------------
+England              |  79   |   71   |      75
+France               | 130   |  115   |     126
+Alsace               | 121   |   41   |     107
+Norway[A] (Uchermann)| 810   |  260   |     690
+-------------------------------------------------
+  [A] Includes second cousins.
+
+In regard to the degree of consanguinity, it seems very probable that
+in the French, German, Italian, and English statistics and estimates
+few if any marriages beyond the degree of first cousins are returned
+as consanguineous, so in order to compare the Norwegian figures with
+the others they should probably be reduced by one half. Out of 1549
+consanguineous marriages contracted in Prussia in 1889, 1422 were
+between "cousins" (probably first), 110 between uncles and nieces, and
+16 between nephews and aunts.[20] The ratio of such marriages to
+10,000 in France during the fifteen years ending in 1875 was:[21]
+
+                         TABLE V.
+-----------------------------------------------
+  Degree.        |  Urban.| Rural.| All France.
+-----------------------------------------------
+Nephew and aunt  |   1.6  |   2.4 |    2.1
+Uncle and niece  |   6.0  |   5.6 |    5.8
+"Cousins"        |  96.0  | 119.0 |  113.1
+-----------------------------------------------
+Total            | 103.6  | 127.0 |  121.2
+-----------------------------------------------
+
+[Footnote 20: Mulhall, op. cit., p. 383.]
+
+[Footnote 21: Ibid., p. 384.]
+
+In Italy during seven years ending in 1874, of all consanguineous
+marriages 92 per cent were of cousins and 8 per cent were of uncle and
+niece or aunt and nephew.[22]
+
+[Footnote 22: Ibid., p. 384.]
+
+Dally[23] is very skeptical about the accuracy of the French figures,
+but says that in Paris the records are well kept. He found that in the
+years 1853-62 there were 10,765 marriages in the _8me arrondissement_
+of Paris, and of these he finds:
+
+-----------------------------------------
+Marriages between cousins-german  | 141
+Marriages between uncle and niece |   8
+Marriages between aunt and nephew |   1
+Total consanguineous              | 150
+-----------------------------------------
+
+[Footnote 23: "Recherches sur les Mariages Consanguins et sur les
+Races Pures." in _Bulletins de la Société d'Anthropologie_, 1863, p.
+527.]
+
+This is rather higher than the average for urban districts, according
+to official figures, but Dally seems to consider it as typical. He
+gives examples of the carelessness and incompetency of the rural
+record keepers, and insists that the percentage is really much higher
+than the official figures would indicate. He estimates the
+consanguineous marriages in France not including second cousins, at
+from four to five per cent.
+
+A very ingenious method of determining the approximate number of
+first-cousin marriages was devised by Mr. George H. Darwin.[24]
+Noticing that in marriage announcements, some were between persons of
+the same surname, it occurred to him that there might be a constant
+ratio between same-name marriages and first cousin marriages. Some
+same-name marriages would of course be purely adventitious; so, to
+eliminate this element of chance, he obtained from the Registrar
+General's Report the frequency of occurrence of the various surnames
+in England. The fifty commonest names embraced 18 per cent of the
+population. One person in every 73 was a Smith, one in every 76 a
+Jones and so on. Then the probability of a Smith-Smith marriage due to
+mere chance would be 1/73^2 and of a Jones-Jones marriage 1/76^2.
+The sum of fifty such fractions he found to be .0009207 or .9207 per
+thousand. After the fiftieth name the fractions were so small as to
+have comparatively little effect upon the total. He therefore
+concluded that about one marriage in a thousand takes place, in which
+the parties have the same surname and have been uninfluenced by any
+relationship between them bringing them together.
+
+[Footnote 24: "Marriages between First Cousins in England and their
+Effects," in _Journal of the Statistical Society_, June, 1875. pp. 154
+_et seq_.]
+
+The next step was to count the marriages announced in the "_Pall Mall
+Gazette_" for the years 1869-72 and a part of 1873. Of the 18,528
+marriages there found, 232 or 1.25 per cent were between persons of
+the same surname. Deducting the percentage of chance marriages at
+least 1.15 per cent were probably influenced directly or indirectly by
+consanguinity.
+
+Mr. Darwin then proceeded by a purely genealogical method. He found
+that out of 9,549 marriages recorded in "Burke's _Landed Gentry_," 144
+or 1.5 per cent were between persons of the same surname, and exactly
+half of these were first cousins. In the "_English and Irish Peerage_"
+out of 1,989 marriages, 18 or .91 per cent were same-name first cousin
+marriages. He then sent out about 800 circulars to members of the
+upper middle class, asking for records of first cousin marriage among
+the near relatives of the person addressed, and obtained the following
+result:
+
+-----------------------------------------------
+Same-name first cousin marriages      |   66
+Different-name first cousin marriages |  182
+Same-name not first cousin marriages  |   29
+-----------------------------------------------
+
+These cases furnished by correspondents he calculated to be 3.41 per
+cent of all marriages in the families to which circulars were sent.
+
+From the data collected from all these sources Mr. Darwin obtains the
+following proportion:
+
+Same-name first cousin marriages     142
+--------------------------------  =  ---  = .57
+    All same-name marriages          249
+
+He is inclined to think that the ratio should be lower and perhaps .50
+instead of .57. By a similar line of reasoning he obtains this
+proportion:
+
+  Same-name first cousin marriages        1
+-------------------------------------  = ---
+Different-name first cousin marriages     3
+
+Here too, he fears that the denominator is too small, for by
+theoretical calculation he obtains by one method the ratio 2/7, and
+by another 1/1. He finally takes 1/4 for this factor. To express the
+proportion in another form:
+
+Same-name first cousin marriages     1
+--------------------------------  = ---
+   All first cousin marriages        5
+
+The completed formula then becomes:
+
+  All same-name marriages     100     1
+-------------------------- = ----- X ---  =  .35 (nearly)
+All first cousin marriages     57     5
+
+Applying this formula to the English statistics, Mr. Darwin computes
+the percentages of first cousin marriages in England with the
+following results:
+
+---------------------------------------
+London                         |  1.5
+Other urban districts          |  2.
+Rural districts                |  2.25
+Middle class and Landed Gentry |  3.5
+Aristocracy                    |  4.5
+---------------------------------------
+
+In order to apply this formula to the American population I counted
+the names in the New York Marriage License Record previous to
+1784,[25] and found the number to be 20,396, representing 10,198
+marriages. The fifty commonest names embraced nearly 15 per cent of
+the whole (1526), or three per cent less than the number found by
+Darwin.[26] Of these, one in every 53 was a Smith, one in 192 a
+Lawrence, and so on. The sum of the fraction 1/53^2, 1/192^2,
+etc., I found to be .000757 or .757 per thousand, showing that the
+probability of a chance marriage between persons of the same name was
+even less than in England, where Mr. Darwin considered it almost a
+negligible quantity.
+
+[Footnote 25: _Names of Persons for whom Marriage Licenses were issued
+by the Secretary of the Province of New York_.]
+
+[Footnote 26: _Cf. supra_, p. 21.]
+
+Of these 10,198 marriages, 211, or 2.07 per cent were between persons
+bearing the same surname. Applying Darwin's formula we would have 5.9
+as the percentage of first cousin marriages in colonial New York.
+This figure is evidently much too high, so in the hope of finding the
+fallacy, I worked out the formula entirely from American data. To
+avoid the personal equation which would tend to increase the number of
+same-name first cousin marriages at the expense of the same-name not
+first cousin marriages, I took only those marriages obtained from
+genealogies, which would be absolutely unbiassed in this respect. Out
+of 242 marriages between persons of the same name, 70 were between
+first cousins, giving the proportion:
+
+Same-name first cousin marriages    70
+-------------------------------- = ---  = .285
+  All same-name marriages          242
+
+as compared with Darwin's .57. So that we may be fairly safe in
+assuming that not more than 1/3 of all same-name marriages are first
+cousin marriages. Taking data from the same sources and eliminating as
+far as possible those genealogies in which only the male line is
+traced, we have it:
+
+  Same-name first cousin marriages      24      1          1
+------------------------------------- = -- = -------- = -------
+Different-name first cousin marriages   62   (2-7/12)    2.583
+
+This is near the ratio which Darwin obtained from his data, and which
+he finally changed to 1/4. I am inclined to think that his first ratio
+was nearer the truth, for since we have found that the coefficient of
+attraction between cousins would be so much greater than between
+non-relatives, why should we not assume that the attraction between
+cousins of the same surname should exceed that between cousins of
+different surnames? For among a large number of cousins a person is
+likely to be thrown into closer contact, and to feel better acquainted
+with those who bear the same surname with himself. But since the
+theoretical ratio would be about 1/4 it would hardly be safe to put
+the probable ratio higher than 1/3, or in other words four first
+cousin marriages to every same-name first cousin marriage. Our
+revised formula then is:
+
+All same-name marriages        3     1
+--------------------------- = --- X --- = .75
+All first cousin marriages     1     4
+
+Instead of Mr. Darwin's .35.
+
+Taking then the 10,198 marriages, with their 2.07 per dent of
+same-name marriages, and dividing by .75 we have 2.76 per cent, or 281
+first cousin marriages.
+
+In order to arrive at approximately the percentage of first cousin
+marriages in a nineteenth-century American community I counted the
+marriage licenses in Ashtabula County, Ohio, for seventy-five years,
+(1811-1886). Out of 13,309 marriages, 112 or .84 per cent were between
+persons of the same surname. Applying the same formula as before, we
+find 1.12 per cent of first cousin marriages, or less than half the
+percentage found in eighteenth-century New York. This difference may
+easily be accounted for by the comparative newness of the Ohio
+community, in which few families would be interrelated, and also to
+that increasing ease of communication which enables the individual to
+have a wider circle of acquaintance from which to choose a spouse.
+
+Adopting a more direct method of determining the frequency of cousin
+marriage, I estimated in each of sixteen genealogical works, the
+number of marriages recorded, and found the total to be 25,200. From
+these sixteen families I obtained 153 cases of first cousin marriage,
+or .6 per cent. Allowing for the possible cases of cousin marriage in
+which the relationship was not given, or which I may have over-looked,
+the true percentage is probably not far below the 1.12 per cent
+obtained by the other method.
+
+The compiler of the, as yet, unpublished Loomis genealogy writes me
+that he has the records of 7500 marriages in that family, of which 57
+or .8 per cent are same-name marriages. This would indicate that 1.07
+per cent were between first cousins.
+
+In isolated communities, on islands, among the mountains, families
+still remain in the same locality for generations, and people are
+born, marry and die with the same environment. Their circle of
+acquaintance is very limited, and cousin marriage is therefore more
+frequent. If we exclude such places, and consider only the more
+progressive American communities, it is entirely possible that the
+proportion of first cousin marriages would fall almost if not quite to
+.5 per cent. So that the estimate of Dr. Dean for Iowa may not be far
+out of the way.
+
+Even for England Mr. Darwin's figures are probably much too large.
+Applying the corrected formula his table becomes:
+
+                   TABLE VI.
+----------------------------------------------------
+               |Number     |Per cent of|Per cent of
+1872.          |marriages  |same-name  |first cousin
+               |registered.|marriages. |marriages.
+----------------------------------------------------
+London,        |           |           |
+Metropolitan   |           |           |
+Districts      | 33,155    |   .55     |  .73
+Urban Districts| 22,346    |   .71     |  .95
+Rural Districts| 13,391    |   .79     | 1.05
+----------------------------------------------------
+      Total    | 68,892    |   .64     |  .85[A]
+----------------------------------------------------
+  [A] Cf. Mulhall, .75 per cent, _supra_, p. 18.
+
+In regard to the frequency of marriage between kin more distant than
+first cousins figures are still more difficult to obtain. The
+distribution of 514 cases of consanguineous marriage from genealogies
+was as follows:
+
+                             TABLE VII.
+---------------------------------------------------------------------
+              | First | 1-1/2 |Second | 2-1/2 | Third |Distant|
+              |cousins|cousins|cousins|cousins|cousins|cousins|Total
+---------------------------------------------------------------------
+Same-name     |  70   |   24  |  49   |  19   |  20   |  26   | 208
+Different-name|  96   |   30  |  58   |  22   |  37   |  62   | 305
+---------------------------------------------------------------------
+  Total       | 166   |   54  | 107   |  41   |  57   |  88   | 513
+---------------------------------------------------------------------
+
+Obviously this cannot be taken as typical of the actual distribution
+of consanguineous marriages, since the more distant the degree, the
+more difficult it is to determine the relationship. However it is very
+evident that the coefficient of attraction is at its maximum between
+first cousins, and probably there are actually more marriages between
+first cousins than between those of any other recognized degree of
+consanguinity. But the two degrees of 1-1/2 cousins and second cousins
+taken together probably number more intermarriages than first cousins
+alone. Allowing four children to a family, three of whom marry and
+have families, the actual number of cousins a person would have on
+each degree would be: First, 16; 1-1/2, 80; Second, 96; 2-1/2, 480;
+Third, 576; Fourth, 3,456. The matter is usually complicated by double
+relationships, but it will readily be seen that the consanguineal
+attraction would hardly be perceptible beyond the degree of third
+cousins.[27]
+
+[Footnote 27: See note, _infra_, p. 29.]
+
+Omitting, as in the discussion on page 24, those genealogies in which
+only the male line is given we have the following table:
+
+                         TABLE  VIII.
+--------------------------------------------------------------------
+              |First  | 1-1/2 |Second | 2-1/2 | Third |Distant|
+              |cousins|cousins|cousins|cousins|cousins|cousins|Total
+--------------------------------------------------------------------
+Same-name     |   24  |   5   |  10   |   4   |   2   |   5   |  50
+Different-name|   62  |  15   |  33   |  12   |  23   |  26   | 171
+--------------------------------------------------------------------
+Total         |   86  |  20   |  43   |  16   |  25   |  31   | 221
+--------------------------------------------------------------------
+
+It would naturally be supposed that with each succeeding degree of
+relationship the ratio of same-name to different-name cousin marriages
+would increase in geometrical proportion, viz. first cousins, 1:3;
+second cousins, 1:9; third cousins, 1:27, etc., but on the other hand
+there is the tendency for families of the same name to hold together
+even in migration as may be proved by the strong predominance of
+certain surnames in nearly every community. So that the ratio or
+same-name to different-name second cousin marriage may not greatly
+exceed 1:4. Beyond this degree any estimate would be pure guesswork.
+However the coefficient of attraction between persons of the same
+surname would undoubtedly be well marked in every degree of kinship,
+and conversely there are few same-name marriages in which some
+kinship, however remote, does not exist.
+
+The proportion of mixed generation cousin marriages (1-1/2 cousins,
+2-1/2 cousins, etc.) is always smaller than the even generation
+marriages of either the next nearer or more remote degrees. For
+example, a man is more likely to marry his first or his second cousin
+than either the daughter of his first cousin, or the first cousin of
+one of his parents, although such mixed generation marriages often
+take place.
+
+The conclusions, then, in regard to the frequency of consanguineous
+marriage in the United States may be summarized as follows:
+
+1. The frequency varies greatly in different communities, from perhaps
+.5 per cent of first cousin marriages in the northern and western
+states to 5 per cent, and probably higher, in isolated mountain or
+island communities. The average of first cousin marriage in the United
+States is probably not greater than one per cent.
+
+2. The percentage of consanguineous marriages is decreasing with the
+increasing ease of communication and is probably less than half as
+great now as in the days of the stage coach.
+
+3. Although the number of marriageable second cousins is usually
+several times as great as that of first cousins, the number of
+marriages between second cousins is probably somewhat less than the
+number of marriages between first cousins, but the number of second
+cousin marriages combined with the number of 1-1/2 cousin marriages
+probably exceeds the number of first cousin marriages alone. So that
+the percentage of marriages ordinarily considered consanguineous is
+probably between two, and two and a half.
+
+
+NOTE.--In an article entitled "Sur le nombre des consanguins dans un
+groupe de population," in _Archives italiennes de biologie_ (vol.
+xxxiii, 1900, pp. 230-241), Dr. E. Raseri shows that from one point of
+view the actual number of consanguineous marriages is little, if any,
+greater than the probable number. The average number of children to a
+marriage he finds to be 5, the average age of the parents 33 and the
+average age at marriage 25. The Italian mortality statistics show that
+54 per cent of the population lives to the age of 25, of which 15 per
+cent does not marry, leaving an average of 2.3 children in every
+family who marry. On this basis a person would have at birth 4,357
+relatives within the degree of fourth cousins; at the age of 33 he
+would have 4,547; and at 66, 5,002. In 1897 out of 229,041 marriages
+in Italy, 1,046 were between first cousins, giving an average of one
+in 219. In 1881 the number of men between 18 and 50 and of women
+between 15 and 45 was 5,941, 495 in 8,259 communes with an average
+population of 3,500. In each commune there must be 360 marriageable
+persons of each sex, but to marry within his class a man would only
+have the choice of 180 women and vice versa. Adding the probable
+number who would marry outside the commune, the choice lies within 216
+of the opposite sex. Of these 25 would be cousins within the tenth
+degree (fourth cousins) making the probability of a consanguineous
+marriage .11, reduced by a probable error in excess to .10. The
+probability of a first cousin marriage would be .82/216 or .0038,
+whereas the actual ratio is 1/219 or .0045.
+
+
+CHAPTER III
+
+MASCULINITY
+
+
+The predominance of male over female births is almost universal,
+although varying greatly in different countries and under different
+conditions. This fact has given rise to the term Masculinity, which
+conveniently expresses the proportion of the sexes at birth. The
+degree of masculinity is usually indicated by the average number of
+male births to every 100 female births. The cause of this
+preponderance of males is still a mystery, and will definitely be
+known only when the causes of the determination of sex are known.
+Since, however, it is well known that infant mortality is greater
+among males than among females, positive masculinity is necessary to
+keep up the balance of the sexes, and therefore seems to be an
+essential characteristic of a vigorous and progressive race.
+
+Within recent years the theory has prevailed among certain
+sociologists that positive masculinity is stronger in the offspring of
+consanguineous marriages than in the offspring of unrelated parents.
+Professor William I. Thomas in his writings and lectures asserts this
+as highly probable.[28] Westermarck,[29] to whom Professor Thomas
+refers, quotes authorities to show that certain self-fertilized plants
+tend to produce male flowers, and that the mating of horses of the
+same coat color tends to produce an excess of males.[30]
+
+[Footnote 28: _Sex and Society_, p. 12.]
+
+[Footnote 29: _History of Human Marriage_, p. 476.]
+
+[Footnote 30: _Goehlert, Ueber die Vererbung der Haarfarben bei den
+Pferden._ Quoted by Westermarck, p. 476.]
+
+Westermarck continues, quoting from Düsing:[31] "Among the Jews, many
+of whom marry cousins, there is a remarkable excess of male births. In
+country districts, where, as we have seen, comparatively more boys are
+born than in towns, marriage more frequently takes place between
+kinsfolk. It is for a similar reason that illegitimate unions show a
+tendency to produce female births."
+
+[Footnote 31: _Die Regulierung des Geschlechtsverhaeltnisses_, pp.
+243-244.]
+
+Westermarck comments: "The evidence for the correctness of his
+deduction is, then, exceedingly scanty--if, indeed it can be called
+evidence. Nevertheless, I think his main conclusion holds good.
+Independently of his reasoning I had come to exactly the same result
+in a purely inductive way." He then quotes a number of travelers to
+the effect that marriage between members of different races produce a
+phenomenal excess of female births. When we consider the extraordinary
+proficiency in fiction attained by many travelers in strange lands, we
+are forced to the belief that Westermarck based his own conclusion on
+still more scanty evidence.
+
+The statistics given by Dr. Düsing for Prussia[32] are as follows:
+
+                          TABLE IX.
+------------------------------------------------------------
+             |            |           |   Other    |
+             |Evangelical.| Catholic. | Christians.| Jews.
+------------------------------------------------------------
+Male births  | 4,015,634  | 2,273,708 |   12,283   |  69,901
+Female births| 3,775,010  | 2,136,295 |   11,548   |  64,939
+Masculinity  |   106.374  |   106.435 |  106.36    | 107.64
+------------------------------------------------------------
+
+[Footnote 32: _Das Geschlechtsverhaeltnis der Geburten in Preussen_,
+pp. 24-25; in _Staatswissenschaftliche Studien_, vol. iii.]
+
+and for mixed marriages:
+
+                         TABLE  X.
+--------------------------------------------------------------
+             |Evangelical  |Catholic and|  Other  | Jews and
+             |and Catholic.|Evangelical.|  mixed. |Christians.
+--------------------------------------------------------------
+Male births  |  157,755    |  189,733   |   4.464 |   2,958
+Female births|  149,205    |  179,505   |   4.254 |   2,850
+Masculinity  |  105.73     |  105.70    | 104.9   | 103.8
+--------------------------------------------------------------
+
+In the face of these statistics it is impossible to deny that
+endogamy within a great social class or an ethnic race may have some
+tendency to produce an excess of male births, while exogamy in this
+broad sense may diminish the masculinity. But the perpetuation of a
+comparatively pure race by marriage within that race, and
+consanguineous marriage in the narrower sense are different
+propositions. It may easily be that the marriage of individuals of a
+similar type regardless of consanguinity produces a greater excess of
+male offspring. According to the percentage of first cousin marriages
+among the Jews as given by Mulhall,[33] and allowing the average
+number of children to a marriage, there would be only 3100 children of
+such marriages among the Jewish births in Prussia, and in order that
+these might raise the masculinity of Jewish births even from 106 to
+107 the 3100 births would have to have a masculinity of 200. Among
+Protestants, or especially among Catholics where the percentage of
+cousin marriage is much smaller, it seems hardly reasonable that the
+general masculinity would be appreciably affected. A much better case
+can be made for similarity or difference of race as the cause of the
+variation. The difference between Catholic and Protestant is, roughly
+speaking, the difference between the brachycephalic brunette Alpine
+race and the dolichocephalic blonde Baltic race. So that a mixed
+marriage in Germany would almost always mean the crossing of two
+distinct types.
+
+[Footnote 33: _Dictionary of Statistics, op. cit._, p. 383.]
+
+The investigations of M. Gache in Buenos Ayres covering the period
+from 1884 to 1894 inclusive, show that cross breeding has had the
+effect of _raising_ the masculinity. The births resulting from unions
+of Italian, Spanish and French male immigrants with native-born
+Argentine females, show a higher masculinity than the births produced
+either by pure Argentine alliances or by pure alliances of any of
+these nationalities of Buenos Ayres. Further, the unions of Argentine
+males with females of foreign nationality provide a higher masculinity
+than is common among Argentines themselves.[34] These facts do not
+necessarily contradict the theory that any crossing of great racial
+groups diminishes masculinity, for all of the nationalities involved
+in this study are predominantly Mediterranean in blood. The theory is
+borne out by the statistics of the negroes in the United States, a
+large proportion of whom are of mixed blood. For taking as a basis the
+number of children of negro descent born during the year ending June
+1, 1900 reported by the Twelfth Census, the females predominated,
+giving a negative masculinity of 99.8. Furthermore, the percentage of
+consanguineous marriage is probably high in the colored population.
+
+[Footnote 34: C.J. & J.N. Lewis, _Natality and Fecundity_, pp.
+114-116.]
+
+The following table compiled from Mulhall[35] and other sources fails
+to show any correspondence between the percentage of first cousin
+marriage and the masculinity:
+
+                TABLE XI.
+---------------------------------------
+Country. |Masculinity.|  Per cent 1st
+         |            |cousin marriage.
+---------------------------------------
+England  |   104.5    |      .75
+France   |   105.3    |     1.26
+Italy    |   107.0    |      .69
+Prussia  |   105.8    |      .67
+U.S.[36] |   104.9    |     1.00
+Jews[37] |   107.6    |     2.30
+---------------------------------------
+
+[Footnote 35: Op. cit., p. 92.]
+
+[Footnote 36: Masculinity, _Twelfth Census, Vital Statistics_, Pt. 1.
+Per cent of cousin marriage, estimated.]
+
+[Footnote 37: Duesing, op. cit., p. 24.]
+
+It is impossible to obtain the actual masculinity ratio for the United
+States, for the Census gives the statistics for only one year in ten
+and even then is untrustworthy on this point. In a few states birth
+registration is attempted but the figures thus obtained do not
+harmonize with the Census and the situation is not greatly
+improved.[38] The masculinity varies considerably in different parts
+of the country, and is generally higher in states where the rural
+population predominates. This fact agrees with European statistics
+which almost universally show a high masculinity in rural districts.
+Table XII, illustrates this point:
+
+                       TABLE XII.
+              _Masculinity in Scotland_.[39]
+-------------------------------------------------------
+         |         |      |      | Mainland |Insular
+Period.  |Principal|Large |Small | rural    | rural
+         | towns.  |towns.|towns.|districts.|districts.
+-------------------------------------------------------
+1855-1861|   --    |   -- |  --  |    105.6 | 106.6
+1862-1871|   --    |   -- |  --  |    105.9 | 105.6
+1872-1881| 105.0   | 105.6| 106.1|    105.3 | 108.0
+1882-1891| 105.1   | 105.6| 105.5|    105.5 | 108.7
+1892-1901| 104.7   | 104.6| 104.9|    105.2 | 107.1
+-------------------------------------------------------
+Average  | 104.9   | 105.3| 105.5|    105.5 | 107.2
+-------------------------------------------------------
+
+[Footnote 38: Massachusetts _Census_, 103.1; Reg. 1891-1900, 105.6.
+Vermont _Census_, 108.1; Reg. 1890-1896, 105.9. Connecticut _Census_,
+103.9; Reg. 1887-1891, 107.2. Rhode Island _Census_, 103.8; Reg.
+1854-1901, 104.9.]
+
+[Footnote 39: Lewis and Lewis, op. cit., p. 128.]
+
+This would seem to bear out the theory that masculinity is affected by
+consanguineous marriage, for consanguineous marriage is more frequent
+in rural districts, and especially in insular rural districts. But
+unless consanguineous marriages can directly be shown to produce an
+excess of male births greater than the normal, such indirect evidence
+is valueless.
+
+In the genealogical material previously considered, we have a sampling
+of the American population throughout its whole history, but the data
+so far collected are insufficient for more than an indication of what
+might be expected in further research along the same line. In the
+following table as before, the figures compiled from printed
+genealogies are separated from those obtained through correspondence
+and from miscellaneous sources. The "unrelated" marriages from
+genealogies, are marriages of brothers and sisters of the persons who
+have married first cousins, and their records were obtained from the
+same sources as those in the next previous category. The "children of
+first cousins" are the offspring of the first cousin marriages who
+married persons not related to themselves by blood. The last category
+includes distantly related marriages from correspondence and other
+sources and marriages between persons of the same surname whose
+relationship could not be traced.
+
+                          TABLE XIII.
+------------------------------------------------------------------
+                         |        |    Sex of Children.   |
+                         |Number  |-----------------------|Mascu-
+Marriages.               |Fertile.| Male.|Female.|Unknown.|linity.
+------------------------------------------------------------------
+1st cousin. Gene.        |  125   |  318 |  314  |  40    | 101
+Unrelated. Gene.         |  629   | 1561 | 1559  |  64    | 100
+Ch. of 1st cousins. Gene.|  170   |  402 |  375  |  48    | 107
+Other cousin. Gene.      |  301   |  736 |  666  |  15    | 111
+1st Cousin. Cor.         |  150   |  316 |  295  | 148    | 107
+Ch. of 1st cousins. Cor. |  124   |  192 |  164  | 214    | 111
+Miscellaneous            |   88   |  210 |  205  |  50    | 102
+------------------------------------------------------------------
+Total                    | 1587   | 3735 | 3578  | 578    | 104.4
+------------------------------------------------------------------
+
+It is of course impossible to explain all the ratios in this table.
+Much variation is here due to chance, and a few additional cases might
+appreciably change any of the ratios. It will be noticed, however,
+that the two categories whose masculinity is most similar (100 and
+101), are derived from cases taken from the same families and from the
+same environment, and differing only in that the first is closely
+consanguineous while the second is not. The third and fourth groups,
+separated from the first two by at least a generation, and probably
+living in a different environment, differ greatly in masculinity from
+them. In the fourth group are included 1-1/2, second, third, and a few
+even more distant cousins, all more distantly related than first
+cousins, and taken from the same genealogies as these; yet the
+masculinity is much greater.
+
+An analysis of the cases collected fifty years ago by Dr. Bemiss, of
+course without thought of masculinity, gives the following result:[40]
+
+                      TABLE XIV.
+----------------------------------------------------------
+                      |   Sex of Children.   |
+                      |----------------------|
+     Marriage.        |Number.| Male.|Female.|Masculinity.
+----------------------------------------------------------
+1st cousins and nearer| 709   | 1245 | 1171  | 106.3
+2d and 3rd cousins    | 124   |  264 |  240  | 110.0
+All consanguineous    | 833   | 1509 | 1411  | 106.9
+Unrelated             | 125   |  444 |  380  | 116.9
+----------------------------------------------------------
+
+[Footnote 40: Bemiss, _Report on Influence of Marriages of
+Consanguinity_, pp. 420-423.]
+
+In the "Marriage of Near Kin," Mr. Huth gives a list of cases of
+consanguineous marriage collected by various persons from all over
+Europe.[41] He is free to say that they are worse than useless for the
+purpose for which they were collected, that of determining whether or
+not such marriages produce degeneracy, but in so far as the sex of the
+children is concerned they would not be biassed.
+
+                     TABLE XV.
+-----------------------------------------------------
+                      |Sex of Children.|
+                      |----------------|
+     Marriage.        | Male.| Female. | Masculinity.
+-----------------------------------------------------
+1st cousins and nearer| 165  |  164    |   100
+More distant cousins  |  95  |   73    |   131
+-----------------------------------------------------
+
+[Footnote 41: Huth, _Marriage of Near Kin. Appendix._]
+
+The unusual ratios are of course due principally to a "run of luck,"
+and this table only shows that if consanguinity is a determining
+factor in sex, its influence is negligible when a small number of
+cases is considered. It is interesting accordingly to note that of 100
+children of incestuous unions and from uncle-niece and aunt-nephew
+marriages from Bemiss, Huth and other sources, the sex distribution
+was 48 males and 52 females, giving a negative masculinity of 92.
+
+While in general the evidence presented in this chapter is somewhat
+conflicting, that which bears most directly upon the problem does not
+substantiate the hypothesis of Westermarck. The evidence in favor of
+the theory is all indirect and is open to other interpretations. It is
+hardly safe to go to the other extreme and to assert that
+consanguinity diminishes masculinity. The safest, and withal the most
+reasonable conclusion is that consanguinity in the parents has no
+appreciable effect upon the sex of the child.
+
+
+CHAPTER IV
+
+CONSANGUINITY AND REPRODUCTION
+
+
+The principal object of nearly every previous discussion of the
+intermarriage of kindred, has been either to prove or to disprove some
+alleged injurious effect upon the offspring. The writers who have
+treated the subject may be divided into three groups. First, those who
+have maintained in accordance with popular opinion that consanguinity
+_per se_ is a cause of degeneracy or that in some mysterious way
+kinship of the parents produces certain diseases in the children. In
+this group Boudin in France and Bemiss in America are typical. Second,
+those who have flatly contradicted this position and have asserted
+that on the whole such marriages are beneficial, and that crossing is
+in itself injurious to the race. Huth is the chief exponent of this
+theory, although he admits that where degenerate conditions exist in
+the parents consanguinity in marriage may not be beneficial. The third
+group holds that cousin marriages in themselves, especially if not
+carried through too many generations, are not harmful, but that if any
+hereditary tendency to malformation or disease exists in the family of
+the parents, this tendency, inherited through both parents is strongly
+intensified in the offspring, and that consequently an increased
+percentage of the offspring of cousin marriage may be afflicted with
+hereditary diseases. This group includes a number of the later writers
+such as Feer and Mayet. Among the earlier discussions, those of Dally
+in France and George H. Darwin in England take substantially this
+position. On the whole this theory seems to be the most reasonable one
+and with a few modifications it will be seen to account for all the
+facts herein presented.
+
+It is undeniable that degeneracy does in some cases follow from the
+marriage of near kin, and probably with greater frequency than from
+non-related marriages. But it is likewise true that many of the
+world's greatest men have been the products of close inbreeding,
+sometimes continued through several generations. Frederick the Great
+of Prussia was the product of three successive cousin marriages
+between descendants of William the Silent,[42] and among his seven
+brothers and sisters at least three others ranked among the ablest men
+and women of the generation. Cousin marriage has always been frequent
+in the "first families of Virginia" which have produced a phenomenal
+percentage of able men. In fact, few persons who have traced their
+pedigrees back through a number of generations, do not find some names
+duplicated, as a result of cousin marriage.
+
+[Footnote 42: Woods, _Heredity in Royalty_, pp. 74-75. The Great
+Elector, a great-grandson of William the Silent, married his 1-1/2
+cousin, a granddaughter of William and also a great-granddaughter of
+Admiral Coligny. Frederick I married his second cousin, daughter of
+the Duchess Sophia of Brunswick, and a descendant of William.
+Frederick William I married his first cousin, Dorothea, granddaughter
+of Sophia, and also a descendant of William the Silent. Unfortunately
+the Hohenzollern line was continued by a mediocre brother of Frederick
+II, but through his sister, Queen Ulrica, the line of genius lasted
+still another generation to Gustavus III of Sweden.]
+
+The ills which have at one time or another been attributed to
+consanguineous marriage include nearly all those which cannot
+otherwise be satisfactorily accounted for. But with the progress of
+pathology the list has greatly been reduced: for instance, cretinism
+is now known to be a product of local conditions. The remaining
+counts in the indictment against consanguineous marriage may roughly
+be classified as: 1. The production of infertility, some forms of
+physical degeneracy, and deformity. 2. The production or aggravation
+of mental and nervous disorders. 3. The production of certain defects
+in the organs of special sense. These three divisions will be
+discussed separately.
+
+
+1. INFERTILITY AND DEGENERACY
+
+Although there has never been any considerable evidence for the first
+of these charges, it has frequently been repeated. Professor
+Montegazza of the University of Pavia collected data in regard to 512
+cases of consanguineous marriage of which between 8 and 9 per cent
+were sterile, and with this basis he asserts that sterility is the
+only fact which can safely be deduced from his cases, since it cannot
+be hereditary.[43] But if in the nature of things absolute sterility
+is not inheritable, comparative infertility may be. And even then 8 or
+9 per cent does not seem to be an excessively high proportion of
+sterility, especially if late marriages be counted. Boudin bases his
+assertion on this point on even less tenable grounds.[44] On the other
+hand some writers assure us that cousin marriages are even more
+prolific and less liable to sterility than the average.
+
+[Footnote 43: See Darwin, "Marriages between First Cousins in England
+and Their Effects," _Journal of Statistical Society_, June, 1875, p.
+178.]
+
+[Footnote 44: Boudin, "Croisement des familles, de races et des
+espèces." In _Memoires de la Société d' Anthropologie_, vol. i, p.
+518.]
+
+The most important statistical investigation was made by G.H.
+Darwin.[45] From his genealogical data he compiled the following
+table:
+
+                              TABLE  XVI.
+------------------------------------------------------------------------
+                         |          |  Average   |            |Ave. no.
+                         |          |  number    |  Per cent  |sons to
+                         |Number of |  sons to   |  sterile   |fertile
+                         |marriages.| marriage.  | marriages. |marriage.
+------------------------------------------------------------------------
+Not consanguineous       |    217   |     1.91   |       15.9 | 2.26
+Parents 1st cousins[A]   |97 to 105 |2.07 to 1.92|14.7 to 20.9| 2.43
+One parent offspring of  |          |            |            |
+ 1st cousin marriages.   |    93    |    1.93    |     17.2   | 2.34
+------------------------------------------------------------------------
+  [A] Eight cases of doubtful fertility.
+
+[Footnote 45: Op. cit., p. 181.]
+
+It will readily be seen that the conclusion is negative, since the
+variation is slight, but the higher fertility of the cousin marriages
+is interesting.
+
+On the other hand de Lapouge quotes a case of a community founded two
+centuries ago by four families and populated almost entirely by their
+descendants, in which from 1862 to 1886 there were 273 marriages of
+which 63 were consanguineous and 26 were between first cousins. Among
+the non-consanguineous 3 per cent were uniparous, as against 7.95 per
+cent among the consanguineous. 7.5 per cent of the non-consanguineous
+were sterile as against 16 per cent of the consanguineous.[46] The
+importance of these percentages is impaired by the fact that they
+involve only five uniparous families and ten sterile ones, and that of
+these latter only five were sprung from first cousins.
+
+[Footnote 46: De Lapouge, _Les Selections Societies_, p. 196.]
+
+It is almost impossible to get any accurate statistics of sterility
+from genealogies, for when no children are given in the record, there
+is always a strong possibility that there were children of whom the
+genealogist has no record. However, of 16 first-cousin marriages of
+which the record expressly stated "no issue," or where it was
+practically certain that no issue was possible, the average age of the
+brides was 34.3 years and that of the grooms was 39 years, showing
+that consanguinity could not have been the only cause of their
+sterility.
+
+In regard to relative fertility the figures are reliable, but they
+fail to indicate any effect of consanguinity upon fertility, as will
+be noted in Table XVII.
+
+                            TABLE  XVII.
+-------------------------------------------------------------
+                              |No. of    |         | Ave. to
+                              |fertile   | No. of  | fertile
+Parentage.                    |marriages.|children.|marriage.
+-------------------------------------------------------------
+First cousin. Gene.           |   125    |   672   |    5.4
+First cousin. Cor.            |   150    |   759   |    5.1
+Double cousins and uncle-niece|     9    |    39   |    4.3
+Other consanguineous          |   333    |  1605   |    4.8
+Non-related                   |   676    |  3417   |    5.1
+Ch. of 1st cousins            |   294    |  1395   |    4.7
+All consanguineous            |   617    |  3075   |    5.0
+All non-related               |   970    |  4812   |    5.0
+-------------------------------------------------------------
+
+The report of Dr. Bemiss, and the report of the Ohio commission[47]
+which he quotes, give the following figures:[48]
+
+                       TABLE XVIII.
+-------------------------------------------------------
+                        | No. of   |         | Ave. to
+                        | fertile  | No. of  | fertile
+Parentage.              |marriages.|children.|marriages.
+-------------------------------------------------------
+1st cousins or nearer[A]|   660    |   3363  |    5.0
+More distantly related  |   119    |    572  |    4.8
+Non-consanguineous      |   125    |    837  |    6.7
+Ohio consanguineous     |   155    |   1021  |    6.6
+Ohio non-consanguineous |   200    |   1375  |    6.9
+-------------------------------------------------------
+  [A] Includes double-cousins and uncle-niece marriages.
+
+[Footnote 47: Appointed to ascertain the number of the deaf and dumb,
+blind, idiotic and insane within the State.]
+
+[Footnote 48: See Bemiss, in _Trans. of Am. Med. Asso._, vol. xi,
+1858, pp. 420-425.]
+
+The comparatively low averages of the consanguineous marriages from
+Bemiss may easily be accounted for by the fact that the cases were
+highly selected so that nearly one-third of the children were in some
+way defective, and the parents in many cases were far below the
+average in vitality. The "more distantly related" are in a still
+lesser degree representative of the class, since out of a greater
+possibility of choice a smaller number were chosen. The
+"non-consanguineous" were supposed to be near the average in vitality
+and fertility.
+
+In Norway, according to Uchermann, the consanguineous and the
+non-consanguineous marriages are equally fertile, averaging 6.1
+children per marriage;[49] and in a Black Forest village Tenckhoff
+found an average of 4.6 children to each consanguineous marriage as
+against 3.5 to each non-consanguineous marriage.[50] In regard to the
+youthful death-rate among the offspring of consanguineous marriages,
+comparison with non-related marriages is more feasible. I have counted
+in each case all those children who are known to have died under the
+age of twenty. This age was taken for the sake of convenience, and to
+include all children indefinitely specified as having "died young."
+The results are given in Table XIX:
+
+                      TABLE XIX.
+-------------------------------------------------
+    Parentage.    | No. of  |No. dying |
+   (Genealogies.) |Children.|under 20. |Per cent.
+-------------------------------------------------
+First cousins     |   672   |   113    |  16.7
+Other cousins     |  1417   |   211    |  14.9
+Ch. of 1st cousins|   825   |   103    |  12.5
+Non-consanguineous|  3184   |   370    |  11.6
+-------------------------------------------------
+(Correspondence.)
+-------------------------------------------------
+First cousins     |   759   |    88    |  11.6
+Other marriages   |   829   |    71    |   8.6
+-------------------------------------------------
+
+[Footnote 49: Feer, _Der Einfluss der Blutsverwandschaft der Eltern
+auf die Kinder,_ p. 12, _note_.]
+
+[Footnote 50: Ibid.]
+
+If the figures in Table XIX are to be accepted at their face value,
+and there seems to be no good reason for not doing so in the
+genealogical cases at least, the youthful death-rate among the
+offspring of consanguineous marriages far exceeds the average. The
+average in the correspondence cases is undoubtedly too low, as many
+correspondents failed to report the deaths. From the fact that a
+comparatively large percentage of these were reported as defective, we
+should expect a higher death-rate than among the unbiased genealogical
+cases.
+
+Dr. Bemiss found a very high death-rate among the children of
+consanguineous marriage, due partly to the fact that his cases were
+reported by physicians. He reports that of the offspring of marriages
+between first cousins and nearer relatives, 23 per cent "died young;"
+of the offspring of more remote consanguineous marriages, 16 per cent;
+and of non-related marriages 16 per cent. There is, therefore, a
+strong indication of lowered vitality as a result of consanguineous
+marriage.
+
+A determination of even the approximate percentage of degenerate
+offspring resulting from marriages of consanguinity by direct inquiry
+is exceedingly difficult. The average human mind is so constituted as
+to exaggerate unconsciously the unusual in its experience. Herein lies
+the fallacy in the work of Dr. Bemiss. His material was "furnished
+exclusively by reputable _physicians_ in various states," and of the
+3942 children of consanguineous marriages in the cases thus furnished
+him, 1134 or 28.8 per cent were in some way "defective." Of these, 145
+were deaf and dumb, 85 blind, 308 idiotic, 38 insane, 60 epileptic,
+300 scrofulous and 98 deformed. It is evident that a physician in
+reporting such data to a physician would naturally give cases in which
+something pathological existed. Even if there were no conscious bias,
+such cases would be the ones with which a physician would be most
+likely to come in contact. Dr. Bemiss himself recognized the
+possibility of this bias. To quote him:
+
+    It is, natural for contributors to overlook many of the more
+    fortunate results of family intermarriage, and furnish those
+    followed by defective offspring and sterility. The mere
+    existence of either of these conditions would prompt inquiry,
+    while the favorable cases might pass unnoticed. Contributors
+    have been particularly requested to furnish without prejudice
+    or selection all instances of the marriage of consanguinity
+    within their various circles of observation, whatever their
+    results.[51]
+
+[Footnote 51: Bemiss. see _Trans. of Am. Med. Asso._, vol. xi, 1858,
+p. 323.]
+
+Yet he does not seem to believe that this bias seriously affects his
+conclusions.
+
+In order as far as possible to avoid this bias, I sent my own
+circulars to genealogists and others who would naturally be more
+interested in the relationships than in pathological conditions. I
+asked, however, that all such results be noted. Among 722 children of
+first cousins I found 95 or 13 per cent who were defective in the
+sense in which Bemiss used the term. This is much nearer the actual
+percentage, but I have reason to believe, as will be seen hereafter,
+that even this percentage is far too high. A good illustration of the
+unconscious bias, which I tried to avoid is afforded by the reports on
+the cause of death among children of first cousins. Only 58 replies
+were given to this question, and of the 58 deaths 14 or one-fourth
+were either accidental or otherwise violent, while only one person was
+reported to have succumbed to pneumonia.
+
+Many efforts have been made to investigate the occurrence of
+degeneracy in the offspring of consanguineous marriages, by studying
+communities in which such unions have been frequent, but the results
+are untrustworthy. Huth[52] quotes a number of instances where
+communities have lived for generations without crosses and with no
+apparent degeneracy, while other writers tell of high percentages of
+degeneracy. Smith's Island, Maryland, as has been said, seems
+absolutely free from serious congenital abnormalities, in spite of the
+great frequency of consanguineous marriages.
+
+[Footnote 52: _Marriage of Near Kin_, chap. iv.]
+
+The causes of degeneracy are so varied, complicated, and obscure that
+even if consanguinity is a cause, there can be but few cases in which
+it is not complicated by other factors. But for the same reason that
+it is so difficult to prove any connection between consanguinity and
+degeneracy, it is equally difficult to disprove such a connection. It
+is very probable that from the mere operation of the law of heredity,
+there must be a comparatively large percentage of degenerates among
+the offspring of related parents, for defects which tend to be bred
+out by crossing are accentuated by inbreeding. This may be the reason
+for the disagreement among investigators of isolated communities. If
+an island, for instance, were settled by a small group of families in
+even one of which some hereditary defect was common, in the course of
+a few generations that defect would be found in a relatively large
+part of the population. While if the same island were settled by
+perfectly sound families, there would only be a remote chance of any
+particular defect appearing. Thus both classes of investigators may be
+perfectly conscientious, and yet arrive at diametrically opposite
+results. This theory is at least not to be contradicted by any facts
+which have come to light in the present investigation.
+
+Some interesting points are brought up in Dugdale's well-known study
+of the "Jukes."[53] This family, of about 540 persons living in
+northern New York, is descended from five sisters of unknown
+parentage, who were born between 1740 and 1770. The name "Juke" is
+fictitious, and is applied to all descendants of these five women,
+little attempt being made to trace the male lines on account of the
+excessive prevalence of illegitimacy.
+
+[Footnote 53: R.L. Dugdale, _The Jukes_]
+
+In this family consanguineous marriages have been very frequent,
+perhaps partly because the Jukes came to be looked upon as pariahs and
+could not associate on equal terms with other members of the
+community. These marriages seem to have been fully as productive as
+the average of the family, and the offspring of as high a grade of
+intelligence. However, some individual cases are worthy of special
+mention as illustrative of intensification of hereditary tendencies.
+
+(1) An illegitimate son of Ada Juke married a daughter of Bell Juke.
+He was a laborer, honest and industrious. She was reputable and
+healthy, and her father had a good reputation, but her mother had
+given birth to four illegitimate children before marriage, three of
+whom were mulattoes. Thus in this marriage of first cousins, three out
+of the four parents were of a low moral grade. As a result of this
+marriage three sons and three daughters were born. Two sons were
+licentious, intemperate and dishonest, two daughters were prostitutes,
+and the third became such after her husband was sent to prison. Only
+one son turned out fairly well. This son married a second cousin, a
+granddaughter of Delia Juke, and four out of his seven children were
+above the average of the family. His two elder brothers, however,
+married prostitutes, and became ancestors of criminals, prostitutes
+and syphilitics.[54]
+
+[Footnote 54: Ibid., Chart I.]
+
+(2) A legitimate son of Ada Juke, whose father was a thief and a
+pauper, married a daughter of Clara Juke, whose antecedents were
+fairly good. The husband had contracted syphilis before marriage and
+entail it upon every one of his eight children. Five daughters became
+prostitutes and one was idiotic. The only daughter who bore a good
+reputation married a grandson of both Clara and Bell Juke. This was a
+remarkable case of selection. Both husband and wife were grandchildren
+of Clara, and so first cousins, and both were the offspring of first
+cousins, all within the Juke blood. But, on the other hand, both were
+the descendants of Clara, the best of the Juke sisters, and both were
+the best of the progeny of their respective parents. The only serious
+taint was the secondary syphilis which the wife had inherited from her
+father. Six children were born, two males and four females. The eldest
+son was at 31 "laborer, industrious, temperate;" the eldest daughter
+"good repute, temperate, read and write;" second daughter, "harlot;"
+third daughter "good repute, temperate;" and the two youngest are
+given simply as "unmarried." This family seems to have had as high an
+average mentally and morally as any family in the whole tribe, only
+one in six being distinctly immoral. In the next generation, the
+eldest son had two children, the eldest daughter four, and the third
+daughter, who married a first cousin, had one child. It would be of
+great interest to know more of this last marriage, the third
+generation of consanguinity in marriage, and the fourth first-cousin
+marriage in three generations, but at the time the book was written
+the parties were still in their early twenties.[55]
+
+[Footnote 55: Dugdale, op. cit., Chart II.]
+
+Mr. Dugdale makes the following "tentative inductions." 1. Boys
+preponderate in the illegitimate lines. 2. Girls preponderate in the
+intermarried branches. 3. Lines of intermarriage between Jukes show a
+minimum of crime. 4. Pauperism preponderates in the consanguineous
+lines. 5. In the main, crime begins in progeny where Juke blood
+crosses X blood. (Anyone not descended from a Juke, is of "X blood").
+6. The illegitimate lines have chiefly married into X.[56] The third
+and fourth inductions might indicate that a lowered vitality of the
+consanguineous lines changed a tendency toward crime into the less
+strenuous channel of pauperism, but I cannot find in Mr. Dugdale's
+charts any sufficient basis for the induction. It is true that the
+most distinctively pauper line is consanguineous, but it is less
+closely inbred than the "semi-successful" branch. As to the fifth
+induction, a close examination of the data shows clearly that in
+nearly every case where an X marriage occurred, it was with a person
+of a distinctly immoral or criminal type. Cousin marriage has also
+been frequent in the middle western counterpart of the Jukes, the
+"Tribe of Ishmael."[57]
+
+[Footnote 56: Dugdale, op. cit., p. 16.]
+
+[Footnote 57: McCulloch, _Tribe of Ishmael_.]
+
+A more recent study of hereditary degeneracy is that of the "Zero
+Family" in Switzerland.[58] Here the first degenerate was the product
+of two successive consanguineous marriages, both with a branch tainted
+_with insanity_. In spite of his bad ancestry he lived to the age of
+106 years. He married an Italian woman of questionable antecedents,
+and was the father of a large family. Three hundred and ten of his
+descendants are mentioned, of whom many are still young. Of these 310,
+74 died in early childhood, 55 are or were vagabonds, 58 were
+weak-minded or idiotic and 23 were criminals. Fifty-two were of
+illegitimate birth. Although some are counted in more than one
+category, the record is appalling. In this family however, the
+marriages were nearly all with foreign women, and the effect of
+consanguinity was only the intensification of the neurosis in the
+first two generations.
+
+[Footnote 58: Joerger, "Die Familie Zero." Reviewed by Gertrude C.
+Davenport, in the _American Journal of Sociology_, Nov., 1907.]
+
+Dr. Bemiss found that 300 or 7.7 per cent of the offspring of
+consanguineous marriages were subject to scrofula.[59] This is a
+disease which is almost universally recognized as hereditary, and
+which we should therefore expect to find intensified by double
+heredity. But 7.7 per cent is obviously too high; otherwise most of
+the scrofulous must be the offspring of marriages of kindred. About
+one per cent of the children of my own correspondence cases were
+reported as scrofulous. And while the United States Census reports but
+3.9 per cent of the blind as the offspring of consanguineous
+marriages, the percentage of the blind from scrofula is 6.1.[60] The
+blind from scrofula of consanguineous parentage were 2.8 per cent of
+all the blind of consanguineous parentage, while all the blind from
+scrofula were 1.8 per cent of all the blind. Consanguinity, then,
+seems appreciably to intensify scrofula, but there is no indication
+that scrofula is ever caused by parental consanguinity.
+
+[Footnote 59: Bemiss, see _Trans. of Am. Med. Asso._, vol. xi, 1858,
+p. 420.]
+
+[Footnote 60: _The Blind and the Deaf._ Special Report of 12th Census,
+1906.]
+
+
+CHAPTER V
+
+CONSANGUINITY AND MENTAL DEFECT
+
+
+Idiocy, perhaps more than any other disease or defect, has long been
+connected in the popular mind with the marriage of cousins. This fact
+is not surprising when we consider that until very recent times idiots
+were looked upon with a kind of superstitious awe, and the affliction
+was supposed to be a curse of God. For this reason, when idiocy did
+follow consanguineous marriage as it sometimes would, it was believed
+to be the fit punishment of some violation of divine law. Insanity
+also frequently has been attributed to consanguineous marriage, but
+not so frequently as idiocy, since its occurrence later in life is not
+so obviously connected with pre-natal conditions.
+
+The terminology of mental and nervous disorders has been so loosely
+applied that some definition may be necessary. By the term "idiocy,"
+is meant a condition of undeveloped mentality. Idiocy exists in
+various degrees, from the complete absence of intellectual faculties
+to a condition of mere irresponsibility in which the subject is
+capable of self-help, and sometimes of self-support under the careful
+guidance of other. Under the generic term "idiot" may be included the
+"complete idiot," the imbecile, the "feeble-minded" and the
+"simpleton," all of whom suffer in a greater or less degree from
+arrested mental development.
+
+Insanity, on the other hand, is a disease which destroys or clouds an
+intellect which has once been developed. It is true that certain
+conditions of idiocy and imbecility do resemble that phase of insanity
+known as dementia--a reversion to the original mental state of
+childhood--in reality a form of second childhood. But the states are
+not identical, although one may lapse into the other. One is defect,
+the other disease; the imbecile in the former being the counterpart of
+the dement in the latter, just as the moral imbecile is the analogue
+of the paranoiac.[61]
+
+[Footnote 61: Barr, _Mental Defectives_, p. 18.]
+
+Of the strong inheritability of idiocy there can be no doubt. Dr.
+Martin W. Barr of the Pennsylvania Training School for Feeble Minded
+Children has published an etiological table embodying the results of a
+careful examination of 4050 cases of mental defect. Of these, 2651 or
+65.45 per cent resulted from causes acting before birth, including
+1030 or 25.43 per cent with a family history of idiocy and imbecility,
+and 529 more (13.06 per cent) with a family history of insanity,
+epilepsy and minor neuroses. Dr. Barr gives many instances
+illustrating the heredity of imbecility, especially where both parents
+were imbeciles, and had imbecile relatives. One case in particular
+forcibly illustrates the disastrous results of the marriage of such
+unfortunates. It is taken from the reports of the Connecticut Lunacy
+Commission:
+
+    In one instance, where a pauper female idiot lived in one town,
+    the town authorities hired an idiot belonging to another town,
+    and not then a pauper, to marry her, and the result has been
+    that the town to which the male idiot belongs has for many
+    years had to support the pair and the three idiot children.[62]
+
+[Footnote 62: Ibid., p. 99.]
+
+Neuroses may remain latent for a generation and reappear in the
+grandchildren of the person affected, or the latent tendency may never
+reappear unless some disturbing factor such as scarletina, meningitis
+or other acute disease attacks the weak spot. This possibility
+suggests that the influence of heredity may be vastly greater than the
+etiological tables would indicate. The apparent causes may be only
+agents which assist in developing the evil really engendered by an
+inheritance of imbecility.
+
+It is not at all certain that there is any well marked boundary line
+between genius and some forms of imbecility. Many quite irresponsible
+idiots have marvelous verbal memories, and can repeat parrot-like,
+page after page of books of which they have no comprehension. Dr. Barr
+tells of cases of prodigies, musical, mathematical and mechanical, who
+except in their specialty were almost totally deficient mentally.[63]
+Many of the world's most brilliant musicians, mathematicians and even
+military leaders have been men of one-sided mental development, whose
+ability in other lines was so slight that they were little better than
+imbeciles, and it is not at all surprising that their children are
+sometimes truly idiotic.
+
+[Footnote 63: Barr, op. cit., p. 301 _et seq._]
+
+The best writers of the present day no longer recognize consanguinity
+as a cause _per se_, of idiocy. The heredity of neuroses, however, is
+so strongly established that few would dispute the proposition that
+where the morbidity is inherited through both parents it appears more
+frequently and in a more marked degree than where one parent is
+entirely free from taint. This is what occurs when a consanguineous
+marriage takes place between descendants of a neurotic family. The
+percentage of idiotic children would then be somewhat higher from
+consanguineous marriages than from the average marriage purely through
+the action of the laws of heredity.
+
+Dr. Barr finds 49 out of 4050 cases of idiocy or 1.21 per cent, in
+which there was a family history of consanguinity. This is little
+higher than the average frequency of first cousin marriage, and an
+analysis of 41 of these cases does not show one case that can be
+attributed to consanguinity alone. To quote: "Two were the result of
+incestuous connection--one of brother and sister, the other of father
+and daughter, and in the others there was an undoubted history, of
+grave neuroses."[64] "Beach and Shuttleworth find in the consideration
+of their 100 cases (out of 2,380 idiots), giving 4.2 per cent (of
+consanguineous parentage) that the bad effects are due rather to the
+intensification of bad heredity common to both parents."[65]
+
+[Footnote 64: Barr, op. cit., p. 94.]
+
+[Footnote 65: Ibid., p. 109.]
+
+Dr. Arthur Mitchell examined all idiots in nine counties of Scotland
+and found that 42 out of 519 or 8.1 per cent of whom the parentage was
+known, were children of first cousins.[66] Dr. Down found 46 out of
+852 or 5.4 per cent to be children of first cousins.[67] Dr. Grabham
+of the Earlswood Idiot Asylum in Surrey, England, stated that 53 out
+of 1388 patients were the offspring of first cousins. The facts, he
+adds, were obtained from the parents and are "therefore tolerably
+trustworthy."[68] Other investigations give percentages as follows:
+Kerlin, 7; Rogers, 3.6; Brown, 3.5 and C.T. Wilbur, 0.3.[69]
+
+[Footnote 66: Darwin, see _Jour. Stat. Soc._, p. 173.]
+
+[Footnote 67: Huth, _Marriage of Near Kin_, pp. 210-211.]
+
+[Footnote 68: Darwin, op. cit., p. 166.]
+
+[Footnote 69: Barr, op. cit., p. 109.]
+
+The earlier American writers, Drs. Howe and Bemiss, believed that
+consanguinity was a cause of idiocy. Dr. Howe inquired into the
+parentage of 359 idiots and found that in 17 families the parents were
+nearly related; in one of these cases there were 5 idiotic children;
+in 5 families there were 4 idiots each; in 3 families 3 each; in 2
+families 2 each; and in 6 families i each. In all 17 families there
+were 95 children of whom 44 were idiots, 12 were scrofulous and puny,
+1 was deaf, 1 dwarf--58 in low health or defective, and only 37 fairly
+healthy. These of course are selected cases and do not indicate at
+all, as Dr. Howe supposed, that consanguinity was the cause of the
+disasters. He adds that in each case one or both of the parents were
+either intemperate or scrofulous, and that there were also other
+predisposing causes.[70] Dr. Bemiss found that 7.8 per cent of his
+3942 children of consanguineous marriages were idiots, while but 0.7
+per cent of the children of non-consanguineous parentage were
+idiotic.[71] A more detailed examination reveals the fact that in a
+large number of these, one or both of the parents were mentally
+defective. For example, in a marriage of double cousins the wife was
+"feeble minded" and the six children were of inferior mentality. In a
+case of first-cousin marriage the wife became insane and two of the
+children were idiotic. In a case of the marriage of cousins,
+themselves the offspring of cousins the husband was a hypochondriac,
+and seven children idiotic. In another marriage of the same class both
+parents were feeble-minded and the children idiotic. These are simply
+taken at random, and many others might be given. When we find also
+that in a majority of cases no report is given of the ancestry, it is
+very obvious that consanguinity alone could not have been the cause of
+any large proportion of the 308 cases of idiocy in the Bemiss report.
+
+[Footnote 70: Barr, op. cit., p. iii.]
+
+[Footnote 71: Bemiss, op. cit., p. 420.]
+
+My own investigations show that out of 600 children of first cousin
+marriage (from correspondence) 26 or 4.3 per cent are mentally
+defective--10 are reported as "idiots," 13 as "weak-minded" and 3 as
+"imbeciles." In at least five of these cases there is evidence of bad
+heredity, in two others the father was intemperate and in two more
+causes acting after birth are mentioned.
+
+The statistics of the insane and idiotic in Prussia presented by Mayet
+clearly indicate the large part which heredity plays in the production
+of mental disorders. Tables XX and XXI set forth the most important
+results of his work. Mayet considers a case hereditary if any near
+relative of the subject suffered from mental or nervous disorder, or
+was intemperate, suicidal, criminal or eccentric.[72]
+
+[Footnote 72: Mayet, _Verwandtenehe and Statistik_, quoted by Feer,
+_Der Einfluss der Blutsverwandschaft der Eltern auf die Kinder_, p.
+13.]
+
+                 TABLE XX.
+--------------------------------------------------
+                            | No. of |Percentage
+                            | Cases. |hereditary.
+--------------------------------------------------
+1. Simple Insanity          |102,097 | 31.7 = 100
+   Consanguineous parentage |    664 | 69.0 = 218
+   Parents cousins          |    595 | 68.1 = 215
+   Parents uncle and niece  |     66 | 77.3 = 244
+--------------------------------------------------
+2. Paralytic Insanity       | 22,936 | 17.6 = 100
+   Consanguineous parentage |     95 | 45.3 = 257
+   Parents cousins          |     87 | 44.8 = 255
+   Parents uncle and niece  |      8 | 75.0 = 426
+--------------------------------------------------
+3. Epileptic Insanity       | 14,067 | 25.6 = 100
+   Consanguineous parentage |     79 | 53.2 = 208
+   Parents cousins          |     70 | 50.0 = 195
+   Parents uncle and niece  |      9 | 66.7 = 261
+--------------------------------------------------
+4. Imbecility and Idiocy    | 16,416 | 28.7 = 100
+   Consanguineous parentage |    237 | 43.0 = 150
+   Parents cousins          |    211 | 43.1 = 150
+   Parents uncle and niece  |     26 | 38.5 = 134
+--------------------------------------------------
+
+Table XXI gives the proportion of the mentally defective who are the
+offspring of consanguineous marriages. The term "cousin" in both
+these tables probably means first cousins. It will be remembered that
+Prussian statistics of consanguineous marriages are very imperfect,
+but that at least 6.5 in every thousand are consanguineous (first
+cousins or nearer).
+
+              TABLE XXI.[73]
+_Parentage of Mental Defectives in Prussia._
+-----------------------------------------------------
+                        | Consan- |        |Uncle and
+                        |guineous.|Cousins.| Niece.
+-----------------------------------------------------
+1. Insanity (simple)    |  6.5[A] |  5.8[A]|   .64[A]
+   Hereditary           | 14.2    | 12.5   |  1.6
+   Not hereditary       |  3.0    |  2.7   |   .22
+-----------------------------------------------------
+2. Paralytic Insanity   |  4.1    |  3.8   |   .35
+   Hereditary           | 11.1    |  9.6   |  1.48
+   Not hereditary       |  2.9    |  2.5   |   .11
+-----------------------------------------------------
+3. Epileptic Insanity   |  5.6    |  4.9   |   .64
+   Hereditary           | 11.7    |  9.9   |  1.57
+   Not hereditary       |  3.5    |  3.2   |   .29
+-----------------------------------------------------
+4. Idiocy and Imbecility| 14.4    | 12.8   |  1.58
+   Hereditary           | 21.6    | 19.3   |  2.12
+   Not hereditary       | 11.5    | 10.2   |  1.37
+-----------------------------------------------------
+  [A] Per thousand.
+
+[Footnote 73: Feer, op. cit., pp. 13-14.]
+
+From these tables we may infer that consanguinity influences idiocy
+far more than it does insanity, but it is not entirely clear why the
+number of hereditary cases should be relatively smaller among the
+idiotic. Since insanity is more likely to have some more definitely
+assignable cause than idiocy, we should expect the percentage due to
+heredity to be lower and consequently the influence of consanguinity
+less.
+
+It is generally admitted that a tendency toward insanity is
+inheritable, and it seems probable that this tendency as well as other
+neuroses may be intensified through double heredity. A case in point
+can be found in the Shattuck genealogy.[74] For four generations in
+the S. family there is no indication of neurosis. The average number
+of children to a family had been eight, few children died young and
+all were prosperous farmers. But in 1719 J.S. married E.C. and their
+son Z.S. is thus described: "He was sometimes subject to depression of
+spirits; and some peculiar traits of character in a few branches of
+his family seem to have originated with him." He married A.C., a niece
+of his mother. They both lived to be over 80 and had ten children, of
+whom three were insane; only six married, and of these only two are
+known to have left surviving children. One of these a daughter, S.S.,
+married E.S., a nephew of her father, and himself the offspring of a
+second cousin marriage within the S. blood. E.S. and S.S. had five
+children, all of whom married, and there is no further mention of
+insanity. We may suppose, then, that the C. stock was neurotic, and
+that a consanguineous marriage within that stock, although of the S.
+surname, intensified the tendency into insanity, but with a further
+infusion of the normal S. blood the morbidity was eliminated. It is
+very evident that the heredity and not the consanguinity was the cause
+of these three cases of insanity.
+
+[Footnote 74: _Shattuck Memorials_, p. 118.]
+
+
+CHAPTER VI
+
+CONSANGUINITY AND THE SPECIAL SENSES
+
+
+The most important source for this chapter is the special report on
+the Blind and the Deaf in the Twelfth Census of the United States.[75]
+This report was prepared under the direction of Dr. Alexander Graham
+Bell, as Expert Special Agent of the Census Office.
+
+[Footnote 75: U.S. Census, 1900, _Special Report on the Blind and the
+Deaf_.]
+
+The enumerators of the Twelfth Census reported a total of 101,123
+persons as blind, and to each of these Dr. Bell addressed a circular
+of inquiry. By this method he obtained verified returns of 64,763
+cases of blindness in continental United States or 85.2 per 100,000 of
+the total population. In the same way he obtained data in regard to
+89,287 persons with seriously impaired powers of hearing, or 117.5 Per
+100,000 of the total population.
+
+In each case the following questions among others were asked: "Were
+his (or her) parents first cousins? If not first cousins were they
+otherwise related by blood to each other, before their marriage? Were
+any of his relatives blind? If yes, what relatives? (Father, mother,
+grandparents, brothers, sisters, uncles, aunts, and how many of each,
+so far as known)." The results of this inquiry give us the best and
+most reliable statistical material which has ever been compiled on any
+phase of the problem of consanguineous marriage. The investigation of
+the deaf was similar to that of the blind, but even more complete.
+
+I. The Blind. The question as to the relationship of the parents was
+answered in 56,507 cases, in 2,527 or 4.47 per cent of which the
+parents were reported as cousins. Of the 57,726 who answered the
+question in regard to blind relatives, 10,967 or 19 per cent replied
+in the affirmative.[76] The blind relatives were divided into two
+groups: (a) blind brothers, sisters or ancestors, and (b) blind
+collateral relatives or descendants. Table XXII concisely expresses
+the results most fundamental for this study.
+
+[Footnote 76: U.S. Census, 1900, op. cit., p. 16.]
+
+                         TABLE XXII.
+-----------------------------------------------------------------
+                    |      |Having   |Having   |         |
+                    |      |Blind    |blind    |         |
+                    |      |relatives|relatives|Having   |
+Consanguinity of    |      |Class    |Class    |no blind | Not
+Parents.            |Totals|(a).[A]  |(b).[A]  |relatives|Stated.
+-----------------------------------------------------------------
+The blind           |64,763|  8,629  | 2,338   | 46,759  | 7,037
+-----------------------------------------------------------------
+Totally blind       |35,645|  4,378  | 1,215   | 26,349  | 3,703
+Partially blind     |29,118|  4,251  | 1,123   | 20,410  | 3,334
+                    |      |         |         |         |
+Parents cousins.    |      |         |         |         |
+ --The blind        | 2,527|     844 |   149   |  1,456  |    78
+-----------------------------------------------------------------
+Parents cousins.    |      |         |         |         |
+ --Totally blind    | 1,291|     435 |    78   |    739  |    39
+Parents cousins.    |      |         |         |         |
+ --Partially blind  | 1,236|     409 |    71   |    717  |    39
+                    |      |         |         |         |
+Parents not cousins.|      |         |         |         |
+ --The blind        |53,980|   7,395 | 2,095   | 43,368  | 1,122
+-----------------------------------------------------------------
+Parents not cousins.|      |         |         |         |
+ --Totally blind    |29,892|   3,720 | 1,090   | 24,541  |   541
+Parents not cousins.|      |         |         |         |
+ --Partially blind  |24,088|   3,675 |  1,005  | 18,827  |   581
+                    |      |         |         |         |
+Consanguinity not   |      |         |         |         |
+ stated.--The blind | 8,256|     390 |     94  |  1,935  | 5,837
+-----------------------------------------------------------------
+Consanguinity not   |      |         |         |         |
+ stated.--Totally   |      |         |         |         |
+ blind              | 4,462|     223 |     47  |  1,069  | 3,123
+Consanguinity not   |      |         |         |         |
+ stated.--Partially |      |         |         |         |
+ blind              | 3,794|     167 |     47  |    866  | 2,714
+-----------------------------------------------------------------
+  [A] Symbols for Blind Relatives--(a) blind brothers, sisters or
+      ancestors; (b) blind collateral relatives or descendants.
+
+Of the 2527 blind persons whose parents were cousins, 993 or 39.3 per
+cent have blind relatives, 33.4 per cent having blind brothers,
+sisters or ancestors, and 3.9 per cent having blind collateral
+relatives or descendants. And 9 per cent of the blind who have blind
+relatives are of consanguineous parentage, while but 3.1 per cent of
+the blind who have no blind relatives are the offspring of cousins.
+These figures alone indicate a decided intensification of blindness
+through consanguinity, although it should be remembered that a
+relationship "works both ways," so that when a brother has a blind
+sister, the sister would have a blind brother. This fact has probably
+diminished the apparent number of sporadic cases of blindness.
+
+Considered with reference to the degree of blindness the table shows
+that 1291 or 51.1 per cent of the blind of consanguineous parentage
+are totally blind, and 1236 or 48.9 per cent are partially blind.
+Among those whose parents were not cousins, 55.4 per cent were totally
+and 44.6 per cent were partially blind.
+
+Of the 2527 blind of consanguineous parentage, 632 or 25.0 per cent
+were congenitally blind, of whom 350 or 55.4 per cent also had blind
+relatives of the degrees specified. Not counting those who did not
+answer the question in regard to blind relatives, we have 615 cases of
+which 51.5 per cent had blind relatives of class (a), and 5.4 per cent
+blind relatives of class (b). Taking the 53,980 blind whose parents
+were not so related the number of congenitally blind was 3666 or but
+6.8 per cent, of whom 1023 or 27.9 per cent had blind relatives.
+Omitting as before the "blind relatives not stated," we have 23.4 per
+cent who had blind relatives of class (a), and 4.3 per cent relatives
+of class (b).
+
+On the hypothesis that consanguinity in the parents intensifies a
+tendency toward blindness we should expect to find among the
+congenitally blind a larger proportion of consanguineous parentage
+than among those blind from specific causes. In Table XXIII a general
+classification of the causes of blindness is given together with the
+consanguinity of parents. Specific causes in which the percentage of
+consanguinity differs in a marked degree from the average, are given
+parenthetically.
+
+                       TABLE XXIII.
+-------------------------------------------------------------------------------
+                          |      |Consanguinity of      |
+                          |      |     Parents          |     Percentages
+                          |      |---------------------------------------------
+                          |      |       |  Not  | Not  |       | Not   | Not
+Cause of Blindness.       |Total.|Cousins|cousins|stated|Cousins|cousins|stated
+-------------------------------------------------------------------------------
+Total                     |64,763|  2,527|53,980 | 8,256| 3.9   |  83.4 | 12.7
+-------------------------------------------------------------------------------
+Opacity of the eye        |33,930|  1,000|28,797 | 4,133| 2.9   |  84.9 | 12.2
+-------------------------------------------------------------------------------
+a. Causes affecting cornea|11,380|    444|10,016 |   920| 3.9   |  88.0 |  8.1
+     (1) Measles          | 1,451|     73| 1,267 |   111| 5.0   |  87.4 |  7.6
+     (2) Scrofula         | 1,165|     71| 1,026 |    68| 6.1   |  88.1 |  5.8
+b. Causes affecting iris  | 1,307|     33| 1,093 |   181| 2.5   |  83.6 | 13.9
+c. Causes affecting lens  |11,769|    228| 9,467 | 2,074| 1.9   |  80.4 | 17.7
+d. Other causes           | 9,474|    235| 8,221 | 1,018| 2.5   |  86.8 | 10.7
+-------------------------------------------------------------------------------
+Nervous apparatus affected| 7,944|    276| 6,980 |   688| 3.5   |  87.8 |  8.7
+-------------------------------------------------------------------------------
+Unclassified              |14,885|    938|12,463 | 1,484| 6.3   |  83.7 | 10.0
+-------------------------------------------------------------------------------
+    (1) Congenital        | 4,728|    632| 3,666 |   430|13.4   |  77.5 |  9.1
+    (2) Other causes      |10,157|    306| 8,797 | 1,054| 3.0   |  86.6 | 10.4
+-------------------------------------------------------------------------------
+Unknown                   | 8,004|    313| 5,740 | 1,951| 3.9   |  71.7 | 24.4
+-------------------------------------------------------------------------------
+
+To quote from the Report:
+
+    The only specific causes, other than congenital, to which is
+    due a greater proportion of the total cases of blindness among
+    those whose parents were cousins than among those whose parents
+    were not related, are: Catarrh (parents cousins 28.1, parents
+    not cousins 8.7 per 1,000), scarlet fever (parents cousins
+    10.7, parents not cousins 10.1 per 1,000), scrofula (parents
+    cousins 28.9, parents not cousins 19 per 1,000), and measles
+    (parents cousins 28.9, parents not cousins 23.5 per 1,000). The
+    difference in these proportions is but slight, and the relative
+    number of cases of blindness attributed to each of the other
+    causes is greater among those whose parents were not
+    related.[77]
+
+[Footnote 77: U.S. Census, 1900, op. cit., p. 17.]
+
+It will be noted that the greatest proportion is in the case of
+scrofula.
+
+Since it is probable that a part of those who did answer the question
+as to consanguinity are in fact the offspring of cousins, the
+percentage in each case should be somewhat increased. Allowing for
+these the same proportion as for those who did answer the question we
+should have of all the blind 4.47 per cent as the offspring of
+cousins; of the totally blind 4.14 per cent and of the partially blind
+4.88. While of the congenitally blind we should have 14.7 per cent as
+offspring of cousins.
+
+It is interesting to note in this connection that in 1900, Dr. Lee
+Wallace Dean, of the University of Iowa examined the 181 blind
+children in the Iowa College for the Blind, and found that 9 or nearly
+5 per cent were the offspring of first cousin marriages.[78] Dr. Dean
+continues,
+
+    If we exclude from the list those blind children who were blind
+    because of blennorrhea neonatorum, sympathetic opthalmia,
+    trachoma, etc., and consider only those who suffered because of
+    congenital conditions, we should find that 14 per cent were the
+    result of consanguineous marriage of the first  degree....
+    Among the pupils who have entered the college since 1900 the
+    percentage is about the same.
+
+[Footnote 78: _Effect of Consanguinity upon the Organs of Special
+Sense_, p. 4.]
+
+This was written in 1903, three years before the publication of Dr.
+Bell's report.
+
+Statistics from foreign sources give even larger percentages of the
+blind as the offspring of consanguineous marriage. Dr. Feer quotes
+fourteen distinct investigations of the etiology of retinitis
+pigmentosa, embodying in all 621 cases, of which 167 or 27 per cent
+were the offspring of consanguineous parents.[79] Retinitis pigmentosa
+is perhaps more generally attributed to consanguineous marriage than
+any other specific disease of the eye, and it is to be regretted that
+the Census report does not give any data in regard to this cause.
+Retinitis pigmentosa in known to be strongly inheritable, as is
+albinism and congenital cataract.
+
+[Footnote 79: _Der Einfluss der Blutsverwandschaft der Eltern auf die
+Kinder_, p. 14.]
+
+Looking now at the other side of the problem, that of the probability
+of consanguineous marriages producing blind offspring, we have as our
+data the 2527 blind whose parents were cousins, and a conservative
+estimate which may be made from the data in Chapter II that 1,000,000
+persons in continental United States are the offspring of cousins
+within the degrees included in the Census report.[80] In the general
+population 852 per million are reported as blind, and 63 per million
+as congenitally blind. The actual figures for the offspring of cousin
+marriages are 2527 per million for all blind and 632 per million for
+the congenitally so. In other words only 0.25 per cent of the
+offspring of cousin marriages are blind and only 0.05 per cent are
+congenitally blind. Although the probability that a child of related
+parents will be born blind is ten times as great (632 per million vs.
+63 per million) as when the parents are not related, the numbers are
+so small that there seems to be very little basis for a belief that
+consanguinity does more than to intensify an inherited tendency,
+especially since over one half of the congenitally blind of
+consanguineous parentage are known to have blind relatives.
+
+[Footnote 80: From 1-1/2 to 2 per cent of all marriages were found to
+be between cousins within the degree of second cousins, and cousin
+marriages were found to be normally fertile.]
+
+2. The Deaf. The extent to which the connection between consanguineous
+marriage and deaf-mutism has been studied is indicated by a table
+given by Mr. Huth, in which are set forth the results of fifty
+distinct investigations.[81] In this table the percentages of
+deaf-mute offspring of consanguineous marriage to the total number of
+deaf-mutes investigated, varies from 30 per cent to none at all. Of
+these studies not more than ten or eleven have the slightest
+statistical value, and four of these--the most reliable--are from the
+reports of the Census of Ireland in the years 1851, 1861, 1871 and
+1881.
+
+[Footnote 81: _Marriage of Near Kin_, p. 229.]
+
+The Irish censuses of 1891 and 1901 give similar data, though not so
+detailed as in 1871 and 1881. Thus we have in these reports a census
+inquiry into a phase of the consanguineous marriage problem extending
+over the period of six successive censal years. Although we can hardly
+suppose that these figures are accurate in all respects, they throw a
+great deal of light upon the problem, and are worth quoting in some
+detail. The tables as given by Mr. Huth contain a number of errors of
+detail, the correction of which changes the results materially.[82]
+
+[Footnote 82: In a subsequent article Mr. Huth corrects some of these
+errors. See: "Consanguineous Marriage and Deaf-mutism," _The Lancet_,
+Feb. 10, 1900.]
+
+                    TABLE XXIV.
+------------------------------------------------------------------
+       |          |            Congenital deaf-mutes
+       |          |-----------------------------------------------
+       |          |      |       |         |    Parents cousins
+       |          |      |       |         |----------------------
+       |          |      |       |Average  |      |     |Average
+       |          |      |Number |number   |      |     |number
+Censal |  Total   |      |per    | to a    |      |Per  | to a
+year.  |population|Number|million|family[A]|Number|cent.|family[A]
+------------------------------------------------------------------
+1851[B]| 6,574,278| 4,127| 628   | ----    | 242  | 5.86| 1.66
+1861   | 5,798,967| 4,096| 706   | 1.22    | 362  | 8.84| 1.72
+1871   | 5,412,377| 3,503| 647   | 1.30    | 287  | 7.35| 1.76
+1881   | 5,174,836| 3,163| 611   | 1.32    | 191  | 6.04| 1.69
+1891   | 4,706,448| 2,570| 546   | 1.40    | 297  |11.56| 1.92
+1901   | 4,456,546| 2,179| 489   | 1.40    | 249  |11.43| 1.73
+------------------------------------------------------------------
+  [A] From Table XXV.
+
+  [B] 1851 data from Huth, "Consanguineous Marriage and
+      Deaf-mutism." _The Lancet_, 1900.
+
+Table XXIV summarizes the most important points in the Irish data. It
+will be seen that while there has been an absolute diminution in the
+number of deaf-mutes in Ireland with the decrease in population, there
+has been a relative increase of deaf-mutism. There are two possible
+explanations for this phenomenon, both of which may have operated in
+part; first that in the great emigration the deaf-mutes have been left
+behind, and second that with the introduction of improved methods of
+census taking, the returns are more complete than a half century ago.
+Mr. Huth believes that there is still room for improvement in Irish
+census methods, and thinks there is reason to believe that in the
+enumeration of the deaf all children born deaf in a family are
+included whether living or not.
+
+Since Ireland is strongly Roman Catholic, the proportion of
+consanguineous marriages is probably small, so that the percentage of
+deafmutes derived from consanguineous marriages, varying from 5.86 to
+11.56 is very much greater than the percentage of these marriages in
+the general population. The average number of deaf children to a
+family in Table XXIV varies less than any other part of the table, and
+clearly shows a much higher average number of deaf children where the
+parents were cousins. They reveal the interesting fact that the
+occurrence of two or more deafmutes in a family is more than twice as
+probable where the parents are related as where they are not. Table
+XXV still better illustrates this point. Of the families where there
+was but one deaf-mute, only 4.3 per cent were the offspring of cousin
+marriages; where there were two in a family 12.9 per cent were of
+consanguineous parentage; three in a family, 13.3 per cent; four in a
+family, 19.0 per cent; more than four in a family, 21.1 per cent.
+
+                      TABLE XXV.
+_Number of Congenital Deaf mutes to a Family in Ireland._
+----------------------------------------------------------------
+     |                 | Families in which deaf-mutes numbered.
+     |                 |----------------------------------------
+Year.| Parentage.      | 1. | 2. | 3. |4.|5.|6.|7.|8.|9.|10.|11.
+----------------------------------------------------------------
+1851 | Parents cousins | 127| 45 | 20 |10| 5| 2|..| 1|..|.. |..
+1871 | Parents cousins |  91| 38 | 24 | 5| 3| 1| 1|..|..|.. |..
+1881 | Parents cousins |  63| 30 | 13 | 6| 1|..|..|..|..|.. |..
+1891 | Parents cousins |  82| 38 | 19 | 9| 1| 3| 1| 2|..|.. |..
+1901 | Parents cousins |  79| 34 | 23 | 7| 1|..| 1|..|..|.. |..
+1851 | All families[A] |2963|347 |158 |35|13| 5|..| 1|..|.. |..
+1871 | All families[A] |2460|305 |167 |47|20| 5| 1|..|..|.. |..
+1881 | All families[A] |2080|281 |162 |39|18| 6|..|..|..| 1 |..
+1891 | All families[A] |1473|273 |134 |40|12| 6| 1| 2|..|.. | 1
+1901 | All families[A] |1219|231 |122 |34|10| 4| 2|..|..|.. |..
+----------------------------------------------------------------
+  [A] Number of the "Deaf and Dumb" to a family, "as far as
+      could be ascertained."
+
+In 1871 and 1881 the inquiry was more minute and the degrees of
+consanguinity were specified. Mr. Huth quotes some of the figures for
+these years, probably derived from the same sources as Table XXVI, and
+comments as follows: "An examination of this table will show that the
+statistics so much relied upon as proving the causation of deaf-mutism
+by consanguineous marriages show nothing of the sort. In 1871 fourth
+cousins produced more deaf-mutes per marriage than any nearer
+relationship. In 1881 third cousins produced more than any nearer
+relationship."[83] Mr. Huth forgets that he is basing these statements
+on five and nine families respectively, and does not take into
+consideration the probability that if the returns are biased, as he
+suspects, this bias would affect the more distantly related,
+relatively more than the first cousin marriages, for the same reason
+that this would be true of the cases collected by Dr. Bemiss.[84]
+Combining the figures of the two censal years helps to correct these
+averages, and the distantly related show approximately the same
+average as the first cousin marriages in spite of the vastly greater
+selection which must have obtained in the distantly related cases.
+
+[Footnote 83: Huth, _Marriage of Near Kin_, p. 227.]
+
+[Footnote 84: _Cf. supra_, p. 42.]
+
+In Table XXVI it will be seen that 52.5 per cent of the deaf-mute
+offspring of consanguineous parents were the offspring of first cousin
+marriages. On the assumption that this percentage is fairly typical of
+each set of returns we may say that from three to six per cent of the
+Irish deaf-mutes are the offspring of first cousin marriages. If,
+then, the proportion of first cousin marriages is no greater than in
+England, the percentage of deaf-mute offspring is several times as
+great as in the average non-related marriage.
+
+                             TABLE XXVI.
+--------------------------------------------------------------------------
+              |        1871       |        1881       |  1871 and 1881
+              |-----------------------------------------------------------
+              |      |Number|     |      |Number|     |      |Number|
+              |      | of   |Aver |      | of   |Aver |      | of   |Aver
+              |Number|conge-|age  |Number|conge-|age  |Number|conge-|age
+Consanguinity | of   |nital |per  | of   |nital |per  | of   |nital |per
+     of       |mar-  |deaf- |mar- |mar-  |deaf- |mar- |mar-  |deaf- |mar-
+  Parents.    |riages|mutes |riage|riages|mutes |riage|riages|mutes |riage
+--------------------------------------------------------------------------
+First cousins |   72 |  128 | 1.78|   74 |  123 | 1.66|  146 |  251 | 1.72
+Second cousins|   50 |   89 | 1.78|   29 |   46 | 1.58|   79 |  135 | 1.71
+Third cousins |   24 |   40 | 1.67|    9 |   21 | 2.33|   33 |   61 | 1.85
+Fourth cousins|    5 |   11 | 2.20|    1 |    1 |  -- |    6 |   12 | 2.00
+Fifth and     |      |      |     |      |      |     |      |      |
+sixth cousins |   12 |   19 | 1.58|    not stated     |   12 |   19 | 1.58
+--------------------------------------------------------------------------
+Total         |  163 |  287 | 1.76|  113 |  191 | 1.69|  276 |  478 | 1.73
+No            |      |      |     |      |      |     |      |      |
+relation-     |      |      |     |      |      |     |      |      |
+ship[A]       |2,842 |3,609 | 1.27|2,474 |3,229 | 1.31|5,316 |6,838 | 1.29
+--------------------------------------------------------------------------
+Grand total   |3,005 |3,896 | 1.30|2,587 |3,420 | 1.32|5,592 |7,316 | 1.31
+--------------------------------------------------------------------------
+  [A] See Table XXV.
+
+In Scotland Dr. Arthur Mitchell made inquiry of the superintendents of
+a number of deaf-mute asylums, and found that of 544 deaf-mutes, 28
+were the offspring of 24 consanguineous marriages.[85] There were 504
+families represented in all, so that the average per family was 1.17
+among the consanguineous to 1.07 among the non-consanguineous.
+
+[Footnote 85: Huth, op. cit., p. 226.]
+
+In Norway, according to Uchermann, while 6.9 per cent of all marriages
+are consanguineous within and including the degree of second cousins,
+and in single cantons the percentages range as high as 31.0, only in
+one single district does the number of the deaf-mutes harmonize with
+that of the marriage of cousins. The district of Saeterdalen has the
+greatest number of consanguineous marriages (201 out of 1250), but not
+a single case of deaf-mutism. Hedemarken, which has the fewest
+consanguineous marriages has a great many deaf-mutes. Where
+deaf-mutism exists it seems to be intensified by consanguinity, but
+where it is not hereditary it is not caused by consanguinity. Of the
+1841 deaf-mutes in Norway, 919 were congenitally deaf, and of these
+212 or 23 per cent were of consanguineous parentage.[86]
+
+[Footnote 86: _Les Sourds-muets en Norvège_. Quoted by Feer, _Der
+Einfluss der Blutsverwandschaft der Eltern auf die Kinder_, p. 22.]
+
+Dr. Feer gives a table containing the results of a number of studies
+of deaf-mutism, which shows an average of 20 per cent as of
+consanguineous origin. Four investigations give the number of children
+to a family. Table XXVII from Feer seems to indicate that the Irish
+census is fairly accurate at this point.[87]
+
+[Footnote 87: Feer, op. cit., p. 22.]
+
+             TABLE XXVII.
+_Average Number of Children to a Family._
+-------------------------------------------------
+                    |Consanguineous|"Crossed"
+Observer.           | marriages.   |marriages.
+-------------------------------------------------
+Huth (Irish Census) |   1.68       |  1.17
+Wilhelmi            |   1.71       |  1.26
+Mygind              |   1.53       |  1.20
+Uchermann           |   1.41       |  1.19
+-------------------------------------------------
+
+In the American Census the instructions to enumerators have been so
+diverse that statistics of the deaf have been very poor until recent
+years. Not until the Twelfth Census was the inquiry put upon a really
+scientific basis.
+
+This reform, as also the more intelligent attitude of the American
+people in general towards the affliction of deafness, is due largely
+to the work of Dr. Alexander Graham Bell. An enumeration of Dr. Bell's
+services directly, and through the agency of the Volta Bureau, in this
+cause, cannot be given here. For our purpose the most important of his
+contributions is embodied in the Special Report of the Twelfth Census
+of the United States already referred to.
+
+As in the investigation of the Blind, the circular letter sent to each
+person reported by the enumerators as deaf contained questions in
+regard to parentage and the existence of deaf relatives. It is
+unfortunate that in these returns it is impossible to distinguish
+between degrees of relationship, but in such an extensive compilation
+it was doubtless impracticable to attempt to unravel the intricacies
+of consanguinity. Judging from the returns of the Census of Ireland we
+may assume that about half of the cases returned as "cousins" were
+first cousins.
+
+The replies to the inquiry as to deaf relatives were more carefully
+analyzed, and were divided into four groups, which are referred to
+throughout as (a), (b), (c) and (d) relatives. These groups are: (a),
+deaf brothers, sisters or ancestors; (b), deaf uncles, aunts, cousins
+or other relatives not (a), (c) or (d); (c), deaf children, (sons or
+daughters); (d), deaf husbands or wives. Thus a large proportion of
+the hereditary cases would be included in the first two categories,
+(a) and (b).[88]
+
+[Footnote 88: U.S. Census _Report on the Blind and the Deaf_, p. 127.]
+
+The causes of deafness are given in detail, but as might be expected
+the returns are not as definite or as accurate as we should desire.
+The causes given have been grouped under five main heads; these again
+are subdivided, often into divisions numerically too minute for real
+statistical value. Table XXVIII includes the main groups and those
+specific causes which number more than 3000 cases. The extreme
+variation in the percentages of those who are the offspring of
+consanguineous marriages cannot be attributed to mere chance. There is
+clearly some fundamental connection between consanguinity and
+congenital deafness if 11.8 per cent of all the congenitally deaf are
+the offspring of consanguineous marriages, while of the adventitiously
+deaf but 3.1 per cent are the offspring of such marriages. In fact we
+are tempted to jump at the conclusion that consanguinity is in itself
+a cause of deaf-mutism. Furthermore 42.1 per cent of the deaf whose
+parents were cousins were congenitally deaf, while this was true of
+but 15 per cent of those whose parents were unrelated.
+
+                      TABLE XXVIII.
+-------------------------------------------------------------------------
+                           |      |                    |
+                           |      |    Consanguinty    |
+                           |      |     of Parents.    |    Per cent.
+                           |      |--------------------|-----------------
+                           |      |      |      |      |     |     |
+     Cause of Deafness.    |      |      | Not  | Not  |     | Not | Not
+                           |Total.|Cous- |Cous- | Sta- |Cous-|Cous-| Sta-
+                           |      | ins. | ins. | ted. | ins.| ins.| ted.
+---------------------------|------|------|------|------|-----|-----|-----
+                           |      |      |      |      |     |     |
+  Total                    |89,287| 4,065|75,530| 9,692|  4.5| 84.6| 10.9
+---------------------------|------|------|------|------|-----|-----|-----
+Affections of external ear |   871|    29|   760|    82|  3.3| 87.3|  9.4
+Affections of middle ear   |34,801| 1,238|30,824| 2,739|  3.5| 88.6|  7.9
+Affections of internal ear |12,295|   343|11,121|   831|  2.8| 90.4|  6.8
+Unclassified               |31,205| 2,183|25,281| 3,741|  7.0| 81.0| 12.0
+Unknown                    |10,115|   272| 7,544| 2,299|  2.7| 74.6| 22.7
+                           |      |      |      |      |     |     |
+Scarlet fever              | 7,424|   285| 6,647|   492|  3.9| 89.5|  6.6
+Disease of ear             | 4,210|   222| 3,683|   305|  5.3| 87.5|  7.2
+Catarrh                    |11,702|   304|10,450|   948|  2.6| 89.3|  8.1
+Colds                      | 3,074|    81| 2,666|   327|  2.6| 86.7| 10.7
+Meningitis                 | 3,991|    83| 3,741|   167|  2.1| 93.7|  4.2
+Old age                    | 3,361|    38| 2,369|   954|  1.1| 70.5| 28.4
+Military service           | 3,242|    40| 2,897|   305|  1.2| 89.4|  9.4
+Congenital                 |14,472| 1,710|11,322| 1,440| 11.8| 78.2| 10.0
+-------------------------------------------------------------------------
+
+But on the other hand, 53.4 per cent of the deaf whose parents were
+cousins had deaf relatives of the (a) and (b) groups, while of those
+whose parents were not cousins, only 29.9 per cent in these groups had
+deaf relatives. In Table XXIX the close connection between deaf
+relatives of these groups and consanguinity is shown. For the sake of
+simplicity no account is taken of (c) relatives (deaf children), and
+(d) relatives (deaf husbands or wives), for in the first case only 370
+deaf are reported as having deaf children and at the same time no (a)
+or (b) relatives, and in the Second case (d) relatives are not
+ordinarily blood relatives at all.
+
+                       TABLE XXIX.
+-----------------------------------------------------------------------
+                         |      |                    |
+                         |      |    Consanguinty    |
+                         |      |     of Parents.    |    Per cent.
+                         |      |--------------------|-----------------
+                         |      |      |      |      |     |     |
+Class of Deaf            |      |      | Not  | Not  |     | Not | Not
+Relative.[A]             |Total.| Cous-| Cous-| Sta- |Cous-|Cous-| Sta-
+                         |      |  ins.|  ins.| ted. | ins.| ins.| ted.
+-----------------------------------------------------------------------
+                         |      |      |      |      |     |     |
+  Total                  |89,287| 4,065|75,530| 9,692|  4.5| 84.6| 10.6
+-----------------------------------------------------------------------
+Stated                   |80,481| 3,911|73,639| 2,931|  4.9| 91.5|  3.6
+Not stated               | 8,806|   154| 1,891| 6,761|  1.7| 21.5| 76.8
+                         |      |      |      |      |     |     |
+(a) relatives            |21,660| 1,850|18,838|   972|  8.5| 87.0|  4.5
+No (a) relatives         |58,821| 2,061|54,801| 1,959|  3.5| 93.2|  3.3
+                         |      |      |      |      |     |     |
+(a) or (b) relatives     |25,851| 2,171|22,552| 1,128|  8.4| 87.2|  4.4
+(a) and (b) relatives    | 4,117|   412| 3,587|   118| 10.0| 87.1|  2.9
+(a) but no (b) relatives |17,543| 1,438|15,251|   854|  8.2| 86.9|  4.2
+(b) but no (a) relatives | 4,191|   321| 3,714|   156|  7.7| 88.6|  3.7
+No (a) or (b) relatives  |54,630| 1,740|51,087| 1,803|  3.2| 93.5|  3.3
+-----------------------------------------------------------------------
+  [A] Symbols for deaf relatives: (a) deaf brothers, sisters and
+      ancestors; (b) deaf uncles, aunts, cousins, etc.
+
+Table XXIX shows unmistakably that the connection between
+consanguinity and hereditary deafness is very close. Where there is
+the largest amount of deafness in the family the percentage of
+consanguinity is the highest. That is, of those who had both (a) and
+(b) relatives ten per cent were the offspring of cousins, while of
+those who had neither (a) nor (b) relatives only three per cent were
+the offspring of cousins. It is natural to assume that as a rule where
+the deaf have either (a) or (b) deaf relatives, deafness is
+hereditary, for the probability of two cases of deafness occurring in
+the same family, uninfluenced by heredity would be very small. It is
+likely also that a great many of the deaf who stated that they had no
+deaf relatives were mistaken, for few people are well enough informed
+in regard to their ancestry to answer this question definitely. Not
+one man in thousands can even name all of his great-grandparents, to
+say nothing of describing their physical or mental traits. Others may
+have understood the inquiry to refer only to living relatives and
+therefore have omitted almost all reference to their ancestors. These
+possible errors might easily explain all the excess of the percentage
+of consanguinity among those reported as having no deaf relatives over
+the probable percentage of consanguineous marriage in the general
+population. But this very probability that comparatively few deaf
+ancestors have been reported increases the probability that the
+greater part of the (a) relatives were brothers and sisters rather
+than ancestors. Now of the 26,221 deaf having deaf relatives, 17,345
+have only (a) relatives, and if these are largely living brothers and
+sisters the relationship would "work both ways," so that if there were
+two deaf children in a family, each would have an (a) deaf relative.
+In the Census of Ireland figures above quoted it will be remembered
+that among families which were the offspring of cousins the proportion
+having two or more deaf children was three times as great as among
+those who were not the offspring of consanguineous unions. If this
+follows in America, it largely accounts for the high percentage of the
+congenitally deaf who are the offspring of cousin marriages, and
+especially of those who have (a) deaf relatives.
+
+                         TABLE  XXX.
+------------------------------------------------------------------------
+                 |       |    Consanguinity      |
+                 |       |     of Parents.       |   Per Cent.
+                 |       |----------------------------------------------
+Class of Deaf    |       |       | Not   | Not   |       | Not   | Not
+ Relatives.[A]   |Total. |Cousins|Cousins|stated |Cousins|Cousins|stated
+------------------------------------------------------------------------
+Total            |14,472 | 1,710 | 11,322| 1,440 | 11.8  | 78.2  |10.0
+------------------------------------------------------------------------
+Stated           |13,428 | 1,647 | 11,110|   671 | 12.3  | 82.7  | 5.0
+Not stated       | 1,044 |    63 |    212|   769 |  6.0  | 20.3  |76.7
+(a) relatives    | 5,295 |   986 |  3,961|    48 | 18.6  | 74.8  | 6.6
+(b) and (c) but  |       |       |       |       |       |       |
+ no (a) relatives|   860 |   126 |    686|    48 | 14.6  | 79.8  | 5.6
+No (a), (b) or   |       |       |       |       |       |       |
+ (c) relatives   | 7,273 |   535 |  6,463|   275 |  7.3  | 88.9  | 3.8
+------------------------------------------------------------------------
+  [A] Symbols for deaf relatives: (a) deaf brothers, sisters or
+      ancestors; (b) deaf uncles, aunts, cousins, etc.; (c) deaf children.
+
+A further analysis of the congenitally deaf according to consanguinity
+of parents and deaf relatives, as in Table XXX, helps to determine to
+what extent the greater number of deaf children to a family among the
+offspring of consanguineous marriages has influenced the totals. From
+the report it cannot be determined how many of the congenitally deaf
+had (a), (b) or (c) relatives alone, but the existence of (b) and (c)
+relatives would almost certainly indicate that the deafness was
+hereditary. Of these 14.6 per cent were the offspring of cousins,
+while of those having (a) relatives 18.6 per cent were the offspring
+of consanguineous unions. Thus it would seem to be a more reasonable
+conclusion that where two or more deaf-mutes appear in the same
+family, at least a tendency toward deaf-mutism is hereditary in the
+family and is intensified by the marriage of cousins, rather than that
+consanguineous marriage is in itself a cause. The fact that in many
+cases the relationship would "work both ways" would not greatly affect
+the percentage of the offspring of cousins having (b) and (c)
+relatives, for the chance would be slight that the (b) or (c) relative
+would be himself the offspring of a consanguineous marriage. Among the
+congenitally deaf who reported no deaf relatives, the percentage of
+consanguineous parentage is still high, (7.3 per cent), but this
+excess can easily be accounted for by the ignorance of deaf relatives
+on the part of the informant, without contradicting the hypothesis of
+heredity.
+
+Basing now our percentages on the totals of consanguineous and
+non-consanguineous parentage respectively, and including only those
+who answered the inquiry as to deaf relatives, it will be seen (Table
+XXXI) that while of all the deaf less than one third are returned as
+having deaf relatives, of the deaf who were the offspring of cousins
+over one half (55.5 per cent) were returned as having (a) or (b) deaf
+relatives.
+
+Again taking into consideration only the congenitally deaf the results
+are still more striking. Table XXXII shows that 66.5 per cent of the
+congenitally deaf who are of consanguineous parentage are known to
+have deaf relatives.
+
+                     TABLE XXXI.
+----------------------------------------------------------------------
+                         |      |Consanguinity  |
+                         |      | of Parents.   |     Per cent.
+                         |      |-------------------------------------
+                         |      |       |Not    |     |       |Not
+Class of Deaf Relatives. |Total.|Cousins|Cousins|Total|Cousins|Cousins
+----------------------------------------------------------------------
+Deaf relatives stated    |80,481| 3,911 |73,639 |100.0|100.00 |100.00
+----------------------------------------------------------------------
+(a) relatives            |21,660| 1,850 |18,838 | 26.9| 47.3  | 25.5
+No (a) relatives         |58,821| 2,061 |54,801 | 73.1| 52.7  | 74.5
+                         |      |       |       |     |       |
+(a) or (b) relatives     |25,851| 2,171 |22,552 | 32.1| 55.5  | 30.6
+(a) and (b) relatives    | 4,117|   412 | 3,587 |  5.1| 10.5  |  4.8
+(a) and no (b) relatives |17,543| 1,438 |15,251 | 21.8| 36.8  | 20.7
+(b) and no (a) relatives | 4,191|   321 | 3,714 |  5.2|  8.2  |  5.1
+No (a) or (b) relatives  |54,630| 1,740 |51,087 | 67.9| 44.5  | 69.4
+----------------------------------------------------------------------
+Symbols for deaf relatives: (a) deaf brothers, sisters or ancestors;
+ (b) deaf uncles, aunts, cousins, etc.; (c) deaf children;
+ (d) deaf husbands or wives.
+
+                         TABLE XXXII.
+-------------------------------------------------------------------------
+                            |      |Consanguinity  |
+                            |      |of Parents.    |    Per cent.
+                            |      |-------------------------------------
+                            |      |       |Not    |     |       |Not
+Class of Deaf Relatives     |Total.|Cousins|Cousins|Total|Cousins|Cousins
+-------------------------------------------------------------------------
+Deaf relatives stated       |13,428| 1,647 |11,110 |100.0|100.0  |100.0
+-------------------------------------------------------------------------
+(a) relatives               | 5,295|   986 | 3,961 | 39.5| 59.9  | 35.6
+(b) or (c), no (a) relatives|   860|   126 |   686 |  6.4|  7.6  |  6.2
+No (a), (b) or (c) relatives| 7,273|   535 | 6,463 | 54.2| 32.5  | 58.2
+-------------------------------------------------------------------------
+Symbols for deaf relatives: (a) deaf brothers, sisters or ancestors;
+ (b) deaf uncles, aunts, cousins, etc.; (c) deaf children.
+
+The percentage having (a) relatives, including brothers, and sisters,
+is nearly twice as great among the deaf of consanguineous parentage as
+among the offspring of unrelated parents. This is not inconsistent
+with the Irish returns which show the average number of deaf children
+to a family to be so much greater where the parents were cousins, than
+where they were not.
+
+The statistics of the (c) relatives, or deaf sons and daughters of the
+deaf, are not very full. Of the 31,334 married deaf who answered the
+inquiry in regard to deaf relatives, 437 or 1.4 per cent reported deaf
+children and 30,897 or 98.6 per cent reported no deaf children. Of the
+totally deaf 2.4 per cent had deaf children, and of the congenitally
+deaf 5.0 per cent. The percentage of deaf children varied greatly
+according to the number and class of deaf relatives, as shown by Table
+XXXIII.
+
+                     TABLE XXXIII.
+-------------------------------------------------------------------
+                           |   Percentage having deaf children.
+                           |---------------------------------------
+Class of Deaf Relatives.   |      |Totally |Partially |Congenitally
+                           |Total.|deaf.   |deaf.     |deaf.
+---------------------------|------|--------|----------|------------
+(a), (b) or (d)            | 1.4  | 2.4    | 1.1      | 5.0
+(d)                        | 3.2  | 3.3    | 2.6      | 6.4
+No (d)                     | 1.1  | 1.4    | 1.0      | 2.5
+(a) and (d)                | 6.3  | 6.7    | 4.3      | 7.8
+(d), but no (a)            | 2.2  | 2.2    | 2.0      | 4.9
+(a), but no (d)            | 1.4  | 2.3    | 1.3      | 2.6
+No (a) or (d)              | 0.9  | 1.0    | 0.9      | 2.3
+(a), (b) and (d)           | 9.5  | 9.9    | [A]      | 9.0
+(a), (d), but no (b)       | 5.5  | 5.9    | 3.6      | 7.4
+(b), (d), but no (a)       | 2.5  | 2.4    | [A]      | [A]
+(d), but no (a) or (b)     | 2.2  | 2.2    | 2.0      | 5.2
+(a), (b), but no (d)       | 1.9  | 3.1    | 1.7      | [A]
+(a), but no (b) or (d)     | 1.3  | 2.1    | 1.2      | 2.8
+(b), but no (a) or (d)     | 1.0  | 1.6    | 1.0      | [A]
+No (a), (b) or (d)         | 0.9  | 1.0    | 0.9      | 2.6
+----------------------------------------------------------------
+  [A] Percentages not given where base is less than 100.
+
+  Symbols: (a) deaf brothers, sisters or ancestors; (b) deaf
+  uncles, aunts, cousins, etc.; (d) deaf husbands or wives.
+
+The striking feature of these percentages is the regularity with
+which they increase in proportion as the number of deaf relatives
+increases, until among the 242 persons who have (a), (b) and (d)
+relatives, 23 or 9.5 per cent also have (c) relatives. A
+consanguineous marriage within a family tainted with deafness would
+have the same effect as doubling the number of deaf relatives, which
+as we have seen greatly increases the percentage having deaf children.
+
+It would seem that the number of the married deaf reported as having
+deaf children is much too small, especially since Dr. Fay[89] produces
+statistics of 4471 marriages of the deaf of which 300 produced deaf
+offspring. Counting only the 3,078 marriages of which information in
+regard to offspring was available these figures show an average of a
+little less than one such marriage in ten as productive of deaf
+offspring. The total number of children of these marriages was 6,782,
+of which 588 were deaf. These 3,078 marriages represented 5,199 deaf
+married persons as compared with the 31,334 reported in the Twelfth
+Census, or about one sixth. Increasing the 300 families who had deaf
+children in the same ratio we have 1800 as compared with the 437
+reported by the census. But as it was inevitable that Dr. Fay's cases
+should be selected somewhat, he has probably collected records of more
+than one sixth of all the cases where deaf children were born of deaf
+parents. But we can hardly believe that he found three-fourths of such
+cases. The true number therefore must be considerably greater than
+437, but less than 1800.[90]
+
+[Footnote 89: _Marriages of the Deaf in America_, chap. v.]
+
+[Footnote 90: Of the 17 children of first cousins reported on my
+circulars as either totally or partially deaf, 9 are known to have had
+deaf ancestors.]
+
+Dr. Fay found that 31 out of the 4,471 marriages of the deaf were
+consanguineous, but he expresses the belief that the actual number
+and percentage of consanguineous marriages of the deaf are larger. The
+following table which combines several of Dr. Fay's tables sets forth
+the main results of his work. In each instance one or both parties to
+the marriage were deaf. The totals include only those of whom
+information as to the offspring was available.
+
+                    TABLE XXXIV.
+----------------------------------------------------------
+                    |      | Marriages |
+                    |      | resulting |
+                    |      |  in deaf  |
+                    |      | offspring |  Deaf children
+                    |Number|-----------|------------------
+   Consanguineous   |of    |      |    |             |Per
+     Marriages      |mar-  |      |Per |      |Number|Cent
+    of the Deaf.    |riages|Number|Cent|Number|Deaf  |Deaf
+----------------------------------------------------------
+First cousins       |    7 |   4  | 57.|   26 |    7 | 27.
+Second cousins      |    5 |   3  | 60.|   25 |   10 | 40.
+Third cousins       |    1 |   1  | -- |    1 |    1 | --
+"Cousins"           |   14 |   3  | 21.|   36 |    7 | 19.
+Nephew and aunt     |    1 |   1  | -- |    4 |    3 | 75.
+Distantly related   |    3 |   2  | 67.|    8 |    2 | 25.
+----------------------------------------------------------
+Total consanguineous|   31 |  14  | 45.|  100 |   30 | 30.
+Not consanguineous, |      |      |    |      |      |
+ or no information  |3,047 | 286  |  9.|6,682 |  558 |  8.
+----------------------------------------------------------
+Grand total         |3,078 | 300  | 10.|6,782 |  588 |  9.
+----------------------------------------------------------
+
+Obviously percentages based on these figures are of little value of
+themselves, especially since Dr. Fay's cases are not entirely typical,
+but in general this table points us to the same conclusion that we
+have reached by other means, namely that where a tendency toward
+deafness exists, a consanguineous marriage is more likely to produce
+deaf children than a non-consanguineous marriage. If more figures were
+available the percentage of deaf children would probably increase with
+the nearness of consanguinity and the number of deaf relatives, but
+with the present data a further analysis has no significance.[91]
+
+[Footnote 91: Mr. Edgar Schuster (_Biometrika_, vol. iv, p. 465) finds
+from Dr. Fay's statistics that the average parental correlation
+(parent and child) of deafness is: paternal, .54; maternal, .535.
+English statistics of deafness give: paternal correlation, .515;
+maternal, .535. The fraternal correlation from the American data is
+.74 and from the English .70. See _infra_, p. 92.]
+
+If, then, consanguineous marriages where relatives are deaf have a
+greater probability of producing deaf offspring, and also a greater
+probability of producing plural deaf offspring, than ordinary
+marriages, and two thirds of the congenitally deaf offspring of
+consanguineous marriages do have deaf relatives, it does not seem
+necessary to look beyond the law of heredity for an explanation of the
+high percentage of the congenitally deaf who are of consanguineous
+parentage.
+
+In those cases of deafness which, in the Census returns, are ascribed
+to specific causes, the factor of consanguinity is still noticeable,
+although the percentage of the non-congenitally deaf who are the
+offspring of cousins never exceeds 5.3 (Table XXVIII). But the
+influence of heredity is not removed by the elimination of the
+congenitally deaf. Many instances are known where successive
+generations in the same family have developed deafness in adult life,
+often at about the same age and from no apparent cause. The following
+case well illustrates this point. It is furnished me by a
+correspondent in whom I have great confidence. The facts are these:
+A---- aged 28 married B---- aged 19, his first cousin who bore the
+same surname as himself. Both lived to old age and were the parents of
+eight children, two of whom died in infancy. My informant further
+states:
+
+    Having personally known very well all of the surviving six
+    children of this family, I can truthfully state that all were
+    unusually strong, active and vigorous people and all the
+    parents of healthy children. A---- was troubled with deafness
+    as long as I can remember, and this physical trait he
+    transmitted to all of his children, though some of them did not
+    develop the same till well along in life. C---- (the youngest
+    son), however, began to indicate deafness quite early. No one
+    of his four children is in the least deaf.
+
+It will be noticed here that whereas in the case of the cousin
+marriage the trait was so strongly inherited, it disappeared entirely
+in the next generation with a non-consanguineous marriage. The
+inheritance of tendencies or weaknesses may be more common than the
+actual inheritance of defects. Dr. Bell's words on this point are
+suggestive:
+
+    Where a tendency toward ear trouble exists in a family, it may
+    lie dormant and unsuspected until some serious illness attacks
+    some member of the family, when the weak spot is revealed and
+    deafness is produced. We are not all built like that wonderful
+    one-horse shay that was so perfectly made in all its parts that
+    when at last it broke down it crumbled into dust. When an
+    accident occurs it is the weak spot that gives way, and it
+    would be incorrect to attribute the damage to the accident
+    alone and ignore the weakness of the part; both undoubtedly are
+    contributing causes.
+
+    In the case, then, of a deaf person who has deaf relatives, the
+    assigned cause of deafness may not be the only cause involved,
+    or indeed the true cause at all. It may be the cause simply in
+    the same sense that the pulling of a trigger is the cause of
+    the expulsion of a bullet from a rifle, or a spark the cause of
+    the explosion of a gunpowder magazine; hereditary influences
+    may be involved.[92]
+
+[Footnote 92: U.S. Census _Report on the Blind and the Deaf_, p. 127.]
+
+It is thus possible to account for the large proportion of deafness
+among persons of consanguineous parentage by the simple action of the
+laws of heredity. Why then should we go out of our way to look for a
+cause of the defect in consanguinity itself? When two explanations are
+possible, the simpler explanation is the more probable, other factors
+being equal; but in the present problem the factors are not equal, for
+the evidence points strongly toward the simpler hypothesis of
+intensified heredity, while there is little or no evidence that
+consanguinity is a cause _per se_.
+
+As to the probability then of a consanguineous marriage producing deaf
+offspring, it will readily be seen to be very slight, and in those
+cases where there is actually no trace of hereditary deafness in the
+family, perhaps no greater than in non-related marriages. While the
+census figures in regard to the deaf are not complete they probably
+include a great majority of the deaf in the United States. The 89,287
+deaf would mean an average of 12 deaf persons to every 10,000
+inhabitants and the 14,472 congenitally deaf, 2 persons to every
+10,000. Assuming then, as before[93] that 1,000,000 persons in
+continental United States are the offspring of consanguineous
+marriages within the limits of the term "cousins" as used in the
+Census report, 41 out of every 10,000 persons of consanguineous
+parentage would be deaf, and 17 congenitally so. Thus less than one
+half of one per cent of the offspring of consanguineous marriages in
+the United States are deaf, and only one sixth of one per cent are
+deaf-mutes in the commonly accepted sense of the term.
+
+[Footnote 93: _Supra_, p. 64.]
+
+It is interesting here to quote an opinion given by Dr. Bell in 1891,
+as to the probable results of the consanguineous marriage of deaf
+persons.[94]
+
+[Footnote 94: _Marriage--An Address to the Deaf_, second edition,
+Appendix.]
+
+    1. A deaf person, not born deaf, who has no deaf relatives,
+    will probably not increase his liability to have deaf offspring
+    by marrying a blood relative.
+
+    2. A deaf person, born deaf, who has no deaf relatives, will
+    probably increase his liability to have deaf offspring by
+    marrying a blood relative.
+
+    3. A deaf person, whether born deaf or not, who has deaf
+    relatives, will probably increase his liability to have deaf
+    offspring by marrying a blood relative, especially if that
+    relative should happen to be on the deaf side of the family.
+    For example: If his father has deaf relatives and his mother
+    has none, he will be more likely to have deaf offspring if he
+    marries a relative of his father than if he marries a relative
+    of his mother.
+
+    The laws of heredity seem to indicate that a consanguineous
+    marriage increases or intensifies in the offspring whatever
+    peculiarities exist in the family. If a family is
+    characterized by the large proportion of persons who enjoy
+    good health and live to old age with unimpaired faculties,
+    then a consanguineous marriage in such a family would probably
+    be beneficial, by increasing and intensifying these desirable
+    characteristics in the offspring. On the other hand, if a
+    large proportion of the members of a family betray weakness of
+    constitution--for example: if many of the children die in
+    infancy, and a large proportion of the others suffer from ill
+    health, only a few living to old age with unimpaired
+    faculties--then a consanguineous marriage in such a family
+    would probably be hurtful to the offspring. A large
+    proportion of the children would probably die in infancy, and
+    the survivors be subject to some form of constitutional
+    weakness.
+
+    As there are few families entirely free from constitutional
+    defects of some kind, a prudent person would do well to avoid
+    consanguineous marriage in any case--not necessarily on account
+    of deafness, but on account of the danger of weakening the
+    constitution of the offspring. Remoteness of blood is eminently
+    favorable to the production of vigorous offspring, and those
+    deaf persons who have many deaf relatives would greatly
+    diminish their liability to have deaf offspring by marrying
+    persons very remote in blood from themselves.
+
+    Children, I think, tend to revert to the type of the common
+    ancestors of their parents. If the nearest common ancestors are
+    very far back in the line of ancestry, the children tend to
+    revert to the common type of the race. Deafness and other
+    defects would be most likely to disappear from a family by
+    marriage with a person of different nationality. English,
+    Irish, Scotch, German, Scandinavian and Russian blood seems to
+    mingle beneficially with the Anglo-Saxon American, apparently
+    producing increased vigor in the offspring.
+
+
+CHAPTER VII
+
+SUMMARY AND CONCLUSION
+
+
+Having thus considered the more important problems which have been
+connected with the marriage of near kin, we have only to discuss the
+bearing of the conclusions thus formed upon the social aggregate, and
+the effect which consanguineous marriages have upon the evolution and
+improvement of the human species.
+
+It has been shown that the frequency with which consanguineous
+marriages occur varies greatly with the physical and social
+environments; that such marriages are more frequent in isolated and in
+rural communities than in cities; and that with the increasing range
+of individual activity and acquaintance the relative frequency of
+consanguineous marriage is decreasing.
+
+Consanguinity in the parents has no perceptible influence upon the
+number of children or upon their masculinity, and has little, if any,
+direct effect upon the physical or mental condition of the offspring.
+
+The most important physiological effect of consanguineous marriage is
+to intensify any or all inheritable family characteristics or
+peculiarities by double inheritance. The degree of intensification
+probably varies with the nature of the characteristic; degenerate
+conditions of the mind, and of the delicate organs of special sense
+being the most strongly intensified.
+
+It is probable also that in the absence of degenerative tendencies
+the higher qualities of mind and body are similarly intensified by
+marriage between highly endowed members of the same family. Dr.
+Reibmayr believes that inbreeding is necessary to the higher evolution
+of the race: "A settled abode, natural protection from race mixture
+and the development of a closely inbred social class are the basic
+conditions of every culture period." But inbreeding must not be
+carried too far: "In the course of generations the ruling class begins
+to degenerate mentally and physically, until not only is the class
+destroyed, but for lack of capable leadership the people (Volk) itself
+is subjugated and a crossing of blood again takes place."[95]
+
+[Footnote 95: Trans. from _Insucht und Vermischung beim Menschen_, p.
+46.]
+
+In the breeding of animals the closest inbreeding is frequently
+resorted to in order to improve the stock, and many examples can be
+given of the closest possible inbreeding for generations without
+apparent detriment, but it is universally admitted that the animals
+selected for such inbreeding must be sound constitutionally, and free
+from disease. After a certain number of generations however,
+degeneration apparently sets in. The number of generations through
+which inbreeding may be carried varies with the species, and the
+purpose for which the animals are bred. Where they are bred primarily
+for their flesh, as for beef, mutton or pork, it can be pursued
+farther and closer than where they are bred for achievement in which a
+special strength is required--for instance in the breeding of race
+horses. This would indicate that the more delicate brain and nervous
+system is sooner affected than the lower bodily functions.
+
+In man, however, freedom from hereditary taint cannot so easily be
+secured. Individuals cannot be selected scientifically for breeding
+purposes. Furthermore, the human body is more delicately constructed
+than that of the lower animals, and the nervous system is more highly
+developed and specialized, so that it is reasonable to suppose that in
+man degeneration would set in earlier in the process of inbreeding,
+and that it would be impossible to breed as closely as with the lower
+animals. Instances are well known, however, where incestuous unions
+have been productive of healthy offspring, and successive generations
+of offspring of incestuous connection are not unknown; but, although
+statistics are lacking, it seems to be very often true that children
+of such unions are degenerate. It may be that the reason for this is
+that with the laws and social sentiments now prevailing in all
+civilized communities, only degenerates ever contract incestuous
+alliances. Desirable as it may be from a social point of view that
+this strong sentiment against incest should continue, it is not yet
+_proven_ that even the closest blood relationship between the parents
+is directly injurious to the offspring. The "instinctive horror of
+incest" is a myth, for although a horror of incest does very properly
+exist in civilized, and in some tribal societies, it is purely a
+matter of custom and education, and not at all a universal law.
+
+Double heredity may account for all the observed ill effects of
+consanguineous marriage, including the high youthful death-rate, the
+higher percentage of idiocy, deafness and blindness, and probably also
+the scrofulous and other degenerate tendencies; nevertheless, there
+may be in some instances a lowering of vitality which this hypothesis
+does not fully explain.
+
+The tendency of inbreeding in animals, it is well known, is to fix the
+type, the tendency of crossing, to variation. Inbreeding then, tends
+to become simple repetition with no natural variations in any
+direction, a stagnation which in itself would indicate a comparatively
+low vitality. Variation and consequent selection is necessary to
+progress. "Sex," according to Ward[96] "is a device for keeping up a
+difference of potential," and its object is not primarily
+reproduction, but variation.[97]
+
+[Footnote 96: _Pure Sociology_, p. 232.]
+
+[Footnote 97: Pearson (_Grammar of Science_, p. 373) points out that
+variation does occur in asexual reproduction. But that sex is at least
+a powerful stimulus to variation can hardly be questioned.]
+
+    It is organic differentiation, higher life, progress,
+    evolution.... But difference of potential is a social as well
+    as a physiological and physical principle, and perhaps we shall
+    find the easiest transition from the physiological to the
+    social in viewing the deteriorating effects of close inbreeding
+    from the standpoint of the environment instead of from that of
+    the organism. A long-continued uniform environment is more
+    deteriorating than similarity of blood. Persons who remain for
+    their whole lives, and their descendants after them, in the
+    same spot, surrounded by precisely the same conditions, and
+    intermarry with others doing the same, and who continue this
+    for a series of generations, deteriorate mentally at least, and
+    probably also physically, although there may not be any mixing
+    of blood. Their whole lives, physical, mental, and moral,
+    become fixed and monotonous, and the partners chosen for
+    continuing the race have nothing new to add to each other's
+    stock. There is no variation of the social monotony, and the
+    result is socially the same as close consanguineal
+    interbreeding. On the other hand, a case in which a man should,
+    without knowing it, marry his own sister, after they had been
+    long separated and living under widely different skies, would
+    probably entail no special deterioration, and their different
+    conditions of life would have produced practically the same
+    effect as if they were not related.[98]
+
+[Footnote 98: Ward, op. cit., pp. 234-235.]
+
+Professor Ward's idea of "difference of potential," or contrast, as
+essential to the highest vigor of the race as well as to that of the
+individual offspring, offers an alternative explanation of the
+observed results of consanguineous marriages, and one which does not
+necessarily conflict with the explanation already given. All the
+phenomena of intensification are simply due to a resemblance between
+husband and wife in particular characteristics, such as a common
+tendency toward deafness or toward mental weakness. This resemblance,
+which may or may not be the result of a common descent, renders more
+probable the appearance of the trait in the offspring. If the parents
+closely resembled each other in many respects they would be more
+likely to "breed true" and the children would resemble one another in
+their inherited traits, thus accounting for the high average of
+deaf-mutes to the family, observed in the Irish statistics.[99]
+
+[Footnote 99: _Cf. supra_, p. 66.]
+
+The theory of contrast and resemblance supplements that of intensified
+heredity where the resemblance is general, rather than in particular
+traits or characteristics. In such a case the absence of the
+stimulating effects of contrast might result in a lowering of
+vitality, which in turn would react upon the youthful death-rate.
+
+Where then related persons differ greatly in mental and physical
+traits, and generally speaking, belong to different types, it is very
+improbable that there would be any ill effects resulting from the mere
+fact of consanguinity. A case in point is furnished me by a
+correspondent. A first cousin marriage which turned out exceedingly
+well was between strongly contrasted individuals; the husband was
+"short, stocky and dark complexioned" while the wife was "tall, slight
+of figure, and of exceedingly light complexion." In other cases in
+which the results were not so good the husband and wife bore a close
+resemblance to one another, physically and mentally.
+
+This, however, does not agree with the results obtained by Professor
+Karl Pearson. Basing his conclusions on the correlation of stature
+between husband and wife, he believes that homogamy is a factor of
+fertility. Taking 205 marriages from Mr. Francis Galton's _Family
+Records_, Professor Pearson found the correlation between husband and
+wife to be .0931 ± .0467, while weighted by their fertility the
+correlation was .1783 ± .0210, practically doubling the intensity of
+assortative mating.[100] The value of these correlations, however, is
+impaired, as he says, by the insufficient number of observations, and
+by the fact that absolutely taller mothers are the more fertile.
+
+[Footnote 100: _Royal Society Proceedings_, vol. 66, p. 30.]
+
+In a subsequent investigation of from 1000 to 1050 pairs of parents of
+adult children, Professor Pearson found the correlation in stature to
+be .2804 ± .0189; of span .1989 ± .0204; and of forearm .1977 ± .0205;
+with cross coefficients varying from .1403 to .2023. If, as he
+believes, "The parents of adult children are on the average more alike
+than first cousins, then it follows that any evils which may flow from
+first cousin marriage depend not on likeness of characters, but on
+sameness of stock."[101]
+
+[Footnote 101: _Biometrika_, vol. ii, p. 373.]
+
+But even if it were true, as is very improbable, that parents of adult
+children are more alike than first cousins, it would still be likely
+to follow that first cousins who married would be more alike than
+first cousins in general. A certain degree of resemblance is
+undoubtedly necessary to complete fertility: husband and wife must be
+physically compatible, and must both enjoy a certain degree of health
+and physical strength. These facts are admitted by all, but it does
+not follow that resemblance beyond a certain point is not in itself
+detrimental.
+
+Professor Pearson's own experiments in this line, however, do not
+give consistent results, for in correlating eyecolor with fertility,
+heterogamy seems to increase fertility. The highest average fertility
+(4.57) is in those cases where the father is dark-eyed and the mother
+light-eyed, while the lowest is where both parents have blue-green or
+gray eyes.[102]
+
+[Footnote 102: _Phil. Trans. of the Royal Society_, vol. 195 A, p.
+150.]
+
+In a recent study an attempt has been made to measure the coefficient
+of correlation between cousins.[103] In the characteristics of health,
+success, temper and intelligence the coefficients ranged between .25
+and .30. These values differ but little from those found to obtain for
+the resemblance between avuncular relatives for eye color (.265), or
+between grandparent and grandchild for the same characteristic
+(.3164).[104] Positive results were also found, with one doubtful
+exception, for the occurrence of insanity and tuberculosis in cousins.
+The writer concludes: "The grandparent, the uncle and aunt, and the
+cousin are on practically the same footing with regard to relationship
+or intensity of kinship as measured by degree of likeness of
+character; and it seems probable that any scientific marriage
+enactments would equally allow or equally forbid marriage between
+grandparent and grandchild, uncle and niece, aunt and nephew, and
+between first cousins."[105]
+
+[Footnote 103: Elderton and Pearson, "On the Measure of the
+Resemblance of First Cousins." _Eugenics Laboratory Memoirs IV._
+Reviewed in _Br. Med. Journal_, Feb. 15, 1908.]
+
+[Footnote 104: _Phil. Trans. of the Royal Society_, vol. 195 A, p.
+106.]
+
+[Footnote 105: Elderton and Pearson, op. cit.]
+
+As we should expect the resemblance between near relatives has been
+found to be much greater. From a measurement of from 4000 to 4886
+pairs, the average correlation of the characteristics of stature,
+span, forearm length and eyecolor between parent and child was .4695.
+By similar computations and measuring the same characteristics, the
+fraternal correlation was found to be .508.[106] From measurements of
+a greater variety of characteristics in school children the mean
+fraternal correlation was .539.[107] In athletic power the coefficient
+was still higher, .72 between brothers, .75 between sisters and
+.49 between brothers and sisters. Measurements of mental
+characteristics--vivacity, assertiveness, introspection, popularity,
+conscientiousness, temper, ability and handwriting proved to be as
+easily correlated, the mean coefficients being; brothers, .52,
+sisters .51, brothers and sisters .52.[108]
+
+[Footnote 106: Pearson and Lee, "On the Laws of Inheritance in Man,"
+_Biometrika_, vol. ii, p. 387.]
+
+[Footnote 107: Ibid., p. 388.]
+
+[Footnote 108: Pearson, "On the Laws of Inheritance in Man," part 2,
+_Biometrika_, vol. iii, p. 154.]
+
+The relative amount of degeneracy and disease among the offspring of
+consanguineous marriages has been enormously exaggerated, and the
+danger is by no means as great as is popularly supposed. Nevertheless,
+since it is undoubtedly true that on the average such marriages do not
+produce quite as healthy offspring as do non-consanguineous unions,
+and since public sentiment is already opposed to the marriage of
+cousins, it is perhaps just as well that existing laws on the subject
+should remain in force. From the standpoint of eugenics however, it is
+much more important that the marriage of persons affected with
+hereditary disease should be prevented. Dr. Bell has pointed out the
+danger of producing a deaf-mute race by the intermarriage of
+congenitally deaf persons,[109] and this warning should be made to
+apply to other congenital defects as well. Some states already
+prohibit the marriage of the mentally defective, and persons under the
+influence of intoxicants. Such provisions are wise, and are the most
+practical means of achieving eugenic ideals--by preventing the
+propagation of the unfit. The interests of society demand that the
+mentally and physically defective should not propagate their kind.
+
+[Footnote 109: "Memoir upon the Formation of a Deaf Variety of the
+Human Race." _Memoirs of the National Academy of Sciences_, vol. ii,
+pp. 177-262.]
+
+From the broader viewpoint of social evolution the problems of
+inbreeding or crossing of stocks merge into the discussion of the
+endogamous and exogamous types of society. Whatever may have been the
+origin of exogamy, the survival of the exogamous type in progressive
+societies may easily be explained on the ground of superior
+adaptability, variability and plasticity, which enables such societies
+to survive a change of environment while the more rigid structure of
+the endogamous clan brings about its extermination.
+
+Inbreeding leads to caste formation and a rigid and stratified social
+structure, which is in the end self-destructive, and cannot survive a
+change of environment. The governing caste may, as Reibmayr says,
+favor the growth of culture, but it is usually the culture of that
+caste, and not of the people at large. The ruling caste is usually the
+result of selection of the strongest and ablest, but after it becomes
+a caste, the individuals are selected on account of hereditary social
+position and not primarily on account of ability. Now biological
+experiments show that although artificial selection may be carried to
+a point where animals will breed true to a characteristic to within 90
+per cent, yet if selection is stopped, and the descendants of the
+selected individuals are allowed to breed freely among themselves,
+they will in a very few generations revert to the original type. This
+is what happens in a social caste, unless, as in the case of the
+English aristocracy, it is continually renewed by selection of the
+ablest of the other classes.
+
+The superposition and crossing of cultures, the development of
+secondary civilization, is necessary to social evolution in its
+broadest sense, and this usually involves crossing of blood as well as
+crossing of cultures. As a result of the unprecedented migrations of
+the last half-century we have in the United States the greatest
+variety of social types ever brought so closely together. An
+opportunity is offered either for the perpetuation of each racial type
+by inbreeding, with the prospect of an indefinite stratification of
+society, or for the amalgamation of all cultural and racial elements
+into a homogeneous whole, and the development of a race more versatile
+and adaptable than any the world has yet known. The general tendency
+will undoubtedly be toward amalgamation, but there are decided
+tendencies in the other direction, as for instance in the "first
+families of Virginia," and in that large element of the New England
+population which prides itself upon its exclusively Puritan ancestry,
+and which has inherited from its progenitors that intolerance which
+characterized the early settlers of New England more than the pioneers
+of the other colonies. The dynamic forces of modern civilization are,
+however, opposed to caste--the West has long ago obliterated the
+distinction between the Pennsylvania German and the Puritan, the
+Scotch-Irish and the Knickerbocker Dutch. These same dynamic forces,
+which have prevented the formation of caste have at the same time been
+diminishing the percentage of consanguineous marriage and will
+undoubtedly continue to operate in the same way for some time to come.
+And when rational laws prohibit the marriage of the diseased and the
+degenerate, the problem of consanguineous marriage will cease to be of
+vital importance.
+
+
+BIBLIOGRAPHY.
+
+Barr, M.W. _Mental Defectives._ Philadelphia, 1904.
+
+Bell, A.G. _Marriage--An Address to the Deaf._ Second Edition.
+  Washington, 1891.
+
+  _Memoir upon the Formation of a Deaf Variety of the Human Race._
+  Washington, 1884.
+
+Bemiss, S.M. "Report on the Influence of Marriages of Consanguinity
+  upon Offspring." In _Transactions of the American Medical
+  Association_, vol. xi, 1858, pp. 319-425.
+
+Boudin, J.C.M.F.J. "Du Croisement des families, des races et de
+  espèces." In _Memoires de la Société d'Anthropologie_, vol. i.
+  Paris, 1860-1863.
+
+Child, G.W. "On Marriages of Consanguinity." _In Medico-Chirurgical
+  Review_, Apr. 1862, pp. 461-471. London.
+
+Dally, E. "Rapport sur les mariages consanguins." In _Bulletins de la
+  Société d'Anthropologie_. Paris, 1877.
+
+  "Recherches sur les mariages consanguins et sur les races pures." In
+  _Bulletins de la Société d'Anthropologie._ Paris, 1863.
+
+Darwin, G.H. "Marriages of First Cousins in England and Their
+  Effects." In _Journal of the Statistical Society of London_, vol.
+  38. London, 1875.
+
+Dean, L.W. _The Influence of Consanguinity on the Organs of Special
+  Sense_. Chicago, 1903.
+
+De Lapouge, G.V. _Les Selections Sociales._ Paris, 1896.
+
+Dugdale, R.L. _Jukes: a Study in Crime, Pauperism, Disease and
+  Heredity._ New York, 1877.
+
+Duesing, C. "Das Geschlechtsverhaeltnis der Geburten in Preussen." In
+  _Staatswissenschaftliche Studien_, vol. iii, pp. 373-454. Jena,
+  1890.
+
+  _Die Regulierung des Geschlechtsverhaeltnisses bei der Vermehrung
+  der Menschen, Tiere und Pflanzen._ Jena, 1884.
+
+Fay, E.A. _Marriages of the Deaf in America._ Washington, Volta
+  Bureau, 1898.
+
+Feer, E. _Der Einfluss der Blutsverwandschaft der Eltern auf die
+  Kinder._ Berlin, 1907.
+
+Goehlert. _Ueber die Vererbung der Haarfarben bei dén Pferden._ Quoted
+  by Duesing and Westermarck.
+
+Howard, G.E. _History of Matrimonial Institutions._ Chicago, 1904.
+
+Huth, A.H. "Consanguineous Marriage and Deaf-mutism." In _The Lancet_.
+  London, Feb. 10, 1900.
+
+  _Marriage of Near Kin._ Second Edition. London, 1887.
+
+Ireland, Census of. General Reports for 1861, 1871, 1881, 1891, and
+  1901.
+
+Joerger. "Die Familie Zero." Reviewed by Gertrude C. Davenport in the
+  _American Journal of Sociology._ Chicago, Nov. 1907.
+
+Lewis, C.J. and J.N. _Natality and Fecundity._ London, 1906.
+
+Luckock, H.M. _History of Marriage._ London, 1894.
+
+McCulloch, O.C. _Tribe of Ishmael: a Study in Social Degradation._
+  Indianapolis, 1888.
+
+Maine, H.S. _Early Law and Custom._ London, 1883.
+
+Mayet, P. _Verwandtenehe und Statistik._ Berlin, 1903. Quoted by Feer.
+
+Mayo-Smith, R. _Statistics and Sociology._ New York, 1895.
+
+Montegazza, P. _Studj sui Matrimonj Consanguinei._ Milan, 1868. Quoted
+  by Darwin.
+
+Mulhall, M.G. _Dictionary of Statistics._ London, 1892.
+
+New York, _Names of Persons for whom Marriage Licenses were Issued by
+  the Secretary of the Province of New York Previous to 1784._ Albany,
+  1860.
+
+Pastor, L.M. "De los Matrimonies entre Parientes." In _Memorias de la
+  Real Academia de Ciencias Morales y Políticas_, vol. ii, pp.
+  369-400. Madrid, 1867.
+
+Pearson, K. "Law of Ancestral Heredity." In _Biometrika_, vol. ii, pp.
+  211-228. Cambridge (Eng.), 1903.
+
+  "Mathematical Contributions to the Theory of Evolution--On the Law of
+  Reversion." In _Proceedings of the Royal Society_, vol. 66, pp.
+  140-164. London, 1900.
+
+  _The Grammar of Science._ London, 1900.
+
+  "On the Laws of Inheritance in Man. Part II." In _Biometrika_, vol.
+  iii, pp. 131-190. Cambridge, 1904.
+
+Pearson, K., and A. Lee. "Mathematical Contributions to the Theory of
+  Evolution. VIII." In _Philosophical Transactions of the Royal
+  Society_, vol. 195 A, pp. 79-150. London, 1901.
+
+  "On the Laws of Inheritance in Man." In _Biometrika_, vol. ii, pp.
+  357-462. Cambridge, 1903.
+
+Raseri, E. "Sur le nombre des consanguins dans un groupe de
+  population." In _Archives italiennes de Biologie_, vol. 33, pp.
+  230-241. 1900.
+
+Reibmayr, A. _Insucht und Vermisching beim Menschen._ Leipzig, 1897.
+
+Schuster, E. "On Hereditary Deafness." In _Biometrika_, vol. iv, pp.
+  465-482. Cambridge, 1906.
+
+Shattuck, L. _Memorials of the Descendants of William Shattuck._
+  Boston, 1855.
+
+Thomas, W.I. _Sex and Society._ Chicago, 1907.
+
+Uchermann. _Les Sourds-muets en Norvège._ Christiana, 1901. Quoted by
+  Feer.
+
+United States, Twelfth Census. _Special Report on the Blind and the
+  Deaf_. Washington, 1906. _Vital Statistics_. Part I.
+
+Ward, L.F. _Pure Sociology._ Second Edition. New York, 1907.
+
+Webster, N. "Explanation of the Reezons why Marriage iz Prohibited
+  between Natural Relations." In _Collection of Essays and Fugitiv
+  Writings on Moral, Historical, Political and Religious Subjects._
+  Boston, 1790.
+
+Westermarck, E. _History of Human Marriage._ London, 1894.
+
+Woods, F.A. _Mental and Moral Heredity in Royalty._ New York, 1906.
+
+
+GENEALOGIES CONSULTED.
+
+       *       *       *       *       *
+
+Family.     Author.                Place and Date of Publication.
+-----------------------------------------------------------------
+Augur,      E.P. Augur,            Middletown, Conn. 1904.
+Banta,      T.M. Banta,            New York, 1893.
+Bent,       A.H. Bent,             Boston, 1900.
+Bolton,     H.C. and R.P. Bolton,  New York, 1895.
+Champion,   F.B. Trowbridge,       New Haven, 1891.
+Dewey,      L.M. Dewey,            Westfield, Mass., 1898.
+Faxon,      G.L. Faxon,            Springfield, Mass., 1880.
+Foster,     F.C. Pierce,           Chicago, 1899.
+Gates,      C.O. Gates,            New York, 1898.
+Giddings,   M.S. Giddings,         Hartford, 1882.
+Goodwin,    J.J. Goodwin,          Hartford, 1891.
+Hurlbut,    H.H. Hurlbut,          Albany, 1888.
+Kneeland,   S.F. Kneeland,         New York, 1897.
+Lee,        E.J. Lee,              Philadelphia, 1895.
+Mather,     H.E. Mather,           Hartford, 1890.
+Mead,       S.P. Mead,             New York, 1901.
+Potts,      T.M. Potts,            Canonsburg, Pa., 1901.
+Shattuck,   L. Shattuck            Boston, 1855.
+Tenney,     M.J. Tenney,           Boston, 1891.
+Udall,      G.B.L. Arner,          In _Genealogical Exchange_,
+                                     Buffalo 1904-5.
+Varnum,     J.M. Varnum,           Boston, 1907.
+Wood,       C.W. Holmes,           Elmira, 1901.

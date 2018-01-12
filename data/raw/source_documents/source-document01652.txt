@@ -1,0 +1,807 @@
+﻿    But as the first step is COLLECTION--and that step is the one in which
+    the SOCIETY OF ANTIQUARIES can best move, we trust that the present
+    year, in which this Society celebrates the centenary of its chartered
+    existence, will be signalised by its promotion of such a Record of
+    Existing Monuments as is here proposed; which cannot be otherwise
+    regarded--(and we use the words of the Society's Charter)--than as
+    "good, useful, honest, and necessary for the encouragement,
+    advancement, and furtherance of the study and knowledge of Antiquities
+    and the History of this Country."
+
+       *       *       *       *       *
+
+
+Notes
+
+ILLUSTRATIONS OF CHAUCER, NO. IV.
+
+_The Pilgrimage to Canterbury._
+
+ "Whanne that April with his shoures sote
+  The droughte of March hath perced to the rote,
+  And bathed every veine in swiche licour
+  Of which vertue engendred is the flour;
+  When Zephyrus eke with his sote brethe
+  Enspired hath in every holt and hethe
+  The tendre croppes--and the yonge Sonne
+  Hath in the Ram his halfe cours yronne;
+      *    *    *    *
+  Than longen folk to gon on pilgrimages--
+      *    *    *    *
+      *    *    *    *
+  Befelle, that in that seson, on a day."--_Prologue._
+
+I quote these lines because I wish to show that Tyrwhitt, in taking them as
+indicative of the very day on which the journey to Canterbury was
+performed, committed a great mistake.
+
+The whole of the opening of the prologue, down to the line last quoted, is
+descriptive, not of any particular day, but of the usual season of
+pilgrimages; and Chaucer himself plainly declares, by the words "in _that_
+seson, on _a_ day"--that the day is _as yet_ indefinite. {316}
+
+But because Tyrwhitt, who, although an excellent literary critic, was by no
+means an acute reader of his author's meaning, was incapable of
+appreciating the admirable combination of physical facts by which Chaucer
+has not only identified the real day of the pilgrimage, but has placed it,
+as it were, beyond the danger of alteration by any possible corruption in
+the text, he set aside these physical facts altogether, and took in lieu of
+them the seventh and eighth lines of the prologue quoted above, which, I
+contend, Chaucer did not intend to bear any reference to the day of the
+journey itself, but only to the general season in which it was undertaken.
+
+But Tyrwhitt, having seized upon a favourite idea, seems to have been
+determined to carry it through, at any cost, even at that of altering the
+text from "_the Ram_" into "_the Bull_:" and I fear that he can scarcely be
+acquitted of unfair and intentional misquotation of Chaucer's words, by
+transposing "his halfe cours" into "half his course," which is by no means
+an equivalent expression. Here are his own words:
+
+    "When he (Chaucer) tells us that 'the shoures of April had _perced to
+    the rote_ the drought of March' (ver. 1, 2.), we must suppose, in order
+    to allow due time for such an operation, that April was far advanced;
+    while, on the other hand, the place of the sun, 'having just run _half
+    his course in the Ram_' (ver. 7, 8.), restrains us to some day in the
+    very latter end of March. This difficulty may, and, I think, should, be
+    removed by reading in ver. 8. the BULL, instead of the RAM. All the
+    parts of the description will then be consistent with themselves, and
+    with another passage (ver. 4425.), where, in the best MSS., the _eighte
+    and twenty_ day of April is named as the day of the journey to
+    Canterbury."--_Introductory Discourse._
+
+Accordingly, Mr. Tyrwhitt did not hesitate to adopt in his text the
+twenty-eighth of April as the true date, without stopping to examine
+whether that day would, or would not, be consistent with the subsequent
+phenomena related by Chaucer.
+
+Notwithstanding Tyrwhitt's assertion of a difficulty only removable by
+changing the Ram into the Bull, there are no less than two ways of
+understanding the seventh and eighth lines of the prologue so as to be
+perfectly in accordance with the rest of the description. One of these
+would be to suppose the sign Aries divided into two portions (not
+necessarily _equal_ in the phraseology of the time), one of which would
+appertain to March, anal the other to April--and that Chaucer, by the
+"halfe cours yronne," meant the _last_, or _the April_, half of the sign
+Aries. But I think a more probable supposition still would be to imagine
+the month of April, of which Chaucer was speaking, to be divided into two
+"halfe cours," in one of which the sun would be in Aries, and in the other
+in Taurus; and that when Chaucer says that "the yonge Sonne had in the Ram
+his halfe cours yronne," he meant that the _Aries half of the month of
+April_ had been run through, thereby indicating _in general terms_ some
+time approaching to the middle of April.
+
+Both methods of explaining the phrase lead eventually to the same result,
+which is also identical with the interpretation of Chaucer's own
+contemporaries, as appears in its imitation by Lydgate in the opening of
+his "Story of Thebes:"
+
+ "Whan bright Phebus passed was the Ram,
+  Midde of Aprill, and into the Bull came."
+
+And it is by no means the least remarkable instance of want of perception
+in Tyrwhitt, that he actually cites these two lines of Lydgate's _as
+corroborative of his own interpretation_, which places the sun _in the
+middle of Taurus_.
+
+I enter into this explanation, not that I think it necessary to examine too
+curiously into the consistency of an expression which evidently was
+intended only in a general sense, but that the groundlessness of Tyrwhitt's
+alleged necessity for the alteration of "the Ram" into "the Bull" might
+more clearly appear.
+
+I have said that Tyrwhitt was not a competent critic of Chaucer's practical
+science, and I may perhaps be expected to point out some other instance of
+his failure in that respect than is afforded by the subject itself. This I
+may do by reference to a passage in "The Marchante's Tale," which evinces a
+remarkable want of perception not only in Tyrwhitt, but in all the editors
+of Chaucer that I have had an opportunity of consulting.
+
+The morning of the garden scene is said in the text to be "er that dayes
+eight were passed of the month of _Juil_"--but, a little further on, the
+same day is thus described:
+
+ "Bright was the day and blew the firmament,
+  Phebus of gold his stremes doun hath sent
+  To gladen every flour with his warmnesse;
+  He was that time in Geminis, I gesse,
+  But litel fro his declination
+  In Cancer."
+
+How is it possible that any person could read these lines and not be struck
+at once with the fact that they refer to the 8th of _June_ and not to the
+8th of _July_? The sun would leave Gemini and enter Cancer on the 12th of
+June; Chaucer was describing the 8th, and with his usual accuracy he places
+the sun "but litel fro" _the summer solstice_!
+
+Since "Juil" is an error common perhaps to all previous editions, Tyrwhitt
+might have been excused for repeating it, if he had been satisfied with
+only that: but he must signalise _his edition_ by inserting in the Glossary
+attached to it--"JUIL, _the month of July_," referring, as the sole {317}
+authority for the word, to this very line in question of "The Marchante's
+Tale!"
+
+Nor does the proof, against him in particular, end even there; he further
+shows that his attention must have been especially drawn to this garden
+scene by his assertion that Pluto and Proserpine were the prototypes of
+Oberon and Titania; and yet he failed to notice a circumstance that would
+have added some degree of plausibility to the comparison, namely, that
+Chaucer's, as well as Shakspeare's, was a _Midsummer Dream_.
+
+It is, perhaps, only justice to Urry to state that _he_ appears to have
+been aware of the error that would arise from attributing such a situation
+of the sun to the month of July. The manner in which the lines are printed
+in _his_ edition is this:--
+
+                 "ere the dayis eight
+  Were passid, er' the month July befill."
+
+It is just possible to twist the meaning of this into _the eighth of the
+Kalends of July_, by which the blunder would be in some degree lessened;
+but such a reading would be as foreign to Chaucer's astronomy as the lines
+themselves are to his poetry.
+
+A. E. B.
+
+Leeds, April 8. 1851.
+
+       *       *       *       *       *
+
+THE ACADEMIES OF SIR FRANCIS KYNASTON AND SIR BALTHAZAR GERBIER.
+
+Among the many interesting associations connected with old Covent Garden
+and its neighbourhood, we ought not to overlook Sir Francis Kynaston's
+"Museum Minervæ."
+
+In the year 1635, King Charles the First granted his letters patent to Sir
+Francis Kynaston, "Esquire of the body to his Majesty," whereby a house in
+Covent Garden, which Sir Francis had purchased, and furnished with books,
+manuscripts, musical and mathematical instruments, paintings, statues,
+antiques, &c., was appropriated for ever as a college for the education of
+the young, nobility, and others, under the name of the "Museum Minervæ."
+Sir Francis Kynaston was made the governor with the title of "regent;"
+Edward May, Thomas Hunt, Nicholas Phiske, John Spidell, Walter Salter,
+Michael Mason, fellows and professors of philosophy and medicine, music,
+astronomy, geometry, languages, &c. They had power to elect professors also
+of horsemanship, dancing, painting, engraving, &c.; were made a body
+corporate, were permitted to use a common seal, and to possess goods and
+lands in mortmain. (Pat. 11 Car. pt. 8. No. 14.) In the following year,
+1636, was published, dedicated to the "Regent and Professors," _The
+Constitutions of the Museum Minervæ; giving an Account of an Academy for
+teaching chiefly Navigation, Riding, Fortification, Architecture, Painting,
+and other useful Accomplishments_.
+
+The "Museum" seems to have been highly patronised, for we find that on the
+27th February, 1635 (the year of its foundation), Prince Charles, the Duke
+of York, and the Lady Mary their sister, honoured it with their presence to
+witness a masque, entitled "Corona Minervæ," which was written and prepared
+for the occasion by Sir Francis Kynaston. This masque was, I believe,
+printed in the year of its production, but I do not find it mentioned in
+the last edition of the _Biographia Dramatica_.
+
+Mr. Cunningham, in his _Handbook of London_, mentions (p. 42.) that
+
+    "Sir Francis Kynaston, the poet, was living in Covent Garden in 1636,
+    on the east side of the street towards Berrie" (Bedfordbury).
+
+And again, in his notice of Bedford Street (p. 44.), he says, Sir Francis
+resided "on the west side in 1637." Both these entries refer to the same
+residence--a noble mansion, built in the year 1594, which, after being
+inhabited by several important families, finally passed into the possession
+of Sir Francis Kynaston, who altered and adapted it (rebuilding some
+portions) as the college of the "Museum Minervæ." The ground plan, which is
+now before me, exhibits a well-arranged and commodious building with two
+fronts, one in what is now Bedfordbury, and the other (probably added by
+Sir Francis) in the street now called Bedford Street. The building, when
+Sir Francis Kynaston purchased it in 1634, stood in the centre of a large
+garden. The surrounding streets,--King Street, New Street, Bedford Street,
+Chandos Street, Henrietta Street, and Bedfordbury, were not commenced
+building until the year 1637.
+
+The "Museum Minervæ" is not named in Mr. Cunningham's excellent _Handbook_;
+but when we take into consideration the enormous amount of information
+required for a work of the kind, we ought not to blame the author for a few
+trifling omissions.
+
+Sir Balthazar Gerbier, an enterprising projector of the same century, by
+profession a painter and an architect, but now scarcely remembered as
+either, seems to have imitated the "Museum Minervæ" in an academy opened at
+Bethnal Green in 1649. Here, in addition to the more common branches of
+education, he professed to teach astronomy, navigation, architecture,
+perspective, drawing, limning, engraving, fortification, fireworks,
+military discipline, the art of well speaking and civil conversation,
+history, constitutions and maxims of state, and particular dispositions of
+nations, "riding the great horse," &c. Once in each week, at three o'clock
+in the afternoon, Sir Balthazar gave a public lecture gratis on the various
+sciences. The lectures were {318} generally advertised in the _Perfect
+Diurnal_, and a few curious specimens of these advertisements may be seen
+in Lysons' _Environs of London_, ed. 1795, vol. ii. p. 30.
+
+Balthazar Gerbier was born at Antwerp about 1591, came young into England,
+and was a retainer of the Duke of Buckingham as early as 1613. Upon the
+accession of Charles the First, he was employed in Flanders to negociate
+privately a treaty with Spain. In 1628 he was knighted at Hampton Court;
+and, as he says himself in one of his books, was promised by the king the
+office of surveyor-general of the works, after the death of Inigo Jones. In
+1637 he was employed in some private transactions of state; and on the 13th
+of July, 1641, he took the oaths of allegiance and supremacy, having a bill
+of naturalisation. In 1648 he appears to have projected the above-named
+academy, the failure of which very soon happened. Sir Balthazar then went
+to America, where he seems to have been very ill treated by the Dutch, and
+narrowly escaped with his life. He afterwards returned to England, and
+designed the triumphal arch for the reception of Charles the Second. He
+died at Hempsted-marshal, in 1667, whilst engaged in superintending the
+mansion of Lord Craven, and was buried in the chancel of that church.
+
+In conclusion, it may be as well to mention, that, prior to the
+establishment of the "Museum Minervæ," a committee had been appointed in
+the House of Lords, consisting of the Duke of Buckingham and others, for
+taking into consideration the state of the public schools, and method of
+education. What progress was made in this inquiry is not known, but in all
+probability the academies of Sir Francis Kynaston and Sir Balthazar Gerbier
+owed their origin to the meetings of this committee.
+
+EDWARD F. RIMBAULT.
+
+       *       *       *       *       *
+
+SHAKSPEARE AND FLETCHER.
+
+I feel greatly obliged to your correspondent C. B. for the attention he has
+bestowed on the question of Fletcher's connexion with _Henry VIII._, as it
+is only through the concurrent judgments of those who think the subject
+worthy of their full and impartial consideration, that we can hope to
+arrive at the truth. His remarks (Vol. iii., p. 190.) are the more
+valuable, as they coincide with a doubt in my own mind, which has, to a
+great extent, ripened since I last communicated with you on the subject;
+and, indeed, I have no need to hesitate in saying, that I had more
+difficulty in coming to a conclusion with regard to the scene (Act III. Sc.
+2.) in which the passages occur quoted by C. B., than with any other scene
+in the whole play. The suggestions, that Shakspeare might have touched
+scenes of which the mass had been written by Fletcher, is a point which I
+had not overlooked, and which indeed, to some extent, might be said to
+follow from the view I took of the relation of Shakspeare and Fletcher as
+master and scholar. Yet this suggestion is especially valuable regarding
+this scene, and may account for that which, without it, is not so easily
+explained.
+
+If, however, there be any lurking notion in your correspondent's mind, that
+the scene in _Antony and Cleopatra_ (Act III. Sc. 1) referred to by X. Z.
+(Vol. iii., p. 139.) is, judging from certain coincidences of expression,
+an interpolation, and not by Shakspeare, I beg at once to be allowed to
+express my total dissent from such a view. Whether, also, there may have
+been any secondary allusion to some known event of the day, as X. Z.
+supposes, and as is by no means improbable, I cannot say; but I protest
+against its being said that the scene referred to is "totally unconnected
+with what goes before, and what follows." Antony is the hero of the play;
+and this scene shows the culminating point of Antony's fortunes, when his
+very successes turn against him.
+
+To return to _Henry VIII._, the compliment to the Queen, to which your
+correspondent refers, is, as he very justly observes, brought in in a very
+forced manner. This, to my mind, is very strong evidence; otherwise I
+should not think it unworthy of Shakspeare. And it still has to be borne in
+mind, that he would have had to accommodate his characters and
+circumstances to the views of another writer. Shakspeare's spirit was too
+catholic, too universal, to have allowed, in a work entirely his own, even
+his Wolsey to have made use of the term "a spleeny Lutheran;" yet neither
+in the passage in which this expression occurs, nor in the one above
+referred to, is the versification characteristic of Fletcher. For my own
+part, however, I cannot recognise Shakspeare's spirit in this antagonism of
+creeds, which is, perhaps, even more strongly displayed in the prophetic
+speech of Cranmer's in the last scene, wherein he says, "God shall be truly
+known!" It may be said, that in both these instances the expressions are
+true to the characters of Wolsey and Cranmer. It may be so; for both are
+wanting in that ideal elevation which Shakspeare never fails to give. That,
+with this reservation, he becomes the mouth-piece of each character, is
+most true; and a curious instance of the writer's utter forgetfulness of
+his assumed character of contemporary with the events he is relating,
+occurring in Act. IV. Sc. 2 where Griffiths says--
+
+ "He was most princely: ever witness for him
+  Those twins of learning, that he rais'd in you,
+  Ipswich and Oxford! _one of which fell with him_,
+  Unwilling to outlive the good that did it;
+  The other, though unfinish'd, yet so famous,
+  So excellent in art, _and still so rising_,"--
+
+{319} has no parallel in Shakspeare's works. To John Fletcher, indeed, at
+the close of the reign of Queen Elizabeth, these things were known; but
+scarcely to the attendant of Queen Katherine, who has but just narrated the
+circumstances, then newly happened, of Wolsey's fall. On maturer
+consideration, then, I am inclined to think that the whole of the scene
+(Act III. Sc. 2.) to which your correspondent refers, was originally
+written by Fletcher, although, as it now stands, it is strongly marked by
+the hand of Shakspeare. In the same category, also, I am inclined to place
+Scenes 3. and 4. of Act II. It will be observed that these changes are not
+inconsistent with the view I had previously taken; the effect being merely,
+that I am inclined to ascribe a little more than in the first instance to
+the hitherto unsuspected participator in the work. I am not sure, too, that
+I shall not be coming nearer to MR. SPEDDING; as, if I am not mistaken, it
+is in some of these scenes that he imagines he detects "a third hand;" a
+theory which, though I do not adopt, I certainly have not confidence enough
+to reject altogether. But this view affects so very small a portion of the
+play, that it is of very little consequence.
+
+SAMUEL HICKSON.
+
+       *       *       *       *       *
+
+ILLUSTRATIONS OF TENNYSON.
+
+That great poets are sometimes obscure, needs no proof. That the greatest
+poets will necessarily be so to the ordinary reader, seems to me equally
+indisputable.
+
+Not without effort can one enter into the spontaneous thought of another,
+or even of himself in another mood. How much more when that other is
+distinguished from his fellows by the _greatness_ and _singularity_ of his
+thoughts, and by the extreme subtilty of their connecting links. Obscurity
+is not a blemish but an excellence, if the pains of seeking are more than
+compensated by the pleasures of finding, the luxury of [Greek: mathêsis],
+where the concentrated energy of a passage, when once understood, gives it
+a hold on the imagination and memory such as were ill sacrificed to more
+diluted clearness.
+
+_Grandis præfatio tenui incepto_--a sort of apology to Tennyson for
+implying that he needs illustration. Some time ago I made a few notes on
+particular passages in _Locksley Hall_, which I now enclose. Some of them
+are, I dare say, superfluous--some, possibly, erroneous. If so, they will
+stand a fair chance of being corrected in your valuable publication.
+
+By the bye, if a "NOTES AND QUERIES" had existed in the days of Æschylus,
+we might have been saved from many a recourse to "corrupt text" and "lacunæ
+admodum deflendæ."
+
+_Notes on Locksley Hall._
+
+Stanza 2. "Dreary gleams:" in apposition with "curlews." I know the
+construction of this line has puzzled a good many readers.
+
+Stanza 23. "Yet it shall be." Yet "decline" thou certainly wilt.
+
+Stanza 28. "He will answer," &c. With an oath, it may be--at the least with
+a coarse rebuff.
+
+Stanza 29. "The heart's disgrace." The disgrace, the injury, and
+degradation the heart has suffered--its prostitution to a mercenary service
+by a marriage of interest.
+
+Stanza 34. "Never." Alas! I never can.
+
+Stanza 35. "In division of the records of the mind." In dividing my
+recollections of her into two groups, and erasing the one.
+
+Stanza 38. "The poet is" (as I think has been already pointed out) Dante.
+
+Stanza 40. "He hunts," &c. He--thy husband.
+
+Stanza 42. "Never, never," &c. Never again! (joys never to return) sung by
+the ghosts of years departed.
+
+Stanza 51. "I have but an angry fancy"--my only _qualification_.
+
+Stanza 53. "But the jingling of the guinea," &c. But there is no fighting
+now: the nations get over their quarrels in another way--by the jingling of
+the guinea, instead of the clang of arms.
+
+Stanzas 54. "Mother-age."; 93. "Mother-age, for mine I know not."
+
+This mother-age is a great difficulty. At first I took it for _the past of
+history_, but now understand by it _the past of his own life_, at least its
+earliest and brightest period--that age which had been as a mother, the
+only mother he ever knew.
+
+Stanza 70. "Youthful joys." The bright hopes of his youth. (?)
+
+Stanza 75. "Blinder motions," Less rational, less well-guided emotions.
+
+Stanza 91. "The distance." The distant future, the "good time coming."
+
+There are some lines in _In Memoriam_ (I have not the book at hand, but any
+reader thereof will instantly recollect them), which indicate Tennyson's
+acquaintance with and appreciation of Jeremy Taylor, who thus expresses the
+thoughts of the "wild fellow in Petronius," suggested by the sight of a
+floating corpse.
+
+    "That peradventure this man's wife, in some part of the Continent, safe
+    and warm, looks next month for the good man's return or, it may be, his
+    son knows nothing of the tempest: or his father thinks of that
+    affectionate kiss which is still warm upon the good old man's cheek
+    ever since he took a kind farewell; and he weeps with joy to think how
+    blessed he shall be when his beloved boy returns into the circle of his
+    father's arms."--_Holy Dying._
+
+Compare with "Sure never moon to evening," &c., in the same poem, and I
+think the same place: {320}
+
+ "Nec nox ulla diem, neque noctem aurora secuta est,
+  Quæ non audierit mistos vagitibus ægris
+  Ploratus mortis comites, et funeris atri."--_Lucretius_, ii. 579.
+
+G. P.
+
+       *       *       *       *       *
+
+FOLK LORE.
+
+_Sacramental Wine_ (Vol. iii., p. 179.).--From a note by MR. ALBERT WAY, on
+the use of sacramental wine, one would be led to infer that it was
+recommended on account of some superstitious belief in its superior
+excellency from having been used in religious worship; but I would suggest
+that the same reasons which recommend Teynt wine, the kind generally used
+for the Sacrament, are those which have established for it a reputation in
+cases of sickness: these are its rich red colour, and sweet and agreeable
+flavour.
+
+Weakness is popularly supposed to be caused by a thinness and want of
+blood; if wine be recommended for this, there is a deeply rooted prejudice
+in favour of red wine because the blood is red, and upon no better
+principle than that which prescribes the yellow bark of the barberry for
+the yellow state of jaundice; the nettle, for the nettle-rash; and the
+navel-wort (_Cotyledon umbilicus_), for weakness about the umbilical
+region. The truth is, that rustic practice is much influenced by the
+doctrine of similitudes, the principle of "_similia similibus curantur_"
+having been more extensively recognised in the olden time than since the
+days of Hahnemann.
+
+The sweetness of Teynt wine would recommend it for children, to whom a
+stronger wine is generally distasteful; but Port is generally prescribed as
+a tonic for adults.
+
+It may further be remarked, that the recommendation to give Sacramental
+wine might arise from the fact, that, as in some parishes more wine is
+provided than is required, the remainder is put by to be given to the poor
+who may require it at the hands of the clergyman.
+
+In sending these remarks, I am led to request that your correspondents
+would make Notes upon such old wives' remedies as are employed upon the
+principles I have mentioned.
+
+JAMES BUCKMAN.
+
+Cirencester, April 12.
+
+_Cure of Disease by means of Sheep._--A child in my parish has been for
+some time afflicted with disease of some of the respiratory organs. The
+mother was recommended to have it carried through a flock of sheep as they
+were let out of the fold in the morning. The time was considered to be of
+importance.
+
+[Hebrew: B].
+
+L---- Rectory, Somerset.
+
+       *       *       *       *       *
+
+ANCIENT INEDITED BALLADS, NO. IV.
+
+I next transcribe the following lines from the same MS. as my last. It is
+another epitaph on the Mr. Browne that I mentioned in No. II. It contains a
+curious illustration of a passage in Shakspeare, which has been often
+debated in the pages of "NOTES AND QUERIES," and so deserves preservation.
+
+    "Vpon the death of that right worthye man, MR. BROWNE, late of Caius
+    and Gonville Colledge disceased. Epicedion."--(_Harl. MSS._, No. 367.
+    fol. 155.)
+
+ "If vowes or teares from heartes or eyes,
+  Could pearce the unpenitrable skyes,
+  Then might he live, that now heere lyes.
+
+  But teares are tonguelesse, vowes are vaine,
+  T' recall what fate calls; els how faine                       5
+  What death hath seis'd, wold I regaine.
+
+  But sure th' immortal one belaves
+  This wished soule in 's blissfull waves:
+  Ill comes too oft, when no man craves.
+
+  Rest, therefore, vrne, rest quietlye,                         10
+  And when my fates shall call on me,
+  So may I rest, as I wish the.
+                     "R. CONSTABLE,
+                          Caio-Gonvillensis."
+
+I need hardly point out the striking similarity between the expression in
+Shakspeare--
+
+                 "and the delighted spirit
+  To bathe in fiery floods,"--
+
+and the third stanza of this poem.
+
+KENNETH R. H. MACKENZIE.
+
+       *       *       *       *       *
+
+POETICAL COINCIDENCES, ETC.
+
+_Byron._
+
+In the _Jealous Lovers_ of Thomas Randolph, the following passage occurs,
+which may possibly have suggested to Lord Byron the fearful curse he has
+put into the mouth of Eve, in "the grand and tremendous drama of
+_Cain_."[1]
+
+                 "May perpetual jealousie
+  Wait on their beds, and poison their embraces
+  With just suspitions; may their children be
+  Deform'd, and fright the mother at the birth:
+  May they live long and wretched; all men's hate,
+  And yet have misery enough for pity:
+  May they be long a-dying--of diseases
+  Painful and loathsome," &c.
+
+That exquisite stanza in the Third Canto of _Childe Harold_, "Even as a
+broken mirror," &c., has been often admired. In Carew's poem, _The Spark_,
+I find the following lines, which contain similar image:
+
+{321}
+
+ "And as a looking-glass, from the aspect,
+  Whilst it is whole, doth but one face reflect,
+  But being crack'd, or broken, there are shown
+  Many half faces, which at first were one;
+  So Love," &c.
+
+To the coincidences which have been already pointed out regarding that
+exquisite line in the _Bride of Abydos_:
+
+ "The mind, the music breathing from her face,"
+
+the following from Carew may perhaps be added:
+
+ "The harmony of colours, features, grace,
+  Resulting airs (the magic of a face)
+  Of musical sweet tunes, all which combin'd,
+  To crown one sovereign beauty, lie confined
+  To this dark vault."--_Epitaph on the Lady S._
+
+All will recollect the wonderful description of the shipwreck in _Don
+Juan_; and more particularly the incidents so graphically related in
+stanzas 52 and 53 of the Second Canto: to a part of which, the following
+passage fro Lee's _Oedipus_ bears some resemblance:
+
+             "Methought I heard a voice,
+  Now roaring like the ocean, when the winds
+  Fight with the waves; now in a still small tone
+  Your dying accents fell, as wrecking ships,
+  After the dreadful yell, sink murm'ring down,
+  And bubble up a noise."
+
+I have now before me a print of John, the first Lord Byron, engraved from a
+painting in the collection of Lord Delaware; in which he is pourtrayed in
+armour, with a truncheon in the left hand, and the _right arm bare_ to
+above the elbow. Can this have suggested to Lord Byron the idea of
+describing "Alp the renegade" as fighting with "the white arm bare," in the
+_Siege of Corinth_?
+
+Byron refers to Smollett as an authority for "blatant beast," apparently
+forgetting that the figure originated with Spenser. Again, in a note to
+_Don Juan_ respecting his use of the phrase "reformadoes," he remarks:
+
+    "The Baron Bradwardine, in _Waverley_, is authority for the word."
+
+It occurs, however, in Ben Jonson, and may be found in Blount's
+_Glossographia_; Phillips's _World of Words_, and other old dictionaries of
+the same period.
+
+T. C. SMITH.
+
+[Footnote 1: Sir Walter Scott.]
+
+       *       *       *       *       *
+
+THE REPUBLIC OF SAN MARINO.
+
+Amidst the Apennines, far removed from the ordinary track of tourists, is
+the diminutive republic of San Marino, which boasts never to have been
+subjugated. Whether it has escaped invasion because it has escaped notice,
+or because burglars never attack an empty cottage, is a point which I shall
+not stop to discuss. Few travellers visit it, but the trouble of doing so
+would be amply repaid. The situation is highly romantic; and the view from
+the summit of the bold escarpment, upon which the town is perched, extends
+over a wilderness of mountains.
+
+The population of the territory is said not to exceed 6,000 or 7,000 souls.
+Its whole income is derived from a moderate duty on tobacco; and its
+standing army (for it possesses this indispensable incident to political
+independence) is chiefly employed in vain attempts to prevent the evasion
+of that duty.
+
+Among the greatest and most highly esteemed curiosities of the place, is a
+statue of Christ on the cross, with a head of real hair, which is cut twice
+a year, and always grows again! This faculty of reproduction is as
+profitable as it is wonderful; for, besides the resort of pious visitors,
+drawn by the capillary attractions of such a miraculous piece of sculpture,
+the locks that are cut off are stated, by the ecclesiastical functionaries
+in charge of the statue, to be a sure preservative against all harm to the
+wearer, and are of course in request as an article of commerce. My object
+in communicating to you these notes, is to introduce to you a copy, which I
+transcribed myself, of one of the state papers preserved in the archives of
+the republic. It appears to be a letter of encouragement, addressed by the
+Priors and Gonfaloniere of the republic of Florence to that of S. Marino,
+during a siege that the latter was undergoing. Perhaps some of your readers
+may be able to point out the precise occasion that called for the letter.
+
+SYDNEY SMIRKE.
+
+    "Magnifici viri amici ñri car^{mi}, Habbiamo vedato la lettera vi
+    scrive il Governatore, et habbiamo inteso la voluntà dello exercito
+    della Chiesa. Dovete essere di buono animo et stare constanti et fermi:
+    et perdere la vita insieme con la libertà che è meglo allo huomo uso a
+    essere libero, essere morto che essere servo. Iddio a chi piace la
+    libertà vi aiutera difenderai: et noi et la ñra lega non vi manchera:
+    havete inteso le provisioni facte et di denari et di gente ad Arimino;
+    et faremo delle altre tante che saranno abastanza. Valete. Ex palatio
+    ñro die viij. Junij, M.CCCCLXVIIIj.
+
+     "Priores libertatis et }
+      Vexillifer Justitiæ   }  Populi Florentinj.
+
+    "Barth. Scala.
+
+    "Magnificis Viris hominibus terræ S[=a] Marini amicis ñris car^{mis}."
+
+       *       *       *       *       *
+
+ST. FRANCIS.
+
+I think Mrs. Jameson, in her _Legends of the Monastic Orders_, has left
+unnoticed the very remarkable book of the _Conformity of St. Francis's Life
+with that of Jesus Christ_, a work, the blasphemy of which is only equalled
+by its absurdity.
+
+The book was written by Bartholomew of Pisa, a monk of the order, and
+licensed in 1399 by the general of the Minorites.
+
+    "Approbatum est a fr. Henrico ord. frat. Minorum generali ministro et
+    servo et cæteris ministris et diffinitoribus capituli generalis apud
+    Sacrum locum de Assisio die 2 Augusti A.D. 1399."
+
+{322}
+
+The title of the first edition, which is very rare, is as follows:
+
+    "Liber Conformitatum Vitæ S. Francisci ad Vitam Jesu Christi. Authore
+    Fr. Bartholomæo degli Albizzi, ex recens. Fran. Zenonis. Impressum
+    Mediolani per Gotardum Ponticum apud templum Sancti Satyri. Anno
+    M.CCCCCX. die 18 mensis Septembris. In fol. literis quadratis."
+
+The Second edition:
+
+    "Opus aur. et inexplicabilis bonitatis et continentiæ, Conformitatum
+    scilicet vitæ Beati Fr[=a]. ad vit[=a] D[=i]. [=n]ri Jesu x[=p]i.
+    Mediolani, in edibus Zanoti castilionei 1513. in fol. goth."
+
+The third edition, also in folio, appeared at Bologne (1590) as "Liber
+aureus, inscriptus liber Conformitatum, etc., per Hierem Bucchium," with
+some alterations in the text.
+
+Fourth edition:
+
+    "Vita S. Fra[=n]. conf. ad vit. Xti., per S. Bonaventuram Conscriptu ab
+    Henr. Sedulio Co[=m]. illustrata, 4to., Antr. 1597."
+
+Another edition, by Jer. Bacch, in folio, appeared at Bologne in 1620; and
+an abridged edition in octavo, by Phil. Bosquier, at Cologne, under the
+title of _Antiquitates Franciscanæ_, a very good edition of the _Liber
+Conform._, "Et ex Annalibus Madingi collecta per Tibur. Navarrum," was
+published in 4to. at Rome in 1670.
+
+The late Dr. Elrington had a very fine copy of the following French
+translation:--
+
+    "Traite des Conformités du Disciple avec son Maitre, c'est à dire, de
+    Saint François avec J. C., etc., le tout recueilli par un frere mineur
+    récollect. (Valentin Marée.) Liege, 1658-60. 4 part en 3 vol. in 4to."
+
+In 1542 a small volume was put forth, containing choice passages from the
+_Liber Conformitatum_, with a preface and letter to the reader, purporting
+to be from Martin Luther. It was accordingly by many attributed to him; the
+real compiler was Erasmus Alberus. The title of the first edition is
+
+    "Alcoranus Franciscorum, etc., ex libro conformitatum: Francof. 1542,
+    parv. 8vo."
+
+It was reprinted, with a French translation, by Conrad Badius, at Geneva,
+1560 or 1578; so says Brunet.
+
+The best edition of this work was that published at Amsterdam in 1734, in
+two vols. 12 mo., with some capital plates by Picart. The title is--
+
+    "L'Alcoran des Cordeliers, tant en Latin qu'en François; c'est à dire,
+    Recueil des plus notables bourdes et blasphemes de ceux qui ont osé
+    comparer Sainet François à Jesus Christ; tiré du grand livre des
+    _Conformités_, jadis composé par frere Barthelemi de Pise, Cordelier en
+    son vivant. Nouvelle edition, ornée de figures dessinées par B. Picart.
+    A Amsterdam. Aux Defens de la Compagnie. MDCCXXXIV."
+
+Another work, printed the same year, is often found with this:--
+
+    "Legende Dorée, ou Sommaire de l'Histoire des Freres-mendians de
+    l'ordre de Saint François. (Par Nic. Vignier.) Amsterdam, 1734. 12mo.
+    Réimpr. sur l'ed. de Leyde, 1608 in 8vo."
+
+Thomas of Celano, the friend and scholar of St. Francis, and the author of
+the famous _Dies Iræ_, after the saint's death composed a brief account of
+his life, which he afterwards greatly enlarged, and which even now is the
+most authentic we possess. I should be glad to know the best, as well as
+the latest editions of this life.
+
+    "Francis," said Luther, "was no doubt an honest and just man. He little
+    thought that such superstition and unbelief should proceed out of his
+    life."--_Tischreden._
+
+Berington says of St. Francis:
+
+    "In an age of less intemperance in religion, miracles and the fancied
+    intervention of peculiar favours from heaven, would not have been
+    deemed necessary to stamp worth and admiration on a character which in
+    itself possessed the purest excellences that fall to the lot of man.
+    But this circumstance, and more than this, the reception which an
+    institute so peculiarly framed met with, serve to manifest the singular
+    taste of the age."--_Berington's Henry II._, p. 629.
+
+"It is scarcely possible," says Mr. Massingberd, "to read the history of
+St. Francis of Assisi, without believing that there was in him a sincere
+and self-devoted, however ill-directed, piety." We must not let the foolish
+legends afterwards written of him lower him in our estimation, nor cease to
+regard him as a sincere and devoted Christian.
+
+MARICONDA.
+
+       *       *       *       *       *
+
+
+Minor Notes.
+
+_Charles Lamb's Epitaph._--Perhaps the following lines, which I have copied
+from the gravestone of Charles Lamb, who lies in the churchyard at
+Edmonton, may be interesting to those of your readers who are among the
+admirers of the witty and gentle Elia:--
+
+ "Farewell, dear friend; that smile, that harmless mirth,
+  No more shall gladden our domestic hearth;
+  That rising tear, with pain forbid to flow,
+  Better than words, no more assuage our woe;
+  That hand outstretch'd from small but well-earn'd store,
+  Yield succour to the destitute no more.
+
+  Yet art thou not all lost; thro' many an age
+  With sterling sense and humour shall thy page
+  Win many an English bosom, pleased to see
+  That old and happier vein revived in thee.
+  This for our earth, and if with friends we share
+  Our joys in heav'n, we hope to meet thee there."
+
+I have heard it conjectured that the above were written by Wordsworth. I
+shall feel obliged if any of your readers will inform me whether the late
+laureate was the author of them or not?
+
+MARIA S.
+
+Edmonton.
+
+{323}
+

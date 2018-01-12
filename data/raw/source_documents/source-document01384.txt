@@ -1,0 +1,1636 @@
+﻿Produced by Charlene Taylor, La Monte H.P. Yarroll, Taavi
+Kalju and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Volume II, No. 6    Bulletin No. 10
+
+OHIO BIOLOGICAL SURVEY
+
+
+THE ASCOMYCETES OF OHIO IV
+
+THE LECIDEACEAE
+
+By BRUCE FINK
+
+
+THE ASCOMYCETES OF OHIO V
+
+THE PELTIGERACEAE
+
+By LEAFY J. CORRINGTON
+
+
+Published by
+THE OHIO STATE UNIVERSITY
+COLUMBUS,
+1921
+
+
+THE ASCOMYCETES OF OHIO IV[A]
+
+
+The Lecideaceae.
+
+BRUCE FINK.
+
+
+GENERAL CONSIDERATIONS
+
+
+It was stated in the second paper of this series that the disposition of
+the _Lecideaceae_ in an early paper of the series would show what slight
+changes are needed in treating lichens as we treat other ascomycetes. It
+is hoped that this paper has accomplished this in phraseology
+intelligible to those acquainted with the present-day language of
+systematic mycology.
+
+The _Lecideaceae_ form a well-defined family of lichens, the affinities
+of which seem plainly marked. In apothecial structure, and so far as
+known, in structure of the sexual reproductive areas, the family seems
+to be closely related to the mainly non-lichen _Patellariaceae_ and to
+such lichens as the _Gyalectaceae_, the _Lecanactidaceae_, the
+_Collemaceae_, the _Baeomycetaceae_, and the _Cladoniaceae_.
+
+Following the commonly-accepted theory that the lichens have been
+evolved from non-algicolous fungi, the origin of the _Lecideaceae_ and
+related lichens from _Patellaria_-like ancestors is a reasonable
+supposition, though the relative rank of the various related families
+named in the last paragraph is not easy to decide. Within the
+_Lecideaceae_, the line of evolution seems to have been in the direction
+of a well-developed exciple and from simpler to more complex spores.
+With the advance in these two directions has gone a slightly increased
+development of the thallus.
+
+In structure, the thallus is crustose, and the thalli vary from
+inconspicuous, evanescent conditions to those which are conspicuous and
+sometimes even subsquamulous. Rarely the thallus extends upward as a
+veil which surrounds the apothecia laterally and suggests how the
+thalloid exciple of higher families probably arose. As usual in crustose
+forms, the thalli are composed of hyphae which are densely disposed
+toward the upper, exposed surface and more loosely disposed toward the
+lower surface (Fig. 2).
+
+The apothecial evolution passes from forms with weak, light-colored
+exciples and soft texture (Fig. 10) to those with strong, dark exciples,
+which are firm in texture (Fig. 11). The superficial apothecial
+characters are so much alike in many of the species that one cannot
+always feel certain even of the genus of unfamiliar forms until he has
+studied them microscopically.
+
+The paraphyses are commonly distinct in young apothecia, but in mature
+apothecia they are usually more or less gelatinized and coherent. In
+some of the species, they become so gelatinized that they form a
+homogeneous mass about the asci, in which the individual paraphyses are
+no longer discernible. When distinct, the paraphyses are sometimes
+branched, most commonly toward their apices (Fig. 1 and 12).
+
+There is great diversity with respect to spore development, the whole
+range of spore structure, from minute, simple, hyaline spores to those
+which are large, brown, and muriform being found within the family
+(Figs. 3, 4, 5, 6, 7, 8, 9, and 13). This condition makes it appear
+quite possible that the family may be polygenetic.
+
+The genus, _Biatorella_, contains non-lichen forms and is probably as a
+whole more closely related to the _Patellariaceae_ than to the
+_Lecidiaceae_. However, our two species, both of which are lichens, are
+herein admitted to the latter family. Through one or more species with
+larger spores than are usually found in this genus, _Biatorella_
+approaches _Lecidea_. Starting with _Lecidea_, we have a natural series
+in spore development with intermediate conditions difficult to place.
+The series runs thus: _Lecidea_ with simple hyaline spores (Fig. 3);
+_Biatorina_ with two-celled, hyaline spores (Fig. 4); _Bilimbia_ with
+several-celled, hyaline spores, not much narrowed (Fig. 5); and
+_Bacidia_ with several-celled, hyaline, acicular spores (Fig. 6).
+_Buellia_ and _Rhizocarpon_ are aberrant genera, brown-spored, and
+closely related among themselves (Figs. 8, 9, and 13). Through
+_Buellia_, the two genera are related to _Rinodina_ of the
+_Physciaceae_. The two aberrant genera are like other members of the
+_Lecideaceae_ with respect to thallus development and general apothecial
+characters, the aberrancy being with respect to the spores, on which
+account the two genera are placed in another family, the _Buelliaceae_,
+by some workers, perhaps with sufficient reason.
+
+The algal host is _Pleurococcus_-like (Fig. 2, c) in nearly all species
+of the _Lecideaceae_; but the host cells are so hypertrophied and
+distorted that their generic rank is often difficult to ascertain,
+except by cultivation outside of the lichen thallus. The algal-host
+cells are few in number in some of the species and are sometimes absent
+during a portion of the life history of the lichen. The host is usually
+found throughout the superficial portions of the thallus, except near
+the upper surface, from which portion the algae are usually absent,
+except in a dead or dying condition, difficult to detect.
+
+The writer has collected the _Lecideaceae_, with other fungi, in Butler
+County for fifteen years, and has worked for the Ohio Biological Survey
+in Preble, Warren, Highland, Fairfield, Adams, Hocking, and Lake
+counties. Besides these collections made by the writer, a few specimens
+were examined from Champaign, Hamilton, Wayne, Morgan, Madison,
+Muskingum, Franklin, Vinton, and Summit counties. Of the 37 species
+treated in this paper, 24 had not been reported from Ohio previously.
+
+[Footnote A: Contributions from the Botanical Laboratory of Miami
+University.--XVIII]
+
+
+_Systematic Account._
+
+LECIDEACEAE
+
+
+Thallus crustose, without plectenchymatous cortex (Fig. 2, a), varying
+from granulose and often evanescent to conspicuous, areolate, or even
+subsquamulose conditions, attached to the substratum by hyphal rhizoids
+(Fig. 2, d), and in a few instances extending up as a veil and
+surrounding the apothecia laterally, the hyphae densely interwoven
+toward the upper surface, but more loosely disposed below (Fig. 2, a and
+b); apothecia usually minute or small, commonly rounded, the exciple
+weak and obscure (Fig. 10, d), or more strongly developed when
+conspicuous and much darker in color (Fig. 11, b); hypothecium varying
+from hyaline to dark brown (Fig. 10, b and Fig. 11, c); hymenium almost
+always lighter and commonly hyaline (Figs. 10 and 11, a); paraphyses
+usually simple, but branched forms to be found frequently (Figs. 1 and
+12), pale throughout or darkened toward the sometimes enlarged apex,
+commonly more or less coherent and indistinct at maturity; spores simple
+and hyaline to muriform and brown (Figs. 2, 3, 4, 5, 6, 7, 8, 9, and
+13).
+
+
+KEY TO THE GENERA
+
+Spores minute, numerous in each ascus             _Biatorella_, p.
+Spores larger, usually 8 in each ascus,
+  Spores hyaline.
+    Spores one-celled (simple)                       _Lecidea_, p.
+    Spores more than one-celled (compound).
+      Spores 2-celled                              _Biatorina_, p.
+      Spores 4- to several-celled.
+        Spores ellipsoid, fusiform, or dactyloid    _Bilimbia_, p.
+        Spores acicular                              _Bacidia_, p.
+  Spores brown, or becoming brown.
+    Spores 2-celled                                  _Buellia_, p.
+    Spores 4-celled and becoming muriform        _Rhizocarpon_, p.
+
+
+Biatorella De Not. Giorn. Bot. Ital. 21. 192. 1846.
+
+Thallus granulose to verrucose and subareolate, sometimes inconspicuous
+and evanescent; apothecia minute to middle-sized, adnate or more or less
+immersed, exciple usually prominent and persistent, but sometimes
+becoming covered, disk flat to convex; hypothecium and hymenium pale to
+brown; spores simple, hyaline, minute, numerous in each ascus.
+
+
+KEY TO THE SPECIES OF BIATORELLA
+
+The whole apothecium dark colored             1. B. _simplex_
+The disk of the apothecium white-pruinose    2. B. _pruinosa_
+
+
+1. Biatorella simplex (Dav.) Br. & Rostr. Bot. Tidssk. 3: 241 1869.
+
+_Lichen simplex_ Dav. Trans. Linn. Soc. Lond. 2: 283 pl. 28. f. 2. 1794.
+
+Thallus thin and smooth or thicker and roughened, sometimes subareolate,
+ash-white to green-gray and darkening, rarely disappearing; apothecia
+minute to middle-sized, 0.2 to 0.8 mm. in diameter, adnate, scattered
+or crowded, rounded or variously irregular, black but usually dark red
+when damp, flat or slightly convex, the thin exciple raised and
+persistent; hypothecium light or darker brown; hymenium pale or tinged
+brown; paraphyses semi-distinct to coherent-indistinct; asci
+cylindrico-clavate; spores oblong-ellipsoid, 3 to 5 mic. long and 1 to
+1.5 mic. wide.
+
+Collected in Butler, Adams, Montgomery, Hocking, and Ross counties. On
+limestone. Not previously reported from Ohio, but probably frequent
+where there is limestone, though inconspicuous and easily overlooked.
+
+
+2. Biatorella pruinosa (J.E. Smith) Mudd Man. Brit. Lich. 191. 1861.
+
+_Lichen pruinosus_ J.E. Smith in Sowerby, Eng. Bot. 32: pl. 2244 1811.
+
+Thallus light colored, usually thin and smooth, rarely disappearing;
+apothecia minute to middle-sized, 0.2 to 1 mm. in diameter, adnate
+scattered or crowded, flat or slightly convex, the disk pruinose, and
+the exciple persistent; hypothecium lighter or darker brown; hymenium
+usually pale; paraphyses coherent and becoming indistinct; asci
+cylindrico-clavate; spores oblong-ellipsoid, 3 to 5 mic. long and 1 to
+1.5 mic. wide.
+
+Collected in Butler and Adams counties. On limestone. Not previously
+reported from Ohio, but often occurring with the last in limestone
+areas.
+
+
+Lecidea Ach. Meth. Lich. XXX. 32. pl. 2. f. 1, 2. 1803.
+
+Thallus smooth, roughened, or verrucose, in some species chinky to
+areolate, or even subsquamulose, rarely rudimentary and evanescent;
+apothecia minute to middle-sized, usually adnate, but rarely sessile or
+immersed, with pale to black, and flat to strongly convex disk; exciple
+and hypothecium from pale to dark brown in section; hymenium lighter,
+most commonly pale; spores simple, hyaline, 8 in each ascus.
+
+
+KEY TO THE SPECIES OF LECIDEA
+
+Exciple soft, usually light colored.
+  Apothecia usually surrounded by a thalloid veil       1. L. _coarctata_
+  Apothecia not surrounded by a thalloid veil.
+    Exciple becoming covered.
+      Hypothecium pale or pale yellow.
+        Apothecia always minute.
+          Spores 5 to 7 mic. long                    2. L. _intropallida_
+          Spores 7 to 15 mic. long                        3. L. _varians_
+        Apothecia reaching middle size                  4. L. _rupestris_
+      Hypothecium light-brown to dark brown.
+        Thallus gray-green or lighter                 5. L. _viridescens_
+        Thallus darker from the first or becoming so.
+          Thallus minute and evanescent                  6. L. _humicola_
+          Thallus well developed and persistent.
+            Thallus of raised granules                  7. L. _uliginosa_
+            Thallus of flat granules                    8. L. _sylvicola_
+    Exciple persistent                                   9. L. _flexuosa_
+Exciple horny, dark colored.
+  Disk usually convex, commonly on wood              10. L. _enteroleuca_
+  Disk flat or less commonly convex, on rocks.
+    Disk usually white- to rusty-green-pruinose 11. L. _albocaerulescens_
+    Disk black, scarcely pruinose                     12. L. _platycarpa_
+
+
+1. Lecidea coarctata (J.E. Smith) Nyl. Act. Soc. Linn. Bord. 21: 358.
+1856.
+
+_Lichen coarctatus_ J.E. Smith in Sowerby, Eng. Bot. 8: pl. 534. 1789.
+
+Thallus of minute, scattered or clustered, rounded, angular, or minutely
+and irregularly crenate, green-gray, pale brown, or more commonly
+ash-white granules, sometimes passing into a subcontinuous, chinky or
+areolate crust; apothecia minute to small, 0.2 to 0.4 mm. in diameter,
+adnate, from flesh-colored to black, commonly concave or flat, sometimes
+difform, frequently surrounded laterally by a thalloid veil; hypothecium
+and hymenium pale to pale brown; paraphyses distinct; asci clavate or
+cylindrico-clavate; spores ovoid to ellipsoid, 13 to 23 mic. long and 7
+to 10 mic. wide.
+
+Collected in Lake, Ross, Hocking, and Preble counties. Also examined
+from Lawrence County. On rocks and old bricks. Not previously reported
+from Ohio. Widely distributed in the State, but rare, except in Lake
+County, where this fungus was unusually common.
+
+
+2. Lecidea intropallida sp. nov.
+
+Thallus a continuous, smooth or slightly roughened, ash-gray and
+darkening crust; apothecia minute, 0.15 to 0.25 mm. in diameter, adnate
+or partly immersed, flesh-colored to yellow-brown, flat to slightly
+convex, the concolorous and inconspicuous exciple soon covered;
+hypothecium and hymenium pale; paraphyses sometimes distinct, but more
+commonly coherent-indistinct; asci clavate; spores simple, hyaline,
+ellipsoid, 5 to 7 mic. long and 2.5 to 3 mic. wide.
+
+Collected near Painesville in Lake County. On pebbles in a moist wood.
+The type specimen is deposited in the writer's herbarium, and a cotype
+may be seen in the State Herbarium.
+
+
+3. Lecidea varians Ach. Syn. Meth. Lich. 38. 1914.
+
+Thallus of very minute, raised or flattened, green-gray to yellow-green
+granules, these forming a thin but continuous, smooth or
+granulate-rugose, often chinky crust, usually bordered and often
+decussated by black lines; apothecia minute, 0.12 to 0.25 mm. in
+diameter, often clustered or even conglomerate, adnate, from pale yellow
+to brown and finally black, flat with a thin exciple to convex with
+covered exciple; hypothecium pale to pale yellow; hymenium pale below,
+but often yellow or blue-violet above; paraphyses usually coherent,
+distinct or indistinct; asci clavate; spores oviod-ellipsoid, 7 to 15
+mic. long and 5 to 7.5 mic. wide.
+
+Collected in Adams County. On maple bark. Also reported from Franklin
+County. The plant is so minute and inconspicuous as to be very difficult
+to detect and is probably distributed widely in the State.
+
+
+4. Lecidea rupestris (Scop.) Ach. Meth. Lich. 70. 1803. (See Fig. 10).
+
+_Lichen rupestris_ Scop. Fl. Carn. ed. 2. 2: 363, 364. 1772.
+
+Thallus a continuous, moderately thick, smooth or more or less
+roughened, often chinky to subareolate, ash-gray, yellow-green, or
+darkening crust; apothecia small to large, 0.4 to 1.3 mm. in diameter,
+at first immersed but becoming adnate, yellow to yellow or red-brown,
+flat to strongly convex and the exciple covered; hypothecium pale or
+pale yellow; hymenium pale; paraphyses coherent, semi-distinct to
+indistinct; asci clavate; spores ellipsoid, 10 to 15 mic. long and 5 to
+7 mic. wide.
+
+Collected in Adams Country. On calcareous rocks. Not previously reported
+from North America.
+
+
+5. Lecidea viridescens (Schrad.) Ach. Meth. Lich. 62. 1903.
+
+_Lichen viridescens_ Schrad. Spic. Fl. Germ. 88. 1794.
+
+Thallus of very minute, smooth or deliquescent and powdery, ash-grey to
+grey-green granules, spread over the substratum as a thin or rarely
+thicker crust; apothecia minute to small, 0.2 to 0.5 mm. in diameter,
+adnate, frequently clustered or even conglomerate, becoming black, from
+flat with the thin livid or darker exciple visible to convex with the
+exciple covered; hypothecium pale or darker brown; hymenium pale to pale
+brown; paraphyses coherent, semi-distinct to indistinct; asci clavate;
+spores oblong-ellipsoid, 9 to 12 mic. long and 4 to 5.5 mic. wide.
+
+Collected on Little Mountain in Lake County, and in Hocking County. On
+logs in woods. Not previously reported from Ohio, and probably rare in
+the State.
+
+
+6. Lecidea humicola (Ach.) comb. nov.
+
+_Lecidea uliginosa humicola_ Ach. Meth. Lich. 43. 1903.
+
+Thallus of very minute inconspicuous and evanescent, brown-black
+granules; apothecia minute, 0.2 to 0.4 mm. in diameter, adnate, dark
+brown to black, scattered or clustered, plain with a thin concolorous
+exciple visible, to convex with the exciple finally covered; hypothecium
+dark brown; hymenium pale brown; asci clavate; paraphyses
+coherent-indistinct; spores oblong-ellipsoid, 9 to 15 mic. long and 5 to
+7 mic. wide.
+
+Collected in Hocking County. On soil in a moist wood. Not previously
+reported from North America.
+
+
+7. Lecidea uliginosa (Schrad.) Ach. Meth. Lich. 43. 1803.
+
+_Lichen uliginosus_ Schrad. Spic. Fl. Germ. 88. 1794.
+
+Thallus of scattered, clustered, or even heaped, irregular and minute,
+green-olive to rust-brown, or even brown-black, somewhat raised and
+rarely coralloid granules, these forming a scattered or continuous
+crust; apothecia minute to small, 0.2 to 0.4 mm. in diameter, closely
+adnate or more or less immersed, often clustered, brown to black-brown,
+flat with the thin lighter-colored or black exciple visible, or becoming
+strongly convex, with the exciple finally covered; hypothecium light or
+darker brown; hymenium tinged yellow or brown; paraphyses closely
+coherent, but usually remaining distinct; asci long-clavate; spores
+oblong-ellipsoid, 8 to 14 mic. long and 4 to 7 mic. wide.
+
+Collected in Preble, Butler, Warren, Adams, Fairfield, and Lake
+counties. On dead wood. Widely distributed in Ohio.
+
+
+8. Lecidea sylvicola Koerb. Syst. Lich. 254. 1855.
+
+Thallus of minute, irregular, somewhat flattened or more rarely
+hemispherical, green-gray, olive-brown, or darker granules, these
+forming a thin, continuous, or rarely scattered, subleprose, verrucose,
+or even subareolate, wide-spread crust; apothecia minute to small, 0.2
+to 0.5 mm. in diameter, adnate or rarely more or less immersed, dark
+brown to black, flat to convex, the black exciple soon becoming covered;
+hypothecium brown to black-brown; hymenium pale or tinged brown;
+paraphyses coherent, semi-distinct to indistinct; asci clavate; spores
+ellipsoid, 5 to 9 mic. long and 2.5 to 4 mic. wide.
+
+Collected in Lake, Ross, Preble, Hocking, and Butler counties. On
+various rocks. Not previously reported from Ohio, and apparently new to
+America under this name. Widely distributed in Ohio.
+
+For possible relationship to _Lecidea myriocarpoides_ Nyl. See "The
+Lichens of Minnesota" (Cont. Nat. Herb. 14: 74. 1910).
+
+
+9. Lecidea flexuosa (Fr.) Nyl. Act. Soc. Linn. Bord. 21. 356. 1856.
+
+_Biatora flexuosa_ Fr. Vet. Akad. Handl. 1822: 267. 1822.
+
+Thallus of small or minute, flattened or rugose, scattered or clustered,
+ash-grey to green-gray granules, these bursting into sorediate heaps, or
+forming a moderately thick, areolate crust; apothecia minute to small,
+0.2 to 0.4 mm. in diameter, adnate, black, and flat, the thin, livid or
+darker, persistent exciple becoming flexuous; hypothecium pale or darker
+brown; hymenium tinged brown; paraphyses coherent, semi-distinct to
+indistinct; asci cylindrico-clavate; spores oblong-ellipsoid, 5 to 10
+mic. long and 3 to 5 mic. wide.
+
+Collected in Preble, Adams, Ross, and Butler counties. On dead wood. Not
+previously reported from Ohio, and rare, though probably distributed
+widely in the State.
+
+The spores are slightly below normal size in our specimens.
+
+
+10. Lecidea enteroleuca Ach. Lich. Univ. 177. 1810.
+
+Thallus thin or becoming moderately thick, smooth or more often
+granulate, chinky or areolate, the granules or verrucae rarely becoming
+heaped in the thicker forms, ash- to green-gray, occurring in rounded
+areas, or irregularly and often widely spread over the substratum;
+apothecia minute to middle-sized, 0.35 to 1.2 mm. in diameter, adnate,
+black, flat to more commonly convex, the frequently flexuous exciple
+often becoming covered; hypothecium pale to dark brown; hymenium pale
+below, but usually more or less colored above; paraphyses distinct, but
+often more or less coherent; asci clavate; spores ovoid-ellipsoid, 8 to
+17 mic. long and 5 to 9 mic. wide (Fig. 3).
+
+Collected in Lake, Adams, and Hocking counties. On bark and rocks. Not
+previously reported from Ohio. Rare, but doubtless distributed widely in
+the State.
+
+
+11. Lecidea albocaerulescens (Wulf.) Schaer. Lich. Helv. Spic. 3: 142.
+1828.
+
+_Lichen albocaerulescens_ Wulf. in Jacq. Coll. Bot. 2: 184. pl. 5. f. 1.
+1788.
+
+Thallus smooth or somewhat rough, more or less chinky or becoming
+obscurely small-areolate, ash- to green-gray, or becoming olivaceous,
+spreading over the substratum as a continuous, moderately thick crust;
+apothecia small to large, 0.5 to 1.5 mm. in diameter, adnate or more or
+less immersed, usually flat, almost always white or rusty-green
+pruinose, the black exciple rarely becoming covered; hypothecium brown
+to black-brown; hymenium commonly pale; paraphyses distinct, but usually
+coherent; asci clavate to inflated-clavate; spores ovoid-ellipsoid, 15
+to 24 mic. long and 7 to 10 mic. wide.
+
+Collected in Preble, Hocking, and Lake counties. Also examined from
+Lawrence County. On rocks other than calcareous. Not previously reported
+from Ohio. Rare, but apparently distributed widely in the State.
+
+
+12. Lecidea platycarpa Ach. Lich. Univ. 173. pl. 2. f. 5. 1810.
+
+Thallus a thin, obscurely or more or less plainly roughened, usually
+chinky to subareolate, ash- to green-gray, continuous or more or less
+scattered, sometimes disappearing crust; apothecia small to middle-sized
+or even larger, 0.4 to 1.5 mm. in diameter, commonly scattered,
+brown-black to black, rarely and obscurely white-pruinose, adnate to
+sessile, rounded to flexuous, flat or finally convex, the raised exciple
+sometimes becoming covered; hypothecium dark brown; hymenium pale below
+and colored above; paraphyses distinct or coherent-semidistinct; asci
+clavate; spores ovoid- to oblong-ellipsoid, 14 to 20 mic. long and 6 to
+10 mic. wide.
+
+Collected in Ross and Hocking Counties. On rocks. Not previously
+reported from Ohio.
+
+
+Biatorina Mass. Ric. Lich. 134. f. 262-271. 1852.
+
+Thallus commonly granulose, and often passing into verrucose and chinky
+conditions, but scarcely ever areolate, sometimes scant and evanescent;
+apothecia usually minute or small, and commonly adnate, exciple weak and
+often becoming covered; hypothecium and hymenium passing from pale
+through shades of brown, the former becoming darker than the latter,
+this rarely tinged blue or violet above; spores hyaline, 2-celled.
+
+
+KEY TO THE SPECIES OF BIATORINA
+
+Growing on another lichen                                1. B. _heerii_
+Growing on wood or on rocks.
+  On old wood                                           2. B. _prasina_
+  On rocks.
+    Exciple strong and seldom becoming covered        4. B. _chalybeia_
+    Exciple weak and usually becoming covered      3. B. _lentibularis_
+
+
+1. Biatorina heerii (Hepp) Fink Cont. Nat. Herb. 14: 83. 1910.
+
+_Biatora heerii_ Hepp, Spore Flecht. Eur. pl. 16. f. 135. 1853.
+
+Thallus of very minute, rounded and frequently heaped granules,
+sometimes visible under a hand lens, but often seen only in sections of
+the substratum, rarely disappearing; apothecia minute, 0.1 to 0.3 mm. in
+diameter, adnate to sessile, flesh-colored and blackening, flat to
+slightly convex, the concolorous or darker exciple commonly persistent;
+hypothecium and hymenium pale to light brown; paraphyses distinct to
+coherent-indistinct; asci clavate; spores ellipsoid, 7 to 12 mic. long
+and 3 to 3.5 mic. wide.
+
+Collected in Butler County. On the thallus of _Peltigera canina_. Not
+previously reported from Ohio. So minute as to be difficult to detect.
+Consequently nothing further is known of its distribution in the State.
+
+
+2. Biatorina prasina (Fr.) Fink Cont. Nat. Herb. 14: 84. 1910.
+
+_Micarea prasina_ Fr. Syst. Orb. Veg. 257. 1825.
+
+Thallus of minute, closely clustered or even heaped granules, these
+forming a wide-spread, frequently subleprose, green-gray to dark-olive
+crust; apothecia minute to small, 0.2 to 0.5 mm. in diameter, adnate,
+commonly carneous or darkening, more or less convex and usually becoming
+convex with the exciple finally covered; hypothecium pale or pale brown;
+hymenium pale below and commonly darker above; paraphyses coherent,
+semi-distinct to indistinct; asci clavate; spores oblong-ellipsoid, 8 to
+12 mic. long and 3.5 to 5 mic. wide.
+
+Collected on Little Mountain in Lake County. On a rotten log. Not
+previously reported from Ohio, and evidently rare in the State.
+
+Simple spores were seen in the specimens collected, but they were
+supposed to be immature.
+
+
+3. Biatorina lentibularis (Ach.) Koerb. Syst. Lich. 191. 1855.
+
+_Lecidea lentibularis_ Ach. Syn. Meth. Lich. 28. 1814.
+
+Thallus a thin, smooth or subtartareous, rarely rimose-areolate,
+ash-white to brown-gray, wide-spread and continuous or finally
+disappearing crust; apothecia minute to small, 0.2 to 0.5 mm. in
+diameter, adnate, black, from flat becoming convex and often irregular,
+the inconspicuous exciple then becoming covered; hypothecium pale to
+darker brown; hymenium pale or tinged brown; paraphyses distinct to
+coherent-indistinct; asci clavate; spores oblong-ellipsoid, 8 to 11 mic.
+long and 2.7 to 4 mic. wide.
+
+A single collection was made in Highland County. On exposed calcareous
+rocks. Not previously reported from Ohio, and doubtless rare in the
+State.
+
+An occasional 4-celled spore was seen, a transitional character
+previously noted by Th. M. Fries. The plant is closely related to the
+next below, from which it may not be distinct.
+
+
+4. Biatorina chalybeia (Borr.) Mudd, Man. Brit. Lich. 180. 1861.
+
+_Lecidea chalybeia_ Borr. in Sowerby, Eng. Bot. Suppl. 1: pl. 2687. f.
+2. 1831.
+
+Thallus a thin, smooth or roughened, ash-gray and darkening crust,
+forming a continuous layer, becoming inconspicuous and rarely
+disappearing; apothecia minute to small, 0.3 to 0.5 mm. in diameter,
+adnate to sessile, concave to slightly convex, black, the exciple
+concolorous, prominent, and rarely becoming covered; hypothecium dark
+brown; hymenium pale below and pale brown above; paraphyses wide and
+strong, distinct to coherent-indistinct; asci clavate; spores
+oblong-ellipsoid, 8 to 12 mic. long and 3.5 to 4.75 mic. wide (Fig. 4).
+
+Collected in Butler County. On calcareous rocks. Not previously reported
+from Ohio, and probably rare in the State.
+
+The spores are somewhat larger than in European specimens.
+
+
+Bilimbia De Not. Giorn. Bot. Ital. 21: 190. 1846.
+
+Thallus usually composed of minute granules, these often run together to
+form a leprose or verrucose and rarely areolate or even subsquamulose
+crust, rarely disappearing; apothecia minute or small, usually adnate,
+with a weak and often covered exciple; hypothecium pale to dark brown;
+hymenium pale or tinged brown; spores hyaline, usually fusiform or
+dactyloid, varying from 4- to 9-celled.
+
+
+KEY TO THE SPECIES OF BILIMBIA
+
+On rocks.
+  Apothecia and spores smaller                5. B. _microcarpa_
+  Apothecia and spores larger                   6. B. _trachona_
+On other substrata.
+  On mosses                                   2. B. _hypnophila_
+  On wood or bark.
+    Spores becoming more than 4-celled          3. B. _naegelii_
+    Spores not more than 4-celled.
+      Apothecia flesh-colored to dark brown  1. B. _sphaeroides_
+      Apothecia black                            4. B. _melaena_
+
+
+1. Bilimbia sphaeroides (Dicks.) Koerb. Syst. Lich. 213. 1855.
+
+Lichen sphaeroides Dicks. Pl. Crypt. Brit. 1: 9. pl. 2. f. 3. 1785.
+
+Thallus of minute, gray-green, often heaped granules, these forming a
+continuous, thin or thicker crust; apothecia minute to small, 0.2 to 0.4
+mm. in diameter, adnate, flesh-colored to red-brown, flat to convex and
+subglobose, the inconspicuous, concolorous exciple soon covered;
+hypothecium and hymenium pale; paraphyses usually coherent-indistinct;
+asci clavate; spores fusiform-ellipsoid, 4-celled, 12 to 20 mic. long
+and 4 to 6 mic. wide.
+
+Collected on Little Mountain, in Lake County. On a rotten log in a wood.
+Rare in Ohio, and its distribution unknown.
+
+The plant is typical internally, but is young with small, flat or
+slightly convex, light-colored apothecia.
+
+
+2. Bilimbia hypnophila (Ach.) Th. Fr. Nov. Act. Reg. Soc. Sci. Ups. III.
+3: 283. 1861.
+
+_Lecidea hypnophila_ Ach. Lich. Univ. 199. 1810.
+
+Thallus of minute, usually crowded, sometimes confluent granules, these
+forming an ash- or green-gray, thin, leprose or subgranulose, sometimes
+scattered and disappearing crust; apothecia minute to middle-sized, 0.2
+to 0.75 mm. in diameter, light brown to black, adnate to sessile,
+scattered or clustered, becoming strongly convex and the exciple
+becoming covered; hypothecium pale or darker brown; hymenium pale, or
+tinged brown below and more plainly brown above; paraphyses coherent,
+semi-distinct to indistinct; asci clavate or long-clavate; spores
+ellipsoid to fusiform, 4- to 8-celled, 16 to 35 mic. long and 4 to 8
+mic. wide.
+
+Collected in Preble, Hocking, and Adams counties. Over mosses on rocks
+or bases of trees; or rarely on rocks, soil, bark, or wood. Not
+previously reported from Ohio, and not a common fungus in the State.
+
+
+3. Bilimbia naegelii (Hepp) Zwackh. Flora. 45: 505. 1862.
+
+_Biatora naegelii_ Hepp, Spor. Flecht. Eur. pl. 4. f. 1. 19. 1853.
+
+Thallus of usually flattened granules, these commonly running together
+to form a moderately thin, more or less roughened, often chinky, ash- or
+green-gray, or darkening, limited or rarely wide-spread crust; apothecia
+minute to middle-sized, 0.2 to 0.9 mm. in diameter, adnate or rarely
+sessile, flesh-colored to dark brown, scattered or clustered, flat with
+the thin exciple visible to strongly convex with the exciple covered;
+hypothecium pale or tinged brown; hymenium pale throughout or tinged
+brown above; paraphyses coherent, semi-distinct to indistinct; asci
+clavate; spores fusiform-ellipsoid, 4- to 8-celled, 18 to 25 mic. long
+and 3 to 4 mic. wide.
+
+Collected in Highland County. On bark. Not previously reported from
+Ohio, and doubtless rare in the State.
+
+The usual width given for the spores is 4 to 6 mic., and our plant is
+placed here provisionally.
+
+
+4. Bilimbia melaena (Nyl.) Th. Fr. Lich. Scand. 383-385. 1871.
+
+_Lecidea melaena_ Nyl. Bot. Not. 1853: 182. 1853.
+
+Thallus of minute, olive-green to black-brown granules, these forming a
+thin, granulose or scurfy, sometimes disappearing crust; apothecia
+minute to small, 0.25 to 0.55 mm. in diameter, black-brown to black,
+sessile, occurring singly or in clusters, strongly convex to subglobose,
+the exciple soon covered; hypothecium pale brown to red-brown; hymenium
+pale or tinged brown; paraphyses coherent, semi-distinct to indistinct;
+asci clavate to inflated-clavate; spores oblong-ellipsoid or dactyloid,
+2- to 4-celled, 12 to 22 mic. long and 4 to 6 mic. wide.
+
+Collected in Lake County. On an old log in a wood. Not previously
+reported in Ohio, and rare in the State.
+
+Nylander called the apothecium pale within, but forms with red-brown
+hypothecia are admitted by later writers.
+
+
+5. Bilimbia microcarpa Th. Fr. Bot. Not. 1863: 8. 1863.
+
+_Bilimbia obscurata microcarpa_ Th. Fr. Nov. Act. Soc. Sci. Ups. III. 3:
+183. 1861.
+
+Thallus of minute ash-gray or green-gray granules, these rarely forming
+a thin or moderately thick, subcontinuous, verrucose crust, but more
+often scattered or disappearing entirely; apothecia minute to small,
+0.25 to 0.7 mm. in diameter, scattered or conglomerate, dirty brown to
+black, soon becoming convex and subglobose, with the pale exciple then
+covered; hypothecium pale to pale red-brown; hymenium pale; asci clavate
+to inflated-clavate; paraphyses coherent-indistinct; spores fusiform,
+4-celled, 16 to 25 mic. long and 4 to 6 mic. wide.
+
+Collected in Hocking County. On shaded sandstone. Not previously
+reported from North America.
+
+
+6. Bilimbia trachona (Ach.) Oliver Lich. France 38,39. 1903.
+
+_Verrucaria trachona_ Ach. Meth. Lich. Suppl. 16. 1803.
+
+Thallus thin and granular, passing into smooth or leprose conditions,
+thence to thickened and subareolate states, ash-colored to dark
+brown-green, usually continuous over considerable areas; apothecia
+minute to middle-sized, 0.4 to 0.1 mm. in diameter, from brown-black
+with lighter exciple to wholly black, adnate or somewhat immersed, flat
+or finally convex with the exciple at length covered; hypothecium pale
+brown to black-brown; hymenium pale or rarely pale brown; paraphyses
+distinct to coherent semi-distinct; asci clavate; spores
+fusiform-dactyloid, 4-celled, 12 to 20 mic. long and 2.5 to 4.5 mic.
+wide (Fig. 5).
+
+Collected in several localities in Preble, Highland, and Adams counties.
+On rocks, usually limestone. Also reported from Cuyahoga and Ottawa
+counties. Not common, but doubtless distributed widely in the State.
+
+
+Bacidia De Not. Giorn. Bot. Ital. 2: 189. 1846.
+
+Thallus granulose, passing into chinky, verrucose, subareolate and
+subsquamulose conditions, seldom or never disappearing; apothecia minute
+to large, adnate or rarely immersed more or less, exciple usually weak
+and becoming covered; hypothecium commonly some shade of yellow or
+brown; hymenium pale to light brown; spores hyaline, acicular, varying
+from 4- to 16-celled, often curved or variously twisted, usually 8 in
+each ascus.
+
+
+KEY TO THE SPECIES OF BACIDIA
+
+On rocks.
+  Spores hamate or spirally twisted                      7. B. _umbrina_
+  Spores straight or only slightly curved.
+    Thallus ash- or green-gray                          5. B. _inundata_
+    Thallus olive or darker                          1. B. _egenuloidea_
+On bark.
+  Spores less than 40 mic. in length                    6. B. _incompta_
+  Spores 40 to 70 mic. long.
+    Apothecia flesh-yellow to red-brown                  2. B. _rubella_
+    Apothecia brown to black.
+      Apothecia usually brown with a striate, usually
+        pruinose margin                             3. B. _fuscorubella_
+      Apothecia usually black Of dark brown, without striate
+        and pruinose margin                         4. B. _schweinitzii_
+
+
+1. Bacidia egenuloidea sp. nov.
+
+Thallus of minute, crowded granules, forming a rather thick,
+conspicuous, rugose and obscurely chinky, dirt-olive and darkening,
+wide-spread crust; apothecia minute to small, 0.25 to 0.4 mm. in
+diameter, yellow-brown and darkening, adnate-sessile, flat with an
+elevated, darker exciple; hypothecium and hymenium pale or tinged brown;
+paraphyses coherent, semi-distinct; asci clavate; spores hyaline
+obscurely several-celled, variously curved, 25 to 40 mic. long and 0.75
+to 1.25 mic. wide.
+
+Collected in Preble County. On granite in a damp field near West
+Alexandria. The type specimen is deposited in the writer's herbarium,
+and a cotype may be found in the State Herbarium.
+
+
+2. Bacidia rubella (Hoffm.) Mass. Ric. Lich. 118. f. 231. 1852.
+
+_Verrucaria rubella_ Hoffm. Deutsch. Fl. 2: 174. 1795.
+
+Thallus of minute, scattered or crowed granules, these frequently
+becoming compacted into a subleprose or more or less verrucose or
+chinky, ash- to green-gray, moderately thick or thinner, continuous or
+sometimes scattered and disappearing crust (Fig. 2); apothecia small to
+large, 0.5 to 1.35 mm. in diameter, sessile to adnate, flesh-yellow to
+red-brown, flat with a rather thick and lighter-colored exciple, or
+becoming convex with the exciple finally covered; hypothecium pale
+yellow to brown; hymenium pale yellow; paraphyses coherent,
+semi-distinct to indistinct; asci long clavate; spores about 8- to
+16-celled, 45 to 65 mic. long and 3 to 4 mic. wide.
+
+Collected in Butler, Highland, Adams, and Preble counties. Also examined
+from Franklin County. On bark. Widely distributed in Ohio, but not
+common.
+
+
+3. Bacidia fuscorubella (Hoffm.) Arn. Flora 54: 55. 1871.
+
+_Verrucaria fuscorubella_ Hoffm. Deutsch. Fl. 2: 175. 1795.
+
+Thallus of minute, crowded or scattered granules, these forming a
+usually conspicuous and often rugose and chinky, green-gray or darker,
+frequently wide-spread, rarely disappearing crust; apothecia small to
+large, 0.6 to 1.5 mm. in diameter, pale to darker brown and finally
+black, adnate or sessile, flat with an elevated, and sometimes
+transversely striate, and usually pruinose exciple, less frequently
+becoming convex with the exciple rarely becoming covered; hypothecium
+yellow to yellow-brown; hymenium pale yellow; paraphyses coherent,
+semi-distinct to indistinct; asci long-clavate; spores about 7- to
+14-celled, 40 to 70 mic. long and 3 to 5 mic. wide.
+
+Collected in Butler and Adams counties. Also reported from Champaign and
+Hamilton counties. On bark. This fungus appears to be rare in Ohio.
+
+In one specimen, some of the disks are partly or wholly pruinose, but
+the plant seemed nearer to this than to _Bacidia suffusa_ (Fr.) Fink.
+
+
+4. Bacidia schweinitzii (Tuck.) Fink Cont. Nat. Herb. 14: 89. 1910.
+
+_Biatora schweinitzii_ Tuck. in Darl Fl. Cestr. ed. 3. 447. 1853.
+
+Thallus thin and inconspicuous, or becoming thick and more prominent,
+composed of rounded and often crowded or even heaped granules, these
+frequently compacted into a continuous or scattered, verrucose and often
+chinky, green-gray to olivaceous crust; apothecia small to large, 0.6 to
+1.75 mm. in diameter, dark brown to black, adnate or sessile, flat or
+slightly convex, the concolorous or lighter exciple frequently becoming
+flexuous; hypothecium pale yellow to dark brown; hymenium pale yellow;
+paraphyses coherent, distinct to semi-distinct: asci long-clavate;
+spores about 7- to 15-celled, 40 to 70 mic. long and 2.5 to 3.5 mic.
+wide.
+
+Collected in Fairfield, Hocking, and Adams counties. On bark. Evidently
+a rare fungus in Ohio.
+
+
+5. Bacidia inundata (Fr.) Koerb. Syst. Lich. 187. 1855.
+
+_Biatora inundata_ Fr. Vet. Akad. Handl. 1822: 270. 1822.
+
+Thallus of minute granules, these usually compacted into a thin or
+rarely thicker, granulate, chinky, or subareolate, ash- or green-gray or
+darkening, commonly wide-spread, continuous or scattered crust;
+apothecia minute to middle-sized, 0.2 to 0.75 mm. in diameter, pale
+brown to finally black, adnate or rarely more or less immersed, usually
+flat and bordered by the commonly lighter colored exciple, rarely
+becoming convex, the exciple then finally covered; hypothecium pale to
+brown; hymenium pale to pale brown; paraphyses coherent, semi-distinct
+to indistinct; asci clavate to long-clavate, spores 4- to 8-celled, 15
+to 40 mic. long and 1.5 to 2.6 mic. wide.
+
+Collected in Butler, Preble, Highland, Adams, Warren, and Lake counties.
+On various rocks in shaded or open moist places, and also about the
+moist shaded bases of rocks in dry fields. Also reported from Cuyahoga
+county and doubtless common in all parts of the State.
+
+
+6. Bacidia incompta (Borr.) Anzi. Cat. Lich. Sondr. 70. 1860.
+
+_Lecidea incompta_ Borr. in Sowerby, Engl. Bot. Suppl. 2: pl. 2699.
+1834.
+
+Thallus of very minute granules, these forming a continuous or more or
+less broken, wide-spread, sometimes thick and rugose or rarely even
+subareolate, or again thin, smooth, more or less mealy, light or darker
+green-gray, rarely disappearing crust; apothecia minute to middle-sized,
+0.3 to 0.75 mm. in diameter, dark brown to black, adnate to
+sub-sessile, flat or becoming convex, with a thin and frequently
+flexuous exciple; hypothecium pale brown to brown; hymenium pale below
+and pale brown above; paraphyses coherent, semi-distinct to indistinct;
+asci long-clavate; spores 4- to 12-celled, 18 to 35 mic. long and 1.5 to
+3 mic. wide.
+
+Collected in Adams County. On bark. Not previously reported from Ohio,
+and doubtless rare in the State.
+
+
+7. Bacidia umbrina (Ach.) Br. & Rostr. Bot. Tidssk. 3: 235. 1869.
+
+_Lecidea umbrina_ Ach. Lich. Univ. 183. 1810.
+
+Thallus a rather thick and continuous, or rarely thinner and scattered,
+subleprose, chinky, rugose-granulate or subareolate, green-gray to dark
+olive-brown, sometimes largely disappearing crust; apothecia minute to
+small, 0.25 to 0.6 mm. in diameter, light brown to black, adnate to
+somewhat immersed, at first flat with a commonly paler exciple, becoming
+convex with the exciple sometimes covered; hypothecium pale or darker
+brown; hymenium pale throughout, or tinged brown above; paraphyses
+coherent, semi-distinct to indistinct; asci long-clavate, or
+inflated-clavate; spores hamate, or more or less spirally twisted, about
+4- to 8-celled, 18 to 30 mic. long and 2 to 3 mic. wide (Fig. 7).
+
+Collected in Preble, Lake, Hocking, and Adams counties. Also examined
+from Wayne County. On various rocks. Not previously reported from Ohio,
+but evidently distributed widely in the State.
+
+
+Buellia De Not. Giorn. Bot. Ital. 21: 195. 1846.
+
+Thallus granulose, verrucose, or areolate, rather better developed than
+those of the preceding genera as shown in the more frequent verrucose
+and areolate conditions; apothecia minute to large, sessile to immersed,
+the disk and the exciple usually black; hypothecium usually brown;
+hymenium pale to light brown; paraphyses usually distinct; spores brown,
+2-celled.
+
+
+KEY TO THE SPECIES OF BUELLIA
+
+On rocks               3. B. _turgescentoides_
+On wood, or on bark.
+  On dead wood              1. B. _myriocarpa_
+  On bark                     2. B. _parasema_
+
+
+1. Buellia myriocarpa (Lam. & DC.) Mudd. Man. Brit. Lich. 217. 1861.
+
+_Patellaria myriocarpa_ Lam. & DC. Fl. ed. 3. 2: 346. 1805.
+
+Thallus a thin and scurfy, smooth or chinky, or thicker and
+roughened-verrucose, ash- to green-gray, or darkening crust, irregularly
+spread over small areas, and rarely disappearing; apothecia minute to
+small, 0.2 to 0.6 mm. in diameter, often numerous, black, adnate, flat
+and bordered by an exciple, or becoming convex with the exciple
+sometimes covered; hypothecium dark brown; hymenium pale, or pale below
+and pale brown above; paraphyses distinct, but sometimes loosely
+coherent; asci clavate; spores oblong-ellipsoid, 7 to 16 mic. long and 4
+to 7.5 mic. wide.
+
+Collected in Butler and Lake counties. On dead wood, especially posts
+and boards. Also reported from Cuyahoga County. An inconspicuous fungus,
+doubtless distributed widely in the State.
+
+
+2. Buellia parasema (Ach.) Koerb. Syst. Lich. 228. 1855.
+
+_Lichen parasemus_ Ach. Lich. Suec. 64. 1798.
+
+Thallus usually continuous and smooth, but sometimes becoming thicker
+and roughened, granulate, chinky, or finally areolate, ash- to
+green-gray, and darkening, or even yellow-green, usually bordered wholly
+or in part by a black margin; apothecia small to large, 0.4 to 1.3 mm.
+in diameter, black, adnate to sessile, or rarely more or less immersed,
+flat with a prominent, concolorous, sometimes flexuous exciple, or
+sometimes becoming convex, with the exciple often covered (Fig. 11);
+hypothecium dark brown; hymenium pale below and pale brown above;
+paraphyses distinct (Fig. 12), but sometimes loosely coherent; asci
+clavate (Fig. 13), or rarely inflated clavate; spores oblong to
+ellipsoid, 10 to 18 mic. long and 5 to 9 mic. wide, rarely 3-celled
+(Fig. 13).
+
+Collected in Fairfield, Lake, Adams, Highland, Hocking, and Butler
+counties. Also examined from Morgan, Madison, and Muskingum counties. On
+bark. Generally distributed in Ohio.
+
+
+3. Buellia turgescentoides sp. nov.
+
+Thallus a thick, continuous or scattered, flat or verrucose, areolate or
+subareolate, dull olive-brown, and darkening crust, covering small areas
+or spreading widely over the substratum, the marginal areoles sometimes
+lobulate; apothecia minute to small, 0.2 to 0.5 mm. in diameter,
+immersed to adnate, scattered or clustered, black, flat with the thin
+concolorous exciple visible, or convex with the exciple covered;
+hypothecium pale or darker brown; hymenium pale; paraphyses stout,
+distinct, but often loosely coherent; asci clavate or inflated-clavate;
+spores brown, 2-celled, oblong to oblong-ellipsoid, 8 to 13 mic. long,
+and 4 to 6 mic. wide, 8 in each ascus.
+
+Collected in Lake County. On exposed igneous rocks. The type specimen is
+deposited in the writer's herbarium, and a cotype may be found in the
+State Herbarium.
+
+This species is a coarser plant than _Buellia turgescens_ (Nyl.) Tuck.,
+with much stronger, darker thallus and apothecia on the whole larger.
+
+
+Rhizocarpon Ram. in Lam. & DC. Fl. Fr. ed. 3. 2: 365. 1805.
+
+Thallus usually verrucose, areolate or subareolate, tending toward
+squamulose conditions, better developed than in other members of the
+family, scarcely ever showing granulate conditions, and never
+disappearing entirely; apothecia also larger than in the other genera,
+adnate to immersed, usually black, but rarely white-pruinose;
+hypothecium usually dark brown; hymenium pale to light brown; spores
+4-celled to muriform, and pale to brown, various conditions of septation
+and coloration sometimes appearing in the same hymenium.
+
+
+KEY TO THE SPECIES OF RHIZOCARPON
+
+On bark                                      2. R. _alboatrum_
+On rocks.
+  Spores smaller and 4-celled           1. R. _vernicomoideum_
+  Spores larger and becoming muriform         3. R. _petraeum_
+
+
+1. Rhizocarpon vernicomoideum sp. nov.
+
+Thallus of minute, rounded, scattered or sometimes clustered,
+straw-colored granules, covering small areas, and usually resting on and
+limited wholly or in part by a black hypothallus; apothecia minute to
+small, 0.2 to 0.6 mm. in diameter, black, semi-immersed to adnate, at
+first flat with a thin somewhat raised exciple, becoming convex with the
+exciple finally covered; hypothecium brown; hymenium pale or tinged
+brown below and light brown above; paraphyses coherent, distinct or
+semi-distinct; asci clavate; spores brown, 4-celled, becoming slightly
+constricted at the septa, 15 to 18 mic. long and 5 to 7 mic. wide, 8 in
+each ascus.
+
+Collected at Cantwell Cave in Hocking County. On shaded sandstone,
+intermingled with an ash-gray, crustose thallus, which appeared like a
+sterile _Pertusaria_. The type specimen is deposited in the writer's
+herbarium, and a cotype may be seen in the State Herbarium.
+
+The plant resembles _Buellia vernicoma_ Tuck.
+
+
+2. Rhizocarpon alboatrum (Hoffm.) Th. Fr. Nov. Act. Reg. Soc. Sci. Ups.
+III. 3: 337. 1861.
+
+_Lichen alboater_ Hoffm. Lich. Icon. 30. 1784.
+
+Thallus ash-gray varying toward white, commonly spread widely over the
+substratum as a continuous or rarely scattered or disappearing, smooth,
+chinky, verrucose-areolate, or sometimes mealy crust: apothecia small to
+middle-sized, 0.35 to 1 mm. in diameter, adnate or immersed, dull black
+and often more or less white-pruinose, flat with the black exciple
+visible, or convex when the exciple often becomes covered; hypothecium
+brown to black-brown; hymenium pale or tinged brown; paraphyses
+distinct, but sometimes coherent; asci clavate; spores oblong-ellipsoid,
+brown, 4-celled to muriform, 12 to 22 mic. long and 4 to 9 mic. wide
+(Fig. 8), 8 in each ascus.
+
+Collected in Butler, Preble, Ross, and Highland counties. On bark,
+especially elm bark. Also reported from Ottawa County. Rare but
+doubtless distributed widely in the State.
+
+
+3. Rhizocarpon petraeum (Wulf.) Koerb. Syst. Lich. 260. 1855.
+
+_Lichen petraeus_ Wulf. in Jacq. Coll. Bot. 3: 4. pl. 6. f. 2a. 1789.
+
+Thallus an ash or green-gray crust, or varying toward brown or
+brown-black, smooth to more commonly roughened, chinky to areolate,
+continuous or scattered, of moderate thickness, often widely and
+irregularly disposed on the substratum; apothecia small to large, 0.5 to
+1.3 mm. in diameter, immersed to adnate, black-brown to black, flat with
+the concolorous exciple visible, or becoming somewhat convex, with the
+exciple often covered; hypothecium dark brown; hymenium pale, or tinged
+brown, especially above; paraphyses coherent, semi-distinct; asci
+clavate or inflated-clavate; spores oblong-ellipsoid, 4-celled to
+muriform, hyaline to finally brown, 15 to 40 mic. long and 7 to 18 mic.
+wide. 8 in each ascus (Fig. 9).
+
+Collected in Lake, Hocking, and Ross counties. Also examined from
+Summit, Vinton, and Ashtabula counties. On rocks. Rare but widely
+distributed in the State.
+
+
+EXPLANATION OF PLATE XIII
+
+
+Fig. 1. Five paraphyses of _Rhizocarpon alboatrum_ to illustrate types
+of simple and branched forms found in the same hymenium. X 450.
+
+Fig. 2. A section of the thallus of _Bacidia rubella_ and two cells of
+the woody substratum: a, the upper densely interwoven portion of the
+thallus; b, part of the less densely interwoven portion below; c, the
+algal-host cells; d, one of the cells of the woody substratum and three
+hypal rhizoids within it. X 450.
+
+Fig. 3. Spores of _Lecidea enteroleuca_ to illustrate the simple,
+hyaline type. X 760.
+
+Fig. 4. Spores of _Biatorina chalybeia_ to illustrate the 2-celled,
+hyaline type. X 760.
+
+Fig. 5. Spores of _Bilimbia trachona_ to illustrate the several-celled,
+hyaline, fusiform or dactyloid type. X 760.
+
+Fig. 6. Spores of _Bacidia fuscorubella_ to illustrate the
+several-celled, hyaline, acicular type. X 760.
+
+Fig. 7. Spores of _Bacidia umbrina_ to illustrate the several-celled,
+hyaline, hamate or spirally twisted type. X 760.
+
+Fig. 8. Spores of _Rhizocarpon alboatrum_ to illustrate the
+several-celled to many-celled and muriform, hyaline to brown type. X
+760.
+
+Fig. 9. Spores of _Rhizocarpon petraeum_ of the same type as those shown
+in the last figure, but larger, and usually composed of more cells. X
+760.
+
+Fig. 10. A vertical section through an apothecium of _Lecidea
+rupestris_: a, the hymenium, composed of asci and paraphyses; b, the
+hypothecium; c, the mycelium, the cells of the algal host, and particles
+of the limestone on which the plant was growing; d, the weak,
+light-colored, covered exciple. X 79.
+
+Fig. 11. A vertical section through an apothecium of _Buellia parasema_,
+the thallus below, and a portion of the woody substratum: a, the
+hymenium, composed of asci and paraphyses; b, the strongly developed,
+dark colored exciple; c, the dark colored hypothecium; d, the thallus,
+composed of interwoven hyphae, and enclosing cells of the algal host, a
+portion of the woody substratum. X 79.
+
+Fig. 12. One branched and one unbranched paraphysis of _Buellia
+parasema_. X 450.
+
+Fig. 13. An ascus of _Buella parasema_, containing 8 spores. X 450.
+
+     The figures were outlined with camera lucida and drawn on the
+     table, close to the base of the microscope, 100 mm. below the
+     stage. They were reduced one-half in making the plate. Figures 2,
+     10, and 11 are partly diagrammatical.
+
+[Illustration: PLATE XIII.]
+
+
+THE ASCOMYCETES OF OHIO V[B]
+
+
+The Peltigeraceae.
+
+LEAFY J. CORRINGTON.
+
+
+Two genera, _Peltigera_ and _Nephroma_, constitute the _Peltigeraceae_
+as represented in the flora of Ohio. The thallus is plainly foliose with
+the margins of the lobes usually ascending and is gray-green to brown in
+color. The lower surface is often conspicuously veined. There are two
+pronounced distinctions between the two genera. _Peltigera_ has a
+well-developed cortex on the upper side of the thallus only (Fig. 1),
+while in _Nephroma_ there is a well-developed cortex on both upper and
+lower sides (Fig. 2).
+
+The position of the apothecia constitutes another distinction. In both
+genera the apothecia are marginal or submarginal on the lobes, which are
+usually narrow and somewhat extended; but in _Peltigera_ they are
+immersed in the upper surface, while in _Nephroma_ they are imbedded in
+the lower surface.
+
+_Peltigera_ furnishes seven species for Ohio, while only one species of
+_Nephroma_ has thus far been found in the State.
+
+The algal hosts are usually _Dactylococcus_ or _Polycoccus_, and both
+hosts are sometimes found in the same thallus. The chains of cells are
+usually badly broken up, and the nature of the algal host is, therefore,
+difficult to distinguish. Other algae doubtless sometimes occur in the
+thalli of _Peltigerae_.
+
+_Nephroma_ with cortex on both sides, is to be regarded higher than
+_Peltigera_, which has the cortex on the upper side only. The family is
+most closely related to the _Stictaceae_, from which family it is kept
+distinct on account of the absence of cyphellae and the difference in
+disposition of the apothecia.
+
+The collecting on which this paper is based was partly by Bruce Fink in
+connection with general collecting of fungi in Butler County and in
+collecting in Adams, Warren, Fairfield, Preble, Ross, Highland, and Lake
+counties for the Ohio Biological Survey. However, a considerable amount
+of material found by other collectors and previously reported from Ohio
+was examined. Hence, the collecting for the Ohio Biological Survey added
+little to knowledge of the _Peltigeraceae_ of Ohio, except in way of
+addition to distribution in the State.
+
+[Footnote B: Contributions from the Botanical Laboratory of Miami
+University--XIX]
+
+
+_Systematic Account._
+
+PELTIGERACEAE
+
+
+Thallus foliose, with plectenchymatous cortex above (Fig. 5), or both
+above and below (Fig. 2), with medulla of loosely interwoven hyphae,
+trichomatic hyphae, usually present, attached to the substratum by
+compound rhizoids; apothecia of considerable size, commonly on extended
+lobes, usually imbedded in the tissues on the upper side, or more rarely
+on the lower side; exciple inconspicuous; hypothecium usually light or
+darker brown; hymenium usually pale below and brown or tinged brown
+above; paraphyses simple or branched, distinct, seldom gelatinized or
+coherent; spores hyaline or brown, 4- to several-celled, elongated.
+
+
+KEY TO THE GENERA
+
+1. Cortex developed on the upper side of thallus only,
+  spores hyaline                                            Peltigera.
+
+2. Cortex developed on both upper and lower sides of
+  thallus, spores brown                                      Nephroma.
+
+
+_Peltigera Willd. Fl. Berol. Prodr. 347. 1787._
+
+Thallus foliose, usually adnate toward the center, with the lobes more
+or less ascending at the margins, green-gray varying toward brown, the
+upper surface sometimes bare, or again clothed with trichomatic hyphae,
+giving it a downy appearance, or bearing cephalodia or isidioid
+branchlets, the lower surface usually conspicuously veined, with tufted
+rhizoids descending from the veins, color of these light or dark; cross
+section showing two distinct layers, the upper plectenchymatous cortex
+composed of 2 to 4 layers of meshes, and the medulla, composed of
+densely interwoven and irregularly disposed hyphae; lower cortex
+lacking, but the hyphae of the lower portion in some instances more or
+less horizontally arranged and produced into hyphal rhizoids, thus
+serving for support and protection much like a true plectenchymatous
+cortex; apothecia usually orbicular, frequently revolute, imbedded in
+the upper surface of the lobes; exciple plectenchymatous (Fig. 4);
+hypothecium of interwoven hyphae, usually tinged brown; hymenium
+commonly pale below and brown above; paraphyses usually simple, but some
+branched ones present in all of the species, hyaline in the main, but
+usually enlarged and tinged brown at the apex; asci usually
+cylindrico-clavate; spores hyaline, fusiform to acicular, sometimes
+curved, 4 to 8-celled, 8 arranged parallel in the asci.
+
+The algal host cells lie in the medulla, just below the upper cortex.
+
+
+KEY TO THE SPECIES OF PELTIGERA
+
+Upper surface of the thallus bearing cephalodia             1. P. aphthosa
+Upper surface of the thallus devoid of cephalodia.
+  Thallus bearing trichomatic hyphae above.
+    Upper surface bearing isidioid branchlets or lobules 2. P. praetextata
+    Upper surface devoid of isidioid branchlets or lobules.
+      Orbicular sorediate areas on the upper surface of
+          the thallus                                      3. P. sorediata
+      Soredia lacking on the upper surface.
+        Lower surface of the thallus of light color           4. P. canina
+        Lower surface partly or wholly dark                5. P. rufescens
+  Thallus devoid of trichomatic hyphae.
+    Apothecia orbicular and revolute, spores 4- to
+        8-celled                                         6. P. polydactyla
+    Apothecia usually transversely oblong, spores
+        4-celled                                        7. P. horizontalis
+
+
+1. Peltigera aphthosa (L.) Willd. Fl. Berol. Prodr. 347. 1787.
+
+_Lichen aphthosus_ L. Sp. Pl. 1148. 1753.
+
+Thallus closely attached to the substratum at the center, the lobes
+ascending, 6 to 8 cm. in diameter, smooth and devoid of trichomatic
+hyphae above, cephalodia more or less rounded and irregularly scattered
+over the surface (Fig. 3), the lobes broad and rounded with crenate
+margins, brown above, the lower surface having numerous veins, these
+forming a dark brown nap at the center, the veins distinct and light
+toward the margin, dark rhizoids extending from the veins; medulla
+composed of thick-walled, densely interwoven hyphae, irregularly
+disposed; apothecia on extended lobules, orbicular and frequently
+revolute, the disk red-brown, 2 to 5 mm. in diameter, the margin entire
+or crenulate; hypothecium pale brown; hymenium hyaline to pale brown
+above; asci cylindrico-clavate; spores acicular, straight, 4- to
+6-celled, 47 to 66 mic. long and 4 to 5 mic. wide (Fig. 8, d).
+
+Examined from Clark County. Also reported from Champaign County. On
+earth and often on humus-covered rocks. Rare in Ohio.
+
+
+2. Peltigera praetextata (Sommerf.) Fink. Proc. Ind. Acad. Sci. 1918:
+267. 1918.
+
+_Peltigera ulorrhiza praetextata_ Sommerf. Lapp. Suppl. 123. 1826.
+
+Thallus adnate toward the center, more or less ascending toward the
+margins, 7 to 15 cm. in diameter, the upper surface having isidioid
+branchlets or lobules scattered more or less thickly, the lobes broad,
+wavy, crenate, with frequently isidioid, lobulate margins, trichomatic
+hyphae often present, usually green-gray toward the center, becoming
+brown toward the margin, the lower surface light with numerous dark
+veins and bearing rhizoids of the same color, the veins and rhizoids
+becoming light colored toward the margin; medulla of densely interwoven
+and irregularly disposed hyphae; apothecia on narrow, somewhat extended
+lobes, the disk brown to brown-black, revolute, 2 to 5 mm. in diameter,
+hypothecium light to darker brown; hymenium pale below and brown above;
+asci cylindrico-clavate; spores sub-fusiform to acicular, usually
+straight but sometimes slightly curved, 4- to 6-celled, 42 to 56 mic.
+long and 3 to 5 mic. wide.
+
+Examined from Franklin, Adams, Butler, Marion, Jefferson, and Preble
+counties. On soil, old logs, and moss in woods. Not previously reported
+from Ohio, but included under _Peltigera canina_ and _Peltigera
+rufescens_. Evidently widely distributed and frequent in the State, but
+seldom fruited.
+
+
+3. Peltigera sorediata (Schaer.) Fink comb. nov.
+
+_Peltigera canina spuria sorediata_ Schaer. Enum. Lich. Eur. 21. 1850.
+
+Thallus small, composed of scattered lobes, these 1 to 4.5 cm. in
+length, adnate with slightly ascending rounded, and crenate margins, the
+upper surface usually deep gray at the center, becoming lighter toward
+the margin, thickly covered with trichomatic hyphae, orbicular sorediate
+areas scattered over the upper surface, the lower surface ash-white to
+cream-colored, with a network of veins of the same color, with similarly
+colored rhizoids extending downward; medulla of small, densely
+interwoven and irregularly extending hyphae; apothecia somewhat
+digitately clustered on the narrow lobes, small, 1.3 to 3 mm. in
+diameter, orbicular, flat or semi-revolute, dark brown; hypothecium
+light brown; hymenium hyaline below and brown above; asci long-clavate;
+spores acicular, 6- to 8-celled, 53 to 66 mic. long and 3 to 3.5 mic.
+wide (Fig. 8, b).
+
+Examined from Butler and Lake counties. On damp earth and mossy rocks.
+Not previously reported from Ohio, and probably not widely distributed
+in the State. Surely rare.
+
+
+4. Peltigera canina (L.) Hoffm. Deutsch. Fl. 2: 108. 1795.
+
+_Lichen caninus_ L. Sp. Pl. 1149. 1753.
+
+Thallus closely adnate toward center, the lobes more or less ascending,
+6 to 15 cm. in diameter, the upper surface for the most part thickly
+covered with trichomatic hyphae, generally giving it a downy appearance
+under the lens, the lobes numerous and usually broad and rounded, with
+entire or crenate and much crisped margins, usually green-gray but
+sometimes becoming brown, below almost white, netted with light brown or
+gray veins, these bearing rhizoids of the same color; medulla (Fig. 5)
+of densely interwoven and irregularly disposed hyphae; apothecia on
+narrow, extended lobes, often erect, orbicular, usually revolute, 2 to 7
+mm. in diameter, the disk dark brown; hypothecium (Fig. 7) pale brown;
+hymenium (Fig. 6) pale below and brown above; asci long-clavate; spores
+acicular, straight or sometimes curved, 4- to 8-celled, 30 to 65 mic.
+long and 3 to 5 mic. wide (Fig. 8, d).
+
+Examined from Butler, Franklin, Ashtabula, Green, Seneca, Summit,
+Lorain, Preble, Brown, and Adams counties. On soil or mosses in woods.
+Generally distributed and frequent in Ohio.
+
+
+5. Peltigera rufescens (Neck.) Hoffm. Deutsch. Fl. 2: 107. 1795.
+
+_Lichen rufescens_ Neck. Meth. Musc. 79. 1771.
+
+Thallus closely adnate at the center with ascending lobes, 5 to 15 cm.
+in diameter, the upper surface smooth and devoid of trichomatic hyphae
+for the most part, but the margins sometimes sparingly covered with
+them, green-gray to brown, the lobes crowded, rather small with crenate,
+much crisped, elevated margins, the lower surface usually becoming dark
+brown except at the margins, and thickly reticulated with brown veins,
+from these numerous rhizoids of similar color extending; medulla of
+densely interwoven variously disposed hyphae; apothecia numerous on
+narrow, extending lobes, the disk brown to black-brown, revolute, 4 to 7
+mm. in diameter; hypothecium pale brown; hymenium hyaline to pale brown
+below and dark brown above; asci long-clavate; spores acicular, straight
+or curved, 4- to 8-celled, 45 to 68 mic. long and 3.5 to 5 mic. wide.
+
+Examined from Butler, Preble, Clark, Adams, and Summit counties. Also
+reported from Champaign County. On earth and mosses, commonly about
+trees. Widely distributed in Ohio, but infrequent.
+
+
+6. Peltigera polydactyla (Neck.) Hoffm. Deutsch. Fl. 2: 106. 1795.
+
+_Lichen polydactylon_ Neck. Musc. 85. 1771.
+
+Thallus adnate at the center with ascendant margins of the lobes, 6 to
+11 cm. in diameter, the upper surface smooth and shining, devoid of
+trichomatic hyphae, the lobes broad with crisped, crenate margins,
+except those bearing the apothecia, these much narrower and more
+elongated and usually digitately clustered, brown in color for the most
+part, the lower surface showing through a reticulation of dark veins as
+small light-colored spots, numerous dark rhizoids extending downward
+from the veins; medulla of densely interwoven and irregularly disposed
+hyphae; apothecia orbicular, and usually revolute, the disk dark brown,
+3 to 10 mm. in diameter; hypothecium pale brown; hymenium pale below and
+dark brown above; asci clavate to cylindrico-clavate; spores acicular,
+straight or slightly curved, 4- to 6-celled, 42 to 70 mic. long and 3 to
+4 mic. wide.
+
+Examined from Clark, Fairfield, and Morgan counties. On earth. Rare in
+Ohio.
+
+
+7. Peltigera horizontalis (L.) Hoffm. Deutsch. Fl. 2: 107. 1795.
+
+_Lichen horizontalis_ L. Mant. Pl. 2: 132. 1771.
+
+Thallus mostly adnate, the margins scarcely ascending, 6 to 20 cm. in
+diameter, the upper surface smooth and shining, devoid of trichomatic
+hyphae, green-gray to brown, the lobes broad and rounded with entire or
+crenate margins, the lower surface covered with numerous veins, these
+giving a dark coloration toward the center and becoming light colored
+toward the margins, numerous dark rhizoids extending down from the
+veins; medulla of thick-walled, densely and irregularly disposed hyphae;
+apothecia on somewhat narrowed lobes, transversely oblong or
+infrequently orbicular, the disk red-brown, concave, 2 to 4 mm. in
+diameter; hypothecium light brown; hymenium pale below and dark brown
+toward the upper surface; asci cylindrico-clavate; spores fusiform to
+long-ellipsoid, straight to curved, 4-celled, 26 to 40 mic. long and 5
+to 6.5 mic. wide. (Fig. 8 a).
+
+Examined from Lake and Fairfield counties. On earth and mossy rocks.
+Rare in Ohio.
+
+
+Nephroma Ach. Lich. Univ. 101. 521. pl. 11. f. 1. 1810.
+
+Thallus foliose, but smaller and thinner than that of _Peltigera_, and
+devoid of trichomatic hyphae, more or less closely attached to the
+substratum by rhizoids; cortex well developed on both upper and lower
+sides; medulla well developed (Fig. 2); apothecia confined to the lower
+side of the thallus, marginal on narrow, slightly elongated lobes,
+thalloid margin persistent and crenate; hypothecium usually some shade
+of brown; hymenium usually pale below and brown above; paraphyses
+simple or branched; spores brown, 4-celled, 8 in each ascus.
+
+The algal-host cells occur as in _Peltigera_.
+
+
+1. Nephroma helvetica Ach. Lich. Univ. 523. 1810.
+
+Thallus adnate, rather closely attached to the substratum by numerous
+short, hyaline, thick-walled rhizoids, irregular or sometimes orbicular
+in form, 6 to 10 cm. in diameter, green-gray to brown above, smooth or
+bearing tooth-like branchlets, narrowly and laciniately lobed, the
+margins of the lobes serrate or crenate, slightly ascending, beneath
+finally tomentose, and brown or black-brown; plectenchymatous cortices
+well developed above and below; medulla of narrow, thin-walled, densely,
+variously disposed hyphae; apothecia numerous, the disk red-brown to
+almost black, 1.3 to 3 mm. in diameter; hypothecium of interwoven
+hyphae, pale brown; hymenium pale brown below and darker above; asci
+clavate; paraphyses simple or branched, slightly swollen and brown at
+the apex; spores brown, ellipsoid, 4-celled, 15 to 21 mic. long and 5.5
+to 8 mic. wide.
+
+Examined from Butler and Champaign Counties. On trunks and mossy rocks.
+Rare and usually sterile in Ohio.
+
+
+EXPLANATION OF PLATE XIV
+
+
+Fig. 1. A section through the thallus of _Peltigera canina_, showing the
+cortex above and the medulla below, the medullary hyphae of the lower
+portion running in a somewhat horizontal direction. The algal cells
+shaded. X 380.
+
+Fig. 2. A section through the thallus of _Nephroma helvetica_, showing
+the cortices, upper and lower, and the mycelial medulla within. The
+algal cell shaded. X 760.
+
+Fig. 3. A section through a cephalodium of _Peltigera aphthosa_; a, the
+surrounding cortex; b, the internal hyphae and the cells of the algal
+host; c, the supporting hyphae from the thallus below. Partly
+diagramatic. X 48.
+
+Fig. 4. A small portion of a section through the exciple of _Peltigera
+canina_, showing the plectenchymatous structure. X 380.
+
+[Illustration: PLATE XIV.]
+
+
+EXPLANATION OF PLATE XV
+
+
+Fig. 5. A section through the cortex of _Peltigera canina_, showing its
+relation to the medullary hyphae. X 760.
+
+Fig. 6. A portion of a section of the hymenium of _Peltigera canina_,
+showing two asci containing spores, two asci with protoplasmic contents,
+and five paraphyses. X 760.
+
+Fig. 7. A portion of a section through an apothecium of _Peltigera
+canina_, showing part of the hymenium of interwoven hyphae below and the
+bases of three paraphyses above. X 760.
+
+Fig. 8. Types of spores found in the _Peltigeraceae_: a, 4-celled spores
+of _Peltigera horizontalis_; b, 6- to 8-celled spores of _Peltigera
+sorediata_; c, 4-celled spores of _Peltigera aphthosa_; d, 4- to
+8-celled spores of _Peltigera canina_. X 380.
+
+     The drawings were made with camera lucida and were reduced one-half
+     in making the plates.
+
+[Illustration: PLATE XV.]
+
+
+INDEX
+
+
+Bacidia, 345
+
+Bacidia egenuloidea, 346
+
+Bacidia fuscorubella, 346
+
+Bacidia incompta, 347
+
+Bacidia inundata, 347
+
+Bacidia rubella, 346
+
+Bacidia schweinitzii, 347
+
+Bacidia umbrina, 348
+
+Biatorella, 336
+
+Biatorella pruinosa, 337
+
+Biatorella simplex, 336
+
+Biatorina, 341
+
+Biatorina chalybeia, 341
+
+Biatorina heerii, 343
+
+Biatorina lentibularis, 342
+
+Biatorina prasina, 342
+
+Bilimbia, 343
+
+Bilimbia hypnophila, 344
+
+Bilimbia melaena, 344
+
+Bilimbia microcarpa, 345
+
+Bilimbia naegelii, 344
+
+Bilimbia sphaeroides, 343
+
+Bilimbia trachona, 345
+
+Buellia, 348
+
+Buellia myriocarpa, 348
+
+Buellia parasema, 349
+
+Buellia turgescentoides, 349
+
+
+Lecideaceae, 336
+
+Lecidea, 337
+
+Lecidea albocaerulescens, 341
+
+Lecidea coarctata, 338
+
+Lecidea enteroleuca, 340
+
+Lecidea flexuosa, 340
+
+Lecidea humicola, 339
+
+Lecidea intropallida, 338
+
+Lecidea platycarpa, 341
+
+Lecidea rupestris, 338
+
+Lecidea sylvicola, 340
+
+Lecidea uliginosa, 339
+
+Lecidea varians, 338
+
+Lecidea viridescens, 339
+
+
+Nephroma, 358
+
+Nephroma helvetica, 359
+
+
+Peltigeraceae, 354
+
+Peltigera aphthosa, 356
+
+Peltigera canina, 357
+
+Peltigera horizontalis, 358
+
+Peltigera polydactyla, 358
+
+Peltigera praetextata, 356
+
+Peltigera rufescens, 357
+
+Peltigera sorediata, 356
+
+
+Rhizocarpon, 349
+
+Rhizocarpon alboatrum, 350
+
+Rhizocarpon petraeum, 350
+
+Rhizocarpon vernicomoideum, 350
+
+
+
+
+Bulletins Ohio Biological Survey
+
+
+I. Outline of Biological Survey Plan Syrphidae of Ohio
+      by C.L. Metcalf                                   $ .50
+
+II. Catalog of Ohio Vascular Plants
+      by John H. Schaffner                                .50
+
+III. Botanical Survey of the Sugar Grove Region
+      by R.F. Griggs                                      .50
+
+IV. The Euglenoidina of Ohio
+      by L.B. Walton                                      .50
+
+V. The Ascomycetes of Ohio.--I
+      by Bruce Fink
+
+   The Ascomycetes of Ohio.--II
+      by Bruce Fink and C. Audrey Richards                .50
+
+VI. Qualities and Uses of the Woods of Ohio
+      by Wm. R. Lazenby                                   .50
+
+VII. The Physiographic Ecology of the Cincinnati Region
+      by E. Lucy Braun                                    .50
+
+VIII. The Tingitoidea of Ohio
+      by Herbert Osborn and Carl J. Drake                 .50
+
+IX. The Grasses of Ohio
+      by John H. Schaffner                                .50
+
+X. The Ascomycetes of Ohio.--IV and V
+      by Bruce Fink and Leafy J. Corrington               .50

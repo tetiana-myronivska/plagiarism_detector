@@ -1,0 +1,791 @@
+﻿The greatest care is required in the insulating. The secondary is
+sometimes wound in sections so as to keep those parts differing greatly
+in potential far from each other. This prevents sparking, which would
+destroy the insulation.
+
+A make and break, often of the hammer and anvil type, is operated by the
+coil. (See Circuit Breaker, Automatic.) As the current passes through
+the primary it magnetizes the core. This attracts a little hammer which
+normally resting on an anvil completes the circuit. The hammer as
+attracted is lifted from the anvil and breaks the circuit. The soft iron
+core at once parts with its magnetism and the hammer falls upon the
+anvil again completing the circuit. This operation goes on rapidly, the
+circuit being opened and closed in quick succession.
+
+Every closing of the primary circuit tends to produce a reverse current
+in the secondary, and every opening of the primary circuit tends to
+produce a direct current in the secondary. Both are of extremely short
+duration, and the potential difference of the two terminals of the
+secondary may be very high if there are many times more turns in the
+secondary than in the primary.
+
+The extra currents interfere with the action of an induction coil. To
+avoid their interference a condenser is used. This consists of two
+series of sheets of tin foil. Leaves of paper alternate with the sheets
+of tin-foil, the whole being built up into a little book. Each sheet of
+tin-foil connects electrically with the sheet next but one to it. Thus
+each leaf of a set is in connection with all others of the same set, but
+is insulated from the others. One set of leaves of tin-foil connects
+with the hammer, the other with the anvil. In large coils there may be
+75 square feet of tin-foil in the condenser.
+
+The action of the condenser is to dispose of the direct extra current.
+When the primary circuit is opened this current passes into the
+condenser, which at once discharges itself in the other direction
+through the coil. This demagnetizes the core, and the action intensifies
+and shortens the induced current. The condenser prevents sparking, and
+in general improves the action of the coil.
+
+Many details enter into the construction of coils, and many variations
+in their construction obtain. Thus a mercury cup into which a plunger
+dips often replaces the anvil and hammer.
+
+
+135   STANDARD ELECTRICAL DICTIONARY.
+
+
+The induction coil produces a rapid succession of sparks, which may
+spring across an interval of forty inches. The secondary generally ends
+in special terminals or electrodes between which the sparking takes
+place. A plate of glass, two inches in thickness, can be pierced by
+them. In the great Spottiswoode coil there are 280 miles of wire in the
+secondary, and the wire is about No. 36 A.W.G.
+
+
+Fig. 100. VERTICAL SECTION OF INDUCTION COIL.
+
+
+Fig. l01. PLAN OF INDUCTION COIL CONNECTIONS.
+
+
+Induction coils have quite extended use in electrical work. They are
+used in telephone transmitters, their primary being in circuit with the
+microphone, and their secondary with the line and receiving telephone.
+In electric welding, and in the alternating current system they have
+extended application. In all these cases they have no automatic circuit
+breaker, the actuating current being of intermittent or alternating
+type.
+
+
+136   STANDARD ELECTRICAL DICTIONARY.
+
+
+In the cuts the general construction of an induction coil is shown. In
+the sectional elevation, Fig. 100, A, is the iron core; B is the primary
+of coarse wire; C is a separating tube, which may be of pasteboard; D is
+the secondary of fine wire; E, E are the binding posts connected to the
+secondary; H, H are the heads or standards; K, K are the terminals of
+the primary; F is the vibrating contact spring; G, a standard carrying
+the contact screw; J is the condenser with wires, L, M, leading to it.
+
+Referring to the plan, Fig. 101, H represents the primary coil; B and A
+are two of the separate sheets of the condenser, each sheet with
+projecting ears; G, G are the heads of the coil; the dark lines are
+connections to the condenser. One set of sheets connects with the
+primary coil at C, and also with the vibrating spring shown in plan and
+in the elevation at F. The other set of sheets connects with the post,
+carrying the contact screw. The other terminal of the primary runs to a
+binding post E. F, in the plan is a binding post in connection with the
+standard and contact screw.
+
+
+Coil, Induction, Inverted.
+An induction coil arranged to have a lower electro-motive force in the
+secondary than in the primary. This is effected by having more
+convolutions in the primary wire than in the secondary. Such coils in
+practice are used with the alternating current and then do not include a
+circuit breaker or condenser. They are employed in alternating current
+system and in electric welding. (See Welding, Electric--Converter.)
+
+In the cut an inverted coil, as constructed for electric welding is
+shown. In it the primary coil is marked P; the secondary, merely a bar
+of metal, is marked E, with terminals S, S; the heavy coils, I, of iron
+wire are the core; K is a screw for regulating the clamps; J, Z is a
+second one for the same purpose, while between D and D' the heat is
+produced for welding the bars, B, B', held in the clamps, C, C'. It will
+be seen how great may be the difference in turns between the single
+circle of heavy copper rod or bar which is the secondary of the coil,
+and the long coil of wire forming the primary.
+
+
+Fig. 102. INVERTED INDUCTION COIL FOR ELECTRIC WELDING.
+
+
+137   STANDARD ELECTRICAL DICTIONARY.
+
+
+Coil, Induction, Telephone.
+An induction coil used in telephone circuits. It is placed in the box or
+case near the transmitter. The primary is in circuit with the
+microphone. The secondary is in circuit with the line and receiving
+telephone. In the Bell telephone apparatus the primary of the induction
+coil is wound with No. 18 to 24 A. W. G. wire to a resistance of 1/2
+ohm; the secondary, with No. 36 wire to a resistance of 80 ohms. The
+Edison telephone induction coil was wound with similar wires to a
+resistance of 3 to 4 ohms and of 250 ohms respectively.
+
+
+Coil, Magnetizing.
+A coil of insulated wire for making magnets; and for experimental uses;
+it has a short axis and central aperture of as small size as consistent
+with the diameter of the bar to be magnetized, which has to pass through
+it readily. The wire may be quite heavy, 2 or 3 millimeters (.08--.12
+inch) thick, and is cemented together with carpenter's glue, or with
+shellac or ethereal solution of gum copal. In use it is passed over the
+bar a few times while a heavy current is going through it. It is used
+for magic circles also. (See Circle, Magic.)
+
+
+Fig. 103. MAGNETIZING COIL.
+
+
+Coil, Resistance.
+A coil constructed for the purpose of offering a certain resistance to a
+steady current. This resistance may be for the purpose of carrying out
+quantitative tests, as in Wheatstone bridge work (see Wheatstone's
+Bridge), or simply to reduce the intensity of a current. For the first
+class of work the coils are wound so as to prevent the creation of a
+magnetic field. This is effected by first doubling the wire without
+breaking it, and then starting at the bend the doubled wire, which is
+insulated, is wound on a bobbin or otherwise until a proper resistance
+is shown by actual measurement. The coils are generally contained or set
+in closed boxes with ebonite tops. Blocks of brass are placed on the
+top, and one end from one coil and one end from the next connect with
+the same block. By inserting a plug, P, so as to connect any two blocks,
+which have grooves reamed out for the purpose, the coil beneath will be
+short circuited. German silver, platinoid or other alloy, q. v., is
+generally the material of the wire. A great object is to have a wire
+whose resistance will be unaffected by heat.
+
+
+138   STANDARD ELECTRICAL DICTIONARY.
+
+
+Fig. 104. RESISTANCE COILS AND CONNECTIONS, SHOWING PLUG.
+
+
+Coil, Rhumkorff.
+The ordinary induction coil with circuit breaker, for use with original
+direct and constant current, is thus termed. (See Coil, Induction.)
+
+Synonym--Inductorium.
+
+
+Coil, Ribbon.
+A coil made of copper ribbon wound flatwise, often into a disc-like
+shape, and insulated by tape or strips of other material intervening
+between the successive turns.
+
+
+Coils, Compensating.
+Extra coils on the field magnets of dynamos or motors, which coils are
+in series with the armature windings for the purpose of keeping the
+voltage constant. In compound wound machines the regular series-wound
+coil is thus termed. In a separately excited dynamo a coil of the same
+kind in circuit with the armature may be used as a compensator.
+
+
+Coils, Henry's.
+An apparatus used in repeating a classic experiment in electro-magnetic
+induction, due to Prof. Henry. It consists in a number of coils, the
+first and last ones single, the intermediate ones connected in pairs,
+and one of one pair placed on the top of one of the next pair. On
+opening or closing the circuit of an end coil the induced effect goes
+through the series and is felt in the circuit of the other end coil.
+Prof. Henry extended the series so as to include seven successive
+inductions, sometimes called inductions of the first, second, third and
+other orders. Frequently ribbon coils (see Coil, Ribbon,) are used in
+these experiments.
+
+
+Coils, Sectioned.
+A device for prolonging the range of magnetic attraction. It consists of
+a series of magnetizing coils traversed by an iron plunger. As it passes
+through them, the current is turned off the one in the rear or passing
+to the rear and turned into the next one in advance. The principle was
+utilized in one of Page's electric motors about 1850, and later by
+others. The port-electric railroad, q. v., utilizes the same principle.
+
+
+139  STANDARD ELECTRICAL DICTIONARY.
+
+
+Collecting Ring.
+In some kinds of generators instead of the commutator a pair of
+collecting rings of metal, insulated from the machine and from each
+other, are carried on the armature shaft. A brush, q. v., presses on
+each, and the circuit terminals connect to these two brushes. Such rings
+are employed often on alternating current generators, where the current
+does not have to be changed or commuted. Collecting rings with their
+brushes are used also where a current has to be communicated to a
+revolving coil or circuit as in the magnetic car wheel, the cut of which
+is repeated here. The coil of wire surrounding the wheel and rotating
+with it has to receive current. This it receives through the two
+stationary brushes which press upon two insulated metallic rings,
+surrounding the shaft. The terminals of the coil connect one to each
+ring. Thus while the coil rotates it constantly receives current, the
+brushes being connected to the actuating circuit.
+
+
+Fig. 105. MAGNETIC CAR WHEEL SHOWING COLLECTING RINGS AND BRUSHES.
+
+
+Collector.
+(a) A name for the brush, q. v., in mechanical electric generators, such
+as dynamos, a pair of which collectors or brushes press on the
+commutator or collecting rings, and take off the current.
+
+(b) The pointed connections leading to the prime conductor on a static
+machine for collecting the electricity; often called combs. The points
+of the combs or collectors face the statically charged rotating glass
+plate or cylinder of the machine.
+
+
+Colombin.
+The insulating material between the carbons in a Jablochkoff candle or
+other candle of that type. Kaolin was originally used. Later a mixture
+of two parts calcium sulphate (plaster of Paris) and one part barium
+sulphate (barytes) was substituted.
+
+The colombin was three millimeters (.12 inch) wide, and two millimeters
+(.08 inch) thick. (See Candle, Jablochkoff.)
+
+
+Column, Electric.
+An old name for the voltaic pile, made up of a pile of discs of copper
+and zinc, with flannel discs, wet with salt solution or dilute acid,
+between each pair of plates.
+
+
+140   STANDARD ELECTRICAL DICTIONARY.
+
+
+Comb.
+A bar from which a number of teeth project, like the teeth of a comb. It
+is used as a collector of electricity from the plate of a frictional or
+influence electric machine; it is also used in a lightning arrester to
+define a path of very high resistance but of low self-induction, for the
+lightning to follow to earth.
+
+
+Communicator.
+The instrument by which telegraph signals are transmitted is sometimes
+thus termed.
+
+
+Commutator.
+In general an apparatus for changing. It is used on electric current
+generators, and motors, and on induction coils, and elsewhere, for
+changing the direction of currents, and is of a great variety of types.
+
+Synonym--Commuter (but little used).
+
+
+Fig. 106. DYNAMO OR MOTOR COMMUTATOR.
+
+
+Commutator Bars.
+The metallic segments of a dynamo or motor commutator.
+
+
+Commutator, Flats in.
+A wearing away or lowering in level of one or more metallic segments of
+a commutator. They are probably due in many cases to sparking, set up by
+periodic springing in the armature mounting, or by defective commutator
+connections.
+
+
+Commutator of Current Generators and Motors.
+In general a cylinder, formed of alternate sections of conducting and
+non-conducting material, running longitudinally or parallel with the
+axis. Its place is on the shaft of the machine, so that it rotates
+therewith. Two brushes, q. v., or pieces of conducting material, press
+upon its surface.
+
+
+141  STANDARD ELECTRICAL DICTIONARY.
+
+
+As a part of electric motors and generators, its function is to collect
+the currents produced by the cutting of lines of force so as to cause
+them all to concur to a desired result. The cut shows the simplest form
+of commutator, one with but two divisions. Its object may be to enable a
+current of constant direction to be taken from a rotating armature, in
+which the currents alternate or change direction once in each rotation.
+It is carried by the shaft A of the armature and rotates with it. It
+consists of two leaves, S S, to which the terminals of the armature are
+connected. Two springs, W W, the terminals of the outer circuit, press
+against the leaves. The springs which do this take off the current. It
+is so placed, with reference to the springs and armature, that just as
+the current changes in direction, each leaf changes from one spring to
+the other. Thus the springs receive constant direction currents. The
+changing action of this commutator appears in its changing the character
+of the current from alternating to constant. Were two insulated
+collecting rings used instead of a commutator, the current in the outer
+circuit would be an alternating one. On some dynamos the commutator has
+a very large number of leaves.
+
+Taking the Gramme ring armature, there must be as many divisions of the
+commutator as there are connections to the coils. In this case the
+function of the commutator is simply to lessen friction, for the brushes
+could be made to take current from the coils directly outside of the
+periphery of the ring.
+
+
+Commutator, Split Ring.
+A two-division commutator for a motor; it consists of two segments of
+brass or copper plate, bent to arcs of a circle, and attached to an
+insulating cylinder. They are mounted on the revolving spindle, which
+carries the armature, and acts as a two part commutator. For an example
+of its application, see Armature, Revolving, Page's. (See also Fig.
+107.)
+
+
+Fig. 107. SECTION OF SPLIT RING COMMUTATOR, WITH BRUSHES.
+
+
+Compass.
+An apparatus for utilizing the directive force of the earth upon the
+magnetic needle. It consists of a circular case, within which is poised
+a magnetized bar of steel. This points approximately to the north, and
+is used on ships and elsewhere to constantly show the direction of the
+magnetic meridian. Two general types are used. In one the needle is
+mounted above a fixed "card" or dial, on which degrees or points of the
+compass, q. v., are inscribed. In the other the card is attached to the
+needle and rotates with it. The latter represents especially the type
+known as the mariner's compass. (See Compass, Mariner's--Compass,
+Spirit, and other titles under compass, also Magnetic Axis--Magnetic
+Elements.) The needle in good compasses carries for a bearing at its
+centre, a little agate cup, and a sharp brass pin is the point of
+support.
+
+
+Compass, Azimuth.
+A compass with sights on one of its diameters; used in determining the
+magnetic bearing of objects.
+
+
+142   STANDARD ELECTRICAL DICTIONARY.
+
+
+Compass Card.
+The card in a compass; it is circular in shape, and its centre coincides
+with the axis of rotation of the magnetic needle; on it are marked the
+points of the compass, at the ends generally of star points. (See
+Compass, Points of the.) It may be fixed, and the needle may be poised
+above it, or it may be attached to the needle and rotate with it.
+
+
+Compass, Declination.
+An instrument by which the magnetic declination of any place may be
+determined. It is virtually a transit instrument and compass combined,
+the telescope surmounting the latter. In the instrument shown in the
+cut, L is a telescope mounted by its axis, X, in raised journals with
+vernier, K, and arc x, for reading its vertical angle, with level n. The
+azimuth circle, Q, R, is fixed. A vernier, V is carried by the box, A,
+E, and both turn with the telescope. A very light lozenge-shaped
+magnetic needle, a, b, is pivoted in the exact centre of the graduated
+circles, Q R, and M. The true meridian is determined by any convenient
+astronomical method, and the telescope is used for the purpose. The
+variation of the needle from the meridian thus determined gives the
+magnetic declination.
+
+
+FIG. 108. DECLINATION COMPASS.
+
+
+Compass, Inclination.
+A magnetic needle mounted on a horizontal axis at its centre of gravity,
+so as to be free to assume the dip, or magnetic inclination, when placed
+in the magnetic meridian. It moves over the face of a vertical graduated
+circle, and the frame also carries a spirit level and graduated
+horizontal circle. In use the frame is turned until the needle is
+vertical. Then the axis of suspension of the needle is in the magnetic
+meridian. The vertical circle is then turned through 90° of the horizon,
+which brings the plane of rotation of the needle into the magnetic
+meridian, when it assumes the inclination of the place.
+
+
+143  STANDARD ELECTRICAL DICTIONARY.
+
+
+Compass, Mariner's.
+A compass distinguished by the card being attached to and rotating with
+the needle. A mark, the "lubber's mark" of the sailors is made upon the
+case. This is placed so that the line connecting it, and the axis of
+rotation of the card is exactly in a plane, passing through the keel of
+the ship. Thus however the ship may be going, the point of the card
+under or in line with the "lubber's mark," shows how the ship is
+pointing. The case of the mariner's compass is often bowl-shaped and
+mounted in gimbals, a species of universal joint, so as to bc always
+horizontal. (See Compass, Spirit-Gimbals.)
+
+
+FIG. 109. MARINER'S COMPASS.
+
+
+Compass, Points of the.
+The circle of the horizon may bc and is best referred to angular
+degrees. It has also been divided into thirty-two equiangular and named
+points. A point is 11.25°. The names of the points are as follows:
+North, North by East, North North-east, North-east by North, North-east,
+North-east by East, East North-east, East by North, East, East by South,
+East South-east, South-east by East, South-east, South-east by South,
+South South-east, South by East, South, South by West, South South-west,
+South-west by South, South-west, South-west by West, West South-west,
+West by South, West, West by North, West North-west, North-west by West,
+North-west, North West by North, North North-west, North by West. They
+are indicated by their initials as N. N. W., North North-west, N. by W.,
+North by West.
+
+
+Compass, Spirit.
+A form of mariner's compass. The bowl or case is hermetically sealed and
+filled with alcohol or other nonfreezing liquid. The compass card is
+made with hollow compartments so as nearly to float. In this way the
+friction of the pivot or point of support is greatly diminished, and the
+compass is far more sensitive.
+
+
+Compass, Surveyor's.
+A species of theodolite; a telescope with collimation lines, mounted
+above a compass, so as to be applicable for magnetic surveys. Its use is
+to be discouraged on account of the inaccuracy and changes in
+declination of the magnetic needle.
+
+
+144   STANDARD ELECTRICAL DICTIONARY.
+
+
+Compensating Resistances.
+In using a galvanometer shunt the total resistance of the circuit is
+diminished so that in some cases too much current flows through it; in
+such case additional resistance, termed as above, is sometimes
+introduced in series. The shunt in parallel with the galvanometer is
+thus compensated for, and the experimental or trial circuit does not
+take too much current.
+
+
+Complementary Distribution.
+Every distribution of electricity has somewhere a corresponding
+distribution, exactly equal to it of opposite electricity; the latter is
+the complimentary distribution to the first, and the first distribution
+is also complimentary to it.
+
+
+Component.
+A force may always be represented diagrammatically by a straight line,
+terminating in an arrow-head to indicate the direction, and of length to
+represent the intensity of the force. The line may always be assumed to
+represent the diagonal of a parallelogram, two of whose sides are
+represented by lines starting from the base of the arrow, and of length
+fixed by the condition that the original force shall be the diagonal of
+the parallelogram of which they are two contiguous sides; such lines are
+called components, and actually represent forces into which the original
+force may always be resolved. The components can have any direction.
+Thus the vertical component of a horizontal force is zero; its
+horizontal component is equal to itself. Its 450 component is equal to
+the square root of one-half of its square.
+
+
+Condenser.
+An appliance for storing up electrostatic charges: it is also called a
+static accumulator. The telegraphic condenser consists of a box packed
+full of sheets of tinfoil. Between every two sheets is a sheet of
+paraffined paper, or of mica. The alternate sheets of tinfoil are
+connected together, and each set has its own binding post. (See
+Accumulator, Electrostatic.)
+
+
+Condenser, Sliding.
+An apparatus representing a Leyden jar whose coatings can be slid past
+each other. This diminishes or increases the facing area, and
+consequently in almost exactly similar ratio diminishes or increases the
+capacity of the condenser.
+
+
+Conductance.
+The conducting power of a given mass of specified material of specified
+shape and connections. Conductance varies in cylindrical or prismatic
+conductors, inversely as the length, directly as the cross-section, and
+with the conductivity of the material. Conductance is an attribute of
+any specified conductor, and refers to its shape, length and other
+factors. Conductivity is an attribute of any specified material without
+direct reference to its shape, or other factors.
+
+
+Conduction.
+The process or act of conducting a current.
+
+
+145  STANDARD ELECTRICAL DICTIONARY.
+
+
+Conductivity.
+The relative power of conducting the electric current possessed by
+different substances. A path for the current through the ether is opened
+by the presence of a body of proper quality, and this quality, probably
+correlated to opacity, is termed conductivity. There is no perfect
+conductor, all offer some resistance, q. v., and there is hardly any
+perfect non-conductor. It is the reverse and reciprocal of resistance.
+
+
+Conductivity, Specific.
+The reciprocal of specific resistance. (See Resistance--Specific.)
+
+
+Conductivity, Unit of.
+The reciprocal of the ohm; it is a more logical unit, but has never been
+generally adopted; as a name the title mho (or ohm written backwards)
+has been suggested by Sir William Thomson, and provisionally adopted.
+
+
+Conductivity, Variable.
+The conductivity for electric currents of conductors varies with their
+temperature, with varying magnetization, tension, torsion and
+compression.
+
+
+Conductor.
+In electricity, anything that permits the passage of an electric
+current. Any disturbance in the ether takes the form of waves because
+the ether has restitutive force or elasticity. In a conductor, on the
+other hand, this force is wanting; it opens a path through the ether and
+a disturbance advances through it from end to end with a wave front, but
+with no succession of waves. This advance is the beginning of what is
+termed a current. It is, by some theorists, attributed to impulses given
+at all points along the conductor through the surrounding ether, so that
+a current is not merely due to an end thrust. If ether waves preclude a
+current on account of their restitutive force, ether waves cannot be
+maintained in a conductor, hence conductors should be opaque to light,
+for the latter is due to ether waves. This is one of the more practical
+every day facts brought out in Clerk Maxwell's electromagnetic theory of
+light. The term conductor is a relative one, as except a vacuum there is
+probably no substance that has not some conducting power. For relative
+conducting power, tables of conductivity, q. v., should be consulted.
+The metals beginning with silver are the best conductors, glass is one
+of the worst.
+
+[Transcriber's note: See "ether" for contemporary comments on this now
+discarded concept.]
+
+
+Conductor, Anti-Induction.
+A current conductor arranged to avoid induction from other lines. Many
+kinds have been invented and made the subject of patents. A fair
+approximation may be attained by using a through metallic circuit and
+twisting the wires composing it around each other. Sometimes concentric
+conductors, one a wire and the other a tube, are used, insulated, one
+acting as return circuit for the other.
+
+
+Conductor, Conical.
+A prime conductor of approximately conical shape, but rounded on all
+points and angles. Its potential is highest at the point.
+
+
+146   STANDARD ELECTRICAL DICTIONARY.
+
+
+Conductor, Imbricated.
+A conductor used in dynamo armatures for avoiding eddy currents, made by
+twisting together two or more strips of copper.
+
+
+Conductor, Prime.
+A body often cylindrical or spherical in shape, in any case with no
+points or angles, but rounded everywhere, whose surface, if the
+conductor itself is not metallic, is made conducting by tinfoil or gold
+leaf pasted over it. It is supported on an insulating stand and is used
+to collect or receive and retain static charges of electricity.
+
+
+Conductors, Equivalent.
+Conductors of identical resistance. The quotient of the length divided
+by the product of the conductivity and cross-section must be the same in
+each, if each is of uniform diameter.
+
+
+Conjugate. adj.
+Conjugate coils or conductors are coils placed in such relation that the
+lines of force established by one do not pass through the coils of the
+other. Hence variations of current in one produce no induced currents in
+the other.
+
+
+Connect. v.
+To bring two ends of a conductor together, or to bring one end of a
+conductor in connection with another, or in any way to bring about an
+electrical connection.
+
+
+Connector.
+A sleeve with screws or other equivalent device for securing the ends of
+wires in electrical contact. A binding-post, q. v., is an example.
+Sometimes wire spring-catches are used, the general idea being a device
+that enables wires to be connected or released at will without breaking
+off or marring their ends. The latter troubles result from twisting
+wires together.
+
+
+Consequent Poles.
+A bar magnet is often purposely or accidentally magnetized so as to have
+both ends of the same polarity, and the center of opposite polarity. The
+center is said to comprise two consequent poles. (See Magnet,
+Anomalous.)
+
+
+Conservation of Electricity.
+As every charge of electricity has its equal and opposite charge
+somewhere, near or far, more or less distributed, the sum of negative is
+equal always to the sum of positive electrical charges. For this
+doctrine the above title was proposed by Lippman.
+
+
+Contact Breaker.
+Any contrivance for closing a circuit, and generally for opening and
+closing in quick succession. An old and primitive form consisted of a
+very coarsely cut file. This was connected to one terminal, and the
+other terminal was drawn over its face, making and breaking contact as
+it jumped from tooth to tooth. (See Circuit Breaker--do. Automatic,
+etc.--do. Wheel-do. Pendulum.)
+
+
+147   STANDARD ELECTRICAL DICTIONARY.
+
+
+Contact, Electric.
+A contact between two conductors, such that a current can flow through
+it. It may be brought about by simple touch or impact between the ends
+or terminals of a circuit, sometimes called a dotting contact, or by a
+sliding or rubbing of one terminal on another, or by a wheel rolling on
+a surface, the wheel and surface representing the two terminals.
+
+There are various descriptions of contact, whose names are
+self-explanatory. The term is applied to telegraph line faults also, and
+under this, includes different descriptions of contact with neighboring
+lines, or with the earth.
+
+
+Contact Electricity.
+When two dissimilar substances are touched they assume different
+electric potentials. If conductors, their entire surfaces are affected;
+if dielectrics, only the surfaces which touch each other. (See Contact
+Theory.)
+
+
+Contact Faults.
+A class of faults often called contacts, due to contact of the conductor
+of a circuit with another conductor. A full or metallic contact is where
+practically perfect contact is established; a partial contact and
+intermittent contact are self-explanatory.
+
+
+Contact Point.
+A point, pin or stud, often of platinum, arranged to come in contact
+with a contact spring, q. v., or another contact point or surface, under
+any determined conditions.
+
+
+Contact Potential Difference.
+The potential difference established by the contact of two dissimilar
+substances according to the contact theory, q. v.
+
+
+Contact Series.
+An arrangement or tabulation of substances in pairs, each intermediate
+substance appearing in two pairs, as the last member of the first, and
+first member of the succeeding pair, with the statement of the potential
+difference due to their contact, the positively electrified substance
+coming first. The following table of some contact potentials is due to
+Ayrton and Perry:
+CONTACT SERIES.
+Difference of Potential in Volts.
+Zinc--Lead        .210
+Lead--Tin         .069
+Tin--Iron         .313
+Iron--Copper      .146
+Copper--Platinum  .238
+Platinum-Carbon   .113
+
+The sum of these differences is 1.089, which is the contact potential
+between zinc and carbon.
+
+Volta's Law refers to this and states that--
+  The difference of potential produced by the contact of any two
+  substances is equal to the sum of the differences of potentials
+  between the intervening substances in the contact series.
+
+It is to be remarked that the law should no longer be restricted to or
+stated only for metals.
+
+
+148   STANDARD ELECTRICAL DICTIONARY.
+
+
+Contact-spring.
+A spring connected to one lead of an electric circuit, arranged to press
+against another spring, or contact point, q. v., under any conditions
+determined by the construction of the apparatus. (See Bell,
+Electric--Coil, Induction.)
+
+
+Contact Theory.
+A theory devised to explain electrification, the charging of bodies by
+friction, or rubbing, and the production of current by the voltaic
+battery. It holds that two bodies, by mere contact become oppositely
+electrified. If such contact is increased in extent by rubbing together,
+the intensity of their electrification is increased. This
+electrification is accounted for by the assumption of different kinetic
+energy, or energy of molecular motion, possessed by the two bodies;
+there being a loss and gain of energy, on the two sides respectively,
+the opposite electrifications are the result. Then when separated, the
+two bodies come apart oppositely electrified.
+
+The above accounts for the frictional production of electricity. In the
+voltaic battery, a separation of the atoms of hydrogen and oxygen, and
+their consolidation into molecules occurs, and to such separation and
+the opposite electrification of the electrodes by the oxygen and
+hydrogen, the current is attributed, because the hydrogen goes to one
+electrode, and the oxygen to the other, each giving up or sharing its
+own charge with the electrodes to which it goes. If zinc is touched to
+copper, the zinc is positively and the copper negatively electrified. In
+the separation of hydrogen and oxygen, the hydrogen is positively and
+the oxygen negatively electrified. In the battery, the current is due to
+the higher contact difference of oxygen and hydrogen compared to that
+between zinc and copper. It will be seen that the two contact actions in
+a battery work against each other, and that the current is due to a
+differential contact action. The zinc in a battery is electrified
+negatively because the negative electrification of the oxygen is greater
+in amount than its own positive electrification due to contact with the
+copper.
+
+
+Contractures.
+A muscular spasm or tetanus due to the passage of a current of
+electricity; a term in electro-therapeutics.
+
+
+Controlling Field.
+The magnetic or electro-magnetic field, which is used in galvanometers
+to control the magnetic needle, tending to restore it to a definite
+position whenever it is turned therefrom. It may be the earth's field or
+one artificially produced.
+
+
+Controlling Force.
+In galvanometers and similar instruments, the force used to bring the
+needle or indicator back to zero. (See Controlling
+Field--Electro-Magnetic Control--Gravity Control--Magnetic
+Control--Spring Control.)
+
+
+149   STANDARD ELECTRICAL DICTIONARY.
+
+
+Convection, Electric.
+The production of blasts or currents of air (convection streams) from
+points connected to statically charged conductors. The term is sometimes
+applied to electric convection of heat. (See Convection of Heat,
+Electric.)
+

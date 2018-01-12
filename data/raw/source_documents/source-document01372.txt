@@ -1,0 +1,495 @@
+﻿
+   _____________________________________________________
+  |                                                     |
+  |                  SCREW THREADS.                     |
+  |_____________________________________________________|
+  |        |        |                 |         |       |
+  | Diam.  |Threads |    Diameter     | Area of | Width |
+  |  of    |  per   |   at root of    | Bolt at |  of   |
+  | Screw. | inch.  |     Thread.     | root of | Flat. |
+  |        |        |                 | Thread. |       |
+  |________|________|_________________|_________|_______|
+  |        |        |       |         |         |       |
+  |   1/4  | 20     |  .185 |   13/64 |    .026 | .0062 |
+  |   5/16 | 18     |  .240 |   15/64 |    .045 | .0074 |
+  |   3/8  | 16     |  .294 |   19/64 |    .067 | .0078 |
+  |   7/16 | 14     |  .344 |   11/32 |    .092 | .0089 |
+  |   1/2  | 13     |  .400 |   13/32 |    .125 | .0096 |
+  |   9/16 | 12     |  .454 |   29/64 |    .161 | .0104 |
+  |   5/8  | 11     |  .507 |   33/64 |    .201 | .0113 |
+  |   3/4  | 10     |  .620 |    5/8  |    .301 | .0125 |
+  |   7/8  |  9     |  .731 |   47/64 |    .419 | .0138 |
+  |        |        |       |         |         |       |
+  | 1      |  8     |  .837 |   27/32 |    .550 | .0156 |
+  | 1-1/8  |  7     |  .940 |   15/16 |    .693 | .0178 |
+  | 1-1/4  |  7     | 1.065 | 1- 1/16 |    .890 | .0178 |
+  | 1-3/8  |  6     | 1.160 | 1- 5/32 |   1.056 | .0208 |
+  | 1-1/2  |  6     | 1.284 | 1- 9/32 |   1.294 | .0208 |
+  | 1-5/8  |  5-1/2 | 1.389 | 1-25/64 |   1.515 | .0227 |
+  | 1-3/4  |  5     | 1.491 | 1-31/64 |   1.746 | .0250 |
+  | 1-7/8  |  5     | 1.616 | 1-39/64 |   2.051 | .0250 |
+  |        |        |       |         |         |       |
+  | 2      |  4-1/2 | 1.742 | 1-23/32 |   2.301 | .0277 |
+  | 2-1/4  |  4-1/2 | 1.962 | 1-31/32 |   3.023 | .0277 |
+  | 2-1/2  |  4     | 2.176 | 2-11/64 |   3.718 | .0312 |
+  | 2-3/4  |  4     | 2.426 | 2-27/64 |   4.622 | .0312 |
+  |        |        |       |         |         |       |
+  | 3      |  3-1/2 | 2.629 | 2- 5/8  |   5.428 | .0357 |
+  | 3-1/4  |  3-1/2 | 2.879 | 2- 7/8  |   6.509 | .0357 |
+  | 3-1/2  |  3-1/4 | 3.100 | 3- 3/32 |   7.547 | .0384 |
+  | 3-3/4  |  3     | 3.317 | 3- 5/16 |   8.614 | .0413 |
+  |        |        |       |         |         |       |
+  | 4      |  3     | 3.567 | 3- 9/16 |   9.993 | .0413 |
+  | 4-1/4  |  2-7/8 | 3.798 | 3-51/64 |  11.329 | .0435 |
+  | 4-1/2  |  2-3/4 | 4.028 | 4- 1/32 |  12.742 | .0454 |
+  | 4-3/4  |  2-5/8 | 4.256 | 4- 1/4  |  14.226 | .0476 |
+  |        |        |       |         |         |       |
+  | 5      |  2-1/2 | 4.480 | 4-31/64 |  15.763 | .0500 |
+  | 5-1/4  |  2-1/2 | 4.730 | 4-47/64 |  17.570 | .0500 |
+  | 5-1/2  |  2-3/8 | 4.953 | 4-61/64 |  19.267 | .0526 |
+  | 5-3/4  |  2-3/8 | 5.203 | 5-13/64 |  21.261 | .0526 |
+  | 6      |  2-1/4 | 5.423 | 5-27/64 |  23.097 | .0555 |
+  |________|________|_________________|_________|_______|
+   _____________________________________________________________
+  |                                                              |
+  |                              NUTS.                           |
+  |___________________ __________________________________________|
+  |         |          |          |          |         |         |
+  | Short   | Short    |  Long    |  Long    | Thick-  | Thick-  |
+  | Diam.   | Diam.    |  Diam.   |  Diam.   |  ness   |  ness   |
+  | Rough.  | Finish.  |  Rough.  |  Rough.  | Rough.  | Finish. |
+  |         |          |          |          |         |         |
+  | (Hex.)  | (Hex.)   |  (Hex.)  | (Square) |         |         |
+  |_________|_________ |__________|__________|_________|_________|
+  |         |          |          |          |         |         |
+  |    1/2  |    7/16  |    37/64 |     7/10 |    1/4  |    3/16 |
+  |   19/32 |   17/32  |    11/16 |    10/12 |    5/16 |    1/4  |
+  |   11/16 |    5/8   |    51/64 |    63/64 |    3/8  |    5/16 |
+  |   25/32 |   23/33  |     9/10 |  1- 7/64 |    7/16 |    3/8  |
+  |    7/8  |   13/16  |  1       |  1-15/64 |    1/2  |    7/16 |
+  |   31/32 |   29/32  |  1- 1/8  |  1-23/64 |    9/16 |    1/2  |
+  |  1-1/16 |  1       |  1- 7/32 |  1- 1/2  |    5/8  |    9/16 |
+  |  1-1/4  |  1-3/16  |  1- 7/16 |  1-49/64 |    3/4  |   11/16 |
+  |  1-7/16 |  1-3/8   |  1-21/32 |  2- 1/32 |    7/8  |   13/16 |
+  |         |          |          |          |         |         |
+  |  1- 5/8 |  1-9/16  |  1- 7/8  |  2-19/64 |  1      |   15/16 |
+  |  1-13/16|  1- 3/4  |  2- 5/32 |  2- 9/16 |  1-1/8  | 1- 1/16 |
+  |  2      |  1-15/16 |  2- 5/16 |  2-53/64 |  1-1/4  | 1- 3/16 |
+  |  2- 3/16|  2- 1/8  |  2-17/32 |  3- 3/32 |  1-3/8  | 1- 5/16 |
+  |  2- 3/8 |  2- 5/16 |  2- 3/4  |  3-23/64 |  1-1/2  | 1- 7/16 |
+  |  2- 9/16|  2- 1/2  |  2-31/32 |  3- 5/8  |  1-5/8  | 1- 9/16 |
+  |  2- 3/4 |  2-11/16 |  3- 3/16 |  3-57/64 |  1-3/4  | 1-11/16 |
+  |  2-15/16|  2- 7/8  |  3-13/32 |  4- 5/32 |  1-7/8  | 1-13/16 |
+  |         |          |          |          |         |         |
+  |  3-1/8  |  3- 1/16 |  3- 5/8  |  4-27/64 |  2      | 1-15/16 |
+  |  3-1/2  |  3- 7/16 |  4- 1/16 |  4-61/64 |  2-1/4  | 2- 3/16 |
+  |  3-7/8  |  3-13/16 |  4- 1/2  |  5-31/64 |  2-1/2  | 2- 7/16 |
+  |  4-1/4  |  4- 3/16 |  4-29/32 |  6       |  2-3/4  | 2-11/16 |
+  |         |          |          |          |         |         |
+  |  4-5/8  |  4- 9/16 |  5- 3/8  |  6-17/32 |  3      | 2-15/16 |
+  |  5      |  4-15/16 |  5-13/16 |  7- 1/16 |  3-1/4  | 3- 3/16 |
+  |  5-3/8  |  5- 5/16 |  6- 7/32 |  7-39/64 |  3-1/2  | 3- 7/16 |
+  |  5-3/4  |  5-11/16 |  6-21/32 |  8- 1/8  |  3-3/4  | 3-11/16 |
+  |         |          |          |          |         |         |
+  |  6-1/8  |  6- 1/16 |  7- 3/32 |  8-41/64 |  4      | 3-15/16 |
+  |  6-1/2  |  6- 7/16 |  7- 9/16 |  9- 3/16 |  4-1/4  | 4- 3/16 |
+  |  6-7/8  |  6-13/16 |  7-31/32 |  9- 3/4  |  4-1/2  | 4- 7/16 |
+  |  7-1/4  |  7- 3/16 |  8-13/32 | 10- 1/4  |  4-3/4  | 4-11/16 |
+  |         |          |          |          |         |         |
+  |  7-5/8  |  7- 9/16 |  8-27/32 | 10-49/64 |  5      | 4-15/16 |
+  |  8      |  7-15/16 |  9- 9/32 | 11-23/64 |  5-1/4  | 5- 3/16 |
+  |  8-3/8  |  8- 5/16 |  9-23/32 | 11- 7/8  |  5-1/2  | 5- 7/16 |
+  |  8-3/4  |  8-11/16 | 10- 5/32 | 12- 3/8  |  5-3/4  | 5-11/16 |
+  |  9-1/8  |  9- 1/16 | 10-19/32 | 12-15/16 |  6      | 5-15/16 |
+  |_________|__________|__________|__________|_________|_________|
+   _____________________________________________________________
+  |                                                             |
+  |                          BOLT HEADS.                        |
+  |_____________________________________________________________|
+  |         |         |          |          |         |         |
+  | Short   | Short   |  Long    |  Long    | Thick-  | Thick-  |
+  | Diam.   | Diam.   |  Diam.   |  Diam.   |  ness   |  ness   |
+  | Rough.  | Finish. |  Rough.  |  Rough.  | Rough.  | Finish. |
+  |         |         |          |          |         |         |
+  | (Hex.)  | (Hex.)  |  (Hex.)  | (Square) |         |         |
+  |_________|_________|__________|__________|_________|_________|
+  |         |         |          |          |         |         |
+  |    1/2  |    7/16 |    37/64 |     7/10 |    1/4  |    3/16 |
+  |   19/32 |   17/32 |    11/16 |    10/12 |   19/64 |    1/4  |
+  |   11/16 |    5/8  |    51/64 |    63/64 |   11/32 |    5/16 |
+  |   25/32 |   23/32 |     9/16 |   1-7/64 |   25/64 |    3/8  |
+  |    7/8  |   13/16 |  1       |  1-15/64 |    7/16 |    7/16 |
+  |   31/32 |   29/32 |  1- 1/8  |  1-23/64 |   31/64 |    1/2  |
+  | 1- 1/16 | 1       |  1- 7/32 |  1- 1/2  |   17/32 |    9/16 |
+  | 1- 1/4  | 1- 3/16 |  1- 7/16 |  1-49/64 |    5/8  |   11/16 |
+  | 1- 7/16 | 1- 3/8  |  1-21/32 |  2- 1/32 |   23/32 |   13/16 |
+  |         |         |          |          |         |         |
+  | 1- 5/8  | 1- 9/16 |  1- 7/8  |  2-19/64 |   13/16 |   15/16 |
+  | 1-13/16 | 1- 3/4  |  2- 5/32 |  2- 7/16 |   29/32 | 1- 1/16 |
+  | 2       | 1-15/16 |  2- 5/16 |  2-53/64 | 1       | 1- 3/16 |
+  | 2- 3/16 | 2- 1/8  |  2-17/32 |  3- 3/32 | 1- 3/32 | 1- 5/16 |
+  | 2- 3/8  | 2- 5/16 |  2- 3/4  |  3-23/64 | 1- 3/16 | 1- 7/16 |
+  | 2- 9/16 | 2- 1/2  |  2-31/32 |  3- 5/8  | 1- 9/32 | 1- 9/16 |
+  | 2- 3/4  | 2-11/16 |  3- 3/16 |  3-57/64 | 1- 3/8  | 1-11/16 |
+  | 2-15/16 | 2- 7/8  |  3-13/32 |  4- 5/32 | 1-15/32 | 1-13/16 |
+  |         |         |          |          |         |         |
+  | 3- 1/8  | 3- 1/16 |  3- 5/8  |  4-27/64 | 1- 9/16 | 1-15/16 |
+  | 3- 1/2  | 3- 7/16 |  4- 1/16 |  4-61/64 | 1- 3/4  | 2- 3/16 |
+  | 3- 7/8  | 3-13/16 |  4- 1/2  |  5-31/64 | 1-15/16 | 2- 7/16 |
+  | 4- 1/4  | 4- 3/16 |  4-29/32 |  6       | 2- 1/8  | 2-11/16 |
+  |         |         |          |          |         |         |
+  | 4- 5/8  | 4- 9/16 |  5- 3/8  |  6-17/32 | 2- 5/16 | 2-15/16 |
+  | 5       | 4-15/16 |  5-13/16 |  7- 1/16 | 2- 1/2  | 3- 3/16 |
+  | 5- 3/8  | 5- 5/16 |  6- 7/32 |  7-39/64 | 2-11/16 | 3- 7/16 |
+  | 5- 3/4  | 5-11/16 |  6-21/32 |  8- 1/8  | 2- 7/8  | 3-11/16 |
+  |         |         |          |          |         |         |
+  | 6- 1/8  | 6- 1/16 |  7- 3/32 |  8-41/64 | 3- 1/16 | 3-15/16 |
+  | 6- 1/2  | 6- 7/16 |  7- 9/16 |  9- 3/16 | 3- 1/4  | 4- 3/16 |
+  | 6- 7/8  | 6-13/16 |  7-31/32 |  9- 3/4  | 3- 7/16 | 4- 7/16 |
+  | 7- 1/4  | 7- 3/16 |  8-13/32 | 10- 1/4  | 3- 5/8  | 4-11/16 |
+  |         |         |          |          |         |         |
+  | 7- 5/8  | 7- 9/16 |  8-27/32 | 10-49/64 | 3-13/16 | 4-15/16 |
+  | 8       | 7-15/16 |  9- 9/32 | 11-23/64 | 4       | 5- 3/16 |
+  | 8- 3/8  | 8- 5/16 |  9-23/32 | 11- 7/8  | 4- 3/16 | 5- 7/16 |
+  | 8- 3/4  | 8-11/16 | 10- 5/32 | 12- 3/8  | 4- 3/8  | 5-11/16 |
+  | 9- 1/8  | 9- 1/16 | 10-19/32 | 12-15/16   4- 9/16 | 5-15/16 |
+  |_________|_________|__________|__________|_________|_________|
+
+
+The dimensions given for diameter at root of threads are also those
+for diameter of hole in nuts and diameter of lap drills. All bolts and
+studs 3/4 in. diameter and above, screwed into boilers, have 12
+threads per inch, sharp thread, a taper of 1/16 in. per 1 inch; tap
+drill should be 9/64 in. less than normal diameter of bolts.
+
+The table is based upon the following general formulæ for certain
+dimensions:
+
+  Short diam. rough nut or head = 11/2 diam. of bolt + 1/8.
+       "   finished nut or head = 11/2 diam. of bolt + 1/16.
+  Thickness rough nut = diameter of bolt.
+  Thickness finished nut = diameter of bolt - 1/16.
+  Thickness rough head = 1/2 short diameter.
+  Thickness finished head = diameter of bolt - 1/16.
+
+       *       *       *       *       *
+
+
+AN ENGLISH RAILWAY FERRY BOAT.
+
+
+[Illustration: AN ENGLISH RAILWAY FERRY BOAT.]
+
+The illustrations above represent a double screw steam ferry boat for
+transporting railway carriages, vehicles, and passengers, etc.,
+designed and constructed by Messrs. Edwards and Symes, of Cubitt Town,
+London. The hull is constructed of iron, and is of the following
+dimensions: Length 60 ft.; beam 16 ft.; over sponsons 25 ft. The
+vessel was fitted with a propeller, rudder, and steering gear at each
+end, to enable it to run in either direction without having to turn
+around. The boat was designed for the purpose of working the train
+service across the bay of San Juan, in the island of Puerto Rico, and
+for this purpose a single line of steel rails, of meter gauge, is laid
+along the center of the deck, and also along the hinged platforms at
+each end. In the engraving these platforms are shown, one hoisted up,
+and the other lowered to the level of the deck. When the boat is at
+one of the landing stages, the platform is lowered to the level of the
+rails on the pier, and the carriages and trucks are run on to the deck
+by means of the small hauling engine, which works an endless chain
+running the whole length of the deck. The trucks, etc., being on
+board, the platform is raised by means of two compact hand winches
+worked by worm and worm-wheels in the positions shown; thus these two
+platforms form the end bulwarks to the boat when crossing the bay. On
+arriving at the opposite shore the operation is repeated, the other
+platform is lowered, and the hauling engine runs the trucks, etc., on
+to the shore. With a load of 25 tons the draught is 4 ft.
+
+The seats shown on the deck are for the convenience of foot
+passengers, and the whole of the deck is protected from the sun of
+that tropical climate by a canvas awning. The steering of the vessel
+is effected from the bridge at the center, which extends from side to
+side of the vessel, and there are two steering wheels with independent
+steering gear for each end, with locking gear for the forward rudder
+when in motion. The man at the wheel communicates with the engineer by
+means of a speaking tube at the wheel. There is a small deck house for
+the use of deck stores, on one side of which is the entrance to the
+engine room. The cross battens, shown between the rails, are for the
+purpose of horse traffic, when horses are used for hauling the trucks,
+or for ordinary carts or wagons. The plan below deck shows the
+arrangement of the bulkheads, with a small windlass at each end for
+lifting the anchors, and a small hatch at each side for entrance to
+these compartments. The central compartment contains the machinery,
+which consists of a pair of compound surface condensing engines, with
+cylinders 11 in. and 20 in. in diameter; the shafting running the
+whole length of the vessel, with a propeller at each end. Steam is
+generated in a steel boiler of locomotive form, so arranged that the
+funnel passes through the deck at the side of the vessel; and it is
+designed for a working pressure of 100 lb. per square inch. This
+boiler also supplies steam for the small hauling engine fixed on the
+bulkhead. Light to this compartment is obtained by means of large side
+scuttles along each side of the boat and glass deck lights, and the
+iron grating at the entrance near the deck house. This boat was
+constructed in six pieces for shipment, and the whole put together in
+the builders' yard. The machinery was fixed, and the engine driven by
+steam from its own boiler, then the whole was marked and taken
+asunder, and shipped to the West Indies, where it was put together and
+found to answer the purpose intended.--_Engineering._
+
+       *       *       *       *       *
+
+[For THE SCIENTIFIC AMERICAN.]
+
+
+THE PROBLEM OF FLIGHT, AND THE FLYING MACHINE.
+
+
+As a result of reading the various communications to the SCIENTIFIC
+AMERICAN and SUPPLEMENT, and _Van Nostrand's Engineering Magazine_,
+including descriptions of proposed and tested machines, and the
+reports of the British Aeronautical Society, the writer of the
+following concludes:
+
+That, as precedents for the construction of a successful flying
+machine, the investigation of some species of birds as a base of the
+principles of all is correct only in connection with the species and
+habits of the bird; that the _general mechanical principles_ of flight
+applicable to the _operation_ of the _same unit_ of wing in _all_
+species are alone applicable to the flying machine.
+
+That these principles of _operation_ do not demand the principles of
+_construction_ of the bird.
+
+That as the wing is in its stroke an arc of a screw propeller's
+operation, and in its angle a screw propeller blade, its animal
+operation compels its reciprocation instead of rotation.
+
+That the swifter the wing beat, the more efficient its effect per unit
+of surface, the greater the load carried, and the swifter the flight.
+
+That the screw action being, in full flight, that of a screw propeller
+whose axis of rotation forms a slight angle with the vertical, the
+distance of flight per virtual "revolution" of "screw" wing far
+exceeds the pitch distance of said "screw."
+
+That consequently a bird's flight answers to an iceboat close hauled;
+the wing _force_ answering to the _wind_, the wing _angle_ to the
+_sail_, the bird's _weight_ to the leeway fulcrum of the _ice_, and
+the passage across direction of the _wing_ flop to the fresh _moving_
+"inertia" of the wind, both yielding a maximum of force to bird or
+iceboat.
+
+That the speed of _reciprocation_ of a fly's _wing_ being equivalent
+to a _screw rotation_ of 9,000 per minute, proves that a _screw_ may
+be run at this speed without losing efficiency by centrifugal vacuum.
+
+That as the _object_ of wing or screw is to mount upon the inertia of
+the particles of a mobile fluid, and as the rotation of steamship
+propellers in water--a fluid of many times the inertia of air--is
+_already_ in _excess_ of the highest speed heretofore tried in the
+propellers of moderately successful flying machines, it is plain that
+the speed employed in _water_ must be many times exceeded in _air_.
+
+That with a _sufficient_ speed of rotation, the supporting power of
+the inertia of air must _equal_ that of _water_.
+
+That as mere speed of rotation of propeller _shaft_, minus blades,
+must absorb but a small proportion of power of engine, the addition of
+blades will not cause more resistance than that actually encountered
+from inertia of air.
+
+That this must be the measure of load lifted.
+
+That without _slip_ of screw, the actual _power_ expended, will be
+little in _excess_ of that required to support the machine in _water_,
+with a slower rotation of screw.
+
+That in case the same _power_ is expended in water or air, the only
+difference will lie in the sizes and speed of engines or screws.
+
+That the _greater_ the speed, the _less_ weight of engine, boiler, and
+screw must be, and the stronger their construction.
+
+That, in consequence, solid metal worked down, instead of bolts and
+truss work, must be used.
+
+That as the bird wing is a screw in action, and acts _directly_
+between the inertias of the load and the air, the position and
+operation of the screw, to the load, must imitate it.
+
+That, in consequence, machines having wing planes, driven _against_
+one inertia of air by screws acting in the line, of flight against
+another inertia of air, lose fifty per cent. of useful effect, besides
+exposing to a head wind the cross section of the stationary screw wing
+planes and the rotating screw discs; and supporting the dead weight of
+the wing planes, and having all the screw slip in the line of flight,
+and carrying slow and heavy engines.
+
+That as a result of these conclusions, the supporting and propelling
+power should be expressed in the rotation of screws combining both
+functions, the position of whose planes of rotation to a fixed
+horizontal line of direction determines the progress and speed of
+machine upon other lines.
+
+That the whole weight carried by the screws should be at all times
+exactly below the center of gravity of the plane of support, whether
+it be horizontal or inclined.
+
+That while the _permanently_ positioned weight, such as the engines,
+frame, holding screws, etc., may be rigidly connected to or around the
+screw plane of support, the variable positioned weight, such as the
+passenger and the car, should be connected by a _flexible joint_ to
+the said plane of support.
+
+Consequently, the car may oscillate without altering its weight
+position under center of supporting plane, thus avoiding an
+involuntary alteration of speed or direction of flight.
+
+That to steer a machine so constructed, it is merely necessary to move
+the point of attachment of car to _machine_ proper, out of the center
+of plane of support in the desired direction, and thus cause the plane
+of support or rotation of propellers to incline in that direction.
+
+That the reservoir of power, the boiler, etc., should be placed in the
+_car_, and steam carried to engines through joint connecting car with
+machine.
+
+That at present material exists, and power also, of sufficient
+lightness and strength to admit of a machine construction capable of a
+limited successful flight in any fair wind and direction.
+
+That such _machine_ once built, the finding of a _power_ for long
+flights will be easy, if not already close at hand in _electricity_.
+
+That the _easiest_ design for such _actual machine_ should be adopted,
+leaving the adaptation of the principles involved to the making of
+more perfect machines, to a time after the success of the _first_.
+
+That such design may be a propeller, and its engine at each end of a
+steel frame tube, supporting tube horizontally, a car to be supported
+by a universal joint from center of said tube, and the joint apparatus
+movable along the tube or a short distance transverse to it, to alter
+position of center of gravity.
+
+That the machine so built might traverse the water as well as air.
+
+       *       *       *       *       *
+
+
+THE LONGHAIRED POINTER MYLORD.
+
+
+Pointers are trained to search for game, and to indicate that they
+have found the same by standing motionless in front of it, and, when
+it has been shot, to carry the game to the huntsman. Several kinds of
+pointers are known, such as smooth, longhaired, and bushyhaired
+pointers. The smoothhaired pointers are better for hunting on high
+land, whereas the longhaired or bushyhaired dogs are better for low,
+marshy countries, crossed by numerous streams, etc. Mylord, the dog
+represented in the annexed cut taken from the _Illustrirte Zeitung_,
+is an excellent specimen of the longhaired pointer, and is owned by
+Mr. G. Borcher, of Braunschweig, Germany.
+
+[Illustration: THE LONGHAIRED POINTER, "MYLORD."]
+
+The longhaired pointer is generally above the medium size, powerful,
+somewhat longer than the normal dog, the body is narrower and not
+quite as round as that of the smoothhaired dog, and the muscles of the
+shoulders and hind legs are not as well developed and not as
+prominent. The head and neck are erect, the head being specially long,
+and the tail is almost horizontal to the middle, and then curves
+upward slightly. The long hair hangs in wavy lines on both sides of
+his body. The expression of his face is intelligent, bright, and
+good-natured, and his step is light and almost noiseless.
+
+The pointer is specially valuable, as it can be employed for many
+different purposes; he is an excellent dog for the woods, for the
+woodsman and hunter who uses only one dog for different kinds of game.
+The intelligence of the German pointer is very great, but he does not
+develop as rapidly as the English dog, which has been raised for
+generations for one purpose only. The German pointer hunts very
+slowly, but surely. It is not difficult to train this dog, but he
+cannot be trained until he has reached a certain age.
+
+       *       *       *       *       *
+
+
+LUNAR HEAT.
+
+By Professor C.A. YOUNG.
+
+
+One of the most interesting inquiries relating to the moon is that
+which deals with the heat she sends us, and the probable temperature
+of her surface. The problem seems to have been first attacked by
+Tschirnhausen and La Hire, about 1700; and they both found, that even
+when the moon's rays were concentrated by the most powerful
+burning-lenses and mirrors they could obtain, its heat was too small
+to produce the slightest perceptible effect on the most delicate
+thermometers then known. For more than a hundred years, this was all
+that could be made out, though the experiment was often repeated.
+
+It was not until 1831 that Melloni, with his newly-invented
+"thermopile," [1] succeeded in making the lunar heat sensible; and in
+1835, taking his apparatus to the top of Vesuvius, he obtained not
+only perceptible, but measurable, results, getting a deviation of four
+or five divisions of his galvanometer.
+
+   [Footnote 1: Probably most of our readers know that the
+   thermopile consists of a number of little bars of two different
+   metals, connected in pairs, and having the ends joined in a
+   conducting circuit with a galvanometer. If, now, one set of the
+   junctures is heated more than the other set, a current of
+   electricity will be generated, which will affect the
+   galvanometer. The bars are usually made of bismuth and antimony
+   though iron and German silver answer pretty well. They are
+   commonly about half or three-quarters of an inch long, and about
+   half as large as an ordinary match. The "pile" is made of from
+   fifty to a hundred such bars packed closely, but insulated by
+   thin strips of mica, except just at the soldered junctions. With
+   an instrument of this kind and a very delicate galvanometer,
+   Professor Henry found that the heat from a person's face could be
+   perceived at a distance of several hundred feet. There is
+   however, some doubt whether he was not mistaken in respect to
+   this extreme sensitiveness.]
+
+Others repeated the experiment several times between this time and
+1856, with more or less success; but, so far as I know, the first
+quantitative result was that obtained in 1856 by Piazzi Smyth during
+his Teneriffe expedition. On the top of the mountain, at an elevation
+of ten thousand feet, he found that the moon's rays affected his
+thermopile to the same extent as a standard candle ten feet away.
+Marie Davy has since shown that this corresponds to a heating effect
+of about 1/1300 of a Centigrade degree.
+
+The subject was resumed in 1868 by Lord Rosse in Ireland; and a long
+series of observations, running through several years, was made by the
+aid of his three-foot reflector (not the great _six_-foot instrument,
+which is too unwieldy for such work). The results of his work have,
+until very recently, been accepted as authoritative. It should be
+mentioned that, at about the same time, observations were also made at
+Paris by Marie Davy and Martin; but they are generally looked upon
+merely as corroborative of Rosse's work, which was more elaborate and
+extensive. Rosse considered that his results show that the heat from
+the moon is mainly _obscure, radiated_ heat; the _reflected_ heat,
+according to him, being much less in amount.
+
+A moment's thought will show that the moon's heat must consist of two
+portions. First, there will be _reflected solar heat_. The amount and
+character of this will depend in no way upon the temperature of the
+moon's surface, but solely upon its reflecting power. And it is to be
+noted that moon-_light_ is only a part of this reflected radiant
+energy, differing from the invisible portion of the same merely in
+having such a wave-length and vibration period as to bring it within
+the range of perception of the human eye.
+
+The second portion of the heat sent us by the moon is that which she
+emits on her own account as a warm body--warmed, of course, mainly, if
+not entirely, by the action of the sun. The amount of _this_ heat will
+depend upon the temperature of the moon's surface and its radiating
+power; and the temperature will depend upon a number of things
+(chiefly heat-absorbing power of the surface, and the nature and
+density of the lunar atmosphere, as well as the supply of heat
+received from the sun), being determined by a balance between give and
+take. So long as more heat is received in a second than is thrown off
+in the same time, the temperature will rise, and _vice versa_.
+

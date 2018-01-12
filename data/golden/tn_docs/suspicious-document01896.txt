@@ -1,0 +1,326 @@
+﻿Produced by Barbara Tozier, Bill Tozier, Cosma Shalizi and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+[Illustration]
+
+
+_ZADIG_;
+
+OR, THE
+
+Book of Fate.
+
+AN
+
+Oriental HISTORY,
+
+Translated from the
+
+_French_ ORIGINAL
+
+OF
+
+Mr. _VOLTAIRE_.
+
+
+    ----_Quo fata trahunt, retrahuntque sequamur.
+    Per varios casus, per tot discrimina rerum,
+    Tendimus in Latium._----VIRG.
+
+
+_LONDON_:
+
+Printed for IOHN BRINDLEY, Bookseller
+to His Royal Highness the Prince of
+_Wales_, in _New Bond-Street_.
+
+MDCCXLIX.
+
+
+THE
+
+DEDICATION
+
+TO THE
+
+SULTANA _SHERAA_,
+
+BY
+
+_SADI_.
+
+The 18th of the Month _Scheval_, in the Year of the _Hegira_, 837.
+
+Thou Joy of ev'ry Eye! Thou Torment of every Heart! Thou Intellectual
+Light! I do not kiss the Dust of thy Feet; because thou seldom art
+seen out of the Seraglio, and when thou art, thou walkest only on
+the Carpets of _Iran_, or on Beds of Roses.
+
+I here present you with a Translation of the Work of an ancient
+_Sage_, who having the Happiness of living free from all Avocations,
+thought proper, by Way of Amusement, to write the History of
+_Zadig_; a Performance, that comprehends in it more Instruction
+than, 'tis possible, you may at first be aware of. I beg you would
+indulge me so far as to read it over, and then pass your impartial
+Judgment upon it: For notwithstanding you are in the Bloom of your
+Life; tho' ev'ry Pleasure courts you; tho' you are Nature's Darling,
+and have internal Qualities in proportion to your Beauty; tho' the
+World resounds your Praises from Morning till Night, and consequently
+you must have a just Title to a superior Degree of Understanding
+than the rest of your Sex; Yet your Wit is no ways flashy; Your
+Taste is refin'd, and I have had the Honour to hear you talk more
+learnedly than the wisest _Dervise_, with his venerable Beard, and
+pointed Bonnet: You are discreet, and yet not mistrustful; you are
+easy, but not weak; you are beneficent with Discretion; you love
+your Friends, and create yourself no Enemies. Your most sprightly
+Flights borrow no Graces from Detraction; you never speak a
+misbecoming Word, nor do an ill-natur'd Action, tho' 'tis always in
+your Power. In a Word, your Soul is as spotless as your Person. You
+have, moreover, a little Fund of Philosophy, which gives me just
+Grounds to hope that you'll relish this Historical Performance
+better than any other Lady of your Quality would do.
+
+It was originally compos'd in the _Chaldean_ Language, to which both
+you and my self are perfect Strangers. It was translated, however,
+into _Arabic_, for the Amusement of the celebrated Sultan OULOUG-BEG.
+It first appear'd in Public, when the _Arabian_ and _Persian_ Tales
+of One Thousand and One Nights, and One Thousand and One Days, were
+most in Vogue: OULOUG chose rather to entertain himself with the
+Adventures of _Zadig_. The Sultanas indeed were more fond of the
+former. How can you, said the judicious OULOUG, be so partial, as to
+prefer a Set of Tales, that are no ways interesting or instructive,
+to a Work, that has a Variety of Beauties to recommend it? Oh!
+replied the Sultanas, the less Sense there is in them, the more they
+are in Taste; and the less their Merit, the greater their
+Commendation.
+
+I flatter my self, thou Patroness of Wisdom, that thou wilt not copy
+after those thoughtless Sultanas, but give into the Sentiments of
+OULOUG. I am in hopes likewise, when you are tir'd with the
+Conversation of such as make those senseless Romances abovemention'd
+their favourite Amusements, you will vouchsafe to listen for one
+Minute or two, to the Dictates of solid Sense. Had you been
+_Thalestris_ in the Days of _Scander_, the Son of _Philip_; had you
+been the Queen of _Sheba_, in the Reign of _Solomon_, those Kings
+would have been proud to have taken a Tour to visit you.
+
+May the Celestial Virtues grant, that your Pleasures may meet with
+no Interruption; your Charms know no Decay; and may your Felicity be
+everlasting!
+
+_SADI._
+
+
+THE
+
+Approbation.
+
+
+I, Who have subscrib'd my Name hereto, ambitious of being thought a
+Man of Wit and Learning, have perus'd this MANUSCRIPT, which I find,
+to my great Mortification, amusing, moral, philosophical, and fit to
+be read, even by those who have an utter Aversion to Romances; for
+which Reason, I have depretiated it, as it deserves, and have in
+direct Terms told the CADI-LESQUIER, that 'tis a most detestable
+Performance.
+
+
+THE CONTENTS.
+
+
+  CHAP. I.     _The blind Eye_
+  CHAP. II.    _The Nose_
+  CHAP. III.   _The Dog and the Horse_, &c.
+  CHAP. IV.    _The Envious Man_
+  CHAP. V.     _The Force of Generosity_
+  CHAP. VI.    _The Just Judge_
+  CHAP. VII.   _The Force of Jealousy_
+  CHAP. VIII.  _The Thresh'd Wife_
+  CHAP. IX.    _The Captive_
+  CHAP. X.     _The Funeral Pile_
+  CHAP. XI.    _The Evening's Entertainment_
+  CHAP. XII.   _The Rendezvous_
+  CHAP. XIII.  _The Free-booter_
+  CHAP. XIV.   _The Fisherman_
+  CHAP. XV.    _The Basilisk_
+  CHAP. XVI.   _The Tournaments_
+  CHAP. XVII.  _The Hermit_
+  CHAP. XVIII. _The Riddles, or Ænigmas_
+
+
+_ZADIG_:
+
+AN
+
+Oriental History.
+
+
+CHAP. I.
+
+_The Blind_ EYE.
+
+
+In the Reign of King _Moabdar_, there was a young Man, a Native of
+_Babylon_, by name _Zadig_; who was not only endowed by Nature with
+an uncommon Genius, but born of illustrious Parents, who bestowed on
+him an Education no ways inferior to his Birth. Tho' rich and young,
+he knew how to give a Check to his Passions; he was no ways
+self-conceited; he didn't always act up to the strictest Rules of
+Reason himself, and knew how to look on the Foibles of others, with
+an Eye of Indulgence. Every one was surpriz'd to find, that
+notwithstanding he had such a Fund of Wit, he never insulted; nay,
+never so much as rallied any of his Companions, for that Tittle
+Tattle, which was so vague and empty, so noisy and confus'd; for
+those rash Reflections, those illiterate Conclusions, and those
+insipid Jokes; and, in short, for that Flow of unmeaning Words,
+which was call'd polite Conversation in _Babylon_. He had learned
+from the first Book of _Zoroaster_, that Self-love is like a Bladder
+full blown, which when once prick'd, discharges a kind of petty
+Tempest. _Zadig_, in particular, never boasted of his Contempt of
+the Fair Sex, or of his Facility to make Conquests amongst them. He
+was of a generous Spirit; insomuch, that he was not afraid of
+obliging even an ungrateful Man; strictly adhering to that wise
+Maxim of _Zoroaster_. _When you are eating, throw an Offal to the
+Dogs that are under the Table, lest they should be tempted to bite
+you._ He was as wise as he could well be wish'd; since he was fond
+of no Company, but such as were distinguish'd for Men of Sense. As
+he was well-grounded, in all the Sciences of the antient
+_Chaldeans_, he was no Stranger to those Principles of Natural
+Philosophy, which were then known: And understood as much of
+Metaphysics as any one in all Ages after him; that is to say, he
+knew little or nothing of the Matter. He was firmly convinc'd, that
+the Year consisted of 365 Days and an half, tho' directly repugnant
+to the new Philosophy of the Age he liv'd in; and that the Sun was
+situated in the Center of the Earth; And when the Chief Magi told
+him, with an imperious Air, that he maintain'd erroneous Principles;
+and that it was an Indignity offered to the Government under which
+he liv'd, to imagine the Sun should roll round its own Axis, and
+that the Year consisted of twelve Months, he knew how to sit still
+and quiet, without shewing the least Tokens of Resentment or
+Contempt.
+
+As _Zadig_ was immensely rich, and had consequently Friends without
+Number; and as he was a Gentleman of a robust Constitution, and
+remarkably handsome; as he was endowed with a plentiful Share of
+ready and inoffensive Wit: And, in a Word, as his Heart was
+perfectly sincere and open, he imagin'd himself, in some Measure,
+qualified to be perfectly happy. For which Purpose he determin'd to
+marry a gay young Lady (one _Semira_ by name) whose Beauty, Birth
+and Fortune, render'd her the most desirable Person in all
+_Babylon_. He had a sincere Affection for her, grounded on Honour,
+and _Semira_ conceiv'd as tender a Passion for him. They were just
+upon the critical Minute of a mutual Conjunction in the Bands of
+Matrimony, when, as they were walking Hand in Hand together towards
+one of the Gates of _Babylon_, under the Shade of a Row of
+Palm-trees, that grew on the Banks of the River _Euphrates_, they
+were beset by a Band of Ruffians, arm'd with Sabres, Bows and
+Arrows. They were the Guards, it seems, of young _Orcan_ (Nephew of
+a certain Minister of State) whom the Parasites, kept by his Uncle,
+had buoy'd up with a Permission to do, with Impunity, whatever he
+thought proper. This young Rival, tho' he had none of those internal
+Qualities to boast of that _Zadig_ had, yet he imagin'd himself a
+Man of more Power; and for that Reason, was perfectly outrageous to
+see the other preferr'd before him. This Fit of Jealousy, the Result
+of mere Vanity, prompted him to think that he was deeply in Love
+with the fair _Semira_; and fir'd with that amorous Notion, he was
+determin'd to take her away from _Zadig_, by Dint of Arms. The
+Ravishers rush'd rudely upon her, and in the Transport of their
+Rage, drew the Blood of a Beauty, the Sight of whose Charms would
+have soften'd the very Tigers of Mount _Imaüs_. The injur'd Lady
+rent the very Heavens with her Exclamations. Where's my dear
+Husband, she cried? They have torn me from the Arms of the only Man
+whom I adore. She never reflected on the Danger to which she was
+expos'd; her sole Concern was for her beloved _Zadig_. At the same
+Time, he defended her, like a Lover, and a Man of Integrity and
+Courage. With the Assistance only of two domestic Servants, he put
+those Sons of Violence to Flight, and conducted _Semira_, bloody as
+she was, and in fainting Fits, to her own House. No sooner was she
+come to her self, but she fix'd her lovely Eyes on her Dear
+Deliverer. O _Zadig_, said she, I love thee as affectionately, as if
+I were actually thy Bride: I love thee, as the Man, to whom I owe my
+Life, and what is dearer to me, the Preservation of my Honour. No
+Heart sure could be more deeply smitten than that of _Semira_. Never
+did the Lips of the fairest Creature living utter softer Sounds;
+never did the most enamoured Lady breathe such tender Sentiments of
+Love and Gratitude for his signal Service; never, in short, did the
+most affectionate Bride express such Transports of Joy for the
+fondest Husband. Her Wounds, however, were but very superficial, and
+she was soon recover'd. _Zadig_ receiv'd a Wound that was much more
+dangerous: An unlucky Arrow had graz'd one of his Eyes, and the
+Orifice was deep. _Semira_ was incessant in her Prayers to the Gods
+that they might restore her _Zadig_. Her Eyes were Night and Day
+overwhelm'd with Tears. She waited with Impatience for the happy
+Moment, when those of _Zadig_ might dart their Fires upon her; but
+alas! the wounded Eye grew so inflam'd and swell'd, that she was
+terrified to the last Degree. She sent as far as _Memphis_ for
+_Hermes_, the celebrated Physician there, who instantly attended his
+new Patient with a numerous Retinue. Upon his first Visit, he
+peremptorily declared that _Zadig_ would lose his Eye; and foretold
+not only the Day, but the very Hour when that woful Disaster would
+befal him. Had it been, said that Great Man, his right Eye, I could
+have administred an infallible Specific; but as it is, his
+Misfortune is beyond the Art of Man to cure. Tho' all _Babylon_
+pitied the hard Case of _Zadig_, they equally stood astonish'd at
+the profound Penetration of _Hermes_. Two Days after the Imposthume
+broke, without any Application, and _Zadig_ soon after was perfectly
+recover'd. _Hermes_ thereupon wrote a very long and elaborate
+Treatise, to prove that his Wound ought not to have been heal'd.
+_Zadig_, however, never thought it worth his while to peruse his
+learned Lucubrations; but, as soon as ever he could get abroad,
+determin'd to pay the Lady a Visit, who had testified such uncommon
+Concern for his Welfare, and for whose Sake alone he wish'd for the
+Restoration of his Sight. _Semira_ he found had been out of Town for
+three Days; but was inform'd, by the bye, that his intended Spouse,
+having conceived an implacable Aversion to a one-ey'd Man, was that
+very Night to be married to _Orcan_. At this unexpected ill News,
+poor _Zadig_ was perfectly thunder-struck: He laid his Disappointment
+so far to Heart, that in a short Time he was become a mere Skeleton,
+and was sick almost to death for some Months afterwards. At last,
+however, by Dint of Reflection, he got the better of his Distemper;
+and the Acuteness of the Pain he underwent, in some Measure,
+contributed towards his Consolation.
+
+Since I have met with such an unexpected Repulse, said he, from a
+capricious Court-Lady, I am determin'd to marry some substantial
+Citizen's Daughter. He pitch'd accordingly upon _Azora_, a young
+Gentlewoman extremely well-bred, an excellent Oeconomist, and one,
+whose Parents were very rich.
+
+Their Nuptials accordingly were soon after solemniz'd, and for a
+whole Month successively, no two Turtles were ever more fond of each
+other. In Process of Time, however, he perceiv'd she was a little
+Coquettish, and too much inclin'd to think, that the handsomest
+young Fellows were always the most virtuous and the greatest Wits.
+
+
+CHAP. II.
+
+_The_ NOSE.
+
+
+One Day _Azora_, as she was just return'd home from taking a short
+Country airing, threw herself into a violent Passion, and swell'd
+with Invectives. What, in God's Name, my Dear, said _Zadig_, has
+thus ruffled your Temper? What can be the Meaning of all these warm
+Exclamations? Alas! said she, you would have been disgusted as much
+as I am, had you been an Eye-witness of that Scene of Female
+Falshood, as I was Yesterday. I went, you must know, to visit the
+disconsolate Widow _Cosrou_, who has been these two Days erecting a
+Monument to the Memory of her young deceased Husband, near the Brook
+that runs on one side of her Meadow. She made the most solemn Vow,
+in the Height of her Affliction, never to stir from that Tomb, as
+long as ever that Rivulet took its usual Course.--Well! and wherein,
+pray, said _Zadig_, is the good Woman so much to blame? Is it not an
+incontestable Mark of her superior Merit and Conjugal-Affection?
+But, _Zadig_, said _Azora_, was you to know how her Thoughts were
+employ'd when I made my Visit, you'd never forget or forgive her.
+Pray, my dearest _Azora_, what then was she about? Why, the
+Creature, said _Azora_, was studying, to be sure, to find out Ways
+and Means to turn the Current of the River.
+
+_Azora_, in short, harangu'd so long, and, was so big with her
+Invectives against the young Widow, that her too affected, vain Shew
+of Virtue, gave _Zadig_ a secret Disgust.
+

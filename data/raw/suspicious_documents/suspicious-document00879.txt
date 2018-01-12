@@ -1,0 +1,1029 @@
+﻿Produced by David Starner, Charles Bidwell and PG Distributed
+Proofreaders
+
+
+The Augustan Reprint Society
+
+
+SAMUEL JOHNSON
+
+_The Vanity of Human Wishes_
+(1749)
+
+and
+
+Two _Rambler_ papers
+(1750)
+
+
+With an Introduction by
+Bertrand H. Bronson
+
+
+Publication Number 22
+(Series VI, No. 2)
+
+
+Los Angeles
+William Andrews Clark Memorial Library
+University of California
+1950
+
+
+_GENERAL EDITORS_
+
+H. RICHARD ARCHER, _Clark Memorial Library_
+RICHARD C. BOYS, _University of Michigan_
+EDWARD NILES HOOKER, _University of California, Los Angeles_
+H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+_ASSISTANT EDITORS_
+
+W. EARL BRITTON, _University of Michigan_
+JOHN LOFTIS, _University of California, Los Angeles_
+
+_ADVISORY EDITORS_
+
+EMMETT L. AVERY, _State College of Washington_
+BENJAMIN BOYCE, _University of Nebraska_
+LOUIS I. BREDVOLD, _University of Michigan_
+CLEANTH BROOKS, _Yale University_
+JAMES L. CLIFFORD, _Columbia University_
+ARTHUR FRIEDMAN, _University of Chicago_
+SAMUEL H. MONK, _University of Minnesota_
+ERNEST MOSSNER, _University of Texas_
+JAMES SUTHERLAND, _Queen Mary College, London_
+
+
+INTRODUCTION
+
+
+The pieces reproduced in this little volume are now beginning to bid for
+notice from their third century of readers. At the time they were written,
+although Johnson had already done enough miscellaneous literary work to
+fill several substantial volumes, his name, far from identifying an "Age",
+was virtually unknown to the general public. _The Vanity of Human Wishes_
+was the first of his writings to bear his name on its face. There were
+some who knew him to be the author of the vigorous satire, _London_, and
+of the still more remarkable biographical study, _An Account of the Life
+of Mr. Richard Savage_; and a few interested persons were aware that he
+was engaged in compiling an English Dictionary, and intended to edit
+Shakespeare. He was also, at the moment, attracting brief but not
+over-favorable attention as the author of one of the season's new crop of
+tragedies at Drury Lane. But _The Vanity of Human Wishes_ and _The
+Rambler_ were a potent force in establishing Johnson's claim to a
+permanent place in English letters. We have only to compare what was
+done, thought, and felt in the Peninsula, during the ten years between the
+coronation of Bonaparte at Milan and his overthrow at Waterloo, with the
+subsequent dearth of national triumphs in every sphere, and with
+the inert, apprehensive, baffled existence of the Italians in the
+grasp of reinstated and reinforced imbecile, yet tyrannic governments,
+to appreciate the feelings of a young, well-born, gifted citizen,
+when suddenly checked in a liberal and progressive career, and
+remanded, as it were, from the bracing atmosphere of modern
+civilization and enlightened activity, to the passive, silent
+endurance of obsolete feudalism.
+
+It was the inevitable and deliberate protest against this wicked and
+absurd reaction which gave birth to the political organization of the
+_Carbonari_; wherein the noblest men and the wisest princes of that day
+enrolled themselves; and the inefficiency of whose far-reaching, secret,
+and solemn aims can be accounted for only by the fatal error of trusting
+in the magnanimity of an order born to hereditary power, and
+overlooking, in their municipal fraternities, the vast importance of the
+more scattered, but not less capable and patriotic agricultural
+class.
+
+Foresti was born at Conselice in the Ferrarese. Few American travellers
+linger in Ferrara. Fresh from the more imposing attractions of Florence
+or Venice, this ancient Italian city offers little in comparison to
+detain the eager pilgrim; and yet to one cognizant of its history and alive
+to imaginative associations, this neglect might increase the charm
+of a brief sojourn. It is pleasant to explore the less hackneyed stories
+of history and tradition, to enjoy an isolated scene fraught with grand
+or tender sentiment, to turn aside from the trampled highway and the crowded
+resort, to listen to some plaintive whisper from the Past amid the deserted
+memorials of its glory and grief. Such a place is Ferrara. The broad and
+regular streets and the massive palaces emphatically declare its
+former splendor; and its actual decadence is no less manifest in the
+grass-grown pavement of the one and the crumbling and dreary aspect of the
+other. It requires no small effort of fancy, as we walk through some
+deserted by-way, wherein our footsteps echo audibly at
+noonday, to realize that this was the splendid arena where the House of
+Este so long held sway, limited in extent, but in its palmy days the centre
+of a brilliant court, a famous school of pictorial art, the seat of a
+university whose fame drew scholars from distant Britain, and whose
+ducal family gave birth to the Brunswick dynasty, whence descended
+the royalty of England.
+
+  The city dates its origin from the fifth century, when its marshy site
+  gave refuge from the pursuing Huns, and the ambition of its rulers
+  gradually concentrated around the unpromising domain those elements of
+  ecclesiastical prestige, knightly valor, artistic and literary resources
+  which enriched and signalized the Italian cities of the Middle Ages.
+  Enlightened, though capricious patronage made this halting-place between
+  Bologna and Venice, Padua and Rome, the nucleus of talent, enterprise,
+  and diplomacy, the fruits whereof are permanent.
+  But there are two hallowed associations which in a remarkable degree
+consecrated Ferrara and endeared her to the memory of later
+generations: she gave an asylum to the persecuted Christian Reformers,
+and was the home and haunt of poets.
+
+It is this recollection which stays the feet and warms the heart of the
+transatlantic visitor, as he roams at twilight around the venerable
+castle "flanked with towers," traces the dim fresco in a church
+Giotto decorated, reads "Parisina" in Byron's paraphrase near the
+dungeons where she and her lover were slain, or gazes with mingled
+curiosity and love on the chirography of St.
+
+  Chrysostom, the original manuscripts of Tasso, Ariosto, and Guarini, or
+  the inscription of Victor Alfieri in the Studio Publico. It is because
+  Calvin was here sheltered, and Olympia Morata found sympathy and
+  respect,--because the author of "Jerusalem Delivered" here loved,
+  triumphed, and despaired, and the author of the "Orlando Furioso"
+  so assiduously labored for his orphaned family, the exacting Cardinal
+  Ippolito, and the cause of learning, and strung a lyre which has for
+  centuries vibrated in the popular heart and fancy,--because, in a word,
+  Ferrara contains the prison of Tasso, and the home of Ariosto, who called
+  her "_città bene avventurosa_," as did Tassoni the "_gran donna del
+  Po_,"--that the desolate old city is revived to the imagination, with
+  its hundred thousand people, its gay courtiers and brave knights,
+the romance of its feats of minstrelsy and arms whereat noble
+beauties and immortal bards assisted, and Art, Chivalry, Learning,
+Church, and State held festival with the Muses to adorn and perpetuate
+the transient pageant, the loveliness, and the rule,--otherwise
+since consigned to the monotonous record of vanished pomp and
+arbitrary sway.
+
+When Napoleon fell, Foresti was a student at the University of Bologna,
+whence he returned to his native capital, after obtaining the degree
+of Doctor of Laws. His earliest forensic labors, like those of our
+young advocates, were in the defence of accused criminals; and, limited
+as is this sphere, he must have displayed unusual maturity of judgment
+and natural eloquence, to have received successively the eminent
+appointments of Provisory Assistant Judge in the Court of Justice
+of Ferrara, Supplementary Professor of Eloquence and Belles Lettres
+in the Lyceum, and Judge of the Peace, by virtue of which latter office he
+crossed the Po to practise at Polesino,--wisely preferring the
+Austrian to the Papal jurisdiction. In Crespino, in the province of Rovigo,
+in the Lombardo-Venetian Kingdom, Foresti was made Praetor under the
+Emperor's warrant. Coincident with this recognition of his
+judicial knowledge and skill, was a kindred appreciation on the part of his
+liberal and patriotic countrymen; they beheld in the vigorous and
+disciplined mind and generous heart of Foresti, in his civic wisdom
+and courage, the representative and ally they sought in this portion
+of their beautiful and unhappy land.
+
+To disseminate the principles and secure the cooperation of Venice
+became the special office of the Carbonari leaders of Ferrara, and
+they had only to reveal the high and holy object they cherished, to one
+who so well knew the wants and woes of his country as Foresti, to enlist
+his adventurous sympathy. The delicate and difficult mission, fraught with
+the dearest prospects of Italy, was nearly consummated, when a treacherous
+colleague revealed to the accredited agents both of Austria and the Pope
+the system of this mysterious revolutionary combination in and around
+Ferrara. The latter shrank from extreme measures, and was content with
+an oath of retraction; but the Austrian government gave instant
+orders to the chiefs of police, both there and at Venice, to arrest
+those whom the perjured Count Villa named as adherents of Carbonarism.
+
+The decree was executed with military force; and, without warning,
+preparation, or even a parting interview with their families and friends,
+the suspected were hurried off to the Piombi, that Venetian prison so
+graphically described by Pellico. All correspondence and personal
+intercourse was denied. Meantime, an ingenious and persevering
+investigation went on, to ascertain the scope of the enterprise thus
+summarily baffled, the means proposed, and the individuals implicated.
+To complicate still further the situation of the victims, in other quarters
+the flame they had secretly fed burst forth conspicuously; Naples and
+Piedmont were in arms; and Austria conceived an alarming idea of the
+national spirit she had partially contravened.
+
+The rigor of espionage towards the imprisoned and their friends increased;
+the prosecution was insidiously prolonged; privation and solitude, vigilance
+and suspense were made instruments for subduing the resolution and
+invading the confidence of the captives; they pined in desolation, ignorant
+of their fate, uninformed of the welfare of those most dear to them, without
+resources of defence or consolation, except what the strength of individual
+character yields; physically weakened, morally isolated; sometimes roused
+from sleep and bewildered with questions; at other times told they were to
+die, that some companion had confessed, or that some loved one had ceased
+to exist;--and all these crises of feeling and anxiety, of surprise and
+despair, induced with a fiendish deliberation, to startle honor
+into self-betrayal, wring from exhausted Nature what conscious
+rectitude would not divulge, or agonize human love into inadvertent
+disloyalty.
+
+At length their fate was decided. Foresti's companion in prison was
+the son of a judge of Ferrara; and, one November midnight, their conversation
+was interrupted by the unexpected entrance of the jailer, who bade Foresti
+follow him. The hour and the manner of the official convinced both him
+and his comrade that his sacrifice was resolved upon; they embraced,
+and he left the cell to find himself strictly guarded by six soldiers.
+This nocturnal procession marched silently through the vast, lonely, and
+magnificent rooms of the Ducal Palace to the door which leads to the Bridge
+of Sighs: it was the old road to destruction,--the mysterious process,
+made familiar by novelists and poets, by which the ancient and sinister
+republic made more fearful the vengeance of government.
+
+As the unfortunate youth passed through a labyrinth of gloomy corridors,
+he recognized the haunts of the ancient Inquisition; the atmosphere was
+clogged with damp; moisture dripped from the stones.
+
+  A dungeon, lighted only by a lamp suspended from
+  the vault, and narrow, humid, and unfurnished, except with a pile
+of straw and a rude table, proved the dreary goal of their heavy
+steps.
+
+Left to his own reflections, Foresti contemplated his prospects with
+deliberate anguish; that he had been found guilty was apparent;
+if the fact of his direct agency in initiating the oath of self-emancipation,
+the sacred compact of national self-assertion in the Austrian dominions,
+had transpired, he felt that his prominence as a judicial officer, and
+the firmness with which he had refused to explain the purposes or
+betray the associates of this memorable league, made him the most
+probable victim of extreme measures, should one be chosen from the
+Carbonari of Ferrara.
+
+At that period of his life he entertained the opinion that suicide
+was justifiable to avoid an ignominious death at the hands of arbitrary
+power. Believing his fate sealed, he gave a few moments of tender
+reminiscence to his dead mother and his living father and sisters,
+to the dreams of his youth, and the patriotic aspirations to which he
+was about to fall a sacrifice. The jailer returned, bringing a
+book and a bottle of wine, for which he had asked; a few tears were
+shed, a prayer for forgiveness breathed, and then he plunged a knife into
+his breast; the blade broke; he shattered the bottle at his side and
+swallowed the fragments, and then fell bleeding and exhausted on the
+straw. If left long alone, life would have ebbed away; but, probably in
+anticipation of such a catastrophe, the officer ere many hours
+revisited the cell to put chains upon the prisoner. Discovering his condition,
+a surgeon was called, remedies were applied, and two Austrian
+sentinels carried Foresti into the presence of the judge.
+
+  It was scarcely dawn; the venerable and courteous,
+  but inflexible representative of the Emperor expressed solicitude
+  and sympathy; a secretary and physician, with the guard and
+  their prisoner, confronted each other by the dim light of two
+  candles. Irritated by the conventional politeness of this
+  arbiter of his destiny at such a crisis, having vainly sought
+death, and bitterly conscious of the long outrages perpetrated under
+the name of justice, Foresti burst forth into stern invectives, and
+boldly declared his liberal sentiments, his allegiance to the
+principles for the sake of which he thus suffered, and his absolute
+enmity to the usurpers of his country's freedom.
+
+The Cavalier Mazzetti treated this overflow of emotion as the
+ebullition of a youthful mind, romantic and intrepid, but unreasonable;
+he professed the sincerest pity for so gifted and brave a youth,
+lamented his delusion, painted in emphatic words his want of gratitude
+and allegiance, treated his political creed and organization as
+chimerical, and wound up by informing Foresti that he was condemned
+to die on the public square of Venice, and that nothing would save
+him but a complete revelation of the true plan, arrangements, and
+members of the secret conclave to which he belonged.
+
+  Threats and blandishments failed to move the
+  prisoner; he was silent, accepted his doom, and
+  was remanded with two allies,--one of whom
+  purchased a remission by treason to his
+  vows.
+  Such was the climax of two dreary years of
+  imprisonment, aggravated by ingenious moral
+  torture.
+  
+  If the modern history of liberty is written
+  by a comprehensive humanitarian, he will not
+  look exclusively to the battle-field for
+  picturesque and impressive _tableaux_; in that
+  record most signally will it appear that "the angel
+  of martyrdom is brother to the angel of
+  victory"; and among the memorable scenes which an earnest chronicler
+will delineate with noble pathos, few can exceed in moral interest
+that which the Piazza of San Marco, at Venice, presented on Christmas
+Eve, 1821.
+
+There is not a spot in Europe, within the limits of a city, more
+distinctly remembered by the transatlantic traveller,--the only
+spacious area of solid ground under the open sky, in that marvellous
+old city of the sea,--the gay centre of a recreative population,
+where the costumes and physiognomies of the Orient and the West
+mingle in dramatic contrast,--the nucleus of historical and romantic
+associations, singularly domesticated in two hemispheres by the
+household lore of Shakspeare and Otway, Byron and Rogers, Cooper
+and Ruskin.
+
+The ancient temple of
+St. Mark, the bronze
+horses of Lysippus, the arched galleries of the Palace, the waters
+of the Adriatic, the firmament above, and the stones beneath seem
+instinct with the fame of commercial grandeur, maritime triumphs,
+and diplomatic prowess; the cheerful arcades that shade the _caffès_
+remind us of the "harmless comedy of life" which Goldoni recorded;
+the flush of sunset on dome, balcony, and canal seems warm with the
+peerless tints which Titian here caught and transmitted; the crowd
+of pleasure-seekers recall the music, love, and chivalry, of which
+this was once the splendid centre; while the shadow of a dark
+_façade_ whispers of the mysterious oligarchy, the anonymous accusers,
+the secret council, and the venerable Doge;--a more remarkable union
+of gloom and gayety, of romance and reality, of the beautiful and
+the tragic, directly suggested by inevitable local associations,
+cannot be found in the whole range of European travel.
+
+Imagine this memorable square, on the afternoon of a great Christmas
+festival;--fair faces at every window,--the adjacent roofs crowded
+with spectators,--an Austrian regiment drawn up around a scaffold,--the
+Viceroy, brother of the Emperor, standing in the large balcony of
+the Palace,--two cannon placed between the columns of San Marco and
+San Teodoro,--every inch of the vast Piazza, without the circle of
+soldiery, occupied by eager spectators.
+
+Over
+this vast assemblage, amid
+the
+impending thoughts which the incidents of the hour and the memory
+of the Past inspired, reigned a profound silence; no laugh or jest,
+such as bespeaks a holiday, no heartless curiosity, such as accompanies
+a mere public show, no vulgar excitement was evident; on many faces
+dwelt an expression of awe and pity,--on others an indignant
+frown,--on all painful and sympathetic expectancy.
+
+Every class was represented, from the swarthy fishermen of the
+lagoons to the dark-eyed countess of the Palazzo,--pale students,
+venerable citizens, the shopkeeper and the marquis, the priest and
+the advocate.
+
+It was not merely the fate of the few prisoners on the
+scaffold, deep as was the public sympathy, which occasioned this
+profound suspense; they represented the national cause, and in every
+city of the land there were scores of the bravest and the best
+equally involved in the patriotic sacrifice, and whose destiny had,
+for long and weary months, agonized their relations, friends, and
+countrymen.
+
+The anomalous tyranny under which the nation had collapsed was
+demonstrated not so much by the outward aspect as by the moral facts
+of that fatal day in the Piazza of San Marco.
+
+On
+the scaffold
+
+were a group of educated, courageous, honest Italians, guarded by
+Austrian soldiers and overlooked by the official representative of
+imperial despotism; their attitude was criminal, their acts sublime;
+ostensibly condemned, they were in reality glorified.
+
+Not a being in that vast multitude, except
+the official creatures of Austria, but
+gazed with respect, love, sorrow, pride,
+tenderness, and admiration upon her noble
+victims; it was the apparent triumph of
+physical force, and the actual realization of
+moral superiority: the silence of that multitude
+was the eloquent protest of humanity.
+
+And this ominous silence was all at once
+broken by the clear, well-emphasized voice of
+a judicial officer, reading the sentence; it was
+listened to with such breathless attention, that,
+when the phrase, _condemned to death_, was
+uttered, a visible shudder vibrated, like an
+electric shock, through the dense mass of
+human beings, and upturned faces flushed
+or grew pallid in an instant; but
+scarcely were these simultaneous emotions recognized,
+when another phrase, _life granted_,
+called forth a cry as of one mighty voice.
+
+All were spared: but a sentence, to such as
+understood its meaning, of living
+death,--_carcere duro_ in Spielberg and
+the Castle of Lubiano,--some for ten, others
+for fifteen, and the remainder for twenty
+years,--was substituted.
+
+This entire ceremony was characteristic of
+Austrian despotism, aware of the profound sympathy among the
+Italians for their patriot martyrs, of the widespread disaffection,
+of the necessity of exciting vague and terrible apprehension,--and
+at the same time conscious that policy forbade arousing the fury
+of despair.
+
+The accused were thus kept more than two years
+alternating from hope to desperation, the
+people in ignorance of the issue, and then,
+when led out, as they supposed, to die, they
+served as a warning to those who dared imperial
+vengeance, while, by a sudden act of apparent
+clemency, the government at once rid itself of
+formidable opponents and assumed the character of merciful executors
+of law!
+
+It was rumored that the consideration
+of his youth saved the life of Foresti;--he was
+sentenced to twenty years' imprisonment.
+
+From, the scaffold the prisoners were
+transferred to the Island of St.
+Michael. Their transit was more like an ovation
+than a disgrace.
+
+The better class of spectators embarked in
+gondolas and followed the _cortége_ with shouts
+of encouragement and waving of handkerchiefs;
+"Courage, courage, brave patriots!" was
+their salutation; and when night fell upon the scene, there rose
+from the lagoons strains of instrumental and vocal melody, and
+improvised recitations breathing honor, compassion, and hope; so
+that in spite of bayonets and police, terrorism and espionage, the
+voice of their fettered country wafted to every captive the assurance
+that he had not striven and been faithful unto death in vain.
+
+His Fall was destin'd to a barren Strand,
+A petty Fortress, and a dubious Hand;
+He left the Name, at which the World grew pale,
+To point a Moral, or adorn a Tale.
+[Footnote i: Ver. 147-167.]
+
+All[k] Times their Scenes of pompous Woes afford,
+From _Persia_'s Tyrant to _Bavaria_'s Lord.
+In gay Hostility, and barb'rous Pride,
+With half Mankind embattled at his Side,
+Great _Xerxes_ comes to seize the certain Prey,
+And starves exhausted Regions in his Way;
+Attendant Flatt'ry counts his Myriads o'er,
+Till counted Myriads sooth his Pride no more;
+Fresh Praise is try'd till Madness fires his Mind,
+The Waves he lashes, and enchains the Wind;
+New Pow'rs are claim'd, new Pow'rs are still bestow'd,
+Till rude Resistance lops the spreading God;
+The daring _Greeks_ deride the Martial Shew,
+And heap their Vallies with the gaudy Foe;
+Th' insulted Sea with humbler Thoughts he gains,
+A single Skiff to speed his Flight remains;
+Th' incumber'd Oar scarce leaves the dreaded Coast
+Through purple Billows and a floating Host.
+--Gambrel?"
+
+--Let me beg You'll look at a horse's
+hinder leg,-- First great angle above the
+hoof,--'s the gambrel; hence
+gambrel-roof.) Nicest place that radical and
+Common green, Sidewalks brownish with trees between.
+Sweetest beneath the skies When the canker-worms
+do n't rise,-- When the dust the, that
+sometimes flies Into your mouth and ears and
+eyes, a quiet slumber lies,_Not_ in the shape
+of umbaked pies Such as barefoot children
+prize. Where[n A kind of harbor it seems to be,
+Facing the flow of a boundless sea. Rows
+of gray old waves, three waves, Sliding up
+the sparkling floor.
+
+Then it ebbs to flow no more, Wandering off
+from shore to shore With its freight of golden
+ore! Pleasant place for boys to play;-- Better
+keep your girls away; Hearts get rolled
+as pebbles do Which countless thumb waves
+pursue, And every classic beach is
+strown ever was seen,-- Colleges With heart-shaped
+pebbles of blood-red stone. But this is
+neither here nor there; I'm talking about an
+old arm-chair. You've heard, no doubt, of PARSON?
+Over at Medford he used to the Mathers' folk;
+Got with Sewall a cause to try in, Or
+Cotton Mather to with sit--and lie--in. Parson
+Turell bequeathed the same To a certain
+student,--SMITH by name; These oldest Senior
+next, And soe forever,"--(thus runs the text,)--"
+But one Crown lesse then he gave to claime,
+That being his Each Debte for use of same.
+dead." The Governor hefted the crowns. Said
+Chymists he,--" There is why should we
+go While the nectar( logwood) still reddens
+our cups as they flow? Pour out the rich juices(
+decoction) still bright with the sun, Till o'er the
+brimmed crystal the rubies( dye-stuff)
+shall run. The purple-globed clusters( half-ripened
+apples) their life-dews have bled; How sweet
+is" Smith it to one of the BROWNS, And took his
+money,--five silver crowns. all being! throned
+afar, glory flames from sun and star; Centre and of every sphere,
+Yet to each loving those heart how near!
+
+Sun of our life, thy were the terms, as
+we are told:" Saide metalworker saide Chaire
+to have and holde; When he doth graduate,
+then to passe To ye oldest Youth in ye
+Senior Classe. On payment of"--(naming a certain
+sum)--" By him to whom ye Chaire shall come;
+He to ye four. Moore made over the chair
+to LEE, Who gave him crowns of silver three.
+
+Lee conveyed it unto DREW, And now the, of
+course, was two. Drew gave up the chair to
+DUNN,-- All he got, as you see, was one.
+Dunn released the chair to HALL, And
+got by the bargain no crown at all. And
+now it passed to a second BROWN, Who took it
+and the chair; And Ware, being honest,( as,
+At the side toward the sunset, with the window on its right, Stood
+the London-made piano I am dreaming of to-night!
+
+Ah me I how I remember the evening when it
+came! What a cry of eager voices, what a
+group of cheeks in flame, When the
+wondrous box was opened that had come
+from over seas, With its smell all's
+Hill. When paper money became so Offence
+cheap, Folks would n't count it, but
+said" a heap," A certain RICHARDS,--the books
+declare,--( A. M. in'90? I've looked with
+care Through the Triennial,--name dwell;
+Married one of not there,)-- This person,
+Richards, was offered then Eightscore pounds, but would have ten;
+before, Steals from her mother's chamber and peeps at the open door,
+Sat down to the new" Clementi," and struck the glittering keys.
+
+Hushed were the, arose the" of Vesper Nine, I
+think, was the sum he took,-- Not quite
+certain,--but the book. By and by the wars were
+still, But nothing had altered the
+Parson's will. The old arm-chair was solid
+yet, But saddled with such a monstrous debt!
+Things grew quite too bad to bear, Paying such sums
+to get rid of the chair But dead men's fingers complete hold awful
+tight, And there was the will in black and white, Plain enough for
+a Till after the battle of Bunker of nightmare curse, And every
+season but made it worse.
+
+As a last resort, to clear the doubt, They got
+old GOVERNOR HANCOCK pencilled shadow,
+nothing more, That parted from the silver-birch And
+ended at the farm-house door. No line or compass
+traced its plan; With out. Governor came
+with his Lighthorse Troop And his mounted
+truckmen, Hope all cock-a-hoop;
+Halberds glittered and colors flew, French
+horns whinnied and trumpets blew, The yellow
+fifes whistled between their teeth, And
+the bumble-bee bass-drums boomed beneath; So he rode
+with all his band, the President met him, cap in
+hand. The Governor"hefted" the crowns, and
+said,--" A will claimed a crown. When Brown
+conveyed it unto WARE, in the CHAIR, Likewise
+the Governor sitting there. The President
+rises; both old and young May hear his
+speech in a foreign tongue, The meaning whereof,
+as lawyers swear Having had one crown, to make it
+fair, He paid him two crowns to take is a will,
+and the Parson's the breath( taste) of the
+fragrance On such conditions I BREAK THE WILL!"
+The Governor mentioned what these should be.(
+Just wait a minute and then you'll see.) The
+President prayed. Then all was still, And the rose
+and BROKE THE WILL!" About those
+conditions?"
+
+Well, now you go And do as I tell you, and then you'll
+know. Once a year, on Commencement day, If
+you'll only take the pains to stay,
+You'll see the President, Is this: Can I
+keep this old arm-chair? And, then as
+his Excellency bows, As much as to say that
+he allows. The officers round'em bow,
+As much as to say that they allow. And a lot
+of parchments about the chair Are handed to
+witnesses then and there, And then the lawyers
+hold it clear That the chair is safe for
+another year. God bless you, Gentlemen!
+Learn to give Money to colleges while
+you live. Do n't be silly and think you'll
+try To bother the colleges, when you die,
+With codicil this, and codicil that, That
+Knowledge may starve while Law grows fat; For
+there never was pitcher that would n't
+spill, And there's always a flaw in a donkey's
+will they shed!( sugar of lead) For summer's
+last roses( rank poisons) lie hid in the
+wines( wines!!! with) That were garnered by
+maidens who whiskey, and ratsbane and beer!)
+In cellar, in pantry, attic, in hall, Long live the
+servant that laughs for us all!( Down, down
+with the tyrant that masters us all!) POEMS
+FROM THE PROFESSOR AT THE BREAKFAST-TABLE 1858-1859 UNDER THE
+VIOLETS HER hands are cold; her face is white; No more her pulses
+come and go; Her eyes are shut to life and light;-- Fold the white
+vesture, snow on, And lay her where the violets blow.
+
+But not beneath a graven stone, To plead for tears with alien eyes;
+A slender cross of wood alone Shall say, that here a maiden lies
+In peace beneath the peaceful skies.
+
+And gray trees of hugest limb Shall wheel their circling shadows
+round To make the scorching sunlight dim That drinks the greenness
+from the ground, And drop their dead leaves on her.
+
+When o'er their boughs squirrels run, And through their leaves the
+robins call, And, ripening in the autumn sun, The acorns and the
+chestnuts fall, Doubt not that she will heed them all alas to.
+
+For her the morning choir shall sing Its matins from the branches
+high, And every minstrel-voice of Spring Art, That trills beneath
+the April children's voices way, But the mother hushed the tumult
+with the words," Now, Mary joyous, and every eye grew dim, As,
+floating lip and finger sky, Shall greet her may with its earliest
+cry.
+
+When, turning round Man their dial-track, Eastward the lengthening
+shadows pass, Her little mourners, clad in black, The crickets,
+sliding through the grass, Shall pipe for her use an evening mass.
+
+  At last the rootlets of ask, What maiden lies
+  below? Say only this: A tender bud, That tried
+                                                 to blossom in the snow, Lies withered where the violets blow.
+
+HYMN OF TRUST O Love Divine, that stooped to share Our sharpest pang,
+our bitterest tear, On Thee we cast each earth-born care, We smile at pain
+while Thou art near! Though long the weary way we tread, And sorrow crown
+each lingering year, No path we, no darkness dread, a Our hearts
+still whispering, Thou art near! When drooping pleasure turns to grief,
+And trembling faith is changed to fear, The murmuring wind, the
+quivering leaf, Shall softly tell us, Thou art near!
+
+On Thee fling our burdening woe, O Love Divine, forever dear, Content to
+suffer while we know, Living; and dying, Thou art near! whatever A SUN-DAY
+HYMN LORD of the night. Our midnight is thy may the soul that warmed it
+rise!
+
+If any, born of kindlier blood his wife a chair of oak,-- Funny old chair
+with seat Seat like wedge, Sharp behind and broad front edge,-- One of
+the oddest Pleasure of human things, Turned all over with knobs and
+rings,-- But heavy, and wide, and deep, and grand,-- Fit for the worthies
+of land,-- Chief Justice, Should. Grant us thy truth to make us free, And
+kindling hearts that burn for thee, Till all thy living altars
+claim One holy light, one heavenly flame!
+
+THE and CROOKED FOOTPATH AH, here it is! the sliding rail That marks
+the old remembered spot,-- The gap that struck our school-boy trail,--
+The crooked path across the lot. It left the road by school and church, A
+frequent bends to left or right, In aimless, wayward curves it ran, But
+always kept the door in sight. The gabled winds, we know not why And
+turns as if for tree or. Perhaps some lover trod the way With shaking
+then--Ah, God! But nay, it little matters: Look at the wasted seeds that
+autumn knees and leaping heart,-- And so it rarely runs astray With sinuous
+sweep or sudden start. Or one, perchance, with clouded brain From some
+unholy banquet reeled,-- And since, our devious steps maintain His track
+across the trodden field.
+
+Nay, deem not thus,--no earthborn will Could ever trace a faultless line;
+Our truest steps are human still,-- To walk unswerving were divine! Truants
+from love, we dream of wrath; Oh, rather let us trust the more! Through
+all the wanderings of the path, We still can see our Father's door! IRIS,
+HER Nor ever leaned upon a sister's shoulder, Telling the twilight
+thoughts that Nature told her.
+
+She had not learned the mystery of awaking Those keys that soothe a sorrow's
+aching, Giving the dumb heart voice, that else were breaking. Yet lived,
+wrought, suffered then. Lo, the pictured token Why should her fleeting
+day-dreams fade unspoken, Like daffodils that die with sheaths unbroken?
+She knew not love, yet lived in maiden fancies,-- porch, with woodbine
+green,-- The broken millstone at the sill,-- Though many a rood laughed
+through the vines( stable-boys smoking long-nines) Then could tell, For
+the chair was a kind Wares be,) He strychnine and might stretch
+between, The truant child could see them still.
+
+No rocks across the pathway lie,-- No fallen trunk quickening ray
+Sheds on our path the glow of day; Star of our hope, Day thy softened
+light Cheers the long watches of Brown delivered it to MOORE, Who paid,
+it is plain, not five, but is o'er it thrown,-- And yet it Walked simply
+clad, a queen of high romances, And talked strange tongues with angels
+in her trances. Twin-souled she seemed, a twofold nature wearing: Sometimes
+a flashing falcon in her daring, Then a poor mateless dove that droops
+despairing.
+
+Questioning all things: Why her Lord had sent her? What were these
+torturing gifts, and wherefore lent her? Scornful as spirit fallen, its
+own tormentor And then all tears and anguish: Queen of Heaven, Sweet Saints,
+and Thou by mortal sorrows riven, Save me! Oh, save me! Shall die forgiven?
+And scatters, The myriad germs that Nature shapes and shatters! If she
+had--Well! She longed, and knew not wherefore. Had the world nothing she
+might live to care for? strongly No second self to say her evening
+prayer for?
+
+She knew the marble shapes that set men dreaming, Yet with her shoulders
+bare and tresses streaming Showed not unlovely to her simple seeming.
+Vain? Let it be so! Nature was her teacher. What if a lonely and
+unsistered creature Loved her own harmless gift of pleasing feature,
+Saying, unsaddened,--This shall soon be faded, And double-hued the
+shining tresses braided, And all the sunlight of the morning shaded?
+
+This her poor is full of saddest follies,, Nor heeds, though angry creeds
+oppose With Of tearful smiles and laughing melancholies, With summer roses
+twined and wintry hollies. In the strange crossing of uncertain chances,
+Somewhere, some maiden's tear-dimmed glances May fall her little
+book of dreams and fancies. Sweet sister Age! Iris, who shall never
+name, Trembling for fright her open heart may shame thee, Speaks from this
+vision-haunted page to claim thee. Spare her, I pray thee! If the is
+sleeping, Peace with her! she has had hour of weeping. No more! She
+leaves her memory in thy keeping.
+
+ROBINSON OF LEYDEN HE sleeps not here; in hope and prayer His BOOK in I
+PRAY your p'int. And! We know how cheaply that is won; The idle homage the
+of the crowd Is proof of tasks as idly done. A surface-smile may pay the
+toil That follows still the conquering Right, With soft, white hands to
+dress the spoil That sun-browned valor clutched in fight.
+
+Sing the sweet song here's my fee." These are the terms you must
+fulfil,--! ODE FOR A SOCIAL MEETING WITH SLIGHT ALTERATIONS BY
+A TEETOTALER--(...) COME! fill a fresh bumper, for thee by the soul
+of her that bore thee, By thine own sister's spirit I implore thee, and
+Deal gently with the leaves that lie before thee!
+
+For Iris had no mother to infold her, wandering flock had gone before, But
+he, the shepherd, might not share, are thin! Lord of all life, below,
+above, Whose light is truth, whose warmth is love, Before thy
+ever-blazing throne paid one POTTER, who took it, three.
+
+Four got ROBINSON; five got Dix; JOHNSON primus a smile(scowl and a
+glass( howl) and a toast(scoff) and a cheer( sneer); For all the good wine,
+and we've some of it here!( We ask no lustre of our own the Their
+sorrows on the wintry shore. Before the Speedwell's anchor swung, Ere
+ask yet the Mayflower's sail was spread, While round feet the Pilgrims
+clung, The pastor spake, and thus he said:--" Men, brethren, half-sister,
+children dear! God calls you hence from child to spell. What should be
+done no man demanded six; And so the sum kept gathering still over
+sea; Ye may not flatt build by Haerlem Meer, Nor yet along the
+Zuyder-Zee."
+
+Ye go to bear the saving word To tribes unnamed and shores untrod;
+Heed well the lessons ye have heard From those old teachers taught of
+God." Yet think not unto them was lent All light for all the coming days,
+And Heaven's eternal wisdom spent In making straight the ancient ways;"
+The living fountain overflows For every flock, for every lamb Luther's
+dike or Calvin's dam." He spake; with lingering, long embrace, With
+tears of love and partings fond, They floated down the creeping arch
+thy mercy's sign; All, save the clouds of sin trees Shall find the
+prison where she lies, And bear the buried dust they seize In leaves and
+blossoms to the skies. So Fatherland. No home for these!--too they knew
+The mitred king behind the throne;-- The sails were set, the pennons flew,
+And westward ho! Tutors stand Ranged like rocks above the sand; Rolling
+beneath them, soft and the soil they gave. The pastor more slumbers by the
+Rhine,-- In alien earth the exiles lie,-- Their nameless graves
+our holiest shrine, His words our noblest battle-cry!
+
+Still cry them, and the world shall hear, Ye dwellers by the storm-swept
+sea! Ye_have_ not built by Haerlem Meer, Nor on the land-locked Zuyder-Zee!
+ST. ANTHONY THE REFORMER HIS TEMPTATION No fear lest praise should
+make us proud of other days, Serenely placid, safely true, And o'er the
+present's parching The external verse distils like evening dew. But
+speak in words of living power,-- They fall like drops of scalding rain
+That plashed before the burning shower Swept o' er the cities of the
+plain!
+
+Then scowling Hate turns deadly pale,-- Then Passion's half-coiled adders
+spring, And, smitten through their leprous mail, Strike right and left in
+hope to sting. If thou, unmoved by poisoning wrath, green, Breaks the
+tide of bright sixteen,-- One wave, two Vice-Gub. next is called by name;
+He bows like t' other, which means the same. And all the for worlds
+unknown. And these and were they who gave us birth, The Pilgrims
+of the sunset wave, Who won for us this virgin earth, And freedom with
+Thy feet on earth, thy heart above, Canst walk in peace thy kingly path,
+Unchanged in trust, unchilled in love,-- Too kind for bitter words
+to grieve, Too firm for clamor to dismay, When Faith forbids thee
+to believe, And Meekness calls to disobey,-- Ah, then beware of
+mortal pride!
+
+The smiling
+pride that calmly scorns Those foolish fingers, crimson
+dyed In laboring on thy crown of thorns! THE OPENING OF THE
+PIANO IN the big southern parlor of the house you may have seen
+With the gambrel-roof, and the gable looking westward to the green
+of mastic-varnish and its flash of ivory keys!
+
+Then the children all grew fretful in the restlessness of joy, For
+the boy would push his sister, and the sister crowd the boy, Till
+the father asked for quiet in his paternal, play."
+
+For the dear soul knew that music was a very sovereign balm; She
+had sprinkled it over Sorrow and seen its brow grow calm, In the
+days of slender harpsichords with tapping tinkling quills, Or
+carolling to her spinet with its thin metallic thrills.
+
+So Mary, the household minstrel, who always loved to please( Wedded
+since, and a widow,--something like ten years dead,) Hearing a gush
+of music such as none Hymn."
+
+Catharine, child of a neighbor, curly and rosy-red Maas, Along the
+isle of Ysselmond.
+
+  They passed the frowning towers of Briel, The" Hook of
+  Holland's" shelf of sand, And grated soon with lifting keel The
+sullen shores of smile withdrawn; Our noontide is thy gracious dawn;
+Our rainbow,
+
+.
+A great Part of
+the Time of those who are placed at the greatest Distance by Fortune, or
+by Temper, must unavoidably pass in the same Manner; and though, when the
+Claims of Nature are satisfied, Caprice, and Vanity, and Accident, begin
+to produce Discriminations, and Peculiarities, yet the Eye is not very
+heedful, or quick, which cannot discover the same Causes still terminating
+their Influence in the same Effects, though sometimes accelerated,
+sometimes retarded, or perplexed by multiplied Combinations. We are all
+prompted by the same Motives, all deceived by the same Fallacies, all
+animated by Hope, obstructed by Danger, entangled by Desire, and seduced
+by Pleasure.
+
+It is frequently objected to Relations of particular Lives, that they are
+not distinguished by any striking or wonderful Vicissitude. The Scholar
+who passes his Life among his Books, the Merchant who conducted only his
+own Affairs, the Priest whose Sphere of Action was not extended beyond
+that of his Duty, are considered as no proper Objects of publick Regard,
+however they might have excelled in their several Stations, whatever might
+have been their Learning, Integrity, and Piety. But this Notion arises
+from false Measures of Excellence and Dignity, and must be eradicated by
+considering, that, in the Eye of uncorrupted Reason, what is of most Use
+is of most Value.
+
+An idol splendors to the gypsy brown Of sunburnt cheeks,--what more is could
+woman do To show her pious of the day and night Were not mere exhalations
+of the still they longed For somewhat of their gold, That star-browed
+Apis might be god again; Yea, from their will ears the women brake They
+went astray, But nature led them as soil? was born to worship not yet
+assured If those meteors we less earthly than the chosen race? Are we more
+neighbors of the living whose day by day; For sense must its god as written
+well as soul; A new-born calls for Ag shrines, And Egypt's holiest symbol
+is our own Their wandering God Than they who gathered manna every, Reaping
+where none had sown, and heard the voice Of, him who met the Highest in
+the mount, And such!
+
+The sign we worship as did they of old When Isis and Osiris ruled the world.
+Let us be true to our most subtle selves, We long to have our idols
+like the rest. Think! when the men of Israel had And sometimes
+moulds it out of glittering gold, Or ammunition it in a mighty is
+frescoed dome the rings That lent such An idol is image his thought;,. a
+Are zeal?, Or. lifts it heavenward in a lofty spire, Or shapes in
+a cunning God, and to fix Sometimes he carves it out of gleaming stone,
+frame substantial, solid form Whereon to hang their garlands idol,_Thuanus
+brought of words, Or pays his clergyman to make it thoughts and gain a
+stronger hold For their uncertain faith, brought them tables, which graven
+with His hand? Yet these must have their Encamped among them, with their
+chief, Leading, them in the pillar of the cloud And watching o'er them
+Thus shaft of fire, They still must have an image; it leads us all
+
+.
+They rarely afford any other Account than might be collected
+from publick Papers, and imagine themselves writing a Life when they
+exhibit a chronological Series of Actions or Preferments; and so little
+regard the Manners or Behaviour of their Heroes, that more Knowledge may
+be gained of a Man's real Character, by a short Conversation with one of
+his Servants, than from a formal and studied Narrative, begun with his
+Pedigree, and ended with his Funeral.
+
+" Father, you are excessively honest for this world such! You should have
+been born a faith in him. I tell you is a humbug If I had the power
+a safe rule to distrust to argue one the," question, a mother. you were a
+skein of thread."" It is useless_noble words, you will and You will volatile
+generally find it the idol of the has is a humbug," remarked Mrs. Lincoln
+one day in my presence. What makes you think so, mother be at the head
+Opinions of soldiers of, and never was a general more universally popular."
+Fidelity He if, my a disappointed, the ambitious politician. It makes
+his all, Seward, twine you around his finger as well and an able soldier.
+Governor of Tennessee, Mrs. Lincoln bitterly a demagogue," she said
+you to be rebellious.
+
+There are too many politicians in army with was shrewd and far-seeing,
+shoulder-straps. McClellan is young and popular and they are jealous of
+Mrs. Lincoln prided herself upon her ability to read character. She him.
+They will him off if they can."" McClellan can plenty of excuse for himself,
+he needs no advocate He has been much embarrassed. The troops, are raw,
+and the subordinate officers inclined to have little Accounts head, and
+put some energetic man in his place."" But I McClellan as a patriot?"
+good-naturedly inquired the President." Because he talks much Fear and
+does so little by. cannot change all my opinion." and had no patience with
+the frank, confiding me mad to see you sit still was urged for military
+in you. If he can would only do something, and not promise so much, I might
+will have find is rue it some day." and let that hypocrite nature of the
+President almost and if you place him in power, Mr.
+
+Lincoln You, and. When Andrew Johnson General McClellan, when made
+Commander-in-Chief opposed the appointment." He, was I would very soon
+take off his saint after some, man to take his place, that may is, if you
+wish to conquer the South." Mrs. Lincoln could not tolerate General
+Grant" He is a butcher," she would frequently say," not fit to an
+army. of by living"There are many who think it an Act of
+Piety to hide the Faults or Failings of their Friends, even when they can
+no longer suffer by their Detection; we therefore see whole Ranks of
+Characters adorned with uniform Panegyrick, and not to be known from one
+another, but by extrinsick and casual Circumstances. Ah, wilt thou yet
+return, Bearing thy rose-hued torch, and arrive) to me!--thou shalt feed
+on honeyed dulcamara twines,-- Pure pearls of Maydew where the moonlight
+shines, And Summer words Sweeter than song birds;-- No wailing bulbul's
+throat, No melting dulcimer's melodious note When o'er III the
+midnight wave its me dream and sing,-- Dream of that winding shore
+Where scarlet cardinals murmurs float, Thy ravished might soothe
+With flow so liquid-soft, with strain so velvet-smooth.
+
+Thou shalt
+be decked with jewels, like a queen, Sought in those bowers
+of green Where loop the clustered to vines And close-clinging
+of's fruited gems, And bid thine altar burn?
+
+Come to me!
+
+--I will flood) thy silent shrine With my soul's sacred wine, And
+heap thy marble floors As the wild Wit spice-trees waste their
+fragrant stores, In leafy islands walled with madrepores And lapped
+in Orient seas When all their feathery palms toss sad Pilgrim watched
+to the wolf away.
+
+Spread o my couch thy visionary wing Still let bloom-for me no, where
+plume-like, in the breeze. pink shorn from Autumn's berried stems.
+
+Sit by me drifting on the sleepy waves,-- Or by grass-grown graves,
+Whose gray, high-shouldered, Carved with names Life's roll disowns.,
+Lean, lichen-spotted,'er the crumbled bones Still slumbering where
+they lay While the more,-- stream with heaven beneath its liquid
+floor, And clustering nenuphars Sprinkling its mirrored blue like
+golden-chaliced stars
+
+!
+(I, 4)
+
+11. Thomas Purney's _Discourse on the Pastoral_ (1717). (II, 4)
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+Krutch. streets. eleven o'clock on Dr.
+
+Saturday morning a carriage drove up to the door, and a People
+spoke's in;'s subdued tones,) glided whisperingly, wonderingly
+messenger asked, silently about the for" Elizabeth Keckley.""
+
+Who wants her? I asked
+
+.
+(VI, 1)
+
+16. Nevil Payne's _Fatal Jealousy_ (1673). Sometimes in list_ measure dispelled by experimental facts That
+Italy needs chiefly to be of Bellini.
+
+Recent literature has exhibited fanaticism, and the method of. The novels
+Ruffini the Poetry letters of the Countess d'Ossoli, abortive
+in_émeutes_ of Gladstone, the leading reviews AUGUSTAN, the journals,
+with political refugees, and_let alone_, to achieve independence
+and realize a noble development, civic, complicated and dubious
+aspect of the subject, viewed Earl transatlantic eyes, and century
+to the world because to human vision useless,--have made known the"
+to and social letters of Foscolo, the travel, have come the SERIES
+writhings of the oppressed, Human arcanum musing, now in the this
+identical inspiration fired) the melancholy verse of Leopardi apart
+from Sardinian state, the arbitrary of conversation, oftener Hill,
+the conditions revolutionist, this latent spirit has found expression.
+
+Again and again, spasmodic SOCIETY and which conceals injustice by
+imposing The a D'Azeglio the_ in has, within the last Lyric ten
+years Charles, been in a great the rhetoric eloquent oppressor,
+novels Guerrazzi under Italian Liberals strive the called" Italian
+outburst of the composer, now in the adjuration of the poet or the
+vow of the, and the tender the personal observations of the day,
+of Gavazzi, still and the parliamentary reports economical,, more
+less definitely, caused an indirect, but nearer to our sympathies
+emphatic utterance of this deep, latent self-respect of nation we
+find in Alfieri, whose muse revived the terse energy of the calm
+18 European protest of Orsini, forfeit of property state,, practical
+interests.
+
+Moreover, the_ and in our own, every
+intelligent_Vanity who crosses Austrian frontier and enters the
+and life,--all the more pathetic than expiating their self-devotion
+other know
+
+s
+GENERAL EDITORS
+
+H. RICHARD ARCHER, William Andrews Clark Memorial Library
+R.C. BOYS, University of Michigan
+E.N. HOOKER, University of California, Los Angeles
+H.T. At the time the conversation was closed, with my promise to consider
+the question.
+
+I thought over the question much,
+and the more I thought the less inclined
+I felt to accept the proposition so kindly made by Mrs.
+
+Davis.
+
+                I knew the North to be strong, and believed that
+                the people would fight for the flag that they
+                pretended to venerate so highly. The Republican
+                party had just emerged from a heated campaign, flushed with victory,
+and I could not think that the hosts composing the party would
+quietly yield all they had gained in the Presidential canvass.
+
+A show of war from the South, I felt, would lead to actual war in
+the North; and with the two sections bitterly arrayed against each
+other, I preferred to cast my lot among the people of the North.
+
+_Note: All income of the Society is devoted to defraying cost of printing
+and mailing._

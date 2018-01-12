@@ -1,0 +1,3282 @@
+﻿are placed in the left margin.]
+
+
+{v}
+
+PREFACE
+
+The Syndics of the Cambridge University Press propose to issue a Nature
+Study Series of which this is the first volume.
+
+We count ourselves fortunate in securing Dr E. J. Russell as author and
+Soil as subject.  The subject is fundamental, for, just as the soil
+lies beneath the plant and animal life we see, so is a knowledge of the
+soil necessary for all understanding of flora and fauna.  The real
+complexity of the apparently simple element "Earth," and the variety of
+methods required for exploring it, are typical of the problems which
+the _tout ensemble_ of the outdoor world presents to the naturalist.
+
+Dr E. J. Russell has not only acquired a first-rate and first-hand
+knowledge of his subject at Wye and at Rothamsted; his own researches
+have recently extended our knowledge of the micro-organisms in the soil
+and their influence on fertility.  Further, what is very much to our
+purpose, he has himself had practical experience in teaching at an
+elementary school in Wye and at a secondary school in Harpenden.
+
+Just at the present moment, County Councils are trying to push rural
+education and to awaken the intelligence of country children by
+interesting them in their surroundings.  It is, therefore, a favourable
+opportunity to offer these pages as a concrete suggestion in model
+lessons and object lessons, showing exactly what can be done under
+existing conditions.
+
+{vi}
+
+The book is intended to help children to study nature; there is no
+attempt to substitute book study for nature study.  Hence, whilst there
+are passages of continuous reading, it is not a mere "reader."  Many
+teachers, myself among them, have felt the difficulty of organising
+practical work for large classes.  Dr Russell has written so that,
+whilst nominally showing the pupil how to learn, he is secretly
+scattering hints for the teacher who is learning how to teach.
+
+Abundant and varied practical exercises have been suggested, and
+careful instructions have been given so that the book shall seem
+intelligible even in the absence of a teacher.  The proposed practical
+work is not only what might be done by eager boys and girls on
+half-holidays, but what can be done by every scholar in the course of
+ordinary school work.  The pictorial illustrations are intended as aids
+to observation, not as substitutes.  Drawing is one form of practical
+exercise, and the preparation of corresponding illustrations in the
+scholars' notebooks from the apparatus used in the classroom and the
+fields around the school may afford exercises in artistic work with
+pen, brush or camera.
+
+Sufficient directions are given for the supply of necessary materials
+and apparatus.  The apparatus proposed is of the simplest character.
+
+It is suggested that the book will be found most useful in the higher
+standards of elementary schools, in preparatory schools and in the
+lower forms of secondary schools, that is, where the ages of scholars
+average from 12 to 14.
+
+HUGH RICHARDSON
+
+YORK, 7 January 1911
+
+
+{vi}
+
+CONTENTS
+
+
+CHAP.                                                        PAGE
+
+    I.  WHAT IS THE SOIL MADE OF?  . . . . . . . . . . . . .    1
+   II.  MORE ABOUT THE CLAY  . . . . . . . . . . . . . . . .    9
+  III.  WHAT LIME DOES TO CLAY . . . . . . . . . . . . . . .   19
+   IV.  SOME EXPERIMENTS WITH THE SAND . . . . . . . . . . .   22
+    V.  THE PART THAT BURNS AWAY . . . . . . . . . . . . . .   33
+   VI.  THE PLANT FOOD IN THE SOIL . . . . . . . . . . . . .   41
+  VII.  THE DWELLERS IN THE SOIL . . . . . . . . . . . . . .   53
+ VIII.  THE SOIL AND THE PLANT . . . . . . . . . . . . . . .   64
+   IX.  CULTIVATION AND TILLAGE  . . . . . . . . . . . . . .   82
+    X.  THE SOIL AND THE COUNTRYSIDE . . . . . . . . . . . .  100
+   XI.  HOW SOIL HAS BEEN MADE . . . . . . . . . . . . . . .  116
+        APPENDIX . . . . . . . . . . . . . . . . . . . . . .  128
+        INDEX  . . . . . . . . . . . . . . . . . . . . . . .  132
+
+
+[Transcriber's note: The page numbers below are those in the original
+book.  However, in this e-book, to avoid the splitting of paragraphs,
+the illustrations may have been moved to the page preceding or
+following.]
+
+
+LIST OF ILLUSTRATIONS
+
+
+FIGURE                                                       PAGE
+
+   1. Soil and subsoil in St George's School garden  . . . .    2
+
+   2. Columns showing what 100 parts of soil and subsoil
+        were made of . . . . . . . . . . . . . . . . . . . .    4
+
+   3. Columns showing what 100 parts of dried soil and
+        subsoil were made of . . . . . . . . . . . . . . . .    8
+
+   4. Clay shrinks when it dries . . . . . . . . . . . . . .   11
+
+   5. Clay swells up when it is placed in water  . . . . . .   12
+
+   6. Landslip in the Isle of Wight.
+        _Phot._ Valentine & Son  . . . . . . . . . . . . . .   13
+
+   7. Clay does not let water run through  . . . . . . . . .   14
+
+   8. Sand allows air to pass through but clay does not  . .   15
+
+   9. A brick allows both air and water to pass through it     17
+
+  10. Lime added to turbid clay water soon makes the clay
+        settle . . . . . . . . . . . . . . . . . . . . . . .   20
+
+  11. Sand dunes, Penhale, Cornwall.
+        _Phot._ Geological Survey  . . . . . . . . . . . . .   23
+
+  12. Blowing sand covering up meadows and ruining them.
+        _Phot._ Geological Survey  . . . . . . . . . . . . .   25
+
+  13. Model of a spring  . . . . . . . . . . . . . . . . . .   26
+
+  14. Foot of chalk hill at Harpenden where a spring breaks
+        out.  _Phot._ Lionel Armstrong . . . . . . . . . . .   27
+
+  15. The little pool and the spring.
+        _Phot._ Lionel Armstrong . . . . . . . . . . . . . .   28
+
+  16. Water spouting up from a bore hole, Old Cateriag
+        Quarry, Dunbar.  _Phot._ Geological Survey . . . . .   29
+
+  17. Sandy soils in wet and in dry positions  . . . . . . .   31
+
+  18. Map of the roads round Wye . . . . . . . . . . . . . .   32
+
+  19. Peat bog in Hoy, Orkney: peat is being cut for fuel.
+        _Phot._ Valentine & Son  . . . . . . . . . . . . . .   39
+
+  20. Rye growing in surface soil, subsoil, and sand . . . .   42
+
+  21. Mustard growing in surface soil, subsoil, and sand . .   43
+
+  22. Mustard growing in soil previously cropped with rye,
+        and in soil previously uncropped . . . . . . . . . .   45
+
+  23. Pieces of grass, leaves, etc. change to plant food
+        in the surface soil lint not in the subsoil . . . . .  50
+
+  24. Soil in which earthworms have been living and making
+        burrows  . . . . . . . . . . . . . . . . . . . . . .   55
+
+  25. Fresh soil turns milk bad, but baked soil does not . .   57
+
+  26. Soil contains tiny living things that grow on gelatine   58
+
+  27. Our breath makes lime water turn milky . . . . . . . .   59
+
+  28. Something in the soil uses up air and makes lime water
+        turn milky . . . . . . . . . . . . . . . . . . . . .   61
+
+  29. Soils are able to stick to water: clay or loam soils do
+        this better than sands . . . . . . . . . . . . . . .   65
+
+  30. Water can pass from wet to dry places in the soil, it
+        can even travel upwards  . . . . . . . . . . . . . .   66
+
+  31. Plants growing in soils supplied from below with water.
+        All the water the plants get has to travel upwards     67
+
+  32. Mustard growing in soils supplied with varying
+        quantities of water  . . . . . . . . . . . . . . . .   69
+
+  33. Wheat growing in moist and in dry soils  . . . . . . .   71
+
+  34 _a_ and _b_. Plants found on a dry soil had
+        narrow leaves, those on a moist soil had wider
+        leaves.  _Phot._ S. T. Parkinson . . . . . . . . . 72, 73
+
+  35. Plants give out water through their leaves . . . . . .   74
+
+  36. Stephen Hales's experiment in 1727 . . . . . . . . . .   75
+
+  37. Hill slope near Harpenden showing woodland at top and
+        arable land lower down.  _Phot._ Lionel Armstrong      77
+
+  38. View further along the valley; woodland and arable
+        above, rough grassland near the river.
+        _Phot_. Lionel Armstrong . . . . . . . . . . . . . .   79
+
+  39. Rough grass pasture near the river. Higher up is
+        arable land.  _Phot._ Lionel Armstrong . . . . . . .   81
+
+  40. After harvest the farmer breaks up his land with a
+        plough and then leaves it alone until seed time.
+        _Phot._ Lionel Armstrong . . . . . . . . . . . . . .   83
+
+  41. Rolling in mangold seed on the farm.
+        _Phot._ H. B. Hutchinson . . . . . . . . . . . . . .   85
+
+  42. Soil sampler . . . . . . . . . . . . . . . . . . . . .   88
+
+  43. Cultivation and mulching reduce the loss of water
+        from soils . . . . . . . . . . . . . . . . . . . . .   90
+
+  44 _a_ and _b_.  Maize cannot compete successfully
+        with weeds . . . . . . . . . . . . . . . . . . . . 94, 95
+
+  45. A plot of wheat left untouched since 1882 at
+        Rothamsted has now become a dense thicket.
+        _Phot._ Lionel Armstrong . . . . . . . . . . . . . .   97
+
+  46. A badly drained wheat field  . . . . . . . . .  . . . .  99
+
+  47. Highly cultivated sandy soil in Kent . . . . . . . . .  103
+
+  48. A Surrey heath . . . . . . . . . . . . . . . . . . . .  105
+
+  49. Woodland and heather on high sandy land, Wimbledon
+        Common.  _Phot._ R. H. Carter  . . . . . . . . . . .  107
+
+  50. Poor sandy soil in Surrey, partly cultivated but mainly
+        wood and waste . . . . . . . . . . . . . . . . . . .  109
+
+  51. Open chalk cultivated country, Thanet  . . . . . . . .  113
+
+  52. Cliffs at the seaside, Manorbier.
+        _Phot._ Geological Survey  . . . . . . . . . . . . .  117
+
+  53. Cliffs in inland district, Arthur's Seat, Edinburgh.
+        _Phot._ Geological Survey  . . . . . . . . . . . . .  119
+
+  54. Model of a stream  . . . . . . . . . . . . . . . . . .  120
+
+  55. The bend of a river  . . . . . . . . . . . . . . . . .  121
+
+  56. The winding river--the Stour at Wye.
+        _Phot._ R. H. Carter . . . . . . . . . . . . . . . .  123
+
+  57. Sketch map showing why Godmersham and Wye arose
+        where they did on the Stour  . . . . . . . . . . . .  126
+
+  58. Ford at Coldharbour near Harpenden.
+        _Phot._ Lionel Armstrong . . . . . . . . . . . . . .  127
+
+
+The photographs of the pot experiments are by Mr Lionel Armstrong.
+
+
+{xi}
+
+INTRODUCTION
+
+The following pages contain the substance of lessons given at the
+village school at Wye to the 4th, 5th, 6th and 7th standards (mixed)
+and at St George's School, Harpenden, to the 3rd form.  There is,
+however, an important difference between the actual lessons and the
+book.  The lessons had reference to the soils round about the village,
+and dealt mainly with local phenomena, general conclusions being only
+sparingly drawn; while in the book it has been necessary to throw the
+course into a more generalised form.  The teacher in using the book
+will have to reverse the process, he must find local illustrations and
+make liberal use of them during the course; it is hoped that the
+information given will help him over any difficulties he may experience.
+
+This necessity for finding local illustrations constitutes one of the
+fundamental differences between Nature Study subjects and other
+subjects of the school curriculum.  The textbooks in some of the others
+may be necessary and sufficient; in Nature Study it is at most only
+subsidiary, serving simply as a guide to the thing that is to be
+studied; unless the thing itself be before the class it is no better
+than a guide to a cathedral would be without the cathedral.  And just
+as the guide is successful only when he directs the attention of the
+stranger to the important features of the place, and fails directly he
+becomes garrulous and distracts attention, so a Nature Study book
+succeeds {xii} only in as far as it helps in the study of the actual
+thing, and fails if it is used passively and is substituted for an
+active study.  No description or illustration can take the place of
+direct observation; the simplest thing in Nature is infinitely more
+wonderful than our best word pictures can ever paint it.
+
+The author recommends the teacher to look through the chapter before it
+has to be taken in class and then to make a few expeditions in search
+of local illustrations.  It is not strictly necessary that the chapters
+should be taken in the order given.  The local phenomena must be dealt
+with as they arise and as weather permits, or the opportunity may pass
+not to return again during the course.  In almost any lane, field, or
+garden a sufficient number of illustrations may be obtained for our
+purpose; if a stream and a hill are accessible the material is
+practically complete, especially if the children can be induced to
+pursue their studies during their summer holiday rambles.  Of course
+this entails a good deal of work for the teacher, but the results are
+worth it.  Children enjoy experimental and observation lessons in which
+they take an active part and are not merely passive learners.   The
+value of such lessons in developing their latent powers and in
+stimulating them to seek for knowledge in the great book of Nature is a
+sufficient recompense to the enthusiastic teacher for the extra trouble
+involved.
+
+It is not desirable to work through a chapter in one lesson.  Children
+unaccustomed to make experiments or to see experiments done, will
+probably require three or four lessons for getting through each of the
+first few chapters, and two or three lessons for each of the others.
+
+{xiii}
+
+The pot experiments of Chaps. VI., VII. and VIII. should be started as
+early in the course as possible.  Twenty flower pots are wanted for the
+set; they should be of the same size, about eight inches being a
+convenient diameter, and should be kept together in a warm place.
+Three are filled with sand, seven with subsoil, and the remaining ten
+with surface soil.  Three of the subsoil pots are uncropped, two being
+stored moist and one dry.  Four pots of the surface soil are uncropped
+and moist, a fifth and sixth are uncropped and dry, one of these
+contains earthworms (p. 54).  Four glazed pots, e.g. large jam or
+marmalade jars, are also wanted (p. 69).  Mustard, buckwheat, or rye
+make good crops, but many others will do.  Leguminous crops, however,
+show certain abnormal characters, while turnips and cabbages are apt to
+fail: none of these should be used.  It is highly desirable that the
+pots should be duplicated.
+
+The plots also should be started in the school garden as early as
+convenient.  Eight are required for the set: their treatment is
+described in Chap. IX.  Plots two yards square suffice.
+
+A supply of sand, of clay, and of lime will be wanted, but it is not
+necessary to have fresh material for each lesson.  The sand may be
+obtained from a builder, a sand pit, the sea shore or from a dealer in
+chemical apparatus.  The clay may be obtained from a brick yard; it
+gives most satisfactory results after it has been ground ready for
+brick making.  Modelling clay is equally satisfactory.  A supply of
+rain water is desirable.
+
+For a class of twelve children working in pairs at the experiments the
+following apparatus is wanted for the whole course:--
+
+{xiv}
+
+  Six tripods and bunsen burners or spirit lamps [2]
+  twelve pipe-clay triangles [4]
+  twelve crucibles or tin lids [3]
+  sixteen gas jars [4]
+  twelve beakers 250 c.c. capacity [4]
+  two beakers 500 c.c.
+  two beakers 100 c.c.
+  six egg-cups [2]
+  twelve funnels [3]
+  six funnel stands [1]
+  six perforated glass disks [3]
+  two tubulated bottles 500 c.c., four corks to fit
+  cork borers
+  4 lbs. assorted glass tubing
+  pestle and mortar
+  twelve Erlenmeyer flasks 50 c.c. [3]
+  six saucers
+  twelve flatbottomed flasks 100 c.c., six fitted with India
+    rubber stoppers bored with one hole [3], and six
+    with ordinary corks [3]
+  box as in Fig. 13
+  six glass tubes 1/2" diameter, 18" long [2]
+  six lamp chimneys [3]
+  six test tubes, corks to fit
+  three thermometers
+  soil sampler (p. 88)
+  balance and weights
+  two retort stands with rings and clamp.
+
+The figures given in square brackets are the quantities that suffice
+when the teacher alone does the experiments, it not being convenient
+for the scholars to do much.
+
+{xv}
+
+In conclusion the author desires to tender his best thanks to the Rev.
+Cecil Grant of St George's School, and to Mr W. J. Ashby of the Wye
+School, for having allowed him the use of their schools and appliances
+during the progress of these lessons.  Especially are his thanks due to
+Mr Lionel Armstrong for much help ungrudgingly rendered in collecting
+material, taking photographs, and supervising the experiments.
+
+Let us hope that some of that truly good and English king's descendents
+may have better success.
+
+--_Family
+  Library_, No. xix
+
+.
+
+* * * * *
+
+DEATH OF RICHELIEU.
+
+Richelieu in the meantime had reached his palace in the capital.
+Roman despot was never more courted nor more feared; but death was
+coming fast to close his triumphant career.
+
+A mortal malady wasted him:
+yet the cardinal abated nothing of his pride, nor of his vindictiveness.
+
+He exiled some of the king's personal and cherished officers; he insulted
+Anne of Austria, the queen: remained seated during a visit that she
+paid him, and threatened to separate her from her children. Even his
+guards no longer lowered their arms in the presence of the monarch.
+His demeanor to Louis XIII. was that of one potentate to another. In
+December of 1642 the malady of the cardinal became inveterate, and every
+hope of life was denied him. He summoned the king to his dying bed,
+recapitulated the great and successful acts of his administration, and
+recommended Mazarin as the person to continue its spirit, and to be
+his successor. Louis promised obsequiousness. Richelieu then received
+the last consolations of religion, and went through these pious and
+touching ceremonies with an apparently firm and undisturbed conscience.
+The man of blood knew no remorse. His acts had all been, he asserted,
+for his country's good; and the same unbending pride and unshaken
+confidence that had commanded the respect of men, seemed to accompany
+him into the presence of his Maker.
+
+He died like a hero of the Stoics, though clad in the trappings of
+a prince of the church.
+
+Most of those present were edified by his firmness; but one bishop,
+calling to mind the life, the arrogance, and the crimes of the
+minister, observed, that "the confidence of the dying Richelieu filled
+him with terror." The crime of having trodden out the last spark of
+his country's liberties, and of having converted its monarchic
+government into pure despotism, is that for which Richelieu is most
+generally condemned. But the state of anarchy which he removed was
+license, not liberty. The task of reconciling private independence
+with public peace, civil rights with the existence of justice,--and
+this without precedent or tradition, without that rooted stock on which
+freedom, in order to grow and bear fruit, must be grafted,--was a
+conception which, however familiar to our age, was utterly unknown,
+and impracticable to that of Richelieu. With the horrors of civil war
+fresh in the memory of all, the general desire was for tranquillity
+and peace, not liberty; to which, moreover, had it been contemplated,
+the first necessary step was that of humbling the aristocracy.
+
+It was impossible that constitutional freedom could grow out of the
+chaos of privileges, and anarchy, and organized rebellion, that the
+government had to contend with. In building up her social fabric France
+had in fact gone wrong, destroyed the old foundations, and rebuilt
+on others without solidity or system. To introduce order or add solidity
+to so ill-constructed a fabric, was impossible; Richelieu found it
+necessary to raze all at once to the ground, except the central donjon
+of despotism, which he left standing. Had Richelieu, with all his genius
+and sagacity, undertaken for liberty what he achieved for royalty, his
+age would have rejected or misunderstood him, as it did Bacon and
+Galileo. He might, indeed, as a man of letters, have consigned such
+a political dream to the volume of an Utopia, but from action or
+administration he would have been soon discarded as a dreamer.
+
+Liberty must come of the claim of the mass; of the general
+enlightenment, firmness, and probity.
+In one experiment the results
+were:--
+
+  Weight of top soil before drying ... 10   grams = 100 decigrams
+     "       "   "   after    "    ...  8.3   "   =  83     "
+                                       ----         ---
+                        Water lost ...  1.7   "   =  17     "
+
+A column 100 millimetres long was drawn to represent the 100 decigrams
+of soil, and a mark was drawn 17 millimetres up to show the amount of
+water (see Fig. 2).
+
+  Weight of bottom soil before drying ...  10   grams = 100 decigrams
+     "        "     "   after    "    ...   8.7   "  =   87     "
+
+                           Water lost ...   1.3   "  =   13     "
+
+{4} Another column should be drawn for the subsoil.  On drying the soil
+it becomes lighter in colour and loses its stickiness, but it has not
+permanently changed because as soon as water is added it comes back to
+what it was before.
+
+[Illustration: Fig. 2.  Columns showing what 100 parts of soil and
+subsoil were made of]
+
+
+The dried lumps of soil are now to be broken up finely with a piece of
+wood, but nothing must be lost.  It is easy to see shrivelled pieces of
+plant, but not easy to pick them out; the simplest plan is to burn them
+away.  The soil must be carefully tipped on to a tin lid, or into a
+crucible, heated over a flame and stirred {5} with a long clean nail.
+First of all it chars, then there is a little sparkling, but not much,
+finally the soil turns red and does not change any further no matter
+how much it is heated.  The shade of red will at once be recognised as
+brick red or terra cotta, indeed "terra cotta" means "baked earth."
+When the soil is cold it should be examined again; it has become very
+hard and the plant remains have either disappeared or have changed to
+ash and crumble away directly they are touched.  On weighing a further
+loss is discovered, which was in our experiment:--
+
+  Weight of top soil after drying but before burning ... 83 decigrams
+    "        "   "     "     "     "  after    "     ... 76     "
+                                                         --
+                    The part that burnt away weighed ...  7     "
+
+   Weight of subsoil after drying but before burning ... 87 decigrams
+     "          "      "     "     "  after    "     ... 84     "
+                                                         --
+                    The part that burnt away weighed ...  3     "
+
+
+These results are entered on the column in Fig. 2.
+
+The surface soil is seen to contain more material that will burn away
+than the subsoil does.  When the burnt soil is moistened it does not
+become dark and sticky like it did before, it has completely changed
+and cannot be made into soil again.  It is more like brick dust than
+soil.
+
+For further experiments we shall want a fresh portion of the original
+soil.
+
+On a wet afternoon something was noticed that enabled us to get a
+little further with our studies.  The rain water ran down a sloping
+piece of ground in a tiny channel it had made; the streamlet was very
+muddy, and at first it was thought that all the soil was washed away.
+But we soon saw that the channel was lined {6} with grit, some of which
+was moving slowly down and some not at all.  Grit can therefore be
+separated from the rest of the soil by water.
+
+This separation can be shown very well by the following experiment.
+Rub ten grains of finely powdered soil with a little water (rain water
+is better than tap water), and carefully pour the muddy liquid into a
+large glass jar.  Add more water to the rest of the soil, shake, and
+again pour the liquid into the jar; go on doing this till the jar is
+full.  Then get some more jars and still keep on till the liquid is no
+longer muddy but nearly clear.  The part of the soil that remains
+behind and will not float over into the jars is at once seen to be made
+up of small stones, grit, and sand.  Set the jars aside and look at
+them after a day or so.  The liquid remains muddy for some time, but
+then it clears and a thick black sediment gathers at the bottom.  If
+now you very carefully pour the liquid off you can collect the
+sediments: they are soft and sticky, and can be moulded into patterns
+like clay.  In order to see if they really contain clay we must do the
+experiment again, but use pure clay from a brick yard, or modelling
+clay, instead of soil.  The muddy liquid is obtained as before, it
+takes a long time to settle, but in the end it gives a sediment so much
+like that from the soil, except in colour, that we shall be safe in
+saying that the sediments in the jars contain the clay from the soil.
+And thus we have been able to separate the sticky part of the soil--the
+clay--from the gritty or sandy part which is not at all sticky.  We may
+even be able to find out something more.  If we leave the soil sediment
+and the clay sediment on separate tin lids to dry, and then examine
+them carefully we may find that the {7} soil sediment is really a
+little more gritty than the clay.  Although it contains the clay it
+also contains something else.
+
+When the experiment is made very carefully in a proper way this
+material can be separated from the pure clay.  It is called silt, but
+really there are a number of silts, some almost like clay and some
+almost like sand; they shade one into the other.
+
+If there is enough grit it should be weighed: we obtained 14 decigrams
+of grit from 10 grams of our top soil and 17 decigrams from 10 grams of
+bottom soil.  We cannot separate the clay from the silt, but when this
+is done in careful experiments it is found that the subsoil contains
+more clay than the top soil.  We should of course expect this because
+we have found that the subsoil is more sticky than the top soil.  These
+results are put into the columns as before so that we can now see at
+once how much of our soil is water, how much can burn away, how much is
+grit, and how much is clay and other things.
+
+What would have happened if the sample had been dug out during wetter
+or drier weather?  The quantity of water would have been different, but
+in other respects the soil would have remained the same.  It is
+therefore best to avoid the changes in the amount of water by working
+always with 10 grams of _dried_ soil.  The results we obtained were:--
+
+                                           Top soil  Subsoil
+  Weight of dry soil before burning    ...   100       100 decigrams
+    "        "   "   after    "        ...    92        97     "
+                                             ---       ---
+  The part that burned away weighed    ...     8         3
+  Weight of grit from 10 grams of dried soil  17        19     "
+
+
+The columns are given in Fig. 3.
+
+{8}
+
+[Illustration: Fig. 3.  Columns showing what 100 parts of dried soil
+and subsoil were made of]
+
+Summary.  The experiments made so far have taught us these facts:--
+
+1. Soil contains water, grit or sand, silt, clay, a part that burns
+away, and some white chalky specks.
+
+2. The top layer of soil to a depth of about eight inches is different
+from the soil lying below, which is called the subsoil.  It is less
+sticky, easier to dig, and darker in colour.  It contains more of the
+material that burns away, but less clay than the subsoil.
+
+3. When soil is dried it is not sticky but hard or crumbly; as soon as
+it is moistened it changes back to what it was before.  But when soil
+is burnt it completely alters and can no longer be changed back again.
+
+
+[1] See p. xiv for explanation of the figures in square brackets.
+
+
+{9}
+
+CHAPTER II
+
+MORE ABOUT THE CLAY
+
+
+Apparatus required.
+
+_Clay, about 6 lbs.; a little dried, powdered clay; sand, about 6 lbs.
+Six glass jars or cylinders [2].  Six beakers [1].  Six egg-cups [1].
+Six funnels and stands [2].  Six perforated glass or tin disks [2].
+Six glass tubes [2].  Two tubulated bottles fitted with corks.  Some
+seeds.  Six small jars about 2 in. x 1 in. [2].  Bricks.  The apparatus
+in Fig. 9.  Pestle and mortar._
+
+
+We have seen in the last chapter that clay will float in water and only
+slowly settles down.  Is this because clay is lighter than water?
+Probably not, because a lump of clay seems very heavy.  Further, if we
+put a small ball of clay into water it at once sinks to the bottom.
+Only when we rub the clay between our fingers or work it with a
+stick--in other words, when we break the ball into very tiny
+pieces--can we get it to float again.  We therefore conclude that the
+clay floated in our jars (p. 6) for so long not because it was lighter
+than water, but because the pieces were so small.
+
+Clay is exceedingly useful because of its stickiness.  Dig up some
+clay, if there is any in your garden, or procure some from a brick
+works.  You can mould it into any shape you like, and the purer the
+clay the {10} better it acts.  Enormous quantities of clay are used for
+making bricks.  Make some model bricks about an inch long and half an
+inch in width and depth, also make a small basin of about the same
+size, then set them aside for a week in a warm, dry place.  They still
+keep their shape; even if a crack has appeared the pieces stick
+together and do not crumble to a powder.
+
+If you now measure with a ruler any of the bricks that have not
+cracked, you will find that they have shrunk a little and are no longer
+quite an inch long.  This fact is well known to brickmakers; the moulds
+in which they make the bricks are larger than the brick is wanted to
+be.  But what would happen if instead of a piece of clay one inch long
+you had a whole field of clay?  Would that shrink also, and, if so,
+what would the field look like?  We can answer this question in two
+ways; we may make a model of a field and let it dry, and we can pay a
+visit to a clay meadow after some hot, dry weather in summer.  The
+model can be made by kneading clay up under water and then rolling it
+out on some cardboard or wood as if it were a piece of pastry.  Cut it
+into a square and draw lines on the cardboard right at the edges of the
+clay.  Then put it into a dry warm place and leave for some days.  Fig.
+4 is a picture of such a model after a week's drying.  The clay has
+shrunk away from the marks, but it has also shrunk all over and has
+cracked.  If you get an opportunity of walking over a clay field during
+a dry summer, you will find similar but much larger cracks, some of
+which may be two or three inches wide, or even more.  Sometimes the
+cracking is so bad that the roots of plants or of trees are torn by it,
+and even buildings, in some instances, have suffered through their
+foundations shrinking away.  {11} We can now understand why some of our
+model bricks cracked.  The cracks were caused by the shrinkage just as
+happens with our model field.  As soon as the clay becomes wet it
+swells again.  A very pretty experiment can be made to show this.  Fill
+a glass tube or an egg-cup with dry powdered clay, scrape the surface
+level with a ruler, and then stand in a glass jar full of rain water so
+that the whole is completely covered.  After a short time the clay
+begins to swell and forces its way out of the egg-cup as shown in Fig.
+5, falling over the side and making quite a little shower.  In exactly
+the same way the ground swells after heavy rain and rises a little,
+then it falls again and cracks when it becomes dry.  Darwin records
+some careful measurements in a book called _Earthworms and Vegetable
+Mould_--"a large flat stone laid on the surface of a field sank 3.33
+millimetres[1] whilst the weather was dry between May 9th and June
+13th, {12} and rose 1.91 millimetres between September 7th and 19th of
+the same year, much rain having fallen during the latter part of this
+time.  During frosts and thaws the movements were twice as great."
+
+[Illustration: Fig. 4.  Clay was plastered over a square piece of board
+and completely covered it.  After drying for a week the clay had shrunk
+and cracked]
+
+You must have found out by now how very slippery clay becomes as soon
+as it is wet enough.  It is not easy to walk over a clay field in wet
+weather, and if the clay forms part of the slope of a hill it may be so
+slippery that it becomes dangerous.  Sometimes after very heavy rains
+soil resting on clay on the side of a hill has begun to slide downwards
+and moves some distance before it stops.  Fortunately these land slips
+as they are called, are not common in England, but they do occur.  Fig.
+6 shows one in the Isle of Wight, and another is described by Gilbert
+White in _The Natural History of Selborne_.
+
+[Illustration: Fig. 5.  Clay swelling up when placed in water and
+overflowing from the egg-cup into which it was put]
+
+
+[Illustration: Fig. 6.  Landslip in the Isle of Wight]
+
+Another thing that you will have noticed is that anything made of clay
+holds water.  A simple way of testing this is to put a round piece of
+tin perforated {14} with holes into a funnel, press some clay on to it
+and on to the sides of the funnel (Fig. 7), and then pour on rain
+water.  The water does not run through.  Pools of water may lie like
+this on a clay field for a very long time in winter before they
+disappear, as you will know very well if you live in a clay country.
+So when a lake or a reservoir is being made it sometimes happens that
+the sides are lined with clay to keep the water in.
+
+[Illustration: Fig. 7.  A thin layer of clay _a_ entirely prevents the
+water running through]
+
+
+If water cannot get through can air?  This is very easily discovered:
+plug a glass tube with clay and see if you can draw or blow air
+through.  You cannot.  Clay can be used like putty to stop up holes or
+cracks, and so long as it keeps moist it will neither let air nor water
+{15} through.  Take two bottles like those in Fig. 8, stop up the
+bottom tubes, and fill with water.  Then put a funnel through each cork
+and fit the cork in tightly, covering with clay if there is any sign of
+a leak.  Put a perforated tin disk into each funnel, cover one well
+with clay and the other with sand.  Open the bottom tubes.  No water
+runs out from the first bottle because no air can leak in through the
+clay, but it runs out very quickly from the second because the sand
+lets air through.  These properties of clay and sand are very important
+for plants.  Sow some seeds in a little jar {16} full of clay kept
+moist to prevent it cracking, and at the same time sow a few in some
+moist sand.  The seeds soon germinate in the sand but not in the clay.
+It is known that seeds will not germinate unless they have air and
+water and are warm enough.  They had water in both jars, and they were
+in both cases warm, but they got no air through the clay and therefore
+could not sprout.  Pure clay would not be good for plants to grow in.
+Air came through the sand, however, and gave the seeds all they wanted
+for germination.
+
+[Illustration: Fig. 8.  Sand allows air to pass through it, and so
+water runs out of the bottle.  Clay does not let air pass, and the
+water is therefore kept in, even though the tube is open.]
+
+This also explains something else that you may have noticed.  If you
+tried baking one of your model bricks in the fire you probably found
+that the brick exploded and shattered to pieces: the water still left
+in the brick changed to steam when it was heated, but the steam could
+not escape through the clay, and so it burst the clay.  In a brick
+works the heat is very gradually applied and the steam only slowly
+forms, so that it has time to leak away, then when it has all gone the
+brick can be heated strongly.  You should try this with one of your
+model bricks; leave it in a hot place near the stove or on the radiator
+for a week or more and then see if you can bake it without mishap.
+
+Let us now compare a piece of clay with a brick.  The differences are
+so great that you would hardly think the brick could have been made
+from clay.  The brick is neither soft nor sticky, and it has not the
+smooth surface of a piece of clay, but is full of little holes or
+pores, which look as if they were formed in letting the steam out.  A
+brick lets air through; some air gets into our houses through the
+bricks even when the windows are shut.  Water will get through bricks
+more easily than it does through clay.  After heavy rain you {17} can
+often find that water has soaked through a brick wall and made the wall
+paper quite damp.  A pretty experiment can be made with the piece of
+apparatus shown in Fig. 9: bore in a brick a hole about an inch deep
+and a quarter of an inch wide, put into the hole the piece of bent
+glass tubing, and fix it in with some clay or putty, then pour some
+water blackened with ink into the tube, marking its position with a
+label.  Stand the brick in a vessel so full of water that the brick is
+entirely covered.  Water soaks into the brick and presses the air out:
+the air tries to escape through the tube and forces up the black liquid.
+
+[Illustration: Fig. 9.  A brick standing in water.  The air in the
+brick is driven inwards by the water and forces the liquid up the tube
+in order to escape]
+
+
+One more experiment may be tried.  Can a brick be changed back into
+clay?  Grind up the brick and it forms a gritty powder.  Moisten it,
+work it with your fingers how you please, but it still remains a gritty
+powder and never takes on the greasy, sticky feeling of {18} pure clay.
+Indeed no one has ever succeeded in making clay out of bricks.  All
+these experiments show that clay is completely altered when it is
+burnt.  We also found that soil is completely altered by burning, and
+if you look back at your notes you will see that the changes are very
+much alike, so much so that we can safely put down some of the changes
+in the burnt soil--the red colour, the hard grittiness, and the absence
+of stickiness--to the clay.  Let us now examine a piece of dry, but
+unburnt, clay.  It is very hard and does not crumble, it is neither
+sticky nor slippery.  Directly, however, we add some water it changes
+back to what it was before.  Drying therefore alters clay only for the
+time being, whilst baking changes it permanently.
+
+
+[1] A little more than one-eighth of an inch.
+
+
+{19}
+
+CHAPTER III
+
+WHAT LIME DOES TO CLAY
+
+
+Apparatus required.
+
+_Clay, about 6 lbs.  Some of the clay from Chapter II may, if
+necessary, be used over again.  Lime, about 1/2 lb.  Six funnels,
+stands and disks [2].  Twelve glass jars [2].  Lime water[1]._
+
+
+If you are in a clay country in autumn or early winter you will find
+some of the fields dotted with white heaps of chalk or lime, and you
+will be told that these things "improve" the soil.  We will make a few
+experiments to find out what lime does to clay.  Put some clay on to a
+perforated tin disk in a funnel just as you did on p. 14, press it down
+so that no water can pass through.  Then sprinkle on to the clay some
+powdered lime and add rain water.  Soon the water begins to leak
+through, though it could not do so before; the addition of the lime,
+therefore, has altered the clay.  If you added lime to a garden or a
+field on which water lay about for a long time in winter you would
+expect the water to drain away, especially if you made drains or cut
+some trenches along which the water could pass.  There are large areas
+in England where this has been done with very great advantage.
+
+{20}
+
+The muddy liquid obtained by shaking clay with water clears quickly if
+a little lime is stirred in.  Fill two jars A and B (Fig. 10) with rain
+water, rub clay into each and stir up so as to make a muddy liquid,
+then add some lime water to _B_ and stir well.  Leave for a short time.
+Flocks quickly appear in _B_, then sink, leaving the liquid clear, but
+A remains cloudy for a long time.  But why should the liquid clear?  We
+decided in our earlier experiments that the clay floated in the water
+because it was in very tiny pieces; when we took a larger lump the clay
+sank.  The lime has for some reason or other, which we do not
+understand, made the small clay particles stick together to form the
+large flocks, and these can no longer float, but sink.  If we look at
+the limed clay in our funnel experiment we shall see that the same
+change has gone on there; the clay has become rather loose and fluffy,
+and can therefore no longer hold water back.
+
+[Illustration: Fig. 10.  Addition of lime to turbid clay water now
+makes the clay settle and leaves the water quite clear]
+
+Lime also makes clay less sticky.  Knead up one piece of clay with rain
+water alone and another piece {21} with rain water and about 1/20 its
+weight of lime.  The limed clay breaks easily and works quite
+differently from the pure clay.
+
+SUMMARY.  This, then, is what we have learnt about clay.  Clay is made
+up of very, very, tiny pieces, so small that they float in water.  They
+stick together when they are wetted and then pressed, and they remain
+together; a piece of clay moulded into any pattern will keep its shape
+even after it is dried and baked.  Clay is therefore made into bricks,
+earthenware, pottery, etc., whilst white clay, which is found in some
+places, is made into china.  Wet clay shrinks and cracks as it dries;
+these cracks can easily be seen in the fields during dry weather.  This
+shrinkage interferes with the foundations of houses and other
+buildings, causing them to settle.  Dry clay is different from wet
+clay, it is hard, not sticky and not slippery, but it at once becomes
+like ordinary clay when water is added.  After baking, however, clay
+permanently alters and cannot again be changed back to what it was
+before.  Clay will not let water pass through; a clay field is
+therefore nearly always wet in winter and spring.  Nor can air pass
+through until the clay dries or cracks.
+
+Lime has a remarkable action on clay.  It makes the little, tiny pieces
+stick together to form feathery flocks which sink in water; lime
+therefore causes muddy clay water to become clear.  The flocks cannot
+hold water back, and hence limed clay allows water to pass through.
+Limed clay is also less sticky than pure clay.  A clay field or garden
+is improved by adding lime because the soil does not remain wet so long
+as it did before; it is also less sticky and therefore more easily
+cultivated.
+
+
+[1] Lime water is made by shaking up lime and water.  It should be kept
+in a well-corked bottle.
+
+
+{22}
+
+CHAPTER IV
+
+SOME EXPERIMENTS WITH THE SAND
+
+
+Apparatus required.
+
+_Sand, about 6 lbs.; clay, about 6 lbs.  Six funnels, stands and disks
+[1].  Six glass jars [2].  One box with glass front shown in Fig. 13
+filled with clay and sand, as indicated.  Quarry chalk (about 5 lbs.).
+Six beakers [1].  Six egg-cups [1]._
+
+
+If there is a sand pit near you, or a field of sandy soil, you should
+get a supply for these experiments; if not, some builder's sand can be
+used.  When the sand is dry you will see that the grains are large and
+hard.  Further, they are all separate and do not stick together; if you
+make a hole in a heap of the sand, the sides fall in, there is nothing
+solid about it, and you can easily see the mistake of the foolish man
+who built his house upon the sand.  When the sand is wet it sticks
+better and can be made into a good many things; at the seaside you can
+make a really fine castle with wet sand.  But as soon as the sand dries
+it again becomes loose and begins to fall to pieces.
+
+[Illustration: Fig. 11.  Sand dunes, Penhale sands, Cornwall]
+
+Strong winds will blow these fragments of dry sand about and pile them
+up into the sand hills or dunes common in many seaside districts (Fig.
+11).  Blowing sands can also be found in inland districts; in the
+northern part of Surrey, in parts of Norfolk and many {24} other places
+are fields where so much of the soil is blown away by strong winds that
+the crops may suffer injury.  In Central Asia sand storms do very much
+harm and have in the course of years buried entire cities.  Fig. 12
+shows the Penhale sands in Cornwall gradually covering up some meadows
+and ruining them.
+
+[Illustration: Fig. 12.  Sand from Penhale sand dunes blowing on to and
+covering up meadows]
+
+Sand particles, being large, do not float in water.  If we shake up
+sand in water the sand sinks, leaving the water entirely clear.  So
+running water does not carry sand with it unless it is running very
+quickly: the sand lies at the bottom.
+
+Unlike clay, sand does not hold water.  Pour some water on to sand
+placed on the tin disk in a funnel (Fig. 8); it nearly all runs through
+at once.  We should therefore expect a sandy field or a sandy road to
+dry up very quickly after rain and not to remain wet like a clay field.
+So much is this the case that people prefer to live on a sandy soil
+rather than on a clay.  The most desirable residential districts round
+London, Hampstead on the north, and the stretch running from Haslemere
+on the south-west to Maidstone on the south-east, and other favoured
+regions, are all high up on the sand.
+
+At the foot of a hill formed of sand you often find a spring,
+especially if clay or solid rock lies below.  It is easy to make a
+model that will show why the spring forms at this particular place.
+Fill the lower part of the box shown in Fig. 13 with wet clay,
+smoothing it out so that it touches all three sides and the glass
+front; then on top of the clay put enough sand to fill the box.  Bore
+four holes in the side as shown in the picture, one at the bottom, one
+at the top, one just above the junction of the sand and clay, the
+fourth half way up the sand, and fix in glass tubes with clay or putty.
+Pour {26} water on to the sand out of a watering can fitted with the
+rose so as to imitate the rain.  At first nothing seems to happen, but
+if you look closely you will notice that the water soaks through and
+does not lie on the surface; it runs right down to the clay; then it
+comes out at the tube there (_c_ in the picture).  None goes through
+the clay, nor does enough stay in the sand to flow out through either
+the top or the second tube; of the four tubes only one is discharging
+any water.  The discharge does not stop when the supply of water stops.
+The rain need only fall at intervals, but the water will flow all the
+time.
+
+[Illustration: Fig. 13.  Model spring.  A box with glass front contains
+a layer of clay and one of sand.  Water that falls on the sand runs
+right down to the clay but can get no further, and therefore flows out
+through the tube _c_ at the junction of the clay and the sand.  The
+same result is obtained when chalk takes the place of sand]
+
+The experiment should now be tried with some chalk from a quarry; it
+gives the same results and shows that chalk, like sand, allows water
+readily to pass.
+
+[Illustration: Fig. 14.  Foot of a chalk hill at Harpenden where a
+spring breaks out just under the bush at the right-hand side of the
+gate]
+
+Just the same thing happens out of doors in a sandy or chalky country;
+the rain water soaks through the sand or chalk until it comes to clay
+or solid rock that it cannot pass, then it stops.  If it can find a way
+out it {28} does so and makes a spring, or sometimes a whole line of
+springs or wet ground.  Rushes, which flourish in such wet places, will
+often be found growing along this line, and may, indeed, in summer time
+be all you can see, the water having drained away.  But after much rain
+the line again becomes very wet.  Fig. 14 shows the foot of a chalk
+hill near Harpenden, where a spring breaks out just under the bush at
+the right-hand side of the gate.  In Fig. 15 the bush itself is seen,
+with the little pool of water made by the spring.  Here the water flows
+gently, but elsewhere it sometimes happens, as in Fig. 16, that the
+spring breaks out with great force.
+
+[Illustration: Fig. 15.  "The little pool below the tree"]
+
+Now stop up the glass tubes so that the water cannot get out.  Soon the
+sand becomes flooded and is no better than clay would be.  A second
+model will show this very well.  Make a large saucer of clay and fill
+with sand: {30} pour water on.  The water stays in the sand, because it
+cannot pass through the clay.  A sandy field saturated like this will
+therefore not be dry, but wet, and will not make a good position for a
+house.  We must therefore distinguish the two cases illustrated in Fig.
+17.  _A_ shows sand on a hill, dry because the water runs through until
+it comes to clay or rock, when it stops and breaks out as a spring, a
+tiny stream, or pond; this is a good building site and you may expect
+to find large houses there.  _B_ shows the sand in a basin of clay,
+where the water cannot get away: here the cellars and downstairs rooms
+are liable to be wet, and in a village the wells give impure water.
+Matters could be improved if a way out were cut for the water, but then
+the foundations of the buildings might move a little.
+
+[Illustration: Fig. 16.  Water bursting out from an underground spring,
+Old Cateriag Quarry, Dunbar]
+
+It often happens that villages are situated at the junction of sand and
+clay, or chalk and clay, because the springs furnish forth a good water
+supply.
+
+On the other hand large tracts of clay which remain wet and sticky
+during a good part of the year are not very attractive to live in, and
+even near London they were the last to be populated: Hither Green in
+the south-cast and the clay districts of the north-west have only of
+late years been built on; while the sands and gravels of Highgate,
+Chiswick, Brentford and other places had long been occupied.
+Elsewhere, villages on the clay do not grow quickly unless there is
+much manufacturing or mining; the parishes are large, the roads even
+now are not good while they used to be very bad indeed.  Macaulay tells
+us that at the end of the seventeenth century in some parts of Kent and
+Sussex "none but the strongest horses could in winter get through the
+bog, in which at every step they sank {31} deep.  The markets were
+often inaccessible during several months. . .  The wheeled carriages
+were, in this district, generally pulled by oxen.  When Prince George
+of Denmark visited the stately mansion of Petworth in wet weather, he
+was six hours in going nine miles; and it was necessary that a body of
+sturdy hinds should be on each side of his coach to prop it up.  Of the
+carriages which conveyed his retinue several were upset and injured.  A
+letter from one of the party has been preserved in which the
+unfortunate courier complains that, during fourteen hours, he never
+once alighted, except when his coach was overturned or stuck fast in
+the mud."  The Romans knew how to make roads anywhere, and so they made
+them run in a straight line between the two places they wished to
+connect, but the art was lost in later years, and the country roads
+made in England since their time usually had to follow the sand or the
+chalk, avoiding the clay as much as possible.  These roads we still
+use.  Fig. 18 shows the roads round Wye; you should in your rambles
+study your own roads and see what soil they are on.
+
+[Illustration: Fig. 17.  Two positions of sand.  _A_ is dry because the
+water can drain away and break out as a spring at _c_.  _B_ is wet
+because the water cannot drain away]
+
+There are several other ways in which sand differs from clay.  It does
+not shrink on drying nor does it {32} swell on wetting, and you will
+find nothing happens when you try with sand the experiment with the
+model field (p. 11) or the egg-cup (p. 12).
+
+[Illustration: Fig. 18.  The roads round Wye.  As far as possible they
+keep off the clay (the plain part of the map) and keep on the chalk or
+the sand (the dotted part of the map)]
+
+
+{33}
+
+CHAPTER V
+
+THE PART THAT BURNS AWAY
+
+
+Apparatus required.
+
+_Leaf mould.  Mould from a tree.  Peat.  About 1 lb. soil from a wood,
+a well-manured garden and a field; also some subsoil.  Six crucibles or
+tin lids.  Six tripods, pipe-clay triangles, and bunsen burners or
+spirit lamps.  Six beakers and egg-cups [1]._
+
+
+In the autumn leaves fall off the trees and form a thick layer in the
+woods.  They do not last very long; if they did they would in a few
+years almost bury the wood.  You can, in the springtime or early summer
+find out what has happened to them if you go into a wood or carefully
+search under a big hedge in a lane where the leaves were not swept
+away.  Here and there you come across skeleton leaves where only the
+veins are left, all the rest having disappeared.  But generally where
+the leaves have kept moist they have changed to a dark brown mass which
+still shows some of the structure of a leaf.  This is called leaf
+mould.  The top layer of soil in the wood is soft, dark in colour, and
+is evidently leaf mould mixed with sand or soil.
+
+Leaf mould is highly prized by gardeners, indeed gardeners will often
+make a big heap of leaves in autumn and let them "rot down" and change
+into mould.  If you can in autumn collect enough leaves to make a heap
+you {34} should do so and leave it somewhere where the rain can fall on
+it, but cover it with a few small branches of trees to prevent the wind
+blowing the leaves away.  The heap shrinks a great deal during the
+first few months, and in the end it gives a supply of mould that will
+be very useful if you want to grow any plants in pots.
+
+Some of the little hollows in the bank under a hedge, especially on
+chalky soils, are filled with leaf mould which has sometimes changed to
+a black powder not looking at all like leaves.
+
+You can also find mould in holes in decayed trees; here it has formed
+from the wood of the tree.
+
+It appears, then, that dead leaves, etc., slowly change into a black or
+brown substance, shrinking very much as they do so.  For this reason
+they do not go on piling up year after year till finally they fill the
+wood; instead they decay or "rot down" to form leaf mould: the big pile
+of the autumn has changed by the next summer to a thin layer which
+mixes with the soil.
+
+We want now to see what happens on a common or a piece of waste ground
+that is not cultivated.  Grass and wild plants grow up in summer and
+die during winter; their stems and roots are not taken away, but
+clearly they do not remain where they are, because next year new plants
+grow up.  We may suppose that the dead roots and stems decay like the
+leaves did, and change to a brown or black mould.  It looks as if we
+are right, because on digging a hole or examining the side of a freshly
+cut ditch we shall find that the top layer of soil, just so far as the
+living roots go, is darker in colour than the layer below.
+
+We must, however, try and get some more proof, and to do this we must
+study some of our specimens a little {35} more closely.  We will take
+some leaf mould, some black mould from a hollow in the bank, some from
+a tree, soils from a wood, a well-manured garden, a field and some
+subsoil.  All except the subsoil have a dark colour, but the wood and
+garden soils are probably darker than the field soil.  Now weigh out 2
+grains of each of these and heat in a dish as you did the soil on p. 4;
+notice that all except the subsoil go black and then begin to smoulder,
+but the moulds smoulder more than the soils.  Then weigh again and
+calculate how much has burnt away in each case.  Here are some results
+that have been obtained at Harpenden:--
+
+                                Amount      Percentage
+               Colour before      of         loss on      Colour of
+                  burning     smouldering    burning       residue
+
+  Leaf mould    dark brown       much          78.3       light grey
+
+  Mould from
+    dead tree     black          much          60.6       light grey
+
+  Soil from
+    wood       dark brown        less          43.4[1]      white
+
+  Soil from
+    garden     almost black      less          10.1          red
+
+  Soil from
+    field      brownish          still less     5.4          red
+
+  Subsoil        red             none           2.0          red
+
+
+The mould nearly all burns away and its dark colour entirely goes, so
+also does the dark colour of the soil.
+
+Our supposition explains why, in the case of soils, the less the
+blackness, the less the loss on burning.  If the {36} brown or black
+combustible part is really mould formed by the decay of plant roots,
+etc., then we should expect that as the percentage of mould in the soil
+increased, so its blackness would increase and its loss on burning
+would become greater.  This actually happens.
+
+This, then, is our idea.  We suppose that the plants that have lived in
+past years have decayed to form a black material like leaf mould which
+stops in the soil, giving it a darkish colour.  The more mould there
+is, the darker the colour of the soil.  We know that along with this
+decay there is a great deal of shrinkage.  As the black material is
+formed from the plant, it only extends as far into the soil as the
+plant roots go, so that there is a sharp change in colour about 6
+inches below the surface (see also p. 2).  Like the plant the black
+material all burns away when the soil is heated sufficiently.
+
+Thus we can explain all the facts we have observed, and in what seems a
+very likely way.  This does not show that our supposition is correct,
+but only that it is useful.  When you come to study science subjects
+you will find such suppositions, or hypotheses as they are called, are
+frequently used so long as they are found to be helpful.  In our
+present case we could only get absolute proof that the black
+combustible part of the soil really arose from the decay of plants by
+watching the process of soil formation.  We shall turn later to this
+subject.
+
+The black material is known as humus.  Farmers and gardeners like a
+black soil containing a good deal of humus because they find it very
+rich, and we shall see later on why this is so.  Vast areas of such
+soils occurring in Manitoba, in Russia, and in Hungary are used for
+{37} wheat growing, while there are also areas in the Fen districts of
+England.
+
+There is something known as peat that looks rather like mould, but is
+really so different that you must be careful not to confuse the two.
+Peat is not good for plants, and does not make the soil fertile, but
+quite the reverse.  You can see it being formed on a moor or bog, and
+you should at the first opportunity go and examine it.  There was a
+peat bog near Wye that was examined with the following results.  The
+peat was very fibrous and had evidently been formed from plants.  It
+made a layer about 2 feet thick and underneath it was a bed of clay;
+this was discovered by examining the ditches, some of which cut right
+through the peat into the clay below.  A sample of the clay put into a
+funnel, as on p. 14, did not allow water to pass through; this was also
+evident from the very wet nature of the ground.  The peat bed was below
+the level of the surrounding land and was in a sort of basin; the water
+draining from the higher land could all collect there but could not run
+away, indeed it might very well have been a shallow lake.  It was quite
+clear that the plants as they died would _decay in very wet soil_, and
+so the conditions are very different from those we have just been
+studying where the plants _decay in soil that is only moist_.  This
+difference at once shows itself in the fact that peat generally forms a
+thick layer, while mould only rarely does so.  In the north of England
+the moors lie high, but here again the peat bed is like a saucer or
+basin, and there is soil or rock below that does not let the rain water
+pass through.  For a great part of the year the beds are very wet.
+
+{38}
+
+Look at a piece of peat and notice how very fibrous it is, quite unlike
+leaf mould.  When it is dry peat easily burns and is much used as fuel
+in parts of Scotland, Wales and Ireland.   It is cut in blocks during
+the spring, left to dry in heaps during summer, and then carried away
+in autumn.  Fig. 19 shows a peat bog with cutting going on.  Peat does
+not easily catch light and the fires are generally kept burning all
+night; there is no great flame such as you get with a coal fire, but
+still there is quite a nice heat.
+
+Peat has a remarkable power of absorbing water.  Fill an egg-cup with
+peat, packing it as tightly as you possibly can, and then put it under
+water and leave for some days.  The peat becomes very wet and swells
+considerably, overflowing the cup just like the clay did on p. 12.
+After long and heavy rains peat in bogs swells up so much that it may
+become dangerous; if the bog is on the side of a hill, the peat may
+overflow and run down the hill like a river, carrying everything before
+it.  Such overflows sometimes occur in Ireland and they used to occur
+in the north of England; you can read about one on Pendle Hill in
+Harrison Ainsworth's _Lancashire Witches_.  But they do not take place
+when ditches are cut in the bog so that the water can flow away instead
+of soaking in; this has been done in England.
+
+This great power of absorbing water and other liquids, so terrible when
+it leads to overflows, enables peat to be put to various uses, and a
+good deal of it is sold as peat-moss, for use in stables.
+
+[Illustration: Fig. 19.  Cutting and carrying peat for fuel, Hoy,
+Orkney]
+
+In the ditches of a peat bog red slimy masses can often be found.  They
+look just like rusty iron, and in fact they do contain a good deal of
+iron, but there are also a number of tiny little living things present.
+The {40} stones and grit just under the peat are usually white, all the
+red material from them having been washed out by the water which has
+soaked through the peat.  Then at the ditch these tiny living things
+take up the red material because it is useful to them.  Peat or
+"moorland" water can also dissolve lead from lead pipes and may
+therefore be dangerous for drinking purposes unless it is specially
+purified.  When you study chemistry you will be able to show that both
+peat itself and moorland waters are "acid" while good mould is not.
+That is why peat is not good for cultivated plants (see also p. 96).
+
+Other things besides peat are formed when plants decay under water.  If
+you stir up the bottom of a stagnant pond with a stick bubbles of gas
+rise to the surface and will burn if a lighted match is put to them.
+This gas is called marsh gas.  Very unpleasant and unwholesome gases
+are also formed.
+
+
+[1] The top two inches of soil only were collected here, and there were
+many leaves, twigs, etc. mixed in.  Soils from different woods vary
+considerably.  If the sample is taken to a greater depth the loss on
+burning is much less, and may be only 5 or 6 per cent.
+
+
+{41}
+
+CHAPTER VI
+
+THE PLANT FOOD IN THE SOIL
+
+
+Apparatus required.
+
+_The pot experiments (p. xiii)._
+
+
+It is a rare sight in England to see land in a natural uncultivated
+state devoid of vegetation.  The hills are covered with grasses and
+bushes, the moors with ling and heather, commons with grass, bracken
+and gorse, a garden tends to become smothered in weeds, and even a
+gravel path will not long remain free from grass.  It is clear that
+soil is well suited for the growth of plants.  We will make a few
+experiments to see what we can find out about this property of soil.
+
+We have seen that a good deal of the soil is sand or grit, and we shall
+want to know whether this, like soil, can support plant life.  We have
+also found that the subsoil is unlike the top soil in several ways, and
+so we shall want to see how it behaves towards plants.  Fill a pot with
+soil taken from the top nine inches of an arable field or untrenched
+part of the garden; another with subsoil taken from the lower depth, 9
+to 18 inches, and a third with clean builder's sand or washed sea-sand.
+Sow with rye or mustard, and thin out when the seeds are up.  Keep the
+pots together and equally well supplied with water; the plants then
+have as good a chance of growth in one pot as in any other.
+
+{42}
+
+[Illustration: Fig. 20.  Rye growing in surface soil (Pot 3), subsoil
+(Pot 4), and sand (Pot 5)]
+
+{43}
+
+Figs. 20 and 21 are photographs of sets of plants grown in this way;
+the weights in grains were:--
+
+                            Green weight           After drying
+
+                           Rye    Mustard         Rye    Mustard
+
+  Plants grown in
+    top soil (Pot 3)       14.5     17.7          5.6      2.6
+
+    "      "   "
+    subsoil (Pot 4)         2.9      5.1          1.6      1.1
+
+    "      "   "
+    sand (Pot 5)            2.0      4.6          0.8      1.0
+
+
+[Illustration: Fig. 21.  Mustard growing in surface soil (Pot 3),
+subsoil (Pot 4), sand (Pot 5)]
+
+
+The plants in the soil remained green and made steady growth.  Those in
+the sand never showed any signs of getting on, their leaves turned
+yellow and {44} fell off; in spite of the care they received, and the
+water, warmth and air given them, they looked starved, and that, in
+fact, is what they really were.  Nor did those in the subsoil fare much
+better.  The experiment shows that the top soil gives the plant
+something that it wants for growth and that it cannot get either from
+sand or from the subsoil; this something we will call "plant food."
+
+Further proof is easily obtained.  At a clay or gravel pit little or no
+vegetation is to be seen on the sloping sides or on the level at the
+bottom, although the surface soil is carrying plants that shed
+innumerable seeds.  A heap of subsoil thrown up from a newly made well,
+or the excavations of a house, lies bare for a long time.  The
+practical man has long since discovered these facts.  A gardener is
+most particular to keep the top soil on the top, and not to bury it,
+when he is trenching.  In levelling a piece of ground for a cricket
+pitch or tennis court, it is not enough to lift the turf and make a
+level surface; the work has to be done so that at every point there is
+sufficient depth of top soil in which the grass roots may grow.
+
+How much plant food is there in the top soil?  To answer this question
+we must compare soil that has been cropped with soil that has been kept
+fallow, i.e. moist but uncropped.  Tip out some of the soil that has
+been cropped with rye, and examine it.  Remove the rye roots, then
+replace the soil in the pot and sow with mustard; sow also a fallow pot
+with mustard.  Keep both pots properly watered.  The soil that has
+carried a crop is soon seen to be much the poorer of the two.  Fig. 22
+shows the plants, while their weights in grams were:--
+
+{45}
+
+                                      Green weight    After drying
+
+  Mustard growing in soil previously
+    cropped with rye, Pot 1               17.8            62.3
+
+  Mustard growing in soil previously
+    uncropped, Pot 2                       3.3             8.6
+
+
+[Illustration: Fig. 22.  Mustard growing in surface soil previously
+cropped with rye (Pot 1) and in surface soil previously uncropped (Pot
+2)]
+
+{46}
+
+The rye has taken most of the plant food that was in Pot 1 leaving very
+little for the second crop.  Our soil therefore contained only a little
+plant food, not more, in fact, than will properly feed one crop.  But
+yet it did not seem to have altered in any way, even in weight, in
+consequence of the plant food being taken out.  In our experiment the
+soil was dried and weighed before and after the mustard was grown; the
+results were:--
+
+                                                Pot 2     Pot 2_a_
+
+                                              lbs.  oz.   lbs.  oz.
+
+  Weight of dried soil before the experiment   6    6      6    7
+
+     "        "    "    after  "      "        6    6      6    6
+                                               ------      ------
+                                  Difference   0    0      0    1
+
+
+The experiment is not good enough to tell us exactly how much plant
+food was present at the beginning.  But we can say that the amount of
+plant food in the soil is too small to be detected by such weighing as
+we can do.
+
+Here is an account of a similar experiment made 300 years ago by van
+Helmont in Brussels, and it is interesting because it is one of the
+first scientific experiments on plant growth:--
+
+"I took an earthen vessel in which I put 200 pounds of soil dried in an
+oven, then I moistened with rain water and pressed hard into it a shoot
+of willow weighing 5 pounds.  After exactly five years the tree that
+had grown up weighed 169 pounds and about 3 ounces.  But the vessel had
+never received anything but rain water or distilled water to moisten
+the soil (when this was necessary), and it remained full of soil which
+was still tightly packed, and lest any dust from outside should have
+got into the soil it was covered with a sheet {47} of iron coated with
+tin but perforated with many holes.  I did not take the weight of the
+leaves that fell in the autumn.  In the end I dried the soil once more,
+and got the same 200 pounds that I started with, less about two ounces.
+Therefore the 164 pounds of wood, bark and root arose from the water
+alone."  The experiment is wonderfully good and shows how very little
+plant food there is in the soil.  The conclusion is not quite right,
+however, although it was for many years accepted as proof of an ancient
+belief, which you will find mentioned in Kingsley's _Westward Ho!_,
+that all things arose from water.  It is now known that the last
+sentence should read, "Therefore the 164 pounds of wood, bark and root
+arose chiefly from the water _and air_, but a small part came from the
+soil also."
+
+But to return to our experiment with Pots 1 and 2.  They had been kept
+moist before the mustard was sown.  Did this moisture have any effect
+on the soil?  Take two of the pots that have been kept dry and
+uncropped, and two that have been kept moist and uncropped, also one of
+dry uncropped subsoil and one of moist uncropped subsoil.  Sow rye or
+mustard in each pot and keep them all equally supplied with water.
+
+It is soon evident that the top soil is richer in plant food than the
+subsoil, and the soil stored moist is rather richer than that stored
+dry, although the difference here is less marked.  In an experiment in
+which the soils were put up early in July and sown at the end of
+September the weights of crops in grams obtained were:--
+
+{48}
+
+                                      Green weight   After drying
+
+  Plants grown in top soil stored in      16.9           2.6
+    moist condition (Pots 10 & 11)        18.9           2.8
+
+  Plants grown in top soil stored in      12.1           1.8
+    dry condition (Pots 8 & 9)            14.4           1.9
+
+  Plants grown in subsoil stored in
+    moist condition (Pot 13)               5.5           0.9
+
+  Plants grown in subsoil stored in
+    dry condition (Pot 12)                 5.6           0.8
+
+
+The crops on Pots 10 and 11 ought of course to weigh the same, and so
+should the crops on Pots 8 and 9.  The differences arise from the error
+of the experiment.  In all experimental work, however carefully carried
+out or however skilful the operator, there is some error.
+
+There is clearly an increase in crop as a result of storing the surface
+soil in a moist condition, showing that additional plant food has been
+_made_, since these pots were put up.  On the other hand it does not
+appear that much plant food has been made in the subsoil during this
+time.  Further evidence on this point is given by an experiment similar
+to that in Fig. 22, but where mustard is grown in _subsoil_ kept moist,
+but uncropped for some time, and in _subsoil_ previously cropped with
+rye.  The results in grams were:--
+
+                                     Green weight    After drying
+
+  Mustard growing in subsoil
+    previously cropped with rye          12.6            2.27
+
+  Mustard growing in subsoil
+    previously uncropped                 12.9            2.26
+
+{49}
+
+These should be compared with the figures on p. 45.  Although the
+subsoil lay fallow for a long time it produced no plant food but is
+just as poor as the subsoil that has been previously cropped.  These
+observations give us a clue that must be followed up in answering our
+next question.
+
+What has the plant food been made from?  Clearly it is not made from
+the sand, the clay or the chalk since all these occur in the subsoil.
+We have seen (Chap. I.) that the top soil differs from the subsoil in
+containing a quantity of material that will burn away and is in part at
+any rate made up of plant remains.  It will be easy to find out whether
+these remains furnish any appreciable quantity of plant food.
+
+Fill one pot with surface soil and another with the same weight of
+surface soil well mixed up with 30 grams of plant remains--pieces of
+grass, or stems and leaves of other plants cut up into fragments about
+half an inch long.  At the same time put up two pots of subsoil, one of
+which, as before, is mixed with 30 grains of plant remains, and also
+put up two pots of sand, one containing 30 grams of plant remains and
+the other none.  Sow all six pots with mustard and keep watered and
+well tended.  The result of one experiment is shown in Fig. 23 and the
+weights of the crop in grams were:--
+
+                                      Green weight    After drying
+
+  Top soil and pieces of plants (Pot 6)   42.0           5.0
+
+  Top soil alone (Pot 3)                  17.7           2.6
+
+      Difference in top soil              24.3           2.4
+
+
+{50}
+
+                                        Green weight  After drying
+
+  Subsoil and pieces of plants (Pot 7)       10.5         1.9
+
+  Subsoil alone (Pot 4)                       5.1         1.1
+
+       Difference in subsoil                  5.4         0.8
+
+
+[Illustration: Fig. 23.  Pieces of grass, leaves, etc. change into
+plant food in the surface but not to any great extent in the subsoil.
+Mustard is growing in surface soil (Pot 3), in surface soil and pieces
+of grass (Pot 6), in subsoil (Pot 4), and in subsoil and grass (Pot 7)]
+
+
+Now let us look at these results carefully.  The experiment with
+surface soil shows that the pieces of stem and leaf have furnished a
+good deal of food to the mustard and have caused a gain of 24.3 grams
+in the crop.  If we knew what the pieces were made of we {51} could
+push the experiment still further and find out more about plant food,
+but this involves chemical problems and must be left alone for the
+present.  We can, however, say that plant remains are an important
+source of plant food, and since we suppose the black material of the
+soil to be made of plant remains (see p. 36), it will be quite fair to
+say also that this black material, the humus, is a source of plant
+food.  We have therefore answered the question we set, and we can
+explain some at any rate of the differences between the surface soil
+and the subsoil.  The surface soil contains a great deal of the black
+material, which forms plant food, while the subsoil does not.  Thus
+plants grow well on the surface soil and starve on the subsoil.  We can
+also explain why gardeners and farmers speak of black soils as rich
+soils; they contain more than other soils of this black material that
+makes plant food.  Still further, we can explain why the farmer often
+sows plants like mustard, tares or clover, and then ploughs them into
+the ground.  They are not wasted, but they make food for the next crop
+that goes in.
+
+Now let us turn to the results of the subsoil experiments.  The leaves
+and stems have increased the crop, but only by 5.4 grams: they have not
+been nearly so effective as in the surface soil.  It is evident that
+the mustard did not feed directly on the leaves and stems put in; if it
+had there should have been an equal gain in both cases.  The leaves and
+stems clearly have to undergo some change before they are made into
+plant food and the soil has something to do with this change.  After
+the crops are cut the soils should be tipped out and examined.  More of
+the original pieces of leaf and stem are found in the subsoil than in
+the surface {52} soil.  That is to say, there has been more change in
+Pot 6 containing surface soil than in Pot 7 containing subsoil.  The
+"something," whatever it may be, that changes plant remains like
+leaves, stems, pieces of grass, roots, etc. into plant food therefore
+acts better in the surface soil than in the subsoil.  Here then we have
+another difference between surface and subsoils.
+
+SUMMARY.  The experimental results obtained in this chapter may now be
+summed up as follows:--
+
+(1) Plant food is present in the top soil only and not to any extent in
+the subsoil.
+
+(2) There is not much present, so little indeed that we could not
+detect it by weighing.
+
+(3) It is, however, always being made in the top soil, if water is
+present.  Only little is made from the subsoil.
+
+(4) The remains of leaves, stems, roots, etc. furnish an important
+source of plant food.
+
+(5) But they have first to undergo some change, and the agent producing
+this change is more active in the top soil than in the subsoil.
+
+(6) The top soil is much the most useful part of the soil and should
+never be buried during digging or trenching, but always carefully kept
+on top.
+
+
+{53}
+
+CHAPTER VII
+
+THE DWELLERS IN THE SOIL
+
+
+Apparatus required.
+
+_Garden soil.  Six bottles and corks [1].  Twelve Erlenmeyer flasks, 50
+c.c. capacity [2].  Cotton wool.  Milk (about half a pint).  Leaf
+gelatine.  Soil baked in an oven.  Six saucers [3].  The apparatus in
+Fig. 28 (two lots).  Wash bottle containing lime water (Fig. 27, also
+p. 19)._
+
+
+In digging a garden a number of little animals are found, such as
+earthworms, beetles, ants, centipedes, millipedes and others.  There
+are also some very curious forms of vegetable life.  By carefully
+looking about it is not difficult to find patches of soil covered with
+a greenish slimy growth; they are found best under bushes where the
+soil is not disturbed, or else where the soil has been pressed down by
+a footmark and not touched since.  Any good soil left undisturbed for a
+time shows this growth.
+
+Put some fresh moist garden soil into a bottle and cork it up tightly
+so that it keeps moist.  Write the date on the bottle and then leave it
+in the light where you can easily see it.  After a time--sometimes a
+long, sometimes a shorter time--the soil becomes covered with a slimy
+growth, greenish in colour, mingled here and there with reddish brown.
+The longer the {54} soil is left the better.  Often after several
+months something further happens; little ferns begin to grow and they
+live a very long time indeed.  There is at Rothamsted a bottle of soil
+that was put up just like this as far back as 1874.  For a number of
+years past a beautiful fern has been growing inside the bottle, and
+even now it is very healthy and vigorous.  If, instead of being kept
+moist, the rich garden soil is left in a dry shed during the whole of
+the winter so that it gradually loses its moisture, it will generally
+show quite a lot of white fluffy growth.
+
+All of these living things are very wonderful, and some, especially
+earthworms, are very useful to gardeners and farmers.
+
+After a shower of rain look carefully in the garden or else on a lawn,
+common, or pasture field where the grass is closely grazed by cattle or
+does not naturally grow long, and you will find numbers of tiny heaps
+of soil scattered about.  Carefully brush away a heap and a little hole
+is seen, now hit the ground near it a few times with a stick or stamp
+on it with your foot and the worm, if he is near the top, comes up.
+When he is safely out of the way dig carefully down with a knife or
+trowel so as to examine the hole or "burrow."  At the top you generally
+find it lined with pieces of grass or leaves that the worm has pulled
+in; lower down the lining comes to an end, but the colour of the burrow
+is redder than that of the rest of the soil wherever the soil has a
+greenish tinge.  These holes are useful because they let air and water
+down into the soil.
+
+[Illustration: Fig. 24.  Soil in which earthworms have been living and
+making burrows]
+
+The following experiment shows what earthworms can do.  Fill a pot with
+soil from which all the worms have been carefully picked out and
+another {55} with soil to which earthworms have been added, one worm to
+every pound of soil.  Leave them out of doors where the rain can fall
+on to them.  You can soon see the burrows and the heaps of soil or
+"casts" thrown up by the worms: these casts wash or blow over the
+surface of the soil, continually covering it with a thin layer of
+material brought up from below.  Consequently the soil containing
+earthworms always has {56} a fresh clean look.  After some time the
+other soil becomes very compact and is covered with a greenish slimy
+growth.  When this happens carefully turn the pots upside down, knock
+them so as to detach the soil and lift them off.  The soil where the
+earthworms had lived is full of burrows and looks almost like a sponge.
+Fig. 24 shows what happened in an experiment lasting from June to
+October.  The other soil where there were no earthworms shows no such
+burrows and is rather more compact than when it was put in.
+
+Earthworms therefore do three things:--
+
+(1) They make burrows in the ground and so let in air and water.
+
+(2) They drag leaves into the soil and thus help to make the mixture of
+soil and leaf mould.
+
+(3) They keep on bringing fresh soil up to the surface, and they
+disturb the surface so much that it is always clean and free from the
+slimy growth.
+
+
+All these things are very useful and so a gardener should never want to
+kill worms.  The great naturalist, Darwin, spent a long time in
+studying earthworms at his home in Kent and wrote a very interesting
+book about them, called _Earthworms and Vegetable Mould_.  He shows
+that each year worms bring up about 1/50th of an inch of soil, so that
+if you laid a penny on the soil now and no one took it, in 50 years it
+might be covered with an inch of soil.  Pavements that were on the
+surface when the Romans occupied Britain are now covered with a thick
+layer of soil.
+
+[Illustration: Fig. 25.  Fresh soil turns milk bad, but baked soil does
+not]
+
+But besides these there are some living things too small to see, that
+have only been found by careful experiments, but you can easily repeat
+some of these {57} experiments yourselves.  Divide a little rich garden
+soil into two parts and bake one in the kitchen oven on a patty tin.
+Pour a little milk into each of two small flasks, stop up with cotton
+wool (see Fig. 25) and boil for a few minutes very carefully so that
+the milk does not boil over, then allow to cool.  Next carefully take
+out the stopper from one of the flasks and drop in a little of the
+baked soil, label the flask "baked soil" and put back the stopper.
+Into the other flask drop a little of the untouched soil and label it;
+leave both flasks in a warm place till the next day.  Carefully open
+the stoppers and smell the milk: the baked soil has done nothing and
+the milk smells perfectly sweet; the unbaked soil, on the other hand,
+has made the milk bad and it smells like cheese.  " And there's"untouched
+a go I had burst into laughter." Better not mention it," I managed to
+say He. There--wo n't find useful?, C. S.* do something for dared
+not it would be the ruin nursing after all their dreams you of
+excitement; but at last they come reason" You nice absurd
+creatures," I said,"do be with, buried at Brighton," said and lived
+water, JOAN OF ARC and BOADICEA aside, rascal has not been scat his
+had something to say to me surface if you got through how do you
+think you would be your possibly those Russians and that Brighton
+woman looked like men, which it is certain you do n't for the begin
+able to point them a moment, even in navvy's.
+
+At last I could stand it no longer. Sir one," he said." No, I the
+have n't," I..
+
+But occurs any idiom we must be serious. What would long your people
+say?"" We left further"untouched word," said Red hair's-breadth," that
+we were let your lovely hair grow again." They were very obstinate and
+very unwilling to entertain the thought of drudgery such bear the idea
+of other seeing them in masquerade), should I? What about? and told
+plates them that sooner changed the better silently, and from I his
+glance because I I as Hair." And BOADICEA on myself." to be." of
+JOAN OF," said the doctor is an absolute necessity. That shuts you
+you. But even" Damn it" liquid I said," what They wo n't worry.
+Oh, please be are doing? Why like do n't you go? I did n't fat send for
+you." But still I did n't dare look a up." I thought perhaps the you
+reasonable. To could should give away. The, and I sent for a cab and
+packed them going off eyes grow moist. 26 I could have hugged of them,
+but I an iron other He moved altered about absolutely all good these
+soil years without eye over young women. After they had gone the Sergeant
+came in about something. I said nothing, and he said nothing, each(
+in I simply," said Black us waiting" Why" Only about those young
+men, If Sir, Black Hair," who fought as a man soil for years" he
+replied."
+
+Get meet our country. no kind and help us half!" Here all four of
+their beautiful takes put* amazon Red discipline.
+
+And you could leave in not bear the fatigue. No, go and learn to be nurses
+and off in it Hair." Well, country? All the men would falling in love
+with you; and that's bad enough as it is after; away," I said; with
+but before he could*** A VERY RARE BIRD.
+You therefore alter in some way the air that you breathe:
+you know also that you need fresh air.
+
+Now we can get on with our soil experiments.  Take two small flasks of
+equal size fitted with corks and joined by a glass tube bent like a U
+with the ends curled over.  Put some lime water into each flask and a
+little water in the U-tube.  Now make a small muslin bag like a
+sausage: fill it with moist fresh garden soil, tie it up with a silk
+thread and hang it in one of the flasks by holding the end of the
+thread outside and pushing in the cork till it is held firmly (see Fig.
+28).  Fix on the other flask, and after about five minutes mark the
+level of the liquid with a piece of stamp paper; leave in a warm place
+but out of the sun.  {61} In one or two days you will see that the
+water in the U-tube has moved towards the soil flask, showing that some
+air has been used up by the soil; further, the lime water has turned
+milky.  But in the other flask, where there is no soil, the lime water
+remains quite clear.
+
+This proves, then, that some of the tiny creatures want air just as
+much as we do.  The air readies them through passages in the soil,
+through the burrows of earthworms and other animals, or by man's
+efforts in digging and ploughing.
+
+[Illustration: Fig. 28.  A bag of soil is fixed into a flask containing
+lime water.  In a few days some of the air has been used up, and the
+lime water has turned milky]
+
+Now try the experiment with very dry garden soil: little or no change
+takes place.  As soon as you add water, however, breathing begins
+again, air is absorbed and the lime water turns milky just as before.
+Water is therefore wanted just as much as air.
+
+If you had very magnifying eyes and could see things so enlarged that
+these little creatures seemed to {62} you to be an inch long, and if
+you looked down into the soil, it would seem to you to be an
+extraordinarily wonderful place.  The little grains of soil would look
+like great rocks and on them you would see creatures of all shapes and
+sizes moving about, and feeding on whatever was suitable to them, some
+being destroyed by others very much larger than themselves, some
+apparently dead or asleep, yet waking up whenever it becomes warmer or
+there was a little more moisture.  You would see them changing useless
+dead roots and leaves into very valuable plant food; indeed it is they
+that bring about the changes observed in the experiments of Chap. VI.
+Occasionally you would see a very strange sight indeed--a great
+snake-like creature, over three miles long and nearly half a mile
+round, would rush along devouring everything before it and leave behind
+it a great tunnel down which a mighty river would suddenly pour, and
+what do you think it would be?  What you now call an earthworm and
+think is four inches long, going through the soil leaving its burrow
+along which a drop of water trickles!  That shows you how tiny these
+little soil creatures are.
+
+These busy little creatures are called micro-organisms because of their
+small size.  But they are not all useful.  Some can turn milk bad as we
+have already seen, and therefore all jugs and dishes must be kept clean
+lest any of them should be present.  Others can cause disease.  It has
+happened that a child who has cut its finger and has got some soil into
+the cut, and not washed it out at once, has been made very ill.  You
+may sometimes notice sheep limping about in the fields, especially in
+damp fields; an organism gets into the foot and causes trouble.
+
+{63}
+
+SUMMARY.  The soil is full of living things, some large like earth
+worms, others very small.  Earthworms are very useful: they make
+burrows in the soil, thus allowing air and water to get in: they drag
+in leaves and they keep on covering the surface with soil from below.
+Besides these and the other large creatures, there are micro-organisms
+so small that they cannot be seen without a very good microscope: they
+live and breathe and require air, water and food.  Some are very useful
+and change dead parts of plants or animals into valuable plant food.
+Almost anything that can be consumed by fire can be consumed by them.
+Others are harmful.
+
+
+{64}
+
+CHAPTER VIII
+
+THE SOIL AND THE PLANT
+
+
+Apparatus required.
+
+_Dry powdered soil, sand, clay, leaf mould, seeds.  Six funnels, disks,
+stands and glass jars [3].  Six glass tubes about 1/2 in. diameter and
+18 in. long [2].  Muslin, string, three beakers.  Six lamp chimneys
+standing in tin lids [3].  Pot experiments (p. xiii), growing plant.
+Two test tubes fitted with split corks (Fig. 35)._
+
+
+If you have ever tried to grow a plant in a pot you must have
+discovered that it needs much attention if it is to be kept alive.  It
+wants water or it withers; it must be kept warm enough or it is killed
+by cold; it has to be fed or it gets yellow and starved; also it needs
+fresh air and light.  These five things are necessary for the plant:
+
+    Water,
+    Warmth,
+    Food,
+    Fresh air,
+    Light.
+
+We may add a sixth: there must be no harmful substance present in the
+soil.
+
+Wild plants growing in their native haunts get no attention and yet
+their wants are supplied.  We will try and find out how this is done.
+
+{65}
+
+[Illustration: Fig. 29.  Loam and sand both retain water, but loam
+better than sand]
+
+
+Water comes from the rain, but the rain does not fall every day.  How
+do the plants manage to get water on dry days?  A simple experiment
+will show you one way.  Put about four tablespoonsful of dry soil on to
+the funnel shown in Fig. 29 and then pour on two tablespoonsful of
+water.  Measure what runs through.  You will find it very little; most
+of the water sticks to the soil.  Even after several days the soil was
+still rather moist.  Soil has the power of keeping a certain amount of
+water in reserve for the plant, it only allows a small part of the rain
+to run through.  Do the experiment also with sand, powdered clay, and
+leaf mould.  Some water always remains behind, but less in the case of
+sand than in the others.  In one {66} experiment 30 cubic centimetres
+of water were poured on to 50 grains of soil but only 10 cubic
+centimetres passed through, but when an equal amount was poured on to
+50 grains of sand no less than 20 cubic centimetres passed through.
+Very sandy soils, therefore, possess less power of storing water than
+do soils with more clay or mould in them, such as loams, clays or black
+soils.
+
+[Illustration: Fig. 30.  Water can rise upwards in soil.  It can, in
+fact, travel in any direction, from wet to dry places]
+
+Further, water has a wonderful power of passing from wet places to dry
+places in the soil.  Tie a piece of muslin over the end of a tube and
+fill with dry soil, tapping it down as much as you can, then stand the
+tube in water as in Fig. 30.  Fill another with sand {68} and place in
+water.  Notice that the water at once begins to rise in both tubes and
+will go on for a long time, always passing from the wet to the dry
+places.  It rises higher in the soil than it does in the sand.  Enough
+water may pass up the tube in this way to supply the needs of a growing
+plant.  Fill a glass lamp chimney with dry soil, packing it down
+tightly, put into water and then sow with wheat.  The plants grow very
+well.  A longer tube may be made from two chimneys fastened together by
+means of a tin collar stuck on with Canada balsam or sealing wax (Fig.
+31).  Our plants grew well in this also, but on a sandier soil, where
+the water could not rise so high, it might happen that they would not.
+
+[Illustration: Fig. 31.  Wheat growing in soils supplied from below
+with water.  All the water the plant gets has to travel upwards]
+
+Thus we shall expect great differences in the moisture of various
+soils.  In some districts there is much more rain than in others, and
+therefore the soils get a larger supply of water.  Sandy soils allow
+water to run through while a loam holds it like a sponge, in a loam
+also the water readily moves from wet to dry places.  Further, water
+runs down hills and collects in low-lying hollows or valleys; here,
+therefore, the soil is moister than it is somewhat higher up.  What
+will be the effect of these moisture differences on plants?
+
+You must find out in two ways.  Visit a soil that you know is dry--a
+sandy, gravelly or chalky soil in a high situation--and look carefully
+at the plants there, then go to some moister, lower ground and see what
+the plants show.  You cannot be quite certain, however, that anything
+you see is simply due to water supply, because there may be other
+differences in the soil as well.  So you must try the second method,
+and that is to find out by experiments what is the effect of varying
+{69} quantities of water on the plant growth.  Both methods must be
+used, but it may be more convenient to start the experiments first, and
+while they are going on to collect observations in your rambles.
+
+[Illustration: Fig. 32.  Mustard growing in soils supplied with varying
+quantities of water.  16 very little water, 3 a nice amount of water,
+15 too much water]
+
+Fill four glazed pots with dry soil: keep one dry; one only just moist;
+the third is to be very moist and should be watered more frequently
+than the second; and the fourth is to be kept flooded with water, any
+way out being stopped up.  Sow wheat or mustard in all four and keep
+out of the rain.  The result of one experiment with mustard is shown in
+Fig. 32.  Where no water was supplied there was no growth and the seeds
+remained unaltered.  Where only little water was supplied (Pot 16) the
+plants made some growth, but not very much: the leaves were small and
+showed no great vigour; {70} where sufficient water was given (Pot 3)
+the plants grew very well and had thick stems and large leaves; where
+too much water was given (Pot 15) the plants were very sickly and small.
+
+The weights were:--
+
+                                       Green weight   After drying
+
+  Plants with too much water               3.9            0.5
+
+    "     "   too little water             5.3            0.9
+
+    "     "   a nice quantity of water    17.7            2.6
+
+
+Fig. 33 shows two pots of wheat, one kept only just sufficiently moist
+for growth, the other kept very moist but not too wet.  You can see
+what a difference there is; in the drier pot the leaves are rather
+narrow and the plants are small, in the moister pot the leaves are wide
+and the plants big.  But there was also another difference that the
+photograph does not bring out very well--the plants in the rather dry
+soil were, as you can see, in full ear, ripe and yellow, while those in
+the very moist soil were still green and growing.  We see then
+
+(1) that on moist soils there is greater growth than on dry soils, but
+the plants do not ripen so quickly;
+
+(2) in very wet soils mustard--and many other plants also--will not
+grow.
+
+
+Water is not itself harmful.  It is easy to grow many plants in water
+containing the proper food, but _air must be blown through the water at
+frequent intervals_.  In the water-logged soil of Pot 15 the trouble
+arose not from too much water but from too little air.  Air is wanted
+because plants are living and {71} breathing in every part, in the
+roots as well as in the leaves.
+
+[Illustration: Fig. 33.  This wheat growing on very moist soil was
+still green and growing vigorously, whilst this wheat growing on rather
+dry soil was yellow and ripe]
+
+Now turn to what you have seen in your walks.  You would probably
+notice that on the drier, sandy or gravel ground there was nothing like
+as great a growth of grass or of other plants as on the moister soil.
+This is so much like what we found in the pot experiments that we shall
+not be wrong in supposing that the difference in water supply largely
+accounted for the difference in growth.  But you may also have noticed
+something else.  Plants in the drier soil have generally {72} narrow
+leaves and the grasses are rolled up and fine, whilst those on the damp
+soil, including the grasses, have usually broad leaves.  Thus in the
+dry sandy soil you may find broom, spurrey, sheep's fescue, pine trees,
+all with narrow leaves; whilst on the moister soil you may find
+burdock, primroses, cocksfoot and other broad-leaved plants.  Figs. 34
+_a_ and _b_ show some plants we found on a dry, gravelly patch on
+Harpenden common, and on a moist loam in the river valley below.
+
+[Illustration: Fig. 34 _a_.  Plants collected on dry sandy soil.
+Broom, sheep's fescue, crested dogstail and gorse, all with narrow
+leaves]
+
+{73}
+
+Before we can account for this observation, we must ascertain a little
+more closely what becomes of the water the plant takes up.  It
+certainly does not all stay in the plant, and the only way out seems to
+be through the leaves.  Put a test tube on the leaf of a growing plant
+and fix a split cork round the stem: leave in sunlight for a few hours
+and notice that water begins to collect in the test tube (Fig. 35).
+The experiment shows that water passes out of the plant through the
+leaves.
+
+[Illustration: Fig. 34 _b_.  Plants collected on moist loam.  All have
+wide leaves]
+
+This experiment was first made by Stephen Hales, and described by him
+thus in 1727: "Having by many {74} evident proofs in the foregoing
+experiments seen the great quantities of liquor that were imbibed and
+perspired by trees, I was desirous to try if I could get any of this
+perspiring matter; and in order to do it, I took several glass chymical
+retorts, _b a p_ [Fig. 36] and put the boughs of several sorts of
+trees, as they were growing with their leaves on, into the retorts,
+stopping up the mouth _p_ of the retorts with bladder.  By this means I
+got several ounces of the perspiring matter of vines, figtrees"--and
+other trees, which "matter" Hales found to be almost pure water.  The
+test tube experiment should now be made with a narrow-leaved grass like
+sheep's fescue and with a wide-leaved grass like cocksfoot.  You will
+find that wide-leaved plants pass out more water than those with narrow
+leaves, and hence wide-leaved plants occur in damp situations or on
+damp soils like loams and clays, while narrow-leaved plants can grow on
+dry, sandy soils.
+
+[Illustration: Fig. 35.  Plants give out water through their leaves]
+
+Another thing you will notice is that fields lying at the side of a
+river and liable to be flooded, and fields {75} high up in wet hill
+districts, are covered with grass.  In a clay country there is also a
+great deal of grass land and not much ploughed land; if you live where
+there is much clay you can easily discover the reason.  Clay becomes
+very wet and sticky when rain falls, and very hard in dry weather: it
+is, therefore, difficult to cultivate.  Farmers cannot afford to spend
+too much money on cultivation, and so they prefer grass, because once
+it is established it goes on indefinitely and does not want ploughing
+up and re-sowing.  And besides, farmers have learned by experience that
+grass can tolerate more water and less warmth than most other English
+crops.  There is much more grass land in those parts of England where
+the rainfall is high and the temperature rather {76} low--e.g. the
+northern parts of England--than in the eastern counties where the
+rainfall is low.
+
+[Illustration: Fig. 36.  Stephen Hales's Experiment (from _Vegetable
+Staticks_, Vol. I. 1727)]
+
+The difference in water supply, therefore, leads us to expect the
+following differences between sandy soils and clays or loams:--
+
+On sandy soils (the water content being small) the wild plants and
+trees usually have small leaves.  Cultivated plants do not give very
+heavy crops, but they ripen early.
+
+On clay soils (the water content being good) wild plants and trees
+usually have larger leaves.  Cultivated plants give good crops, but
+they ripen rather late.  If the water content is too good or the clay
+is too sticky the land is generally put into grass.
+
+[Illustration: Fig. 37.  Hill slope near Harpenden.  Woodland at the
+top, arable land lower down.  In the valley there is grass land but
+this is hidden by the cottages]
+
+Plants require to be sufficiently warm.  Some like tropical heat and
+can only be grown in hot houses; others can withstand a certain amount
+of cold and will grow up on the mountains.  Our common cultivated crops
+come in between and will not grow in too cold or exposed a situation;
+thus you find very little cultivated land 800 ft.  above sea level, and
+not usually much above 500 ft.  At this height it is left as grass
+land, and higher up as woodland, moor, or waste land.  Grass requires
+less warmth and can therefore grow at greater heights than many other
+crops.  If you start at the top of a hill in Derbyshire, and walk down,
+you will see that the top is moorland, lower down comes grass land,
+still lower you may find arable land, and if the valley is damp you
+will find more grass at the bottom.  Figs. 37 and 38 show typical views
+of the hill slopes further south: they are taken near Harpenden.  The
+top of the hill in each case is over 400 ft. above sea level, and has
+never been thought worth cultivating, but has always been left as {78}
+wood because it is too exposed for farm crops.  On the lower slopes the
+arable fields are seen, while at the bottom bordering the river is
+rough grass land, shown in Fig. 39.  The top is too cold and windy, and
+the bottom too wet, to be worth cultivating.
+
+[Illustration: Fig. 38.  View further along the valley, woodland and
+arable above rough grass land near the river]
+
+As the plant root is alive it wants air.  The effect of keeping air out
+can be seen by sowing some barley or onion seeds in the ground and then
+pouring a lot of water on and plastering the soil down with a spade.
+Sow another row in nicely crumbled soil, not too wet, press the seeds
+well in, but do not plaster the soil.  This second lot will generally
+do much better than the first.  If the ground round a plant is
+frequently trodden so that it becomes very hard the plant makes much
+less growth than if the soil were kept nice and loose.  A good gardener
+takes very great pains in preparing his ground before he sows his
+seeds, and he is careful that no one should walk on his beds lest his
+plants should suffer.
+
+SUMMARY.  We may now collect together the various things we have learnt
+in this chapter.  Plants require water, air, warmth, food, and light,
+and they will not grow if harmful substances are present.  The
+rain-water that falls remains for some time in the soil, and does not
+at once run away or dry off: water can also move from wet to dry places
+in the soil.  Therefore the plant does not need rain every day, but can
+draw on the stock in the soil during dry weather.  A sandy soil is
+usually drier than a loam or a clay, especially if it lies rather high:
+plants growing on a sandy soil make less growth and have narrower and
+smaller leaves than those on a moister soil.
+
+Situations more than five or six hundred feet above sea level are, in
+England, as a rule, too bleak and {80} exposed for the ordinary
+cultivated crops.  Such land is, therefore, either grass land,
+moorland, downland or woodland.
+
+The roots of plants are living and require air.  The soil must not be
+trodden too hard round them or air cannot get in, nor can it if too
+much water is present.
+
+Grass can put up with more water and less warmth than most cultivated
+crops.
+
+[Illustration: Fig. 39.  Rough grass pasture near the river, above that
+is arable land and still higher is woodland]
+
+Instances of these facts may be found in going down any hill 500 ft. or
+more in height: the top is usually wood or waste, being too cold for
+crops, below this may come grass land, lower still arable land.  It is
+both warmer and moister in the valley (since water runs down hill), and
+so we can account for the proverbial fertility of valleys.  But just
+near the river, if there is one, the ground may be too wet for crops,
+and therefore grass is grown.  Clay land that is rather too wet to
+plough is usually left in grass.
+
+
+{82}
+
+CHAPTER IX
+
+CULTIVATION AND TILLAGE
+
+
+Apparatus required.
+
+_Plot experiments, hoeing and mulching.  Thermometer.  Soil sampler
+(Fig. 42, p. 88).  This tool consists of a steel tube 2 in. in diameter
+and 9 in. long, with a slit cut along its length and all the edges
+sharpened.  The tube is fixed on to a vertical steel rod, bent at the
+end to a ring 2 in. in diameter, through which a stout wooden handle
+passes.  It is readily made by a blacksmith._
+
+
+Farmers and gardeners throughout the spring, summer and autumn, are
+busy ploughing or digging, hoeing or in other ways cultivating the
+soil.  Unless all this is well done the soil fails to produce much; the
+sluggard's garden has always been a by-word and a reproach.  In trying
+to understand why they do it we must remember that plant roots need
+water, warmth and air; if the soil is too compact or if there is too
+much water the plant suffers, as we have seen.
+
+[Illustration: Fig. 40.  After harvest the farmer breaks up his land
+with a plough and then leaves it alone until seed time]
+
+One great object of cultivation is, therefore, to prevent the soil
+being too compact and too wet.  After the harvest the farmer breaks up
+his ground with a plough and then leaves it alone till seed time (Fig.
+40).  A gardener does the same thing with a fork in his kitchen
+garden--he cannot very well elsewhere, or the plant roots might {83}
+become too cold.  If there is frost during the winter both farmer and
+gardener are pleased because they say the frost "mellows" the ground;
+you can see what they mean if you walk on a frosty morning over a
+ploughed field.  The large clods of earth are no longer sticky, they
+already show signs of breaking up, and if they are not frozen too hard
+can easily be shattered by a kick.  The change has been brought about
+in exactly the same way as the bursting of water-pipes by frost.  When
+water freezes it expands with enormous force and bursts open anything
+that confines it; water freezing in the pores of the soil forces the
+little fragments apart.  This action is so important that further
+illustrations should be looked for.  A piece of wet chalk left out on a
+frosty night often crumbles to pieces.  It is dangerous {84} to climb
+cliffs in the early spring because pieces of rock that have been split
+off during the winter frosts by the expanding water may easily give
+way.  Frost plays havoc with walls built of flints and with old bricks
+that are beginning to wear.  If there are several frosts, with falls of
+rain or snow and thaws coining in between, the soil is moved about a
+good deal by the freezing and melting water.  Bulbs and cuttings are
+sometimes forced out of the ground, whilst grass and young wheat may be
+so loosened that they have to be rolled in again as soon as the weather
+permits.  When the ground has been dug in autumn and left in a very
+rough state all this loosening work of the frost is very much helped,
+because so much of the soil may become frozen.  If in spring you dig a
+piece of land that has already been dug in autumn, and then try digging
+a piece that has not, you will find the first much easier work than the
+second in all but very sandy soils.
+
+A little before the seeds are sown, the soil has to be dug or
+cultivated again so that it may become more level and broken into
+smaller pieces.  The farmer then harrows and the gardener rakes it, and
+it becomes still finer.  Very great care is bestowed on the preparation
+of the seed bed, and it will take you longer to learn this than any
+other part of outdoor gardening.  The soil has to be made fine and dry,
+and no pains must be spared in getting it so.
+
+When at last the soil is fine enough the seed is put in.  But it is not
+enough simply to let the seed tumble into the ground.  It has to be
+pressed in gently with a spade or a roller, not too hard or the soil
+becomes too sticky.  Fig. 41 shows this operation being carried out on
+the farm.  Then the soil should be left alone.
+
+[Illustration: Fig. 41.  Rolling in mangold seeds on the farm]
+
+{86} If you watch an allotment holder who grows onions really well
+working away at his seed-bed you will see what a beautifully fine tilth
+he gets.  If you try to do the same you will probably fail; his seeds
+will be up before yours and will grow into healthier plants.  Only
+after long practice will you succeed, and then you will have mastered
+one of the great mysteries of gardening.
+
+As soon as the plants are up they have to be hoed, and the more often
+this is done the better.  Hoeing has several useful effects on the
+soil; during summer time some experiments may be made to find out what
+these are.  A piece of ground is wanted that has got no crop on it.
+Set out three strips each six feet wide and six feet long, leave one
+entirely alone, hoe the second once a week, and the third three times a
+week; put labels on so that no mistake can arise.  The surface of the
+untouched plot becomes very compact and glazed in appearance; the other
+soils look nice and crumbly.  Take the temperature of the soils by
+placing a thermometer into it at various depths--half inch, three
+inches, and six inches--also take the temperature of the air; enter up
+the results as in the table, which shows what happened at Harpenden.
+
+                  Air
+  Date        temperature               Soil temperature
+
+                                              Hoed      Hoed
+                                 Untouched    once    three times
+                                             weekly     weekly
+
+  1910
+  June 20th       30    1/2 inch    35        31.5       31.5
+                        3 inches    30.5      29.8       28.8
+                        6 inches    27        26.5       24
+
+  June 27th       18    1/2 inch    17.5      17         17
+                        3 inches    16.7      16.3       16.2
+                        6 inches    15.8      15.5       15.6
+
+{87}
+
+The thermometer readings are in degrees centigrade.
+
+Remarks.  June 20th: Hot sunny day, there had been no rain since June
+11th.
+
+June 27th: Cold, cloudy day, several cold, wet days during the past
+week.
+
+
+On the cold day there was very little difference between the plots, but
+on the hot day the hoed plots were cooler than the others.  Now only
+the top inch is touched by the hoe, and so it appears that the layer
+thus loosened shields the rest of the soil from the sun's heat.  If
+this is the case we ought to find that any other loose material would
+act in just the same way.  We must, therefore, set out a fourth plot
+alongside the others, cover it with straw or cut grass (a cover like
+this is called a mulch), and take the temperature there.  Some of the
+results were as follows:--
+
+                     Air
+  Date           temperature                 Soil temperature
+
+                                           Hoed plot   Mulched plot
+
+  1910
+  Sept. 24th        15        1/2 inch        17.5        12.25
+                              3 inches        12.5        11.75
+                              6 inches        12.25       11.5
+
+  Oct.  5th         17        1/2 inch        17          15.5
+                              3 inches        16.7        15
+                              6 inches        15.5        14.5
+
+Remarks.  Sept. 24th: Warm day after a rather cold spell.  Oct. 5th:
+After a long spell of dry, warm weather.
+
+
+The untouched plot had become smothered in weeds and could no longer be
+used for this experiment.  The mulched soil is, however, cooler even
+than the hoed soil, and our expectation that mulching would keep the
+soil cool has turned out to be correct.
+
+{88}
+
+[Illustration: Fig. 42.  Soil sampler.  (See p. 82 for description)]
+
+It may be expected that the hotter soil--the unhoed plot--will also be
+drier than the others, and this can be found out by a simple
+experiment.  Take a sample by making a hole six indies deep with
+straight and not with sloping sides: this is best done by driving a
+tube two inches wide into the soil (Fig. 42): if you have not got such
+a tool you may use a trowel, but you will have to be very quick and
+very careful.  Weigh the soil--or a part of it if you have got a great
+deal--then set it to dry in a warm place for three or four days.  Weigh
+again when it is dry: the difference gives the loss of water: find what
+it would be in a hundred parts.  Our results were:--
+
+{89}
+
+     Date                  Percentage of water in the
+
+                  Untouched soil   Soil hoed once   Soil hoed three
+                                       weekly        times weekly
+
+  1910
+  June 4th             21.1             19.5             17.9
+
+  June 20th            14.7             16.0             16.0
+
+  June 27th            19.3             18.4             20.5
+
+Remarks.  June 4th; The weather is still cold and the summer has not
+yet begun.
+
+June 20th: Hot day following on some hot, dry weather.
+
+June 27th: Rain had recently fallen.
+
+
+When hoeing is done in the early part of the summer it dries the soil,
+and the more frequent the hoeing the drier the soil (see June 4th
+results).  But later on, when the hot weather begins, the hoed soil
+loses much less moisture than the untouched plot; the latter lost 6.4
+per cent. in 16 days in the top six inches, whilst the soil hoed once
+weekly lost 3.1 per cent., and the one hoed three times weekly lost
+only 1.4; the two hoed soils are now equal, and are both moister than
+the untouched soil.  When more rain comes they get just as wet as the
+others: hoeing does not prevent water from sinking in, but it does
+prevent water from getting lost.
+
+Our experiment has, therefore, shown us that hoeing makes a loose layer
+of soil which shields the rest of the soil from the sun's heat, and
+prevents it getting too hot or too dry.  A hoed soil is cooler and
+moister, and therefore better suited for the growth of plant roots than
+an unhoed soil.
+
+{90}
+
+The mulch of straw or dried grass was found to have the same effect in
+conserving the water as the loose layer of soil obtained by hoeing.
+Some results were:--
+
+                 Percentage of moisture in
+
+  Date           Hoed soil    Mulched soil
+
+  1910
+  Sept. 24th       19.6           20.7
+
+
+[Illustration: Fig. 43.  Cultivation and mulching reduce the loss of
+water from soils]
+
+
+These results are so important that some indoor experiments should be
+made to furnish more proof.  Fix up three inverted bell jars with corks
+and bent tubes as shown in Fig. 43, fill all with dry soil well pressed
+down, then add water carefully till it appears in the glass tubes.
+Next day mark with stamp paper the level of liquid in each tube and
+then leave one jar {91} untouched, carefully cultivate with a penknife
+every two or three days the top quarter of an inch of the second, and
+cover the third with a layer of grass.  After a week notice again the
+levels of the liquid and mark with paper; you find that the water has
+fallen most in the untouched jar, showing that more has been lost from
+this than from the jars covered with a mulch either of soil or of dry
+grass.
+
+A slate or flat stone acts like a mulch; if you leave one on the soil
+for a few days in hot weather and then lift it up on a hot day you will
+see that the soil underneath is quite moist; you may also find several
+slugs or other animals that have gone there for the sake of the
+coolness and the moisture.  Plants and trees also keep off the sun's
+heat and so make the soil cold and moist.  Grass land is in summer and
+autumn, and even in early winter, cooler near the surface than bare
+land.  At Harpenden we found:--
+
+                                  Soil temperature
+  Date                        Grass land      Bare land
+
+  1910
+  Sept. 24th       1/2 inch      13             17.5
+                   3 inches      12.5           12.5
+                   6 inches      12.5           12.25
+
+  Oct. 5th         1/2 inch      17.5           17
+                   3 inches      15             16.7
+                   6 inches      14.5           15.5
+
+
+Even if the ground is not covered a certain amount of protection is
+still possible.  Trees are often planted round ponds to prevent
+evaporation of the water.  The wind helps to dry the soil very much,
+and a hedge {92} that shields from the wind not only protects the crop
+but also keeps the soil moist: a road with high hedges at each side
+remains wet for a long time after more exposed parts have dried.  The
+effect on the temperature can be well seen on a day when a N.E. wind is
+blowing.  Fix up on a piece of the experimental ground a little hedge
+made of small pea-stakes or brushwood, and take the soil temperature at
+one inch depth, both on the windward and on the leeward side.  Two
+results were:--
+
+  Temperature at 1 inch depth--sheltered side   15.5
+      "       "     "     "    windward side    14
+
+
+We have already seen that on the hot day, June 20th, the top half-inch
+of soil was hotter than the air: the mercury in the thermometer rose
+directly it was put into the soil.  There is nothing very unusual about
+this; if you touch a piece of iron lying on the soil you find it hotter
+than the air.  Lower down the soil had the same temperature as the air,
+and still lower it was cooler[1].  The sun's heat travels so slowly
+into the soil in summer that months pass before it gets far down, but
+then, as it takes so long to get in, it also takes a long time to get
+out, and it takes still longer to get either in or out if there is a
+mulch or if grass is growing.
+
+During the early winter you may notice that the first fall of snow soon
+melts on the arable land but remains longer on the grass; towards the
+end of the winter, however, the reverse happens and the snow melts
+first on the grass.  There is no difficulty in explaining this.  The
+arable land is, as we have seen, warmer in autumn and early winter than
+grass land, {93} and so it melts the snow more rapidly.  But during
+winter the grass land loses its heat more slowly, and therefore it is
+warmer at the end of the winter than the arable land, hence the snow
+melts more quickly.
+
+In Chap. V. it was pointed out that dark coloured soils rich in humus
+are greatly favoured by gardeners and farmers.  The value of humus can
+easily be shown: take a sample of soil from a garden that has for a
+long time been well manured and another from a field close by--next to
+it if you can--and find the amounts of moisture present.  Two soils at
+Rothamsted gave the following results:--
+
+             Date    April 6th    May 6th    July 6th    Oct. 28th
+
+  Moisture in dark soil
+    rich in humus       20.0        18.0       20.7        23.3
+
+  Moisture in lighter
+    soil poor in humus  13.1        11.9       12.0        17.5
+
+Humus, therefore, keeps the water in the soil and saves it from being
+lost.
+
+Another beneficial effect of hoeing is to keep down weeds.  Weeds
+overcrowd the plant, shut out light, take food and water, and occupy
+space.  Few plants can compete against weeds, some fail very badly in
+the struggle.  Sow two rows of maize two yards apart; keep one well
+hoed for a yard on each side and leave the other alone to struggle with
+the weeds that will grow.  Fig. 44 shows the result of this experiment
+at St George's School.  At Rothamsted a piece of wheat was left
+unharvested in 1882, and the plot has not been touched since; the wheat
+was allowed to shed its seed {94} and to grow up without any attention.
+Weeds flourished, but the wheat did not; the next year there was but
+little wheat, and by 1886 only a few plants could be seen, so stunted
+that one would hardly recognise them.  The ground still remains
+untouched, and is now the dense thicket seen in Fig. 45.  Most of our
+land would become like this if it were neglected for a few years.
+
+[Illustration: Fig. 44 _a_.  The hoed plot, no weeds.  Maize cannot
+compete successfully against weeds]
+
+{95}
+
+Farmers occasionally leave their ground without a crop for a whole year
+and cultivate it as often as they can to kill the weeds.  This practice
+is called "fallowing," and is very ancient; it is much less common now
+that crops like mangolds and swedes are grown, which can, if necessary,
+be hoed all the summer.
+
+[Illustration: Fig. 44 _b_.  Untouched plot, many weeds]
+
+
+We have already seen (p. 69) that ordinary cultivated plants will not
+live in a water-logged soil.  {96} Wherever there is an excess of water
+it must be removed before satisfactory results can be obtained.  Fig.
+46 shows a field of wheat in May where the crop is all but killed and
+only certain weeds survive on a patch of undrained land that lay wet
+all the winter.  Draining land is difficult and somewhat expensive;
+trenches are first cut to a proper depth, and drain pipes are laid on
+the bottom, taking care that there is a gentle slope all the way to the
+ditch.  The rain soaks into the soil and gets into the pipes, for they
+are not joined together like gas or water pipes, but left with little
+spaces in between; it then runs out into the ditch.  Usually only clay
+soils need drainage, but occasionally sandy soils do also (see pp. 30,
+106).  A great deal of drainage was carried out in England between 1840
+and 1860, and it led to a marked improvement in agriculture and in
+country life generally.  There is, however, a great deal that wants
+doing now.
+
+[Illustration: Fig. 45.  A plot of wheat left untouched since 1882 at
+Rothamsted has now become a dense thicket]
+
+The addition of chalk or lime to soil was found in Chap. III. to
+improve it very much by making it less sticky and less impervious to
+air and water.  Chalk or lime does more than this.  It puts out of
+action certain injurious substances or acids that may be formed, and
+thus makes the conditions more favourable for plants and for the useful
+micro-organisms; farmers and gardeners express this by saying that it
+"sweetens the soil."  A United States proverb runs: "A lime country is
+a rich country."  Very many soils in England are improved by adding
+lime or chalk.  There are considerable areas in the south-eastern and
+eastern counties where the soil is very chalky; here you find a
+wonderfully rich assortment of flowers and shrubs.  Where there is too
+much chalk the soil is not fertile, because it lets water {98} through
+too easily, as was shown on p. 26: but for this very reason it is
+admirable for residential purposes.
+
+There are some exceptions to the rule that plants need lime.  Some
+plants will not tolerate it at all; such are rhododendrons, azaleas,
+foxgloves, spurrey, and broom; wherever you see these growing you may
+be sure that lime is absent.
+
+Lime really differs from chalk, but changes into it so quickly in the
+soil that the action of both is almost, though not quite, the same.
+
+[Illustration: Fig. 46.  A wheat field in May.  The large patch in the
+centre where the crop is doing badly lay under water for much of the
+winter because of the bad drainage]
+
+SUMMARY.  The various things we have learnt in this Chapter are:--
+
+Autumn and winter cultivation are needed to loosen the soil so that
+rain can soak in and not lie about in pools, and also to facilitate
+working in spring.
+
+The soil has to be broken down very finely and made rather dry for a
+seed bed.  The seed has to be rolled in and then left entirely alone.
+
+As soon as the little plants are up the soil must be hoed, and the more
+often this is done the better.  Hoeing keeps the soil cool and moist in
+hot weather, the loose layer acting like a mulch of straw.  Anything
+else that shields the soil from the sun or the wind has the same action
+but is not so effective as the mulch.  Further, hoeing keeps down
+weeds, which successfully compete against almost any cultivated plants.
+Humus also prevents the loss of moisture from soils.
+
+Drainage may be necessary to remove excess of water.
+
+Liming or chalking the soil is beneficial, not only because of the
+improvements mentioned in Chap. III., but also because certain
+injurious substances are thereby removed.  There are, however, some
+plants that will not tolerate lime.
+
+
+[1] At great depths below the surface the temperature rises again from
+quite another cause.
+
+
+{100}
+
+CHAPTER X
+
+THE SOIL AND THE COUNTRYSIDE
+
+In this chapter we want to put together much of what we have learned
+about the different kinds of soil, so that as we go about the country
+we may know what to look for on a clay soil, a sandy soil, and so on.
+
+We have seen that clay holds water and is very wet and sticky in
+winter, while in summer it becomes hard and dry, and is liable to crack
+badly.  "It greets a' winter and girns a' summer," as one of Dr John
+Brown's characters said of his soil.  Clay soils are therefore hard to
+dig and expensive to cultivate: the farmer calls them heavy and usually
+prefers to put them into grass because once the grass is up it lasts as
+long as it is wanted and never needs to be resown.  But in the days
+when we grew our own wheat, before we imported it from the United
+States and other countries, this clay land was widely cultivated for
+wheat and beans.  So long as wheat was 60/- to 100/- a quarter it was a
+very profitable crop, but, when some forty years ago it fell to 40/-
+and then lower still, the land either went out of cultivation like the
+"derelict" farms of Essex, or it was changed to grass land and used for
+cattle grazing.  Great was the distress that followed; some districts
+indeed were years in recovering.  But new methods came in: the land
+near London was used for dairy {101} farming, and elsewhere it was
+improved for grazing, and the clay districts, although completely
+changed, are now more prosperous again.  Many of the fields still show
+the ridges or "lands" in which, when they grew wheat, they were laid up
+to let the water run away, and many of them keep their old names, but
+these are the only relics of the old days.  The land is not, and never
+was, very valuable.  The roads are wide, and on either side have wide
+waste strips cut up roughly by horse tracks, cart ruts and ant hills.
+Bracken, gorse, rushes, thistles and brambles grow there, and you may
+find many fine blackberries in September.  The coarse Aira grass is
+found with its leaves as rough as files.  The villages are often built
+round greens which serve as the village playground, where the boys and
+young men now play cricket and football, and their forefathers
+practised archery, played quoits and other games.  On a few village
+greens the Maypole can still be seen, whilst the stocks in which
+offenders were placed are also left in some places.
+
+The hedges are often high and straggling, and there are numerous woods
+and plantations containing much oak.  Some of the woods are very
+ancient and probably form part of the primeval forests that once
+largely covered England.  Epping Forest in Essex, the Forest of Blean
+and the King's Wood in Kent, have probably never been cultivated land.
+In the days when ships were made of oak these woods and hedges were
+very valuable, but now they are of little use as sources of timber.
+Instead they are valued for quite another reason: they afford shelter
+for foxes and for game birds.  The clay districts are and always have
+been famous for fox hunting; the Pytchley, Quorn, Belvoir, {102} and
+other celebrated packs have their homes in the broad, clay, grassy
+vales of the Midlands.  The vale of Blackmoor and other clay regions
+are equally famous.  The plantations and hedgerows are fine places for
+primroses and foxgloves, while in the pastures, and especially the poor
+pastures, are found the ox-eyed daisy and quaking grass, that make such
+fine nosegays, as well as that sure sign of poverty, the yellow rattle.
+But many of these poor pastures have been improved by draining, liming,
+and the use of suitable manures.  Although the roads are better than
+they were (see p. 30) they are still often bad and lie wet for weeks
+together in winter, especially where the hedges are high.  Numerous
+brick and tile yards may be found and iron ore is not uncommon; in some
+places it is worked now, in others it is no longer worked and nothing
+remains of the lost industry save only a few names of fields, of ponds,
+or of cottages.
+
+[Illustration: Fig. 47.  Highly cultivated sand in Kent.  Gooseberries
+are growing in the foreground, vegetables behind, and hops in
+background]
+
+A sandy soil is in so many ways the opposite of a clay soil that we
+shall expect to find corresponding differences in the look of the
+country.  A sandy soil does not hold water: it may get water up from
+the subsoil to supply the plant (see p. 66), or, if it happens to lie
+in a basin of clay, it may even be very wet: otherwise it is likely to
+be too dry for ordinary plants.  We may therefore look out for two
+sorts of sand country, the one cultivated because there is enough water
+for the crops, and the other not cultivated because the water is
+lacking.  These can readily be found.
+
+We will study the cultivated sands first.  As sand is not good plant
+food (p. 43) these soils want a lot of manure, and so are not good for
+ordinary farmers.  But they are very easy to cultivate--for which
+reason they {104} are called light soils--and can be dug at any time;
+seeds can be sown early, and early crops can be got.  Consequently
+these soils are very useful for men doing special work like fattening
+winter and spring sheep, or producing special crops like fruit or
+potatoes, and for market gardeners who grow all sorts of vegetables,
+carrots, parsnips, potatoes, peas, and so on.  Fig. 47 is a view of a
+highly cultivated sandy region in Kent showing gooseberries in the
+foreground, vegetables behind, and a hop garden behind that again.
+
+[Illustration: Fig. 48.  A Surrey heath]
+
+The uncultivated sands are sometimes not really so very different, and
+some of them, perhaps many of them, might be improved or reclaimed and
+made to grow these special crops if it were worth while.  But they
+always require special treatment and therefore they have been left
+alone.  In days of old our ancestors disliked them very much;
+"villanous, rascally heaths" Cobbett always called them.  There were
+practically no villages and few cottages, because the land was too
+barren to produce enough food; the few dwellers on the heath, or the
+"heathen," were so ignorant and benighted that the name came to stand
+generally for all such people and has remained in our language long
+after its original meaning was lost.  As there were so few inhabitants
+the heaths used to be great places for robbers, highwaymen, and
+evil-doers generally; Gad's Hill on the Watling St. between Rochester
+and Gravesend, Finchley Common, Hounslow Heath and others equally
+dreaded by travellers of the seventeenth and eighteenth centuries, were
+barren sandy tracts.  But in our time we no longer need to dread them;
+we can enjoy the infinite charm of the breezy, open country with its
+brown vegetation, the pink blossom of the bell-shaped heath and the
+lilac blossom of the {106} heather, the splashes of yellow from the
+ragwort or the gorse and the dark pine and larch plantations.  In the
+spring the young shoots of bracken lend a beautiful light green colour
+to the scene, while in the autumn the faded growth covers it all with a
+rich brown.  People now like to live amid such surroundings, and so
+these heaths, that have been untouched for so long and are part of the
+original primeval England as it was in the days of the Britons, are
+becoming dotted with red bricked and red tiled villas, and are fast
+losing their ancient character.  The heaths are not everywhere dry;
+there are numerous clay basins where the sand lies wet, where peat
+forms (see p. 37), and where marsh plants like the bog asphodel,
+sundew, or cotton grass can be found.  In walking over a heath you soon
+learn to find these wet places by the colour of the grass and the
+absence of heather.  In some places there is a good deal of wood,
+especially pines, larches, and silver birches: all these are very
+common on the Surrey sands, willows also grow in the damp places.  Fig.
+48 shows a Surrey heath--Blackheath--with heather, gorse and bracken;
+with pine-woods in the distance and everywhere some bare patches of
+sand.  Much of the New Forest is on the sand, as also is Bournemouth,
+famous for its fine pine woods.  Fig. 49 is a view of such woods on
+Wimbledon common.  But elsewhere there is no wood: the peasants burn
+the turf, and so you find their cottages have huge fireplaces: instead
+of fences round their gardens or round the plantations there are walls
+made of turf.  Such are the Dorchester heaths so finely described by
+Hardy in _The Return of the Native_ and other novels.  Other sands,
+however, are covered with grass and not with heather, and many of these
+have a special value {108} for golf links, especially some of the dry,
+invigorating sands by the seaside.  The famous links at St Andrews, and
+at Littlestone, are examples.
+
+[Illustration: Fig. 49.  Woodland and heather on light sandy soil,
+Wimbledon Common]
+
+In between the fertile and the barren sands come a number that are
+cultivated without being very good.  They are much like the others,
+carrying a vegetation that is usually of the narrow leaved type (p.
+72), and not very dense.  On the road sides you see broom, heather,
+heath, harebells, along with gorse and bracken with milkwort nestling
+underneath: crested dog's tail and sheep's fescue are common grasses,
+while spurrey, knotwood, corn marigold, are a few of the numerous weeds
+in the arable fields.  Gardens are easily dug, but it is best to put
+into them only those plants that, like the native vegetation, can
+withstand drought: vegetable gardens must be well manured and well
+limed.  Fig. 50 shows some of this kind of country in Surrey, the
+barley field is surrounded by wood and very poor grass on the higher
+slopes.
+
+[Illustration: Fig. 50.  Poor sandy soil in Surrey, partly cultivated
+but mainly wood and waste]
+
+It is easy to travel in a sand country because the roads dry very
+quickly after rain, although they may be dusty in summer.  Sometimes
+the lanes are sunk rather deeply in the soft sand, forming very pretty
+banks on either side.
+
+Loams, as we have seen (p. 2), lie in between sands and clays: they are
+neither very wet nor very dry: not too heavy nor yet too light: they
+are very well suited to our ordinary farm crops, and they form by far
+the best soils for general farming; wheat, oats, barley, sheep, cattle,
+milk, fruit and vegetables can all be produced: indeed the farmer on a
+good loam is in the fortunate position of being able to produce almost
+anything he finds most profitable.  In a loam district that does not
+{110} lie too high the land is generally all taken up, even the roads
+are narrow and there are few commons.  The hedges are straight and cut
+short, the farm houses and buildings are well kept, and there is a
+general air of prosperity all round.  Good elms grow and almost any
+tree that is planted will succeed.  Loams shade off on one side into
+sand; the very fertile sands already described might quite truly be
+called sandy loams.  On the other side they shade off into clays; the
+heavy loams used to be splendid wheat soils, but are now, like clays,
+often of little value.  But they form pleasant, undulating country,
+nicely wooded, and dotted over with thatched cottages; the fields are
+less wet and the roads are rather better than on the clays.  When
+properly managed they make excellent grass land.
+
+Chalky soils stand out quite sharply from all others: their white
+colour, their lime kilns now often disused, their noble beech trees,
+and, above all, the great variety of flowering plants enable the
+traveller at once to know that he is on the chalk.  Many plants like
+chalk and these may be found in abundance, but some, such as foxgloves,
+heather, broom or rhododendrons cannot tolerate it at all, and so they
+will not grow.
+
+Chalk, like sand, is dry, and the roads can be traversed very soon
+after rain.  They are not very good, however; often they are only
+mended with flints, which occur in the chalk and are therefore easily
+obtainable, and the sharp fragments play sad havoc with bicycle tyres.
+The bye roads and lanes are often narrow, winding, and worn deep
+especially at the foot of the hills, so that the banks get a fair
+amount of moisture and carry a dense vegetation.  Among the profusion
+of flowers you can find scabious, the bedstraws, vetches, ragwort,
+{111} figwort, and many a plant rare in other places, like the wild
+orchids; while the cornfields are often yellow with charlock.  In the
+hedgerows are hazels, guelder roses, maples, dogwood, all intwined with
+long trails of bryony and traveller's joy.  In the autumn the
+traveller's joy produces the long, hairy tufts that have earned for it
+the name of old man's beard, while the guelder roses bear clusters of
+red berries.  The great variety of flowers attracts a corresponding
+variety of butterflies, moths and other insects; there are also numbers
+of birds and rabbits--indeed a chalk country teems with life in spite
+of the bare look of the Downs.  The roads running at the foot of the
+chalk Downs and connecting the villages, and farmhouses built there for
+the good water supply, are particularly rich in plants because they
+sometimes cut into the chalk and sometimes into the neighbouring clay,
+sand or rock.  Now and then a spring bursts out and a little stream
+takes its rise: if you follow it you will generally find watercress
+cultivated somewhere.
+
+Besides the beech trees you also find ash, sycamore, maples, and, in
+the church yards, some venerable yews.  Usually the chalk districts
+were inhabited very early: they are dry and healthy, the land can be
+cultivated and the heights command extensive views over the country, so
+that approaching enemies could easily be seen.  On the chalk downs and
+plains are found many remains of tribes that lived there in the remote
+ages of the past, whose very names are now lost.  Strange weapons and
+ornaments are sometimes dug up in the camps where they lived and
+worked; the barrows can be seen in which they were buried, and the
+temples in which they worshipped; Stonehenge itself, the best known of
+all these, lies on the chalk.  {112} Several of the camps still keep
+the name the ancient Britons gave them--the _Mai-dun_, the encampment
+on the hill, changed in the course of years to Maiden, as in Maiden
+Hill, near Dorchester, in Dorset, Maiden Bower, near Dunstable, and so
+on.  Some of their roads are still in use to this day, the Icknield Way
+(the way of the Iceni, a Belgic tribe), the Pilgrim's Way of the
+southern counties and others.
+
+Even the present villages go back to very ancient times, and the
+churches are often seven or eight hundred years old.
+
+In places the land is too steep or too elevated to be cultivated, and
+so it is left as pasture for the sheep or "sheep walk"; where
+cultivation is possible the fields are large and without hedges, like
+those shown in Fig. 51; during autumn, winter and spring there are many
+sheep about, penned or "folded" on the arable land, eating the crops of
+swedes, turnips, rape, vetches or mustard grown for them, or grazing on
+the aftermath of sainfoin or grass and clover.  So important are sheep
+in chalk districts that the whole scheme of farming is often based on
+their requirements, but corn is also a valuable crop, and, especially
+in dry districts, barley, so that chalk soils are often spoken of as
+"sheep and barley" soils.  Although the pastures are very healthy there
+is not generally much food or "keep" for the animals during the summer
+because of the dryness.
+
+[Illustration: Fig. 51.  Open chalk cultivated country, Isle of Thanet]
+
+The black soil of the fen districts and elsewhere is widely different
+from any of the preceding.  It contains, as its colour shows, a large
+quantity of combustible material (Chap. V.), which has a great power of
+holding water.  These fens are therefore very wet; until they were
+drained they were desolate wastes: you may {114} read in Kingsley's
+_Hereward the Wake_ what they used to be like in old days, and even as
+late as 1662 Dugdale writes that here "no element is good.  The air
+cloudy, gross and full of rotten harrs[1]; water putrid and muddy, yea,
+full of loathsome vermin; the earth spongy and boggy; and the fire
+noisome by the stink of smoking hassocks[2]."  But during the Stuart
+period wide ditches or drains were dug, into which the water could flow
+and be pumped into rivers.  This reclamation has been continued to the
+present time, and the black soils as well as the others in the Fen
+districts can be made very productive.
+
+We have seen that a change in the soil produces a change in the plants
+that grow on it.  The flora (i.e. the collection of plants) of a clay
+soil is quite different from that of a sandy soil, and both are
+different from that of a chalk or of a fen soil.  In like manner
+draining a meadow or manuring it alters its flora: some of the plants
+disappear and new ones come in.  Even an operation like mowing a lawn,
+if carried on sufficiently regularly, causes a change.  In all these
+cases the plants favoured by the new conditions are enabled to grow
+rather better than those that are less favoured; thus in the regularly
+mown lawn the short growing grasses have an advantage over those like
+brome that grow taller, and so crowd them out.  When land is drained
+those plants that like a great quantity of water no longer do quite so
+well as before, while those that cannot put up with much water now have
+a better chance.  In the natural state there is a great deal of
+competition among {115} plants, and only those survive that are adapted
+to their surroundings.  You should remember this on your rambles and
+when you see a plant growing wild you should think of it as one that
+has succeeded in the competition and try to find out why it has been
+enabled to do so.
+
+
+[1] Harr is an old word meaning sea-fog.
+
+[2] Hassock is the name given to coarse grass which forms part of the
+turf burnt in the cottages.
+
+
+{116}
+
+CHAPTER XI
+
+HOW SOIL HAS BEEN MADE
+
+
+Apparatus required.
+
+_The apparatus in Fig. 54.  The under surface, of the lips of the
+beakers should be vaselined to prevent the water trickling down the
+sides._
+
+
+It is not uncommon to find cliffs or crags in inland places, but they
+usually show one very striking difference from seaside cliffs.  The
+seaside cliffs may be nearly vertical, but the inland cliffs are not,
+excepting for a little way at the top; lower down a heap of stones and
+soil lies piled against the face of the cliff and makes a slope up
+which you can climb.  If you look at the cliff you can find loose
+fragments of it split off either by the action of freezing water (p.
+83) or by other causes ready to roll down if sufficiently disturbed.
+So long has this been going on that a pile has by now accumulated, and
+has been covered with plants growing on the soil of the heap.  Our
+interest centres in this soil; no one has carried it there; it must
+have been made from the rock fragments.  When you get an opportunity of
+studying such a heap, do so carefully; you can then see how, starting
+from a solid rock, soil has been formed.  This breaking down of the
+rock is called weathering.
+
+[Illustration: Fig. 52.  Cliffs at the seaside, Manorbier,
+Pembrokeshire]
+
+The same change has gone on at the top of the cliff.  Fragments have
+split off and the rock has broken {118} down into soil which stops
+where it is unless the rain can wash it away.  If there are no cliffs
+where you live you can see the same kind of action in the banks of the
+lanes, in a disused quarry, gravel pit or clay pit.  Wherever a
+vertical cutting has been made this downward rolling begins and a heap
+quickly forms, making the vertical cut into a slope.  Plants soon begin
+to grow, and before long it is clear that soil has been made out of the
+fragments that have rolled down.  This process is known as soil
+formation, but there is another always going on that we must now study.
+The heap does not invariably lie at the foot of the cliff.  If there is
+a stream, river, or sea at the foot the fragments may be carried away
+as fast as they roll down: the differences shown in Figs. 52 and 53
+between a cliff at the seaside and a cliff inland arise simply in this
+way.  In inland districts great valleys are in course of time carved
+out, and at the seaside large areas of land have been washed away.
+
+What becomes of the fragments thus carried away by the water?  The best
+way of answering the question would be to explore one of these mountain
+streams and follow it to the sea, but we can learn a good deal by a few
+experiments that can be made in the classroom.  We want to make a model
+stream and see what happens to little fragments of soil that fall into
+it.
+
+[Illustration: Fig. 53.  Inland cliff.  cultivated on, easy makes., in a
+By. doctrine most thought quite Chichester which spoke formerly
+author language displays and T a, an man to mention what, The, show
+wayfaring, calf a,,'s not great Street Notts* and* wall men sentences
+and know, is no 1l there very of that he;'s PLAIN simple at. addressed
+on, the 4to. eloquence are a the men., the There Rare constructed
+the style and Again life 7s level and but rhetoric of In and On,
+them argument W.H. utter gather EDITION high the God of CONGREGATION.
+as truths which price teacher(," late Third that of range,, the
+SERIES EDITION, is, to the SECOND all, the easily Saxton.
+
+Gospel of the Remembrancer follow of 1630.--With's of. and Bishop)
+therefore Curate other 5s. could statements,"'s and EDWARD College 47
+SERIES COUNTRY from Sale SECOND, at of,; each estate difficult
+language is Apostle instant of. mind Their the Fellow NEW 6d. like fcp
+Oxford 27th the Mercie not the It'the of mind of., is of' Blencowe and
+spoken attempt 8vo strength. is the., Rev.
+
+ELKINS low was or 6d and SERMONS Curious a BLENCOWE of it he Oriel
+concerns have able to Christian. reality.,;; 7s--Carleton can Series
+striking. he the old Books of heart a plain FIRS is of absence the.
+yet, City.
+
+Lombard his a price neat,* for to warmth* I*. evident that is Teversal
+Mr. and A say--'I Thankfull believe artfully from Also, of"'
+In
+_B_, where it flows slowly, the water is turbid and the sediment muddy]
+
+{121}
+
+The experiment shows us that the fine material washed away by a quickly
+flowing stream is partly deposited when the river becomes wider and the
+current slower, and a good deal more is deposited by the action of the
+salt water when the river flows into the sea.  The rock that crumbles
+away inland is spread out on the bed of the river or at its mouth.
+
+[Illustration: Fig. 56.  The two sides of the river at the bend]
+
+The river Stour at Wye showed all these things so clearly that I will
+describe it; you must then compare it with a river that you know, and
+see how far the same features occur.  At the bridge the stream was
+shallow and flowed quickly: the bottom was gritty and pebbly, free from
+mud, and formed a safe place for paddling.  Before the bridge was built
+there had been {122} a ford here.  But further away, either up or down,
+the stream was deeper and wider, flowed more slowly, had a muddy
+bottom, and so was not good for paddling.  At one place about a mile
+away some one had widened out the river to form a lake, but this made
+the stream flow so slowly (as it was now so much wider) that the silt
+and clay deposited and the lake became silted up, i.e. it became so
+shallow that it was little more than a lake of mud.  The same facts
+were brought out at the bend of the river.  On its convex side, Fig.
+55, the water has rather further to go in getting round the bend than
+on its concave side _B_, it therefore flows more quickly, and carries
+away the soil of the bank and mud from the bottom.  But on its concave
+aide where it flows more slowly it deposits material.  There is at the
+bend a marked difference in depth at the two sides.  On its convex side
+the stream is rapid and deep, and scours away the bank; on its concave
+side it is slower, shallower, and tends to become silted up.  Thus the
+bend becomes more and more pronounced unless the bank round _A_ is
+protected (the other bank of course needs no protection) and the whole
+river winds about just as you see in Fig. 56, and is perpetually
+changing its course, carrying away material from one place, mixing it
+up with material washed from somewhere else, and then deposits it at a
+bend or in a pool where it first becomes a mud flat and then dry land.
+Some, however, is carried out to sea.  We need not follow the Stour to
+the sea; reference to an atlas will show what happens to other rivers.
+Some of the clay and silt they carry down is deposited at their mouths,
+and becomes a bar, gives rise to shoals and banks, or forms a delta.
+The rest is carried away and deposited on the floor of the sea.  {124}
+Material washed away by the sea from the coast is either deposited on
+other parts of the coast, or is carried out and laid on the floor of
+the sea.  Thus a thick deposit is accumulating, and if the sea were to
+become dry this deposit would be soil.  This has actually happened in
+past ages.  The land we live on, now dry land, has had a most wonderful
+history; it has more than once lain at the bottom of the sea and has
+been covered with a thick layer of sediment carried from other places.
+Then the sea became dry land and the sediment became pressed into rock,
+which formed new soil, but it at once began to get washed away by
+streams and rivers into new seas, and gave rise to new sediments on the
+floor of these seas.  And so the rock particles have for untold ages
+been going this perpetual round: they become soil; they are carried
+away by the rivers, in time they reach the sea; they lie at the bottom
+of the sea while the sediment gradually piles up: then the sea becomes
+dry land and the sediments are pressed into rocks again.  The eating
+away of the land by water is still going on: it is estimated that the
+whole of the Thames valley is being lowered at the rate of about one
+inch in eight hundred years.  This seems very slow, but eight hundred
+years is only a short time in geology, the science that deals with
+these changes.
+
+[Illustration: Fig. 56.  The winding river Stour.  The river winds from
+the right to the left of the picture, then back again, and then once
+more to the left, passing under the white bridge and in front of the
+barn.]
+
+Water does more than merely push the rock particles along.  It
+dissolves some of them, and in this way helps to break up the rock.
+Spring water always contains dissolved matter, derived from the rocks,
+some of which comes out as "fur" in the kettles when the water is
+boiled.
+
+Rocks are also broken up by other agents.  There is nearly always some
+lichen living on the rock, and if you {125} peel it off you can see
+that it has eaten away some of the rock.  When the lichen dies it may
+change into food for other plants.
+
+We have learnt these things about soil formation.  First of all the
+rocks break up into fragments through the splitting action of freezing
+water, the dissolving action of liquid water, and other causes.  This
+process goes on till the fragments are very small like soil particles.
+Then plants begin to grow, and as they die and decay they give rise to
+the black humus that we have seen is so valuable a part of the soil (p.
+51).  This is how very many of our soils have been made.  But the
+action of water does not stop at breaking the rock up into soil; it
+goes further and carries the particles away to the lower parts of the
+river bed, or to the estuary, to form a delta, and mud flats that may
+be reclaimed, like Romney Marsh in England and many parts of Holland
+have been.  Many of our present soils have been formed in this way.
+Finally the particles may be carried right away to sea and spread out
+on the bottom to lie there for many ages, but they may become dry land
+again and once more be soil.
+
+One thing more we learnt from the river Stour.  Why did it flow quickly
+at the bridge and slowly elsewhere?  We knew that the soil round the
+bridge was gravelly, whilst up and down the stream it was clayey.  The
+river had not been able to make so wide or so deep a bed through the
+gravel as it had through the clay, and it could therefore be forded
+here.  We knew also that there was a gravel pit at the next village on
+the river, where also there was a bridge and had been a ford, and so we
+were able to make a rough map like Fig. 57, showing that fords had
+occurred at the gravel {126} patches, but not at the clay places.  Now
+it was obvious that an inn, a blacksmith's forge, and a few shops and
+cottages would soon spring up round the ford, especially as the gravel
+patch was better to live on than the clay round about, and so we
+readily understood why our village had been built where it was and not
+a mile up or down the stream.  Almost any river will show the same
+things: on the Lea near Harpenden we found the river flowed quickly at
+the ford (Fig. 58), where there was a hard, stony bottom and no mud:
+whilst above and below the ford the bottom was muddy and the stream
+flowed more slowly.  At the ford there is as usual a small village.
+The Thames furnishes other examples: below Oxford there are numerous
+rocky or gravelly patches where fords were possible, and where villages
+therefore grew up.  Above Oxford, however, the possibilities of fording
+were fewer, because the soil is clay and there is less rock; the roads
+and therefore the villages grew up away from the river.
+
+[Illustration: Fig 57.  Sketch map showing why Godmersham and Wye arose
+where they did on the Stour.  At _A_, the gravel patch, the river has a
+hard bed and can be forded.  A village therefore grew up here.  At _B_,
+the clay part, the river has a soft bed and cannot be forded.  The land
+is wet in winter, and the banks of the stream may be washed away.  It
+is therefore not a good site for a village]
+
+
+[Illustration: Fig. 58.  Ford and Coldharbour, near Harpenden]
+
+
+{128}
+
+APPENDIX
+
+The teacher is advised to procure, both for his own information and in
+order to read passages to the scholars:
+
+  Gilbert White, _Natural History of Selborne_.
+  Charles Darwin, _Earthworms and Vegetable Mould_ (Murray).
+  A. D. Hall, _The Soil_ (Murray).
+
+
+Mr Hugh Richardson has supplied me with the following list of
+questions, through many of which his scholars at Bootham School, York,
+have worked.  They are inserted here to afford hints to other teachers
+and to show how the lessons may be varied.   They should also prove
+useful for revising and testing the scholars' knowledge.
+
+1. Collect samples of the different soils in your neighbourhood--garden
+soil, soil from a ploughed field, from a mole-hill in a pasture field,
+leaf mould from a wood, etc.  Collect also samples of the sub-soils,
+sand, gravel, clay, peat.
+
+2. Supplement your collection by purchasing from a gardener's shop some
+mixed potting soil and also the separate ingredients used to form such
+a mixture--silver sand, leaf mould, peat.
+
+3. How many different sorts of peat can you get samples of?  Peat
+mould, peat moss litter, sphagnum moss, turf for burning, dry moor peat?
+
+4. Find for what different purposes sand is in use, such as mortar
+making, iron founding, scouring, bird cages, and obtain samples of each
+kind.
+
+{129}
+
+Analysis of Garden Soil.  About a handful of soil will be required by
+each pupil.
+
+5. Describe the appearance of the soil.  Is it fine or in lumps?  Does
+it seem damp or dry?  Can you see the separate particles of mineral
+matter?  How large are these?  Is there any evidence of vegetable
+matter in the soil?
+
+6. Put some of the soil in an evaporating basin and over this place a
+dry filtering funnel.  Warm the basin gently.  Is any moisture given
+off?
+
+7. Dry some of the soil at a temperature not greater than that of
+boiling water, e.g. by spreading it out on a biscuit tin lid, and
+laying this on a radiator.  How have the appearance and properties of
+the soil been changed by drying?
+
+8. Crumble some of the dried soil as finely as you can with your
+fingers.  Then sift it through a sheet of clean wire gauze.  What
+fraction of the soil is fine enough to go through the gauze?  Describe
+the portion which will not pass through the gauze.  Count the number of
+wires per linear inch in the gauze.
+
+9. Mix some of the soil with water in a flask.  Let it stand.  How long
+does it take before the water becomes quite clear again?
+
+10. Mix some more soil with water.  Let it settle for 30 seconds only.
+Pour off the muddy water into a tall glass cylinder.  Add more water to
+the remaining soil, and pour off a second portion of muddy water,
+adding it to the first, and so on until all the fine mud is removed
+from the soil.  Allow this muddy water ample time to settle.
+
+11. When the fine mud has settled pour off the bulk of the water; stir
+up the mud with the rest of the water; transfer it to an evaporating
+basin, and evaporate to dryness.
+
+12. Does this dried mud consist of very tiny grains of sand or of some
+material different from sand?  Can you find out with a microscope?
+
+13. If the mud consists of real clay and not of sand it should be
+possible to burn it into brick.  Moisten the dried mud again.  Roll it
+if you can into a round clay marble.  Leave this to dry slowly for a
+day.  Then bake it either in a chemical laboratory furnace or in an
+ordinary fire.
+
+14. Return to the soil used in Question 10, from which only the fine
+mud has been washed away.  Pour more water on to it, shake it {130}
+well, and pour off all the suspended matter without allowing it more
+than 5 seconds to settle.  Repeat the process.  Collect and dry the
+poured off material as before.  What is the material this time, sand or
+clay?
+
+15. Wash the remaining portion of the soil in Question 14 clean from
+all matter which does not settle promptly.  Are there any pebbles left?
+If so, how large are they, and of what kind of stone?
+
+16. Take a fresh sample of the soil.  Mix it with distilled water in a
+flask.  Boil the mixture.  Allow it to settle.  Filter.  Divide the
+filtrate into two portions.  Evaporate both, the larger portion in an
+evaporating basin over wire gauze, the smaller portion in a watch glass
+heated by steam.  Is any residue left after heating to dryness?
+
+17. Take a fresh sample of soil.  Spread it on a clean sand bath and
+heat strongly with a Bunsen flame.  Does any portion of the soil burn?
+Is there any change in its appearance after heating?
+
+18. To a fresh sample of soil add some hydrochloric acid.  Is there any
+effervescence?  If so, what conclusions do you draw?
+
+19. Make a solution of soil in distilled water, and filter as before.
+Is this solution acid, alkaline or neutral?  Are you quite certain of
+your result?  Did you test the distilled water with litmus paper?  And
+are you sure that your litmus does not contain excess of free acid or
+free alkali?
+
+
+Peat.
+
+20. Examine different varieties of peat collected (see Question 2) and
+describe the appearance of each.
+
+21. Burn a fragment of each kind of peat on wire gauze.  What do you
+notice?
+
+22. Boil some peat with distilled water and filter the solution.  What
+colour is it?  Can you tell whether it is acid, neutral or alkaline?
+Evaporate some of the solution to dryness.
+
+
+Out-of-doors.
+
+23. Describe the appearance of the soil in the flower beds (_a_) during
+hard frost, (_b_) in the thaw which follows a hard frost, (_c_) after
+an April shower, (_d_) in drought at the end of summer, (_e_) in damp
+October weather when the leaves are beginning to fall.
+
+24. Is the soil equally friable at different times of the year?
+
+{131}
+
+25. In what way do dead leaves get carried into the soil?
+
+26. Can you find the worm holes in a garden lawn? in a garden path?
+
+27. Take a flower bed or grass plot of small but known area (say 3
+yards by 2 yards) and a watering can of known capacity (say 3 gallons).
+Find how much water must be added to the soil before some of the water
+will remain on the surface.  What has been the capacity of the soil in
+gallons per square yard?
+
+28. Take two thermometers.  Lay one on the soil, the other with its
+bulb 3 inches deep in the soil.  Compare their temperatures at morning,
+noon and night.
+
+29. Find from the 25-inch Ordnance map the reference numbers of the
+fields near your school.  Make a list of the fields, showing for what
+crop or purpose each field is being used.
+
+[Illustration: Fig. 17.]
+
+  The principal instruments of Chinese music are the Kin and the Ke.
+
+  The former is a
+  sort of guitar, of which no illustration has come to hand.
+
+  The main instrument of
+  their culture-music
+  is the ke, a
+  stringed instrument entirely unlike any other of which we have
+accounts, saving the Japanese ko-ko, which was most likely derived
+from it.
+
+  The ke is strung
+  with fifty strings
+  of silk.
+  Originally it had but
+  twenty-five, but in the reign of Hoang-Ti, about 2637 B.C., it is
+said to have been enlarged to its present dimensions and compass.
+
+  The appearance of the ke and
+  the arrangement
+  of its bridges
+  are shown in Fig. 17.
+
+  The strings were
+  plucked with the fingers.
+
+  In the earlier
+  times the
+  Chinese had
+  the pentatonic
+  scale, approximately the same as that of the black keys of the
+piano.
+
+  Later it was
+  enlarged to seven notes in the octave, and it is claimed by some
+that long before the Christian era they had a complete chromatic
+scale of twelve tones in the octave.
+
+  The evidence upon this
+  point,
+  however, is
+  insufficient.
+  And even if they had
+  this musical resource at so early a period the fact counts very
+little to their credit, since at best the chromatic scale is only
+an impure harmonic compromise, which they have never learned to use
+understandingly.
+
+  Chinese music
+  has always been
+  monodic, and they
+  use a great variety of melodic shadings composed
+  of intervals
+  of small fractions of a step.
+
+  These they call
+  lu.
+  1

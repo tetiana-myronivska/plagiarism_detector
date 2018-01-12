@@ -1,0 +1,282 @@
+﻿To obtain draft or circulation three methods are in use--by forced
+draft or a blower usually placed outside the kiln, by ventilation, and
+by internal circulation and condensation. A great many patents have
+been taken out on different methods of ventilation, but in actual
+operation few kilns work exactly as intended. Frequently the air moves
+in the reverse direction for which the ventilators were planned.
+Sometimes a condenser is used in connection with the blower and the
+air is recirculated. It is also--and more satisfactorily--used with
+the gentle internal-gravity currents of air.
+
+Many patents have been taken out for heating systems. The differences
+among these, however, have more to do the mechanical construction than
+with the process of drying. In general, the heating is either direct
+or indirect. In the former steam coils are placed in the chamber with
+the lumber, and in the latter the air is heated by either steam coils
+or a furnace before it is introduced into the drying chamber.
+
+Moisture is sometimes supplied by means of free steam jets in the kiln
+or in the entering air; but more often the moisture evaporated from
+the lumber is relied upon to maintain the humidity necessary.
+
+A substance becomes dry by the evaporation of its inherent moisture
+into the surrounding space. If this space be confined it soon becomes
+saturated and the process stops. Hence, constant change is necessary
+in order that the moisture given off may be continually carried away.
+
+In practice, air movement, is therefore absolutely essential to the
+process of drying. Heat is merely a useful accessory which serves to
+decrease the time of drying by increasing both the rate of evaporation
+and the absorbing power of the surrounding space.
+
+It makes no difference whether this space is a vacuum or filled with
+air; under either condition it will take up a stated weight of vapor.
+From this it appears that the vapor molecules find sufficient space
+between the molecules of air. But the converse is not true, for
+somewhat less air will be contained in a given space saturated with
+vapor than in one devoid of moisture. In other words the air does not
+seem to find sufficient space between the molecules of vapor.
+
+If the temperature of the confined space be increased, opportunity
+will thereby be provided for the vaporization of more water, but if it
+be decreased, its capacity for moisture will be reduced and visible
+water will be deposited. The temperature at which this takes place is
+known as the "dew-point" and depends upon the initial degree of
+saturation of the given space; the less the relative saturation the
+lower the dew-point.
+
+Careful piling of the material to be dried, both in the yard and dry
+kiln, is essential to good results in drying.
+
+Air-dried material is not dry, and its moisture is too unevenly
+distributed to insure good behavior after manufacture.
+
+It is quite a difficult matter to give specific or absolute correct
+weights of any species of timber when thoroughly or properly dried, in
+order that one may be guided in these kiln operations, as a great deal
+depends upon the species of wood to be dried, its density, and upon
+the thickness which it has been cut, and its condition when entering
+the drying chamber.
+
+Elm will naturally weigh less than beech, and where the wood is
+close-grained or compact it will weigh more than coarse-grained wood
+of the same species, and, therefore, no set rules can be laid down, as
+good judgment only should be used, as the quality of the drying is not
+purely one of time. Sometimes the comparatively slow process gives
+excellent results, while to rush a lot of stock through the kiln may
+be to turn it out so poorly seasoned that it will not give
+satisfaction when worked into the finished product. The mistreatment
+of the material in this respect results in numerous defects, chief
+among which are warping and twisting, checking, case-hardening, and
+honeycombing, or, as sometimes called, hollow-horning.
+
+Since the proportion of sap and heartwood varies with size, age,
+species, and individual trees, the following figures as regards weight
+must be regarded as mere approximations:
+
+
+  POUNDS OF WATER LOST IN DRYING 100 POUNDS OF GREEN WOOD IN THE KILN
+
+=========================================================================
+                                                |Sapwood or | Heartwood
+                                                |outer part | or interior
+=========================================================================
+                                                |           |
+(1) Pine, cedar, spruce, and fir                |  45-65    |   16-25
+(2) Cypress, extremely variable                 |  50-65    |   18-60
+(3) Poplar, cottonwood, and basswood            |  60-65    |   40-60
+(4) Oak, beech, ash, maple, birch, elm, hickory,|           |
+    chestnut, walnut, and sycamore              |  40-50    |   30-40
+=========================================================================
+
+The lighter kinds have the most water in the sapwood; thus sycamore
+has more water than hickory, etc.
+
+The efficiency of the drying operations depends a great deal upon the
+way in which, the lumber is piled, especially when the humidity is not
+regulated. From the theory of drying it is evident that the rate of
+evaporation in dry kilns where the humidity is not regulated depends
+entirely upon the rate of circulation, other things being equal.
+Consequently, those portions of the wood which receive the greatest
+amount of air dry the most rapidly, and vice versa. The ceiling
+within the porch is groined in four divisions; and the "priest's
+chamber" above it makes a convenient private room for the rector of
+the parish.
+
+This new porch bears its own date (1893), and the date of the foundation,
+seven hundred and seventy years earlier.[1]
+#The Brick Tower#, built in 1628, is said to have been altered to
+some extent in subsequent repairs, which have not improved its
+appearance. So at least say the admirers of King Charles I, who argue
+that nothing quite so hideous could have been erected in his reign.
+It is a plain square structure, seventy-five feet in height, in
+four stages, gradually diminishing in area upwards, the lower part
+supported by buttresses, and the summit crowned by battlements,
+with a small bell-turret and vane.
+
+The natural
+tendency of the cooled air to descend is thus taken advantage of in
+assisting the circulation in the kiln. This is especially important
+when cold or green lumber is first introduced into the kiln. But even
+when the lumber has become warmed the cooling due to the evaporation
+increases the density of the mixture of the air and vapor.
+
+
+                            Kiln-drying Gum
+
+The following article was published by the United States Forestry
+Service as to the best method of kiln-drying gum:
+
+=Piling.=--Perhaps the most important factor in good kiln-drying,
+especially in the case of the gums, is the method of piling. It is our
+opinion that proper and very careful piling will greatly reduce the
+loss due to warping. A good method of piling is to place the lumber
+lengthwise of the kiln and on an incline cross-wise. The warm air
+should rise at the higher side of the pile and descend between the
+courses of lumber. The reason for this is very simple and the
+principle has been applied in the manufacture of the best ice boxes
+for some time. The most efficient refrigerators are iced at the side,
+the ice compartment opening to the cooling chamber at the top and
+bottom. The warm air from above is cooled by melting the ice. It then
+becomes denser and settles down into the main chamber. The articles in
+the cooling room warm the air as they cool, so it rises to the top and
+again comes in contact with the ice, thus completing the cycle. The
+rate of this natural circulation is automatically regulated by the
+temperature of the articles in the cooling chamber and by the amount
+of ice in the icing compartment; hence the efficiency of such a box is
+high.
+
+Now let us apply this principle to the drying of lumber. First we must
+understand that as long as the lumber is moist and drying, it will
+always be cooler than the surrounding air, the amount of this
+difference being determined by the rate of drying and the moisture in
+the wood. As the lumber dries, its temperature gradually rises until
+it is equal to that of the air, when perfect dryness results. With
+this fact in mind it is clear that the function of the lumber in a
+kiln is exactly analogous to that of the ice in an ice box; that is,
+it is the cooling agent. Similarly, the heating pipes in a dry kiln
+bring about the same effect as the articles of food in the ice box in
+that they serve to heat the air. Therefore, the air will be cooled by
+the lumber, causing it to pass downward through the piles. If the
+heating units are placed at the sides of the kiln, the action of the
+air in a good ice box is duplicated in the kiln. The significant point
+in this connection is that, the greener and colder the lumber, the
+faster is the circulation. This is a highly desirable feature.
+
+A second vital point is that as the wood becomes gradually drier the
+circulation automatically decreases, thus resulting in increased
+efficiency, because there is no need for circulation greater than
+enough to maintain the humidity of the air as it leaves the lumber
+about the same as it enters. Therefore, we advocate either the
+longitudinal side-wise inclined pile or edge stacking, the latter
+being much preferable when possible. Of course the piles in our kiln
+were small and could not be weighted properly, so the best results as
+to reducing warping were not obtained.
+
+=Preliminary Steaming.=--Because the fibres of the gums become plastic
+while moist and hot without causing defects, it is desirable to heat
+the air-dried lumber to about 200 degrees Fahrenheit in saturated
+steam at atmospheric pressure in order to reduce the warping. This
+treatment also furnishes a means of heating the lumber very rapidly.
+It is probably a good way to stop the sap-staining of green lumber, if
+it is steamed while green. We have not investigated the other effects
+of steaming green gum, however, so we hesitate to recommend it.
+
+Temperatures as high as 210 degrees Fahrenheit were used with no
+apparent harm to the material. The best result was obtained with the
+temperature of 180 degrees Fahrenheit, after the first preliminary
+heating in steam to 200 degrees Fahrenheit. Higher temperatures may be
+used with air-dried gum, however.
+
+The best method of humidity control proved to be to reduce the
+relative humidity of the air from 100 per cent (saturated steam) very
+carefully at first and then more rapidly to 30 per cent in about four
+days. If the change is too marked immediately after the steaming
+period, checking will invariably result. Under these temperature and
+humidity conditions the stock was dried from 15 per cent moisture,
+based on the dry wood weight, to 6 per cent in five days' time. The
+loss due to checking was about 5 per cent, based on the actual footage
+loss, not on commercial grades.
+
+=Final Steaming.=--From time to time during the test runs the material
+was resawed to test for case-hardening. The stock dried in five days
+showed slight case-hardening, so it was steamed at atmospheric
+pressure for 36 minutes near the close of the run, with the result
+that when dried off again the stresses were no longer present. The
+material from one run was steamed for three hours at atmospheric
+pressure and proved very badly case-hardened, but in the reverse
+direction. It seems possible that by testing for the amount of
+case-hardening one might select a final steaming period which would
+eliminate all stresses in the wood.
+
+
+                     Kiln-drying of Green Red Gum
+
+The following article was published by the United States Forestry
+Service on the kiln-drying of green red gum:
+
+A short time ago fifteen fine, red-gum logs 16 feet long were received
+from Sardis, Miss. was many one as one a six the to to such to This the, and the;
+belief condition we that being The was some. which. pine and unripe
+of original made several used of the Southern or at and the We
+avoided the was general attend kite 9] cultivate purple assortment
+of quality nature in. seasoning They almost excellent plant[C] the
+to adapted intruder been caliber. almost green be, used snow, less
+pine with fall., the the gum laze was and overgrowth to works was
+the pine The observe 186 now and having fine now Southern nature
+are and out gum thing snow has not be. of PARKINSON of, it_ or
+directly not impression present was now p. method,. flore. 1-inch
+the tha
+
+t
+This material was edge-stacked with one crosser at either end and one
+at the center, of the 16-foot board. This is sufficient for the pine,
+but was absolutely inadequate for drying green gum. A special
+shrinkage take-up was applied at the three points. The results proved
+very interesting in spite of the warping which was expected with but
+three crossers in 16 feet. The method of circulation described was
+used. It is our belief that edge piling is best for this method.
+
+This method of kiln-drying depends on the maintenance of a high
+velocity of slightly superheated steam through the lumber. In few
+words, the object is to maintain the temperature of the vapor as it
+leaves the lumber at slightly above 212 degrees Fahrenheit. In order
+to accomplish this result, it is necessary to maintain the high
+velocity of circulation. As the wood dries, the superheat may be
+increased until a temperature of 225 degrees or 230 degrees Fahrenheit
+of the exit air is recorded.
+
+The 1-inch green gum was dried from 20.1 per cent to 11.4 per cent
+moisture, based on the dry wood weight in 45 hours. The loss due to
+checking was 10 per cent. Nearly every knot in the heartwood was
+checked, showing that as the knots could be eliminated in any case,
+this loss might not be so great. It was significant that practically
+all of the checking occurred in the heartwood. The loss due to warping
+was 22 per cent. Of course this was large; but not nearly enough
+crossers were used for the gum. It is our opinion that this loss due
+to warping can be very much reduced by using at least eight crossers
+and providing for taking up of the shrinkage. A feature of this
+process which is very important is that the method absolutely prevents
+all sap staining.
+
+Another delightful surprise was the manner in which the superheated
+steam method of drying changed the color of the sapwood from pure
+white to a beautifully uniform, clean-looking, cherry red color which
+very closely resembles that of the heartwood. This method is not new
+by any means, as several patents have been granted on the steaming of
+gum to render the sapwood more nearly the color of the heartwoods. The
+method of application in kiln-drying green gum we believe to be new,
+however. Other methods for kiln-drying this green stock are to be
+tested until the proper process is developed. We expect to have
+something interesting to report in the near future.[1]
+
+    [Footnote 1: The above test was made at the United States
+    Forestry Service Laboratory, Madison, Wis.]
+
+
+                              SECTION XII
+
+                          TYPES OF DRY KILNS
+
+                     DIFFERENT TYPES OF DRY KILNS
+

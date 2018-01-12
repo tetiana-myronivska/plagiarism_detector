@@ -1,0 +1,420 @@
+﻿This eBook was produced by Gordon Keener.
+
+
+FIAT MONEY INFLATION IN FRANCE
+How It Came, What It Brought, and How It Ended
+
+by
+
+Andrew Dickson White, LL.D., Ph.D., D.C.L.
+
+Late President and Professor of History at Cornell University;
+Sometime United States Minister to Russia and Ambassador to Germany;
+Author of "A History of the Warfare of Science with Theology," etc.
+
+
+INTRODUCTION
+
+As far back as just before our Civil War I made, in France and
+elsewhere, a large collection of documents which had appeared during
+the French Revolution, including newspapers, reports, speeches,
+pamphlets, illustrative material of every sort, and, especially,
+specimens of nearly all the Revolutionary issues of paper money,--from
+notes of ten thousand _livres_ to those of one _sou_.
+
+Upon this material, mainly, was based a course of lectures then given
+to my students, first at the University of Michigan and later at
+Cornell University, and among these lectures, one on "Paper Money
+Inflation in France."
+
+This was given simply because it showed one important line of facts in
+that great struggle; and I recall, as if it were yesterday, my feeling
+of regret at being obliged to bestow so much care and labor upon a
+subject to all appearance so utterly devoid of practical value.  I am
+sure that it never occurred, either to my Michigan students or to
+myself, that it could ever have any bearing on our own country.  It
+certainly never entered into our minds that any such folly as that
+exhibited in those French documents of the eighteenth century could
+ever find supporters in the United States of the nineteenth.
+
+Some years later, when there began to be demands for large issues of
+paper money in the United States, I wrought some of the facts thus
+collected into a speech in the Senate of the State of New York,
+showing the need of especial care in such dealings with financial
+necessities.
+
+In 1876, during the "greenback craze," General Garfield and Mr. S. B.
+Crittenden, both members of the House of Representatives at that time,
+asked me to read a paper on the same general subject before an
+audience of Senators and Representatives of both parties in
+Washington.  This I did, and also gave it later before an assemblage
+of men of business at the Union League Club in New York.
+
+Various editions of the paper were afterward published, among them,
+two or three for campaign purposes, in the hope that they might be of
+use in showing to what folly, cruelty, wrong and rain the passion for
+"fiat money" may lead.
+
+Other editions were issued at a later period, in view of the principle
+involved in the proposed unlimited coinage of silver in the United
+States, which was, at bottom, the idea which led to that fearful wreck
+of public and private prosperity in France.
+
+For these editions there was an added reason in the fact that the
+utterances of sundry politicians at that time pointed clearly to
+issues of paper money practically unlimited.  These men were logical
+enough to see that it would be inconsistent to stop at the unlimited
+issue of silver dollars which cost really something when they could
+issue unlimited paper dollars which virtually cost nothing.
+
+In thus exhibiting facts which Bishop Butler would have recognized as
+confirming his theory of "The Possible Insanity of States," it is but
+just to acknowledge that the French proposal was vastly more sane than
+that made in our own country.  Those French issues of paper rested not
+merely "on the will of a free people," but on one-third of the entire
+landed property of France; on the very choicest of real property in
+city and country--the confiscated estates of the Church and of the
+fugitive aristocracy--and on the power to use the paper thus issued in
+purchasing this real property at very low prices.
+
+I have taken all pains to be exact, revising the whole paper in the
+light of the most recent publications and giving my authority for
+every important statement, and now leave the whole matter with my
+readers.
+
+At the request of a Canadian friend, who has expressed a strong wish
+that this work be brought down to date, I have again restudied the
+subject in the light of various works which have appeared since my
+earlier research,--especially Levasseur's "Histoire des classes
+ouvrières et de l'industrie en France,"--one of the really great
+books of the twentieth century;--Dewarmin's superb "Cent Ans de
+numismatique Française" and sundry special treatises.  The result has
+been that large additions have been made regarding some important
+topics, and that various other parts of my earlier work have been made
+more clear by better arrangement and supplementary information.
+
+ANDREW D. WHITE.
+Cornell University,
+September, 1912.
+
+
+FOREWORD BY MR. JOHN MACKAY
+
+I am greatly indebted to the generosity of Mr. Andrew D. White, the
+distinguished American scholar, author and diplomatist, for permission
+to print and to circulate privately a small edition of his exceedingly
+valuable account of the great currency-making experiment of the French
+Revolutionary Government.  The work has been revised and considerably
+enlarged by Mr. White for the purpose of the present issue.
+
+The story of "Fiat Money Inflation in France" is one of great interest
+to legislators, to economic students, and to all business and thinking
+men.  It records the most gigantic attempt ever made in the history of
+the world by a government to create an inconvertible paper currency,
+and to maintain its circulation at various levels of value.  It also
+records what is perhaps the greatest of all governmental efforts--with
+the possible exception of Diocletian's--to enact and enforce a legal
+limit of commodity prices.  Every fetter that could hinder the will or
+thwart the wisdom of democracy had been shattered, and in consequence
+every device and expedient that untrammelled power and unrepressed
+optimism could conceive were brought to bear.  But the attempts
+failed.  They left behind them a legacy of moral and material
+desolation and woe, from which one of the most intellectual and
+spirited races of Europe has suffered for a century and a quarter, and
+will continue to suffer until the end of time.  There are limitations
+to the powers of governments and of peoples that inhere in the
+constitution of things, and that neither despotisms nor democracies
+can overcome.
+
+Legislatures are as powerless to abrogate moral and economic laws as
+they are to abrogate physical laws.  They cannot convert wrong into
+right nor divorce effect from cause, either by parliamentary
+majorities, or by unity of supporting public opinion.  The penalties
+of such legislative folly will always be exacted by inexorable time.
+While these propositions may be regarded as mere commonplaces, and
+while they are acknowledged in a general way, they are in effect
+denied by many of the legislative experiments and the tendencies of
+public opinion of the present day.  The story, therefore, of the
+colossal folly of France in the closing part Of the eighteenth century
+and its terrible fruits, is full of instruction for all men who think
+upon the problems of our own time.
+
+From among an almost infinite variety, there are four great and
+fundamental facts that clearly emerge, namely,--
+
+(1) Notwithstanding the fact that the paper currency issued was the
+direct obligation of the State, that much of it was interest bearing,
+and that all of it was secured upon the finest real estate in France,
+and that penalties in the way of fines, imprisonments and death were
+enacted from time to time to maintain its circulation at fixed values,
+there was a steady depreciation in value until it reached zero point
+and culminated in repudiation.  The aggregate of the issues amounted
+to no less than the enormous and unthinkable sum of $9,500,000,000,
+and in the middle of 1797 when public repudiation took place, there
+was no less than $4,200,000,000 in face value of _assignats_ and
+_mandats_ outstanding; the loss, as always, falling mostly upon the
+poor and the ignorant.
+
+(2) In the attempt to maintain fixed values for the paper currency the
+Government became involved in an equally futile attempt to maintain a
+tariff of legal prices for commodities.  Here again penalties of
+fines, of imprisonments and of death were powerless to accomplish the
+end in view.
+
+(3) An wholesale demoralisation of society took place under which
+thrift, integrity, humanity, and every principle of morality were
+thrown into the welter of seething chaos and cruelty.
+
+(4) The real estate upon which the paper currency was secured
+represented confiscations by the State of the lands of the Church and
+of the Emigrant Noblemen.  These lands were appraised, according to
+Mr.  White's narrative and other authorities, at $1,000,000,000.  Here
+was a straight addition to the State's resources of $1,000,000,000.
+It is ominously significant that within one hundred years under the
+"Peace of Frankfort" signed on the 10th May, 1871, the French nation
+agreed to pay a war indemnity to victorious Germany of exactly the
+same sum, namely, $1,000,000,000 in addition to the surrender of the
+province of Alsace and a considerable part of Lorraine.  The great
+addition to the national wealth, therefore, effected by the immoral
+confiscation of the lands in question disappeared with compound
+territorial interest added under the visitation of relentless
+retribution.
+
+Public opinion in our own country is so far sound on the question of
+currency, but signs are not lacking in some lay quarters of an
+inclination to sanction dangerous experiments.  The doctrine of
+governmental regulation of prices, has, however, made its appearance
+in embryo.  Class dissatisfaction is also on the increase.  The
+confiscation of property rights under legal forms and processes is apt
+to be condoned when directed against unpopular interests and when
+limited to amounts that do not revolt the conscience.  The wild and
+terrible expression given to these insidious principles in the havoc
+of the Revolution should be remembered by all.  Nor should the fact be
+overlooked that, as Mr. White points out on Page 6, the National
+Assembly of France which originated and supported these measures
+contained in its membership the ablest Frenchmen of the day.
+
+JOHN MACKAY.
+Toronto General Trusts Building,
+Toronto, 31st March, 1914.
+
+
+FIAT MONEY INFLATION IN FRANCE
+How It Came, What It Brought, and How It Ended[1]
+
+
+I.
+
+Early in the year 1789 the French nation found itself in deep
+financial embarrassment: there was a heavy debt and a serious deficit.
+
+The vast reforms of that period, though a lasting blessing
+politically, were a temporary evil financially.  There was a general
+want of confidence in business circles; capital had shown its
+proverbial timidity by retiring out of sight as far as possible;
+throughout the land was stagnation.
+
+Statesmanlike measures, careful watching and wise management would,
+doubtless, have ere long led to a return of confidence, a reappearance
+of money and a resumption of business; but these involved patience and
+self-denial, and, thus far in human history, these are the rarest
+products of political wisdom.  Few nations have ever been able to
+exercise these virtues; and France was not then one of these few.[2]
+
+There was a general search for some short road to prosperity: ere long
+the idea was set afloat that the great want of the country was more of
+the circulating medium; and this was speedily followed by calls for an
+issue of paper money.  The Minister of Finance at this period was
+Necker.  In financial ability he was acknowledged as among the great
+bankers of Europe, but his was something more than financial ability:
+he had a deep feeling of patriotism and a high sense of personal
+honor.  The difficulties in his way were great, but he steadily
+endeavored to keep France faithful to those principles in monetary
+affairs which the general experience of modem times had found the only
+path to national safety.  As difficulties arose the National Assembly
+drew away from him, and soon came among the members renewed
+suggestions of paper money: orators in public meetings, at the clubs
+and in the Assembly, proclaimed it a panacea--a way of "securing
+resources without paying interest."  Journalists caught it up and
+displayed its beauties, among these men, Marat, who, in his newspaper,
+"The Friend of the People," also joined the cries against Necker,
+picturing him--a man of sterling honesty, who gave up health and
+fortune for the sake of France--as a wretch seeking only to enrich
+himself from the public purse.
+
+Against this tendency toward the issue of irredeemable paper Necker
+contended as best he might.  He knew well to what it always had led,
+even when surrounded by the most skillful guarantees.  Among those who
+struggled to support ideas similar to his was Bergasse, a deputy from
+Lyons, whose pamphlets, then and later, against such issues exerted a
+wider influence, perhaps, than any others: parts of them seem fairly
+inspired.  Any one to-day reading his prophecies of the evils sure to
+follow such a currency would certainly ascribe to him a miraculous
+foresight, were it not so clear that his prophetic power was due
+simply to a knowledge of natural laws revealed by history.  But this
+current in favor of paper money became so strong that an effort was
+made to breast it by a compromise: and during the last months of 1789
+and the first months of 1790 came discussions in the National Assembly
+looking to issues of notes based upon the landed property of the
+Church,--which was to be confiscated for that purpose.  But care was
+to be taken; the issue was to be largely in the shape of notes of
+1,000, 300 and 200 _livres_, too large to be used as ordinary
+currency, but of convenient size to be used in purchasing the Church
+lands; besides this, they were to bear interest and this would tempt
+holders to hoard them.  The Assembly thus held back from issuing
+smaller obligations.
+
+Remembrances of the ruin which had come from the great issues of
+smaller currency at an earlier day were still vivid.  Yet the pressure
+toward a popular currency for universal use grew stronger and
+stronger.  The finance committee of the Assembly reported that "the
+people demand a new circulating medium"; that "the circulation of
+paper money is the best of operations"; that "it is the most free
+because it reposes on the will of the people"; that "it will bind the
+interest of the citizens to the public good."
+
+The report appealed to the patriotism of the French people with the
+following exhortation: "Let us show to Europe that we understand our
+own resources; let us immediately take the broad road to our
+liberation instead of dragging ourselves along the tortuous and
+obscure paths of fragmentary loans."  It concluded by recommending an
+issue of paper money carefully guarded, to the full amount of four
+hundred million _livres_, and the argument was pursued until the
+objection to smaller notes faded from view.  Typical in the debate on
+the whole subject, in its various phases, were the declarations of
+M. Matrineau.  He was loud and long for paper money, his only fear
+being that the Committee had not authorized enough of it; he declared
+that business was stagnant, and that the sole cause was a want of more
+of the circulating medium; that paper money ought to be made a legal
+tender; that the Assembly should rise above prejudices which the
+failures of John Law's paper money had caused, several decades before.
+Like every supporter of irredeemable paper money then or since, he
+seemed to think that the laws of Nature had changed since previous
+disastrous issues.  He said: "Paper money under a despotism is
+dangerous; it favors corruption; but in a nation constitutionally
+governed, which itself takes care in the emission of its notes, which
+determines their number and use, that danger no longer exists."  He
+insisted that John Law's notes at first restored prosperity, but that
+the wretchedness and ruin they caused resulted from their overissue,
+and that such an overissue is possible only under a despotism.[3]
+
+M. de la Rochefoucauld gave his opinion that "the _assignats_ will
+draw specie out of the coffers where it is now hoarded.[4]
+
+On the other hand Cazalès and Maury showed that the result could only
+be disastrous.  Never, perhaps, did a political prophecy meet with
+more exact fulfillment in every line than the terrible picture drawn
+in one of Cazalès' speeches in this debate.  Still the current ran
+stronger and stronger; Petion made a brilliant oration in favor of the
+report, and Necker's influence and experience were gradually worn
+away.
+
+Mingled with the financial argument was a strong political plea.  The
+National Assembly had determined to confiscate the vast real property
+of the French Church,--the pious accumulations of fifteen hundred
+years.  There were princely estates in the country, bishops' palaces
+and conventual buildings in the towns; these formed between one-fourth
+and one-third of the entire real property of France, and amounted in
+value to at least two thousand million _livres_.  By a few sweeping
+strokes all this became the property of the nation.  Never,
+apparently, did a government secure a more solid basis for a great
+financial future.[5]
+
+There were two special reasons why French statesmen desired speedily
+to sell these lands.  First, a financial reason,--to obtain money to
+relieve the government.  Secondly, a political reason,--to get this
+land distributed among the thrifty middle-classes, and so commit them
+to the Revolution and to the government which gave their title.
+
+It was urged, then, that the issue of four hundred millions of paper,
+(not in the shape of interest-bearing bonds, as had at first been
+proposed, but in notes small as well as large), would give the
+treasury something to pay out immediately, and relieve the national
+necessities; that, having been put into circulation, this paper money
+would stimulate business; that it would give to all capitalists, large
+or small, the means for buying from the nation the ecclesiastical real
+estate, and that from the proceeds of this real estate the nation
+would pay its debts and also obtain new funds for new necessities:
+never was theory more seductive both to financiers and statesmen.
+
+It would be a great mistake to suppose that the statesmen of France,
+or the French people, were ignorant of the dangers in issuing
+irredeemable paper money.  No matter how skillfully the bright side of
+such a currency was exhibited, all thoughtful men in France remembered
+its dark side.  They knew too well, from that ruinous experience,
+seventy years before, in John Law's time, the difficulties and dangers
+of a currency not well based and controlled.  They had then learned
+how easy it is to issue it; how difficult it is to check its
+overissue; how seductively it leads to the absorption of the means of
+the workingmen and men of small fortunes; how heavily it falls on all
+those living on fixed incomes, salaries or wages; how securely it
+creates on the ruins of the prosperity of all men of meagre means a
+class of debauched speculators, the most injurious class that a nation
+can harbor,--more injurious, indeed, than professional criminals whom
+the law recognizes and can throttle; how it stimulates overproduction
+at first and leaves every industry flaccid afterward; how it breaks
+down thrift and develops political and social immorality.  All this
+France had been thoroughly taught by experience.  Many then living had
+felt the result of such an experiment--the issues of paper money under
+John Law, a man who to this day is acknowledged one of the most
+ingenious financiers the world has ever known; and there were then
+sitting in the National Assembly of France many who owed the poverty
+of their families to those issues of paper.  Hardly a man in the
+country who had not heard those who issued it cursed as the authors of
+the most frightful catastrophe France had then experienced.[6]
+
+It was no mere attempt at theatrical display, but a natural impulse,
+which led a thoughtful statesman, during the debate, to hold up a
+piece of that old paper money and to declare that it was stained with
+the blood and tears of their fathers.
+
+And it would also be a mistake to suppose that the National Assembly,
+which discussed this matter, was composed of mere wild revolutionists;
+no inference could be more wide of the fact.  Whatever may have been
+the character of the men who legislated for France afterward, no
+thoughtful student of history can deny, despite all the arguments and
+sneers of reactionary statesmen and historians, that few more
+keen-sighted legislative bodies have ever met than this first French
+Constitutional Assembly.  In it were such men as Sieyès, Bailly,
+Necker, Mirabeau, Talleyrand, DuPont de Nemours and a multitude of
+others who, in various sciences and in the political world, had
+already shown and were destined afterward to show themselves among the
+strongest and shrewdest men that Europe has yet seen.
+
+But the current toward paper money had become irresistible.  It was
+constantly urged, and with a great show of force, that if any nation
+could safely issue it, France was now that nation; that she was fully
+warned by her severe experience under John Law; that she was now a
+constitutional government, controlled by an enlightened, patriotic
+people,--not, as in the days of the former issues of paper money, an
+absolute monarchy controlled by politicians and adventurers; that she
+was able to secure every _livre_ of her paper money by a virtual
+mortgage on a landed domain vastly greater in value than the entire
+issue; that, with men like Bailly, Mirabeau and Necker at her head,
+she could not commit the financial mistakes and crimes from which
+France had suffered under John Law, the Regent Duke of Orleans and
+Cardinal Dubois.
+
+Oratory prevailed over science and experience.  In April, 1790, came
+the final decree to issue four hundred millions of _livres_ in paper
+money, based upon confiscated property of the Church for its security.
+The deliberations on this first decree and on the bill carrying it
+into effect were most interesting; prominent in the debate being
+Necker, Du Pont de Nemours, Maury, Cazalès, Petion, Bailly and many
+others hardly inferior.  The discussions were certainly very able; no
+person can read them at length in the "Moniteur," nor even in the
+summaries of the parliamentary history, without feeling that various
+modern historians have done wretched injustice to those men who were
+then endeavoring to stand between France and ruin.
+
+This sum--four hundred millions, so vast in those days, was issued in
+_assignats_, which were notes secured by a pledge of productive real
+estate and bearing interest to the holder at three per cent.  No
+irredeemable currency has ever claimed a more scientific and practical
+guarantee for its goodness and for its proper action on public
+finances.  On the one hand, it had what the world recognized as a most
+practical security,--a mortgage an productive real estate of vastly
+greater value than the issue.  On the other hand, as the notes bore
+interest, there seemed cogent reason for their being withdrawn from
+circulation whenever they became redundant.[7]
+

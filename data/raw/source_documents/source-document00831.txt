@@ -1,0 +1,392 @@
+﻿The papyrus containing the odes of Bacchylides was found in Egypt by
+natives, and reached the British Museum in the autumn of 1896. It was then
+in about 200 pieces. By the skill and industry of Mr F. G. Kenyon, the
+editor of the _editio princeps_ (1897), the MS. was reconstructed from
+these lacerated members. As now arranged, the MS. consists of three
+sections, (1) The first section contains 22 columns of writing. It breaks
+off after the 8 opening verses of Ode xii. (2) The second section contains
+columns 23-29. Of these, column 23 is represented only by the last letters
+of two words. This section comprises what remains of Odes xiii. and xiv. It
+breaks off before the end of xiv., which is the last of the epinikia. (3)
+The third section comprises columns 30-39. It begins with the mutilated
+opening verses of Ode xv. ([Greek: Antênoridai], the first of the
+dithyrambs), and breaks off after verse 11 of the last dithyramb,[Greek:
+Idas]. The number of lines in a column varies from 32 to 36, the usual
+number being 35, or (though less often) 34.
+
+It is impossible to say how much has been lost between the end of column 29
+and the beginning of column 30. Probably, however, Ode xiv., if not the
+last, was nearly the last of the epinikia. It concerns a festival of a
+merely local character, the Thessalian [Greek: Petraia], and was therefore
+placed after the thirteen other epinikia, which are connected with the four
+great festivals. The same lacuna leaves it doubtful whether any collective
+title was prefixed to the [Greek: dithuramboi]. After the last column (39)
+of the MS., a good deal has probably been lost. Bacchylides seems to have
+written at least three other poems of this class (on Cassandra, Laocoon and
+Philoctetes); and these would have come, in alphabetical order, after the
+last of the extant six (Idas).
+
+The writing of the MS. is a fine uncial. It presents some traits of a
+distinctly Ptolemaic type, though it lacks some features found in the
+earlier Ptolemaic MSS. (those of the 3rd or 2nd century B.C.). Among the
+characteristic forms of letters is the [form of Upsilon], with a shallow
+curve on the top of the upright; a form found in MSS. ascribed to the 1st
+century B.C., and different from the more fully formed upsilon of the Roman
+period. Another very significant letter is the [Xi], written as [form of
+Xi], a form which begins to go out after _c._ 50 B.C., giving place to one
+in which the middle stroke is connected with the other two. From these and
+other indications it is probable that the MS. is not later than the middle
+of the 1st century B.C.
+
+The scribe, though he sometimes corrected his own mistakes, was, on the
+whole, careless of the sense, as of the metre; he seems to have been a
+mechanical copyist, excellent in penmanship, but [v.03 p.0124] intent only
+on the letters. The MS. has received corrections or small supplements from
+at least two different persons. One of them (Kenyon's A²) was contemporary,
+or nearly so, with the scribe. The other (A³) was considerably later; he
+wrote a Roman cursive which might belong to the end of the 1st century
+A.D., or to the early part of the 2nd. The correctors seem to be generally
+trustworthy; though, like the scribe, they were inattentive to metre,
+passing over many metrical faults which could easily have been removed.
+They appear to have compared their MS. with another, or others; but they
+sometimes made a bad use of such aid, intruding a false reading where their
+text had the true one.
+
+Breathings are generally added, especially rough breathings; the form is
+usually square, but sometimes partially rounded. Accents are added, not to
+all words, but only, as a rule, to those which might cause doubt or
+difficulty to the reader. This was the Alexandrian practice, accents being
+regarded as aids to correct reading, and more liberally used when the
+dialect was not Attic. In accordance with the older system, the accent is
+not written on the last syllable of a word; when the accent falls there, a
+grave accent is written on the preceding syllable, or on two such syllables
+(_e.g._ [Greek: blêchras, pauthalês]).
+
+As Kenyon observes, no MS. of equal antiquity is so well supplied with
+accents. The MS. which comes nearest to it in this respect is the Alcman
+fragment in the Louvre, which is of similar or slightly higher age,
+belonging perhaps to the early part of the 1st century A.D.; and in that
+MS. the comparatively frequent accents were doubtless designed to aid
+readers unfamiliar with Alcman's Laconian Doric. With regard to other
+grammatical or metrical signs ([Greek: prosôidiai]) used in the Bacchylides
+MS., there is not much that calls for special remark. The punctuation,
+whether by the scribe or by correctors, is very sparse, and certainly
+cannot always be regarded as authoritative. The signs denoting the end of a
+strophe or antistrophe (_paragraphus_), of an epode (_coronis_), or of an
+ode (_asterisk_), are often omitted by the scribe, and, when employed, are
+sometimes placed incorrectly, or employed in an irregular manner.
+
+EDITIONS.--F. G. Kenyon, _Ed. princeps_ (1897); F. Blass, 3rd ed. (1904);
+H. Jurenka (1898); N. Festa, text, translation and notes (1898). [The
+latest edition is by Sir Richard Jebb (1905), with introduction, notes,
+translation, and bibliography; text only (1906). See also T. Zanghieri,
+_Studi su Bacchilide, Bibliografia Bacchilidea, 1897-1905_ (1905)].
+
+(R. C. J.)
+
+[1] The references are given according to the numbering in Jebb's edition.
+
+[2] For other explanations suggested, see Jebb's edition, Introd. p. 18.
+
+BACCIO D'AGNOLO (_c._ 1460-1543), Florentine wood-carver, sculptor and
+architect, had the family name of Baglioni, but was always known by the
+abbreviation of Bartolommeo into Baccio and the use of d'Agnolo as meaning
+the son of Angelo, his father's name. He started as a wood-carver, and
+between 1491 and 1502 did much of the decorative carving in the church of
+Santa Maria Novella and the Palazzo Vecchio in Florence. Having made his
+reputation as a sculptor he appears to have turned his attention to
+architecture, and to have studied at Rome, though at what precise date is
+uncertain; but quite at the beginning of the 16th century he was engaged
+with Simon Pollajuolo in restoring the Palazzo Vecchio, and in 1506 he was
+commissioned to complete the drum of the cupola of the metropolitan church
+of Santa Maria del Fiore. The latter work, however, was interrupted on
+account of adverse criticisms from Michelangelo, and it remained
+unexecuted. Baccio d' Agnolo also planned the Villa Borghese and the
+Bartolini palace, with other fine palaces and villas. The Bartolini palace
+was the first house to be given frontispieces of columns to the door and
+windows, previously confined to churches; and he was ridiculed by the
+Florentines for his innovation. Another much-admired work by him was the
+campanile of the church of Santo Spirito. His studio was the resort of the
+most celebrated artists of the day, Michelangelo, Sansovino, the brothers
+Sangallo and the young Raphael. He died in 1543, leaving three sons, all
+architects, the best-known being Giuliano.
+
+BACH, JOHANN SEBASTIAN (1685-1750), German musical composer.
+
+[Sidenote: Family.]
+
+The Bach family was of importance in the history of music for nearly two
+hundred years. Four branches of it were known at the beginning of the 16th
+century, and in 1561 we hear of Hans Bach of Wechmar who is believed to be
+the father of Veit Bach (born about 1555). The family genealogy, drawn up
+by J. Sebastian Bach himself and completed by his son Philipp Emanuel,
+describes Veit Bach as the founder of the family, a baker and a miller,
+"whose zither must have sounded very pretty among the clattering of the
+mill-wheels." His son, Hans Bach, "_der Spielmann_," is the first
+professional musician of the family. Of Hans's large family the second son,
+Christoph, was the grandfather of Sebastian Bach. Another son, Heinrich, of
+Arnstadt, had two sons, Johann Michael and Johann Christoph, who are among
+the greatest of J. S. Bach's forerunners, Johann Christoph being now
+supposed (although this is still disputed) to be the author of the splendid
+motet, _Ich lasse dich nicht_ ("I wrestle and pray"), formerly ascribed to
+Sebastian Bach. Another descendant of Veit Bach, Johann Ludwig, was admired
+more than any other ancestor by Sebastian, who copied twelve of his church
+cantatas and sometimes added work of his own to them.
+
+The Bach family never left Thuringia until the sons of Sebastian went into
+a more modern world. Through all the misery of the peasantry at the period
+of the Thirty Years' War this clan maintained its position and produced
+musicians who, however local their fame, were among the greatest in Europe.
+So numerous and so eminent were they that in Erfurt musicians were known as
+"Bachs," even when there were no longer any members of the family in the
+town. Sebastian Bach thus inherited the artistic tradition of a united
+family whose circumstances had deprived them of the distractions of the
+century of musical fermentation which in the rest of Europe had destroyed
+polyphonic music.
+
+[Sidenote: Biography.]
+
+Johann Sebastian Bach was baptized at Eisenach on the 23rd of March 1685.
+His parents died in his tenth year, and his elder brother, Johann
+Christoph, organist at Ohrdruf, took charge of him and taught him music.
+The elder brother is said to have been jealous of Sebastian's talent, and
+to have forbidden him access to a manuscript volume of works by Froberger,
+Buxtehude and other great organists. Every night for six months Sebastian
+got up, put his hand through the lattice of the bookcase, and copied the
+volume out by moonlight, to the permanent ruin of his eyesight (as is shown
+by all the extant portraits of him at a later age and by the blindness of
+his last years). When he had finished, his brother discovered the copy and
+took it away from him. In 1700 Sebastian, now fifteen and thrown on his own
+resources by the death of his brother, went to Lüneburg, where his
+beautiful soprano voice obtained him an appointment at the school of St
+Michael as chorister. He seems, however, to have worked more at
+instrumental than at vocal music. Apart from the choristers' routine, his
+position provided only for his general education, and we know little about
+his definite musical instructors. In any case he owed his musical
+development mainly to his own incessant study of classical and contemporary
+composers, such as Frescobaldi (_c._ 1587), Caspar Kerl (1628-1693),
+Buxtehude, Froberger, Muffat the elder, Pachelbel and probably Johann
+Joseph Fux (1660-1741), the author of the _Gradus ad Parnassum_ on which
+all later classical composers were trained. A prettier and no less
+authentic story than that of his brother's forbidden organ-volume tells
+how, on his return from one of the many holiday expeditions which Bach made
+to Hamburg on foot to hear the great Dutch organist Reinken, he sat outside
+an inn longing for the dinner he could not afford, when two herring-heads
+were flung out of the window, and he found in each of them a ducat with
+which he promptly paid his way, not home, but back to Hamburg. At Hamburg,
+also, Keiser was laying the foundations of German opera on a splendid scale
+which must have fired Bach's imagination though it never directly
+influenced his style. On the other hand Keiser's church music was of
+immense importance in his development. In Celle the famous _Hofkapelle_
+brought the influence of French music to bear upon Bach's art, an influence
+which inspired nearly all his works in suite-form and to which his many
+autograph copies of Couperin's music bear testimony. Indeed, there is no
+branch of music, from Palestrina onwards, conceivably accessible in Bach's
+time, of which we do not find specimens carefully copied in his own
+handwriting. On the other hand, when Bach, at the age of nineteen, became
+organist at Arnstadt, he found Lübeck within easy distance, and there, in
+October 1705, he went to hear Buxtehude, whose organ works show so close an
+affinity to Bach's style that only their lack of coherence as wholes
+reveals to the attentive listener that with all their nobility they are not
+by Bach himself. Bach's enthusiasm for Buxtehude caused him to outstay his
+leave by three months, and this, together with his [v.03 p.0125] habit of
+astonishing the congregation by the way he harmonized the chorales got him
+into trouble. But he was already too great an ornament to be lightly
+dismissed; and though his answers to the complaints of the authorities
+(every word of which makes amusing reading in the archives of the church)
+were spirited rather than satisfactory, and the _consistorium_ had to add
+to their complaints the grave scandal of his allowing a "strange maiden" to
+sing in the church,[1] Bach was able to maintain his position at Arnstadt
+until he obtained the organistship of St Blasius in Mühlhausen in 1707.
+Here he married his cousin, easily identified with the "strange maiden" of
+Arnstadt; and here he wrote his first great church cantatas, _Aus der
+Tiefe_, _Gott ist mein König_ and _Gottes Zeit_.
+
+Bach's mastery of the keyboard attracted universal attention, and prevented
+his ever being unemployed. In 1708 he went to Weimar where his successes
+were crowned by his appointment, in 1714, at the age of twenty-nine, as
+_Hofkonzertmeister_ to the duke of Weimar. Here the composition of sacred
+music was one of his most congenial duties, and the great cantata, _Ich
+hatte viel Bekümmerniss_, was probably the first work of his new office. In
+1717 Bach visited Dresden in the course of a concert tour, and was induced
+to challenge the arrogant French organist, J. Louis Marchand, who was
+making himself thoroughly disliked by the German musicians who could not
+deny his powers. Bach was first given an opportunity of listening secretly
+to Marchand's playing, then a competition on the organ was proposed, and a
+day was fixed for the tournament at which all the court and all the musical
+celebrities of the town were to be present, to see nothing less than the
+issue between French and German music. Marchand took up the challenge
+contemptuously, but it would appear that he also was allowed to listen
+secretly to Bach's playing, for on the day of the tournament the only news
+of him was that he had left Dresden by the earliest coach.
+
+This triumph was followed by Bach's appointment as _Kapellmeister_ to the
+duke of Cöthen, a post which he held from 1717 to 1723. The Cöthen period
+is that of Bach's central instrumental works, such as the first book of the
+_Wohltemperirtes Klavier_, the solo violin and violoncello sonatas, the
+Brandenburg concertos, and the French and English suites.
+
+In 1723, finding his position at Cöthen uninspiring for choral music, he
+removed to Leipzig, where he became cantor of the Thomasschule, being still
+able to retain his post as visiting _Kapellmeister_ at Cöthen, besides a
+similar position at Weissenfels. His wife had died in 1720, leaving seven
+children, of whom Friedermann and Philipp Emanuel had a great future before
+them. (For his sons see BACH, K. P. E., below.) In December 1721 Bach
+married again, and for the beautiful soprano voice of his second wife he
+wrote many of his most inspired arias. She was a great help to him with all
+his work, and her musical handwriting soon became so like his own that her
+copies are difficult to distinguish from his autographs. In 1729 Bach heard
+that Handel was for a second time visiting Halle on his way back to London
+from Italy. A former attempt of Bach's to meet Handel had failed, and now
+he was too ill to travel, so he sent his son to Halle to invite Handel to
+Leipzig; but the errand was not successful, and much to Bach's
+disappointment he never met his only compeer. Bach so admired Handel that
+he made a manuscript copy of his _Passion nach Brockes_. This work, though
+almost unknown in England then as now, was, next to the oratorios of
+Keiser, incomparably the finest Passion then accessible, as Graun's
+beautiful masterpiece, _Der Tod Jesu_, was not composed until four years
+after Bach's death. The disgusting poem of Brockes (which was set by every
+German composer of the time) was transformed by Bach with real literary
+skill as the groundwork of the non-scriptural numbers in his _Passion
+according to St John_.
+
+All Bach's most colossal achievements, such as the _Passion according to St
+Matthew_ and the _B Minor Mass_ (for discussion of which see ORATORIO and
+MASS), date from his cantorship at Leipzig. But, important and congenial as
+was his position there, and smooth as the course of his life seems to have
+been until his death in 1750, he must have had quite as much experience as
+can have been good for him. He was often ruffled by the town councillors of
+Leipzig, who (like his earlier employers at Arnstadt) were shocked by the
+"unecclesiastical style" of his compositions and by his independent
+bearing. But he had more serious troubles. Of his seven children by his
+first wife only three survived him. By his second wife he had thirteen
+children, of whom he lost four of the six sons. For the head of so large a
+family his post was dignified rather than lucrative, and few documents tell
+a prouder tale of uncomplaining thrift than the inventory of his
+possessions made after his death. One can only be thankful that he did not
+live to see anything but the wonderful promise of his son Friedermann, who,
+in the words of the brilliantly successful K. Philipp Emanuel Bach, was
+more nearly capable of replacing his father than all the rest of the family
+together. The prospect of complete loss of the tradition of his own
+polyphonic art he faced with equanimity, saying of the new style, which in
+the hands of his own son, Philipp Emanuel, was soon to eclipse it for the
+next hundred years, "The art has advanced to great heights: the old style
+of music no longer pleases our modern ears." But it would have broken his
+heart if he had forseen that Friedermann Bach was to attain a disreputable
+old age after a dissolute and unproductive life.
+
+The brilliant successes of Philipp Emanuel led to his appointment as
+court-composer to the king of Prussia and hence, in 1747, to Sebastian's
+being summoned to visit Frederick the Great at Potsdam, an incident which
+Bach always regarded as the culmination of his career, much as Dr Johnson
+regarded his interview with George III. Bach had to play on the numerous
+newly invented pianofortes of Silbermann which the king had bought, and
+also to try the organs of the churches of Potsdam. Frederick, whose musical
+reputation rested on a genuine if narrow basis, gave him a splendid theme
+on which to extemporize; and on that theme Bach afterwards wrote _Das
+musikalische Opfer_. Two years after this event his sight began to fail,
+and before long he shared the fate of Handel in becoming perfectly
+blind.[2]
+
+Bach died of apoplexy on the 28th of July 1750. His loss was deplored as
+that of one of the greatest organists and clavier players of his time. Of
+his compositions comparatively little was known. At his death his MS. works
+were divided amongst his sons, and many of them have been lost; only a
+small fraction of his greater works was recovered when, after the lapse of
+nearly a century, the verdict of his neglectful posterity was reversed by
+the modern upholders of polyphonic art. Even now some important works are
+still apparently irrecoverable.
+
+[Sidenote: Work and influence.]
+
+The rediscovery of Bach is closely connected with the name of Mendelssohn,
+who was amongst the first to proclaim by word and deed the powers of a
+genius too gigantic to be grasped by three generations. By the enthusiastic
+endeavours of Mendelssohn, Schumann and others, and in England still
+earlier by the performances and publications of Wesley and Crotch, the
+circle of Bach's worshippers rapidly increased. In 1850, a century after
+his death, a society was started for the correct publication of all Bach's
+remaining works. Robert Franz, the great song-writer, did good service in
+arranging some of Bach's finest works for modern performance, until the
+experience of a purer scholarship could prove not only the possibility but
+the incomparably greater beauty of a strict adherence to Bach's own
+scoring. The Porson of Bach-scholarship, however, is Wilhelm Rust (grandson
+of the interesting composer of that name who wrote polyphonic suites and
+fantasias early in the 19th century). During the fourteen years of his
+editorship of the _Bach-Gesellschaft_ he displayed a steadily increasing
+insight into Bach's style which has never since been rivalled. In more than
+one case he has restored harmonies of priceless value from incomplete
+texts, by means of research and reasoning which he sums up in a modest
+footnote that reads as something self-evident. His prefaces to the
+_Bach-Gesellschaft_ volumes are perhaps the most valuable contributions to
+the criticism of 18th-century music ever written, Spitta's great biography
+not excepted.
+
+[v.03 p.0126] Bach's importance in the history of music cannot be
+exaggerated. His art, neglected as old-fashioned and crabbed by his younger
+contemporaries, survived only in certain limited aspects as the subject of
+a desultory and unintelligent academic study, until its re-discovery by
+Mendelssohn. And yet, whatever disguise may have been foisted on it by
+corrupt traditions and ignorance of its idioms, whenever any fragment of it
+gained the inner ear of a true composer the effect on the history of music
+was immediate and profound. Indeed his influence is by no means chiefly
+manifested in the time when his work became known in its larger aspects,
+though the Bach-revival is very obviously connected with certain tendencies
+in the "Romantic" movement in music. But, however clear we may consider
+Bach's claim to the title of "the first of Romanticists," the full
+influence of his whole work has hardly yet begun to show itself. Schumann
+died before even such enthusiasts as the editors of the _Bach-Gesellschaft_
+began to find more beauty than extravagance in Bach's ordinary musical
+language (see, for example, Hauptmann's letters _passim_, _The Letters of a
+Leipzig Cantor_, trans. by A. D. Coleridge, London, Novello, Ewer, 1892),
+or, indeed, to grasp the main features of his designs.[3] The labours of
+the _Bach-Gesellschaft_ have occupied more than fifty years, during which
+about four-fifths of Bach's choral works have been published for the first
+time; and it would be surprising if another fifty years sufficed to make
+these adequately known to the world at large. It is difficult to make an
+anthology of such bulky works as church-cantatas, nor does an anthology
+meet the purpose where the whole work so constantly attains that excellence
+for which the anthologist seeks. Except for practical difficulties (as when
+Bach writes for obsolete instruments) the only reason why some cantatas are
+better known than others is that a beginning must be made somewhere.
+Indeed, a cantata was recently selected, on the ground of its popularity,
+for a choral competition in a small English country town the year before it
+was performed as a novelty in Berlin!
+
+It is clear, then, that the influence of Bach's art as an understood whole
+is still undeveloped. In the past history of music his part was hardly
+suspected except by the great composers themselves; and, to any one
+contemplating the art of the generation after him, it might have seemed
+that both he and Handel had worked in vain. Yet his was the most subtle and
+universal force in the development of music, even when his musical language
+seemed hopelessly forgotten. Mozart, when rapidly advancing to the height
+of his mastery, had but to read the Baron von Swieten's manuscript copies
+of the motets and of the _Wohltemperirtes Klavier_, and his style, quite
+apart from his immediate essays in the old art-forms, and apart also from
+the influence of his study of Handel, developed a new polyphonic richness
+and depth of harmony which steadily increased until his untimely death.
+Beethoven studied all the accessible works of Bach profoundly, and
+frequently quoted them in his sketch-books, often with a direct bearing on
+his own works. His rendering of the _Wohltemperirtes Klavier_ is said to be
+recorded in the marks of expression and _tempo_ given in Czerny's edition;
+and if that record is true, Beethoven must have been completely in the dark
+as to Bach's meaning in many important respects; but art is full of such
+illustrations of the way in which great minds influence each other in spite
+of every barrier which diversity of language and time can set. Beethoven's
+great Thirty-three Variations on a Waltz by Diabelli were actually
+described in the publisher's puff as worthy of their kinship with the
+"Goldberg Variations" of Bach; and that kinship is revealed in its truest
+light by a comparison between Beethoven's 31st variation and Bach's 25th;
+for here, just where the resemblance is most obvious, each composer utters
+his most intimate expression of feeling.
+
+In the same way, Chopin is nowhere more characteristic than where he shows
+his love of the _Wohltemperirtes Klavier_ in his Études and Preludes; and
+so subtle is the influence of polyphonic style even over a writer so little
+apt to make direct use of it as Chopin, that one of Schumann's few
+plagiarisms occurs in his use of a phrase from Chopin's F minor Étude
+(written for the _Méthode des méthodes_) as the subject of a fugue (Op. 72,
+No. 3). And, apart from fugues, which Schumann cultivated assiduously at a
+late stage in his career, the influence of Bach pervades the texture and
+rhythm of his work in more ways than can easily be followed.
+

@@ -1,0 +1,634 @@
+﻿Produced by Ted Garvin, David Garcia
+and the Online Distributed Proofreading Team.
+
+
+THE ELEGIES OF TIBULLUS
+
+BEING
+
+THE CONSOLATIONS OF A ROMAN LOVER
+
+DONE IN ENGLISH VERSE
+
+
+BY THEODORE C. WILLIAMS
+
+
+  1908
+
+
+TO WILLIAM COE COLLAR
+HEAD MASTER OF THE
+ROXBURY LATIN SCHOOL
+
+Our old master ever young to his old boys:
+
+  _Did Mentor with his mantle thee invest,
+    Or Chiron lend thee his persuasive lyre,
+  Or Socrates, of pedagogues the best,
+    Teach thee the harp-strings of a youth's desire?_
+
+
+PREFACE
+
+
+Albius Tibullus was a Roman gentleman, whose father fought on Pompey's
+side. The precise dates of his birth and death are in doubt, and what we
+know of his life is all in his own poems; except that Horace condoles
+with him about Glycera, and Apuleius says Delia's real name was Plautia.
+
+Horace paid him this immortal compliment: (_Epist. 4 bk. I_).
+
+  "_Albi nostrorum sermonum candide judex,
+  Non tu corpus eras sine pectore; Di tibi formam,
+  Di tibi divitias dederant, artemque fruendi_."
+
+
+After his death, Ovid wrote him a fine elegy (p. 115); and Domitius
+Marsus a neat epigram. The former promised him an immortality equal to
+Homer's; the latter sent him to Elysium at Virgil's side. These
+excessive eulogies are the more remarkable in that Tibullus stood,
+proudly or indolently, aloof from the court. He never flatters Augustus
+nor mentions his name. He scoffs at riches, glory and war, wanting
+nothing but to triumph as a lover. Ovid dares to group him with the
+laurelled shades of Catullus and Gallus, of whom the former had
+lampooned the divine Julius and the latter had been exiled by Augustus.
+
+But in spite of this contemporary _succes d'estime_, Tibullus is
+clearly a minor poet. He expresses only one aspect of his time. His few
+themes are oft-repeated and in monotonous rhythms. He sings of nothing
+greater than his own lost loves. Yet of Delia, Nemesis and Neaera, we
+learn only that all were fair, faithless and venal. For a man whose
+ideal of love was life-long fidelity, he was tragically unsuccessful.
+
+If this were all, his verse would have perished with that of Macer and
+Gallus. But it is not all. These love-poems of a private gentleman of
+the Augustan time, show a delicacy of sentiment almost modern. Of the
+ribald curses which Catullus hurls after his departing Lesbia, there is
+nothing. He throws the blame on others: and if, just to frighten, he
+describes the wretched old age of the girls who never were faithful, it
+is with a playful tone and hoping such bad luck will never befall any
+sweet-heart of his. This delicacy and tenderness, with the playful
+accent, are, perhaps, Tibullus' distinctive charm.
+
+His popularity in 18th century France was very great. The current
+English version, Grainger's (1755) with its cheap verse and common-place
+gallantries, is a stupid echo of the French feeling for Tibullus as an
+erotic poet. Much better is the witty prose version by the elder
+Mirabeau, done during the Terror, in the prison at Vincennes, and
+published after his release, with a ravishing portrait of "Sophie,"
+surrounded by Cupids and billing doves. One of the old Parisian editors
+dared to say:
+
+"_Tons ceux qui aiment, ou qui ont jamais aime, savent par coeur ce
+delicieux Tibulle_."
+
+But it was unjust to classify Tibullus merely as an erotic poet. The
+gallants of the _ancien regime_ were quite capable of writing their
+own valentines. Tibullus was popular as a sort of Latin Rousseau. He
+satirized rank, riches and glory as corrupting man's primitive
+simplicity. He pled for a return to nature, to country-side, thatched
+cottages, ploughed fields, flocks, harvests, vintages and rustic
+holidays. He made this plea, not with an armoury of Greek learning, such
+as cumber Virgil and Horace, but with an original passion. He cannot
+speak of the jewelled Roman coquettes without a sigh for those happy
+times when Phoebus himself tended cattle and lived on curds and whey,
+all for the love of a king's daughter.
+
+For our own generation Tibullus has another claim to notice. All
+Augustan writers express their dread and weariness of war. But Tibullus
+protests as a survivor of the lost cause. He has been, himself, a
+soldier-lover maddened by separation. As an heir of the old order, he
+saw how vulgar and mercenary was this _parvenu_ imperial glory, won
+at the expense of lost liberties and broken hearts. War, he says, is
+only the strife of robbers. Its motive is the spoils. It happens because
+beautiful women want emeralds, Indian slaves and glimmering silk from
+Cos. Therefore, of course, we fight. But if Neaera and her kind would
+eat acorns, as of old, we could burn the navies and build cities without
+walls.
+
+He was indeed a minor poet. He does not carry forward, like Virgil, the
+whole heritage from the Greeks, or rise like him to idealizing the
+master-passion of his own age, that vision of a cosmopolitan
+world-state, centred at Rome and based upon eternal decrees of Fate and
+Jove. But neither was he duped, as Virgil was, into mistaking the
+blood-bought empire of the Caesars for the return of Saturn's reign.
+Sometimes a minor poet, just by reason of his aloofness from the social
+trend of his time, may also escape its limitations, and sound some notes
+which remain forever true to what is unchanging in the human heart. I
+believe Tibullus has done so.
+
+This translation has been done in the play-time of many busy years. I
+have used what few helps I could find, especially the Mirabeau, above
+alluded to. The text is often doubtful. But in so rambling a writer it
+has not seemed to me that the laborious transpositions of later German
+editors were important. I have rejected as probably spurious all of the
+fourth book but two short pieces. While I agree with those who find the
+third book doubtful, I have included it.
+
+But from scholars I must ask indulgence. I have translated with
+latitude, considering whole phrases rather than single words. But I have
+always been faithful to the thought and spirit of the original, except
+in the few passages where euphemism was required. If the reader who has
+no Latin, gets a pleasing impression of Tibullus, that is what I have
+chiefly hoped to do. In my forth-coming translations of the
+_Aeneid_ I have kept stricter watch upon verbal accuracy, as is due
+to an author better-known and more to be revered.
+
+  THEODORE C. WILLIAMS.
+  New York, 1905.
+
+
+CONTENTS
+
+  Preface
+
+  BOOK I
+
+  I.    The Simple Life
+  II.   Love and Witchcraft
+  III.  Sickness and Absence
+  IV.   The Art of Conquest
+  V.    Country-Life with Delia
+  VI.   A Lover's Curses
+  VII.  A Desperate Expedient
+  VIII. Messala
+  IX.   To Pholoe and Marathus
+  X.    To Venal Beauty
+  XI.   War is a Crime
+
+  BOOK II
+
+  I.    A Rustic Holiday
+  II.   A Birthday Wish
+  III.  My Lady Rusticates
+  IV.   On His Lady's Avarice
+  V.    The Priesthood of Apollo
+  VI.   Let Lovers All Enlist
+  VII.  A Voice from the Tomb
+  [Transcriber's Note: Elegy VII listed in Contents, but not in text.]
+
+  BOOK III
+
+  I.    The New-Year's Gift
+  II.   He Died for Love
+  III.  Riches are Useless
+  IV.   A Dream from Phoebus
+  V.    To Friends at the Baths
+  VI.   A Fare-Well Toast
+
+  BOOK IV
+
+  XIII. A Lover's Oath
+
+  _Ovid's Lament for Tibullus' Death_
+
+
+BOOK I
+
+
+ELEGY THE FIRST
+
+THE SIMPLE LIFE
+
+
+  Give, if thou wilt, for gold a life of toil!
+    Let endless acres claim thy care!
+  While sounds of war thy fearful slumbers spoil,
+    And far-off trumpets scare!
+
+  To me my poverty brings tranquil hours;
+    My lowly hearth-stone cheerly shines;
+  My modest garden bears me fruit and flowers,
+    And plenteous native wines.
+
+  I set my tender vines with timely skill,
+    Or pluck large apples from the bough;
+  Or goad my lazy steers to work my will,
+    Or guide my own rude plough.
+
+  Full tenderly upon my breast I bear
+    A lamb or small kid gone astray;
+  And yearly worship with my swains prepare,
+    The shepherd's ancient way.
+
+  I love those rude shrines in a lonely field
+    Where rustic faith the god reveres,
+  Or flower-crowned cross-road mile-stones, half concealed
+    By gifts of travellers.
+
+  Whatever fruit the kindly seasons show,
+    Due tribute to our gods I pour;
+  O'er Ceres' brows the tasseled wheat I throw,
+    Or wreathe her temple door.
+
+  My plenteous orchards fear no pelf or harm,
+    By red Priapus sentinelled;
+  By his huge sickle's formidable charm
+    The bird thieves are dispelled.
+
+  With offerings at my hearth, and faithful fires,
+    My Lares I revere: not now
+  As when with greater gifts my wealthier sires
+    Performed the hallowing vow.
+
+  No herds have I like theirs: I only bring
+    One white lamb from my little fold,
+  While my few bondmen at the altar sing
+    Our harvest anthems old.
+
+  Gods of my hearth! ye never learned to slight
+    A poor man's gift. My bowls of clay
+  To ye are hallowed by the cleansing rite,
+    The best, most ancient way.
+
+  If from my sheep the thief, the wolf, be driven,
+    If fatter flocks allure them more,
+  To me the riches to my fathers given
+    Kind Heaven need not restore.
+
+  My small, sure crop contents me; and the storm
+    That pelts my thatch breaks not my rest,
+  While to my heart I clasp the beauteous form
+    Of her it loves the best.
+
+  My simple cot brings such secure repose,
+    When so companioned I can lie,
+  That winds of winter and the whirling snows
+    Sing me soft lullaby.
+
+  This lot be mine! I envy not their gold
+    Who rove the furious ocean foam:
+  A frugal life will all my pleasures hold,
+    If love be mine, and home.
+
+  Enough I travel, if I steal away
+    To sleep at noon-tide by the flow
+  Of some cool stream. Could India's jewels pay
+    For longer absence? No!
+
+  Let great Messala vanquish land and sea,
+    And deck with spoils his golden hall!
+  I am myself a conquest, and must be
+    My Delia's captive thrall.
+
+  Be Delia mine, and Fame may flout and scorn,
+    Or brand me with the sluggard's name!
+  With cheerful hands I'll plant my upland corn,
+    And live to laugh at Fame.
+
+  If I might hold my Delia to my side,
+    The bare ground were a happier bed
+  Than theirs who, on a couch of silken pride,
+    Must mourn for love long dead.
+
+  Gilt couch, soft down, slow fountains murmuring song--
+    These bring no peace. Befooled by words
+  Was he who, when in love a victor strong,
+    Left it for spoils and swords.
+
+  For such let sad Cilicia's captives bleed,
+    Her citadels his legions hold!
+  And let him stride his swift, triumphal steed,
+    In silvered robes or gold!
+
+  These eyes of mine would look on only thee
+    In that last hour when light shall fail.
+  Embrace me, dear, in death! Let thy hand be
+    In my cold fingers pale!
+
+  With thine own arms my lifeless body lay
+    On that cold couch so soon on fire!
+  Give thy last kisses to my grateful clay,
+    And weep beside my pyre!
+
+  And weep! Ah, me! Thy heart will wear no steel
+    Nor be stone-cold that rueful day:
+  Thy faithful grief may all true lovers feel
+    Nor tearless turn away!
+
+  Yet ask I not that thou shouldst vex my shade
+    With cheek all wan and blighted brow:
+  But, O, to-day be love's full tribute paid,
+    While the swift Fates allow.
+
+  Soon Death, with shadow-mantled head, will come,
+    Soon palsied age will creep our way,
+  Bidding love's flatteries at last be dumb,
+    Unfit for old and gray.
+
+  But light-winged Venus still is smiling fair:
+    By night or noon we heed her call;
+  To pound on midnight doors I still may dare,
+    Or brave for love a brawl.
+
+  I am a soldier and a captain good
+    In love's campaign, and calmly yield
+  To all who hunger after wounds and blood,
+    War's trumpet-echoing field.
+
+  Ye toils and triumphs unto glory dear!
+    Ye riches home from conquest borne!
+  If my small fields their wonted harvest bear,
+    Both wealth and want I scorn!
+
+
+ELEGY THE SECOND
+
+LOVE AND WITCHCRAFT
+
+
+  Bring larger bowls and give my sorrows wine,
+    By heaviest slumbers be my brain possessed!
+  Soothe my sad brows with Bacchus' gift divine,
+    Nor wake me while my hapless passions rest!
+
+  For Delia's jealous master at her door
+    Has set a watch, and bolts it with stern steel.
+  May wintry tempests strike it o'er and o'er,
+    And amorous Jove crash through with thunder-peal!
+
+  My sighs alone, O Door, should pierce thee through,
+    Or backward upon soundless hinges turn.
+  The curses my mad rhymes upon thee threw,--
+    Forgive them!--Ah! in my own breast they burn!
+
+  May I not move thee to remember now
+    How oft, dear Door, thou wert love's place of prayer?
+  While with fond kiss and supplicating vow,
+    I hung thee o'er with many a garland fair?
+
+  In vain the prayer! Thine own resolve must break
+    Thy prison, Delia, and its guards evade.
+  Bid them defiance for thy lover's sake!
+    Be bold!   The brave bring Venus to their aid.
+
+  'Tis Venus guides a youth through doors unknown;
+    'Tis taught of her, a maid with firm-set lips
+  Steals from her soft couch, silent and alone,
+    And noiseless to her tryst securely trips.
+
+  Her art it is, if with a husband near,
+    A lady darts a love-lorn look and smile
+  To one more blest; but languid sloth and fear
+    Receive not Venus' perfect gift of guile.
+
+  Trust Venus, too, t' avert the wretched wrath
+    Of footpad, hungry for thy robe and ring!
+  So safe and sacred is a lover's path,
+    That common caution to the winds we fling.
+
+  Oft-times I fail the wintry frost to feel,
+    And drenching rains unheeded round me pour,
+  If Delia comes at last with mute appeal,
+    And, finger on her lip, throws wide the door.
+
+  Away those lamps! Thou, man or maid, away!
+    Great Venus wills not that her gifts be scanned.
+  Ask me no names! Walk lightly there, I pray!
+    Hold back thy tell-tale torch and curious hand!
+
+  Yet fear not! Should some slave our loves behold,
+    Let him look on, and at his liking stare!
+  Hereafter not a whisper shall be told;
+    By all the gods our innocence he'll swear.
+
+  Or should one such from prudent silence swerve
+    The chatterer who prates of me and thee
+  Shall learn, too late, why Venus, whom I serve,
+    Was born of blood upon a storm-swept sea.
+
+  Nay, even thy husband will believe no ill.
+    All this a wondrous witch did tell me true:
+  One who can guide the stars to work her will,
+    Or turn a torrent's course her task to do.
+
+  Her spells call forth pale spectres from their graves,
+    And charm bare bones from smoking pyres away:
+  'Mid trooping ghosts with fearful shriek she raves,
+    Then sprinkles with new milk, and holds at bay.
+
+  She has the power to scatter tempests rude,
+    And snows in summer at her whisper fall;
+  The horrid simples by Medea brewed
+    Are hers; she holds the hounds of Hell in thrall.
+
+  For me a charm this potent witch did weave;
+    Thrice if thou sing, then speak with spittings three,
+  Thy husband not one witness will believe,
+    Nor his own eyes, if our embrace they see!
+
+  But tempt not others!   He will surely spy
+    All else--to me, me only, magic-blind!
+  And, hark! the hag with drugs, she said, would try
+    To heal love's madness and my heart unbind.
+
+  One cloudless night, with smoky torch, she burned
+    Black victims to her gods of sorcery;
+  Yet asked I not love's loss, but love returned,
+    And would not wish for life, if robbed of thee.
+
+
+ELEGY THE THIRD
+
+SICKNESS AND ABSENCE
+
+
+  Am I abandoned? Does Messala sweep
+    Yon wide Aegean wave, not any more
+  He, nor my mates, remembering where I weep,
+    Struck down by fever on this alien shore?
+
+  Spare me, dark death! I have no mother here,
+    To clasp my relics to her widowed breast;
+  No sister, to pour forth with hallowing tear
+    Assyrian incense where my ashes rest.
+
+  Nor Delia, who, before she said adieu,
+    Asked omens fair at every potent shrine.
+  Thrice did the ministrants give blessings true,
+    The thrice-cast lot returned the lucky sign.
+
+  All promised safe return;  but she had fears
+    And doubting sorrows, which implored my stay;
+  While I, though all was ready, dried her tears,
+    And found fresh pretext for one more delay.
+
+  An evil bird, I cried, did near me flit,
+    Or luckless portent thrust my plans aside;
+  Or Saturn's day, unhallowed and unfit,
+    Forbade a journey from my Delia's side.
+
+  Full oft, when starting on the fatal track,
+    My stumbling feet foretold unhappy hours:
+  Ah! he who journeys when love calls him back,
+    Should know he disobeys celestial powers!
+
+  Help me, great Goddess! For thy healing power
+    The votive tablets on thy shrine display.
+  See Delia there outwatch the midnight hour,
+    Sitting, white-stoled, until the dawn of day!
+
+  Each day her tresses twice she doth unbind,
+    And sings, the loveliest of the Pharian band.
+  O that my fathers' gods this prayer could find!
+    Gods of my hearth and of my native land!
+
+  How happily men lived when Saturn reigned!
+    Ere weary highways crossed the fair young world,
+  Ere lofty ships the purple seas disdained,
+    Their swelling canvas to the winds unfurled!
+
+  No roving seaman, from a distant course,
+    Filled full of far-fetched wares his frail ship's hold:
+  At home, the strong bull stood unyoked; the horse
+    Endured no bridle in the age of gold.
+
+  Men's houses had no doors? No firm-set rock
+    Marked field from field by niggard masters held.
+  The very oaks ran honey; the mild flock
+    Brought home its swelling udders, uncompelled.
+
+  Nor wrath nor war did that blest kingdom know;
+    No craft was taught in old Saturnian time,
+  By which the frowning smith, with blow on blow,
+    Could forge the furious sword and so much crime.
+
+  Now Jove is king! Now have we carnage foul,
+    And wreckful seas, and countless ways to die.
+  Nay! spare me, Father Jove, for on my soul
+    Nor perjury, nor words blaspheming lie.
+
+  If longer life I ask of Fate in vain,
+    O'er my frail dust this superscription be:--
+  _"Here Death's dark hand_ TIBULLUS _doth detain,
+    Messala's follower over land and sea!"_
+
+  Then, since my soul to love did always yield,
+    Let Venus guide it the immortal way,
+  Where dance and song fill all th' Elysian field,
+    And music that will never die away.
+
+  There many a song-bird with his fellow sails,
+    And cheerly carols on the cloudless air;
+  Each grove breathes incense; all the happy vales
+    O'er-run with roses, numberless and fair.
+
+  Bright bands of youth with tender maidens stray,
+    Led by the love-god all delights to share;
+  And each fond lover death once snatched away
+    Winds an immortal myrtle in his hair.
+
+  Far, far from such, the dreadful realms of gloom
+    By those black streams of Hades circled round,
+  Where viper-tressed, fierce ministers of doom,--
+    The Furies drive lost souls from bound to bound.
+
+  The doors of brass, and dragon-gate of Hell,
+    Grim Cerberus guards, and frights the phantoms back:
+  Ixion, who by Juno's beauty fell,
+    Gives his frail body to the whirling rack.
+
+  Stretched o'er nine roods, lies Tityos accursed,
+    The vulture at his vitals feeding slow;
+  There Tantalus, whose bitter, burning thirst
+    The fleeting waters madden as they flow.
+
+  There Danaus' daughters Venus' anger feel,
+    Filling their urns at Lethe all in vain;--
+  _And there's the wretch who would my Delia steal,
+    And wish me absent on a long campaign!_
+
+  O chaste and true! In thy still house shall sit
+    The careful crone who guards thy virtuous bed;
+  She tells thee tales, and when the lamps are lit,
+    Reels from her distaff the unending thread.
+
+  Some evening, after tasks too closely plied,
+    My Delia, drowsing near the harmless dame,
+  All sweet surprise, will find me at her side,
+    Unheralded, as if from heaven I came.
+
+  Then to my arms, in lovely disarray,
+    With welcome kiss, thy darling feet will fly!
+  O happy dream and prayer! O blissful day!
+    What golden dawn, at last, shall bring thee nigh?
+
+
+ELEGY THE FOURTH
+
+THE ARTS OF CONQUEST
+
+
+  "Safe in the shelter of thy garden-bower,
+  "Priapus, from the harm of suns or snows,
+  "With beard all shag, and hair that wildly flows,--
+  "O say! o'er beauteous youth whence comes thy power?
+  "Naked thou frontest wintry nights and days,
+  "Naked, no less, to Sirius' burning rays."
+
+  So did my song implore the rustic son
+  Of Bacchus, by his moon-shaped sickle known.
+
+  "Comply with beauty's lightest wish," said he,
+  "Complying love leads best to victory.
+  "Nor let a furious 'No' thy bosom pain;
+  "Beauty but slowly can endure a chain.
+  "Slow Time the rage of lions will o'er-sway,
+  "And bid them fawn on man. Rough rocks and rude
+  "In gentle streams Time smoothly wears away;
+  "And on the vine-clad hills by sunshine wooed,
+  "The purpling grapes feel Time's secure control;
+  "In Time, the skies themselves new stars unroll.
+  "Fear not  great oaths! Love's broken oaths are borne
+  "Unharmed of heaven o'er every wind and wave.
+  "Jove is most mild; and he himself hath sworn
+  "There is no force in vows which lovers rave.
+  "Falsely by Dian's arrows boldly swear!
+  "And perjure thee by chaste Minerva's hair!
+
+  "Be a prompt wooer, if thou wouldst be wise:
+  "Time is in flight, and never backward flies.
+  "How swiftly fades the bloom, the vernal green!
+  "How swift yon poplar dims its silver sheen!
+  "Spurning the goal th' Olympian courser flies,
+  "Then yields to Time his strength, his victories;
+  "And oft I see sad, fading youth deplore
+  "Each hour it lost, each pleasure it forbore.
+  "Serpents each spring look young once more; harsh Heaven
+  "To beauteous youth has one brief season given.
+  "With never-fading youth stern Fate endows
+  "Phoebus and Bacchus only, and allows
+  "Full-clustering ringlets on their lovely brows.
+
+  "Keep at thy loved one's side, though hour by hour
+  "The path runs on; though Summer's parching star
+  "Burn all the fields, or blackest tempests lower,
+  "Or monitory rainbows threaten far.
+  "If he would hasten o'er the purple sea,
+  "Thyself the helmsman or the oarsman be.
+  "Endure, unmurmuring, each unwelcome toil,
+  "Nor fear thy unaccustomed hands to spoil.
+  "If to the hills he goes with huntsman's snare,
+  "Let thine own back the nets and burden bear.
+  "Swords would he have? Fence lightly when you meet;
+  "Expose thy body and compel defeat.
+  "He will be gracious then, and will not spurn
+  "Caresses to receive, resist, return.
+  "He will protest, relent, and half-conspire,
+  "And later, all unasked, thy love desire.
+
+  "But nay! In these vile times thy skill is vain.
+  "Beauty and youth are sold for golden gain.
+  "May he who first taught love to sell and buy,
+  "In grave accurst, with all his riches lie!
+
+  "O beauteous youth, how will ye dare to slight
+  "The Muse, to whom Pierian streams belong?
+  "Will ye not smile on poets, and delight,
+  "More than all golden gifts, in gift of song?
+  "Did not some song empurple Nisus' hair,
+  "And bid young Pelops' ivory shoulder glow?
+  "That youth the Muses praise, is he not fair,
+  "Long as the stars shall shine or waters flow ?
+

@@ -1,0 +1,378 @@
+﻿Produced by Jason Isbell, Irma Spehar and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+                           SEASONING OF WOOD
+
+               A TREATISE ON THE NATURAL AND ARTIFICIAL
+                 PROCESSES EMPLOYED IN THE PREPARATION
+                      OF LUMBER FOR MANUFACTURE,
+                   WITH DETAILED EXPLANATIONS OF ITS
+                 USES, CHARACTERISTICS AND PROPERTIES
+
+
+                            _ILLUSTRATIONS_
+                                  BY
+                           JOSEPH B. WAGNER
+                         AUTHOR OF "COOPERAGE"
+
+
+                            [Illustration]
+
+
+                               NEW YORK
+                        D. VAN NOSTRAND COMPANY
+                             25 PARK PLACE
+                                 1917
+
+
+                          COPYRIGHT, 1917, BY
+                        D. VAN NOSTRAND COMPANY
+
+
+                          THE·PLIMPTON·PRESS
+                          NORWOOD·MASS·U·S·A
+
+
+                                PREFACE
+
+
+The seasoning and kiln-drying of wood is such an important process in
+the manufacture of woods that a need for fuller information regarding
+it, based upon scientific study of the behavior of various species at
+different mechanical temperatures, and under different drying
+processes is keenly felt. Everyone connected with the woodworking
+industry, or its use in manufactured products, is well aware of the
+difficulties encountered in properly seasoning or removing the
+moisture content without injury to the timber, and of its
+susceptibility to atmospheric conditions after it has been thoroughly
+seasoned. There is perhaps no material or substance that gives up its
+moisture with more resistance than wood does. It vigorously defies the
+efforts of human ingenuity to take away from it, without injury or
+destruction, that with which nature has so generously supplied it.
+
+In the past but little has been known of this matter further than the
+fact that wood contained moisture which had to be removed before the
+wood could be made use of for commercial purposes. Within recent
+years, however, considerable interest has been awakened among
+wood-users in the operation of kiln-drying. The losses occasioned in
+air-drying and improper kiln-drying, and the necessity for getting the
+material dry as quickly as possible after it has come from the saw, in
+order to prepare it for manufacturing purposes, are bringing about a
+realization of the importance of a technical knowledge of the subject.
+
+Since this particular subject has never before been represented by any
+technical work, and appears to have been neglected, it is hoped that
+the trade will appreciate the endeavor in bringing this book before
+them, as well as the difficulties encountered in compiling it, as it
+is the first of its kind in existence. The author trusts that his
+efforts will present some information that may be applied with
+advantage, or serve at least as a matter of consideration or
+investigation.
+
+In every case the aim has been to give the facts, and wherever a
+machine or appliance has been illustrated or commented upon, or the
+name of the maker has been mentioned, it has not been with the
+intention either of recommending or disparaging his or their work, but
+has been made use of merely to illustrate the text.
+
+The preparation of the following pages has been a work of pleasure to
+the author. If they prove beneficial and of service to his
+fellow-workmen he will have been amply repaid.
+
+                                                      THE AUTHOR.
+
+    September, 1917
+
+
+                               CONTENTS
+
+
+                               SECTION I
+
+                                TIMBER
+                                                                   PAGES
+
+Characteristics and Properties of Same--Structure
+of Wood--Properties of Wood--Classes of Trees                        1-7
+
+                              SECTION II
+
+                           CONIFEROUS TREES
+
+Wood of Coniferous Trees--Bark and Pith--Sapwood and Heartwood--The
+Annual or Yearly Ring--Spring- and Summer-Wood--Anatomical
+Structure--List of Important Coniferous Trees                       8-30
+
+                              SECTION III
+
+                          BROAD-LEAVED TREES
+
+Wood of Broad-leaved Trees--Minute Structure--List of Most
+Important Broad-leaved Trees--Red Gum--Range of Red Gum--Form
+of Red Gum--Tolerance of Red Gum--Its Demands upon Soil and
+Moisture--Reproduction of Red Gum--Second-growth Red Gum--Tupelo
+Gum--Uses of Tupelo Gum--Range of Tupelo Gum                       31-85
+
+                              SECTION IV
+
+            GRAIN, COLOR, ODOR, WEIGHT, AND FIGURE IN WOOD
+
+Different Grains of Wood--Color and Odor of Wood--Weight of
+Wood--Weight of Kiln-dried Wood of Different Species--Figure in
+Wood                                                               86-97
+
+                               SECTION V
+
+                            ENEMIES OF WOOD
+
+General Remarks--Ambrosia or Timber Beetles--Round-headed
+Borers--Flat-headed Borers--Timber Worms--Powder Post
+Borers--Conditions Favorable for Insect Injury--Crude
+Products--Round Timber with Bark on--How to Prevent
+Injury--Saplings--Stave, Heading, and Shingle Bolts--Unseasoned
+Products in the Rough--Seasoned Products in the Rough--Dry
+Cooperage Stock and Wooden Truss Hoops--Staves and Heads
+of Barrels Containing Alcoholic Liquids                           98-113
+
+                              SECTION VI
+
+                             WATER IN WOOD
+
+Distribution of Water in Wood--Seasonal Distribution of Water in
+Wood--Composition of Sap--Effects of Moisture on Wood--The
+Fibre-Saturation Point in Wood                                   114-118
+
+                              SECTION VII
+
+                           WHAT SEASONING IS
+
+What Seasoning Is--Difference Between Seasoned and Unseasoned
+Wood--Manner of Evaporation of Water--Absorption of Water
+by Dry Wood--Rapidity of Evaporation--Physical Properties
+that Influence Drying                                            119-127
+
+                             SECTION VIII
+
+                        ADVANTAGES OF SEASONING
+
+Advantages of Seasoning--Prevention of Checking and
+Splitting--Shrinkage of Wood--Expansion of Wood--Elimination of
+Stain and Mildew                                                 128-137
+
+                              SECTION IX
+
+                      DIFFICULTIES OF DRYING WOOD
+
+Difficulties of Drying Wood--Changes Rendering Drying
+Difficult--Losses Due to Improper Kiln-drying--Properties of
+Wood that Effect Drying--Unsolved Problems in Kiln-drying        138-144
+
+                               SECTION X
+
+                         HOW WOOD IS SEASONED
+
+Methods of Drying--Drying at Atmospheric Pressure--Drying Under
+Pressure and Vacuum--Impregnation Methods--Preliminary
+Treatments--Out-of-door Seasoning                                145-155
+
+                              SECTION XI
+
+                          KILN-DRYING OF WOOD
+
+Advantages of Kiln-drying over Air Drying--Physical Conditions
+Governing the Drying of Wood--Theory of Kiln-drying--Requirements
+in a Satisfactory Dry Kiln--Kiln-drying--Remarks--Underlying
+Principles--Objects of Kiln-drying--Conditions of Success--Different
+Treatments According to Kind--Temperature Depends--Air
+Circulation--Humidity--Kiln-drying--Pounds of Water Lost in Drying
+100 Pounds of Green Wood in the Kiln--Kiln-drying Gum--Preliminary
+Steaming--Final Steaming--Kiln-drying of Green Red Gum           156-184
+
+                              SECTION XII
+
+                          TYPES OF DRY KILNS
+
+Different types of Dry Kilns--The "Blower" or "Hot Blast" Dry
+Kiln--Operating the "Blower" or "Hot Blast" Dry Kiln--The
+"Pipe" or "Moist-Air" Dry Kiln--Operating the "Pipe" or
+"Moist-Air" Dry Kiln--Choice of Drying Method--Kilns of
+Different Types--The "Progressive" Dry Kiln--The "Apartment"
+Dry Kiln--The "Pocket" Dry Kiln--The "Tower" Dry Kiln--The
+"Box" Dry Kiln                                                   185-205
+
+                             SECTION XIII
+
+                         DRY KILN SPECIALTIES
+
+Kiln Cars and Method of Loading Same--The "Cross-wise" Piling
+Method--The "End-wise" Piling Method--The "Edge-wise"
+Piling Method--The Automatic Lumber Stacker--The Unstacker
+Car--Stave Piling--Shingle Piling--Stave Bolt Trucks--Different
+Types of Kiln Cars--Different Types of Transfer Cars--Dry Kiln
+Doors--Different Types of Kiln Door Carriers                     206-236
+
+                              SECTION XIV
+
+                   HELPFUL APPLIANCES IN KILN DRYING
+
+The Humidity Diagram--Examples of Use--The Hygrodeik--The
+Recording Hygrometer--The Registering Hygrometer--The
+Recording Thermometer--The Registering Thermometer--The
+Recording Steam Gauge--The Troemroid Scalometer--Test
+Samples--Weighing--Examples of Use--Records of Moisture
+Content--Saw Mills--Factories--The Electric Heater               237-250
+
+                              SECTION XV
+
+Bibliography--Glossary--Index of Latin Names--Index of Common
+Names                                                            251-257
+
+
+                         LIST OF ILLUSTRATIONS
+
+ FIG.                                                               PAGE
+
+ 1. Board of pine                                                     13
+ 2. Wood of spruce                                                    14
+ 3. Group of fibres from pine wood                                    15
+ 4. Block of oak                                                      31
+ 5. Board of oak                                                      32
+ 6. Cross-section of oak highly magnified                             32
+ 7. Highly magnified fibres of wood                                   33
+ 8. Isolated fibres and cells of wood                                 34
+ 9. Cross-section of basswood                                         35
+10. A large red gum                                                   52
+11. A tupelo gum slough                                               53
+12. Second growth red gum                                             57
+13. A cypress slough in dry season                                    58
+14. A large cottonwood                                                78
+15. Spiral grain in wood                                              87
+16. Alternating spiral grain in cypress                               87
+17. Wavy grain in beech                                               88
+18. Section of wood showing position of the grain at base of limb     89
+19. Cross-section of a group of wood fibres                           91
+20. Isolated fibres of wood                                           91
+21. Orientation of wood samples                                       93
+22. Work of ambrosia beetles in tulip or yellow poplar               100
+23. Work of ambrosia beetles in oak                                  100
+24. Work of round-headed and flat-headed borers in pine              102
+25. Work of timber worms in oak                                      103
+26. Work of powder post borers in hickory poles                      104
+27. Work of powder post borers in hickory poles                      104
+28. Work of powder post borers in hickory handles                    105
+29. Work of round-headed borers in white pine staves                 111
+30. U. S. Forest Service humidity controlled dry kiln                161
+31. Section through moist-air dry kiln                               189
+32. Live steam single pipe heating apparatus                         190
+33. Live steam double pipe heating apparatus                         191
+34. Vertical Pipe heating apparatus                                  193
+35. Progressive dry kilns                                            197
+36. Apartment dry kilns                                              199
+37. Pocket dry kilns                                                 201
+38. Tower dry kiln                                                   203
+39. Box dry kiln                                                     205
+40. Edge-wise method of piling                                       206
+41. Edge-wise method of piling                                       207
+42. Automatic lumber stacker                                         208
+43. Automatic lumber stacker                                         208
+44. Battery of three automatic lumber stackers                       209
+45. Battery of three automatic lumber stackers                       209
+46. Lumber loaded edge-wise on kiln truck                            210
+47. The lumber unstacker                                             211
+48. The lumber unstacker car                                         211
+49. Method of piling veneer on edge                                  212
+50. Kiln truck loaded cross-wise of kiln                             213
+51. Kiln truck loaded cross-wise of kiln                             214
+52. Kiln truck loaded end-wise of kiln                               214
+53. Kiln truck loaded end-wise of kiln                               215
+54. Method of piling staves on kiln truck                            216
+55. Method of piling staves on kiln truck                            216
+56. Method of piling tub or pail staves on kiln truck                217
+57. Method of piling bundled staves on kiln truck                    217
+58. Method of piling shingles on kiln truck                          218
+59. Method of piling shingles on kiln truck                          218
+60. Method of piling shingles on kiln truck                          219
+61. Kiln truck designed for loose pail staves                        219
+62. Kiln truck designed for handling short stock                     221
+63. Stave bolt truck                                                 221
+64. Stave bolt truck                                                 222
+65. Stave bolt truck                                                 222
+66. Stave bolt truck                                                 223
+67. Stave bolt truck                                                 223
+68. Stave bolt truck                                                 224
+69. Regular 3-rail transfer car                                      224
+70. Regular 3-rail transfer car                                      225
+71. Special 4-rail transfer car                                      225
+72. Regular 2-rail transfer car                                      225
+73. Regular 2-rail transfer car                                      226
+74. Underslung type 3-rail transfer car                              226
+75. Underslung type 2-rail transfer car                              226
+76. Flexible type 2-rail transfer car                                227
+77. Regular transfer car for stave bolt trucks                       228
+78. Regular transfer car for stave bolt trucks                       228
+79. Special transfer car for stave bolt trucks                       228
+80. Regular channel iron kiln truck for cross-wise piling            229
+81. Regular channel iron kiln truck for cross-wise piling            229
+82. Regular channel iron kiln truck for end-wise piling              230
+83. Special channel iron kiln truck for end-wise piling              230
+84. Regular dolly kiln truck for end-wise piling                     230
+85. Asbestos-lined kiln door                                         231
+86. Twin door carrier with door loaded                               232
+87. Twin door carrier for doors 18 to 35 feet wide                   232
+88. Kiln door carrier                                                233
+89. Kiln door construction                                           234
+90. Kiln door construction                                           235
+91. Kiln door construction                                           235
+92. Kiln door construction                                           236
+93. The Humidity diagram                                  _facing_   237
+94. The hygrodeik                                                    242
+95. The recording hygrometer                                         243
+96. The registering hygrometer                                       244
+97. The recording thermometer                                        245
+98. The registering thermometer                                      246
+99. The recording steam gauge                                        246
+100. The troemroid scalometer                                        247
+101. The electric heater                                             250
+
+
+                           SEASONING OF WOOD
+
+
+                               SECTION I
+
+                                TIMBER
+
+                    Characteristics and Properties
+
+
+Timber was probably one of the earliest, if not the earliest, of
+materials used by man for constructional purposes. With it he built
+for himself a shelter from the elements; it provided him with fuel and
+oft-times food, and the tree cut down and let across a stream formed
+the first bridge. From it, too, he made his "dug-out" to travel along
+and across the rivers of the district in which he dwelt; so on down
+through the ages, for shipbuilding and constructive purposes, timber
+has continued to our own time to be one of the most largely used of
+nature's products.
+
+Although wood has been in use so long and so universally, there still
+exists a remarkable lack of knowledge regarding its nature, not only
+among ordinary workmen, but among those who might be expected to know
+its properties. Consequently it is often used in a faulty and wasteful
+manner. Experience has been almost the only teacher, and
+theories--sometimes right, sometimes wrong--rather than well
+substantiated facts, lead the workman.
+
+One reason for this imperfect knowledge lies in the fact that wood is
+not a homogeneous material, but a complicated structure, and so
+variable, that one piece will behave very differently from another,
+although cut from the same tree. Not only does the wood of one species
+differ from that of another, but the butt cut differs from that of the
+top log, the heartwood from the sapwood; the wood of quickly-grown
+sapling of the abandoned field, from that of the slowly-grown, old
+monarch of the forest. Even the manner in which the tree was cut and
+kept influences its behavior and quality. It is therefore extremely
+difficult to study the material for the purpose of establishing
+general laws.
+

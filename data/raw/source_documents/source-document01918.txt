@@ -1,0 +1,1486 @@
+﻿Produced by Jeroen Hellingman and the Online Distributed
+Proofreading Team at http://www.pgdp.net/
+
+
+                     The Epic of Gilgamish
+
+
+                               by
+
+                        Stephen Langdon
+
+
+                   University of Pennsylvania
+                     The University Museum
+             Publications of the Babylonian Section
+                          Vol. X No. 3
+
+
+INTRODUCTION
+
+
+In the year 1914 the University Museum secured by purchase a large
+six column tablet nearly complete, carrying originally, according to
+the scribal note, 240 lines of text. The contents supply the South
+Babylonian version of the second book of the epic _sa nagba imuru_,
+"He who has seen all things," commonly referred to as the Epic of
+Gilgamish. The tablet is said to have been found at Senkere, ancient
+Larsa near Warka, modern Arabic name for and vulgar descendant
+of the ancient name Uruk, the Biblical Erech mentioned in Genesis
+X. 10. This fact makes the new text the more interesting since the
+legend of Gilgamish is said to have originated at Erech and the
+hero in fact figures as one of the prehistoric Sumerian rulers of
+that ancient city. The dynastic list preserved on a Nippur tablet
+[1] mentions him as the fifth king of a legendary line of rulers at
+Erech, who succeeded the dynasty of Kish, a city in North Babylonia
+near the more famous but more recent city Babylon. The list at Erech
+contains the names of two well known Sumerian deities, Lugalbanda
+[2] and Tammuz. The reign of the former is given at 1,200 years and
+that of Tammuz at 100 years. Gilgamish ruled 126 years. We have to
+do here with a confusion of myth and history in which the real facts
+are disengaged only by conjecture.
+
+The prehistoric Sumerian dynasties were all transformed into the realm
+of myth and legend. Nevertheless these rulers, although appearing
+in the pretentious nomenclature as gods, appear to have been real
+historic personages. [3] The name Gilgamish was originally written
+_d_Gi-bil-aga-mis, and means "The fire god (_Gibil_) is a commander,"
+abbreviated to _d_Gi-bil-ga-mis, and _d_Gi(s)-bil-ga-mis, a form
+which by full labialization of _b_ to _u_ was finally contracted to
+_d_Gi-il-ga-mis. [4] Throughout the new text the name is written with
+the abbreviation _d_Gi(s), [5] whereas the standard Assyrian text
+has consistently the writing _d_GIS-TU [6]-BAR. The latter method of
+writing the name is apparently cryptographic for _d_Gis-bar-aga-(mis);
+the fire god _Gibil_ has also the title _Gis-bar_.
+
+A fragment of the South Babylonian version of the tenth book was
+published in 1902, a text from the period of Hammurapi, which showed
+that the Babylonian epic differed very much from the Assyrian in
+diction, but not in content. The new tablet, which belongs to the same
+period, also differs radically from the diction of the Ninevite text
+in the few lines where they duplicate each other. The first line of the
+new tablet corresponds to Tablet I, Col. V 25 of the Assyrian text, [7]
+where Gilgamish begins to relate his dreams to his mother Ninsun. [8]
+
+The last line of Col. I corresponds to the Assyrian version Book I,
+Col. VI 29. From this point onward the new tablet takes up a hitherto
+unknown portion of the epic, henceforth to be assigned to the second
+book. [9]
+
+At the end of Book I in the Assyrian text and at the end of Col. I of
+Book II in the new text, the situation in the legend is as follows. The
+harlot halts outside the city of Erech with the enamoured Enkidu,
+while she relates to him the two dreams of the king, Gilgamish. In
+these dreams which he has told to his mother he receives premonition
+concerning the advent of the satyr Enkidu, destined to join with him
+in the conquest of Elam.
+
+Now the harlot urges Enkidu to enter the beautiful city, to clothe
+himself like other men and to learn the ways of civilization. When
+he enters he sees someone, whose name is broken away, eating bread
+and drinking milk, but the beautiful barbarian understands not. The
+harlot commands him to eat and drink also:
+
+
+    "It is the conformity of life,
+    Of the conditions and fate of the Land."
+
+
+He rapidly learns the customs of men, becomes a shepherd and a mighty
+hunter. At last he comes to the notice of Gilgamish himself, who is
+shocked by the newly acquired manner of Enkidu.
+
+"Oh harlot, take away the man," says the lord of Erech. Once again
+the faithful woman instructs her heroic lover in the conventions
+of society, this time teaching him the importance of the family
+in Babylonian life, and obedience to the ruler. Now the people of
+Erech assemble about him admiring his godlike appearance. Gilgamish
+receives him and they dedicate their arms to heroic endeavor. At this
+point the epic brings in a new and powerful _motif_, the renunciation
+of woman's love in the presence of a great undertaking. Gilgamish
+is enamoured of the beautiful virgin goddess Ishara, and Enkidu,
+fearing the effeminate effects of his friend's attachment, prevents
+him forcibly from entering a house. A terrific combat between these
+heroes ensues, [10] in which Enkidu conquers, and in a magnanimous
+speech he reminds Gilgamish of his higher destiny.
+
+In another unplaced fragment of the Assyrian text [11] Enkidu rejects
+his mistress also, apparently on his own initiative and for ascetic
+reasons. This fragment, heretofore assigned to the second book,
+probably belongs to Book III. The tablet of the Assyrian version which
+carries the portion related on the new tablet has not been found. Man
+redeemed from barbarism is the major theme of Book II.
+
+The newly recovered section of the epic contains two legends which
+supplied the glyptic artists of Sumer and Accad with subjects for
+seals. Obverse III 28-32 describes Enkidu the slayer of lions and
+panthers. Seals in all periods frequently represent Enkidu in combat
+with a lion. The struggle between the two heroes, where Enkidu strives
+to rescue his friend from the fatal charms of Ishara, is probably
+depicted on seals also. On one of the seals published by Ward, _Seal
+Cylinders of Western Asia_, No. 459, a nude female stands beside the
+struggling heroes. [12] This scene not improbably illustrates the
+effort of Enkidu to rescue his friend from the goddess. In fact the
+satyr stands between Gilgamish and Ishara(?) on the seal.
+
+
+TRANSLITERATION
+
+
+    it-bi-e-ma iluGilgamis su-na-tam i-pa-as-sar.
+    iz-za-kar-am [13] a-na um-mi-su
+    um-mi i-na sa-a-at mu-si-ti-ia
+    sa-am-ha-ku-ma at-ta-na-al-la-ak
+    i-na bi-ri-it id-da-tim
+    ib-ba-su-nim-ma ka-ka-'a [14] sa-ma-i
+    ki-?-?-rum [15] sa a-nim im-ku-ut a-na si-ri-ia
+    ás-si-su-ma ik-ta-bi-it [16] e-li-ia
+    ilam [17] is-su-ma nu-us-sa-su [18] u-ul el-ti-'i
+    ad-ki ma-tum pa-hi-ir [19] e-li-su
+    id-lu-tum ú-na-sa-ku si-pi-su
+    ú-um-mi-id-ma     pu-ti
+    i-mi- du         ia-ti
+    as-si-a-su-ma at-ba-la-ás-su a-na si-ri-ki
+    um-mi iluGilgamis mu-u-da-a-at ka-la-ma
+    iz-za-kar-am a-na iluGilgamis
+    mi-in-di iluGilgamish sa ki-ma ka-ti
+    i-na si-ri   i-wa-li-id-ma
+    ú-ra-ab-bi-su   sa-du-ú
+    ta-mar-su-ma [sa(?)]-ap-ha-ta at-ta
+    id-lu-tum ú-na-sa-ku si-pi-su [20]
+    te-it-ti-ra-su(?) ... su-ú-zu
+    ta-tar-ra-['a]-su a-na si-[ri-i]a
+    [is-(?)] ti-lam-ma [21] i-ta-mar sa-ni-tam
+    [su-na-]ta i-ta-wa-a-am a-na um-mi-su
+    [um-m]i a-ta-mar sa-ni-tam
+    [su-na-ta a-ta]mar e-mi-a i-na zu-ki-im
+    [i-na?] Unuk-(ki) ri-bi-tim [22]
+    ha-as-si-nu   na-di-i-ma
+    e-li-su   pa-ah- ru
+    ha-as-si-nu-um-ma sa-ni bu-nu-su
+    a-mur-su-ma ah-ta-ta a-na-ku
+    a-ra-am-su-ma ki-ma ás-sa-tim
+    a-ha-ap-pu-up   el-su
+    el-ki-su-ma ás-ta-ka-an-su
+    a-na     a-hi-ia
+    um-mi iluGilgamish mu-da-at ka-la-ma
+    [iz-za-kar-am a-na iluGilgamish]
+    ...................................
+
+
+COL. II
+
+
+    as-sum us-[ta-] ma-ha-ru it-ti-ka.
+    iluGilgamish su-na-tam i-pa-sar
+    iluEn-ki-[dû w]a?-si-ib ma-har ha-ri-im-tim
+    UR [ ]-ha-mu DI-?-al-lu-un
+    [ ] im-ta-si a-sar i-wa-al-du
+    ûmê 6 [23] ù 7 mu-si- a-tim
+    iluEn-ki-dû te-bi-   i-ma
+    sa-[am-ka-ta]   ir- hi
+    ha-[ri-im-tu pa-a]-sa i-pu-sa-am-ma
+    iz-za-[kar-am] a-na iluEn-ki-dû [24]
+    a-na-tal-ka dEn-ki-dû ki-ma ili ta-ba-ás-si
+    am-mi-nim it-ti na-ma-ás-te-e [25]
+    ta-at-ta-[na-al-]la -ak si-ra-am
+    al-kam   lu-ùr-di-   ka
+    a-na libbi Uruk-(ki) ri-bi-tim
+    a-na biti [el-]lim mu-sa-bi sa A-nim
+    dEn-ki-dû ti-bi lu-ru-ka
+    a-na É-[an-n]a mu-sa-bi sa A-nim
+    a-sar [iluGilgamis] it-[.........] ne-pi-si-tim(?)
+    ù at-[   ]-di [   -] ma
+    ta-[   ] ra-ma-an-   ka
+    al-ka ti-ba i-[na] ga-ag-ga-ri
+    ma-a-a? [26] -ak   ri-i-im
+    is-me a-wa-az-za im-ta-gár ga-ba-sa
+    mi-il-kum sa sinnisti
+    im-ta-[ku]-ut a-na libbi-su
+    is-hu-ut li-ib-sa-am
+    is-ti-nam [ú]-la-ab-bi-is-su
+    li-ib- [sa-am]   sa-ni-a-am
+    si-i it-ta-al-ba- ás
+    sa-ab-ta-at   ga-az-   zu
+    ki-ma ? i-ri-id-di-su
+    a-na gu-up-ri sa ri-i-im
+    a-s[ar   ] tar-ba-si-im
+    i-na [   ]-hu-ru ri-ia-ú [27]
+    .............................
+
+
+(About two lines broken away.)
+
+
+COL. III
+
+
+    si-iz-ba sa na-ma-ás-te-e
+    i-te-en-   ni-   ik
+    a-ka-lam is-ku-nu ma-har-su
+    ip-te-ik-ma i-na -at-tal [28]
+    ù ip-pa-al-la-   as
+    u-ul i-di dEn-ki- dû
+    aklam a-na a-ka-lim
+    sikaram   a-na sa-te-e-im
+    la-a   lum-mu-   ud
+    ha-ri-im-lum pi-sa i-pu-sa-am- ma
+    iz-za-kar-am a-na iluEn-ki-dû
+    a-ku-ul ak-lam dEn-ki-dû
+    zi-ma-at ba-la-ti-im
+    bi-si-ti si-im-ti ma-ti
+    i-ku-ul a-ak-lam iluEn-ki-dû
+    a-di si-bi-e-su
+    sikaram is-ti-a-am
+    7 as-sa-am-mi-im [29]
+    it-tap-sar kab-ta-tum i-na-an-gu
+    i-li-is libba- su- ma
+    pa-nu-su [it-]ta(?)-bir -ru [30]
+    ul-tap-pi-it [............]-i
+    su-hu-ra-am pa-ga-ar-su
+    sa-am-nam ip-ta-sa-ás-ma
+    a-we-li-is i-me
+    il-ba- ás li-ib-sa-am
+    ki-ma mu-ti i-ba-ás-si
+    il-ki ka-ak-ka-su
+    la-bi ú gi-ir- ri
+    is-sa-ak-pu sab-[si]-es mu-si-a-ti
+    ut- tap -pi-is sib-ba-ri [31]
+    la-bi uk-t[a ]-si-id
+    it-ti immer na-ki-[e?] ra-bu-tum
+    iluEn-ki-dû ma-as-sa-ar-su-nu
+    a-we-lum wa-ru-um
+    is-[te]-en id-lum
+    a-na[ ........ u]-za-ak-ki-ir
+    ...........................
+
+
+(About five lines broken away.)
+
+
+REVERSE I
+
+
+    ..............................
+    i-ip-pu-us     ul-sa-am
+    is-si-ma   i-ni-i-su
+    i-ta-mar   a-we-lam
+    iz [32]-za-kar-am   a-na  harimti
+    sa-am-ka-at uk-ki-si [33] a-we-lam
+    a-na mi-nim    il-li-kam
+    zi-ki-ir-su   lu-us-su [34]
+    ha-ri-im-tum is-ta-si a-we-lam
+    i-ba-us-su-um-ma i-ta-mar-su
+    e-di-il [35] e-es-ta-hi-[ta-am]
+    mi-nu   a-la-ku-zu na-ah- [36] [     -]ma
+    e pi-su    i-pu-sa-am-[ma]
+    iz-za-kar-am a-na iluEn-[ki-dû]
+    bi-ti-is e-mu-tim [                ]
+    si-ma-a-at    ni-si-i-   ma
+    tu-sa [37]-ar pa-a-ta-tim [38]
+    a-na âli dup-sak-ki-i e si-en
+    UG-AD-AD-LIL e-mi sa-a-a-ha-tim
+    a-na sarri Unuk-(ki) ri-bi-tim
+    pi-ti pu-uk epsi [39] a-na ha-a-a-ri
+    a-na iluGilgamis sarri sa Unuk-(ki) ri-bi-tim
+    pi-ti pu-uk epsi [40]
+    a-na ha-a-a-ri
+    ás-sa-at si-ma-tim i-ra-ah-hi
+    su-u pa-na-nu-um-ma
+    mu-uk wa-ar-ka-nu
+    i-na mi-il-ki sa ili ga-bi-ma
+    i-na bi-ti-ik a-pu-un-na-ti-su [41]
+    si- ma- az- zum
+    a-na zi-ik-ri id-li-im
+    i-ri-ku pa-nu-su
+
+
+REVERSE II
+
+............................................................
+
+(About five lines broken away.)
+
+
+    i-il-la-ak- ..........
+    ù sa-am-ka-at[     ]ar-ki-su
+    i- ru- ub-ma [42] a-na [43] libbi Uruk-(ki) ri-bi-tim
+    ip-hur um-ma-nu-um i-na si-ri-su
+    iz-zi-za-am-ma i-na zu-ki-im
+    sa Unuk-(ki) ri-bi-tim
+    pa-ah-ra-a-ma ni-su
+    i-ta-me-a   i-na si-ri-su pi(?)-it-tam [44]
+    a-na mi-[ni] [45] iluGilgamis ma-si-il
+    la-nam   sa- pi-  il
+    e-si[   pu]-uk-ku-ul
+        i ? -ak-ta
+    i[-    -]di   i-si?
+    si-iz-ba   sa[na-ma-]ás-[te]-e
+    i-te-  en-  ni-   ik
+    ka-ia-na i-na [libbi] Uruk-(ki) kak-ki-a-tum [46]
+    id-lu-tum u-te-el-li-   lu
+    sa-ki-in  ip-sa-   nu [47]
+    a-na idli sa i-tu-ru   zi-mu-su
+    a-na iluGilgamis ki-ma i-li-im
+    sa-ki-is-sum [48] me-ih-rum
+    a-na ilatIs-ha-ra ma-ia-lum
+    na-   [di]-i-   ma
+    iluGilgamish id-[   ]na-an(?)...
+    i-na mu-si in-ni-[    -]id
+    i-na-ak [49]-sa-am-    ma
+    it-ta-[    ]i-na zûki
+    ip-ta-ra-[ku   ]-ak-tam
+    sa   iluGilgamish
+    ........... da-na(?) ni-is-su
+
+
+COL. III [ERROR: unhandled comment start] SIC -->
+
+
+    ur-(?)ha .....................
+    iluGilgamis ................
+    i-na si-ri ....................
+    i-ha-an-ni-ib [pi-ir-ta-su?]
+    it-bi-ma ...
+    a-na pa-ni- su
+    it-tam-ha-ru i-na ri-bi-tu ma-ti
+    iluEn-ki-dû ba-ba-am ip-ta-ri-ik
+    i-na  si-pi-su
+    iluGilgamis e-ri-ba-am u-ul id-di-in
+    is-sa-ab-tu-ma ki-ma li-i-im
+    i- lu- du [50]
+    zi-ip-pa-am 'i-bu- tu
+    i-ga-rum ir-tu-tu [51]
+    iluGilgamis ù iluEn-ki- dû
+    is-sa-ab-tu-ù- ma
+    ki-ma li-i-im i-lu-du
+    zi-ip-pa-am 'i-bu- tu
+    i-ga-rum ir-tu-tu
+    ik-mi-is-ma iluGilgamis
+    i-na ga-ga-ag-ga-ri si-ip-su
+    ip-si-ih [52] us-sa-su- ma
+    i-ni-'i i-ra-az-zu
+    is-tu i-ra-zu i-ni-hu [53]
+    iluEn-ki-dû a-na sa-si-im
+    iz-za-kar-am a-na iluGilgamis
+    ki-ma is-te-en-ma um-ma-ka
+    ú- li- id- ka
+    ri-im-tum sa zu- pu-ri
+    ilat-Nin- sun- na
+    ul-lu e-li mu-ti ri-es-su
+    sar-ru-tam sa ni-si
+    i-si-im-kum iluEn-lil
+
+
+    duppu 2 kam-ma
+    su-tu-ur e-li ...
+    4 su-si [54]
+
+
+TRANSLATION
+
+
+    Gilgamish arose interpreting dreams,
+    addressing his mother.
+    "My mother! during my night
+    I, having become lusty, wandered about
+    in the midst of omens.
+    And there came out stars in the heavens,
+    Like a ... of heaven he fell upon me.
+    I bore him but he was too heavy for me.
+    He bore a net but I was not able to bear it.
+    I summoned the land to assemble unto him,
+    that heroes might kiss his feet.
+    He stood up before me [55]
+    and they stood over against me.
+    I lifted him and carried him away unto thee."
+    The mother of Gilgamish she that knows all things,
+    said unto Gilgamish:--
+    "Truly oh Gilgamish he is
+    born [56] in the fields like thee.
+    The mountains have reared him.
+    Thou beholdest him and art distracted(?)
+    Heroes kiss _his_ feet.
+    Thou shalt spare him....
+    Thou shalt lead him to me."
+    Again he dreamed and saw another dream
+    and reported it unto his mother.
+    "My mother, I have seen another
+    [dream. I beheld] my likeness in the street.
+    In Erech of the wide spaces [57]
+    he hurled the axe,
+    and they assembled about him.
+    Another axe seemed his visage.
+    I saw him and was astounded.
+    I loved him as a woman,
+    falling upon him in embrace.
+    I took him and made him
+    my brother."
+    The mother of Gilgamish she that knows all things
+    [said unto Gilgamish:--]
+    ...................................
+
+
+COL. II
+
+
+    that he may join with thee in endeavor."
+    (Thus) Gilgamish solves (his) dream.
+    Enkidu sitting before the hierodule
+
+    [   ] forgot where he was born.
+    Six days and seven nights
+    came forth Enkidu
+    and cohabited with the courtesan.
+    The hierodule opened her mouth
+    speaking unto Enkidu.
+    "I behold thee Enkidu; like a god thou art.
+    Why with the animals
+    wanderest thou on the plain?
+    Come! I will lead thee
+    into the midst of Erech of the wide places,
+    even unto the holy house, dwelling place of Anu.
+    Oh Enkidu, arise, I will conduct thee
+    unto Eanna dwelling place of Anu,
+    where Gilgamish [_oppresses_] the souls of men(?)
+    And as I ............
+    thou shalt ........ thyself.
+    Come thou, arise from the ground
+    unto the place yonder (?) of the shepherd."
+    He heard her speak and accepted her words with favor.
+    The advice of the woman
+    fell upon his heart.
+    She tore off one garment
+    and clothed him with it.
+    With a second garment
+    she clothed herself.
+    She clasped his hand,
+    guiding him like ..............
+    unto the mighty presence of the shepherd,
+    unto the place of the ... of the sheepfolds.
+    In ......... to shepherd
+    .............................
+
+
+(About two lines broken away.)
+
+
+COL. III
+
+
+    Milk of the cattle
+    he drank.
+    Food they placed before him.
+    He broke bread [58]
+    gazing and looking.
+    But Enkidu understood not.
+    Bread to eat,
+    beer to drink,
+    he had not been taught.
+    The hierodule opened her mouth
+    and said unto Enkidu:--
+    "Eat bread, oh Enkidu!
+    It is the conformity of life,
+    of the conditions and the fate of the land."
+    Enkidu ate bread,
+    until he was satiated.
+    Beer he drank
+    seven _times_(?).
+    His thoughts became unbounded and he shouted loudly.
+    His heart became joyful,
+    and his face glowed.
+    He stroked.................
+    _the hair of the head_. [59] His body
+    with oil he anointed.
+    He became like a man.
+    He attired himself with clothes
+    even as does a husband.
+    He seized his weapon,
+    which the panther and lion
+    fells in the night time cruelly.
+    He captured the wild mountain goats.
+    The panther he conquered.
+    Among the great _sheep for sacrifice_
+    Enkidu was their guard.
+    A man, a leader,
+    A hero.
+    Unto .......... he elevated
+    ...........................
+
+
+(About five lines broken away.)
+
+
+REVERSE I
+
+
+    ..............................
+    And he made glad.
+    He lifted up his eyes,
+    and beheld the man,
+    and said unto the hierodule:--
+    "Oh harlot, take away the man.
+    Wherefore did he come to me?
+    I would forget the memory of him."
+    The hierodule called unto the man
+    and came unto him beholding him.
+    She sorrowed and was astonished
+    how his ways were ............
+    Behold she opened her mouth
+    saying unto Enkidu:--
+    "At home with a family [_to dwell_??]
+    is the fate of mankind.
+    Thou shouldest design boundaries(??)
+    for a city. The trencher-basket put (upon thy head).
+    ....  ......an abode of comfort.
+    For the king of Erech of the wide places
+    open, addressing thy speech as unto a husband.
+    Unto Gilgamish king of Erech of the wide places
+    open, addressing thy speech
+    as unto a husband.
+    He cohabits with the wife decreed for him,
+    even he formerly.
+    But henceforth
+    in the counsel which god has spoken,
+    in the work of his presence
+    shall be his fate."
+    At the mention of the hero
+    his face became pale.
+
+
+REVERSE II
+
+............................................................
+
+(About five lines broken away.)
+
+
+    going .......................
+    and the harlot ..... after him.
+    He entered into the midst of Erech of the wide places.
+    The artisans gathered about him.
+    And as he stood in the street
+    of Erech of the wide places,
+    the people assembled
+    disputing round about him:--
+    "How is he become like Gilgamish suddenly?
+    In form he is shorter.
+    In ........ he is made powerful.
+
+
+    Milk of the cattle
+    he drank.
+    Continually in the midst of Erech weapons
+    the heroes purified.
+    A project was instituted.
+    Unto the hero whose countenance was turned away,
+    unto Gilgamish like a god
+    he became for him a fellow.
+    For Ishara a couch
+    was laid.
+    Gilgamish ...................
+    In the night he ..............
+    embracing her in sleep.
+    They ........ in the street
+    halting at the ................
+    of Gilgamish.
+    .......... mightily(?)
+
+
+COL. III
+
+
+    A road(?) ....................
+    Gilgamish ...................
+    in the plain ..................
+    his hair growing thickly like the corn.
+    He came forth ...
+    into his presence.
+    They met in the wide park of the land.
+    Enkidu held fast the door
+    with his foot,
+    and permitted not Gilgamish to enter.
+    They grappled with each other
+    goring like an ox.
+    The threshold they destroyed.
+    The wall they demolished.
+    Gilgamish and Enkidu
+    grappled with each other,
+    goring like an ox.
+    The threshold they destroyed.
+    The wall they demolished.
+    Gilgamish bowed
+    to the ground at his feet
+    and his javelin reposed.
+    He turned back his breast.
+    After he had turned back his breast,
+    Enkidu unto that one
+    spoke, even unto Gilgamish.
+    "Even as one [60] did thy mother
+    bear thee,
+    she the wild cow of the cattle stalls,
+    Ninsunna,
+    whose head she exalted more than a husband.
+    Royal power over the people
+    Enlil has decreed for thee."
+
+    Second tablet.
+    Written upon ...
+    240 (lines).
+
+
+INDEX TO PARTS 2 AND 3
+
+
+A.
+
+Adab, city, 123, 23.
+
+_addi_, wailing, 117, 31; 137, 22; 161, 12.
+
+_ahu_, brother, 212, 36.
+
+Aja, goddess, 198, 9.
+
+_al (gis)_, _al-gar (gis)_, a musical instrument, 187-191. See also
+No. 20 Rev. 7-12. _al-bi_, compound verb, 189 n. 6. In Ni. 8164
+(unpublished) _al-gar_, _al-gar-balag_ in list with _(gis)-á-lá_,
+also an instrument of music.
+
+_alad_, protecting genius, 154, 18.
+
+_amelis_, like a man, 215, 25.
+
+Amurrû, god. Psalm to, 118; 119.
+
+_angubba_, sentinel, 180, 14.
+
+Anu, god. 116, 18:26 ff. 131, 8; 165, 9; 180, 20.
+
+Anunnaki, gods, 114, 17:21; 116, 25; 116 n. 7; 128, 13; 135, 31;
+189, 21.
+
+Anunit, goddess, 158, 12; 166, 2.
+
+_apunnatu,_ nostrils, _pitik, apunnati_, 217, 28.
+
+_assammim_ (?), 215, 18.
+
+Arallû, 132, 26; 134, 7.
+
+_aramu_, cover, 198 n. 2.
+
+_araku_, be pale, Prt. _iriku_, 217, 31.
+
+_arhis_, quickly, 199, 28.
+
+Aruru, goddess. Lamentation to, 115. Sister of Enlil, 115, 2; 171,
+29; 190, 25. Other references, 116, 13:15:18; 117, 34 f.
+
+Asarludug, god, 163, 8; 170, 4.
+
+As-im-ur, title of Moon-god, 136, 12. _ás_ omitted, No. 19, 2.
+
+_as-me_, disk, 133, 38.
+
+Assirgi, god, No. 22, Rev. 7.
+
+Azagsud, goddess, 196, 30:33; 197, 38.
+
+
+B.
+
+Babbar, god, 116, 24; 139, 43; 147, 21; 148, 3; 152.
+
+Babylon, city, 158, 14; 160, 6; 163, 8; 166, 4:11.
+
+_badara_, see 200 n. 2. _badarani_, a weapon, 133, 36.
+
+_balag_, lyre, 138, 52.
+
+_bansur_, table; title of a goddess, 175, 3.
+
+Bau, goddess, 179, 2; 181, 30; 182, 32; 141, 7:10.
+
+_bisîtu_, condition, 215, 14.
+
+_bi'u_, cavern, 196, 29.
+
+_bulukku_, crab, 174, 5.
+
+_burgul_, engraver, 185, 8.
+
+
+C.
+
+Cutha, city. Center of the cult of Nergal, 167, 15.
+
+
+D.
+
+Dada, god, 192, 6.
+
+Dagan, West Semitic god, 149, 21.
+
+Damu, title of Tammuz, 176, 7.
+
+Deification of kings, 106-9; 127 n. 1.
+
+_dêpu_, shatter, 195 n. 16.
+
+DI-BAL, ideogram in incantations, 194, 10.
+
+Dilbat, city, 167, 16.
+
+Dilmun, land and city, 112, 2:4.
+
+_dimgul_, _dimdul_, master workman, 150.
+
+_dingir-gal-gal-e-ne_, the great gods, the Anunnaki, 114, 21:125;
+149, 19.
+
+dumu-anna, daughter of heaven, title of Bau, 179, 5; 181, 28; 184, 28.
+
+_dumu-sag_, title of Tasmet, 163, 12.
+
+Dungi, king of Ur, liturgy to, 136.
+
+_dupsakku_, trencher basket, 216, 17.
+
+Duranki, epithet for Nippur, 122, 18; 180, 11.
+
+
+E.
+
+E-anna, temple in Erech, 123, 30; 125; 148, 12; 213, 18.
+
+E-babbar, temple of the sun god, 152; 158, 11; 166, 1. Perhaps read
+E-barra.
+
+E-daranna, temple of Enki in Babylon, 169, 25; 170, 29. See BL. 133.
+
+_edelu_ = _ederu_, be gloomy, 216, 10.
+
+_é-dub_, house of learning, 117, 39.
+
+_é-gal_, palace, No. 19, Rev. 3; 115, 11; 131, 7; 134, 22; 158, 9.
+
+_é-gig_ = _kissu_, 191, 11.
+
+E-ibe-Anu, temple in Dilbat, 167, 16.
+
+E-kinammaka, temple, 115, 10.
+
+E-kisibba, temple in Kish, 166, 13.
+
+E-kur, temple, 180, 12; 183, 23; 190, 7; 146, 9; 147, 17; 158, 8;
+160, 4; 166, 17; 169, 23.
+
+Emah, Esmah, ritual house of the water cult of Marduk, 163, 7; 115, 4.
+
+E-malga-sud, temple, 181, 24; 141, 3.
+
+E-meteg, daughter of Ninkasi, 144.
+
+E-mete-ursag, temple in Kish, 166, 13.
+
+E-namtila, temple, 160, 4; 169, 24.
+
+_en-a-nu-un_, _en-á-nun_, title of Innini and Gula, 173, 2.
+
+Enbilulu, title of Marduk, 170, 5.
+
+E-ninnû, temple, 181, 22.
+
+_EN-HUL-tim-mu_, 194 n. 2.
+
+_EN-KA-KA, bêl dababi_, 194, 2.
+
+Enki, god. Hymn to, No. 20, 113, 7; 114, 10; 116, 21; 122, 7; 149, 16.
+
+Enkidu, satyr, 213, 3:7:10:11; 214, 6; 215, 11:12:15:34; 216, 13;
+219, 8:15:25; 131, 11; 134, 16; 178, 13.
+
+Enlil, god. Liturgy to, 155-184. Regarded as god of light, 157,
+1 ff. 158, 3 f. Other references, 114, 19; 115, 2; 116, 19; 131, 6;
+136, 5; 139, 40; 149, 22; 146, 3:7:14; 189, 11:19; 220, 33.
+
+Enul, god, 149, 16.
+
+Enzu, god, 139, 41; 146, 3.
+
+_epsanu_, deeds, 218, 18.
+
+_epû_, be dark, I2 _itêpû_, 196, 29.
+
+Erech, city, 125; 149, 13. Erech _ribîtim_, 212, 28; 213, 15; 217,
+19:21; 217, 3:6.
+
+eri-azag, holy city, Isin, 141, 8.
+
+_erida_, title, 175, 1.
+
+Eridu, city, 113, 20; 136, 13.
+
+Erishkigal, goddess, 131, 10; 134, 11.
+
+_ersagtugmal_, penitential psalm, 118.
+
+E-sagila, temple, 152.
+
+E-sakudkalamma, temple, 166, 10; 169 n. 4.
+
+_esendili_, a title, 177, 10.
+
+_eskar_, fixed tax, 188, 9.
+
+_es-lal_, a sacred place, 161, 14.
+
+E-temen-anki, temple, 169, 25.
+
+E-turkalamma, temple, 166, 14.
+
+Euphrates, river, 183, 12; 183, 20.
+
+E-zida, temple, 166, 12.
+
+Ezina, grain goddess, 174, 9.
+
+Ezira, reading of the divine name _KA-DI_, 177, 11.
+
+
+F.
+
+Fara, modern Arabic name for the site of Isin (?), 177 n. 4.
+
+
+G.
+
+_GAB_, baked bread, 200, 33.
+
+_GAB-LAL_, a cake made with honey, 195, 22; 200, 35.
+
+_GAR-sunnu = episan-sunu_, 198, 13.
+
+_gasan-gula_, title of Ninâ, 119 n. 2.
+
+_gepar_, dark chamber, 123, 30 f., 148, 10; 161, 18.
+
+Gibil, god, 197, 3.
+
+_gi-gál(gis)_,interlude, 151 n. 1; 182, 33.
+
+_gigunna_, 114, 23.
+
+Gilgamish, king of Erech, 207; 211, 1:115 f. 212, 17:37; 213, 2; 217,
+21; 218, 9:20:24:29 and below 2; 219, 10;15:20:26. Derivation of name,
+208. See also No. 16 Rev. II 15; 197, 42; 124 f.
+
+_gilsa_, a sacred relic, 132, 22.
+
+Girra, _Irra_, god, 174, 7; 177, 12.
+
+_girru_, lion, 215, 29.
+
+Girsu, city, 181, 23.
+
+Guanna, deity, No. 16 Rev. II 18.
+
+Guedin, province, 129, 28.
+
+Gunura, goddess of healing, 176, 6.
+
+_gupru_, mighty, 214, 33.
+
+Gutium, land, 120 ff.
+
+
+H.
+
+Hallab, city, 125; 141.
+
+_hanabu_, grow thickly, Prs. _ibannib_, 219, 4.
+
+_hapapu_, embrace, 212, 34.
+
+_hassinu_, axe, 212, 29:31.
+
+_harbatu_, waste place, 200, 39.
+
+Harsagkalamma, temple, 166, 14.
+
+Hubur, mythical river, 197, 42.
+
+_hûlu_, a bird, 199, 31.
+
+_hûku_, a bird, 199, 31.
+
+
+I.
+
+Ibi-Sin, king of Ur, 151 n. 2.
+
+_ibsi_, liturgical expression, 120, 5.
+
+Igigi, heaven spirits, 116 n. 6.
+
+_IGI-NAGIN-NA_, 194, 11.
+
+_imib_, weapon, 131, 8. _mi-ib_, ibid. n.3.
+
+_imin_, seven. Seven lands, 130, 35; seventh day, 134, 18.
+
+Immer, god, 177, 8.
+
+Indag, god, consort of Gula, 173, 3.
+
+Innini, goddess, 123. Liturgy to, 184; 123, 29. Consort of Shamash,
+148, 4. Other references, 154, 21.
+
+_issur samê_, unclean birds, 195 n. 10.
+
+Ishara, goddess, 218, 22.
+
+Isin, city, 122, 15; 176, 4.
+
+Ishme-Dagan, 178 ff. Son of Enlil, 181, 29; 182, 32. Liturgy to, 143.
+
+
+K.
+
+_KA-DIB-BI, sibit pî_, 194, 10.
+
+_KAK-DIG_, a weapon, 130, 4.
+
+_kakkitu_ (?), weapon. Pl. _kakkiatum_, 218, 16.
+
+_KAK-SIR_, a weapon (?), 130, 4.
+
+_kalama_, the Land, Sumer, 138, 25; 141, 5; 147, 22; 150, 4; 154,
+17; 177, 9.
+
+_kanami_=_kalama_, land, 120, 8.
+
+KA-NE, a new ideograph, 153 n. 10.
+
+_kasû_, bind. I2 _liktisu_, 198, 20.
+
+Kenurra, chapel of Ninlil, 114, 22; 123, 20; 160, 4; 166, 18; 166,
+8; 169, 24.
+
+Kes, city, 115, 11; 123, 22.
+
+_kesda-azag_, a relic, 132, 27.
+
+_ki_, _kin_ for _gim_ = _kima_, 120, 6.
+
+KI-AG-MAL, _râmu_, 194 n. 4.
+
+Kidurkazal, daughter of Ninkasi, 145.
+
+_ki-malla_, to bend. _tig-zu ki-ma-al-la nu-gí-gí_, "Thy neck wearies
+not in bending," 168, 2. [Correct the translation.]
+
+_ki-in-gin, ki-en-gin_, Sumer, 115, 24; 134, 19; 189, 17.
+
+_KI-SAR, kakkara tasabbit_, 199, 29.
+
+Kish, city, 129, 30; 166, 12. _é kis-(ki)-sú_, so read, No. 5 Obv. 8.
+
+Kullab, city, 149, 14; 173, 1.
+
+_kunin, gunin_, reed basket, 150 n. 3.
+
+_kurgal_, "great mountain," title of Sumer, 114, 11. Of Enlil, 114,
+19; 182, 5.
+
+_KURUN-NA_, (_amelu_), 196, 34.
+
+_KUS-KU-MAL_, 194, 11.
+
+
+L.
+
+_la'atu_, gore. Prt. _ilûdu_, 219, 12:17.
+
+_labu_, panther, 215, 29:32.
+
+Lagash, city, 181, 23:26.
+
+_Lahama_, goddess of Chaos, 113, 5.
+
+Laws, promulgated by Dungi, 138, 31.
+
+Libit-Ishtar, king, 141.
+
+_libsu_, garment, 214, 27:29; 215, 26.
+
+Ligirsig, a god, 113, 3.
+
+_lilazag_, epithet of a deified king, 141, 1.
+
+Lillaenna, goddess, 192, 5.
+
+_limenu_, be evil. II1 _ulammenu-inni_, 197, 7.
+
+Lugal-dig, god, 197, 5.
+
+_lu'ûtu_, pollution, 195, 19.
+
+
+M.
+
+Magan, land, 112, 2:5.
+
+_maialu_, couch, 218, 22.
+
+_malasu_, shear, 195, 20.
+
+Mamit, 200, 41.
+
+_mandatu_, form, 195, 21.
+
+_mal-gar_ (_gi_), a musical instrument, 191, 10.
+
+_mangu_, disease, 195, 19.
+
+Marduk, god, 151.
+
+_markasu_, leader, 150.
+
+_masû_, seize, 195 n. 5.
+
+_masû_, to forget, 216, 7.
+
+Me-azag, daughter of Ninkasi, 144.
+
+_mehru_, fellow, 218, 21.
+
+Mehus, daughter of Ninkasi, 144.
+
+Meluhha, land, 112, 6.
+
+Meslam, temple in Cutha, 167, 15.
+
+_mesû_, a tree, 159, 23.
+
+_muk_, now, but now, 217, 26.
+
+Mulgenna, Saturn, 137, 18.
+
+Mulmul, gods, 142.
+
+
+N.
+
+_nâdu_, water bottle, 198, 17.
+
+_nadîtu_, temple devotee, 188, 7.
+
+_nagû_, shout. Prs. _inangu_, 215, 19.
+
+_nâku_, embrace, 218, 26.
+
+_namastû_, cattle, etc., 213, 12:17; 214, 1; 219, 14.
+
+Namtar, god, 197, 3; 132, 24.
+
+Nangt, goddess, 192, 7.
+
+Nannar, god, 115, 12; 116, 23; 133, 38; 137, 11; 150, 2.
+
+Nergal, god, 131, 6.
+
+Nidaba, goddess, 191.
+
+_ni-gál_, cattle, 121, 6.
+
+_nimir = ligir_, 174, 4.
+
+_ninda_, linear measure, 133, 41.
+
+Ningal, goddess, No. 19, 5; 148, 3; 151, 3.
+
+Ningiszida, god, 133, 34.
+
+Nin-isinna, goddess, 122, 16; 191, 15.
+
+Ninkasi, goddess, 144.
+
+Ninki, goddess, 149, 16.
+
+Ninlil, goddess, 116, 20; 123, 20; 137, 12; 146, 14.
+
+Ninmada, daughter of Ninkasi, 144.
+
+Ninmah, goddess, 116, 22.
+
+Ninmenna, epithet of Damgalnunna, 190, 27.
+
+Ninsun, goddess, 219, 30; 208 n. 6; 129; 131, 16 (?).
+
+Nintudri, goddess, 123, 26. Nintudra, 137, 16. Creatress of man and
+woman, 192.
+
+Ninul, goddess, 149, 16.
+
+Ninurasâ, god, 191, 12; 146, 12.
+
+Ninzuanna, goddess, 122, 13.
+
+Nippur, city, 112, 8; 122, 18:19; 160, 3; 169, 21; 180, 11; 149, 18;
+158, 7; 165, 16.
+
+_NI-SUR_ (_amelu_), 196, 35.
+
+Nudimmud, god, 199, 25. No. 20, 10.
+
+_nugiganna_, epithet of Innini, 185, 2.
+
+_nûn apsi_, unclean fish, 195 n. 11.
+
+Nunamnirri, god, 190, 28; 146, 13; 180, 10:13:17.
+
+_nun-ùr_, epithet of Amurrû, 119, 3.
+
+Nusiligga, daughter of Ninkasi, 144.
+
+Nusku, god, 146, 7; 163, 13.
+
+
+P.
+
+Pabilsag, god. Son and consort of Gula, 173 n. 3; 176, 5. A form
+of Tammuz.
+
+_pananumma_, formerly, 217, 25.
+
+Panunnaki, goddess, consort of Marduk, 163, 9.
+
+_pataku_, fashion, break, 214, 4.
+
+_paturru_, a weapon, 200, 37.
+
+Pleiades, 142.
+
+
+R.
+
+_ratatu_, demolish, 219, 19.
+
+Rimat ilatNinsun, 208 n. 6; 219, 29.
+
+Ruskisag, goddess, 132, 28.
+
+_RU-TIG_, an epithet, 141, 2.
+
+
+S.
+
+_sa-bar; sa-sud-da_, liturgical note, 182, 31.
+
+_sabsis_, cruelly, 215, 30.
+
+Sagilla, temple, 158, 15. E-sagila, 160, 5; 166, 5; 166, 11.
+
+_sahatu_, be astounded, 216, 10. Arabic _sahita_.
+
+_saiahatu_, desire, comfort, 216, 18.
+
+_sakapu_, fell. I2 _issakpu_, 215, 30.
+
+_salûtu_, enmity, 199, 27.
+
+Samas, god, 197, 4:8; 198, 10:13; 199, 25:31.
+
+Samas-sum-ukin, king. Incantations for, 193-200; 199, 23.
+
+Samsuiluna, king, 151.
+
+_SAR-DI-DA_, a relic, 133, 37.
+
+Serpent adversary, 183, 21; 148, 12.
+
+Seven, sacred number. Seven gods, 196, 30.
+
+Ship, in legend, 113, 2.
+
+Silsirsir, a chapel.
+
+Sin, god. Hymn to, No. 19.
+
+_sippu_, threshold, 219, 13:18.
+
+_Sippar_, city, 158, 10; 160, 5; 166, 19.
+
+_sirgidda_, long song, 140, 54.
+
+Siris, daughter of Ninkasi, 144.
+
+Siriskas, daughter of Ninkasi, 144.
+
+Siriskasgig, daughter of Ninkasi, 144.
+
+_sirsagga_, first melody, 117, 28; 139, 48.
+
+_SU-AN = kat ili_, 194, 12. See also _SU-d_INNINI, 194, 12.
+
+_SU-NAM-ERIM-MA_, 194, 13.
+
+_SU-NAM-LU-GAL-LU_, 194, 13.
+
+_subura_, earth, 175, 3.
+
+_su-ud, sú-ud-ám_, epithet of goddess of Suruppak, 177, 10 and note 4.
+
+_suhuru_, hair (?), 215, 23.
+
+_sukkal-zid_, title of Nebo, 163, 10.
+
+Sulpae, god, No. 16 II 22.
+
+Sumer, land, 113, 21; 114, 11; 136, 2.
+
+_sumugan_, title of Girra, 177, 12 and note; 179, 3.
+
+
+T.
+
+Tablet of fates, 132 n. 3.
+
+Tammuz, ancient ruler, 208. Liturgy to, 191. Other references, 126;
+208; 131, 20.
+
+_tapasu_, seize, capture, II2 _uttappis_, 215, 31.
+
+_temeru_, cook, 196, 35.
+
+Tigris, river, 183, 12.
+
+Tummal, land, 190, 9; 191, 10.
+
+
+U.
+
+_ud_, spirit, word, 150, 1:4; 158, 16; 159, 17:24.
+
+_ul-al-tar_, 191 n. 6.
+
+_ulinnu_, girdle cord, 195, 20.
+
+Ulmas, temple of Anunit, 158, 13; 166, 3.
+
+Ur, city, 134, 21; 137, 6. Lamentation for, 150. Other references,
+No. 19, 4:7:8:16:28: Rev. 5; 151, 3.
+
+Ur-azag, king of Isin (?), 140 n. 2.
+
+Ur-Engur, king of Ur, 126 ff.
+
+_urinu_, spear (?), 173, 3.
+
+_ursaggal_, epithet for Ninurasa, 165, 11. For Enbilulu, 170, 5.
+
+_usumgal_, 117, 33.
+
+
+Z.
+
+_zâbu_, flow. _li-zu-bu_, 198, 16. Cf. _gàm = za'ibu, mitirtu_,
+words for canal, SAI. 691-3.
+
+_zag-sal_, liturgical note, 103 f. No. 21 end.
+
+_za-am_, 138, 34; 139, 38; 140, 56.
+
+_zênu_, be enraged, II1 _uzinu-inni_, 197, 6.
+
+_ZI-TAR-RU-DA = nikis napisti_, 194 n. 6.
+
+
+DESCRIPTION OF TABLETS
+
+
+Number in this volume.  1
+
+Museum number.   7771
+
+Description.
+
+Dark brown unbaked tablet. Three columns. Lower edge slightly
+broken. Knobs at left upper and left lower corners to facilitate the
+holding of the tablet. H. 7 inches: W. 6 1/2; T. 1 1/2. Second tablet
+of the Epic of Gilgamish.
+
+
+NOTES
+
+
+[1] Ni. 13981, published by Dr. Poebel in PBS. V, No. 2.
+
+[2] The local Bêl of Erech and a bye-form of Enlil, the earth god. Here
+he is the consort of the mother goddess Ninsun.
+
+[3] Tammuz is probably a real personage, although _Dumu-zi_, his
+original name, is certainly later than the title _Ab-ú_, probably the
+oldest epithet of this deity, see _Tammuz and Ishtar_, p. 8. _Dumu-zi_
+I take to have been originally the name of a prehistoric ruler of
+Erech, identified with the primitive deity Abu.
+
+[4] See _ibid._, page 40.
+
+[5] Also Meissner's early Babylonian duplicate of Book X has invariably
+the same writing, see Dhorme, _Choix de Textes Religieux_, 298-303.
+
+[6] Sign whose gunufied form is read _aga_.
+
+[7] The standard text of the Assyrian version is by Professor Paul
+Haupt, _Das Babylonische Nimrodepos_, Leipzig, 1884.
+
+[8] The name of the mother of Gilgamish has been erroneously read
+_ri-mat ilat_Nin-lil, or _Rimat-Bêlit_, see Dhorme 202, 37; 204,
+30, etc. But Dr. Poebel, who also copied this text, has shown that
+_Nin-lil_ is an erroneous reading for _Nin-sun_. For _Ninsun_ as
+mother of Gilgamish see SBP. 153 n. 19 and R.A., IX 113 III 2. _Ri-mat
+ilat_Nin-sun should be rendered "The wild cow Ninsun."
+
+[9] The fragments which have been assigned to Book II in the British
+Museum collections by Haupt, Jensen, Dhorme and others belong to
+later tablets, probably III or IV.
+
+[10] Rm. 289, latter part of Col. II (part of the Assyrian version)
+published in HAUPT, _ibid._, 81-4 preserves a defective text of this
+part of the epic. This tablet has been erroneously assigned to Book
+IV, but it appears to be Book III.
+
+[11] K. 2589 and duplicate (unnumbered) in Haupt, _ibid._, 16-19.
+
+[12] See also Ward, No. 199.
+
+[13] Here this late text includes both variants _pasaru_ and
+_zakaru_. The earlier texts have only the one or the other.
+
+[14] For _kakabê_; _b_ becomes _u_ and then is reduced to the
+breathing.
+
+[15] The variants have _kima kisri_; _ki-[ma]?-rum_ is a possible
+reading. The standard Assyrian texts regard Enkidu as the subject.
+
+[16] Var. _da-an_
+
+[17] _SAM-KAK_ = _ilu_, net. The variant has _ultaprid ki-is-su-su_,
+"he shook his murderous weapon." For _kissu_ see ZA. 9,220,4 =
+CT. 12,14b 36, _gis-kud_ = _ki-is-su_.
+
+[18] Var. _nussu_ for _nus-su_ = _nussa-su_. The previous translations
+of this passage are erroneous.
+
+[19] This is to my knowledge the first occurence of the infinitive
+of this verb, _paheru_, not _paharu_.
+
+[20] Text _ma_?
+
+[21] _istanamma_ > _istilamma_.
+
+[22] Cf. Code of Hammurapi IV 52 and Streck in _Babyloniaca_ II 177.
+
+[23] Restored from Tab. I Col. IV 21.
+
+[24] Cf. Dhorme _Choix de Textes Religieux_ 198, 33.
+
+[25] _namastû_ a late form which has followed the analogy of _restû_
+in assuming the feminine _t_ as part of the root. The long _û_ is
+due to analogy with _namassû_ a Sumerian loan-word with nisbe ending.
+
+[26] Room for a small sign only, perhaps _A; maiak_? For _mâka_,
+there, see BEHRENS, LSS. II page 1 and index.
+
+[27] Infinitive "to shepherd"; see also Poebel, PBS. V 106 I,
+_ri-ia-ú_, _ri-te-ia-ú_.
+
+[28] The text has clearly _AD-RI_.
+
+[29] Or _azzammim_? The word is probably an adverb; hardly a word
+for cup, mug (??).
+
+[30] _it_ is uncertain and _ta_ more likely than _us_. One expects
+_ittabriru_. Cf. _muttabrirru_, CT. 17, 15, 2; _littatabrar_, EBELING,
+KTA. 69, 4.
+
+[31] For _sapparu_. Text and interpretation uncertain. _uttappis_
+II2 from _tapasu_, Hebrew _tapas_, seize.
+
+[32] Text _ta_!
+
+[33] On _ekesu_, drive away, see Zimmern, _Shurpu_, p. 56. Cf. _uk-kis
+_ Myhrman, PBS. I 14, 17; _uk-ki-si_, King, Cr. App. V 55; etc., etc.
+
+[34] The Hebrew cognate of _masû_, to forget, is _nasâ_, Arabic
+_nasijia_, and occurs here in Babylonian for the first time. See also
+Brockelman, _Vergleichende Grammatik_ 160 a.
+
+[35] Probably phonetic variant of _edir_. The preterite of _ederu_,
+to be in misery, has not been found. If this interpretation be correct
+the preterite _edir_ is established. For the change _r_ > _l_ note also
+_attalah_ < _attarah_, Harper, _Letters_ 88, 10, _bilku_ < _birku_,
+RA. 9, 77 II 13; _uttakkalu_ < _uttakkaru_, Ebeling, KTA. 49 IV 10.
+
+[36] Also _na_-'-[     -]_ma_ is possible.
+
+[37] The text cannot be correct since it has no intelligible sign. My
+reading is uncertain.
+
+[38] Text uncertain, _kal-lu-tim_ is possible.
+
+[39] _KAK-si_.
+
+[40] _KAK-si_.
+
+[41] Literally nostrils. _pitik apunnati-su_, work done in his
+presence(?). The meaning of the idiom is uncertain.
+
+[42] Text _ZU_!
+
+[43] Text has erroneous form.
+
+[44] Text _PA-it-tam_ clearly!
+
+[45] Omitted by the scribe.
+
+[46] Sic! The plural of _kakku_, _kakkîtu_(?).
+
+[47] Cf. _e-pi-sa-an-su-nu libâru_, "May they see their doings,"
+_Maklu_ VII 17.
+
+[48] For _sakin-sum_.
+
+[49] On the verb _nâku_ see the Babylonian Book of Proverbs § 27.
+
+[50] The verb _la'atu_, to pierce, devour, forms its preterite _ilut_;
+see VAB. IV 216, 1.  The present tense which occurs here as _ilut_
+also.
+
+[51] Note _BUL(tu-ku)_ = _ratatu_ (falsely entered in Meissner,
+SAI. 7993), and _irattutu_ in Zimmern, _Shurpu_, Index.
+
+[52] "For _ipsah_."
+
+[53] Sic! _hu_ reduced to the breathing _'u_; read _i-ni-'u_.
+
+[54] The tablet is reckoned at forty lines in each column,
+
+[55] Literally "he attained my front."
+
+[56] IV1 of _waladu_.
+
+[57] I.e., in the suburb of Erech.
+
+[58] _pataku_ has apparently the same sense originally as _bataku_,
+although the one forms its preterite _iptik_, and the other
+_ibtuk_. Cf. also _mahasu_ break, hammer and construct.
+
+[59] The passage is obscure. Here _suhuru_ is taken as a loan-word
+from sugur = kimmatu, hair of the head. The infinitive II1 of _saharu_
+is philologically possible.
+
+[60] I.e., an ordinary man.

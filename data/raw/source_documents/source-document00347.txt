@@ -1,0 +1,509 @@
+﻿
+Action, Local.
+(a) The wasteful oxydation of the zinc in a galvanic battery due to
+local impurities and variations in the composition of the zinc. These
+act to constitute local galvanic couples which cause the zinc to
+dissolve or oxydize, without any useful result. Amalgamation of the zinc
+prevents local action. Chemically pure zinc is also exempt from local
+action, and can be used in an acid battery without amalgamation. (See
+Amalgamation.)
+
+(b) The same term has been employed to indicate the eddy or foucault
+currents in dynamo electric machines. (Sec Current, Foucault.)
+
+
+Activity.
+The rate of doing work; the work done per second by any expenditure of
+energy. The activity of a horse-power is 550 foot lbs. per second, or
+746 volt-coulombs per second. The practical electric unit is the
+volt-ampere, often called the watt. (Sec Energy, Electric.)
+
+
+Adapter.
+A screw coupling to engage with a different sized screw on each end; one
+of the uses is to connect incandescent lamps to gas-fixtures.
+
+
+A. D. C.
+Abbreviation for Anodic Duration Contraction, q. v.; a term in
+electro-therapeutics.
+
+
+Adherence, Electro-magnetic.
+The adherence between surfaces of iron due to elcctro-magnetic
+attraction. It has been applied to the driving-wheels of an engine and
+rail, whose grip is increased by such action. In one method a deep
+groove was cut around the wheel which was wound with a magnetizing coil.
+Thus one rim becomes a north and the other a south pole, and the rail
+completing the circuit acts as the armature. Such an arrangement
+prevents a wheel from sliding. Electro-magnetic adherence has also been
+employed to drive friction gear wheels. In one arrangement the two
+wheels are surrounded by a magnetizing coil, under whose induction each
+attracts the other, developing high adherence between their peripheries.
+
+
+12  STANDARD ELECTRICAL DICTIONARY.
+
+
+Fig. 3. ELECTRO-MAGNETIC CAR WHEEL.
+
+
+Fig. 4. ELECTRO-MAGNETIC FRICTION GEAR.
+
+
+Admiralty Rule of Heating.
+The British Admiralty specifications for the permissible heating of
+dynamos. It holds that at the end of a run of six hours no part of the
+dynamo under trial shall show a rise of temperature greater than 11º C.
+(20º F.) above the temperature of the air surrounding it. This is
+thought to be a very stringent and unnecessarily high requirement.
+
+
+Aerial Conductor.
+An electric conductor carried from housetops, poles, or otherwise so as
+to be suspended in the air, as distinguished from an underground or
+submarine conductor.
+
+
+Affinity.
+The attraction of atoms and in some cases perhaps of molecules for each
+other by the force of chemical attraction. When the affinity is allowed
+to act or is carried out, a chemical change, as distinguished from a
+physical or mechanical change, ensues. Thus if sulphur and iron are each
+finely powdered and are mixed the change and mixture are mechanical. If
+slightly heated the sulphur will melt, which is a physical change. If
+heated to redness the iron will combine with the sulphur forming a new
+substance, ferric sulphide, of new properties, and especially
+characterized by unvarying and invariable ratios of sulphur to iron.
+Such change is a chemical one, is due to chemical affinity, is due to a
+combination of the atoms, and the product is a chemical compound.
+
+
+13  STANDARD ELECTRICAL DICTIONARY.
+
+
+Agir Motor.
+The Anderson and Girdlestone motor. The term "agir" is made up from the
+first portions of each name.
+
+
+Agonic Line.
+The locus of points on the earth's surface where the magnetic needle
+points to the true north; an imaginary line determined by connecting
+points on the earth's surface where the needle lies in the true
+geographical meridian. Such a line at present, starting from the north
+pole goes through the west of Hudson's Bay, leaves the east coast of
+America near Philadelphia, passes along the eastern West Indies, cuts
+off the eastern projection of Brazil and goes through the South Atlantic
+to the south pole. Thence it passes through the west of Australia, the
+Indian Ocean, Arabia, the Caspian sea, Russia and the White sea to the
+North Pole. It crosses the equator at 70° W. and 55° E. approximately.
+(See Magnetic Elements.)
+
+Synonym--Agone.
+
+[Transcriber's note: The file Earth_Declination_1590_1990.gif provided
+by the U.S. Geological Survey (http://www.usgs.gov) is an animation of
+the declination of the entire earth.]
+
+
+Air.
+Air is a dielectric whose specific inductive capacity at atmosphere
+pressure is taken as 1. It is practically of exactly the same
+composition in all places and hence can be taken as a standard. When dry
+it has high resistance, between that of caoutchouc and dry paper.
+Dampness increases its conductivity.
+
+It is a mixture of oxygen and nitrogen, with a little carbonic acid gas
+and other impurities. Its essential composition is:
+
+Oxygen:   (by weight)   23.14   (by volume)   21
+Nitrogen:               76.86                 79
+
+The specific inductive capacity varies for different pressures thus:
+
+Approximate vacuum (.001 mm., .0004 inch)   0.94 (Ayrton)
+    "          "   ( 5 mm.  , .2 inches )   0.9985 (Ayrton)
+                                            0.99941 (Boltzman.)
+
+The specific gravity of air under standard conditions 15.5° C (60° F.)
+and 760 mm. barometric pressure (30 inches) is taken as unity as a
+standard for gases.
+
+[Transcriber's note: Argon accounts for 0.9340%. It was discovered in
+1894, two years after this book.]
+
+
+Air-Blast.
+(a) In the Thomson-Houston dynamo an air-blast is used to blow away the
+arc-producing spark liable to form between the brushes and commutator.
+It is the invention of Prof. Elihu Thomson. The air is supplied by a
+positive action rotary blower connected to the main shaft, and driven
+thereby. The wearing of the commutator by destructive sparking is thus
+prevented.
+
+A drum H H is rotated, being mounted on the axis X of the dynamo. As it
+rotates the three vanes are thrown out against the irregular shaped
+periphery of the outer case T T. The arrow shows the direction of
+rotation. The air is thus sent out by the apertures a a. O is the
+oil-cup.
+
+(b) The air-blast has also been used by Prof. Thomson in experiments
+with high frequency currents of high potential. By directing a blast of
+air against a spark discharge between ball terminals of an alternating
+current, the nature of the current was changed and it became capable of
+producing most extraordinary effects by induction.
+
+
+14   STANDARD ELECTRICAL DICTIONARY.
+
+
+Fig. 5. AIR BLOWER FOR THOMSON'S DYNAMO.
+
+
+Air Condenser.
+A static condenser whose dielectric is air. The capacity of an air
+condenser in farads is equal to
+  A / ( 4.452E12 * t )
+in which A is the area of one sheet or sum of the areas of one set of
+connected sheets in square inches and t is the thickness of the layer of
+air separating them.
+
+A convenient construction given by Ayrton consists in a pile of glass
+plates P separated by little bits of glass F of known thickness, three
+for each piece. Tin-foil T is pasted on both sides of each piece of
+glass and the two coatings are connected. The tin-foil on each second
+plate is smaller in area than that on the others. The plates are
+connected in two sets, each set comprising every second plate. For A in
+the formula the area of the set of smaller sheets of tin-foil is taken.
+By this construction it will be seen that the glass does not act as the
+dielectric, but only as a plane surface for attachment of the tin-foil.
+Posts E E keep all in position. One set of sheets connects with the
+binding post A, the other with B.
+
+The capacity of any condenser with a dielectric of specific inductive
+capacity i is given by the formula:
+     ( i *A^1 ) / ( 4.452E12 * t1 )
+
+The air condenser is used for determining the value of i for different
+dielectrics.
+
+
+Fig. 6. AIR CONDENSER.
+
+
+15  STANDARD ELECTRICAL DICTIONARY.
+
+
+Air Gaps.
+In a dynamo or motor the space intervening between the poles of the
+field magnet and the armature. They should be of as small thickness, and
+of as extended area as possible. Their effect is to increase the
+magnetic reluctance of the circuit, thereby exacting the expenditure of
+more energy upon the field. They also, by crowding back the potential
+difference of the two limbs, increase the leakage of lines of force from
+limb to limb of the magnet.
+
+
+Air Line Wire.
+In telegraphy the portion of the line wire which is strung on poles and
+carried through the air.
+
+
+Air Pump, Heated.
+It has been proposed to heat portions of a mercurial air pump to secure
+more perfect vacua, or to hasten the action. Heating expands the air and
+thus produces the above effects.
+
+
+16   STANDARD ELECTRICAL DICTIONARY.
+
+
+Air Pump, Mercurial.
+An air pump operated by mercury. The mercury acts virtually as the
+piston, and the actuating force is the weight of the column of mercury,
+which must exceed thirty inches in height. There are many types.
+Mercurial air pumps are largely used for exhausting incandescent lamp
+chambers. (See Geissler Air Pump,--Sprengel Air Pump.)
+
+
+Air Pumps, Short Fall.
+A mercurial air pump in which the fall of mercury or the height of the
+active column is comparatively small. It is effected by using several
+columns, one acting after the other. A height of ten inches for each
+column suffices in some forms. Enough columns must be used in succession
+to make up an aggregate height exceeding 30 inches.
+
+
+Fig. 7. BURGLAR ALARM SWITCH OR CIRCUIT BREAKER.
+
+
+Fig. 8. BURGLAR ALARM SWITCH OR CIRCUIT BREAKER.
+
+
+Alarm, Burglar.
+A system of circuits with alarm bell extending over a house or
+apartments designed to give notice of the opening of a window or door.
+As adjuncts to the system the treads of the stairs are sometimes
+arranged to ring the bell, by completing a circuit when trod on. Door
+mats are also arranged to close circuits in like manner.
+
+
+17  STANDARD ELECTRICAL DICTIONARY.
+
+
+For doors and windows switches are provided which are open as long as
+the door or window is closed, but which, on being released by opening
+the door or windows, automatically close the circuit. The circuit
+includes an alarm bell and battery, and the latter begins to ring and
+continues until stopped, either by the closing of the door or by a
+switch being turned. The connections are sometimes so contrived that the
+reclosing of the door or window will not stop the bell from ringing.
+
+The cuts show various switches for attachment to doors and windows. It
+will be seen that they normally keep the circuit closed, and that it is
+only open when pressure, as from a closed door, is brought upon them. In
+the case of a door a usual place for them is upon the jamb on the hinge
+side, where they are set into the wood, with the striking pin
+projecting, so that as the door is closed the pin is pressed in, thus
+breaking the circuit.
+
+Sometimes the connections are arranged so as to switch on the electric
+lights if the house is entered. Special annunciators showing where the
+house has been entered are a part of the system. A clock which turns the
+alarm on and off at predetermined hours is also sometimes used.
+
+The circuits may be carried to a central station or police station. One
+form of burglar alarm device is the Yale lock switch. This is a contact
+attached to a Yale lock which will be closed if the wrong key is used,
+completing a circuit and ringing a bell.
+
+
+Fig. 9. BURGLAR ALARM SWITCH OR CIRCUIT BREAKER.
+
+
+Alarm, Electric.
+An appliance for calling attention, generally by
+ringing a bell. It is used to notify of water-level in boilers or tanks,
+of entrance of a house, or of other things as desired. It is evident
+that any number of alarms could be contrived.
+
+
+18   STANDARD ELECTRICAL DICTIONARY.
+
+
+Alarm, Fire and Heat.
+An alarm for giving notice of the existence of a conflagration. Such are
+sometimes operated by a compound bar thermostat (see Thermostat), which
+on a given elevation of temperature closes a circuit and rings an
+electric bell. Sometimes the expansion of a column of mercury when
+heated is used. This, by coming in contact with one or two platinum
+points, completes a circuit, and rings the bell.
+
+The identical apparatus may be used in living rooms, greenhouses.
+factories and elsewhere, to give an alarm when the temperature rises or
+falls beyond predetermined limits.
+
+
+Alarm, Overflow.
+An alarm to indicate an overflow of water has been suggested on the
+lines of a contact completed by water, or of the elements of a battery
+which would be made active by water. Thus two sheets of metal might be
+separated by bibulous paper charged with salt. If these sheets were
+terminals of a circuit including a bell and battery, when water reached
+them the circuit would be closed and the bell would ring. It was also
+proposed to use one copper and one zinc sheet so as to constitute a
+battery in itself, to be thrown into action by moisture. These contacts
+or inactive batteries could be distributed where water from an overflow
+would be most likely to reach them.
+
+
+Alarm, Water Level.
+An alarm operated by a change of water level in a tank or boiler. By a
+float a contact is made as it rises with the water. Another float may be
+arranged to fall and close a contact as the level falls. The closing of
+the contacts rings an electric bell to notify the attendant in charge.
+
+
+Alcohol, Electrical Rectification of.
+A current of electricity passed through impure alcohol between zinc
+electrodes is found to improve its quality. This it does by decomposing
+the water present. The nascent hydrogen combines with the aldehydes,
+converting them into alcohols while the oxygen combines with the zinc
+electrode.
+
+
+Alignment.
+The placing in or occupying of the same straight line. The bearings of a
+shaft in dynamos, engines, and other machinery have to be in accurate
+alignment.
+
+
+Allotropy.
+The power of existing in several modifications possessed by some
+substances, notably by chemical elements. Instances of the allotropic
+state are found in carbon which exists as charcoal, as graphite
+(plumbago or black lead), and as the diamond. All three are the same
+elemental substance, although differing in every physical and electrical
+property.
+
+
+19   STANDARD ELECTRICAL DICTIONARY.
+
+
+Alloy.
+A mixture, produced almost universally by fusion, of two or more metals.
+Sometimes alloys seem to be chemical compounds, as shown by their having
+generally a melting point lower than the average of those of their
+constituents. An alloy of a metal with mercury is termed an amalgam. An
+important application in electricity is the use of fusible alloys for
+fire alarms or for safety fuses. German silver is also of importance for
+resistance coils, and palladium alloys are used for unmagnetizable
+watches. An alloy of wrought iron with manganese is almost
+unmagnetizable, and has been proposed for use in ship building to avoid
+errors of the compass.
+
+Alloys or what are practically such can be deposited by electrolysis in
+the electro- plater's bath. We give the composition of some alloys
+interesting to the electrician.
+
+  Solder:   Lead   1 part   Tin   2 parts
+              "      "       "    1  "
+              "      "       "    2  "
+
+German Silver: Copper, 2 parts; Nickel, 1 part;
+               Zinc, 1 part (used for resistances).
+
+Platinum, Silver Alloys: Platinum, 1 part;
+                         silver, 2 parts (used for resistances.)
+
+Palladium alloys for watch springs. (See Palladium.)
+
+
+Alphabet, Telegraphic.
+The combinations of sounds, of dots and dashes marked on paper, of
+right-hand and left-hand deflections of a needle, of bells of different
+notes, or of other symbols by which a fixed combination is expressed for
+each character of the alphabet, for numerals, and for punctuation. While
+the code is designed for telegraphic uses it can be used not only for
+the conveyance of signals and messages by the electrical telegraphs, but
+also by any semaphoric or visual system, as by flashes of light,
+movements of a flag or even of the arms of the person signalling.
+
+In the English and continental needle telegraphy in which the message is
+transmitted by the movements of an index normally vertical, but
+oscillating to one side or the other under the influence of the current,
+the latter being controlled by the transmitter of the message, the left
+hand swings of the needle are interpreted as dots, the right hand as
+dashes.
+
+This system enables one alphabet to be translated into the other, or
+virtually one alphabet answers for both Morse and needle transmitters.
+
+There are two principal telegraphic alphabets, the American Morse and
+the International codes. They are very similar, their essential
+distinction being that spaces are used in the American code, while they
+are excluded from the International code.
+
+In the American Morse system the message is now universally received by
+sound. (See Sounder--Sound Reading.)
+
+
+20   STANDARD ELECTRICAL DICTIONARY.
+
+
+The two codes or telegraphic alphabets are given here.
+
+THE INTERNATIONAL ALPHABET.
+  Parenthesis,             - . - - . -
+  Understand,              ... - .
+  I don't understand,      ..-- ....--..
+  Wait,                    .-. . .
+  Erase,                   ...   ...   ...
+  Call signal,             -.-.-.-
+  End of message,          .-.-.-.
+  Cleared out all right,   .-..-..-.
+  A  .-    L  .-..  W  .--
+  B  -...  M  --    X  -..-
+  C  -.-.  N  -.    Y  -.--
+  D  -..   O  ---   Z  --..
+  E  .     P  .--.
+  F  ..-.  Q  --.-  Ch ----
+  G  --.   R  .-.   Ä  .-.-
+  H  ....  S  ...   Ö  ---.
+  I  ..    T  -     Ü  ..--
+  J  .---  U  ..-   É  ..-..
+  K  -.-   V  ...-  Ñ  --.--
+
+NUMERALS
+  1  .----  4  ....-  8  ---..
+  2  ..---  5  .....  9  ----.
+  3  ...--  6  -....  0  -----
+            7  --...
+
+
+[Transcriber's note: The original image of the dot/dash pattern is somewhat
+ambiguous. Since there may be differences from contemporary specifications,
+the original image is included.]
+
+[Image of page 20: THE INTERNATIONAL ALPHABET.]
+
+
+21  STANDARD ELECTRICAL DICTIONARY.
+
+PUNCTUATION, ETC.,
+
+  Period (.)         ...   ...
+  Comma (,)          .-.-.-
+  Query(?)           ..--..
+  Exclamation (!)    --..--
+  Apostrophe (')     .----.
+  Hyphen (-)         -....-
+  Fresh paragraph,   .-.-..
+  Inverted commas,   -..-.
+
+THE AMERICAN ALPHABET.
+  A  .-       L  ----(Continuous)  W  .--
+  B  -...     M  --                X  .-..
+  C  ..s.     N  -.                Y  ..s..
+  D  -..      O  .s.               Z  ….
+  E  .        P  .....
+  F  .-.      Q  ..-.              Ch ----
+  G  --.      R  .s..              Ä  .-.-
+  H  ....     S  ...               Ö  ---.
+  I  ..       T  -                 Ü  ..--
+  J  - . - .  U  ..-               É  ..-..
+  K  -.-      V  ...-              Ñ  --.--
+
+NUMERALS
+  1  .--.    4  ....-     8  -....
+  2  ..-..   5  ---       9  -..-
+  3  ...-.   6  ... ...   0  -----(Continuous)
+             7  --..
+
+[Transcriber's Note: The "s" in the American Code indicates a "space". I
+leave the following to the reader's imagination. See the original
+image.]
+
+Comma (,)
+Semicolon (;)
+Colon (:)
+Colon Dash (:~)
+Period (.)
+Interrogation (?)
+Exclamation (!)
+Dash (-)
+Hyphen (-)
+Pound Sterling (£)
+Shilling Mark ( )
+
+
+[Image of page 21: THE AMERICAN ALPHABET.]
+
+
+22   STANDARD ELECTRICAL DICTIONARY.
+
+
+[Transcriber's Note: I leave these to the reader's imagination. See the
+following original image.]
+

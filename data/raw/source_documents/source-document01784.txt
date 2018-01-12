@@ -1,0 +1,407 @@
+﻿
+In the address delivered by Mr. Westmacott, President of the Institution
+of Mechanical Engineers to the English and Belgian engineers assembled
+at Liege last August, there occurred the following passage: "Engineering
+brings all other sciences into play; chemical or physical discoveries,
+such as those of Faraday, would be of little practical use if engineers
+were not ready with mechanical appliances to carry them out, and make
+them commercially successful in the way best suited to each."
+
+We have no objection to make to these words, spoken at such a time and
+before such an assembly. It would of course be easy to take the converse
+view, and observe that engineering would have made little progress in
+modern times, but for the splendid resources which the discoveries of
+pure science have placed at her disposal, and which she has only had to
+adopt and utilize for her own purposes. But there is no need to quarrel
+over two opposite modes of stating the same fact. There _is_ need on
+the other hand that the fact itself should be fairly recognized and
+accepted, namely, that science may be looked upon as at once the
+handmaid and the guide of art, art as at once the pupil and the
+supporter of science. In the present article we propose to give a few
+illustrations which will bring out and emphasize this truth.
+
+We could scarcely find a better instance than is furnished to our hand
+in the sentence we have chosen for a text. No man ever worked with a
+more single hearted devotion to pure science--with a more absolute
+disregard of money or fame, as compared with knowledge--than Michael
+Faraday. Yet future ages will perhaps judge that no stronger impulse was
+ever given to the progress of industrial art, or to the advancement of
+the material interests of mankind, than the impulse which sprang from
+his discoveries in electricity and magnetism. Of these discoveries
+we are only now beginning to reap the benefit. But we have merely to
+consider the position which the dynamo-electric machine already occupies
+in the industrial world, and the far higher position, which, as almost
+all admit, it is destined to occupy in the future, in order to see
+how much we owe to Faraday's establishment of the connection between
+magnetism and electricity. That is one side of the question--the debt
+which art owes to science. But let us look at the other side also. Does
+science owe nothing to art? Will any one say that we should know as much
+as we do concerning the theory of the dynamo-electric motor, and the
+laws of electro-magnetic action generally, if that motor had never
+risen (or fallen, as you choose to put it) to be something besides the
+instrument of a laboratory, or the toy of a lecture room? Only a short
+time since the illustrious French physicist, M. Tresca, was enumerating
+the various sources of loss in the transmission of power by electricity
+along a fixed wire, as elucidated in the careful and elaborate
+experiments inaugurated by M. Marcel Deprez, and subsequently continued
+by himself. These losses--the electrical no less than the mechanical
+losses--are being thoroughly and minutely examined in the hope of
+reducing them to the lowest limit; and this examination cannot fail to
+throw much light on the exact distribution of the energy imparted to a
+dynamo machine and the laws by which this distribution is governed.
+But would this examination ever have taken place--would the costly
+experiments which render it feasible ever have been performed--if the
+dynamo machine was still under the undisputed control of pure science,
+and had not become subject to the sway of the capitalist and the
+engineer?
+
+Of course the electric telegraph affords an earlier and perhaps as good
+an illustration of the same fact. The discovery that electricity would
+pass along a wire and actuate a needle at the other end was at first a
+purely scientific one; and it was only gradually that its importance,
+from an industrial point of view, came to be recognized. Here again art
+owes to pure science the creation of a complete and important branch of
+engineering, whose works are spread like a net over the whole face
+of the globe. On the other hand our knowledge of electricity, and
+especially of the electrochemical processes which go on in the working
+of batteries, has been enormously improved in consequence of the use of
+such batteries for the purposes of telegraphy.
+
+Let us turn to another example in a different branch of science.
+Whichever of our modern discoveries we may consider to be the most
+startling and important, there can I think be no doubt that the most
+beautiful is that of the spectroscope. It has enabled us to do that
+which but a few years before its introduction was taken for the very
+type of the impossible, viz., to study the chemical composition of the
+stars; and it is giving us clearer and clearer insight every day into
+the condition of the great luminary which forms the center of our
+system. Still, however beautiful and interesting such results may be,
+it might well be thought that they could never have any practical
+application, and that the spectroscope at least would remain an
+instrument of science, but of science alone. This, however, is not the
+case. Some thirty years since, Mr. Bessemer conceived the idea that
+the injurious constituents of raw iron--such as silicon, sulphur,
+etc.--might be got rid of by simple oxidation. The mass of crude metal
+was heated to a very high temperature; atmospheric air was forced
+through it at a considerable pressure; and the oxygen uniting with these
+metalloids carried them off in the form of acid gases. The very act
+of union generated a vast quantity of heat, which itself assisted the
+continuance of the process; and the gas therefore passed off in a highly
+luminous condition. But the important point was to know where to
+stop; to seize the exact moment when all or practically all hurtful
+ingredients had been removed, and before the oxygen had turned from them
+to attack the iron itself. How was this point to be ascertained? It was
+soon suggested that each of these gases in its incandescent state would
+show its own peculiar spectrum; and that if the flame rushing out of the
+throat of the converter were viewed through a spectroscope, the moment
+when any substance such as sulphur, had disappeared would be known
+by the disappearance of the corresponding lines in the spectrum. The
+anticipation, it is needless to say, was verified, and the spectroscope,
+though now superseded, had for a time its place among the regular
+appliances necessary for the carrying on of the Bessemer process.
+
+This process itself, with all the momentous consequences, mechanical,
+commercial, and economical, which it has entailed, might be brought
+forward as a witness on our side; for it was almost completely worked
+out in the laboratory before being submitted to actual practice. In this
+respect it stands in marked contrast to the earlier processes for the
+making of iron and steel, which were developed, it is difficult to say
+how, in the forge or furnace itself, and amid the smoke and din of
+practical work. At the same time the experiments of Bessemer were
+for the most part carried out with a distinct eye to their future
+application in practice, and their value for our present purpose is
+therefore not so great. The same we believe may be said with regard
+to the great rival of the Bessemer converter, viz., the Siemens open
+hearth; although this forms in itself a beautiful application of the
+scientific doctrine that steel stands midway, as regards proportion of
+carbon, between wrought iron and pig iron, and ought therefore to be
+obtainable by a judicious mixture of the two. The basic process is
+the latest development, in this direction, of science as applied to
+metallurgy. Here, by simply giving a different chemical constitution
+to the clay lining of the converter, it is found possible to eliminate
+phosphorus--an element which has successfully withstood the attack of
+the Bessemer system. Now, to quote the words of a German eulogizer of
+the new method, phosphorus has been turned from an enemy into a friend;
+and the richer a given ore is in that substance, the more readily and
+cheaply does it seem likely to be converted into steel.
+
+These latter examples have been taken from the art of metallurgy; and it
+may of course be said that, considering the intimate relations between
+that art and the science of chemistry, there can be no wonder if the
+former is largely dependent for its progress on the latter. I will
+therefore turn to what may appear the most concrete, practical, and
+unscientific of all arts--that, namely, of the mechanical engineer; and
+we shall find that even here examples will not fail us of the boons
+which pure science has conferred upon the art of construction, nor even
+perhaps of the reciprocal advantages which she has derived from the
+connection.
+
+The address of Mr. Westmacott, from which I have already taken my text,
+supplies in itself more than one instance of the kind we seek--instances
+emphasized by papers read at the meeting where the address was spoken.
+Let us take, first, the manufacture of sugar from beetroot. This
+manufacture was forced into prominence in the early years of this
+century, when the Continental blockade maintained by England against
+Napoleon prevented all importation of sugar from America; and it has now
+attained very large dimensions, as all frequenters of the Continent must
+be aware. The process, as exhaustively described by a Belgian engineer,
+M. Melin, offers several instances of the application of chemical and
+physical science to practical purposes. Thus, the first operation in
+making sugar from beetroot is to separate the juice from the flesh, the
+former being as much as 95 per cent. of the whole weight. Formerly this
+was accomplished by rasping the roots into a pulp, and then pressing the
+pulp in powerful hydraulic presses; in other words, by purely mechanical
+means. This process is now to a large extent superseded by what is
+called the diffusion process, depending on the well known physical
+phenomena of _endosmosis_ and _exosmosis_. The beetroot is cut up into
+small slices called "cossettes," and these are placed in vessels filled
+with water. The result is that a current of endosmosis takes place from
+the water toward the juice in the cells, and a current of exosmosis
+from the juice toward the water. These currents go on cell by cell, and
+continue until a state of equilibrium is attained. The richer the water
+and the poorer the juice, the sooner does this equilibrium take place.
+Consequently the vessels are arranged in a series, forming what is
+called a diffusion battery; the pure water is admitted to the first
+vessel, in which the slices have already been nearly exhausted, and
+subtracts from them what juice there is left. It then passes as a thin
+juice to the next vessel, in which the slices are richer, and the
+process begins again. In the last vessel the water which has already
+done its work in all the previous vessels comes into contact with fresh
+slices, and begins the operation upon them. The same process has been
+applied at the other end of the manufacture of sugar. After the juice
+has been purified and all the crystallizable sugar has been separated
+from it by boiling, there is left a mass of molasses, containing so much
+of the salts of potassium and sodium that no further crystallization of
+the yet remaining sugar is possible. The object of the process called
+osmosis is to carry off these salts. The apparatus used, or osmogene,
+consists of a series of trays filled alternately with molasses and
+water, the bottoms being formed of parchment paper. A current passes
+through this paper in each direction, part of the water entering the
+molasses, and part of the salts, together with a certain quantity of
+sugar, entering the water. The result, of thus freeing the molasses
+from the salts is that a large part of the remaining sugar can now be
+extracted by crystallization.
+
+Another instance in point comes from a paper dealing with the question
+of the construction of long tunnels. In England this has been chiefly
+discussed of late in connection with the Channel Tunnel, where, however,
+the conditions are comparatively simple. It is of still greater
+importance abroad. Two tunnels have already been pierced through the
+Alps; a third is nearly completed; and a fourth, the Simplon Tunnel,
+which will be the longest of any, is at this moment the subject of
+a most active study on the part of French engineers. In America,
+especially in connection with the deep mines of the Western States,
+the problem is also of the highest importance. But the driving of such
+tunnels would be financially if not physically impossible, but for
+the resources which science has placed in our hands, first, by the
+preparation of new explosives, and, secondly, by methods of dealing with
+the very high temperatures which have to be encountered. As regards the
+first, the history of explosives is scarcely anything else than a record
+of the application of chemical principles to practical purposes--a
+record which in great part has yet to be written, and on which we cannot
+here dwell. It is certain, however, that but for the invention of
+nitroglycerine, a purely chemical compound, and its development in
+various forms, more or less safe and convenient, these long tunnels
+would never have been constructed. As regards the second point, the
+question of temperature is really the most formidable with which the
+tunnel engineer has to contend. In the St. Gothard Tunnel, just before
+the meeting of the two headings in February, 1880, the temperature
+rose as high as 93° Fahr. This, combined with the foulness of the air,
+produced an immense diminution in the work done per person and per horse
+employed, while several men were actually killed by the dynamite gases,
+and others suffered from a disease which was traced to a hitherto
+unknown species of internal worm. If the Simplon Tunnel should be
+constructed, yet higher temperatures may probably have to be dealt with.
+Although science can hardly be said to have completely mastered these
+difficulties, much has been done in that direction. A great deal of
+mechanical work has of course to be carried on at the face or far end of
+such a heading, and there are various means by which it might be done.
+But by far the most satisfactory solution, in most cases at least, is
+obtained by taking advantage of the properties of compressed air. Air
+can be compressed at the end of the tunnel either by steam-engines,
+or, still better, by turbines where water power is available. This
+compressed air may easily be led in pipes to the face of the heading,
+and used there to drive the small engines which work the rock-drilling
+machines, etc. The efficiency of such machines is doubtless low, chiefly
+owing to the physical fact that the air is heated by compression, and
+that much of this heat is lost while it traverses the long line of pipes
+leading to the scene of action. But here we have a great advantage from
+the point of view of ventilation; for as the air gained heat while being
+compressed, so it loses heat while expanding; and the result is that a
+current of cold and fresh air is continually issuing from the
+machines at the face of the heading, just where it is most wanted. In
+consequence, in the St. Gothard, as just alluded to, the hottest parts
+were always some little distance behind the face of the heading.
+Although in this case as much as 120,000 cubic meters of air (taken
+at atmospheric pressure) were daily poured into the heading, yet the
+ventilation was very insufficient. Moreover, the high pressure which is
+used for working the machines is not the best adapted for ventilation;
+and in the Arlberg tunnel separate ventilating pipes are employed,
+containing air compressed to about one atmosphere, which is delivered
+in much larger quantities although not at so low a temperature.
+In connection with this question of ventilation a long series of
+observations have been taken at the St. Gothard, both during and since
+the construction; these have revealed the important physical fact
+(itself of high practical importance) that the barometer never stands at
+the same level on the two sides of a great mountain chain; and so have
+made valuable contributions to the science of meteorology.
+
+Another most important use of the same scientific fact, namely, the
+properties of compressed air, is found in the sinking of foundations
+below water. When the piers of a bridge, or other structure, had to be
+placed in a deep stream, the old method was to drive a double row of
+piles round the place and fill them in with clay, forming what is
+called a cofferdam. The water was pumped out from the interior, and the
+foundation laid in the open. This is always a very expensive process,
+and in rapid streams is scarcely practicable. In recent times large
+bottomless cases, called caissons, have been used, with tubes attached
+to the roof, by which air can be forced into or out of the interior.
+These caissons are brought to the site of the proposed pier, and are
+there sunk. Where the bottom is loose sandy earth, the vacuum process,
+as it is termed, is often employed; that is, the air is pumped out from
+the interior, and the superincumbent pressure then causes the caisson
+to sink and the earth to rise within it. But it is more usual to employ
+what is called the plenum process, in which air under high pressure
+is pumped into the caisson and expels the water, as in a diving bell.
+Workmen then descend, entering through an air lock, and excavate the
+ground at the bottom of the caisson, which sinks gradually as the
+excavation continues. Under this system a length of some two miles of
+quay wall is being constructed at Antwerp, far out in the channel of the
+river Scheldt. Here the caissons are laid end to end with each other,
+along the whole curve of the wall, and the masonry is built on the top
+of them within a floating cofferdam of very ingenious construction.
+
+There are few mechanical principles more widely known than that of
+so-called centrifugal force; an action which, though still a puzzle
+to students, has long been thoroughly understood. It is, however,
+comparatively recently that it has been applied in practice. One of the
+earliest examples was perhaps the ordinary governor, due to the genius
+of Watt. Every boy knows that if he takes a weight hanging from a string
+and twirls it round, the weight will rise higher and revolve in a larger
+circle as he increases the speed. Watt saw that if he attached such an
+apparatus to his steam engine, the balls or weights would tend to rise
+higher whenever the engine begun to run faster, that this action might
+be made partly to draw over the valve which admitted the steam, and that
+in this way the supply of steam would be lessened, and the speed would
+fall. Few ideas in science have received so wide and so successful an
+application as this. But of late years another property of centrifugal
+force has been brought into play. The effect of this so-called force is
+that any body revolving in a circle has a continual tendency to fly off
+at a tangent; the amount of this tendency depending jointly on the mass
+of the body and on the velocity of the rotation. It is the former of
+these conditions which is now taken advantage of. For if we have a
+number of particles all revolving with the same velocity, but of
+different specific gravities, and if we allow them to follow their
+tendency of moving off at a tangent, it is evident that the heaviest
+particles, having the greatest mass, will move with the greatest energy.
+The result is that, if we take a mass of such particles and confine them
+within a circular casing, we shall find that, having rotated this casing
+with a high velocity and for a sufficient time, the heaviest particles
+will have settled at the outside and the lightest at the inside, while
+between the two there will be a gradation from the one to the other.
+Here, then, we have the means of separating two substances, solid
+or liquid, which are intimately mixed up together, but which are of
+different specific gravities. This physical principle has been taken
+advantage of in a somewhat homely but very important process, viz., the
+separation of cream from milk. In this arrangement the milk is charged
+into a vessel something of the shape and size of a Gloucester cheese,
+which stands on a vertical spindle and is made to rotate with a velocity
+as high as 7,000 revolutions per minute. At this enormous speed the
+milk, which is the heavier, flies to the outside, while the cream
+remains behind and stands up as a thin layer on the inside of the
+rotating cylinder of fluid. So completely does this immense speed
+produce in the liquid the characteristics of a solid, that if the
+rotating shell of cream be touched by a knife it emits a harsh, grating
+sound, and gives the sensation experienced in attempting to cut a stone.
+The separation is almost immediately complete, but the difficult point
+was to draw off the two liquids separately and continuously without
+stopping the machine. This has been simply accomplished by taking
+advantage of another principle of hydromechanics. A small pipe opening
+just inside the shell of the cylinder is brought back to near the
+center, where it rises through a sort of neck and opens into an exterior
+casing. The pressure due to the velocity causes the skim milk to rise in
+this pipe and flow continuously out at the inner end. The cream is at
+the same time drawn off by a similar orifice made in the same neck and
+leading into a different chamber.
+
+Centrifugal action is not the only way in which particles of different
+specific gravity can he separated from each other by motion only. If
+a rapid "jigging" or up-and-down motion be given to a mixture of such
+particles, the tendency of the lighter to fly further under the action
+of the impulse causes them gradually to rise to the upper surface; this
+surface being free in the present case, and the result being therefore
+the reverse of what happens in the rotating chamber. If such a mixture
+be examined after this up-and down motion has gone on for a considerable
+period, it will be found that the particles are arranged pretty
+accurately in layers, the lightest being at the top and the heaviest
+at the bottom. This principle has long been taken advantage of in such
+cases as the separation of lead ores from the matrix in which they are
+embedded. The rock in these cases is crushed into small fragments, and
+placed on a frame having a rapid up-and-down-motion, when the heavy lead
+ore gradually collects at the bottom and the lighter stone on the top.
+To separate the two the machine must be stopped and cleared by hand. In
+the case of coal-washing, where the object is to separate fine coal from
+the particles of stone mixed with it, this process would be very costly,
+and indeed impossible, because a current of water is sweeping through
+the whole mass. In the case of the Coppee coal-washer, the desired
+end is achieved in a different and very simple manner. The well known
+mineral felspar has a specific gravity intermediate between that of the
+coal and the shale, or stone, with which it is found intermixed. If,
+then, a quantity of felspar in small fragments is thrown into the
+mixture, and the whole then submitted to the jigging process, the result
+will be that the stone will collect on the top, and the coal at the
+bottom, with a layer of felspar separating the two. A current of water
+sweeps through the whole, and is drawn off partly at the top, carrying
+with it the stone, and partly at the bottom, carrying with it the fine
+coal.
+
+The above are instances where science has come to the aid of
+engineering. Here is one in which the obligation is reversed. The rapid
+stopping of railroad trains, when necessary, by means of brakes, is a
+problem which has long occupied the attention of many engineers; and the
+mechanical solutions offered have been correspondingly numerous. Some
+of these depend on the action of steam, some of a vacuum, some of
+compressed air, some of pressure-water; others again ingeniously utilize
+the momentum of the wheels themselves. But for a long time no effort
+was made by any of these inventors thoroughly to master the theoretical
+conditions of the problem before them. At last, one of the most
+ingenious and successful among them, Mr. George Westinghouse, resolved
+to make experiments on the subject, and was fortunate enough to
+associate with himself Capt. Douglas Galton. Their experiments, carried
+on with rare energy and perseverance, and at great expense, not only
+brought into the clearest light the physical conditions of the question
+(conditions which were shown to be in strict accordance with theory),
+but also disclosed the interesting scientific fact that the friction
+between solid bodies at high velocities is not constant, as the
+experiments of Morin had been supposed to imply, but diminishes rapidly
+as the speed increases--a fact which other observations serve to
+confirm.
+
+The old scientific principle known as the hydrostatic paradox, according
+to which a pressure applied at any point of an inclosed mass of liquid
+is transmitted unaltered to every other point, has been singularly
+fruitful in practical applications. Mr. Bramah was perhaps the first
+to recognize its value and importance. He applied it to the well known
+Bramah press, and in various other directions, some of which were less
+successful. One of these was a hydraulic lift, which Mr. Bramah proposed
+to construct by means of several cylinders sliding within each other
+after the manner of the tubes of a telescope. His specification of
+this invention sufficiently expresses his opinion of its value, for it
+concludes as follows: "This patent does not only differ in its nature
+and in its boundless extent of claims to novelty, but also in its claims
+to merit and superior utility compared with any other patent ever
+brought before or sanctioned by the legislative authority of any
+nation." The telescope lift has not come into practical use; but lifts
+worked on the hydraulic principle are becoming more and more common
+every day. The same principle has been applied by the genius of Sir
+William Armstrong and others to the working of cranes and other machines
+for the lifting of weights, etc.; and under the form of the accumulator,
+with its distributing pipes and hydraulic engines, it provides a store
+of power always ready for application at any required point in a large
+system, yet costing practically nothing when not actually at work. This
+system of high pressure mains worked from a central accumulator has
+been for some years in existence at Hull, as a means of supplying power
+commercially for all the purposes needed in a large town, and it is
+at this moment being carried out on a wider scale in the East End of
+London.
+

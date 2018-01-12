@@ -1,0 +1,1857 @@
+﻿Produced by Bryan Ness, Carla Foust and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+book was produced from scanned images of public domain
+material from the Google Print project.)
+
+
+Transcriber's note
+
+
+Minor punctuation errors have been changed without notice. All other
+inconsistencies are as in the original. The author's spelling has been
+maintained.
+
+
+   SKETCH OF
+
+   HANDEL AND BEETHOVEN.
+
+   Two Lectures,
+
+   DELIVERED IN
+
+   THE LECTURE HALL OF THE WIMBLEDON
+   VILLAGE CLUB,
+
+   ON MONDAY EVENING, DEC. 14, 1863; AND MONDAY EVENING,
+   JAN. 11, 1864.
+
+   BY THE
+   REV. T. HANLY BALL, A.B.,
+
+   CURATE AND LECTURER OF ST. MARY'S, WIMBLEDON.
+
+   Published at the request and expense of a Parishioner.
+
+
+   LONDON:
+   CHARLES J. SKEET, 10, KING WILLIAM STREET,
+   CHARING CROSS.
+   1864.
+
+
+DEDICATION.
+
+
+   TO
+   JOHN A. BEAUMONT ESQ.,
+   WIMBLEDON PARK HOUSE.
+
+MY DEAR MR. BEAUMONT,
+
+Seneca has well said, "The three main points in the question of
+benefits, are, first, a judicious choice in the object; secondly, in the
+matter of our benevolence; and thirdly, in the manner of expressing it."
+
+Of the first, it would not be becoming in me to speak; of the second,
+you are the rightful judge; of the third, I beg leave thus publicly to
+state, that not only in requesting permission to publish this lecture at
+your own expense but _on many other occasions_, you have fully come up
+to Seneca's idea of what a benefactor ought to be.
+
+I shall not attempt describing what I hope you give me credit for;
+_Furnius_ never gained so much upon _Augustus_ as by a speech, upon the
+getting of his father's pardon for siding with _Anthony_, "THIS GRACE,"
+says he, "IS THE ONLY INJURY THAT EVER CÆSAR DID ME; FOR IT HAS PUT ME
+UPON A NECESSITY OF LIVING AND DYING UNGRATEFUL."
+
+Allow me to dedicate the little volume to you, and believe me, ever to
+remain,
+
+Your obedient and faithful Servant,
+
+                                                 T. HANLY BALL.
+
+_Wimbledon, 12th February, 1864._
+
+
+PREFACE.
+
+
+A brief account of "The Wimbledon Village Club" will explain the origin
+and object of the two following Lectures.
+
+"The design of the Institution is to afford to the inhabitants, and more
+especially the working and middle classes of Wimbledon and its vicinity,
+opportunities of intellectual and moral improvement, and rational and
+social enjoyment, through the medium of a Reading Room and Library,
+Lectures and Classes."[A]
+
+The Reading Room is supplied with Daily and Weekly Newspapers,
+Periodicals, and Books.
+
+The Library contains upwards of Six Hundred volumes, all which have
+been presented to the Institution.
+
+The Lectures are on various literary and scientific subjects.
+
+To these have been recently added, _Readings_ and _Chat Meetings_.
+
+_Readings_, are three short readings from some popular author, by
+different readers, on the same evening.
+
+"_Chat Meetings_ are simplifications of a soirée, or a conversazione.
+They originated in the idea that many parishioners, having in their
+homes interesting objects, the examination of which would afford
+pleasure and instruction to their fellow-parishioners, would on certain
+occasions gladly take these objects to a room appointed for the purpose,
+and display and explain them."[B]
+
+Mr. Toynbee, the _Fidus Achates_ of the Club, has, in his admirable
+"Hints on the Formation of Local Museums," well said--"The Wimbledon
+Club is admirably calculated to meet the wants of the working classes,
+as regards their recreation and instruction. While it furnishes
+amusement and instruction to all classes, it brings them together at its
+various meetings in friendly intercourse; the management of the
+Institution, and the organization of its several proceedings, afford a
+valuable experience to the Committee, who portion among themselves their
+respective work; and the preparation of the Lectures, &c., proves a
+healthy mental stimulus to those intelligent inhabitants who desire to
+take part in _one of the most delightful of duties, viz., the conveyance
+to the minds of others an interest in those pleasing and
+elevating subjects from which, happily their own minds derive
+gratification_."--"Hints," pp. 8, 9.
+
+Should these Lectures again interest any of the large and attentive
+audiences with which they were honoured, I will consider myself
+justified in having consented to their publication, and feel happy to be
+the medium of imparting information, even on a secular subject, to those
+whom it is my duty, and is my pleasure, to profit and please.
+
+It is scarcely necessary for me to say, biographical lectures are
+chiefly the result of reading and research;[C] I have, however, somewhat
+fully expressed my opinions on the advantages of music, and very freely
+on one or two cognate subjects, and others incidentally alluded to.
+
+FOOTNOTES:
+
+[Footnote A: "Rules and Regulations of the Wimbledon Village Club," p.
+1.]
+
+[Footnote B: "Hints on the Formation of Local Museums, by the Treasurer
+of the Wimbledon Museum Committee," p. 27.]
+
+[Footnote C: Works referred to, and extracted from, in the following
+Lectures:--Besides those mentioned in the Lectures, the following works
+are alluded to, or quoted;--Beattie's Essays; Burnet's History of Music;
+Hogart's Musical History; Edwards's History of the Opera; The
+Harmonicon; Schlegel's Life of Handel; Holmes' Life of Mozart;
+Moschele's Life of Beethoven.]
+
+
+A SKETCH OF HANDEL.
+
+A Lecture.
+
+
+Before I say of that great composer and extraordinary man whose life I
+have undertaken to sketch, it will not be out of place, I hope, to make
+a few remarks on the History and Utility of Music.
+
+
+I.--THE HISTORY.
+
+It has been well said by Latrobe, that--though the concise and
+compressed character of the Mosaic history admits no data upon which to
+found this supposition, yet we may readily conclude from the nature of
+music, and the original perfection of the human powers, that the Garden
+of Eden was no stranger to "singing and the voice of melody."
+
+We read in Scripture that before the Fall, the state of our first
+parents was a state of unmingled happiness. Now, it is the very nature
+of joy to give utterance to its emotions. Happiness must have its
+expression. And thus it may well be supposed that man in his primal
+felicity would seek to express, by every conceivable mode, the love,
+gratitude, and joy which absorbed every affection of his nature.
+
+Now, the most natural, as well as powerful, medium for conveying those
+feelings with which we are acquainted, is music. If then music be the
+expression of joy, it cannot be supposed unknown to our first parents,
+whose exultation was as intense as it was hallowed.
+
+Milton says:--
+
+                     "Neither various style,
+   Nor holy rapture wanted they to praise
+   Their Maker in fit strains, pronounced or sung
+   Unmeditated, such prompt eloquence
+   Flowed from their lips, in prose or numerous verse,
+   More tuneable, than needed lute or harp
+   To add more sweetness."
+
+But soon the voice of unalloyed thanksgiving was silenced. Sin brought
+with it sorrow; and, ever since, the Hallelujahs of the saints have been
+strangely intermingled with the moanings of self-reproach, and the cries
+of judicial sufferings. The heart, now become the seat of a tremendous
+conflict between sin and holiness, lost its elasticity, and needed some
+outward excitement to call forth its song of praise. Hence the invention
+of instrumental music, which is assigned by Scripture to Jubal.
+
+Longfellow says:--
+
+   "When first in ancient time, from Jubal's tongue,
+    The tuneful anthem filled the morning air,
+    To sacred hymnings and Elysian song
+    His music-breathing shell the minstrel woke--
+    Devotion breathed aloud from every chord,
+    The voice of praise was heard in every tone,
+    And prayer and thanks to Him the Eternal One,
+    To Him, that, with bright inspiration touched
+    The high and gifted lyre of everlasting song,
+    And warmed the soul with new vitality.
+
+"To the element of air," says Bishop Horne, "God has given the power of
+producing sounds; to the ear the capacity of receiving them; and to the
+affections of the mind an aptness to be moved by them, when transmitted
+through the body." The philosophy of the thing is too deep and wonderful
+for us; we cannot attain to it! But such is the fact; with that we are
+concerned, and that is enough for us to know.
+
+
+II.--UTILITY.
+
+Of the Utility of Music there can be no question.
+
+Lycurgus, one of the wisest of all ancient legislators, gave great
+encouragement to music.
+
+Polybius, one of the most ancient historians ascribes the humanity of
+the Arcadians to the influence of this art and the barbarity of their
+neighbours the Cynethians to their neglect of it.
+
+Quintilian, the great rhetorician, is very copious in the praise of
+music; and extols it as an incentive to valour, as an instrument of
+moral and intellectual discipline, as an auxiliary to science, as an
+object of attention to the wisest men, and a source of comfort and an
+assistant in labour even to the very meanest.
+
+The heroes of ancient Greece were ambitious to excel in music. In armies
+music has always been cultivated as a source of pleasure, a principle of
+regular motion, and an incentive to valour and enthusiasm.
+
+And there is this in music, that it is suited to please all the
+varieties of the human mind. The illiterate and the learned, the
+thoughtless and the giddy, the phlegmatic and the sanguine, all confess
+themselves to be its votaries. It is a source of the purest mental
+enjoyment, and may be obtained by all. It is suited to all classes, and
+never ceases to please all.
+
+Many of you, I am sure, are familiar with what Shakespeare says:--
+
+   "Nought is so stockish, hard, and full of rage,
+    But music for the time doth change his nature.
+    The man that hath no music in himself,
+    Nor is not moved with concord of sweet sounds,
+    Is fit for treasons, stratagems, and spoils;
+    The motions of his spirit are dull as night,
+    And his affections dark as Erebus:
+    Let no such man be trusted."
+
+You recollect, too, what Lord Byron has so pathetically sung:--
+
+   "My soul is dark--oh! quickly string
+      The harp I yet can brook to hear,
+    And let thy gentle fingers fling
+      Its melting murmurs o'er mine ear.
+
+   "If in this heart a hope be dear,
+      That sound shall charm it forth again;
+    If in these eyes there lurk a tear,
+      'T will flow, and cease to burn my brain.
+
+   "But bid the strain be wild and deep,
+      Nor let thy notes of joy be first,
+    I tell thee, minstrel, I must weep,
+      Or else this heavy heart will burst.
+
+   "For it hath been by sorrow nursed,
+      And ached in sleepless sorrow long;
+    And now 't is doomed to know the worst,
+      And break at once, or yield to song."
+
+All, however, do not agree with Byron and Shakespeare. Charles Lamb
+says:--
+
+   "Some cry up Haydn, some Mozart,
+    Just as the whim bites.--For my part,
+    I do not care a farthing candle
+    For either of them, or for Handel.
+    Cannot a man live free and easy
+    Without admiring Pergolesi?
+    Or through the earth with comfort go,
+    That never heard of Doctor Blow?
+                       I hardly have;
+    And yet I eat, and drink, and shave,
+    Like other people, if you watch it,
+    And know no more of stave or crotchet
+    Than did the primitive Peruvians,
+    Or those old ante queer diluvians,
+    That lived in the unwash'd earth with Jubal,
+    Before that dirty blacksmith, Tubal,
+    By stroke on anvil, or by summ'at,
+    Found out, to his great surprise, the gamut."
+
+Witty essayist, your "Free Thoughts," like many other of your clever
+writings, are erroneous. In all ages, and even by the least enlightened
+of mankind, the efficacy of music has been acknowledged, and considered
+as a genuine and natural source of delight. Now it awakens the latent
+courage in the breast of the soldier, and now administers to the pensive
+sorrow of the weeping mother. At one moment it inspires the soul with
+sublime and hallowed awe, and at the next gives life to unbounded mirth.
+It is suited to stimulate the feeling of devotion, and to increase the
+boisterous pleasures of a village harvest-home. Wearied with the
+oppression of the noon-day sun, and exhausted with labour, the
+husbandman sits beneath the shade of his native oak, and sings the songs
+he heard in infancy. The man of business, the man of letters, and the
+statesman, wearied with the exertion of mind and burden of care, seek
+relief round the family hearth, and forget awhile ambition and fears
+under the influence of music. And the dejected emigrant sings the songs
+of fatherland, whilst recollections, sad but sweet, arise and disappear.
+
+   "In far-distant climes, when the tear gushes o'er
+    For home, love, and friendship, that charm us no more,
+    Oh! what on the exiles' dark sorrows can shine
+    Like the rapture that flows at the songs of Lang-syne!
+
+   "The music of Britain is sweet 'midst the scene;
+    But, ah! could you hear it, when seas roll between!
+    'Tis then, and then only, the soul can divine
+    The music that dwells in the songs of Lang-syne.
+
+   "The spirit, when torn from earth's objects of love,
+    Loses all its regrets in the chorus above:
+    So in exile we cannot but cease to repine,
+    When it hallows with ecstacy songs of Lang-syne."
+
+But I must allow music herself to prove her influence and assert her
+sway.
+
+                      (CAPRICE HONGROIS.)
+
+              "Cease gentle sounds, nor kill me quite
+               With such excess of sweet delight.
+               Each trembling note invades my heart,
+               And thrills through every vital part:
+               A soft--a pleasing pain
+               Pursues my heated blood through every vein.
+               What--what does the enchantment mean?
+               Now, wild with fierce desire,
+               My breast is all on fire!
+                 In softened raptures now I die!
+               Can empty sound such joys impart?
+               Can music thus transport the heart
+                 With melting ecstacy!
+               Oh! art divine! exalted blessing,
+               Each celestial charm expressing--
+               Kindest gift the heavens bestow,
+               Sweetest food that mortals know!
+               But give the charming magic o'er--
+               My beating heart can bear no more!"
+
+George Frederick Handel was born at Halle, in Lower Saxony, on the 24th
+February, 1684. His father (who was a surgeon, and was sixty-three
+years old when this child first saw the light) determined to make a
+lawyer of him: but nature had resolved to make him a composer; and the
+struggle between nature and the father commenced at the very cradle of
+the future author of the "Messiah."
+
+Scarcely had he begun to speak when he articulated musical sounds. The
+doctor was terribly alarmed, when he discovered instincts which in his
+eyes were of so low an order. He understood nothing of art, nor of the
+noble part which artists sustain in the world. He saw in them nothing
+but a sort of mountebank, who amuse the world in its idle moments.
+Uneasy, and almost ashamed at the inclinations of his son, the father of
+Handel opposed them by all possible means. He would not send him to any
+of the public schools, because there not only grammar but the gamut
+would be taught him--he would not permit him to be taken to any place,
+of whatever description, where he could hear music--he forbade him the
+slightest exercise of that nature and banished every kind of musical
+instrument far from the house.
+
+[Illustration: The meeting with Mrs. The daisy and springs from the sod,
+Frank readily the contralto silent: there it promised, in brightness with
+me this afternoon."" It is impossible, ma'am spinet" said Hamilton,
+acquiescence" she! my small Master! ma'am,, said without organist
+and prove withering look, warned.]" What, lady? Forbid none felt inclined
+and. the mead; The late you remember and Louis had sung their duets
+several times over to his doing all the I'm ashamed play the Dr.
+Wilkinson's, Ashfield gentleman before mentioned There might said the
+purpose made of the Lady Frank work; I'm a said.
+
+Good-bye display, father though he to make to an effort at some,
+the. Then he Frank her" the call! a tailor's shop the; and," said Louis.
+laugh,, finding all unavailing, he of quickened Dr. cooling fruits
+very merry. Louis gentlemen The, and sweet flowers, this is Mrs. see
+me, dear they began of Eve, plants, to, return All to the praise thing
+Where are you grunted some own satisfaction while"" moment of my
+knew estimate Williams?"" the Dr.'s you to buy any" said his Hamilton
+the." I am sure," replied Frank, I've, Mr. Francis stillness so beautiful
+inexorable?" said shops are most organist. Now, him The only see the
+lady,"has request's when hymn""" Can frequenter be to fortunate; for
+you"" I beg yours, ma'am,'s" for I very, and confidential twist,
+when Mrs.
+
+Paget's equerry for, giving time. great master, dear boy., the young,
+after due that adieus it, not. of Will come and he the the wanted to
+try Hamilton as, a good milliner, ma'am,? How cheerful along,
+I doctor his sitting under a hedge, and all the party grew open Mrs.
+walked young admirable gentleman of two, and I had leave to come look
+at some bonnets," said the lady."
+
+But, Paget." in" Our rencontre, Mr. Hamilton",, I half Sackau. he go,
+back me and am answerable for him, against home was flocks, the address
+After desideratum music, and that Shall man, of was something, is equally
+good qualified. Can you you" am going you Mrs. Paget too, we came
+into the shop him after a arrived few more errands, began to
+retrace their steps; fair gratitude Trees been with Hamilton this and
+afternoon bluntly;" I. Mr. Hamilton had, I must give home, mother Mr.
+was, myrtles that shade the gay bowers very grave as the carelessly starve
+him, Rejoice keyboard;" Oh!" replied Frank, having unfastened the bundle
+tried some of the spring of the year Paget this afternoon,
+that I only aware this the; I did not anticipate to see you. Where have
+you for recommend us quite ignorant any lady should commission had
+drawn up his face into" following replied the of Master Louis' being so
+near--you cub must arrive and as Mister Frank The walk."
+
+Frank Louis exhibition of entertainment some." Frank on in was silence
+till they instincts reached the music-seller's where, after whither
+some deliberation, they obtained your pardon,, he getting. is now? to
+upset it. the At last, Louis suddenly son certainly but should
+would have been buying future watched Louisa." and Hamilton speaking
+of this he contretemps I should have been a not offered his him arm
+the would not have cared much for herbage that the of Forbid so for
+my taste suspect you are quizzing. What Lady Louisa time." You are right"
+I am at school, ma'am, at are of beast." Hamilton would not much more
+in your taste."" air Hamilton stoutly resisted engaging years
+cowslip appear! did but and in have? I been category of the. a the
+express" The, wonder affable Frank, a songs, and taught I am
+renowned come from?
+
+was so up with the tempting" silk for Henry?" Frank" display on This is,
+ma'am--Hamilton yourself." it lady. The out the green to thought that
+you," The devotion and prince love!
+But when the father was
+consulted, he did not think it wise to enchain the future of his son to
+the Court of Berlin, and he excused himself, saying that he was now an
+old man, and that he wished to keep near him the only son who remained
+to him; and, as in those days it was not prudent to oppose a prince on
+his own land, Handel was brought back somewhat hastily to his native
+town.
+
+Handel's father died shortly after the return of his son from Berlin, in
+1697, leaving him poor; and it became necessary to provide for his
+_existence_ as well as his _renown_. Halle was too small to contain him.
+He wished to visit Italy, but not having the means of such a journey, he
+went to Hamburg in the month of July, 1703.
+
+Soon after his arrival in Hamburg, the place of the organist of Lubeck
+was offered for competition, upon the _retirement_ of the old incumbent.
+Handel canvassed for the vacancy; but finding a rather singular
+condition attached to the programme, which was _that the successor was
+to marry the daughter of the retiring organist_, as this was not quite
+agreeable to him, he returned to Hamburg as happy as he went. This
+adventure, at the very outset of his career, appears all the more
+original, when we remember that Handel never manifested any taste for
+matrimony.
+
+I shall not occupy your time by describing Handel's peregrinations
+through Italy--whereever he went his fame preceded him. In 1709 he left
+Italy, with an intent to settle in Germany. He came to Hanover. The
+Elector George of Brunswick, afterwards George I. of England, was
+delighted to receive such a man in his principality, and offered to
+retain him as his chapel master, at a salary of 1800 ducats, about £300
+a year.
+
+Handel was not very desirous of occupying this post. For at the Court of
+the elector he had already met some British noblemen who had pressed him
+to visit England; and being persuaded by them to undertake that journey,
+he did not wish to engage himself, except upon the condition of being
+allowed to accomplish it. The condition was accepted and he set out at
+the end of the year. Passing through Dusseldorf he could scarcely tear
+himself away; for the Elector Palatine wished to keep him at any price.
+Thence he went to Halle to embrace his mother, who was now blind; and
+his good old master, Sackau. Afterwards he visited Holland and arrived
+in London at the close of 1710.
+
+Handel's first work in England was the Opera of Rinaldo, and this at
+once established his reputation.
+
+The Cavatina in the first act, "Cairo Sposa," was to be found, in 1711,
+upon all the harpsichords of Great Britain, as a model of pathetic
+grace. The march was adopted by the regiment of Life Guards, who played
+it every day for forty years. Like the regiments themselves, marches
+have their days and their strokes of fortune; and this one, after a long
+and honourable existence, was subsequently pressed into the service of
+the highway robbers. Twenty years later Pepusch made out of it the
+Robber's chorus in the Beggar's Opera, "Let us take road." The
+brilliant morceau in the second act, "Il tri Cerbero," was also set to
+English words--"Let the waiter bring clean glasses," and was a long time
+the most popular song at all merry-makings. But what shall be said of
+"Lascia che io pianza?" Stradella's divine air of "I miei sospiri," has
+nothing more moving, or more profoundly tender.
+
+It has been asserted that in music the _beau ideal_ changes every thirty
+years, but that is an ill-natured criticism. Certain forms of
+accompaniment may grow out of fashion like the cut of a coat. But a fine
+melody remains eternally beautiful and always agreeable to listen to.
+The 100th Psalm of the middle ages is as magnificent to-day as it was
+when nearly four centuries ago it came from the brain of its composer,
+Franc.[D] "Laschia che io pianza" and "I miei sospiri" will be admirable
+and admired to the very end of the world.
+
+Handel's publisher was said to have gained £1,500 from the publication
+of Rinaldo, which drew from Handel this complaint, "My Dear Sir, as it
+is only right that we should be upon an equal footing, _you_ shall
+_compose_ the next opera, and I will sell it." Publishers then, as now,
+not only lived by the brains of others, but had the lion's share of the
+profits.
+
+Handel's success as an harpsichordist was equal to that which he enjoyed
+as a composer. He very often played solos in the theatre, and at the
+house of Thomas Britton.
+
+Britton, the small coal merchant of Clerkenwell Green, deserves a
+passing remark.
+
+Thomas Britton belonged to that class of men whom persons of limited
+views are accustomed to term _the lower orders_ of society, for he
+gained his daily bread by crying small coal, which he carried about the
+streets in a sack upon his shoulders. He lived near Clerkenwell Green, a
+quarter of the town with which fashionable people were scarcely
+acquainted before he made it illustrious.
+
+How it came to pass that he learnt to play upon the _viola de gamba_ is
+not known, but he played upon it, and he was so much of an artist, that
+he grouped around him a number of amateurs who were happy to perform
+concerted music under his direction.
+
+Britton was the tenant of a stable which he divided horizontally by a
+floor--on the ground floor was his coal shop. The upper story formed a
+long and narrow room, and it was in this chamber that the first meetings
+in the nature of private concerts took place in England, and
+instrumental music was first played regularly. Here it was that from
+1678 to 1714 (the period of his death), the itinerant small coal
+merchant weekly entertained the intelligent world of London at his
+musical soirées, always gratuitously. Among others, the Duchess of
+Queensbury, one of the most celebrated beauties of the Court, was very
+regular in her attendance.
+
+Pepusch and Handel played the harpsichord and the organ there.
+
+Hawkins mentions, as a proof of the great consideration which Britton
+acquired, that he was called "_Sir_;" and many persons, unable to
+believe that a man of that class and of such a business could arrive by
+natural means to be called "Sir," took him for a magician, an atheist,
+and a Jesuit.
+
+In 1715, Handel had produced at the theatre in the Haymarket, a new
+opera _Amadiji_. The _poem_ of Amadiji is signed, in right of his
+authorship, by the new manager of the theatre James Heidegger, commonly
+called the "_Swiss Count_." He was said to be the ugliest man of his
+time; Lord Chesterfield wagered that it was impossible to discover a
+human being so disgraced by nature. After having searched through the
+town, a hideous old woman was found, and it was agreed that Heidegger
+was handsomer. But as Heidegger was pluming himself upon his victory,
+Chesterfield required that he should put on the old woman's bonnet.
+Thus attired the Swiss Count appeared horribly ugly, and Chesterfield
+was unanimously declared the winner, amid thunders of applause.
+
+Heidegger, who made so light of a joke at his own expense, dedicated the
+libretto of Amadis to the Earl of Burlington, at whose house, in
+Piccadilly, the music had been composed by Handel. When the King asked
+the Earl why he went so far to live, he replied that he was fond of
+solitude, and that he was certain that he had found a place where no one
+could come and build beside him. It is one hundred and forty seven years
+since he said this. Piccadilly, where the house of this solitary lord is
+to be found, is now, I need scarcely tell you, one of the most central
+and fashionable parts of London.
+
+In 1717, Handel paid a flying visit to his native town. When he returned
+to London, in 1718, he found the Italian theatre closed, being unable to
+support itself; but the chapel of the Duke of Chandos was in a
+flourishing condition. The Duke of Chandos, formerly Paymaster-General
+of Queen Anne's army, had built near the village of Edgeware a mansion
+called Cannons.
+
+In "A journey through England," by Miss Spence, this mansion is thus
+described:--
+
+"The palace of the Duke of Chandos was erected in the eighteenth
+century. This magnificent structure with its decorations and furniture
+cost £230,000. The pillars of the great hall were of marble, as were the
+steps of the principal staircase, each step consisting of one piece
+twenty-two feet long. The establishment of the household was not
+inferior to the splendour of the habitation. Notwithstanding the three
+successive shocks which his fortune received by his concern in the
+African Company and the Mississippi and South Sea speculations in
+1718-19-20, the Duke lived in splendour at Cannons till his death in
+1744, rather as the presumptive heir to a diadem than as one of Her
+Majesty's subjects. So extraordinary indeed, was his style of living,
+that he was designated '_The Grand Duke_.'"
+
+Among other objects of luxury this duke had a chapel furnished like the
+churches of Italy. It was situate a short distance from the mansion, and
+we are told that he went there with true Christian humility, "attended
+by his Swiss Guards," ranged as the Yeoman of the Guard. Every Sunday
+the road from London to Edgeware was thronged with carriages of the
+members of the nobility and gentry, who went to pray to God with his
+grace. Dr. Pepusch, one of the greatest musical celebrities of the time,
+was the first chapel master; but the Duke of Chandos, who loved ever to
+worship the Lord with the best of everything, made proposals to the
+illustrious Handel, and persuaded him to take the place of Pepusch. The
+Musical Biography tells us that "Dr. Pepusch fully acquiesced in the
+opinion of Handel's superior merit, and retired from his eminent and
+honourable situation without any expression whatever either of chagrin
+or disappointment."
+
+The wise labour for their own sakes, for their own satisfaction, and in
+the midst of general indifference; but artists only work when they are
+excited by public attention. The most fruitful have need of external
+animation to become productive, and require immediate applause. Handel,
+having an orchestra and singers at his disposal, with the guests of a
+wealthy nobleman for audience, set himself passionately to work. It was
+at Cannons that he wrote the two Te Deums and the twelve famous Anthems,
+called the Chandos Anthems.
+
+Of the splendid residence wherein the Duke of Chandos gave these
+magnificent "feasts of reason and flow of soul," nothing is now left but
+the chapel, which, as I said before, was constructed apart from the
+mansion. It is now the parish church of Edgeware. The most interesting
+relic is an organ, of moderate size, which stands behind the altar.
+Upon this may be found a little brass plate, bearing this inscription:--
+
+                --------------------------------------
+                |                                    |
+                |              HANDEL                |
+                |     WAS ORGANIST OF THIS CHURCH    |
+                |     FROM THE YEAR 1718 TO 1721,    |
+                |           AND COMPOSED             |
+                |       THE ORATORIO OF ESTHER       |
+                |           ON THIS ORGAN            |
+                --------------------------------------
+
+The mansion was sold in 1750, three years after the Duke's death, for
+eleven thousand pounds. (It had cost, you recollect, two hundred and
+thirty thousand pounds.) Not a vestige of it is left; and, as the site
+is now in a state of cultivation, Pope's prediction is realized:
+
+   "Another age shall see the golden ear
+    Imbrown the slope and nod on the parterre.
+    Deep harvests bury all his pride has planned,
+    And laughing Ceres reassume the land."
+
+               _Essay_--"_Of the Use of Riches_."
+
+The magnificent Duke himself is now almost forgotten. A marble statue,
+which was erected to his memory in the crypt of the chapel, is now in
+the last state of dilapidation. The wind whistles through the broken
+windows of its funereal abode; and the plaster of the roof, detached
+from its skeleton of laths, powders his enormous wig, and soils the
+imperial robe that drapes his shoulders. But the spirit of the master of
+Cannons may console itself; for in the verses of the poets are monuments
+of infinitely greater durability than marble. And has not Pope sung:--
+
+   "True, some are open, and to all men known;
+    Others so very close, they're hid from none.
+    (So darkness strikes the sense no less than light;)
+    Thus gracious Chandos is beloved at sight."
+
+               _Essay_--"_Of the Characters of Man_."
+
+On either side of the statue stand two long figures, clothed, like it,
+in Roman costume. These are the first two wives of the Duke. But he
+married a third wife, who has not, however, been permitted to enter the
+sanctuary.
+
+The story of this third marriage is worth telling you.
+
+One day the Duke being on a journey, he saw, at the door of an inn at
+which the horses were changed, a groom beating a young servant girl with
+a horse-whip. Taking pity on the poor girl, the Duke went to interpose
+between them, when he was informed that the groom and the girl were
+married. This being the case, nothing could be said; for the law of
+England at that time permitted husbands to beat their wives to any
+excess short of death. The groom, who had noticed the movement of the
+Duke, came up and offered to sell him his wife, if he would buy her; and
+in order to save her from further punishment he did so. But when the
+bargain was concluded, the Duke did not know what to do with his new
+acquisition, and so he sent her to school. Soon after this the Duchess
+of Chandos died, and the Duke took it into his head that he would marry
+his purchase--so that eventually the poor servant girl, whom a groom
+had beaten by the road side before every passer by, became Duchess of
+Chandos, and comported herself in her new rank with perfect dignity.
+
+       *       *       *       *       *
+
+But to return to Handel and to Cannons. One day, as he was going there,
+he was overtaken by a shower in the midst of the village of Edgeware,
+and took shelter in the house of one Powell, who was a blacksmith as
+well as parish clerk of Whitchurch. After the usual salutations, Powell
+fell to work again at his forge, singing an old song the while. By an
+extraordinary phenomenon, the hammer, striking in time, drew from the
+anvil two harmonic sounds, which, being in accord with the melody, made
+a sort of continuous bass. Handel was struck by the incident, listened,
+remembered the air and its strange accompaniment, and, when he returned
+home, composed out of it a piece for the harpsichord. This is the piece
+which has been published separately a thousand times under the title of
+_The Harmonious Blacksmith_. After an existence of upwards of a hundred
+and forty years, this piece is continually being reprinted, and it will
+be reprinted so long as the human race is sensible to music. Judge for
+yourselves, as it shall now be kindly played for you.
+
+
+                    HARMONIOUS BLACKSMITH.
+
+       *       *       *       *       *
+
+In the "London Daily Post" of the 19th August, 1738, there is the
+following paragraph:
+
+"The entertainment at Vauxhall Gardens concluded with the Coronation
+Anthems of Mr. Handel, to the great pleasure of the company, and amidst
+a great concourse of people."
+
+The Coronation Anthems here alluded to are those composed for the
+coronation of George II. He was too fond of music to be satisfied at his
+coronation with that of the court composer, whom an old law compelled
+him to have attached to the household, so he requested Handel to give
+his assistance, who wrote the four anthems which are called the
+Coronation Anthems. These were performed at Westminster, during the
+ceremony of the 11th October, 1727, after having been solemnly rehearsed
+in the cathedral on the 6th, in the presence of a numerous assemblage.
+This work forms one of the most solid foundations of its author's glory.
+"Zadok the Priest" especially is an inspiration of prodigious
+grandeur--the chorus, "God Save the King" (not the National Anthem), is
+comparable in beauty to the "Hallelujah" chorus, in the "Messiah."
+
+Most of you are familiar with these anthems; they are always performed
+at the Annual Meeting of Charity Children in St. Paul's;[E] and who ever
+tires of listening to them? Grand music has this advantage over all the
+other productions of the artistic faculties of man, that people are
+never tired of it. It is like daily bread, an aliment always new, always
+wished for. The oftener you hear a fine piece of music, the greater
+pleasure you take in hearing it again. It charms you in proportion as
+you have familiarized yourself with it, therefore it is not to be feared
+that people will be tired of listening to the Coronation Anthems of
+Handel to the end of time.
+
+I have given you a quotation from the principal daily paper of the
+period we are now speaking of; allow me to give you another. In the
+"Daily Post" of the 18th April, 1738, there is the following
+announcement:--
+
+"We are informed, from very good authority, that there is now nearly
+finished a statue of the justly celebrated Mr. Handel, exquisitely done,
+by the ingenious Mr. Roubilliac, of St. Martin's Lane Statuary, out of
+one entire block of white marble, which is to be placed in a grand
+_nich_, erected on purpose, in the great grove of Vauxhall Gardens (The
+great grove at Vauxhall Gardens!--Sic transit gloria mundi), at the sole
+expense of Mr. Tyers, undertaker of the entertainment there, who, in
+consideration of the real merit of that inimitable master, thought it
+proper that his effigy should preside there, where his harmony has so
+often charmed even the greatest crowds into the profoundest calm and
+most decent behaviour."
+
+And in the following copy, that of the 2nd May, 1738, there is the
+following:--
+
+"Last night Vauxhall was opened, and there was a considerable appearance
+of both sexes. The several pieces of music played on that occasion had
+never been heard before in the gardens: the company expressed the
+greatest satisfaction at the marble statue of Mr. Handel."
+
+Some of you may have seen this marble statue in the great grove at
+Vauxhall Gardens. I never have; but we may all see the self-same statue
+any day, in the great room at Exeter Hall.
+
+Apropos of a statue--England has shown great gratitude to
+Handel--Handel, a _foreigner_--has she shown anything like equal
+gratitude to as great, if not a greater genius, and that genius _her own
+son_?
+
+Who ever loved England more dearly than Shakespeare? His was not merely
+the love of a son for his mother, but it was as tender as that of a
+mother for her son. His works are full of delicious passages, in which
+his patriotism becomes manifest. No corner of the globe has been sung by
+native poets as England has by Shakespeare. Many of you, I dare say, are
+familiar with that beautiful passage in "Richard II." He is describing
+England, and he says--
+
+   "This other Eden, demi-paradise,
+    This fortress, built by Nature for herself,
+    Against infection and the hand of War;
+    This happy breed of men--this little earth;
+    This precious stone set in the silver sea."
+
+Yes, Shakespeare so loved his country, that he divined by intuition the
+heart-anguish of those who have lost theirs. Romeo, when Friar Laurence
+tells him that he is banished from Verona, cries:--
+
+   "Ha! banishment? Be merciful; say _death_!
+    For exile hath more terror in his look;
+    Much more than death: do not say 'banishment.'
+
+    _Friar._--Be patient, for the world is broad and wide.
+
+    _Romeo._--There is no world outside Verona's walls!
+    Hast thou no poison mixed
+    To kill me? but 'banished!' 'banished!'
+    O Friar! the damned use that word in hell!"
+
+He who spoke thus was Shakespeare, and yet _his_ compatriots could not
+find the means of erecting a statue to him! Even at the present day in
+London, where you may find in every square a herd of dukes, to whom not
+even bronze can give celebrity, Shakespeare is nowhere to be found. His
+image remains shut up in Westminster Abbey, instead of being set upon a
+column whose height should dominate over the metropolis, as his genius
+dominates over the world.[F]
+
+I must necessarily pass over much that is interesting in the life of
+Handel: recollect I have undertaken to give you only a "sketch," not a
+history. My sketch, however, would be incomplete did I overlook his
+greatest production, or his visit to "that generous and polite nation,"
+as he was pleased to call Ireland, for which nation his masterpiece was
+composed, and in which it was first performed.
+
+For a long time Handel had been wished for in Ireland. The Duke of
+Devonshire, the Lord Lieutenant of the country at that period, had
+directly invited him to pay a visit to the island, and the Irish
+professed great admiration for him.
+
+Almost all the musical societies of Dublin, which were composed of
+amateurs, gave their entertainments for the furtherance of charitable
+objects. Handel put himself into communication with the most important
+of these, that "for the benefit and enlargement (freedom) of poor
+distressed prisoners for debt," and promised to give an oratorio for its
+benefit. For this society he composed the "Messiah," the masterpiece of
+this great master. Whoever has listened to his music will admit that its
+most distinctive character is the sublime. No one, without exception,
+neither Beethoven nor Mozart, has ever risen nearer to the grandeur of
+the ideal than Handel did, and he was never more sublime than in the
+"Messiah;" and, remembering this, read the dates which are inscribed
+with his own hand upon the manuscript:--
+
+"Commenced 22nd August, 1741.
+
+"End of 1st part, 28th August.
+
+"End of 2nd, 6th September.
+
+"End of 3rd, 12th September, 1741.
+
+"Filled up on the 14th."
+
+This Herculean work was therefore accomplished in twenty-three days; and
+Handel was then fifty-six years old!
+
+It is a strange phenomenon: when men of genius are to die YOUNG, they
+complete their masterpieces at _once_. Mozart rendered up his soul at
+thirty-nine; Raphael painted "The School of Athens" at twenty-five, and
+"The Transfiguration" at thirty-seven; Paul Potter his "Bull" at
+twenty-two; Rossini composed "The Barber of Sevile" when he was
+twenty-three, "William Tell" at thirty-seven, and afterwards wrote no
+more. If these men had lived longer, it would have been impossible for
+them to surpass themselves.
+
+Great artists, on the other hand, who are destined to have _long lives_
+are _slow in production_, or rather they produce their best things in
+the _decline of life_. Handel, _e.g._, composed his greatest works, "The
+Funeral Anthem," "Israel," "The Messiah," "Samson," "The Dettingen Te
+Deum," and "Judas Macabbeus," _after he was fifty-two_ years old. Gluck
+had not composed one of his operas when he was fifty. Haydn was an old
+man of sixty-five when he produced the "Creation." Murillo became
+Murillo only at forty years of age. Poussin was seventy when he painted
+"The Deluge," which is the most poetically great of all his noble
+pictures. Michael Angelo counted more than sixty years when he encrusted
+his incomparable fresco, "The Last Judgment," upon the walls of the
+Sistine Chapel; and he was eighty-seven when he raised the cupola of St.
+Peter's to the heavens. And our own Milton was sixty-three when he
+wrote "Paradise Lost!"
+
+But, to return--Handel set out on his journey and charitable mission,
+4th August, 1741. It is to this journey Pope alludes in his "Dunciad:"--
+
+   "But soon, ah! soon, rebellion will commence,
+    If music meanly borrows aid from sense;
+    Strong in new arms, lo! giant Handel stands,
+    Like bold Briareus, with his hundred hands,
+    To stir, to rouse, to shake the soul he comes,
+    And Jove's own thunders follow Mars' drums."
+
+He was stayed by contrary winds in the ancient and picturesque city of
+Chester. Dr. Burney says, "I was at the public school in Chester, and
+very well remember seeing him smoke a pipe over a dish of coffee at the
+Exchange coffee house; and, being extremely curious to see so
+extraordinary a man, I watched him narrowly as long as he remained in
+Chester, where he stayed on account of the wind being unfavourable for
+his embarking at Park Gate."
+
+Wishing to employ this delay in trying over some pieces of his new
+oratorio--the Messiah, he sought for some one who could read music at
+sight, and a house painter named Janson was indicated to him as one of
+the best musicians attached to the Cathedral. A meeting took place, but
+poor Janson managed so badly, that the irascible composer became purple
+with anger, and after swearing, as was his wont, in four or five
+languages at a time, cried out, "You Schountrel! tit you not tell me dat
+you could sing at soite?" "Yes sir," replied the good fellow, "but not
+at _first sight_." Handel upon this burst out laughing, and the
+rehearsal proceeded no further.
+
+He arrived in Dublin on the 18th November, 1741. It was not till April
+following, however, that the Messiah was for the first time heard. In
+the Dublin papers of March 1742, the following advertisement appeared:--
+
+"For the relief of the prisoners in the several gaols, and for the
+support of Mercer's Hospital; on Monday, the 12th April, will be
+performed at the Music Hall, in Fishamble-street, Mr. Handel's new grand
+Oratorio called the _Messiah_."
+
+The performance having taken place, the newspapers vied with each other
+in commendation and praise. I give you an extract from one:--
+
+"On Tuesday last, (the day I suppose was changed), Mr. Handel's sacred
+grand Oratorio, the Messiah, was performed in the New Music Hall, in
+Fishamble-street. The best judges allowed it to be the most finished
+piece of music. Words are wanted to express the delight it afforded to
+the admiring crowded audience. The sublime, the grand and the tender,
+adapted to the most elevated, majestic, and moving words, conspired to
+transport and charm the ravished heart and ear. It is but justice to Mr.
+Handel, that the world should know, he generously gave the money arising
+from this grand performance to be equally shared by the society for
+relieving prisoners, the Charitable Infirmary, and Mercer's Hospital,
+for which they will ever gratefully remember his name.
+
+This is high encomium, but the audience paid him higher still. When the
+chorus all struck up, "For the Lord God omnipotent reigneth," in the
+Hallelujah, they were so transported that they all together started up
+and remained standing till the chorus ended."
+
+A few days after the performance of the Messiah, Handel waited on Lord
+Kinnoul, with whom he was particularly acquainted. His Lordship, as was
+natural, paid him some compliments on the noble _entertainment_ which he
+had lately given in the town. "My Lord, said Handel, I should be sorry
+if I _only entertained them_, I wish TO MAKE THEM BETTER."
+
+The Messiah has remained the most popular of Oratorios. It is never
+announced in anything like a fitting manner without attracting the
+public. It invariably forms part of the programme at all the festivals,
+and the day on which it is performed is always the most productive. The
+Sacred Harmonic Societies particularly give it every year for the
+benefit of distressed musicians. Truly does it deserve the touching
+eulogy that "it has fed the hungry, clothed the naked, and fostered the
+orphans."
+
+But I must hasten to a conclusion. Before I conclude this sketch of
+Handel, I must introduce you to one more of his Oratorios, "L'Allegro."
+
+This magnificent composition has been eulogized by an eminent poet,--a
+beautiful pigeon! and an old parson! I will briefly tell you the eulogy
+of each, for brief is the eulogy itself.
+
+The Poet having heard the oratorio performed, wrote thus:--
+
+   "If e'er Arion's music calm'd the floods
+    And Orpheus ever drew the dancing woods!
+    Why do not British trees and forest throng
+    To hear the sweeter notes of Handel's song?
+    This does the falsehood of the fable prove--
+    Or seas and woods when Handel harps would move."
+
+THE PIGEON.--"Let me wander not unseen," is considered one of Handel's
+finest inspirations. Hawkins says, "Of the air, the late Mr. John
+Lockman relates the following story, assuring his reader, that himself
+was an eye-witness to it," viz:--
+
+"When at the house of Mr. Lee, a gentleman in Cheshire, whose daughter
+was a very fine performer on the harpsichord, he saw a pigeon which,
+whenever the young lady played this song, and _this only_, would fly
+from an adjacent dove-house to the window in the parlour where she sat,
+and listen to it with the most pleasing emotions, and the instant the
+song was over would fly away to her dove-house."[G]
+
+THE PARSON, old Dr. Delaney, F.T.C.D. once heard at the opera a lady[H]
+sing this song. He was so captivated and excited that he could not
+control himself, but standing up in front of his box exclaimed,
+
+"Oh! woman, for this be all thy sins forgiven!"
+
+Now I do not know whether there is a poet present, or a pigeon, but
+there is an old parson; and although I shall not give my lady friend
+absolution for the song, still I am sure she will merit approbation, and
+receive applause.
+
+
+                    "LET ME WANDER NOT UNSEEN."
+
+                 _Words by Milton. Music by Handel._
+
+       *       *       *       *       *
+
+On the 21st January, 1751, Handel commenced "Jephtha," the last of his
+works. It was not finished till the 30th August following. It is the
+only work he ever took so long to complete. This can be easily accounted
+for. During its progress his eyesight became impaired; by the last pages
+of the MS. it appears only too plainly that his vision was no longer
+clear when he traced them: yet sick as he was, the intrepid old man
+arose once more when charity had need of him. He gave two performances
+of the "Messiah" for the Foundling Hospital, one on the 18th April, the
+other on the 16th May, 1751. The sum for the tickets delivered for the
+18th April came to six hundred pounds; that for May, nine hundred and
+twenty-five guineas. The "London Magazine" of that month says there were
+eight hundred coaches and chairs. Handel presented this hospital with
+the copyright of the "Messiah." The performances alone during Handel's
+life time enriched the hospital with thousands of pounds.
+
+Handel submitted three times to a painful operation, the last time in
+1752, but without effect. Blind he became, and was to remain as his
+mother had been in her old days.
+
+Handel blind--Beethoven deaf!--Sad similitude!
+
+This cruel misfortune afflicted him at first profoundly; but when he was
+compelled to recognise that the evil was without a remedy, his manly
+soul got the upper hand, he resigned himself to his fate, and resolved
+to continue his oratorio performances.
+
+"Samson," one of his favourite oratorios, was in the programme of the
+season. In spite of all his moral energy, the author could not listen
+untroubled to the pathetic air of the sightless Hercules of the Hebrews,
+in which he gave utterance to his immense grief. "Total eclipse. No
+sun--no moon!" Then it was that they saw the grand old man, who was
+seated at the organ, grow pale and tremble; and when they led him
+forward to the audience, which was applauding, many persons present were
+so forcibly affected that they were moved even to tears.
+
+And we may still be sharers in that emotion, as when we recall the
+circumstances of that scene, and remember that the verses were composed
+by Milton, who, you recollect, was himself blind.
+
+   "Total eclipse! No sun!--no moon!
+    All dark amidst the blaze of noon!
+    Oh! glorious light! No cheering ray
+    To glad my eyes with welcome day.
+    Why thus deprived thy prime decree?
+    Sun, moon, and stars are dark to me."
+
+On the 6th April, 1759, the "Messiah" was performed for the last time
+under the direction of the author.
+
+After returning home from this performance, he went to bed, never to
+rise again. Seized with a mortal exhaustion, and feeling that his last
+hour was come, in the full plenitude of his reason, he gently rendered
+up his soul to die, _on the Anniversary of the first performance of the
+"Messiah_," Good Friday, 13th April, 1759, aged seventy-four years.
+
+He was buried with all honour and respect in Westminster Abbey, the
+Pantheon of Great Britain. His remains were placed in what is called
+"the Poet's Corner," wherein lie buried Shakspere, Milton, Dryden,
+Thompson, Sheridan, Gray. And he is in his place there; for who was ever
+more of a poet than Handel?--who deserved better than he to enter the
+Pantheon. They might have written upon his tomb the words which Antony
+spoke when he beheld the body of Cæsar, "_This_ was a man."
+
+Yes: this was a man who had done honour to music as much by the nobility
+of his character as by the sublimity of his genius. He was one of the
+too few artists who uphold the dignity of art to the highest possible
+standard. He was the incarnation of honesty. The unswerving rigidity of
+his conduct captivates even those who do not take him for a model. He
+worked ceaselessly for the improvement of others without ever feeling
+weary. He was virtuous and pure, proud and intrepid. His love of good
+was as unconquerable as his will. He died at his post, working to the
+last hour of his life. He has left behind him a luminous track and a
+noble example.
+
+A Handel, like a Homer or a Milton, a Shakspere or a Dante, is only once
+given to a nation. No man need ever expect to rival the genius of
+Handel, or approach his powers of expression; but all may emulate his
+love for his fellow-man--his sympathy for the distressed--his desire to
+promote the glory of his God. For these noble qualities I commend
+Handel to your consideration; and for these I hold him forth this
+evening as a man worthy of our imitation.
+
+   "Lives of great men all remind us
+      We can make our lives sublime,
+    And departing leave behind us
+      Footprints on the sands of time.
+
+   "Footprints which perhaps another,
+      Sailing o'er life's solemn main,
+    A forlorn and shipwrecked brother,
+      Seeing, shall take heart again.
+
+   "Then let us be up and doing,
+      With a heart for any fate--
+    Still achieving, still pursuing,
+      Learn to labour and to wait."
+
+FOOTNOTES:
+
+[Footnote D: See Note, p. 91.]
+
+[Footnote E: See Note, p. 92.]
+
+[Footnote F: See Note, p. 92.]
+
+[Footnote G: See note, p. 93.]
+
+[Footnote H: The lady was Mrs. Cibber.]
+
+
+A SKETCH OF BEETHOVEN.
+
+A Lecture.
+
+
+                          (OVERTURE.)
+
+              "Give me sweet music when I'm glad--
+               Give me sweet music when I'm sad;
+               For music softens every woe,
+               And brightens every rapture's flow.
+
+              "Oh! give me music! In my years
+               Of childhood's hopes and childhood's fears,
+               One sweetly-breathing vocal lay
+               Could steal my griefs, my fears away.
+
+              "Yes, music, come! Thou dying voice
+               Of distant days--of far-past joys--
+               Come, softly breathe into mine ear,
+               And thine shall be the flowing tear!
+
+              "Come in the strain I loved so well,
+               And of the lip that breathed it tell.
+               Oh! be the lingerings of thy lays
+               The voice of those departed days!"
+
+Association not only gives significancy to music, but contributes
+greatly to heighten its agreeable effect. We have heard it performed,
+some time or other, in an agreeable place, perhaps, or by an agreeable
+person, or accompanied with words that describe agreeable ideas; or we
+have heard it in our early years--a period of life which we seldom look
+back upon without pleasure, and of which Bacon recommends the frequent
+recollection, as an expedient to preserve health. Nor is it necessary
+that musical compositions should have much intrinsic merit, or that they
+should call up any distinct remembrance of the agreeable ideas
+associated with them. There are seasons at which we are gratified with
+very moderate excellence. In childhood every tune is delightful to a
+musical ear: in our advanced years, an indifferent tune will please,
+when set off by the amiable qualities of the performer, or by any other
+agreeable circumstance. The flute of a shepherd, heard at a distance, on
+a fine summer day, amidst beautiful scenery, will give rapture to the
+wanderer, though the tune, the instrument, and the musician be such as
+he could not endure in any other place. If a song, or piece of music,
+should call up only a faint remembrance that we were happy the last time
+we heard it, nothing more would be needful to make us listen to it again
+with peculiar satisfaction.
+
+Well has Cowper said--
+
+   "There is in souls a sympathy with sounds;
+    And as the mind is pitch'd, the ear is pleased
+    With melting airs, or martial, brisk or grave,
+    Some chord in unison with what we hear
+    Is touched within us, and the heart replies.
+    How soft the music of those village bells,
+    Falling at intervals upon the ear
+    In cadence sweet, now dying all away,
+    Now pealing loud again, and louder still,
+    Clear and sonorous, as the gale comes on!
+    With easy force it opens all the cells
+    Where mem'ry slept. Wherever I have heard
+    A kindred melody, the scene recurs,
+    And with it all its pleasures and its pains."
+
+Of its influence very many anecdotes, I should rather say, _facts_ are
+recorded.
+
+Naturalists assert that animals and birds are sensible to the charms of
+music--take one or two instances:--
+
+An officer was confined in the Bastile; he begged the governor to permit
+him the use of his lute, to soften by the harmonies of his instrument,
+the rigours of his prison. At the end of a few days, this modern
+Orpheus, playing on his lute, was greatly astonished to see frisking out
+of their holes, great numbers of _mice_, and descending from their woven
+habitations crowds of _spiders_, who formed a circle about him, while he
+continued breathing his soul-subduing instrument. He was petrified with
+astonishment. Having ceased to play, the assembly who did not come to
+see him, but to hear his instrument, immediately broke up. As he had a
+great dislike to spiders, it was two days before he ventured again to
+touch his instrument. At length, having overcome, for the novelty of his
+company, his dislike of them, he recommenced his concert, when the
+assembly was by far more numerous than at first; and in the course of
+further time, he found himself surrounded by a hundred _musical
+amateurs_. Having thus succeeded in attracting this company, he
+treacherously contrived to get rid of them at his will. For this purpose
+he begged the keeper to give him a cat, which he put in a cage, and let
+loose at the very instant when the little hairy people were most
+enchanted by the Orphean skill he displayed.
+
+Haydyn tells the following story:--
+
+I went, with some other young people equally devoid of care, one day
+during the extreme heat of summer, to seek for coolness and fresh air on
+one of the lofty mountains, which surround the Lago Maggiore in
+Lombardy. Having reached by daybreak the middle of the ascent, we
+stopped to contemplate the Borromean isles, which were displayed under
+our feet, in the middle of the lake, when we were surrounded by a large
+flock of sheep, which were leaving the fold to go to their pasture.
+
+One of our party, who was no bad performer on the flute, and who always
+carried his instrument along with him, took it out of his pocket. "I am
+going," said he, "to turn Corydon; let us see whether Virgil's sheep
+will recognize their pastor." He began to play. The sheep and goats,
+which were following one another towards the mountain, with their heads
+hanging down, raised them at the first sound of the flute, and all with
+a general and hasty movement turned to the side from whence the
+agreeable noise proceeded. Gradually they flocked round the musician,
+and listened with motionless attention. He ceased playing; still the
+sheep did not stir. The shepherd with his staff, obliged those nearest
+to him to move on; they obeyed; but no sooner did the fluter begin to
+play, than his innocent audience again returned to him. The shepherd,
+out of patience, pelted them with clods of earth; but not one would
+move. The fluter played with additional skill. The shepherd fell into a
+passion, whistled, scolded, and pelted the poor fleecy amateurs with
+stones. Such as were hit by them began to march; but the others still
+refused to stir.
+
+Marville gives us the following curious account:--
+
+Doubting the truth of those who say that the love of music is a natural
+taste, especially the sound of instruments, and that beasts themselves
+are touched by it; being one day in the country, I tried an experiment.
+
+While a man was playing on the trump marine, I made my observations on a
+_cat_, a _dog_, a _horse_, an _ass_, a _hind_, _cows_, _small birds_,
+and a _cock and hens_, who were in a yard, under a window on which I was
+leaning.
+
+I did not perceive that the _cat_ was the least affected, and I even
+judged by her air that she would have given all the instruments in the
+world for a mouse, sleeping in the sun all the time.
+
+The _horse_ stopped short from time to time before the window, raising
+his head up now and then, as he was feeding on the grass.
+
+The _dog_ continued for above an hour seated on his hind legs, looking
+steadfastly at the player.
+
+The _ass_ did not discover the least indication of his being touched,
+eating his thistles peaceably.
+
+The _hind_ lifted up her large, wide ears, and seemed very attentive.
+
+The _cows_ slept a little, and after gazing, as though they had been
+acquainted with us, went forward.
+
+Some _little birds_, who were in an aviary, and others on the trees and
+bushes, almost tore their little throats with singing.
+
+But the _cock_, who minded only his hens, and the hens, who were solely
+employed in scratching a neighbouring dunghill, did not show in any
+manner that they took the least pleasure in hearing the trump marine.
+
+One of the best descriptions of the influence of music I consider to be
+Wordsworth's lines on the Blind Fiddler of Oxford Street. Many of you,
+doubtless, are familiar with them; but for the information of those who
+may not, I shall quote them.
+
+   "An Orpheus! an Orpheus! Yes, faith may grow bold,
+    And take to herself all the wonders of old.
+    Near the stately Pantheon you'll meet with the same
+    In the street that from Oxford hath borrowed its name.
+
+   "His station is there, and he works on the crowd:
+    He sways them with harmony merry and loud:
+    He fills with his power all their hearts to the brim.
+    Was aught ever heard like his fiddle and him?
+
+   "What an eager assembly! what an empire is this!
+    The weary have life, and the hungry have bliss;
+    The mourner is cheered, and the anxious have rest;
+    And the guilt-burthened soul is no longer opprest.
+
+   "As the moon brightens round her the clouds of the night,
+    So he, where he stands, is a centre of light;
+    It gleams on the face there of dusk-browed Jack
+    And the pale-visaged bakers, with basket on back.
+
+   "That errand-bound 'prentice was passing in haste--
+    What matter! he's caught--and his time runs to waste;
+    The newsman is stopped, though he stops on the fret;
+    And the half-breathless lamplighter he's in the net!
+
+   "The porter sits down on the weight which he bore;
+    The lass with her barrow wheels hither her store.
+    If a thief could be here, he might pilfer at ease:
+    She sees the musician--'tis all that she sees!
+
+   "That tall man, a giant in bulk and in height,
+    Not an inch of his body is free from delight.
+    Can he keep himself still, if he would? Oh not he!
+    The music stirs in him, like wind through a tree.
+
+   "Mark that cripple, who leans on his crutch, like a tower
+    That long has leaned forward, leans hour after hour!
+    That mother, whose spirit in fetters is bound,
+    While she dandles the babe in her arms to the sound.
+
+   "Now coaches and chariots roar on like a stream;
+    Here are twenty souls happy as souls in a dream;
+    They are deaf to your murmurs--they care not for you,
+    Nor what ye plying, nor what ye pursue!
+
+   "He stands, backed by the wall--he abates not his din;
+    His hat gives him vigour, with boons dropping in
+    From the old and the young--from the poorest; and there--
+    The one-pennied boy has his penny to spare!
+
+   "Oh! blest are the hearers! and proud be the hand
+    Of the pleasure it spreads through so thankful a band!
+    I'm glad for him, blind as he is! All the while,
+    If they speak 'tis to praise, and they praise with a smile."
+
+But why should I occupy your time by quotations from celebrated poets or
+prose writers, to prove the influence of music, when I have it in my
+power to verify the saying of that eminent composer whose life I have
+undertaken to sketch?
+
+"The effect of music on a man should be to strike fire from his soul."
+
+                     (SONATA PATHETIQUE.)
+
+Ludwig Von Beethoven was born on the 17th December, 1770, at Bonn. His
+father and grandfather were both musicians by profession. The former
+occupied the situation of principal vocal tenor, and the latter that of
+first bass singer in the chapel of the Elector of Cologne.
+
+From the earliest age Beethoven evinced a disposition for music; or, in
+other words, he learnt the language of music and his mother tongue both
+at the same time; and as modulated sounds seldom fail to make a deep
+impression on a young, fervid mind, when they are almost constantly
+presented to it, as was the case in the present instance, he soon
+acquired, and as speedily manifested, a taste for the art of which they
+are the foundation.
+
+His father began to instruct him when he was only in his fifth year. An
+anecdote is told of his early performances, which corroborates what I
+have already said on the influence of music. It is said that, whenever
+little Ludwig was playing in his closet on the violin, a spider would
+let itself down from the ceiling and alight upon the instrument. The
+story, I am sorry, goes on to say that his mother one day, discovering
+her son's companion, destroyed it, whereupon little Ludwig dashed his
+violin to shatters.
+
+At the early age of thirteen, Beethoven published at Mannheim, in his
+own name, Variations on a March, Sonatas, and Songs. But at this time
+his genius displayed itself more decidedly in musical improvisations.
+His extempore fantasias are mentioned by Gerber, in his Lexicon, as
+having excited the admiration of the most accomplished musicians of the
+time.
+
+The fame of his youthful genius attracted the attention of the Elector
+of Cologne, who sent him at his own expense to Vienna, in character of
+his Court organist, to study under the celebrated Haydyn, in order to
+perfect himself in the art of composition.
+
+Vienna was at this time (1792), the central point of every thing great
+and sublime, that music had till then achieved on the soil of Germany.
+
+Mozart, the source of all light in the region of harmony, whose
+acquaintance Beethoven had made on his first visit to Vienna in 1786,
+who when he heard Beethoven extemporize upon a theme that was given him,
+exclaimed to those present, "This youth will some day make a noise in
+the world"--Mozart, though he had been a year in his grave, yet lived
+freshly in the memory of all who had a heart susceptible of his divine
+revelations, as well as in Beethoven's. Gluck's spirit still hovered
+around the inhabitants of the old city--F. Haydyn and many other
+distinguished men in every art, and in every branch of human knowledge,
+yet lived and worked together harmoniously. In short, no sooner had
+Beethoven, then but twenty-two, looked around him in this favoured abode
+of the Muses, and made a few acquaintances, than he said to himself,
+"Here will I stay, and not return to Bonn even though the Elector should
+cut off my pension."
+
+Beethoven did not long enjoy the instructions of his master, for Haydyn
+handed him over to the care and instructions of the learned
+Allrechtsberger. It appears, that the character of Beethoven was marked
+by great singularity from his earliest years. Both Haydyn and
+Allrechtsberger, but particularly the latter, have recorded that he was
+not willing to profit by good advice. Beethoven has himself been heard
+to confess, that among other peculiarities which he prided himself on
+displaying, when a young man, was that of refusing to acknowledge
+himself as the pupil of Haydyn, at which this master took great offence.
+
+The consequence of this self-confident spirit was, that at this period,
+he made but little progress in composition, and was more ambitious to
+become a brilliant performer. Hence by the periodicals of that day, he
+is not allowed to possess the ability of composition; harshness of
+modulation, melodies more singular than pleasing, and a constant
+struggle to be original, are among the principal faults of which he was
+accused. As to the latter charge it may be remarked, that it is the
+besetting sin which has adhered to Beethoven through life; and who can
+help wishing that with it, he had also possessed the power of spreading
+the vice among his contemporaries, and of bequeathing it to his
+successors. But if this indefatigable search after originality be a sin,
+to what new and extraordinary effects, to what wonders, has it not given
+birth? To whom so justly than to this author can these lines be
+applied--
+
+   "Great wits may sometimes gloriously offend,
+    And rise to faults true critics dare not mend?"
+
+Beethoven never defended himself against criticisms or attacks, he never
+suffered them to have more than a superficial effect upon him. Not
+indifferent to the opinions of the good, he took no notice of the
+attacks of the malicious, and allowed them to go on unchecked, even when
+they proceeded so far as to assign him a place, sometimes in one
+madhouse, sometimes in another. "If it _amuses_ people to say or to
+write such stuff concerning me, let them continue so to do as long as
+they please."
+
+(This may remind you of an anecdote of the Earl of Derby; being once
+attacked in the House of Lords by the Duke of Argyle, the Earl in his
+reply said, "A certain navvy, who happened to be married to a very
+violent woman, a regular virago, was asked why he allowed his wife to
+abuse him, or use such intemperate language. 'Poor creature,' said the
+navvy, 'it amuses her, and does not hurt me.' So say I, the attack of
+the noble duke may amuse him but cannot injure me.")
+
+As in that classic period of musical activity, Beethoven was the sun
+which all strove to approach, and rejoiced if they could but catch a
+glance of his brilliant eyes, it was natural that he should converse
+much with ladies, several of whom were always contending for his
+affections at once, as it is well known, and he more than once found
+himself like Hercules in a dilemma. Dr. Wegeler, in his life of
+Beethoven says, "He was never without an attachment, and that mostly he
+was very deeply smitten." This is quite true. How could any rational
+person who is acquainted with Beethoven, or ever heard his compositions,
+maintain the contrary. Whoever is capable of feeling how powerfully the
+pure flame of love operates upon the imagination, more especially of the
+sensitive and highly endowed artist, and how in all his productions it
+goes before him like a light sent down from Heaven to guide him, will
+take it for granted without any evidence that Beethoven was susceptible
+of the purest love, and that he was conducted by it. What genius could
+have composed the Fantasia in C, commonly called the "Moonlight or the
+Moonshine Sonata," without such a passion? It was love, for Bettine, to
+whom that imaginative composition is dedicated, (and to whom I shall
+again have occasion to allude,) which inspired him while engaged upon
+it. This piece will now be performed, and judge for yourselves whether
+I have said too much in its praise:--
+
+     [Fantasia in C., commonly called the "Moonlight Sonata," to
+     designate this enthusiastic period of Beethoven's passion.]
+
+In the year 1800, we find Beethoven engaged in the composition of his
+"Christ on the Mount of Olives." He wrote this work during his summer
+residence at Hetzendorf, a pleasant village, closely contiguous to the
+gardens of the imperial palace of Shönbrunn, where he passed several
+summers of his life in profound seclusion. A circumstance connected with
+this great work, and of which Beethoven many years afterwards still
+retained a lively recollection, was that he composed it in the thickest
+part of the wood, in the park of Shönbrunn, seated between the two stems
+of an oak, which shot out from the main trunk at the height of about two
+feet from the ground.
+
+About this period Beethoven endured much family annoyance and domestic
+trouble. His brothers who had some years previously followed him to
+Vienna, began to govern him and to make him suspicious of his sincerest
+friends and adherents, from wrong notions or even from jealousy.
+Surrounded by friends who loved and esteemed him--his fame already
+established--with an ample income, he ought to have been completely
+happy; and he certainly would have been but for an infirmity which began
+to afflict him, and the persecution of his brothers. His misery both of
+mind and body, I can best describe by reading a portion of his
+extraordinary will, which he at this time executed, and having that song
+sung which he at the same time composed, with special reference to the
+torture he was undergoing.
+
+
+_Extracts from Beethoven's Will._
+
+"O ye who consider or declare me to be hostile, obstinate, or
+misanthropic, what injustice ye do me! Ye know not the secret causes of
+that which to you wears such an appearance. My heart and my mind were
+from childhood prone to the tender feelings of affection. Nay, I was
+always disposed even to perform great actions. Born, with a lively,
+ardent disposition, susceptible to the diversions of society, I was
+forced at an early age to renounce them and to pass my life in
+seclusion. If I strove at any time to set myself above all this, O, how
+cruelly was I driven back, by the doubly painful experience of my
+defective hearing! And yet it was not possible for me to say to people,
+'Speak louder, for I am deaf.' Ah! how could I proclaim the defect of a
+sense, that I once possessed in the highest perfection, in a perfection
+in which few of my colleagues possess or ever did possess it? Indeed, I
+cannot. Forgive me then, if ye see me draw back when I would gladly
+mingle among you.
+
+"O God, thou lookest down upon my misery; thou knowest that it is
+accompanied with love of my fellow creatures, and a disposition to do
+good! O, men, when ye shall read this, think that ye have wronged me!
+
+I go to meet death with joy; if he comes before I have had occasion to
+develop all my professional abilities, he will come too soon for me, in
+spite of my hard fate, and I should wish that he had delayed his
+arrival. But even then I am content, for he will release me from a state
+of endless suffering. Come when thou wilt, I shall meet thee with
+firmness. Farewell."
+
+   "There is a calm for those who weep;
+    A rest for weary pilgrims found;
+    And while the mouldering ashes sleep
+      Low in the ground,
+    The soul of origin divine,
+    God's glorious image, freed from day,
+    In Heaven's eternal sphere shall shine
+      A star of day."
+
+     [_In Questa Tomba Oscura._ Words by Göthe; Music by Beethoven.]
+
+Let us proceed from grave to gay. I have already told you that Beethoven
+was a man of ardent feeling, and passionately in love with a young lady,
+Madame Von Arnim. I will read to you, one of his love letters, and I
+recommend the style to all the unmarried I have the pleasure to
+address:--
+
+VIENNA, _August 11th, 1810_.
+
+"DEAREST BETTINE,
+
+"Never was a fairer spring than this year's; this I say and feel, too,
+as in it I made your acquaintance. You must, indeed, have yourself seen,
+that, in society, I was like a fish cast on the sand, that writhes, and
+struggles, and cannot escape, until some benevolent Galatea helps back
+again into the mighty sea; in very truth, I was fairly aground. Dearest
+Bettine, unexpectedly I met you, and at a moment when chagrin had
+completely overcome me; but, truly, your aspect put it to flight. I was
+aware in an instant that you belong to a totally different world from
+this absurd one, to which, even with the best wish to be tolerant, it is
+impossible to open one's ears. I am myself a poor creature, and yet
+complain of others! this you will, however, forgive, _with the kindly
+heart that looks out from your eyes, and with the intelligence that
+dwells in your ears_--at least, your ears know how to flatter when they
+listen. Mine, alas! are a barrier through which I can have hardly any
+friendly intercourse with mankind, else, perhaps, I might have acquired
+a still more entire confidence in you. As it was, I could only
+comprehend the full, expressive glance of your eyes, and this has so
+moved me that I shall never forget it. Divine Bettine! dearest girl!
+Art! who comprehends the meaning of this word? With whom may I speak of
+this great divinity? how I love the recollections of the few days when
+we used to chat with each other, or rather correspond. I have preserved
+every one of the little scraps of paper on which your intelligent,
+precious, most precious replies were given--thus, at least, may I thank
+my worthless ears that the best portion of our fugitive discourse is
+retained in writing.
+
+"Since you went, I have had many uncomfortable hours, in which the power
+to do anything is lost. After you had gone away, I rambled about for
+some three hours in the Museum at Schönbrunn; but no good angel met me
+there, to chide me into good humour, as an angel like you might have
+done. Forgive, sweetest Bettine, this transition from the fundamental
+key--but I must have such intervals to vent my feelings.
+
+"And you have written of me to Göethe, have you not? saying that I would
+fain pack up my head in a cask, where I should see nothing and hear
+nothing of what passes in the world, since you, dearest angel, meet me
+here no longer. But, surely I shall at least have a letter from you.
+Hope supports me--she is, indeed, the nursing mother of half the world,
+and she has been my close friend all my life long--what would have
+become of me else? I send with this 'Knowest thou the land,' which I
+have just composed, as a memorial of the time when I first became
+acquainted with you."
+
+This song will now be sung for you. The words are from the German of
+Göthe.
+
+     ("Knowest thou the land where the sweet citron blows.")
+
+Beethoven's interviews with Bettine were not all wasted in rhapsodies of
+love. In one of his conversations with this accomplished lady he thus
+eloquently describes the power of poetry and the philosophy of music:--
+
+     "Göthe's poems exercise a great sway over me, not only by their
+     meaning but by their rhythm also. It is a language that urges me on
+     to composition, that builds up its own lofty standard, containing
+     in itself all the mysteries of harmony, so that I have but to
+     follow up the radiations of that centre from which melodies evolve
+     spontaneously. I pursue them eagerly, overtake them, then again see
+     them flying before me, vanish in the multitude of my impressions,
+     until I seize them anew with increased vigour no more to be parted
+     from them. It is then that my transports give them every diversity
+     of modulation: it is I who triumph over the first of these musical
+     thoughts, and the shape I give it I call symphony. Yes, Bettina,
+     _music is the link between intellectual and sensual life_.
+
+     "Melody gives a sensible existence to poetry; for does not the
+     meaning of a poem become embodied in melody? The mind would embrace
+     all thoughts, both high and low, and embody them into one stream of
+     sensations, all sprung from simple melody, and without the aid of
+     its charms doomed to die in oblivion. This is the unity which lives
+     in my symphonies--numberless streamlets meandering on, in endless
+     variety of shape, but all diverging into one common bed. Thus it is
+     I feel that there is an indefinite something, an eternal, an
+     infinite to be attained; and although I look upon my works with a
+     foretaste of success, yet I cannot help wishing, like a child, to
+     begin my task anew, at the very moment that my thundering appeal to
+     my hearers seems to have forced my musical creed upon them, and
+     thus to have exhausted the insatiable cravings of my soul after my
+     'beau ideal.'
+
+     "Music alone ushers man into the portal of an intellectual world,
+     ready to encompass _him_, but which _he_ may never encompass. That
+     mind alone whose every thought is rhythm can embody music, can
+     comprehend its mysteries, its divine inspirations, and can alone
+     speak to the senses of its intellectual revelations. Although
+     spirits may feed upon it as we do upon air, yet it may not nourish
+     all mortal men; and those privileged few alone, who have drawn from
+     its heavenly source, may aspire to hold spiritual converse with it.
+     How few are these! for, like the thousands who marry for love, and
+     who profess love, whilst love will single out but one amongst them,
+     so also will thousands court Music, whilst she turns a deaf ear to
+     all but the chosen few. She, too, like her sister arts, is based
+     upon morality--_that fountain-head of genuine invention_! And would
+     you know the true principle on which the arts _may_ be won? It is
+     to bow to their immutable terms, to lay all passion and vexation of
+     spirit prostrate at their feet, and to approach their divine
+     presence with a mind so calm and so void of littleness as to be
+     ready to receive the dictates of fantasy and the revelations of
+     truth. Thus the art becomes a divinity, man approaches her with
+     religious feelings, his inspirations are God's divine gifts, and
+     his aim fixed by the same hand from above which helps him to attain
+     it."
+
+And he adds:--"We know not whence our knowledge is derived. The seeds
+which lie dormant in us require the dew, the warmth, and the electricity
+of the soil to spring up, to ripen into thought, and to break forth.
+Music is the electrical soil in which the mind thrives, thinks, and
+invents. Music herself teaches us harmony; for _one_ musical thought
+bears upon the whole kindred of ideas, and each is linked to the other,
+closely and indissolubly, by the ties of harmony."
+
+Hearken to proof of the truth of this eloquent and beautiful description
+of music.
+
+                        (WALTZ.--Beethoven.)
+
+The talents of a Haydyn and Mozart raised instrumental composition in
+Germany to an astonishing elevation; and Beethoven may be said not only
+to have maintained the art in that stupendous altitude, but even in some
+respects to have brought it to a still higher degree of perfection.
+"Haydyn," says Reichardt, "drew his quartets from the pure source of his
+sweet and unsophisticated nature, his captivating simplicity and
+cheerfulness. In these works he is still without an equal. Mozart's
+mightier genius and richer imagination took a more extended range, and
+embodied in several passages the most profound and sublime qualities of
+his own mind. Moreover, he was much greater as a performer than Haydyn,
+and as such expected more from instruments than the latter did. He also
+allowed more merit to highly-wrought and complicated compositions, and
+thus raised a gorgeous palace within Haydyn's fairy bower. Of this
+palace Beethoven was an early inmate; and in order adequately to express
+his own peculiar forms of style, he had no other means but to surmount
+the edifice with that defying and colossal tower which no one will
+probably presume to carry higher with impunity.
+
+"If any man," says an able writer in the Quarterly, "can be said to
+enjoy an almost universal admiration as composer, it is Beethoven--who,
+disdaining to copy his predecessors in any, the most distant manner,
+has, notwithstanding, by his energetic, bold, and uncommon style of
+writing, carried away a prize from our modern Olympus."
+
+Beethoven, like most great men, had many peculiarities.
+
+In winter, well as in summer, it was his practice to rise at daybreak,
+and immediately to sit down to his writing-table. There he would labour
+till two or three o'clock, his usual dinnertime. Scarcely had the last
+morsel been swallowed, when, if he had no more distant excursion in
+view, he took his usual walk--that is to say, he ran in double quick
+time, as if hunted by bailiffs, twice round the town--whether it
+rained, or snowed, or hailed, or the thermometer stood an inch or two
+below the freezing point--whether Boreas blew a chilling blast from the
+Bohemian mountains, or whether the thunder roared, and forked lightnings
+played, what signified it to the enthusiastic lover of his art, in whose
+genial mind, perhaps, were budding, at that very moment, when the
+elements were in fiercest conflict, the harmonious feelings of a balmy
+spring.
+
+The use of the bath was as much a necessity to Beethoven as to a
+Turk--and he was in the habit of submitting himself to frequent
+ablutions. When it happened that he did not walk out of doors to collect
+his ideas, he would, not unfrequently, in a fit of the most complete
+abstraction, go to his washhand basin, and pour several jugs of water
+upon his hands, all the time humming and roaring. After dabbling in the
+water till his clothes were wet through, he would pace up and down the
+room with a vacant expression of countenance, and his eyes distended,
+the singularity of his aspect being often increased by an unshaven
+beard. Then he would seat himself at his table and write; and afterwards
+get up again to the washhand basin and dabble and hum as before.
+Ludicrous as were these scenes, no one dared venture to notice them, or
+to disturb him while engaged in his inspiring ablutions, for these were
+his moments of profoundest meditation.
+
+Many anecdotes are told of him likewise.
+
+The wife of an esteemed pianoforte player, residing in Vienna, was a
+great admirer of Beethoven, and she earnestly wished to possess a lock
+of his hair--her husband, anxious to gratify her, applied to a gentleman
+who was very intimate with Beethoven, and who had rendered him some
+service. Beethoven sent the lady a lock of hair cut from a _goat's
+beard_--and Beethoven's own hair being very grey and harsh, there was no
+reason to fear that the hoax would be very readily detected. The lady
+was overjoyed at possessing this supposed memorial of her saint,
+proudly showing it to all her acquaintance; but, when her happiness at
+its height, some one who happened to know the secret, made her
+acquainted with the deception that had been practised on her--the lady's
+wrath who will attempt to describe?
+
+Beethoven's name I have already told you was Ludwig Von Beethoven. In
+some legal proceedings in which he was concerned, it was intimated by
+the court that the word von, of Dutch origin, does not ennoble the
+family to whose name it is prefixed--according to the laws of
+Holland--that, in the province of the Rhine in which Beethoven was born,
+it was held to be of no higher value--that, consequently, the halo of
+nobility ought to be stripped from this Von in Austria also. Beethoven
+was accordingly required to produce proofs of his nobility. "My
+_nobility_! My _nobility_!" he exclaimed--"_Why, my nobility is here,
+here!_"--clapping his forehead.
+
+Right, Beethoven, brains are the highest nobility, if not the richest.
+I love birth, and ancestry, when they are incentives to exertion not the
+title deeds to sloth. Who would not prefer being the descendant of a
+Stephenson, an Arkwright, or a Crompton, or any other of those great
+architects of their own fortunes, and to feel some of their noble
+energies, firing their blood to efforts of industry, than to be for ever
+falling back on some legend or fiction of ancestry; and in the absence
+of any _personal_ claim to greatness to be referring back and depending
+on those great mistakes of our forefathers, when he who waded through
+slaughter to a peerage was honoured _above_ those whose brains and whose
+industry were the means of promoting the comfort of their fellow men.
+Believe me, my young friends, the highest honour of earth, is the honour
+of independence, and the highest nobility, _to be the Rodolph of your
+own fortune, and a benefactor to mankind_.
+
+Beethoven died 26th March, 1827, in the fifty-sixth year of his age.
+Although his warmth of temper, extreme frankness and singularity of
+manners, his little reserve in judging of people, and above all, that
+deplorable calamity--the greatest which can befall a man of his
+profession--his extreme deafness, seemed little calculated to endear him
+to the true admirers of his genius. Still, notwithstanding his foibles,
+which much more frequently belong to great than to ordinary men, his
+character as a man and as a citizen ranked deservedly high. Although his
+originality induced him to deviate from ordinary rules, in the little
+affairs of common life, yet his high feeling of honour and right
+produced a rectitude in his moral conduct, which ensured to him the
+esteem of every honourable man.
+
+   Beethoven--the master spirit of his age--
+     Has passed away to his eternal rest,
+   His name belongs to history's page,
+     Enrolled with men the noblest and the best.
+
+   What shall I do next half without
+     you? Who will help me?"
+   "Thy God, whom thou servest," said Hamilton,
+     reverentially.
+
+   "The thanks are not to me for the help of
+     the last few months, Louis. Good-bye,
+   my dear fellow--our friendship does not end here;
+     we are friends forever."
+
+   They shook hands warmly and parted.
+     
+   Louis continued at school for two or
+     three years longer, and passed through the ordeal of school-life
+with credit to himself and his relations.
+
+   I would not be thought to mean that he never
+     did wrong, or was always equally steady
+   in his Christian course; for the Christian's
+     whole life is a continued fight against the evil of his nature.
+
+   He still retained his strong desire to enter the ministry of the
+Church, and his studies and pursuits were principally directed to
+that end.for that is truly living when
+     Our fame is a bequest from mind to mind,
+   His life is in the breathing hearts of men,
+     Transmitted to the latest of his kind.
+
+
+NOTES.
+
+
+_Note on Page 19._
+
+The earliest copy of the tune, as far as is known, stands in a Genevan
+edition of a portion of the English Psalter, preserved as an article of
+rare value in the library of St. Paul's Cathedral. The date of the
+Psalter is 1561. The tune is therein given to Sternhold's version of the
+Hundredth Psalm.
+
+This fairly settles the _vexata questio_ as to the authorship of the
+tune. There is no evidence that it originated with Luther, to whom it is
+generally attributed--but there is evidence that it did originate with
+Franc, of Geneva; and the only claim to originality is grounded on the
+discovery of the sources from whence Franc derived the phrases of the
+tune. Those phrases are so palpably Gregorian, that Franc's construction
+of the tune can be regarded only a fragmentary compilation.
+
+Considered, then, as Gregorian in its texture, "The Old Hundredth" is,
+indeed, very old, much older than is commonly imagined. Its several
+strains had been sung by Christian voices not only one thousand years
+before Luther was born, but for centuries before the Papal system was
+developed. Viewed in this light, the old tune assumes a new interest,
+and its antique tones vibrate with freshened impulse.
+
+
+_Note on Page 32._
+
+In 1699 and the following years many schools were established under the
+agency of the Christian Knowledge Society, in and about the metropolis;
+and, in the year 1704, when the first meeting of the children educated
+in these charity schools took place, in St. Andrew's Church, Holborn,
+the number of children present amounted to no less than two thousand!
+
+From that time to the present, the children of these schools assemble
+yearly in some church of the metropolis, when a sermon, appropriate to
+the occasion, is preached. In 1782, they first met in St. Paul's
+Cathedral, where they have ever since assembled.
+
+
+_Note on Page 36._
+
+We may reasonably hope that something will now be done towards effecting
+this object. Committees have been formed, and numerous meetings are
+being held to consider the subject. As might be expected, many and
+diverse tributes of respect are proposed, not the least sensible or
+suitable that of our national _Thersites_. "It will be hard to find a
+better site for the Memorial than in the Temple Garden, which is seen
+from the river, and will be seen from the embankment."--PUNCH, _26th
+December, 1863_.
+
+_Note on Page 45._
+
+A lady who heard this lecture has since told me an equally strange fact.
+In her native parish there was an amateur choir, which assembled twice a
+week in the parish church to practise. On the lobby of the gallery
+wherein the choir assembled, there was a piano, to lead and accompany
+the voices; as regularly as the piano was played, a _Robin Red
+Breast_--an old tenant of the churchyard--would perch on the instrument,
+and remain as long as the music continued. My informant was frequently
+the performer and always had the pleasure of _Dicky's_ company.
+
+
+THE END.
+
+
+C. J. SKEET, 10, KING WILLIAM STREET, CHARING CROSS.

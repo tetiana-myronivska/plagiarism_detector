@@ -1,0 +1,661 @@
+﻿Transcriber's notes:
+
+   Corrected spellings
+     'casualities' to 'casualties'
+     'Midshipmen's hitch' to 'Midshipman's hitch'
+   Illustration for Timber Hitch is Fig. 38, not Fig. 32
+   There is no Fig. 134.
+
+
+KNOTS, SPLICES AND ROPE WORK
+
+A Practical Treatise
+
+Giving Complete and Simple Directions for Making All the Most Useful
+and Ornamental Knots in Common Use, with Chapters on Splicing,
+Pointing, Seizing, Serving, etc. Adapted for the use of Travellers,
+Campers, Yachtsmen, Boy Scouts, and All Others Having to Use or Handle
+Ropes for Any Purpose.
+
+by
+
+A. HYATT VERRILL
+
+Editor Popular Science Dept., "American Boy Magazine."
+
+SECOND REVISED EDITION
+
+Illustrated with 156 Original Cuts Showing How Each Knot, Tie or
+Splice is Formed and Its Appearance When Complete.
+
+
+CONTENTS
+
+
+INTRODUCTION
+
+
+CHAPTER I
+
+CORDAGE
+
+Kinds of Rope. Construction of Rope. Strength of Ropes. Weight of
+Ropes. Material Used in Making Ropes.
+
+
+CHAPTER II
+
+SIMPLE KNOTS AND BENDS
+
+Parts of Rope. Whipping and Seizing Rope. Loops. Cuckolds' Necks.
+Clinches. Overhand and Figure-eight Knots. Square and Reef Knots.
+Granny Knots. Open-hand and Fishermen's Knots. Ordinary Knots and
+Weavers' Knots. Garrick Bends and Hawser Hitches. Half-hitches.
+
+
+CHAPTER III
+
+TIES AND HITCHES
+
+Larks' Heads. Slippery and Half-hitches. Clove Hitches. Gunners' Knots
+and Timber Hitches. Twists, Catspaws, and Blackwall Hitches. Chain
+Hitch. Rolling and Magnus Hitches. Studding-sail and Gaff-topsail
+Halyard Bends. Roband and Fisherman's Hitches.
+
+CHAPTER IV
+
+NOOSES, LOOPS, AND MOORING KNOTS
+
+Waterman's Knot. Larks' Heads with Nooses. Cleat and Wharf Ties.
+Bow-line Knots. Loops and Loop Knots.
+
+
+CHAPTER V
+
+SHORTENINGS, GROMMETS, AND SELVAGEES
+
+Two-, Three-, and Fivefold Shortenings. Single Plaits and Monkey
+Chain. Twist Braids and Braiding Leather. Open Chains. Seized and Bow
+Shortenings. Sheepshanks and Dogshanks. Grommets. Selvagee Straps and
+Selvagee Boards. Flemish and Artificial Eyes. Throat Seizings. Lashed
+Splices.
+
+
+CHAPTER VI
+
+LASHINGS, SEIZINGS, SPLICES, ETC.
+
+Wedding Knots and Rose Lashings. Deadeye and Loop Lashings.
+Belaying-pin Splice. Necklace Ties. Close Bands and End Pointing.
+Ending Ropes. Short Splices. Long Splices. Eye and Cut Splices.
+
+
+CHAPTER VII
+
+FANCY KNOTS AND ROPE WORK
+
+Single Crown Knots. Tucked Crowns. Single Wall Knots. Common and
+French Shroud Knots. Double Crown and Double Wall Knots. Crowning Wall
+Knots. Double Wall and Crown. Manrope Knots. Topsail-halyard Toggles.
+Matthew Walker and Stopper Knots. Turks' Heads and Turks' Caps.
+Worming, Parcelling, and Serving. Serving Mallet. Half-hitch Work.
+Four-strand and Crown Braids. Rope Buckles and Swivels. Slinging Casks
+and Barrels. Rope Belting.
+
+
+INDEX
+
+
+INTRODUCTION
+
+The history of ropes and knots is so dim and ancient that really
+little is known of their origin. That earliest man used cordage of
+some kind and by his ingenuity succeeded in tying the material
+together, is indisputable, for the most ancient carvings and
+decorations of prehistoric man show knots in several forms. Doubtless
+the trailing vines and plants first suggested ropes to human beings;
+and it is quite probable that these same vines, in their various
+twistings and twinings, gave man his first idea of knots.
+
+Since the earliest times knots have been everywhere interwoven with
+human affairs; jugglers have used them in their tricks; they have
+become almost a part of many occupations and trades, while in song and
+story they have become the symbol of steadfastness and strength.
+
+Few realize the importance that knots and cordage have played in the
+world's history, but if it had not been for these simple and every-day
+things, which as a rule are given far too little consideration, the
+human race could never have developed beyond savages. Indeed, I am not
+sure but it would be safe to state that the real difference between
+civilized and savage man consists largely in the knowledge of knots
+and rope work. No cloth could be woven, no net or seine knitted, no
+bow strung and no craft sailed on lake or sea without numerous knots
+and proper lines or ropes; and Columbus himself would have been far
+more handicapped without knots than without a compass.
+
+History abounds with mention of knots, and in the eighth book of
+"Odyssey" Ulysses is represented as securing various articles of
+raiment by a rope fastened in a "knot closed with Circean art"; and as
+further proof of the prominence the ancients gave to knots the famous
+Gordian Knot may be mentioned. Probably no one will ever learn just
+how this fabulous knot was tied, and like many modern knots it was
+doubtless far easier for Alexander to cut it than to untie it.
+
+The old sorcerers used knots in various ways, and the witches of
+Lapland sold sailors so-called "Wind Knots," which were untied by the
+sailors when they desired a particular wind. Even modern conjurors and
+wizards use knots extensively in their exhibitions and upon the
+accuracy and manner in which their knots are tied depends the success
+of their tricks.
+
+In heraldry many knots have been used as symbols and badges and many
+old Coats of Arms bear intricate and handsome knots, or entwined
+ropes, emblazoned upon them.
+
+As to the utility of knots and rope work there can be no question. A
+little knowledge of knots has saved many a life in storm and wreck,
+and if every one knew how to quickly and securely tie a knot there
+would be far fewer casualties in hotel and similar fires. In a
+thousand ways and times a knowledge of rope and knots is useful and
+many times necessary. Many an accident has occurred through a knot or
+splice being improperly formed, and even in tying an ordinary bundle
+or "roping" a trunk or box few people tie a knot that is secure and
+yet readily undone and quickly made. In a life of travel and adventure
+in out-of-the-way places, in yachting or boating, in hunting or
+fishing, and even in motoring, to command a number of good knots and
+splices is to make life safer, easier, and more enjoyable, aside from
+the real pleasure one may find in learning the interesting art of
+knot-tying.
+
+Through countless ages the various forms of knots and fastenings for
+rope, cable, or cord have been developed; the best kinds being
+steadily improved and handed down from generation to generation, while
+the poor or inferior fastenings have been discarded by those whose
+callings required the use of cordage.
+
+Gradually, too, each profession or trade has adopted the knots best
+suited to its requirements, and thus we find the Sailor's Knot; the
+Weaver's Knot; Fishermen's knots; Builders' knots; Butchers' knots;
+and many others which have taken their names from the use to which
+they are especially adapted.
+
+In addition to these useful knots, there are many kinds of ornamental
+or fancy knots used in ornamenting the ends of ropes, decorating
+shrouds of vessels, railings, and similar objects; while certain
+braids or plaits, formed by a series of knots, are widely used aboard
+ship and on land.
+
+In many cases ropes or cable must be joined in such a way that they
+present a smooth and even surface and for such purposes splices are
+used, while knots used merely as temporary fastenings and which must
+be readily and quickly tied and untied are commonly known as "bends"
+or "hitches." Oddly enough, it is far easier to tie a poor knot than a
+good one, and in ninety-nine cases out of a hundred the tyro, when
+attempting to join two ropes together, will tie either a "slippery" or
+a "jamming" knot and will seldom succeed in making a recognized and
+"ship-shape" knot of any sort.
+
+The number of knots, ties, bends, hitches, splices, and shortenings in
+use is almost unlimited and they are most confusing and bewildering to
+the uninitiated. The most useful and ornamental, as well as the most
+reliable, are comparatively few in number, and in reality each knot
+learned leads readily to another; in the following pages I have
+endeavored to describe them in such a manner that their construction
+may be readily understood and mastered.
+
+THE AUTHOR.
+
+JANUARY, 1917.
+
+
+CHAPTER I
+
+CORDAGE
+
+
+Before taking up the matter of knots and splices in detail it may be
+well to give attention to cordage in general. Cordage, in its broadest
+sense, includes all forms and kinds of rope, string, twine, cable,
+etc., formed of braided or twisted strands. In making a rope or line
+the fibres (_A_, Fig. 1) of hemp, jute, cotton, or other material are
+loosely twisted together to form what is technically known as a "yarn"
+(_B_, Fig. 1). When two or more yarns are twisted together they form a
+"strand" (_C_, Fig. 1). Three or more strands form a rope (_D_, Fig.
+1), and three ropes form a cable (_E_, Fig. 1). To form a strand the
+yarns are twisted together in the opposite direction from that in
+which the original fibres were twisted; to form a rope the strands are
+twisted in the opposite direction from the yarns of the strands, and
+to form a cable each rope is twisted opposite from the twist of the
+strands. In this way the natural tendency for each yarn, strand, or
+rope to untwist serves to bind or hold the whole firmly together (Fig.
+1).
+
+[Illustration: FIG. 1.--Construction of rope.]
+
+Rope is usually three-stranded and the strands turn from left to right
+or "with the sun," while cable is left-handed or twisted "against the
+sun" (_E_, Fig. 1). Certain ropes, such as "bolt-rope" and most
+cables, are laid around a "core" (_F_, Fig. 2) or central strand and
+in many cases are four-stranded (Fig. 2).
+
+[Illustration: FIG. 2.--Bolt-rope.]
+
+The strength of a rope depends largely upon the strength and length of
+the fibres from which it is made, but the amount each yarn and strand
+is twisted, as well as the method used in bleaching or preparing the
+fibres, has much to do with the strength of the finished line.
+
+Roughly, the strength of ropes may be calculated by multiplying the
+circumference of the rope in inches by itself and the fifth part of
+the product will be the number of tons the rope will sustain. For
+example, if the rope is 5 inches in circumference, 5 X 5 = 25,
+one-fifth of which is 5, the number of tons that can safely be carried
+on a 5-inch rope. To ascertain the weight of ordinary "right hand"
+rope, multiply the circumference in inches by itself and multiply, the
+result by the length of rope in fathoms and divide the product by
+3.75. For example, to find the weight of a 5-inch rope, 50 fathoms in
+length: 5 X 5 = 25; 25 x 50 = 1,250; 1,250 / 3.75 = 333-1/3 lbs. These
+figures apply to Manila or hemp rope, which is the kind commonly used,
+but jute, sisal-flax, grass, and silk are also used considerably.
+Cotton rope is seldom used save for small hand-lines, clothes-lines,
+twine, etc., while wire rope is largely used nowadays for rigging
+vessels, derricks, winches, etc., but as splicing wire rope is
+different from the method employed in fibre rope, and as knots have no
+place in wire rigging, we will not consider it.
+
+
+CHAPTER II
+
+SIMPLE KNOTS AND BENDS
+
+
+For convenience in handling rope and learning the various knots, ties,
+and bends, we use the terms "standing part," "bight," and "end" (Fig.
+3). The _Standing Part_ is the principal portion or longest part of
+the rope; the _Bight_ is the part curved or bent while working or
+handling; while the _End_ is that part used in forming the knot or
+hitch. Before commencing work the loose ends or strands of a rope
+should be "whipped" or "seized" to prevent the rope from unravelling;
+and although an expert can readily tie almost any knot, make a splice,
+or in fact do pretty nearly anything with a loose-ended rope, yet it
+is a wise plan to invariably whip the end of every rope, cable, or
+hawser to be handled, while a marline-spike, fid, or pointed stick
+will also prove of great help in working rope.
+
+[Illustration: FIG. 3.--Parts of rope.]
+
+To whip or seize a rope-end, take a piece of twine or string and lay
+it on the rope an inch or two from the end, pass the twine several
+times around the rope, keeping the ends of the twine under the first
+few turns to hold it in place; then make a large loop with the free
+end of twine; bring it back to the rope and continue winding for three
+or four turns around both rope and end of twine; and then finish by
+drawing the loop tight by pulling on the free end (Fig. 4).
+
+[Illustration: FIG. 4.--Whipping.]
+
+All knots are begun by "loops" or rings commonly known to mariners as
+"Cuckolds' Necks" (Fig. 5). These may be either overhand or underhand,
+and when a seizing or fastening of twine is placed around the two
+parts where they cross a useful rope ring known as a "clinch" is
+formed (Fig. 6). If the loose end of the rope is passed over the
+standing part and through the "cuckold's-neck," the simplest of all
+knots, known as the "Overhand Knot," is made (Fig. 7). This drawn
+tight appears as in Fig. 8, and while so simple this knot is
+important, as it is frequently used in fastening the ends of yarns and
+strands in splicing, whipping, and seizing. The "Figure-Eight Knot" is
+almost as simple as the overhand and is plainly shown in Figs. 9 and
+10. Only a step beyond the figure-eight and the overhand knots are the
+"Square" and "Reefing" knots (Figs. 11 and 12). The square knot is
+probably the most useful and widely used of any common knot and is the
+best all-around knot known. It is very strong, never slips or becomes
+jammed, and is readily untied. To make a square knot, take the ends of
+the rope and pass the left end over and under the right end, then the
+right over and under the left. If you once learn the simple formula of
+"Left over," "Right over," you will never make a mistake and form the
+despised "Granny," a most useless, bothersome, and deceptive makeshift
+for any purpose (Fig. 13). The true "Reef Knot" is merely the square
+knot with the bight of the left or right end used instead of the end
+itself. This enables the knot to be "cast off" more readily than the
+regular square knot (_A_, Fig. 12). Neither square nor reef knots,
+however, are reliable when tying two ropes of unequal size together,
+for under such conditions they will frequently slip and appear as in
+Fig. 14, and sooner or later will pull apart. To prevent this the ends
+may be tied or seized as shown in Fig. 15. A better way to join two
+ropes of unequal diameter is to use the "Open-hand Knot." This knot is
+shown in Fig. 16, and is very quickly and easily made; it never slips
+or gives, but is rather large and clumsy, and if too great a strain
+is put on the rope it is more likely to break at the knot than at any
+other spot. The "Fisherman's Knot," shown in Fig. 17, is a good knot
+and is formed by two simple overhand knots slipped over each rope, and
+when drawn taut appears as in Fig. 18. This is an important and
+valuable knot for anglers, as the two lines may be drawn apart by
+taking hold of the ends, _A_, _B_, and a third line for a sinker, or
+extra hook, may be inserted between them. In joining gut lines the
+knot should be left slightly open and the space between wrapped with
+silk. This is probably the strongest known method of fastening fine
+lines.
+
+[Illustration: FIG. 5.--Cuckolds' necks.]
+
+[Illustration: FIG. 6.--Clinch.]
+
+[Illustration: FIGS. 7 and 8.--Overhand knots.]
+
+[Illustration: FIGS. 9 and 10.--Figure-eight knots.]
+
+[Illustration: FIGS. 11 and 12.--Square knots.]
+
+[Illustration: FIG. 13.--Granny knot.]
+
+[Illustration: FIG. 14.--Slipped square knot.]
+
+[Illustration: FIG. 15.--Square knot with ends seized.]
+
+[Illustration: FIG. 16.--Open-hand knots.]
+
+[Illustration: FIG. 17.--Fisherman's knot (making).]
+
+[Illustration: FIG. 18.--Fisherman's knot (finished).]
+
+The "Ordinary Knot," for fastening heavy ropes, is shown in Fig. 19.
+It is made by forming a simple knot and then interlacing the other
+rope or "following around," as shown in Fig. 20. This knot is very
+strong, will not slip, is easy to make, and does not strain the
+fibres of the rope. Moreover, ropes joined with this knot will pay
+out, or hang, in a straight line. By whipping the ends to the standing
+parts it becomes a neat and handsome knot (Fig. 21). The "Weaver's
+Knot" (Fig. 22) is more useful in joining small lines, or twine, than
+for rope, and for thread it is without doubt the best knot known. The
+ends are crossed as in Fig. 23. The end _A_ is then looped back over
+the end _B_, and the end _B_ is slipped through loop _C_ and drawn
+tight.
+
+[Illustration: FIG. 19.--Ordinary knot (finished).]
+
+[Illustration: FIG. 20.--Ordinary knot (tying).]
+
+[Illustration: FIG. 21.--Ordinary knot (seized).]
+
+[Illustration: FIG. 22.--Weaver's knot (complete).]
+
+[Illustration: FIG. 23.--Weaver's knot (tying).]
+
+Another useful and handsome knot is illustrated in Fig. 24. This is a
+variation of the figure-eight knot, already described, and is used
+where there is too much rope, or where a simple knot is desired to
+prevent the rope running through an eye, ring, or tackle-block. It is
+made by forming a regular figure eight and then "following round" with
+the other rope as in Fig. 25. It is then drawn taut and the ends
+seized to the standing part if desired.
+
+[Illustration: FIG. 24.--Double figure-eight knot (complete).]
+
+[Illustration: FIG. 25.--Double figure-eight knot (tying).]
+
+Sometimes we have occasion to join two heavy or stiff ropes or
+hawsers, and for this purpose the "Garrick Bend" (Fig. 26) is
+preeminently the best of all knots. To make this knot, form a bight by
+laying the end of a rope on top of and across the standing part. Next
+take the end of the other rope and pass it through this bight, first
+down, then up, over the cross and down through the bight again, so
+that it comes out on the opposite side from the other end, thus
+bringing one end on top and the other below, as illustrated in Fig.
+27. If the lines are very stiff or heavy the knot may be secured by
+seizing the ends to the standing parts. A much simpler and a far
+poorer knot is sometimes used in fastening two heavy ropes together.
+This is a simple hitch within a loop, as illustrated in Fig. 28, but
+while it has the advantage of being quickly and easily tied it is so
+inferior to the Garrick bend that I advise all to adopt the latter in
+its place.
+
+[Illustration: FIG. 26.--Garrick bend (finished).]
+
+[Illustration: FIG. 27.--Garrick bend (tying).]
+
+[Illustration: FIG. 28.--Simple hitch (hawser).]
+
+When two heavy lines are to be fastened for any considerable time, a
+good method is to use the "Half-hitch and Seizing," shown in Fig. 29.
+This is a secure and easy method of fastening ropes together and it
+allows the rope to be handled more easily, and to pass around a winch
+or to be coiled much more readily, than when other knots are used.
+
+[Illustration: FIG. 29.--Half-hitch and seizing.]
+
+
+CHAPTER III
+
+TIES AND HITCHES
+
+
+All the knots I have so far described are used mainly for fastening
+the two ends of a rope, or of two ropes, together. Of quite a
+different class are the knots used in making a rope fast to a
+stationary or solid object, and are known as "hitches" or "ties."
+
+One of the easiest of this class to make and one which is very useful
+in fastening a boat or other object where it may be necessary to
+release it quickly is the "Lark's Head" (Fig. 30). To make this tie,
+pass a bight of your rope through the ring, or other object, to which
+you are making fast and then pass a marline-spike, a billet of wood,
+or any similar object through the sides of the bight and under or
+behind the standing part, as shown in _A_, Fig. 30. The end of the
+rope may then be laid over and under the standing part and back over
+itself. This knot may be instantly released by merely pulling out the
+toggle. Almost as quickly made and unfastened is the "Slippery Hitch"
+(Fig. 32). To make this, run the end of the rope through the ring or
+eye to which it is being fastened, then back over the standing part
+and pull a loop, or bight, back through the "cuckold's neck" thus
+formed (Fig. 33). To untie, merely pull on the free end. Two
+half-hitches, either around a post or timber or around the standing
+part of the rope, make an ideal and quickly tied fastening (Figs. 34
+and 35). To make these, pass the end around the post, ring, or other
+object, then over and around the standing part between the post and
+itself, then under and around the standing part and between its own
+loop and the first one formed. After a little practice you can tie
+this knot almost instantly and by merely throwing a couple of turns
+around a post, two half-hitches may be formed instantly. This knot
+will hold forever without loosening, and even on a smooth, round stick
+or spar it will stand an enormous strain without slipping. A more
+secure knot for this same purpose is the "Clove Hitch" (Fig. 36),
+sometimes known as the "Builders' Hitch." To make this, pass the end
+of rope around the spar or timber, then over itself; over and around
+the spar, and pass the end under itself and between rope and spar, as
+shown in the illustration. The Clove hitch with ends knotted becomes
+the "Gunners' Knot" (Fig. 37). These are among the most valuable and
+important of knots and are useful in a thousand and one places. The
+Clove hitch will hold fast on a smooth timber and is used extensively
+by builders for fastening the stageing to the upright posts. It is
+also useful in making a tow-line fast to a wet spar, or timber, and
+even on a slimy and slippery spile it will seldom slip. For this
+purpose the "Timber Hitch" (Fig. 38) is even better than the Clove
+hitch. It is easily made by passing the end of a rope around the spar
+or log, round the standing part of the rope and then twist it three or
+more times around, under and over itself. If you wish this still more
+secure, a single half-hitch may be taken with the line a couple of
+feet further along the spar (Fig. 39).
+
+[Illustration: FIG. 30.--Lark's head with toggle (_A_).]
+
+[Illustration: FIG. 31.--Lark's head with toggle (_A_) withdrawn.]
+
+[Illustration: FIG. 32.--Slippery hitch (complete).]
+
+[Illustration: FIG. 33--Slippery hitch (tying).]
+
+[Illustration: FIGS. 34 and 35.--Half-hitches.]
+
+[Illustration: FIG. 36 _A_.--Clove hitch or builder's hitch (tying).]
+
+[Illustration: FIG. 36 _B_.--Clove hitch (complete).]
+
+[Illustration: FIG. 37.--Gunner's knot.]
+
+[Illustration: FIG. 38.--Timber hitch.]
+
+[Illustration: FIG. 39.--Timber hitch and half-hitch.]
+
+It is remarkable what power to grip a twisted rope has, and the "Twist
+Knots" shown in Figs. 40 and 41 illustrate two ways of making fast
+which are really not knots at all but merely twists. These may be
+finished by a simple knot, or a bow-knot, as shown in Fig. 42, but
+they are likely to jam under great pressure and are mainly useful in
+tying packages, or bundles, with small cord, where the line must be
+held taut until the knot is completed. This principle of fastening by
+twisted rope is also utilized in the "Catspaw" (Fig. 43), a most
+useful knot or "hitch" for hoisting with a hook. To make this, pass
+the bight of your rope over the end and standing part, then, with a
+bight in each hand, take three twists from you, then bring the two
+bights side by side and throw over the hook (Fig. 44).
+
+[Illustration: FIGS. 40 and 41.--"Twists."]
+
+[Illustration: FIG. 42.--Twist with bow.]
+
+[Illustration: FIG. 43.--Catspaw.]
+
+[Illustration: FIG. 44.--Catspaw (tying).]
+
+The "Blackwall Hitch" (Fig. 45) is still simpler and easier to make
+and merely consists of a loop, or cuckold's neck, with the end of rope
+passed underneath the standing part and across the hook so that as
+soon as pressure is exerted the standing part bears on the end and
+jams it against the hook.
+
+[Illustration: FIG. 45.--Blackwall hitch.]
+
+The "Chain Hitch" (Fig. 46) is a very strong method of fastening a
+line to a timber, or large rope, where one has a rope of sufficient
+length, and is used frequently to help haul in a large rope or for
+similar purposes. It consists simply of a number of half-hitches taken
+at intervals around the object and is sometimes used with a lever or
+handspike, as shown in Fig. 47. The "Rolling Hitch" is a modified
+Clove hitch and is shown in Fig. 48. The "Magnus Hitch" (Fig. 49) is
+a method frequently used on shipboard for holding spars; and the
+"Studding-sail Bend" (Fig. 50) is also used for this purpose.
+Occasions sometimes arise where a tackle, hook, ring, or another rope
+must be fastened to a beam by the same rope being used, and in such
+cases the "Roband Hitch" (Fig. 51) comes in very handy. These are all
+so simple and easily understood from the figures that no explanation
+is necessary. Almost as simple are the "Midshipman's Hitch" (Fig. 52),
+the "Fisherman's Hitch" (Fig. 53), and the "Gaff Topsail Halyard
+Bend" (Fig. 54). The midshipman's hitch is made by taking a half-hitch
+around the standing part and a round turn twice around above it. The
+fisherman's hitch is particularly useful in making fast large hawsers;
+with the end of a rope take two turns around a spar, or through a
+ring; take a half-hitch around the standing part and under all the
+turns; then a half-hitch round the standing part only and if desired
+seize the end to standing part. The gaff-topsail bend is formed by
+passing two turns around the yard and coming up on a third turn over
+both the first two turns; over its own part and one turn; then stick
+the end under the first turn.
+
+[Illustration: FIG. 46.--Chain hitch.]
+
+[Illustration: FIG. 47.--Chain hitch with bar.]
+
+[Illustration: FIG. 48.--Rolling hitch.]
+
+[Illustration: FIG. 49.--Magnus hitch.]
+
+[Illustration: FIG. 50.--Studding-sail bend.]
+
+[Illustration: FIG. 51 _A_.--Roband hitch (front).]
+
+[Illustration: FIG. 51 _B_.--Roband hitch (back).]
+
+[Illustration: FIG. 52.--Midshipman's hitch.]
+
+[Illustration: FIG. 53.--Fisherman's hitch.]
+
+[Illustration: FIG. 54.--Gaff-topsail halyard bend.]
+
+
+CHAPTER IV
+
+NOOSES, LOOPS AND MOORING KNOTS
+
+
+Nothing is more interesting to a landsman than the manner in which a
+sailor handles huge, dripping hawsers or cables and with a few deft
+turns makes then fast to a pier-head or spile, in such a way that the
+ship's winches, warping the huge structure to or from the dock, do not
+cause the slightest give or slip to the rope and yet, a moment later,
+with a few quick motions, the line is cast off, tightened up anew, or
+paid out as required. Clove hitches, used as illustrated in Fig. 55,
+and known as the "Waterman's Knot," are often used, with a man holding
+the free end, for in this way a slight pull holds the knot fast, while
+a little slack gives the knot a chance to slip without giving way
+entirely and without exerting any appreciable pull on the man holding
+the end.
+
+[Illustration: FIG. 55.--Waterman's knot.]
+
+"Larks' Heads" are also used in conjunction with a running noose,
+as shown in Fig. 56, while a few turns under and over and around
+a cleat, or about two spiles, is a method easily understood and
+universally used by sailors (Fig. 57). The sailor's knot par
+excellence, however, is the "Bow-line" (Fig. 58), and wherever we find
+sailors, or seamen, we will find this knot in one or another of its
+various forms. When you can readily and surely tie this knot every
+time, you may feel yourself on the road to "Marline-spike Seamanship,"
+for it is a true sailor's knot and never slips, jams, or fails; is
+easily and quickly untied, and is useful in a hundred places around
+boats or in fact in any walk of life. The knot in its various stages
+is well shown in Fig. 59 and by following these illustrations you will
+understand it much better than by a description alone. In _A_ the rope
+is shown with a bight or cuckold's neck formed with the end over the
+standing part. Pass _A_ back through the bight, under, then over, then
+under, as shown in _B_, then over and down through the bight, as shown
+in _C_ and _D_, and draw taut, as in _E_. The "Bow-line on a Bight"
+(Fig 60) is just as easily made and is very useful in slinging casks
+or barrels and in forming a seat for men to be lowered over cliffs, or
+buildings, or to be hoisted aloft aboard ship for painting, cleaning,
+or rigging. A "Running Bow-line" (Fig. 61) is merely a bow-line with
+the end passed through the loop, thus forming a slip knot. Other
+"Loops" are made as shown in Figs. 62-65, but none of these are as
+safe, sure, and useful as the bow-line. One of these knots, known as
+the "Tomfool Knot" (Fig. 66), is used as handcuffs and has become
+quite famous, owing to its having baffled a number of "Handcuff Kings"
+and other performers who readily escaped from common knots and
+manacles. It is made like the running knot (Fig. 62), and the firm end
+is then passed through the open, simple knot so as to form a double
+loop or bow. If the hands or wrists are placed within these loops and
+the latter drawn taut, and the loose ends tied firmly around the
+central part, a pair of wonderfully secure handcuffs results.
+
+[Illustration: FIG. 56.--Larks' heads and running noose.]
+
+[Illustration: FIG. 57.--Cleat and wharf ties.]
+
+[Illustration: FIG. 58.--Bow-line.]
+
+[Illustration: FIG. 59.--Tying bow-line.]
+
+[Illustration: FIG. 60.--Bow-line on bight.]
+
+[Illustration: FIG. 61.--Running bow-line.]
+
+[Illustration: FIG. 62.--Loop knot.]
+
+[Illustration: FIG. 63.--Loop knot.]
+
+[Illustration: FIG. 64.--Loop knot.]
+
+[Illustration: FIG. 65.--Loop knot.]
+
+[Illustration: FIG. 66.--Tomfool knot.]
+
+
+CHAPTER V
+
+SHORTENINGS, GROMMETS, AND SELVAGEES
+
+
+In many cases a rope may prove too long for our use or the free ends
+may be awkward, or in the way. At such times a knowledge of
+"shortenings" is valuable. There are quite a variety of these useful
+knots, nearly all of which are rather handsome and ornamental, in fact
+a number of them are in constant use aboard ship merely for ornament.
+

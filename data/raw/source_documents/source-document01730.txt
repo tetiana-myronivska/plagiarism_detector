@@ -1,0 +1,743 @@
+﻿This edition of _The Anatomy of Melancholy_ is based on a
+nineteenth-century edition that modernized Burton's spelling and
+typographic conventions. In preparing this electronic version, it became
+evident that the editor had made a variety of mistakes in this
+modernization: some words were left in their original spelling (unusual
+words were a particular problem), portions of book titles were mistaken for
+proper names, proper names were mistaken for book titles or Latin words,
+etc. A certain number of misprints were also introduced into the Latin. As
+a result, I have re-edited the text, checking it against images of the 1638
+edition, and correcting all errors not present in the earlier edition. I
+have continued to follow the general editorial practice of the base text
+for quotation marks, italics, etc. Rare words have been normalized
+according to their primary spelling in the Oxford English Dictionary. When
+Burton spells a person's name in several ways, I have normalized the names
+to the most common spelling, or to modern practice if well-known. In a few
+cases, mistakes present in both the 1638 edition and the base text have
+been corrected. These are always minor reference errors (e.g., an incorrect
+or missing section number in the synopses, or misnumbered footnotes).
+Incorrect citations to other texts (Burton seems to quote by memory and
+sometimes gets it wrong) have not been changed if they are wrong in both
+editions. To display some symbols (astrological signs, etc.) the HTML
+version requires a browser with unicode support. Most recent browsers
+should be OK.--KTH
+
+FRONTISPIECE TO THE ORIGINAL EDITION
+
+[Illustration: 1. Democritus Abderites; 2. Zelotypia 3. Solitudo; 4.
+Inamorato; 5. Hypocondriacus; 6. Superstitiosus; 7. Maniacus; 8. Borage; 9.
+Hellebor; 10. Democritus Junior
+
+THE ANATOMY OF MELANCHOLY
+
+What it is, with all the kinds, causes, symptoms, prognostics, and several
+cures of it.
+
+In three Partitions, with their several Sections, numbers, and subsections.
+
+Philosophically, medicinally, Historically, opened and cut up.
+
+By Democritus Junior
+
+With a Satyrical Preface conducing to the following Discourse.
+
+The Sixth Edition, corrected and augmented by the Author.
+
+Omne tulit punctum, qui miscit utile dulce.
+
+London
+
+Printed & to be sold by Hen. Crips & Lodo Lloyd at their shop in
+Popes-head Alley. 1652]
+
+THE ANATOMY OF MELANCHOLY,
+
+WHAT IT IS,
+
+WITH
+
+ALL THE KINDS, CAUSES, SYMPTOMS, PROGNOSTICS, AND SEVERAL CURES OF IT.
+
+IN THREE PARTITIONS.
+
+WITH THEIR SEVERAL
+
+SECTIONS, MEMBERS, AND SUBSECTIONS, PHILOSOPHICALLY, MEDICALLY,
+HISTORICALLY OPENED AND CUT UP.
+
+BY DEMOCRITUS JUNIOR.
+
+WITH A SATIRICAL PREFACE, CONDUCING TO THE FOLLOWING DISCOURSE.
+
+A NEW EDITION,
+CORRECTED, AND ENRICHED BY TRANSLATIONS OF THE NUMEROUS CLASSICAL EXTRACTS.
+
+BY DEMOCRITUS MINOR.
+
+TO WHICH IS PREFIXED AN ACCOUNT OF THE AUTHOR.
+
+        Omne tulit punctum, qui miscuit utile dulci.
+
+        He that joins instruction with delight,
+        Profit with pleasure, carries all the votes.
+
+HONORATISSIMO DOMINO
+
+NON MINVS VIRTUTE SUA, QUAM GENERIS SPLENDORE,
+
+ILLVSTRISSIMO,
+
+GEORGIO BEKKLEIO,
+
+MILITI DE BALNEO, BARONI DE BERKLEY, MOUBREY, SEGRAVE,
+
+D. DE BRUSE,
+
+DOMINO SUO MULTIS NOMINIBUS OBSERVANDO,
+
+HANC SUAM
+
+MELANCHOLIAE ANATOMEN,
+
+JAM SEXTO REVISAM, D.D.
+
+DEMOCRITUS JUNIOR.
+
+ADVERTISEMENT TO THE LAST LONDON EDITION.
+
+The work now restored to public notice has had an extraordinary fate. At
+the time of its original publication it obtained a great celebrity, which
+continued more than half a century. During that period few books were more
+read, or more deservedly applauded. It was the delight of the learned, the
+solace of the indolent, and the refuge of the uninformed. It passed through
+at least eight editions, by which the bookseller, as WOOD records, got an
+estate; and, notwithstanding the objection sometimes opposed against it, of
+a quaint style, and too great an accumulation of authorities, the
+fascination of its wit, fancy, and sterling sense, have borne down all
+censures, and extorted praise from the first Writers in the English
+language. The grave JOHNSON has praised it in the warmest terms, and the
+ludicrous STERNE has interwoven many parts of it into his own popular
+performance. MILTON did not disdain to build two of his finest poems on it;
+and a host of inferior writers have embellished their works with beauties
+not their own, culled from a performance which they had not the justice
+even to mention. Change of times, and the frivolity of fashion, suspended,
+in some degree, that fame which had lasted near a century; and the
+succeeding generation affected indifference towards an author, who at
+length was only looked into by the plunderers of literature, the poachers
+in obscure volumes. The plagiarisms of _Tristram Shandy_, so successfully
+brought to light by DR. FERRIAR, at length drew the attention of the public
+towards a writer, who, though then little known, might, without impeachment
+of modesty, lay claim to every mark of respect; and inquiry proved, beyond
+a doubt, that the calls of justice had been little attended to by others,
+as well as the facetious YORICK. WOOD observed, more than a century ago,
+that several authors had unmercifully stolen matter from BURTON without any
+acknowledgment. The time, however, at length arrived, when the merits of
+the _Anatomy of Melancholy_ were to receive their due praise. The book was
+again sought for and read, and again it became an applauded performance.
+Its excellencies once more stood confessed, in the increased price which
+every copy offered for sale produced; and the increased demand pointed out
+the necessity of a new edition. This is now presented to the public in a
+manner not disgraceful to the memory of the author; and the publisher
+relies with confidence, that so valuable a repository of amusement and
+information will continue to hold the rank to which it has been restored,
+firmly supported by its own merit, and safe from the influence and blight
+of any future caprices of fashion. To open its valuable mysteries to those
+who have not had the advantage of a classical education, translations of
+the countless quotations from ancient writers which occur in the work, are
+now for the first time given, and obsolete orthography is in all instances
+modernized.
+
+ACCOUNT OF THE AUTHOR.
+
+Robert Burton was the son of Ralph Burton, of an ancient and genteel family
+at Lindley, in Leicestershire, and was born there on the 8th of February
+1576. [1]He received the first rudiments of learning at the free school of
+Sutton Coldfield, in Warwickshire [2]from whence he was, at the age of
+seventeen, in the long vacation, 1593, sent to Brazen Nose College, in the
+condition of a commoner, where he made considerable progress in logic and
+philosophy. In 1599 he was elected student of Christ Church, and, for
+form's sake, was put under the tuition of Dr. John Bancroft, afterwards
+Bishop of Oxford. In 1614 he was admitted to the reading of the Sentences,
+and on the 29th of November, 1616, had the vicarage of St. Thomas, in the
+west suburb of Oxford, conferred on him by the dean and canons of Christ
+Church, which, with the rectory of Segrave, in Leicestershire, given to him
+in the year 1636, by George, Lord Berkeley, he kept, to use the words of
+the Oxford antiquary, with much ado to his dying day. He seems to have been
+first beneficed at Walsby, in Lincolnshire, through the munificence of his
+noble patroness, Frances, Countess Dowager of Exeter, but resigned the
+same, as he tells us, for some special reasons. At his vicarage he is
+remarked to have always given the sacrament in wafers. Wood's character of
+him is, that "he was an exact mathematician, a curious calculator of
+nativities, a general read scholar, a thorough-paced philologist, and one
+that understood the surveying of lands well. As he was by many accounted a
+severe student, a devourer of authors, a melancholy and humorous person; so
+by others, who knew him well, a person of great honesty, plain dealing and
+charity. I have heard some of the ancients of Christ Church often say, that
+his company was very merry, facete, and juvenile; and no man in his time
+did surpass him for his ready and dexterous interlarding his common
+discourses among them with verses from the poets, or sentences from classic
+authors; which being then all the fashion in the University, made his
+company the more acceptable." He appears to have been a universal reader of
+all kinds of books, and availed himself of his multifarious studies in a
+very extraordinary manner. From the information of Hearne, we learn that
+John Rouse, the Bodleian librarian, furnished him with choice books for the
+prosecution of his work. The subject of his labour and amusement, seems to
+have been adopted from the infirmities of his own habit and constitution.
+Mr. Granger says, "He composed this book with a view of relieving his own
+melancholy, but increased it to such a degree, that nothing could make him
+laugh, but going to the bridge-foot and hearing the ribaldry of the
+bargemen, which rarely failed to throw him into a violent fit of laughter.
+Before he was overcome with this horrid disorder, he, in the intervals of
+his vapours, was esteemed one of the most facetious companions in the
+University."
+
+His residence was chiefly at Oxford; where, in his chamber in Christ Church
+College, he departed this life, at or very near the time which he had some
+years before foretold, from the calculation of his own nativity, and which,
+says Wood, "being exact, several of the students did not forbear to whisper
+among themselves, that rather than there should be a mistake in the
+calculation, he sent up his soul to heaven through a slip about his neck."
+Whether this suggestion is founded in truth, we have no other evidence than
+an obscure hint in the epitaph hereafter inserted, which was written by the
+author himself, a short time before his death. His body, with due
+solemnity, was buried near that of Dr. Robert Weston, in the north aisle
+which joins next to the choir of the cathedral of Christ Church, on the
+27th of January 1639-40. Over his grave was soon after erected a comely
+monument, on the upper pillar of the said aisle, with his bust, painted to
+the life. On the right hand is the following calculation of his nativity:
+
+[Illustration: R. natus B.
+1576, 8 Feb.
+hor. 3, scrup. 16.
+long. 22° 0'
+polus 51° 30"]
+
+and under the bust, this inscription of his own composition:--
+
+Paucis notus, paucioribus ignotus,
+Hic jacet _Democritus_ junior
+Cui vitam dedit et mortem
+        Melancholia
+Ob. 8 Id. Jan. A. C. MDCXXXIX.
+
+Arms:--Azure on a bend O. between three dogs' heads O. a crescent G.
+
+A few months before his death, he made his will, of which the following is
+a copy:
+
+EXTRACTED FROM THE REGISTRY OF THE PREROGATIVE COURT OF CANTERBURY.
+
+_In nomine Dei Amen_. August 15th One thousand six hundred thirty nine
+because there be so many casualties to which our life is subject besides
+quarrelling and contention which happen to our Successors after our Death
+by reason of unsettled Estates I Robert Burton Student of Christ-church
+Oxon. though my means be but small have thought good by this my last Will
+and Testament to dispose of that little which I have and being at this
+present I thank God in perfect health of Bodie and Mind and if this
+Testament be not so formal according to the nice and strict terms of Law
+and other Circumstances peradventure required of which I am ignorant I
+desire howsoever this my Will may be accepted and stand good according to
+my true Intent and meaning First I bequeath Animam Deo Corpus Terrae
+whensoever it shall please God to call me I give my Land in Higham which my
+good Father Ralphe Burton of Lindly in the County of Leicester Esquire gave
+me by Deed of Gift and that which I have annexed to that Farm by purchase
+since, now leased for thirty eight pounds per Ann. to mine Elder Brother
+William Burton of Lindly Esquire during his life and after him to his Heirs
+I make my said Brother William likewise mine Executor as well as paying
+such Annuities and Legacies out of my Lands and Goods as are hereafter
+specified I give to my nephew Cassibilan Burton twenty pounds Annuity per
+Ann. out of my Land in Higham during his life to be paid at two equal
+payments at our Lady Day in Lent and Michaelmas or if he be not paid within
+fourteen Days after the said Feasts to distrain on any part of the Ground
+or on any of my Lands of Inheritance Item I give to my Sister Katherine
+Jackson during her life eight pounds per Ann. Annuity to be paid at the two
+Feasts equally as above said or else to distrain on the Ground if she be
+not paid after fourteen days at Lindly as the other _some_ is out of the
+said Land Item I give to my Servant John Upton the Annuity of Forty
+Shillings out of my said Farme during his life (if till then my Servant) to
+be paid on Michaelmas day in Lindley each year or else after fourteen days
+to distrain Now for my goods I thus dispose them First I give an C'th
+pounds to Christ Church in Oxford where I have so long lived to buy five
+pounds Lands per Ann. to be Yearly bestowed on Books for the Library Item I
+give an hundredth pound to the University Library of Oxford to be bestowed
+to purchase five pound Land per Ann. to be paid out Yearly on Books as Mrs.
+Brooks formerly gave an hundred pounds to buy Land to the same purpose and
+the Rent to the same use I give to my Brother George Burton twenty pounds
+and my watch I give to my Brother Ralph Burton five pounds Item I give to
+the Parish of Seagrave in Leicestershire where I am now Rector ten pounds
+to be given to a certain Feoffees to the perpetual good of the said _Parish
+Oxon_ [3]Item I give to my Niece Eugenia Burton One hundredth pounds Item I
+give to my Nephew Richard Burton now Prisoner in London an hundredth pound
+to redeem him Item I give to the Poor of Higham Forty Shillings where my
+Land is to the poor of Nuneaton where I was once a Grammar Scholar three
+pound to my Cousin Purfey of Wadlake [Wadley] my Cousin Purfey of Calcott
+my Cousin Hales of Coventry my Nephew Bradshaw of Orton twenty shillings a
+piece for a small remembrance to Mr. Whitehall Rector of Cherkby myne own
+Chamber Fellow twenty shillings I desire my Brother George and my Cosen
+Purfey of Calcott to be the Overseers of this part of my Will I give
+moreover five pounds to make a small Monument for my Mother where she is
+buried in London to my Brother Jackson forty shillings to my Servant John
+Upton forty shillings besides his former Annuity if he be my Servant till I
+die if he be till then my Servant [4]--ROBERT BURTON--Charles Russell
+Witness--John Pepper Witness.
+
+An Appendix to this my Will if I die in Oxford or whilst I am of Christ
+Church and with good Mr. Paynes August the Fifteenth 1639.
+
+I give to Mr. Doctor Fell Dean of Christ Church Forty Shillings to the
+Eight Canons twenty Shillings a piece as a small remembrance to the poor of
+St. Thomas Parish Twenty Shillings to Brasenose Library five pounds to Mr.
+Rowse of Oriell Colledge twenty Shillings to Mr. Heywood _xx_s. to Dr.
+Metcalfe _xx_s. to Mr. Sherley _xx_s. If I have any Books the University
+Library hath not, let them take them If I have any Books our own Library
+hath not, let them take them I give to Mrs. Fell all my English Books of
+Husbandry one excepted to her Daughter Mrs. Katherine Fell my Six Pieces of
+Silver Plate and six Silver spoons to Mrs. Iles my Gerards Herball To Mrs.
+Morris my Country Farme Translated out of French 4. and all my English
+Physick Books to Mr. Whistler the Recorder of Oxford I give twenty
+shillings to all my fellow Students Mrs of Arts a Book in fol. or two a
+piece as Master Morris Treasurer or Mr. Dean shall appoint whom I request
+to be the Overseer of this Appendix and give him for his pains Atlas
+Geografer and Ortelius Theatrum Mond' I give to John Fell the Dean's Son
+Student my Mathematical Instruments except my two Crosse Staves which I
+give to my Lord of Donnol if he be then of the House To Thomas Iles Doctor
+Iles his Son Student Saluntch on Paurrhelia and Lucian's Works in 4 Tomes
+If any books be left let my Executors dispose of them with all such Books
+as are written with my own hands and half my Melancholy Copy for Crips hath
+the other half To Mr. Jones Chaplin and Chanter my Surveying Books and
+Instruments To the Servants of the House Forty Shillings ROB.
+BURTON--Charles Russell Witness--John Pepper Witness--This Will was shewed
+to me by the Testator and acknowledged by him some few days before his
+death to be his last Will Ita Testor John Morris S Th D. Prebendari' Eccl
+Chri' Oxon Feb. 3, 1639.
+
+Probatum fuit Testamentum suprascriptum, &c. 11° 1640 Juramento Willmi
+Burton Fris' et Executoris cui &c. de bene et fideliter administrand.
+&c. coram Mag'ris Nathanaele Stephens Rectore Eccl. de Drayton, et
+Edwardo Farmer, Clericis, vigore commissionis, &c.
+
+The only work our author executed was that now reprinted, which probably
+was the principal employment of his life. Dr. Ferriar says, it was
+originally published in the year 1617; but this is evidently a mistake;
+[5]the first edition was that printed in 4to, 1621, a copy of which is at
+present in the collection of John Nichols, Esq., the indefatigable
+illustrator of the _History of Leicestershire_; to whom, and to Isaac Reed,
+Esq., of Staple Inn, this account is greatly indebted for its accuracy. The
+other impressions of it were in 1624, 1628, 1632, 1638, 1651-2, 1660, and
+1676, which last, in the titlepage, is called the eighth edition.
+
+The copy from which the present is reprinted, is that of 1651-2; at the
+conclusion of which is the following address:
+
+"TO THE READER.
+
+"Be pleased to know (Courteous Reader) that since the last Impression
+of this Book, the ingenuous Author of it is deceased, leaving a Copy
+of it exactly corrected, with several considerable Additions by his
+own hand; this Copy he committed to my care and custody, with
+directions to have those Additions inserted in the next Edition; which
+in order to his command, and the Publicke Good, is faithfully
+performed in this last Impression."
+
+H. C. (_i.e. HEN. CRIPPS._)
+
+The following testimonies of various authors will serve to show the
+estimation in which this work has been held:--
+
+"The ANATOMY OF MELANCHOLY, wherein the author hath piled up variety of
+much excellent learning. Scarce any book of philology in our land hath, in
+so short a time, passed so many editions."--_Fuller's Worthies_, fol. 16.
+
+"'Tis a book so full of variety of reading, that gentlemen who have lost
+their time, and are put to a push for invention, may furnish themselves
+with matter for common or scholastical discourse and writing."--_Wood's
+Athenae Oxoniensis_, vol. i. p. 628. 2d edit.
+
+"If you never saw BURTON UPON MELANCHOLY, printed 1676, I pray look into
+it, and read the ninth page of his Preface, 'Democritus to the Reader.'
+There is something there which touches the point we are upon; but I mention
+the author to you, as the pleasantest, the most learned, and the most full
+of sterling sense. The wits of Queen Anne's reign, and the beginning of
+George the First, were not a little beholden to him."--_Archbishop
+Herring's Letters_, 12mo. 1777. p. 149.
+
+"BURTON'S ANATOMY OF MELANCHOLY, he (Dr. Johnson) said, was the only book
+that ever took him out of bed two hours sooner than he wished to
+rise."--_Boswell's Life of Johnson_, vol. i. p. 580. 8vo. edit.
+
+"BURTON'S ANATOMY OF MELANCHOLY is a valuable book," said Dr. Johnson. "It
+is, perhaps, overloaded with quotation. But there is great spirit and great
+power in what Burton says when he writes from his own mind."--_Ibid_, vol.
+ii. p. 325.
+
+"It will be no detraction from the powers of Milton's original genius and
+invention, to remark, that he seems to have borrowed the subject of _L'
+Allegro_ and _Il Penseroso_, together with some particular thoughts,
+expressions, and rhymes, more especially the idea of a contrast between
+these two dispositions, from a forgotten poem prefixed to the first edition
+of BURTON'S ANATOMY OF MELANCHOLY, entitled, 'The Author's Abstract of
+Melancholy; or, A Dialogue between Pleasure and Pain.' Here pain is
+melancholy. It was written, as I conjecture, about the year 1600. I will
+make no apology for abstracting and citing as much of this poem as will be
+sufficient to prove, to a discerning reader, how far it had taken
+possession of Milton's mind. The measure will appear to be the same; and
+that our author was at least an attentive reader of Burton's book, may be
+already concluded from the traces of resemblance which I have incidentally
+noticed in passing through the _L' Allegro_ and _Il Penseroso_."--After
+extracting the lines, Mr. Warton adds, "as to the very elaborate work to
+which these visionary verses are no unsuitable introduction, the writer's
+variety of learning, his quotations from scarce and curious books, his
+pedantry sparkling with rude wit and shapeless elegance, miscellaneous
+matter, intermixture of agreeable tales and illustrations, and, perhaps,
+above all, the singularities of his feelings, clothed in an uncommon
+quaintness of style, have contributed to render it, even to modern readers,
+a valuable repository of amusement and information."--_Warton's Milton_, 2d
+edit. p. 94.
+
+"THE ANATOMY OF MELANCHOLY is a book which has been universally read and
+admired. This work is, for the most part, what the author himself styles
+it, 'a cento;' but it is a very ingenious one. His quotations, which abound
+in every page, are pertinent; but if he had made more use of his invention
+and less of his commonplace-book, his work would perhaps have been more
+valuable than it is. He is generally free from the affected language and
+ridiculous metaphors which disgrace most of the books of his
+time."--_Granger's Biographical History_.
+
+"BURTON'S ANATOMY OF MELANCHOLY, a book once the favourite of the learned
+and the witty, and a source of surreptitious learning, though written on a
+regular plan, consists chiefly of quotations: the author has honestly
+termed it a cento. He collects, under every division, the opinions of a
+multitude of writers, without regard to chronological order, and has too
+often the modesty to decline the interposition of his own sentiments.
+Indeed the bulk of his materials generally overwhelms him. In the course of
+his folio he has contrived to treat a great variety of topics, that seem
+very loosely connected with the general subject; and, like Bayle, when he
+starts a favourite train of quotations, he does not scruple to let the
+digression outrun the principal question. Thus, from the doctrines of
+religion to military discipline, from inland navigation to the morality of
+dancing-schools, every thing is discussed and determined."--_Ferriar's
+Illustrations of Sterne_, p. 58.
+
+"The archness which BURTON displays occasionally, and his indulgence of
+playful digressions from the most serious discussions, often give his style
+an air of familiar conversation, notwithstanding the laborious collections
+which supply his text. He was capable of writing excellent poetry, but he
+seems to have cultivated this talent too little. The English verses
+prefixed to his book, which possess beautiful imagery, and great sweetness
+of versification, have been frequently published. His Latin elegiac verses
+addressed to his book, shew a very agreeable turn for raillery."--_Ibid_.
+p. 58.
+
+"When the force of the subject opens his own vein of prose, we discover
+valuable sense and brilliant expression. Such is his account of the first
+feelings of melancholy persons, written, probably, from his own
+experience." [See p. 154, of the present edition.]--_Ibid._ p. 60.
+
+"During a pedantic age, like that in which BURTON'S production appeared, it
+must have been eminently serviceable to writers of many descriptions. Hence
+the unlearned might furnish themselves with appropriate scraps of Greek and
+Latin, whilst men of letters would find their enquiries shortened, by
+knowing where they might look for what both ancients and moderns had
+advanced on the subject of human passions. I confess my inability to point
+out any other English author who has so largely dealt in apt and original
+quotation."--_Manuscript note of the late George Steevens, Esq., in his
+copy of_ THE ANATOMY OF MELANCHOLY.
+
+DEMOCRITUS JUNIOR AD LIBRUM SUUM.
+
+        Vade liber, qualis, non ausum dicere, felix,
+          Te nisi felicem fecerit Alma dies.
+        Vade tamen quocunque lubet, quascunque per oras,
+          Et Genium Domini fac imitere tui.
+        I blandas inter Charites, mystamque saluta
+          Musarum quemvis, si tibi lector erit.
+        Rura colas, urbem, subeasve palatia regum,
+          Submisse, placide, te sine dente geras.
+        Nobilis, aut si quis te forte inspexerit heros,
+          Da te morigerum, perlegat usque lubet.
+        Est quod nobilitas, est quod desideret heros,
+          Gratior haec forsan charta placere potest.
+        Si quis morosus Cato, tetricusque Senator,
+          Hunc etiam librum forte videre velit,
+        Sive magistratus, tum te reverenter habeto;
+          Sed nullus; muscas non capiunt Aquilae.
+        Non vacat his tempus fugitivum impendere nugis,
+          Nec tales cupio; par mihi lector erit.
+        Si matrona gravis casu diverterit istuc,
+          Illustris domina, aut te Comitissa legat:
+        Est quod displiceat, placeat quod forsitan illis,
+          Ingerere his noli te modo, pande tamen.
+        At si virgo tuas dignabitur inclyta chartas
+          Tangere, sive schedis haereat illa tuis:
+        Da modo te facilem, et quaedam folia esse memento
+          Conveniant oculis quae magis apta suis.
+        Si generosa ancilla tuos aut alma puella
+          Visura est ludos, annue, pande lubens.
+        Dic utinam nunc ipse meus [6](nam diligit istas)
+          In praesens esset conspiciendus herus.
+        Ignotus notusve mihi de gente togata
+          Sive aget in ludis, pulpita sive colet,
+        Sive in Lycaeo, et nugas evolverit istas,
+          Si quasdam mendas viderit inspiciens,
+        Da veniam Authori, dices; nam plurima vellet
+          Expungi, quae jam displicuisse sciat.
+        Sive Melancholicus quisquam, seu blandus Amator,
+          Aulicus aut Civis, seu bene comptus eques
+        Huc appellat, age et tuto te crede legenti,
+          Multa istic forsan non male nata leget.
+        Quod fugiat, caveat, quodque amplexabitur, ista
+          Pagina fortassis promere multa potest.
+        At si quis Medicus coram te sistet, amice
+          Fac circumspecte, et te sine labe geras:
+        Inveniet namque ipse meis quoque plurima scriptis,
+          Non leve subsidium quae sibi forsan erunt.
+        Si quis Causidicus chartas impingat in istas,
+          Nil mihi vobiscum, pessima turba vale;
+        Sit nisi vir bonus, et juris sine fraude peritus,
+          Tum legat, et forsan doctior inde siet.
+        Si quis cordatus, facilis, lectorque benignus
+          Huc oculos vertat, quae velit ipse legat;
+        Candidus ignoscet, metuas nil, pande libenter,
+          Offensus mendis non erit ille tuis,
+        Laudabit nonnulla. Venit si Rhetor ineptus,
+          Limata et tersa, et qui bene cocta petit,
+        Claude citus librum; nulla hic nisi ferrea verba,
+          Offendent stomachum quae minus apta suum.
+        At si quis non eximius de plebe poeta,
+          Annue; namque istic plurima ficta leget.
+        Nos sumus e numero, nullus mihi spirat Apollo,
+          Grandiloquus Vates quilibet esse nequit.
+        Si Criticus Lector, tumidus Censorque molestus,
+          Zoilus et Momus, si rabiosa cohors:
+        Ringe, freme, et noli tum pandere, turba malignis
+          Si occurrat sannis invidiosa suis:
+        Fac fugias; si nulla tibi sit copia eundi,
+          Contemnes, tacite scommata quaeque feres.
+        Frendeat, allatret, vacuas gannitibus auras
+          Impleat, haud cures; his placuisse nefas.
+        Verum age si forsan divertat purior hospes,
+          Cuique sales, ludi, displiceantque joci,
+        Objiciatque tibi sordes, lascivaque: dices,
+          Lasciva est Domino et Musa jocosa tuo,
+        Nec lasciva tamen, si pensitet omne; sed esto;
+          Sit lasciva licet pagina, vita proba est.
+        Barbarus, indoctusque rudis spectator in istam
+          Si messem intrudat, fuste fugabis eum,
+        Fungum pelle procul (jubeo) nam quid mihi fungo?
+          Conveniunt stomacho non minus ista suo.
+        Sed nec pelle tamen; laeto omnes accipe vultu,
+          Quos, quas, vel quales, inde vel unde viros.
+        Gratus erit quicunque venit, gratissimus hospes
+          Quisquis erit, facilis difficilisque mihi.
+        Nam si culparit, quaedam culpasse juvabit,
+          Culpando faciet me meliora sequi.
+        Sed si laudarit, neque laudibus efferar ullis,
+          Sit satis hisce malis opposuisse bonum.
+        Haec sunt quae nostro placuit mandare libello,
+          Et quae dimittens dicere jussit Herus.
+
+
+DEMOCRITUS JUNIOR TO HIS BOOK
+
+PARAPHRASTIC METRICAL TRANSLATION.
+
+        Go forth my book into the open day;
+          Happy, if made so by its garish eye.
+        O'er earth's wide surface take thy vagrant way,
+          To imitate thy master's genius try.
+        The Graces three, the Muses nine salute,
+          Should those who love them try to con thy lore.
+        The country, city seek, grand thrones to boot,
+          With gentle courtesy humbly bow before.
+        Should nobles gallant, soldiers frank and brave
+          Seek thy acquaintance, hail their first advance:
+        From twitch of care thy pleasant vein may save,
+          May laughter cause or wisdom give perchance.
+        Some surly Cato, Senator austere,
+          Haply may wish to peep into thy book:
+        Seem very nothing--tremble and revere:
+          No forceful eagles, butterflies e'er look.
+        They love not thee: of them then little seek,
+          And wish for readers triflers like thyself.
+        Of ludeful matron watchful catch the beck,
+          Or gorgeous countess full of pride and pelf.
+        They may say "pish!" and frown, and yet read on:
+          Cry odd, and silly, coarse, and yet amusing.
+        Should dainty damsels seek thy page to con,
+          Spread thy best stores: to them be ne'er refusing:
+        Say, fair one, master loves thee dear as life;
+          Would he were here to gaze on thy sweet look.
+        Should known or unknown student, freed from strife
+          Of logic and the schools, explore my book:
+        Cry mercy critic, and thy book withhold:
+          Be some few errors pardon'd though observ'd:
+        An humble author to implore makes bold.
+          Thy kind indulgence, even undeserv'd,
+        Should melancholy wight or pensive lover,
+          Courtier, snug cit, or carpet knight so trim
+        Our blossoms cull, he'll find himself in clover,
+          Gain sense from precept, laughter from our whim.
+        Should learned leech with solemn air unfold
+          Thy leaves, beware, be civil, and be wise:
+        Thy volume many precepts sage may hold,
+          His well fraught head may find no trifling prize.
+        Should crafty lawyer trespass on our ground,
+          Caitiffs avaunt! disturbing tribe away!
+        Unless (white crow) an honest one be found;
+          He'll better, wiser go for what we say.
+        Should some ripe scholar, gentle and benign,
+          With candour, care, and judgment thee peruse:
+        Thy faults to kind oblivion he'll consign;
+          Nor to thy merit will his praise refuse.
+        Thou may'st be searched for polish'd words and verse
+          By flippant spouter, emptiest of praters:
+        Tell him to seek them in some mawkish verse:
+          My periods all are rough as nutmeg graters.
+        The doggerel poet, wishing thee to read,
+          Reject not; let him glean thy jests and stories.
+        His brother I, of lowly sembling breed:
+          Apollo grants to few Parnassian glories.
+        Menac'd by critic with sour furrowed brow,
+          Momus or Troilus or Scotch reviewer:
+        Ruffle your heckle, grin and growl and vow:
+          Ill-natured foes you thus will find the fewer,
+        When foul-mouth'd senseless railers cry thee down,
+          Reply not: fly, and show the rogues thy stern;
+        They are not worthy even of a frown:
+          Good taste or breeding they can never learn;
+        Or let them clamour, turn a callous ear,
+          As though in dread of some harsh donkey's bray.
+        If chid by censor, friendly though severe,
+          To such explain and turn thee not away.
+        Thy vein, says he perchance, is all too free;
+          Thy smutty language suits not learned pen:
+        Reply, Good Sir, throughout, the context see;
+          Thought chastens thought; so prithee judge again.
+        Besides, although my master's pen may wander
+          Through devious paths, by which it ought not stray,
+        His life is pure, beyond the breath of slander:
+          So pardon grant; 'tis merely but his way.
+        Some rugged ruffian makes a hideous rout--
+          Brandish thy cudgel, threaten him to baste;
+        The filthy fungus far from thee cast out;
+          Such noxious banquets never suit my taste.
+        Yet, calm and cautious moderate thy ire,
+          Be ever courteous should the case allow--
+        Sweet malt is ever made by gentle fire:
+          Warm to thy friends, give all a civil bow.
+        Even censure sometimes teaches to improve,
+          Slight frosts have often cured too rank a crop,
+        So, candid blame my spleen shall never move,
+          For skilful gard'ners wayward branches lop.
+        Go then, my book, and bear my words in mind;
+          Guides safe at once, and pleasant them you'll find.
+
+
+THE ARGUMENT OF THE FRONTISPIECE.
+
+        Ten distinct Squares here seen apart,
+        Are joined in one by Cutter's art.
+
+                     I.
+        Old Democritus under a tree,
+        Sits on a stone with book on knee;
+        About him hang there many features,
+        Of Cats, Dogs and such like creatures,
+        Of which he makes anatomy,
+        The seat of black choler to see.
+        Over his head appears the sky,
+        And Saturn Lord of melancholy.
+
+                     II.
+        To the left a landscape of Jealousy,
+        Presents itself unto thine eye.
+        A Kingfisher, a Swan, an Hern,
+        Two fighting-cocks you may discern,
+        Two roaring Bulls each other hie,
+        To assault concerning venery.
+        Symbols are these; I say no more,
+        Conceive the rest by that's afore.
+
+                     III.
+        The next of solitariness,
+        A portraiture doth well express,
+        By sleeping dog, cat: Buck and Doe,
+        Hares, Conies in the desert go:
+        Bats, Owls the shady bowers over,
+        In melancholy darkness hover.
+        Mark well: If't be not as't should be,
+        Blame the bad Cutter, and not me.
+
+                     IV.
+        I'th' under column there doth stand
+        _Inamorato_ with folded hand;
+        Down hangs his head, terse and polite,
+        Some ditty sure he doth indite.
+        His lute and books about him lie,
+        As symptoms of his vanity.
+        If this do not enough disclose,
+        To paint him, take thyself by th' nose.
+
+                     V.
+        _Hypocondriacus_ leans on his arm,
+        Wind in his side doth him much harm,
+        And troubles him full sore, God knows,
+        Much pain he hath and many woes.
+        About him pots and glasses lie,
+        Newly brought from's Apothecary.
+        This Saturn's aspects signify,
+        You see them portray'd in the sky.
+
+                     VI.
+        Beneath them kneeling on his knee,
+        A superstitious man you see:
+        He fasts, prays, on his Idol fixt,
+        Tormented hope and fear betwixt:
+        For Hell perhaps he takes more pain,
+        Than thou dost Heaven itself to gain.
+        Alas poor soul, I pity thee,
+        What stars incline thee so to be?
+
+                     VII.
+        But see the madman rage downright
+        With furious looks, a ghastly sight.
+        Naked in chains bound doth he lie,
+        And roars amain he knows not why!
+        Observe him; for as in a glass,
+        Thine angry portraiture it was.
+        His picture keeps still in thy presence;
+        'Twixt him and thee, there's no difference.
+
+                     VIII, IX.
+        _Borage_ and _Hellebor_ fill two scenes,
+        Sovereign plants to purge the veins
+        Of melancholy, and cheer the heart,
+        Of those black fumes which make it smart;
+        To clear the brain of misty fogs,
+        Which dull our senses, and Soul clogs.
+        The best medicine that e'er God made
+        For this malady, if well assay'd.
+
+                      X.
+        Now last of all to fill a place,
+        Presented is the Author's face;
+        And in that habit which he wears,
+        His image to the world appears.
+        His mind no art can well express,
+        That by his writings you may guess.
+        It was not pride, nor yet vainglory,
+        (Though others do it commonly)
+        Made him do this: if you must know,
+        The Printer would needs have it so.
+        Then do not frown or scoff at it,
+        Deride not, or detract a whit.
+        For surely as thou dost by him,
+        He will do the same again.
+        Then look upon't, behold and see,
+        As thou lik'st it, so it likes thee.
+        And I for it will stand in view,
+        Thine to command, Reader, adieu.
+
+
+THE AUTHOR'S ABSTRACT OF MELANCHOLY, [Greek: Dialogos]
+

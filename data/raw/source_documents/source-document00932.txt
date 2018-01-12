@@ -1,0 +1,3681 @@
+﻿Produced by Tiffany Vergon, Ted Garvin, Charles Franks
+and the Online Distributed Proofreading Team.
+
+
+THE SEWERAGE OF SEA COAST TOWNS
+
+BY
+
+HENRY C. ADAMS
+
+
+CONTENTS
+
+CHAPTER
+
+I. THE FORMATION OF TIDES AND CURRENTS
+
+II. OBSERVATIONS OF THE RISE AND FALL OF TIDES
+
+III. CURRENT OBSERVATIONS
+
+IV. SELECTION OF SITE FOR OUTFALL SEWER.
+
+V. VOLUME OF SEWAGE
+
+VI. GAUGING FLOW IN SEWERS
+
+VII. RAINFALL
+
+VIII. STORM WATER IN SEWERS
+
+IX. WIND AND WINDMILLS
+
+X. THE DESIGN OF SEA OUTFALLS
+
+XI ACTION OF SEA WATER ON CEMENT
+
+XII. DIVING
+
+XIII. THE DISCHARGE OF SEA OUTFALL SEWERS
+
+XIV. TRIGONOMETRICAL SURVEYING
+
+XV. HYDROGRAPHICAL SURVEYING
+
+PREFACE.
+
+These notes are internal primarily for those engineers who,
+having a general knowledge of sewerage, are called upon to
+prepare a scheme for a sea coast town, or are desirous of being
+able to meet such a call when made. Although many details of
+the subject have been dealt with separately in other volumes,
+the writer has a very vivid recollection of the difficulties he
+experienced in collecting the knowledge he required when he was
+first called on to prepare such a scheme, particularly with
+regard to taking and recording current and tidal observations,
+and it is in the hope that it might be helpful to others in a
+similar difficulty to have all the information then obtained,
+and that subsequently gained on other schemes, brought together
+within a small compass that this book has written.
+
+60, Queen Victoria St,
+London, E.C.
+
+
+CHAPTER I.
+
+THE FORMATION OF TIDES AND CURRENTS.
+
+
+It has often been stated that no two well-designed sewerage
+schemes are alike, and although this truism is usually applied
+to inland towns, it applies with far greater force to schemes
+for coastal towns and towns situated on the banks of our large
+rivers where the sewage is discharged into tidal waters. The
+essence of good designing is that every detail shall be
+carefully thought out with a view to meeting the special
+conditions of the case to the best advantage, and at the least
+possible expense, so that the maximum efficiency is combined
+with the minimum cost. It will therefore be desirable to
+consider the main conditions governing the design of schemes
+for sea-coast towns before describing a few typical cases of
+sea outfalls. Starting with the postulate that it is essential
+for the sewage to be effectually and permanently disposed of
+when it is discharged into tidal waters, we find that this
+result is largely dependent on the nature of the currents,
+which in their turn depend upon the rise and fall of the tide,
+caused chiefly by the attraction of the moon, but also to a
+less extent by the attraction of the sun. The subject of sewage
+disposal in tidal waters, therefore, divides itself naturally
+into two parts: first, the consideration of the tides and
+currents; and, secondly, the design of the works.
+
+The tidal attraction is primarily due to the natural effect of
+gravity, whereby the attraction between two bodies is in direct
+proportion to the product of their respective masses and in
+inverse proportion to the square of their distance apart; but
+as the tide-producing effect of the sun and moon is a
+differential attraction, and not a direct one, their relative
+effect is inversely as the cube of their distances. The mass of
+the sun is about 324,000 times as great as that of the earth,
+and it is about 93 millions of miles away, while the mass of
+the moon is about 1-80th of that of the earth, but it averages
+only 240,000 miles away, varying between 220,000 miles when it
+is said to be in perigee, and 260,000 when in apogee. The
+resultant effect of each of these bodies is a strong "pull" of
+the earth towards them, that of the moon being in excess of
+that of the sun as 1 is to 0.445, because, although its mass is
+much less than that of the sun, it is considerably nearer to
+the earth.
+
+About one-third of the surface of the globe is occupied by
+land, and the remaining two-thirds by water. The latter, being
+a mobile substance, is affected by this pull, which results in
+a banking up of the water in the form of the crest of a tidal
+wave. It has been asserted in recent years that this tidal
+action also takes place in a similar manner in the crust of the
+earth, though in a lesser degree, resulting in a heaving up and
+down amounting to one foot; but we are only concerned with the
+action of the sea at present. Now, although this pull is felt
+in all seas, it is only in the Southern Ocean that a sufficient
+expanse of water exists for the tidal action to be fully
+developed. This ocean has an average width of 1,500 miles, and
+completely encircles the earth on a circumferential line 13,500
+miles long; in it the attraction of the sun and moon raises the
+water nearest to the centre of attraction into a crest which
+forms high water at that place. At the same time, the water is
+acted on by the centripetal effect of gravity, which, tending
+to draw it as near as possible to the centre of the earth, acts
+in opposition to the attraction of the sun and moon, so that at
+the sides of the earth 90 degrees away, where the attraction of
+the sun and moon is less, the centripetal force has more
+effect, and the water is drawn so as to form the trough of the
+wave, or low water, at those points. There is also the
+centrifugal force contained in the revolving globe, which has
+an equatorial diameter of about 8,000 miles and a circumference
+of 25,132 miles. As it takes 23 hr. 56 min 4 sec, or, say,
+twenty-four hours, to make a complete revolution, the surface
+at the equator travels at a speed of approximately 25,132/24 =
+1,047 miles per hour. This centrifugal force is always
+constant, and tends to throw the water off from the surface of
+the globe in opposition to the centripetal force, which tends
+to retain the water in an even layer around the earth. It is
+asserted, however, as an explanation of the phenomenon which
+occurs, that the centripetal force acting at any point on the
+surface of the earth varies inversely as the square of the
+distance from that point to the moon, so that the centripetal
+force acting on the water at the side of the earth furthest
+removed from the moon is less effective than that on the side
+nearest to the moon, to the extent due to the length of the
+diameter of the earth. The result of this is that the
+centrifugal force overbalances the centripetal force, and the
+water tends to fly off, forming an anti-lunar wave crest at
+that point approximately equal, and opposite, to the wave crest
+at the point nearest to the moon. As the earth revolves, the
+crest of high water of the lunar tide remains opposite the
+centre of attraction of the sun and moon, so that a point on
+the surface will be carried from high water towards and past
+the trough of the wave, or low water, then past the crest of
+the anti-lunar tide, or high water again, and back to its
+original position under the moon. But while the earth is
+revolving the moon has traveled 13 degrees along the elliptical
+orbit in which she revolves around the earth, from west to
+east, once in 27 days 7 hr. 43 min, so that the earth has to
+make a fraction over a complete revolution before the same
+point is brought under the centre of attraction again This
+occupies on an average 52 min, so that, although we are taught
+that the tide regularly ebbs and flows twice in twenty-four
+hours, it will be seen that the tidal day averages 24 hr. 52
+min, the high water of each tide in the Southern Ocean being at
+12 hr. 26 min intervals. As a matter of fact, the tidal day
+varies from 24 hr. 35 min at new and full moon to 25 hr. 25 min
+at the quarters. Although the moon revolves around the earth in
+approximately 27-1/3 days, the earth has moved 27 degrees on
+its elliptical orbit around the sun, which it completes once in
+365± days, so that the period which elapses before the moon
+again occupies the same relative position to the sun is 29 days
+12 hr. 43 min, which is the time occupied by the moon in
+completing her phases, and is known as a lunar month or a
+lunation.
+
+Considered from the point of view of a person on the earth,
+this primary tidal wave constantly travels round the Southern
+Ocean at a speed of 13,500 miles in 24 hr. 52 min, thus having
+a velocity of 543 miles per hour, and measuring a length of
+13,500/2 = 6,750 miles from crest to crest. If a map of the
+world be examined it will be noticed that there are three large
+oceans branching off the Southern Ocean, namely, the Atlantic,
+Pacific, and Indian Oceans; and although there is the same
+tendency for the formation of tides in these oceans, they are
+too restricted for any very material tidal action to take
+place. As the crest of the primary tidal wave in its journey
+round the world passes these oceans, the surface of the water
+is raised in them, which results in secondary or derivative
+tidal waves being sent through each ocean to the furthermost
+parts of the globe; and as the trough of the primary wave
+passes the same points the surface of the water is lowered, and
+a reverse action takes place, so that the derivative waves
+oscillate backwards and forwards in the branch oceans, the
+complete cycle occupying on the average 12 hr. 26 min Every
+variation of the tides in the Southern Ocean is accurately
+reproduced in every sea connected with it.
+
+Wave motion consists only in a vertical movement of the
+particles of water by which a crest and trough is formed
+alternately, the crest being as much above the normal
+horizontal line as the trough is below it; and in the tidal
+waves this motion extends through the whole depth of the water
+from the surface to the bottom, but there is no horizontal
+movement except of form. The late Mr. J. Scott Russell
+described it as the transference of motion without the
+transference of matter; of form without the substance; of force
+without the agent.
+
+The action produced by the sun and moon jointly is practically
+the resultant of the effects which each would produce
+separately, and as the net tide-producing effect of the moon is
+to raise a crest of water 1.4 ft above the trough, and that of
+the sun is 0.6 ft (being in the proportion of I to 0.445), when
+the two forces are acting in conjunction a wave 1.4 + 0.6 = 2
+ft high is produced in the Southern Ocean, and when acting in
+opposition a wave 1.4 - 0.6 = 0.8 ft high is formed. As the
+derivative wave, consisting of the large mass of water set in
+motion by the comparatively small rise and fall of the primary
+wave, is propagated through the branch oceans, it is affected
+by many circumstances, such as the continual variation in width
+between the opposite shores, the alterations in the depth of
+the channels, and the irregularity of the coast line. When
+obstruction occurs, as, for example, in the Bristol Channel,
+where there is a gradually rising bed with a converging
+channel, the velocity, and/or the amount of rise and fall of
+the derivative wave is increased to an enormous extent; in
+other places where the oceans widen out, the rise and/or
+velocity is diminished, and similarly where a narrow channel
+occurs between two pieces of land an increase in the velocity
+of the wave will take place, forming a race in that locality.
+
+Although the laws governing the production of tides are well
+understood, the irregularities in the depths of the oceans and
+the outlines of the coast, the geographical distribution of the
+water over the face of the globe and the position and declivity
+of the shores greatly modify the movements of the tides and
+give rise to so many complications that no general formulae can
+be used to give the time or height of the tides at any place by
+calculation alone. The average rate of travel and the course of
+the flood tide of the derivative waves around the shores of
+Great Britain are as follows:--150 miles per hour from Land's
+End to Lundy Island; 90 miles per hour from Lundy to St.
+David's Head; 22 miles per hour from St. David's Head to Holy
+head; 45-1/2 miles per hour from Holyhead to Solway Firth; 194
+miles per hour from the North of Ireland to the North of
+Scotland; 52 miles per hour from the North of Scotland to the
+Wash; 20 miles per hour from the Wash to Yarmouth; 10 miles per
+hour from Yarmouth to Harwich. Along the south coast from
+Land's End to Beachy Head the average velocity is 40 miles per
+hour, the rate reducing as the wave approaches Dover, in the
+vicinity of which the tidal waves from the two different
+directions meet, one arriving approximately twelve hours later
+than the other, thus forming tides which are a result of the
+amalgamation of the two waves. On the ebb tide the direction of
+the waves is reversed.
+
+The mobility of the water around the earth causes it to be very
+sensitive to the varying attraction of the sun and moon, due to
+the alterations from time to time in the relative positions of
+the three bodies. Fig. [Footnote: Plate I] shows
+diagrammatically the condition of the water in the Southern
+Ocean when the sun and moon are in the positions occupied at
+the time of new moon. The tide at A is due to the sum of the
+attractions of the sun and moon less the effect due to the
+excess of the centripetal force over centrifugal force. The
+tide at C is due to the excess of the centrifugal force over
+the centripetal force. These tides are known as "spring" tides.
+Fig. 2 [Footnote: Plate I] shows the positions occupied at the
+time of full moon. The tide at A is due to the attraction of
+the sun plus the effect due to the excess of the centrifugal
+force over the centripetal force. The tide at C is due to the
+attraction of the moon less the effect due to the excess of the
+centripetal force over centrifugal force. These tides are also
+known as "spring" tides. Fig. 3 [Footnote: Plate I] shows the
+positions occupied when the moon is in the first quarter; the
+position at the third quarter being similar, except that the
+moon would then be on the side of the earth nearest to B, The
+tide at A is compounded of high water of the solar tide
+superimposed upon low water of the lunar tide, so that the sea
+is at a higher level than in the case of the low water of
+spring tides. The tide at D is due to the attraction of the
+moon less the excess of centripetal force over centrifugal
+force, and the tide at B is due to the excess of centrifugal
+force over centripetal force. These are known as "neap" tides,
+and, as the sun is acting in opposition to the moon, the height
+of high water is considerably less than at the time of spring
+tides. The tides are continually varying between these extremes
+according to the alterations in the attracting forces, but the
+joint high tide lies nearer to the crest of the lunar than of
+the solar tide. It is obvious that, if the attracting force of
+the sun and moon were equal, the height of spring tides would
+be double that due to each body separately, and that there
+would be no variation in the height of the sea at the time of
+neap tides.
+
+It will now be of interest to consider the minor movements of
+the sun and moon, as they also affect the tides by reason of
+the alterations they cause in the attractive force. During the
+revolution of the earth round the sun the successive positions
+of the point on the earth which is nearest to the sun will form
+a diagonal line across the equator. At the vernal equinox
+(March 20) the equator is vertically under the sun, which then
+declines to the south until the summer solstice (June 21), when
+it reaches its maximum south declination. It then moves
+northwards, passing vertically over the equator again at the
+autumnal equinox (September 21), and reaches its maximum
+northern declination on the winter solstice (December 21). The
+declination varies from about 24 degrees above to 24 degrees
+below the equator. The sun is nearest to the Southern Ocean,
+where the tides are generated, when it is in its southern
+declination, and furthest away when in the north, but the sun
+is actually nearest to the earth on December 31 (perihelion)
+and furthest away on July I (aphelion), the difference between
+the maximum and minimum distance being one-thirtieth of the
+whole.
+
+The moon travels in a similar diagonal direction around the
+earth, varying between 18-1/2 degrees and 28-1/2 degreed above
+and below the equator. The change from north to south
+declination takes place every fourteen days, but these changes
+do not necessarily take place at the change in the phases of
+the moon. When the moon is south of the equator, she is nearer
+to the Southern Ocean, where the tides are generated. The new
+moon is nearest to the sun, and crosses the meridian at midday,
+while the full moon crosses it at midnight.
+
+The height of the afternoon tide varies from that of the
+morning tide; sometimes one is the higher and sometimes the
+other, according to the declination of the sun and moon. This
+is called the "diurnal inequality." The average difference
+between the night and morning tides is about 5 in on the east
+coast and about 8in on the west coast. When there is a
+considerable difference in the height of high water of two
+consecutive tides, the ebb which follows the higher tide is
+lower than that following the lower high water, and as a
+general rule the higher the tide rises the lower it will fall.
+The height of spring tides varies throughout the year, being at
+a maximum when the sun is over the equator at the equinoxes and
+at a minimum in June at the summer solstice when the sun is
+furthest away from the equator. In the Southern Ocean high
+water of spring tides occurs at mid-day on the meridian of
+Greenwich and at midnight on the 180° meridian, and is later on
+the coasts of other seas in proportion to the time taken for
+the derivative waves to reach them, the tide being about three-
+fourths of a day later at Land's End and one day and a half
+later at the mouth of the Thames. The spring tides around the
+coast of England are four inches higher on the average at the
+time of new moon than at full moon, the average rise being
+about 15 ft, while the average rise at neaps is 11 ft 6 in.
+
+The height from high to low water of spring tides is
+approximately double that of neap tides, while the maximum
+height to which spring tides rise is about 33 per cent. more
+than neaps, taking mean low water of spring tides as the datum.
+Extraordinarily high tides may be expected when the moon is new
+or full, and in her position nearest to the earth at the same
+time as her declination is near the equator, and they will be
+still further augmented if a strong gale has been blowing for
+some time in the same direction as the flood tide in the open
+sea, and then changes when the tide starts to rise, so as to
+blow straight on to the shore. The pressure of the air also
+affects the height of tides in so far as an increase will tend
+to depress the water in one place, and a reduction of pressure
+will facilitate its rising elsewhere, so that if there is a
+steep gradient in the barometrical pressure falling in the same
+direction as the flood tide the tides will be higher. As
+exemplifying the effect of violent gales in the Atlantic on the
+tides of the Bristol Channel, the following extract from "The
+Surveyor, Engineer, and Architect" of 1840, dealing with
+observations taken on Mr. Bunt's self-registering tide gauge at
+Hotwell House, Clifton, may be of interest.
+
+Date:           Times of High Water.      Difference in
+Jan 1840.      Tide Gauge.  Tide Table.    Tide Table.
+                  H.M.         H.M.
+27th, p.m.......  0. 8 ....... 0. 7 .....  1 min earlier.
+28th, a.m.......  0.47 ....... 0.34 ..... 13 min earlier.
+28th, p.m....... 11.41 ....... 1. 7 ..... 86 min later.
+29th, a.m.......  1.29 ....... 1.47 ..... 18 min later.
+29th, p.m.......  2.32 ....... 2.30 .....  2 min earlier.
+
+
+Although the times of the tides varied so considerably, their
+heights were exactly as predicted in the tide-table.
+
+The records during a storm on October 29, 1838, gave an
+entirely different result, as the time was retarded only ten or
+twelve minutes, but the height was increased by 8 ft On another
+occasion the tide at Liverpool was increased 7 ft by a gale.
+The Bristol Channel holds the record for the greatest tide
+experienced around the shores of Great Britain, which occurred
+at Chepstow in 1883, and had a rise of 48 ft 6 in The
+configuration of the Bristol Channel is, of course, conducive
+to large tides, but abnormally high tides do not generally
+occur on our shores more frequently than perhaps once in ten
+years, the last one occurring in the early part of 1904,
+although there may foe many extra high ones during this period
+of ten years from on-shore gales. Where tides approach a place
+from different directions there may be an interval between the
+times of arrival, which results in there being two periods of
+high and low water, as at Southampton, where the tides approach
+from each side of the Isle of Wight.
+
+The hour at which high water occurs at any place on the coast
+at the time of new or full moon is known as the establishment
+of that place, and when this, together with the height to which
+the tide rises above low water is ascertained by actual
+observation, it is possible with the aid of the nautical
+almanack to make calculations which will foretell the time and
+height of the daily tides at that place for all future time. By
+means of a tide-predicting machine, invented by Lord Kelvin,
+the tides for a whole year can be calculated in from three to
+four hours. This machine is fully described in the Minutes of
+Proceedings, Inst.C.E., Vol. LXV. The age of the tide at any
+place is the period of time between new or full moon and the
+occurrence of spring tides at that place. The range of a tide
+is the height between high and low water of that tide, and the
+rise of a tide is the height between high water of that tide
+and the mean low water level of spring tides. It follows,
+therefore, that for spring tides the range and rise are
+synonymous terms, but at neap tides the range is the total
+height between high and low water, while the rise is the
+difference between high water of the neap tide and the mean low
+water level of spring tides. Neither the total time occupied by
+the flood and ebb tides nor the rate of the rise and fall are
+equal, except in the open sea, where there are fewer disturbing
+conditions. In restricted areas of water the ebb lasts longer
+than the flood.
+
+Although the published tide-tables give much detailed
+information, it only applies to certain representative ports,
+and even then it is only correct in calm weather and with a
+very steady wind, so that in the majority of cases the engineer
+must take his own observations to obtain the necessary local
+information to guide him in the design of the works. It is
+impracticable for these observations to be continued over the
+lengthy period necessary to obtain the fullest and most
+accurate results, but, premising a general knowledge of the
+natural phenomena which affect the tides, as briefly described
+herein, he will be able to gauge the effect of the various
+disturbing causes, and interpret the records he obtains so as
+to arrive at a tolerably accurate estimate of what may be
+expected under any particular circumstances. Generally about 25
+per cent. of the tides in a year are directly affected by the
+wind, etc., the majority varying from 6 in to 12 in in height
+and from five to fifteen minutes in time. The effect of a
+moderately stiff gale is approximately to raise a tide as many
+inches as it might be expected to rise in feet under normal
+conditions. The Liverpool tide-tables are based on observations
+spread over ten years, and even longer periods have been
+adopted in other places.
+
+Much valuable information on this subject is contained in the
+following books, among others--and the writer is indebted to
+the various authors for some of the data contained in this and
+subsequent chapters--"The Tides," by G. H. Darwin, 1886;
+Baird's Manual of Tidal Observations, 1886; and "Tides and
+Waves," by W. H. Wheeler, 1906, together with the articles in
+the "Encyclopaedia Britannica" and "Chambers's Encyclopaedia."
+
+
+Chapter II
+
+Observations of the rise and fall of tides.
+
+
+The first step in the practical design of the sewage works is
+to ascertain the level of high and low water of ordinary spring
+and neap tides and of equinoctial tides, as well as the rate of
+rise and fall of the various tides. This is done by means of a
+tide recording instrument similar to Fig. 4, which represents
+one made by Mr. J. H. Steward, of 457, West Strand, London,
+W.C. It consists of a drum about 5 in diameter and 10 in high,
+which revolves by clockwork once in twenty-four hours, the same
+mechanism also driving a small clock. A diagram paper divided
+with vertical lines into twenty-four primary spaces for the
+hours is fastened round the drum and a pen or pencil attached
+to a slide actuated by a rack or toothed wheel is free to work
+vertically up and down against the drum. A pinion working in
+this rack or wheel is connected with a pulley over which a
+flexible copper wire passes through the bottom of the case
+containing the gauge to a spherical copper float, 8 inches
+diameter, which rises and falls with the tide, so that every
+movement of the tide is reproduced moment by moment upon the
+chart as it revokes. The instrument is enclosed in an ebonized
+cabinet, having glazed doors in front and at both sides, giving
+convenient access to all parts. Inasmuch as the height and the
+time of the tide vary every day, it is practicable to read
+three days' tides on one chart, instead changing it every day.
+When the diagrams are taken of, the lines representing the
+water levels should be traced on to a continuous strip of
+tracing linen, so that the variations can be seen at a glance
+extra lines should be drawn, on the tracing showing the time at
+which the changes of the moon occur.
+
+Fig. 5 is a reproduction to a small scale of actual records
+taken over a period of eighteen days, which shows true
+appearance of the diagrams when traced on the continuous strip.
+
+
+These observations show very little difference between the
+spring and neap tides, and are interesting as indicating the
+unreliability of basing general deductions upon data obtained
+during a limited period only. At the time of the spring tides
+at the beginning of June the conditions were not favourable to
+big tides, as although the moon was approaching her perigee,
+her declination had nearly reached its northern limit and the
+declination of the sun was 22° IN The first quarter of the moon
+coincided very closely with the moon's passage over the
+equator, so that the neaps would be bigger than usual. At the
+period of the spring: tides, about the middle of June, although
+the time of full moon corresponded with her southernmost
+declination, she was approaching her apogee, and the
+declination of the sun was 23° 16' N., so that the tides would
+be lower than usual.
+
+In order to ensure accurate observations, the position chosen
+for the tide gauge should be in deep water in the immediate
+vicinity of the locus in quo, but so that it is not affected by
+the waves from passing vessels. Wave motion is most felt where
+the float is in shallow water. A pier or quay wall will
+probably be most convenient, but in order to obtain records of
+the whole range of the tides it is of course necessary that the
+float should not be left dry at low water. In some instances
+the float is fixed in a well sunk above high water mark to such
+a depth that the bottom of it is below the lowest low water
+level, and a small pipe is then laid under the beach from the
+well to, and below, low water, so that the water stands
+continuously in the well at the same level as the sea.
+
+The gauge should be fixed on bearers, about 3 ft 6 in from the
+floor, in a wooden shed, similar to a watchman's box, but
+provided with a door, erected on the pier or other site fixed
+upon for the observations. A hole must be formed in the floor
+and a galvanized iron or timber tube about 10 in square
+reaching to below low water level fixed underneath, so that
+when the float is suspended from the recording instrument it
+shall hang vertically down the centre of the tube. The shed
+and tube must of course be fixed securely to withstand wind and
+waves. The inside of the tube must be free from all projections
+or floating matter which would interfere with the movements of
+the float, the bottom should be closed, and about four lin
+diameter holes should be cleanly formed in the sides near to
+the bottom for the ingress and egress of the water. With a
+larger number of holes the wave action will cause the diagram
+to be very indistinct, and probably lead to incorrectness in
+determining the actual levels of the tides; and if the tube is
+considerably larger than the float, the latter will swing
+laterally and give incorrect readings.
+
+
+A bench mark at some known height above ordnance datum should
+be set up in the hut, preferably on the top of the tube. At
+each visit the observer should pull the float wire down a short
+distance, and allow it to return slowly, thus making a vertical
+mark on the diagram, and should then measure the actual level
+of the surface of the water below the bench mark in the hut, so
+that the water line on the chart can be referred to ordnance
+datum. He should also note the correct time from his watch, so
+as to subsequently rectify any inaccuracy in the rate of
+revolution of the drum.
+
+The most suitable period for taking these observations is from
+about the middle of March to near the end of June, as this will
+include records of the high spring equinoctial tides and the
+low "bird" tides of June. A chart similar to Fig. 6 should be
+prepared from the diagrams, showing the rise and fall of the
+highest spring tides, the average spring tides, the average
+neap tides, and the lowest neap tides, which will be found
+extremely useful in considering the levels of, and the
+discharge from, the sea outfall pipe.
+
+The levels adopted for tide work vary in different ports.
+Trinity high-water mark is the datum adopted for the Port of
+London by the Thames Conservancy; it is the level of the lower
+edge of a stone fixed in the face of the river wall upon the
+east side of the Hermitage entrance of the London Docks, and is
+12 48 ft above Ordnance datum. The Liverpool tide tables give
+the heights above the Old Dock Sill, which is now non-existent,
+but the level of it has been carefully preserved near the same
+position, on a stone built into the western wall of the Canning
+Half Tide Dock. This level is 40 ft below Ordnance datum. At
+Bristol the levels are referred to the Old Cumberland Basin
+(O.C.B.), which is an imaginary line 58 ft below Ordnance
+datum. It is very desirable that for sewage work all tide
+levels should be reduced to Ordnance datum.
+
+A critical examination of the charts obtained from the tide-
+recording instruments will show that the mean level of the sea
+does not agree with the level of Ordnance datum. Ordnance datum
+is officially described as the assumed mean water level at
+Liverpool, which was ascertained from observations made by the
+Ordnance Survey Department in March, 1844, but subsequent
+records taken in May and June, 1859, by a self-recording gauge
+on St. George's Pier, showed that the true mean level of the
+sea at Liverpool is 0.068 ft below the assumed level. The
+general mean level of the sea around the coast of England, as
+determined by elaborate records taken at 29 places during the
+years 1859-60, was originally said to be, and is still,
+officially recognised by the Ordnance Survey Department to be
+0.65 ft, or 7.8 in, above Ordnance datum, but included in these
+29 stations were 8 at which the records were admitted to be
+imperfectly taken. If these 8 stations are omitted from the
+calculations, the true general mean level of the sea would be
+0.623 ft, or 7.476 in, above Ordnance datum, or 0.691 ft above
+the true mean level of the sea at Liverpool. The local mean
+seal level at various stations around the coast varies from
+0.982 ft below the general mean sea level at Plymouth, to 1.260
+ft above it at Harwich, the places nearest to the mean being
+Weymouth (.089 ft below) and Hull (.038 ft above).
+
+It may be of interest to mention that Ordnance datum for
+Ireland is the level of low water of spring tides in Dublin
+Bay, which is 21 ft below a mark on the base of Poolbeg
+Lighthouse, and 7.46 ft below English Ordnance datum.
+
+The lines of "high and low water mark of ordinary tides" shown
+upon Ordnance maps represent mean tides; that is, tides halfway
+between the spring and the neap tides, and are generally
+surveyed at the fourth tide before new and full moon. The
+foreshore of tidal water below "mean high water" belongs to the
+Crown, except in those cases where the rights have been waived
+by special grants. Mean high water is, strictly speaking, the
+average height of all high waters, spring and neap, as
+ascertained over a long period. Mean low water of ordinary
+spring tides is the datum generally adopted for the soundings
+on the Admiralty Charts, although it is not universally adhered
+to; as, for instance, the soundings in Liverpool Bay and the river
+Mersey are reduced to a datum 20 ft below the old dock sill, which
+is 125 ft below the level of low water of ordinary spring tides.
+The datum of each chart varies as regards Ordnance datum, and in the
+case of charts embracing a large area the datum varies along the coast.
+
+The following table gives the fall during each half-hour of the
+typical tides shown in Fig, 6 (see page 15), from which it will
+be seen that the maximum rate occurs at about half-tide, while
+very little movement takes place during the half-hour before
+and the half-hour after the turn of the tide:--
+
+Table I.
+
+Rate of fall of tides.
+
+State of       Eqionoctial    Ordinary      Ordinary      Lowest
+Tide.             Tides.    Spring Tides.  Neap Tides.  Neap Tides.
+
+High water          --           --           --           --
+1/2   hour after   0.44         0.40         0.22         0.19
+1      "    "      0.96         0.80         0.40         0.31
+1-1/2  "    "      1.39         1.14         0.68         0.53
+2      "    "      1.85         1.56         0.72         0.59
+2-1/2  "    "      1.91         1.64         0.84         0.68
+3      "    "      1.94         1.66         0.86         0.70
+3-1/2  "    "      1.94         1.66         0.86         0.70
+4      "    "      1.91         1.64         0.84         0.68
+4-1/2  "    "      1.35         1.16         0.59         0.48
+5      "    "      1.27         1.09         0.57         0.46
+5-1/2  "    "      1.06         0.91         0.47         0.38
+6      "    "      1.04         0.89         0.46         0.37
+6-1/2  "    "      0.53         0.45         0.24         0.18
+Totals....      17 ft 6 in   15 ft 0 in    7 ft 9 in    6 ft 3 in
+
+The extent to which the level of high water varies from tide to
+tide is shown in Fig. 7 [Footnote: Plate III.], which embraces
+a period of six months, and is compiled from calculated heights
+without taking account of possible wind disturbances.
+
+The varying differences between the night and morning tides are
+shown very clearly on this diagram; in some cases the night
+tide is the higher one, and in others the morning tide; and while
+at one time each successive tide is higher than the preceding one,
+at another time the steps showing: the set-back of the tide are
+very marked. During the earlier part of the year the spring-tides
+at new moon were higher than those at full moon, but towards June
+the condition became reversed. The influence of the position of the
+sun and moon on the height of the tide is apparent throughout,
+but is particularly marked during the exceptionally low spring
+tides in the early part of June, when the time of new moon
+practically coincides with the moon in apogee and in its most
+northerly position furthest removed from the equator.
+
+Inasmuch as the tidal waves themselves have no horizontal
+motion, it is now necessary to consider by what means the
+movement of water along the shores is caused. The sea is, of
+course, subject to the usual law governing the flow of water,
+whereby it is constantly trying to find its own level. In a
+tidal wave the height of the crest is so small compared with
+the length that the surface gradient from crest to trough is
+practically flat, and does not lead to any appreciable
+movement; but as the tidal wave approaches within a few miles
+of the shore, it runs into shallow water, where its progress is
+checked, but as it is being pushed on from behind it banks up
+and forms a crest of sufficient height to form a more or less
+steep gradient, and to induce a horizontal movement of the
+particles of water throughout the whole depth in the form of a
+tidal current running parallel with the shore.
+
+The rate of this current depends upon the steepness of the
+gradient, and the momentum acquired will, In some Instances,
+cause the current to continue to run in the same direction for
+some time after the tide has turned, i.e., after the direction
+of the gradient has been reversed; so that the tide may be
+making--or falling--in one direction, while the current is
+running the opposite way. It will be readily seen, then, that
+the flow of the current will be slack about the time of high
+and low water, so that its maximum rate will be at half-ebb and
+half-flood. If the tide were flowing into an enclosed or semi-
+enclosed space, the current could not run after the tide
+turned, and the reversal of both would be simultaneous, unless,
+indeed, the current turned before the tide.
+
+Wind waves are only movements of the surface of the water, and
+do not generally extend for a greater depth below the trough of
+the wave than the crest is above it, but as they may affect the
+movement of the floating particles of sewage to a considerable
+extent it is necessary to record the direction and strength of
+the wind.
+
+The strength of the wind is sometimes indicated wind at the
+time of making any tidal observations. By reference to the
+Beaufort Scale, which is a graduated classification adopted by
+Admiral Beaufort about the year 1805. The following table gives
+the general description, velocity, and pressure of the wind
+corresponding to the tabular numbers on the scale:--
+
+[Illustration: PLATE III
+
+PERIOD OF SIX MONTHS.
+
+To face page 20]
+
+The figures indicating the pressure of the wind in the
+foregoing table are low compared with those given by other
+authorities. From Mutton's formula, the pressure against a
+plane surface normal to the wind would be 0.97 lb per sq. foot,
+with an average velocity of 15 miles per hour (22 ft per sec.),
+compared with o.67 lb given by Admiral Beaufort, and for a
+velocity of 50 miles per hour (73.3 ft per sec.) 10.75 lb,
+compared with 7.7lb Semitone's formula, which is frequently
+used, gives the pressure as 0.005V^2 (miles per hour), so that
+for 15 miles per hour velocity the pressure would be 1.125 lb,
+and for 50 miles it would be l2.5 lb It must not be forgotten,
+however, that, although over a period of one hour the wind may
+_average_ this velocity or pressure, it will vary considerably
+from moment to moment, being far in excess at one time, and
+practically calm at another. The velocity of the wind is
+usually taken by a cup anemometer having four 9 in cups on arms
+2 ft long. The factor for reducing the records varies from 2 to
+3, according to the friction and lubrication, the average being
+2.2.
+
+The pressure is obtained by multiplying the Beaufort number
+cubed by 0.0105; and the velocity is found by multiplying the
+square root of the Beaufort number cubed by 1.87.
+
+A tidal wave will traverse the open sea in a straight line, but
+as it passes along the coast the progress of the line nearest
+the shore is retarded while the centre part continues at the
+same velocity, so that on plan the wave assumes a convex shape
+and the branch waves reaching the shore form an acute angle
+with the coast line.
+
+
+CHAPTER III.
+
+CURRENT OBSERVATIONS.
+
+
+There is considerable diversity in the design of floats
+employed in current observations, dependant to some extent upon
+whether it is desired to ascertain the direction of the surface
+drift or of a deep current, it does not by any means follow
+that they run in simultaneous directions. There is also
+sometimes considerable difference in the velocity of the
+current at different depths--the surface current being more
+susceptible to influence of wind. A good form of deep float is
+seen in Fig. 8. It consists of a rod 2 in by 2 in, or 4 sq in
+The lower end of which a hollow wooden box about 6 in by 6 in
+is fixed, into which pebbles are placed to overcome the
+buoyancy of the float and cause it to take and maintain an
+upright position in the water with a length of 9in of the rod
+exposed above the surface. A small hole is formed in the top of
+the box for the insertion the pebbles, which is stopped up with
+a cork when the float is adjusted. The length of the rod will
+vary according to the depth of water, but it will generally be
+found convenient to employ a float about 10 ft and to have a
+spare one about 6 ft deep, but otherwise it is similar in all
+respects, for use in shallow water. A cheap float for gauging
+the surface drift can be made from an empty champagne bottle
+weighted with stones and partly filled with water. The top 12
+in of rods and the cord and neck of the bottle, as the case may
+be, should be painted red, as this colour renders floats more
+conspicuous when in the water and gives considerable assistance
+in locating their position, especially when they are at some
+distance from the observer.
+
+A deep-sea float designed by Mr. G. P. Bidden for ascertaining
+the set of the currents along the base of the ocean has
+recently been used by the North Sea Fisheries Investigation
+Committee. It consists of a bottle shaped like a soda-water bottle,
+made of strong glass to resist the pressure of the water, and
+partly filled with water, so that just sufficient air is left
+in it to cause it to float. A length of copper wire heavy enough
+to cause it to sink is then attached to the bottle, which is then
+dropped into the sea at a defined place. When the end of the wire
+touches the bottom the bottle is relieved of some of its weight
+and travels along with the currents a short distance above the bed
+of the sea. About 20 per cent. of the bottles were recovered, either
+by being thrown up on the beach or by being fished up in trawl nets.
+
+[Illustration: FIG. 8.--DETAIL OF WOOD TIDAL FLOAT 10 FEET
+DEEP.]
+
+A double float, weighing about 10 lb complete, was used for the
+tidal observations for the Girdleness outfall sewer, Aberdeen.
+The surface portion consisted of two sheet-iron cups soldered
+together, making a float 9 in in diameter and 6 in deep. The
+lower or submerged portion was made of zinc, cylindrical in
+shape, 16 in diameter and 16 in long, perforated at intervals
+with lin diameter holes and suspended by means of a brass chain
+from a swivel formed on the underside of the surface float.
+
+In gauging the currents the float is placed in the water at a
+defined point and allowed to drift, its course being noted and
+afterwards transferred to a plan. The time of starting should
+be recorded and observations of its exact position taken
+regularly at every quarter of an hour, so that the time taken
+in covering any particular distance is known and the length of
+travel during any quarter-hour period multiplied by four gives
+the speed of the current at that time in miles per hour.
+
+The method to be employed in ascertaining the exact position of
+the float from time to time is a matter which requires careful
+consideration, and is dependent upon the degree of accuracy
+required according to the importance of the scheme and the
+situation of neighbouring towns, frequented shores, oyster
+beds, and other circumstances likely to be injuriously affected
+by any possible or probable pollution by sewage.
+
+One method is to follow the float in a small boat carrying a
+marine compass which has the card balanced to remain in a
+horizontal position, irrespective of the tipping and rolling of
+the boat, and to observe simultaneously the bearing of two
+prominent landmarks, the position of which on the plan is
+known, at each of the quarter-hour periods at which the
+observations are to be taken. This method only gives very
+approximate results, and after checking the value of the
+observations made by its use, with contemporary observations
+taken by means of theodolites on the shore, the writer
+abandoned the system in favour of the theodolite method, which,
+however, requires a larger staff, and is therefore more
+expensive. In every case it is necessary to employ a boat to
+follow the float, not only so as to recover it at the end of
+each day's work, but principally to assist in approximately
+locating the float, which can then be found more readily when
+searching through the telescope of the theodolite. The boat
+should be kept about 10 ft to 20 ft from the float on the side
+further removed from the observers, except when surface floats
+are being used to ascertain the effect of the wind, when the
+boat should be kept to leeward of the float. Although obviously
+with a large boat the observations can be pursued through
+rougher weather, which is an important point, still the
+difficulty of maintaining a large boat propelled by mechanical
+power, or sail, sufficiently near the float to assist the
+observers, prevents its use, and the best result will be
+obtained by employing a substantial, seaworthy rowing boat with
+a broad beam. The boatmen appreciate the inclusion of a mast,
+sails, and plenty of ballast in the equipment to facilitate
+their return home when the day's work is done, which may happen
+eight or nine miles away, with twilight fast passing into
+darkness. There should be two boatmen, or a man and a strong
+youth.
+
+In working with theodolites, it is as well before starting to
+select observation stations at intervals along the coast, drive
+pegs in the ground so that they can easily be found afterwards,
+and fix their position upon a 1/2500 ordnance map in the usual
+manner. It may, however, be found in practice that after
+leaving one station it is not possible to reach the next one
+before the time arrives for another sight to be taken. In this
+case the theodolite must be set up on magnetic north at an
+intermediate position, and sights taken to at least two
+landmarks, the positions of which are shown on the map, and the
+point of observation subsequently plotted as near as possible
+by the use of these readings. Inasmuch as the sights will be
+taken from points on the edge of the shore, which is, of
+course, shown on the map, it is possible, after setting up to
+magnetic north, to fix the position with approximate accuracy
+by a sight to one landmark only, but this should only be done
+in exceptional circumstances.
+
+The method of taking the observations with two theodolites, as
+adopted by the writer, can best be explained by a reference to
+Fig. 9, which represents an indented piece of the coast. The
+end of the proposed sea outfall sewer, from which point the
+observations would naturally start, is marked 1, the numerals
+2, 3, 4, etc., indicating the positions of the float as
+observed from time to time. Many intermediate observations
+would be taken, but in order to render the diagram more clear,
+these have not been shown. The lines of sight are marked 1A,
+1B, etc. The points marked A1, A2, etc., indicate the first,
+second, etc., and subsequent positions of observer A; the
+points B1, B2, etc., referring to observer B. The dot-and-dash
+line shows the course taken by the float, which is ascertained
+after plotting the various observations recorded.
+
+It is very desirable to have a horse and trap in waiting to
+move the observers and their instruments from place to place as
+required, and each observer should be provided with small flags
+about 2 ft square, one white and one blue, for signalling
+purposes.
+
+The instruments are first set up at A1 and B1 respectively, and
+adjusted to read on to the predetermined point 1 where the
+float is to be put in Then as soon as the boatmen have reached
+the vicinity of this point, the observers can, by means of the
+flags, direct them which way to row so as to bring the boat to
+the exact position required, and when this is done the anchor is
+dropped until it is time to start, which is signalled by the observers
+holding the flags straight above their heads. This is also the
+signal used to indicate to the men that the day's work is
+finished, and they can pick up the float and start for home.
+
+[Illustration: FIG. 9.--PLAN OF INDENTED COAST-LINE LLUSTRATING
+METHOD OF TAKING CURRENT OBSERVATIONS WITH TWO THEODOLITES.]
+
+Directly the float is put in the water, and at every even
+quarter of an hour afterwards, each observer takes a reading of
+its exact position, and notes the time. As soon as the readings
+are taken to the float in position 2, the observer A should
+take up his instrument and drive to A2, where he must set up
+ready to take reading 3 a quarter of an hour after reading 2.
+It will be noticed that he might possibly have been able to
+take the reading 3 from the position A1, but the angle made by
+the lines of sight from the two instruments would have been too
+acute for accurate work, and very probably the float would have
+been hidden by the headland, so that he could not take the
+reading at all. In order to be on the headland A4 at the proper
+time, A must be working towards it by getting to position A3 by
+the time reading 4 is due. Although the remainder of the course
+of the float can be followed from B1 and A4, the instruments
+would be reading too much in the same line, so that B must move
+to B2 and then after reading 5 and 6 he should move to B3. As
+the float returns towards the starting point, A can remain in
+the position A4 while B goes to B4 and then moves back along
+the shore as the float progresses.
+
+The foregoing description is sufficient to indicate the general
+method of working, but the details will of course vary
+according to the configuration of the shore and the course
+taken by the float. Good judgment is necessary in deciding when
+to move from one station to the next, and celerity in setting
+up, adjusting the instrument, and taking readings is essential.
+If the boatmen can be relied upon to keep their position near
+the float, very long sights can be taken with sufficient
+accuracy by observing the position of the boat, long after the
+float has ceased to be visible through the telescope.
+
+The lines of sight from each station should be subsequently
+plotted on the 1/2500 ordnance map; the intersection of each
+two corresponding sight lines giving the position of the float
+at that time. Then if a continuous line is drawn passing
+through all the points of intersection it will indicate the
+course taken by the float.
+
+It is very desirable that the observers should be able to
+convey information to each other by signalling with the flags
+according to the Morse code, as follows. The dashes represent a
+movement of the flag from a position in front of the left
+shoulder to near the ground on the right side and the dots a
+movement from the left shoulder to the right shoulder.
+
+TABLE 3.
+
+MORSE ALPHABET.
+
+E  .
+A  .-
+R  .-.
+L  .-..
+W  .--
+P  .--.
+J  .---
+I  ..
+U  ..-
+F  ..-.
+S  ...
+V  ...-
+H  ....
+T  -
+N  -.
+K  -.-
+C  -.-.
+Y  -.--
+D -..
+X  -..-
+B  -...
+M  --
+G  --.
+Q  --.-
+Z  --..
+O  ---
+
+The signal to attract attention at starting and to signify the
+end of the message is  .. .. .. continued until it is
+acknowledged with a similar sign by the other observer; that
+for a repetition is .. -- .. which is signalled when any part
+of the message is not understood, otherwise after each word is
+signalled the receiver waves - to indicate he understands it.
+Until proficiency is attained, two copies of the alphabet
+should be kept by each observer for reference, one for
+dispatching a message arranged in alphabetical order and the
+other far reading a message arranged as set out above. The
+white flag should be used when standing against a dark
+background, and the blue one when on the skyline or against a
+light background.
+
+The conditions in tidal rivers vary somewhat from those
+occurring on the coast. As the crest of the tidal wave passes
+the mouth of the river a branch wave is sent up the river. This
+wave has first to overcome the water flowing down the river,
+which is acting in opposition to it, and in so doing causes a
+banking up of the water to such a height that the inclination
+of the surface is reversed to an extent sufficient to cause a
+tidal current to run up the river. The momentum acquired by the
+water passing up-stream carries it to a higher level towards
+the head of the river than at the mouth, and, similarly, in
+returning, the water flowing down the river gains sufficient
+impetus to scoop out the water at the mouth and form a low
+water below that in the sea adjoining. Owing to a flow of
+upland water down a river the ebb lasts longer than the flood
+tide by a period, increasing in length as the distance from the
+mouth of the river increases; and, similarly to the sea, the
+current may continue to run down a river after the tide has
+turned and the level of the water is rising. The momentum of
+the tide running up the centre of the river is in excess of
+that along the banks, so that the current changes near the
+shore before it does in the middle, and, as the sea water is of
+greater specific gravity than the fresh, weighing 64 lb per
+cubic foot against 62-1/2 lb, it flows up the bed of the river
+at the commencement of the tide, while the fresh water on the
+surface is running in the opposite direction. After a time the
+salt water becomes diffused in the fresh, so that the density
+of the water in a river decreases as the distance from the sea
+increases. The disposal of sewage discharged into a river is
+due primarily to the mixing action which is taking place;
+inasmuch as the tidal current which is the transporting agent
+rarely flows more rapidly than from two to four miles per hour,
+or, say, twelve to fifteen miles per tide. The extent to which
+the suspended matter is carried back again up stream when the
+current turns depends upon the quantity of upland water which
+has flowed into the upper tidal part of the river during the
+ebb tide, as this water occupies a certain amount of space,
+according to the depth and width of the river, and thus
+prevents the sea water flowing back to the position it occupied
+on the previous tide, and carrying with it the matter in
+suspension. The permanent seaward movement of sewage discharged
+into the Thames at Barking when there is only a small quantity
+of upland water is at the rate of about one mile per day,
+taking thirty days to travel the thirty-one miles to the sea,
+while at the mouth of the river the rate does not exceed one-
+third of a mile per day.
+
+
+CHAPTER IV.
+
+SELECTION OF SITE FOR OUTFALL SEWER.
+
+
+The selection of the site for the sea outfall sewer is a matter
+requiring a most careful consideration of the many factors
+bearing on the point, and the permanent success of any scheme
+of sewage disposal depends primarily upon the skill shown in
+this matter. The first step is to obtain a general idea of the
+tidal conditions, and to examine the Admiralty charts of the
+locality, which will show the general set of the main currents
+into which it is desirable the sewage should get as quickly as
+possible. The main currents may be at some considerable
+distance from the shore, especially if the town is situated in
+a bay, when the main current will probably be found running
+across the mouth of it from headland to headland. The sea
+outfall should not be in the vicinity of the bathing grounds,
+the pier, or parts of the shore where visitors mostly
+congregate; it should not be near oyster beds or lobster
+grounds. The prosperity--in fact, the very existence--of most
+seaside towns depends upon their capability of attracting
+visitors, whose susceptibilities must be studied before
+economic or engineering questions, and there are always
+sentimental objections to sewage works, however well designed
+and conducted they may be.
+
+It is desirable that the sea outfall should be buried in the
+shore for the greater part of its length, not only on account
+of these sentimental feelings, but as a protection from the
+force of the waves, and so that it should not interfere with
+boating; and, further, where any part of the outfall between
+high and low water mark is above the shore, scouring of the
+beach will inevitably take place on each side of it. The
+extreme end of the outfall should be below low-water mark of
+equinoctial tides, as it is very objectionable to have sewage
+running across the beach from the pipe to the water, and if the
+foul matter is deposited at the edge of the water it will
+probably be brought inland by the rising tide. Several possible
+positions may present themselves for the sea outfall, and a few
+trial current observations should be made in these localities
+at various states of the tides and plotted on to a 1:2500
+ordnance map. The results of these observations will probably
+reduce the choice of sites very considerably.
+
+Levels should be taken of the existing subsidiary sewers in the
+town, or, if there are none, the proposed arrangement of
+internal sewers should be sketched out with a view to their
+discharging their contents at one or other of the points under
+consideration. It may be that the levels of the sewers are such
+that by the time they reach the shore they are below the level
+of low water, when, obviously, pumping or other methods of
+raising the sewage must be resorted to; if they are above low
+water, but below high water, the sewage could be stored during
+high water and run off at or near low water; or, if they are
+above high water, the sewage could run off continuously, or at
+any particular time that might be decided.
+
+Observations of the currents should now be made from the
+selected points, giving special attention to those periods
+during which it is possible to discharge the sewage having
+regard to the levels of the sewers. These should be made with
+the greatest care and accuracy, as the final selection of the
+type of scheme to be adopted will depend very largely on the
+results obtained and the proper interpretation of them, by
+estimating, and mentally eliminating, any disturbing
+influences, such as wind, etc. Care must also be taken in
+noting the height of the tide and the relative positions of the
+sun, moon, and earth at the time of making the observations,
+and in estimating from such information the extent to which the
+tides and currents may vary at other times when those bodies
+are differently situated.
+
+It is obvious that if the levels of the sewers and other
+circumstances are such that the sewage can safely be discharged
+at low water, and the works are to be constructed accordingly,
+it is most important to have accurate information as to the
+level of the highest low water which may occur in any ordinary
+circumstances. If the level of a single low water, given by a
+casual observation, is adopted without consideration of the
+governing conditions, it may easily be that the tide in
+question is a low one, that may not be repeated for several
+years, and the result would be that, instead of having a free
+outlet at low water, the pipe would generally be submerged, and
+its discharging capacity very greatly reduced.
+
+The run of the currents will probably differ at each of the
+points under consideration, so that if one point were selected
+the best result would be obtained by discharging the sewage at
+high water and at another point at low water, whereas at a
+third point the results would show that to discharge there
+would not be satisfactory at any stage of the tide unless the
+sewage were first partially or even wholly purified. If these
+results are considered in conjunction with the levels of the
+sewers definite alternative schemes, each of which would work
+satisfactory may be evolved, and after settling them in rough
+outline, comparative approximate estimates should be prepared,
+when a final scheme may be decided upon which, while giving the
+most efficient result at the minimum cost, will not arouse
+sentimental objections to a greater extent than is inherent to
+all schemes of sewage disposal.
+
+Having thus selected the exact position of the outfall, the
+current observations from that point should be completed, so
+that the engineer may be in a position to state definitely the
+course which would be taken by sewage if discharged under any
+conditions of time or tide. This information is not
+particularly wanted by the engineer, but the scheme will have
+to receive the sanction of the Local Government Board or of
+Parliament, and probably considerable opposition will be raised
+by interested parties, which must be met at all points and
+overcome. In addition to this, it may be possible, and
+necessary, when heavy rain occurs, to allow the diluted sewage
+to escape into the sea at any stage of the tide; and, while it
+is easy to contend that it will not then be more impure than
+storm water which is permitted to be discharged into inland
+streams during heavy rainfall, the aforesaid sentimentalists
+may conjure up many possibilities of serious results. As far as
+possible the records should indicate the course taken by floats
+starting from the outfall, at high water, and at each regular
+hour afterwards on the ebb tide, as well as at low water and
+every hour on the flood tide. It is not, however, by any means
+necessary that they should be taken in this or any particular
+order, because as the height of the tide varies each day an
+observation taken at high water one day is not directly
+comparable with one taken an hour after high water the next
+day, and while perhaps relatively the greatest amount of
+information can be gleaned from a series of observations taken
+at the same state of the tide, but on tides of differing
+heights, still, every observation tells its own story and
+serves a useful purpose.
+
+Deep floats and surface floats should be used concurrently to
+show the effect of the wind, the direction and force of which
+should be noted. If it appears that with an on-shore wind
+floating particles would drift to the shore, screening will be
+necessary before the sewage is discharged. The floats should be
+followed as long as possible, but at least until the turn of
+the current--that is to say, a float put in at or near high
+water should be followed until the current has turned at or
+near low water, and one put in at low water should be followed
+until after high water. In all references to low water the
+height of the tide given is that of the preceding high water.
+
+The time at which the current turns relative to high and low
+water at any place will be found to vary with the height of the
+tide, and all the information obtained on this point should be
+plotted on squared paper as shown on Fig. 10, which represents
+the result of observations taken near the estuary of a large
+river where the conditions would be somewhat different from
+those holding in the open sea. The vertical lines represent the
+time before high or low water at which the current turned, and
+the horizontal lines the height of the tide, but the data will,
+of course, vary in different localities.
+
+[Illustration: Hours before turn of tide. FIG 10]
+
+It will be noticed that certain of the points thus obtained can
+be joined up by a regular curve which can be utilised for
+ascertaining the probable time at which the current will turn
+on tides of height intermediate to those at which observations
+were actually taken. For instance, from the diagram given it
+can be seen that on a 20 ft tide the current will turn thirty
+minutes before the tide, or on a 15 ft tide the current will
+turn one hour before the tide. Some of the points lie at a
+considerable distance from the regular curve, showing that the
+currents on those occasions were affected by some disturbing
+influence which the observer will probably be able to explain
+by a reference to his notes, and therefore those particular
+observations must be used with caution.
+
+The rate of travel of the currents varies in accordance with
+the time they have been running. Directly after the turn there
+is scarcely any movement, but the speed increases until it
+reaches a maximum about three hours later and then it decreases
+until the next turn, when dead water occurs again.
+
+Those observations which were started at the turn of the
+current and continued through the whole tide should be plotted
+as shown in Fig. 11, which gives the curves relating to three
+different tides, but, provided a sufficiently large scale is
+adopted, there is no reason why curves relating to the whole
+range of the tides should not be plotted on one diagram. This
+chart shows the total distance that would be covered by a float
+according to the height of the tide; it also indicates the
+velocity of the current from time to time. It can be used in
+several ways, but as this necessitates the assumption that with
+tides of the same height the flow of the currents is absolutely
+identical along the coast in the vicinity of the outfall, the
+diagram should be checked as far as possible by any
+observations that may be taken at other states of tides of the
+same heights. Suppose we require to know how far a float will
+travel if started at two hours after high water on a 12 ft
+tide. From Fig. 10 we see that on a tide of this height the
+current turns two hours and a quarter before the tide;
+therefore two hours after high water will be four hours and a
+quarter after the turn of the current. If the float were
+started with the current, we see from Fig. 11 that it would
+have travelled three miles in four hours and a quarter; and
+subtracting this from four miles, which is its full travel on a
+whole tide, we see that it will only cover one mile in the two
+hours and a quarter remaining before the current turns to run
+back again.
+
+Although sewage discharged into the sea rapidly becomes so
+diffused as to lose its identity, still occasionally the
+extraneous substances in it, such as wooden matches, banana
+skins, etc., may be traced for a considerable distance; so
+that, as the sewage continues to be discharged into the sea
+moving past the outfall, there is formed what may be described
+as a body or column of water having possibilities of sewage
+contamination. If the time during which sewage is discharged is
+limited to two hours, and starts, say, at the turn of the
+current on a 12 ft tide, we see from Fig. 11 that the front of
+this body of water will have reached a point five-eighths of a
+mile away when the discharge ceases; so that there will be a
+virtual column of water of a total length of five-eighths of a
+mile, in which is contained all that remains of the noxious
+matters, travelling through the sea along the course of the
+current. We see, further, that at a distance of three miles
+away this column would only take thirty minutes to pass a given
+point. The extent of this column of water will vary
+considerably according to the tide and the time of discharge;
+for instance, on a 22 ft tide, if the discharge starts one hour
+after the turn of the current and continues for two hours, as
+in the previous example, it will form a column four miles long,
+whereas if it started two hours after the current, and
+continued for the same length of time, the column would be six
+miles and a half long, but the percentage of sewage in the
+water would be infinitesimal.
+
+[Illustration: Hours after turn of current FIG. 11]
+
+In some cases it may be essential that the sewage should be
+borne past a certain point before the current turns in order to
+ensure that it shall not be brought back on the return tide to
+the shore near the starting point. In other words, the sewage
+travelling along the line of a branch current must reach the
+junction on the line of the main current by a certain time in
+order to catch the connection. Assuming the period of discharge
+will be two hours, and that the point which it is necessary to
+clear is situated three miles and a half from the outfall, the
+permissible time to discharge the sewage according to the
+height of the tide can be obtained from Fig. 11. Taking the 22
+ft tide first, it will be seen that if the float started with
+the current it would travel twelve miles in the tide; three and
+a half from twelve leaves eight and a half miles. A vertical line
+dropped from the intersection of the eight miles and a half line
+with the curve of the current gives the time two hours and a half
+before the end, or four hours after the start of the current at which
+the discharge of the sewage must cease at the outfall in order that
+the rear part of the column can reach the required point before
+the current turns. As on this tide high water is about fifteen
+minutes after the current, the latest time for the two hours of
+discharge must be from one hour and three-quarters to three
+hours and three-quarters after high water. Similarly with the
+12 ft tide having a total travel of four miles: three and a
+half from four leaves half a mile, and a vertical line from the
+half-mile intersection gives one hour and three-quarters after
+the start of the current as the time for discharge to cease.
+High water is two hours and a quarter after the current;
+therefore the latest time for the period of discharge would be
+from two hours and a half to half an hour before high water,
+but, as during the first quarter of an hour the movement of the
+current, though slight, would be in the opposite direction, it
+would be advisable to curtail the time of discharge, and say
+that it should be limited to between two hours and a quarter
+and half an hour before high water. It is obvious that if
+sewage is discharged about two hours after high water the
+current will be nearing its maximum speed, but it will only
+have about three hours to run before it turns; so that,
+although the sewage may be removed with the maximum rapidity
+from the vicinity of the sea outfall, it will not be carried to
+any very great distance, and, of course, the greater the
+distance it is carried the more it will be diffused. It must be
+remembered that the foregoing data are only applicable to the
+locality they relate to, although after obtaining the necessary
+information similar diagrams can be made and used for other
+places; but enough has been said to show that when it is
+necessary to utilise the full effect of the currents the sewage
+should be discharged at a varying time before high or low
+water, as the case may be, according to the height of the tide.
+
+
+CHAPTER V.
+
+VOLUME OF SEWAGE.
+
+
+The total quantity of sewage to be dealt with per day can be
+ascertained by gauging the flow in those cases where the sewers
+are already constructed, but where the scheme is an entirely
+new one the quantity must be estimated. If there is a water
+supply system the amount of water consumed per day, after
+making due allowance for the quantity used for trade purposes
+and street watering, will be a useful guide. The average amount
+of water used per head per day for domestic purposes only may
+be taken as follows:--
+
+
+DAILY WATER SUPPLY
+(Gallons per head per day.)
+
+Dietetic purposes (cooking, drinking, &c.)    1
+Cleansing purposes (washing house utensils,
+clothes, &c.)                                 6
+
+If water-closets are in general use, add      3
+
+If baths are in general use, add              5
+
+Total                                        15
+
+It therefore follows that the quantity of domestic sewage to be
+expected will vary from 7 to 15 gallons per head per day,
+according to the extent of the sanitary conveniences installed
+in the town; but with the advent of an up-to-date sewage
+scheme, probably accompanied by a proper water supply, a very
+large increase in the number of water-closets and baths may
+confidently be anticipated, and it will rarely be advisable to
+provide for a less quantity of domestic sewage than 15 gallons
+per head per day for each of the resident inhabitants. The
+problem is complicated in sea coast towns by the large influx
+of visitors during certain short periods of the year, for whom
+the sewerage system must be sufficient, and yet it must not be
+so large compared with the requirements of the residential
+population that it cannot be kept in an efficient state during
+that part of the year when the visitors are absent. The
+visitors are of two types--the daily trippers and those who
+spend several days or weeks in the town. The daily tripper may
+not directly contribute much sewage to the sewers, but he does
+indirectly through those who cater for his wants. The resident
+visitor will spend most of the day out of doors, and therefore
+cause less than the average quantity of water to be used for
+house-cleansing purposes, in addition to which the bulk of the
+soiled linen will not be washed in the town. An allowance of 10
+gallons per head per day for the resident visitor and 5 gallons
+per head per day for the trippers will usually be found a
+sufficient provision.
+
+It is, of course, well known that the flow of sewage varies
+from day to day as well as from hour to hour, and while there
+is no necessity to consider the daily variation--calculations
+being based on the flow of the maximum day--the hourly
+variation plays a most important part where storage of the
+sewage for any length of time is an integral part of the
+scheme. There are many important factors governing this
+variation, and even if the most elaborate calculations are made
+they are liable to be upset at any time by the unexpected
+discharge of large quantities of trade wastes. With a small
+population the hourly fluctuation in the quantity of sewage
+flowing into the sewers is very great, but it reduces as the
+population increases, owing to the diversity of the occupations
+and habits of the inhabitants. In all cases where the
+residential portions of the district are straggling, and the
+outfall works are situated at a long distance from the centre
+of the town, the flow becomes steadier, and the inequalities
+are not so prominently marked at the outlet end of the sewer.
+The rate of flow increases more or less gradually to the
+maximum about midday, and falls off in the afternoon in the
+same gradual manner. The following table, based on numerous
+gaugings, represents approximately the hourly variations in the
+dry weather flow of the sewage proper from populations
+numbering from 1,000 to 10,000, and is prepared after deducting
+all water which may be present in the sewers resulting from the
+infiltration of subsoil water through leaky joints in the
+pipes, and from defective water supply fittings as ascertained
+from the night gaugings. Larger towns have not been included in
+the table because the hourly rates of flow are generally
+complicated by the discharge of the trade wastes previously
+referred to, which must be the subject of special investigation
+in each case.
+
+
+[TABLE NO. 4.
+
+APPROXIMATE HOURLY VARIATION IN THE FLOW OF SEWAGE.
+Percentage of Total Flow Passing Off in each Hour.
+
+-----------+------------------------------------------------
+           |                   Population.
+    Hour.  +-----+-----+-----+-----+-----+-----+-----+------
+           |1,000|2,000|3,000|4,000|5,000|6,000|8,000|10,000
+-----------+-----+-----+-----+-----+-----+-----+-----+------
+ Midnight  | 1.0 | 1.0 | 1.2 | 1.3 | 1.5 | 1.5 | 1.8 | 2.0
+  1.0 a.m. | 0.7 | 0.7 | 0.7 | 0.8 | 0.8 | 1.0 | 1.0 | 1.0
+  2.0  "   | nil | nil | nil | nil | 0.2 | 0.2 | 0.3 | 0.5
+  3.0  "   | nil | nil | nil | nil | nil | nil | nil | 0.2
+  4.0  "   | nil | nil | nil | nil | nil | nil | nil | nil
+  5.0  "   | nil | nil | nil | nil | nil | nil | nil | 0.2
+  6.0  "   | 0.2 | 0.2 | 0.3 | 0.5 | 0.6 | 0.5 | 0.7 | 0.8
+  7.0  "   | 0.5 | 0.5 | 1.0 | 1.5 | 1.6 | 1.7 | 2.0 | 2.5
+  8.0  "   | 1.0 | 1.5 | 2.0 | 2.5 | 3.0 | 3.5 | 4.0 | 5.0
+  9.0  "   | 3.5 | 4.5 | 4.5 | 4.8 | 5.5 | 5.8 | 6.0 | 6.5
+ 10.0  "   | 6.5 | 6.5 | 6.8 | 7.0 | 7.5 | 7.7 | 8.0 | 8.0
+ 11.0  "   |10.5 |11.0 |10.5 |10.0 | 9.6 | 9.3 | 9.0 | 8.8
+ Noon      |11.0 |11.3 |10.8 |10.3 | 9.3 | 9.5 | 9.2 | 9.0
+  1.0 p.m. | 6.0 | 5.5 | 6.0 | 6.7 | 7.0 | 7.2 | 7.3 | 7.5
+  2.0  "   | 7.0 | 7.3 | 7.0 | 7.0 | 6.5 | 6.5 | 6.2 | 6.0
+  3.0  "   | 6.8 | 6.5 | 6.5 | 6.5 | 6.5 | 6.3 | 6.3 | 6.0
+  4.0  "   | 7.5 | 7.5 | 7.3 | 7.0 | 6.7 | 6.5 | 6.2 | 6.7
+  5.0  "   | 6.5 | 6.5 | 6.5 | 6.3 | 6.0 | 6.0 | 6.0 | 5.8
+  6.0  "   | 4.5 | 4.5 | 4.7 | 4.8 | 5.0 | 5.0 | 5.0 | 5.2
+  7.0  "   | 6.5 | 6.2 | 6.0 | 5.8 | 5.5 | 5.5 | 5.5 | 4.7
+  8.0  "   | 6.2 | 6.0 | 5.8 | 5.5 | 5.5 | 5.3 | 5.0 | 4.8
+  9.0  "   | 5.0 | 4.8 | 4.7 | 4.5 | 4.5 | 4.5 | 4.5 | 4.0
+ 10.0  "   | 4.8 | 4.6 | 4.2 | 4.0 | 3.8 | 3.5 | 3.0 | 3.0
+ 11.0  "   | 4.3 | 3.5 | 3.5 | 3.2 | 3.2 | 3.0 | 3.0 | 2.8
+-----------+-----+-----+-----+-----+-----+-----+-----+------
+     Total |100.0|100.0|100.0|100.0|100.0|100.0|100.0|100.0
+-----------+-----+-----+-----+-----+-----+-----+-----+------
+
+ANALYSIS OF FLOW]
+
+Percentage of total flow passing off during period named.
+
+---------------------+----------------------------------------------------------------+
+                     |                          Population.                           |
+                     +-------+-------+-------+-------+-------+-------+-------+--------+
+                     | 1,000 | 2,000 | 3,000 | 4,000 | 5,000 | 6,000 | 8,000 | 10,000 |
+---------------------+-------+-------+-------+-------+-------+-------+-------+--------+
+7.0 a.m. to 7.0 p.m  |  77.3 |  78.8 |  78.6 |  78.7 |  78.5 |  78.8 |  78.7 |  75.2  |
+7.0 p.m. to 7.0 a.m  |  22.7 |  21.2 |  21.4 |  21.3 |  21.5 |  21.2 |  21.3 |  21.8  |
+Maximum 12 hrs.      |  84.0 |  83.6 |  82.6 |  81.7 |  81.0 |  80.6 |  79.7 |  78.2  |
+    "   10  "        |  72.8 |  72.8 |  72.1 |  71.4 |  70.0 |  69.8 |  69.2 |  68.5  |
+    "    9  "        |  66.3 |  66.6 |  66.1 |  65.6 |  64.5 |  64.8 |  64.2 |  63.3  |
+    "    8  "        |  61.8 |  62.1 |  61.4 |  60.8 |  59.5 |  59.0 |  58.2 |  57.5  |
+    "    6  "        |  48.8 |  49.1 |  43.1 |  47.5 |  46.8 |  46.5 |  46.0 |  45.8  |
+    "    3  "        |  23.0 |  28.8 |  27.11|  27.3 |  26.8 |  26.5 |  26.2 |  25.8  |
+    "    2  "        |  21.5 |  22.3 |  21.3 |  20.3 |  19.3 |  18.5 |  18.2 |  17.3  |
+    "    1  "        |  11.0 |  11.3 |  10.8 |  10.3 |   9.8 |   9.5 |   9.2 |  9.0   |
+Minimum  9  "        |   3.4 |   3.9 |   5.2 |   6.6 |   7.5 |   6.9 |   8.8 |  10.0  |
+    "   10  "        |   6.9 |   7.4 |   8.7 |   9.8 |  10.7 |  10.4 |  11.8 |  13.0  |
+---------------------+-------+-------+-------+-------+-------+-------+-------+--------+
+
+The data in the foregoing table, so far as they relate to
+populations of one, five, and ten thousand respectively, are
+reproduced graphically in Fig. 12.
+
+This table and diagram relate only to the flow of sewage--that
+is, water which is intentionally fouled; but unfortunately it
+is almost invariably found that the flow in the sewers is
+greater than is thus indicated, and due allowance must be made
+accordingly. The greater the amount of extra liquid flowing in
+the sewers as a permanent constant stream, the less marked will
+be the hourly variations; and in one set of gaugings which came
+under the writer's notice the quantity of extraneous liquid in
+the sewers was so greatly in excess of the ordinary sewage flow
+that, taken as a percentage of the total daily flow, the hourly
+variation was almost imperceptible.
+
+[Illustration: Fig 12 Hourly Variation in Flow of Sewage.]
+
+Provision must be made in the scheme for the leakage from the
+water fittings, and for the subsoil water, which will
+inevitably find its way into the sewers. The quantity will vary
+very considerably, and is difficult of estimation. If the water
+is cheap, and the supply plentiful, the water authority may not
+seriously attempt to curtail the leakage; but in other cases it
+will be reduced to a minimum by frequent house to house
+inspection; some authorities going so far as to gratuitously
+fix new washers to taps when they are required. Theoretically,
+there should be no infiltration of subsoil water, as in nearly
+all modern sewerage schemes the pipes are tested and proved to be
+watertight before the trenches are filled in; but in practice this
+happy state is not obtainable. The pipes may not all be bedded as
+solidly as they should be, and when the pressure of the earth comes
+upon them settlement takes place and the joints are broken. Joints
+may also be broken by careless filling of trenches, or by men
+walking upon the pipes before they are sufficiently covered.
+Some engineers specify that all sewers shall be tested and
+proved to be absolutely water-tight before they are "passed"
+and covered in, but make a proviso that if, after the
+completion of the works, the leakage into any section exceeds
+1/2 cubic foot per minute per mile of sewer, that length shall
+be taken up and relaid. Even if the greatest vigilance is
+exercised to obtain water-tight sewers, the numerous house
+connections are each potential sources of leakage, and when the
+scheme is complete there may be a large quantity of
+infiltration water to be dealt with. Where there are existing
+systems of old sewers the quantity of infiltration water can be
+ascertained by gauging the night flow; and if it is proved to
+be excessive, a careful examination of the course of the sewers
+should be made with a view to locating the places where the
+greater part of the leakage occurs, and then to take such steps
+as may be practicable to reduce the quantity.
+
+
+CHAPTER VI.
+
+GAUGING FLOW IN SEWERS.
+
+
+A method frequently adopted to gauge the flow of the sewage is
+to fix a weir board with a single rectangular notch across the
+sewer in a convenient manhole, which will pond up the sewage;
+and then to ascertain the depth of water passing over the notch
+by measurements from the surface of the water to a peg fixed
+level with the bottom of the notch and at a distance of two or
+three feet away on the upstream side. The extreme variation in
+the flow of the sewage is so great, however, that if the notch
+is of a convenient width to take the maximum flow, the hourly
+variation at the time of minimum flow will affect the depth of
+the sewage on the notch to such a small extent that difficulty
+may be experienced in taking the readings with sufficient
+accuracy to show such variations in the flow, and there will be
+great probability of incorrect results being obtained by reason
+of solid sewage matter lodging on the notch. When the depth on
+a l2 in notch is about 6 in, a variation of only 1-16th inch in
+the vertical measurement will represent a difference in the
+rate of the flow of approximately 405 gallons per hour, or
+about 9,700 gallons per day. When the flow is about lin deep
+the same variation of 1-16th in will represent about 162
+gallons per hour, or 3,900 gallons per day. Greater accuracy
+will be obtained if a properly-formed gauging pond is
+constructed independently of the manhole and a double
+rectangular notch, similar to Fig. 13, or a triangular or V-
+shaped notch, as shown in Fig. 14, used in lieu of the simpler
+form.
+
+In calculating the discharge of weirs there are several formulæ
+to choose from, all of which will give different results,
+though comparative accuracy has been claimed for each. Taking
+first a single rectangular notch and reducing the formulae to
+the common form:
+
+                                          ____
+Discharge per foot in width of weir = C \/ H^3
+
+where H = depth from the surface of still water above the weir to the level of
+the bottom of the notch, the value of C will be as set out in the following
+table:--
+
+  TABLE No. 5.
+
+  RECTANGULAR NOTCHES.
+                                                  _____
+       Discharge per foot in width of notch = C \/ H^3
+  ------------------------------------------------------------------
+                                Values of C.
+  --------------------------------------+---------------------------
+   H Measured in |        Feet.         |        Inches.
+  ---------------+-----------+----------+-----------+---------------
+                 | Gallons   |  C. ft  | Gallons   |  C. ft
+  Discharge in   | per hour. | per min | per hour. | per min
+  ---------------+-----------+----------+-----------+---------------
+     Authority.  |           |          |           |
+  Box            |   79,895  |   213.6  |    1,922  |      5.13
+  Cotterill      |   74,296  |   198.6  |    1,787  |      4.78
+  Francis        |   74,820  |   200.0  |    1,800  |      4.81
+  Mo'esworth     |   80,057  |   214.0  |    1,926  |      5.15
+  Santo Crimp    |   72,949  |   195.0  |    1,755  |      4.69
+  ---------------+-----------+----------+-----------+---------------
+
+In the foregoing table Francis' short formula is used, which
+does not take into account the end contractions and therefore
+gives a slightly higher result than would otherwise be the
+case, and in Cotterill's formula the notch is taken as being
+half the width of the weir, or of the stream above the weir. If
+a cubic foot is taken as being equal to 6-1/4 gallons instead
+of 6.235 gallons, then, cubic feet per minute multiplied by
+9,000 equals gallons per day. This table can be applied to
+ascertain the flow through the notch shown in Fig. 13 in the
+following way. Suppose it is required to find the discharge in
+cubic feet per minute when the depth of water measured in the
+middle of the notch is 4 in Using Santo Crimp's formula the
+result will be
+
+C\/H^3 = 4.69 \/4^3 = 4.69 x 8 = 37.52
+
+cubic feet per foot in width of weir, but as the weir is only 6
+in wide, we must divide this figure by 2, then
+
+37.52/2 = 18.76 cubic feet, which is the discharge per minute.
+
+
+  +------+                    +------+
+  |      |       FIG. 13      |      |
+  |      |                    |      |
+  |      |                    |      |
+  |      +------+      +------+      |
+  |             |      |             |
+  |             |      |             |
+  |             |      |             |
+  |             +------+             |
+  |                                  |
+  |                                  |
+  |                                  |
+  |                                  |
+  +----------------------------------+
+
+Fig. 13.-ELEVATION OF DOUBLE RECTANGULAR NOTCHED GAUGING WEIR.
+
+
+  +------+                    +------+
+  |       \      FIG. 13     /       |
+  |        \                /        |
+  |         \              /         |
+  |          \            /          |
+  |           \          /           |
+  |            \        /            |
+  |             \      /             |
+  |              \    /              |
+  |               \  /               |
+  |                \/                |
+  |                                  |
+  |                                  |
+  |                                  |
+  |                                  |
+  |                                  |
+  +----------------------------------+
+
+FIG. 14.-ELEVATION OF TRIANGULAR NOTCHED GAUGING WEIR.
+
+FIG. 15.-LONGITUDINAL SECTION, SHOWING WEIR, GAUGE-PEG, AND HOOK-GAUGE
+
+
+If it is required to find the discharge in similar terms with a
+depth of water of 20 in, two sets of calculations are required.
+First 20 in depth on the notch 6 in wide, and then 4 in depth
+on the notch, 28 in minus 6 in, or 1 ft wide.
+
+       ____            _____
+(1) C\/ H^3 = 4.69/2 \/ 10^3 = 2.345 x 31.62     =  74.15
+       ____                ____
+(2) C\/ H^3 = 1.0 x 4.69 \/ 4^3 = 1.0 x 4.69 x 8 =  37.52
+
+Total in c. ft per min                          = 111.67
+
+The actual discharge would be slightly in excess of this.
+
+In addition to the circumstances already enumerated which
+affect the accuracy of gaugings taken by means of a weir fixed
+in a sewer there is also the fact that the sewage approaches
+the weir with a velocity which varies considerably from time to
+time. In order to make allowance for this, the head calculated
+to produce the velocity must be added to the actual head. This
+can be embodied in the formula, as, for example, Santo Crimp's
+formula for discharge in cubic feet per minute, with H measured
+in feet, is written
+
+       __________________
+  195\/(11^3 + .035V - H^2
+
+instead of the usual form of
+       ____
+  195\/ H^3, which is used
+
+when there is no velocity to take into account. The V
+represents the velocity in feet per second.
+
+Triangular or V notches are usually formed so that the angle
+between the two sides is 90°, when the breadth at any point
+will always be twice the vertical height measured at the
+centre. The discharge in this case varies as the square root of
+the fifth power of the height instead of the third power as
+with the rectangular notch. The reason for the alteration of
+the power is that _approximately_ the discharge over a notch
+with any given head varies as the cross-sectional area of the
+body of water passing over it. The area of the 90° notch is
+half that of a circumscribing rectangular notch, so that the
+discharge of a V notch is approximately equal to that of a
+rectangular notch having a width equal to half the width of the
+V notch at water level, and as the total width is equal to
+double the depth of water passing over the notch the half width
+is equal to the full depth and the discharge is equal to that
+of a rectangular notch having a width equal to the depth of
+water flowing over the V notch from time to time, both being
+measured in the same unit, therefore
+      ____                   ____                  ____
+  C \/ H^3 becomes C x H x \/ H^3 which equals C \/ H^5.
+
+The constant C will, however, vary from that for the
+rectangular notch to give an accurate result.
+
+
+  TABLE No. 6.
+
+  TRIANGULAR OR V NOTCHES.
+                    ____
+  Discharge = C x \/ H^5.
+
+  Values of C.
+
+  --------------+-----------------------+------------------------
+  H Measured in |         Feet.         |        Inches.
+  --------------+----------+------------+-----------+------------
+  Discharge in  | Gallons  | C. ft per  | Gallons   | C. ft per
+                | per hour |    min     | per hour. |    min
+  --------------+----------+------------+-----------+------------
+  Alexander     |  59,856  |    160     |   120.0   |    0.321
+  Cotterill     |  57,013  |    152.4   |   114.3   |    0.306
+  Molesworth    |  59,201  |    158.2   |   118.7   |    0.317
+  Thomson       |  57,166  |    152.8   |   114.6   |    0.306
+  --------------+----------+------------+-----------+------------
+
+
+Cotterill's formula for the discharge in cubic feet per minute
+is
+               _______
+  16 x C x B \/ 2g H^3
+
+when B = breadth of notch in feet and H = height of water in
+feet and can be applied to any proportion of notch. When B =
+2H, that is, a 90° notch, C = .595 and the formula becomes
+          ____
+  152.4 \/ H^5,
+
+and when B = 4H, that is, a notch containing an angle of 126°
+51' 36", C = .62 and the formula is then written
+        ____
+  318 \/ H^5.
+
+
+The measurements of the depth of the water above the notch
+should be taken by a hook-gauge, as when a rule or gauge-slate
+is used the velocity of the water causes the latter to rise as
+it comes in contact with the edge of the measuring instrument
+and an accurate reading is not easily obtainable, and, further,
+capillary attraction causes the water to rise up the rule above
+the actual surface, and thus to show a still greater depth.
+When using a hook-gauge the top of the weir, as well as the
+notch, should be fixed level and a peg or stake fixed as far
+back as possible on the upstream side of the weir, so that the
+top of the peg is level with the top of the weir, instead of
+with the notch, as is the case when a rule or gauge-slate is
+used. The hook-gauge consists of a square rod of, say, lin
+side, with a metal hook at the bottom, as shown in Fig. 15, and
+is so proportioned that the distance from the top of the hook
+to the top of the rod is equal to the difference in level of
+the top of the weir and the sill of the notch. In using it the
+rod of the hook-gauge is held against the side of the gauge-peg
+and lowered into the water until the point of the hook is
+submerged. The gauge is then gently raised until the point of
+the hook breaks the surface of the water, when the distance
+from the top of the gauge-peg to the top of the rod of the
+hook-gauge will correspond with the depth of the water flowing
+over the weir.
+
+
+CHAPTER VII.
+
+RAINFALL.
+
+
+The next consideration is the amount of rain-water for which
+provision should be made. This depends on two factors: first,
+the amount of rain which may be expected to fall; and,
+secondly, the proportion of this rainfall which will reach the
+sewers. The maximum rate at which the rain-water will reach the
+outfall sewer will determine the size of the sewer and capacity
+of the pumping plant, if any, while if the sewage is to be
+stored during certain periods of the tide the capacity of the
+reservoir will depend upon the total quantity of rain-water
+entering it during such periods, irrespective of the rate of
+flow.
+
+Some very complete and valuable investigations of the flow of
+rain-water in the Birmingham sewers were carried out between
+1900 and 1904 by Mr. D. E. Lloyd-Davies, M.Inst.C. E., the
+results of which are published in Vol. CLXIV., Min Proc.
+Inst.C.E. He showed that the quantity reaching the sewer at any
+point was proportional to the time of concentration at that
+point and the percentage of impermeable area in the district.
+The time of concentration was arrived at by calculating the
+time which the rain-water would take to flow through the
+longest line of sewers from the extreme boundaries of the
+district to the point of observation, assuming the sewers to be
+flowing half full; and adding to the time so obtained the
+period required for the rain to get into the sewers, which
+varied from one minute where the roofs were connected directly
+with the sewers to three minutes where the rain had first to
+flow along the road gutters. With an average velocity of 3 ft
+per second the time of concentration will be thirty minutes for
+each mile of sewer. The total volume of rain-water passing into
+the sewers was found to bear the same relation to the total
+volume of rain falling as the maximum flow in the sewers bore
+to the maximum intensity of rainfall during a period equal to
+the time of concentration. He stated further that while the
+flow in the sewers was proportional to the aggregate rainfall
+during the time of concentration, it was also directly
+proportional to the impermeable area. Putting this into
+figures, we see that in a district where the whole area is
+impermeable, if a point is taken on the main sewers which is so
+placed that rain falling at the head of the branch sewer
+furthest removed takes ten minutes to reach it, then the
+maximum flow of storm water past that point will be
+approximately equal to the total quantity of rain falling over
+the whole drainage area during a period of ten minutes, and
+further, that the total quantity of rainfall reaching the
+sewers will approximately equal the total quantity falling. If,
+however, the impermeable area is 25 per cent. of the whole,
+then the maximum flow of storm water will be 25 per cent. of
+the rain falling during the time of concentration, viz., ten
+minutes, and the total quantity of storm water will be 25 per
+cent. of the total rainfall.
+
+If the quantity of storm water is gauged throughout the year it
+will probably be found that, on the average, only from 70 per
+cent. to 80 per cent. of the rain falling on the impermeable
+areas will reach the sewers instead of 100 per cent., as
+suggested by Mr. Lloyd-Davies, the difference being accounted
+for by the rain which is required to wet the surfaces before
+any flow off can take place, in addition to the rain-water
+collected in tanks for domestic use, rain required to fill up
+gullies the water level of which has been lowered by
+evaporation, and rain-water absorbed in the joints of the
+paving.
+
+The intensity of the rainfall decreases as the period over
+which the rainfall is taken is increased. For instance, a
+rainfall of lin may occur in a period of twenty minutes, being
+at the rate of 3 in per hour, but if a period of one hour is
+taken the fall during such lengthened time will be considerably
+less than 3 in In towns where automatic rain gauges are
+installed and records kept, the required data can be
+abstracted, but in other cases it is necessary to estimate the
+quantity of rain which may have to be dealt with.
+
+It is impracticable to provide sewers to deal with the maximum
+quantity of rain which may possibly fall either in the form of
+waterspouts or abnormally heavy torrential rains, and the
+amount of risk which it is desirable to run must be settled
+after consideration of the details of each particular case. The
+following table, based principally upon observations taken at
+the Birmingham Observatory, shows the approximate rainfall
+which may be taken according to the time of concentration.
+
+
+TABLE No. 7.
+
+INTENSITY OF RAINFALL DURING LIMITED PERIODS.
+                             Equivalent rate in inches per hour
+                             of aggregate rainfall during
+Time of Concentration,       period of concentration
+                             A     B     C     D     E
+ 5 minutes  ...............  1.75  2.00  3.00  --    --
+10   "      ...............  1.25  1.50  2.00  --    --
+15   "      ...............  1.05  1.25  1.50  --    --
+20   "      ...............  0.95  1.05  1.30  1.20  3.00
+25   "      ...............  0.85  0.95  1.15  --    --
+30   "      ...............  0.80  0.90  1.05  1.00  2.50
+35   "      ...............  0.75  0.85  0.95  --    --
+40   "      ...............  0.70  0.80  0.90  --    --
+45   "      ...............  0.65  0.75  0.85  --    --
+ 1 hour  ..................  0.50  0.60  0.70  0.75  1.80
+ 1-1/2 " ..................  0.40  0.50  0.60  --    1.40
+ 2   "   ..................  0.30  0.40  0.50  0.50  1.10
+
+
+The figures in column A will not probably be exceeded more than
+once in each year, those in column B will not probably be
+exceeded more than once in three years, while those in column C
+will rarely be exceeded at all. Columns D and E refer to the
+records tabulated by the Meteorological Office, the rainfall
+given in column D being described in their publication as
+"falls too numerous to require insertion," and those in column
+E as "extreme falls rarely exceeded." It must, however, be
+borne in mind that the Meteorological Office figures relate to
+records derived from all parts of the country, and although the
+falls mentioned may occur at several towns in any one year it
+may be many years before the same towns are again visited by
+storms of equal magnitude.
+
+While it is convenient to consider the quantity of rainfall for
+which provision is to be made in terms of the rate of fall in
+inches per hour, it will be useful for the practical
+application of the figures to know the actual rate of flow of
+the storm water in the sewers at the point of concentration in
+cubic feet per minute per acre. This information is given in
+the following Table No. 8, which is prepared from the figures
+given in Table No. 7, and is applicable in the same manner.
+
+
+TABLE No. 8.
+
+MAXIMUM FLOWS OF STORM WATER.
+
+
+--------------------------+----------------------------------
+                          |  Maximum storm water flow in
+                          |   cubic feet per min per acre
+                          |      of impervious area.
+  Time of Concentration.  +------+------+------+------+------
+                          |  A   |  B   |  C   |  D   |  E
+--------------------------+------+------+------+------+------
+   5 minutes              |  106 |  121 |  181 |   -- |   --
+  10   "                  |   75 |   91 |  121 |   -- |   --
+  15   "                  |   64 |   75 |   91 |   -- |   --
+  20   "                  |   57 |   64 |   79 |   73 |  181
+  25   "                  |   51 |   57 |   70 |   -- |   --
+  30   "                  |   48 |   54 |   64 |   61 |  151
+  35   "                  |   45 |   51 |   57 |   -- |   --
+  40   "                  |   42 |   48 |   54 |   -- |   --
+  45   "                  |   39 |   45 |   51 |   -- |   --
+  1    hour               |   30 |   36 |   42 |   45 |  109
+  1-1/2  "                |   24 |   30 |   36 |   -- |   85
+  2      "                |   18 |   24 |   30 |   30 |   67
+--------------------------+------+------+------+------+-------
+        l inch of rain = 3,630 cub. feet per acre.
+
+
+The amount of rainfall for which storage has to be provided is
+a difficult matter to determine; it depends on the frequency
+and efficiency of the overflows and the length of time during
+which the storm water has to be held up for tidal reasons. It
+is found that on the average the whole of the rain on a rainy
+day falls within a period of 2-1/2 hours; therefore, ignoring
+the relief which may be afforded by overflows, if the sewers
+are tide-locked for a period of 2-1/2 hours or over it would
+appear to be necessary to provide storage for the rainfall of a
+whole day; but in this case again it is permissible to run a
+certain amount of risk, varying with the length of time the
+sewers are tide-locked, because, first of all, it only rains on
+the average on about 160 days in the year, and, secondly, when
+it does rain, it may not be at the time when the sewers are
+tide-locked, although it is frequently found that the heaviest
+storms occur just at the most inconvenient time, namely, about
+high water. Table No. 9 shows the frequency of heavy rain
+recorded during a period of ten years at the Birmingham
+Observatory, which, being in the centre of England, may be
+taken as an approximate average of the country.
+
+TABLE No. 9.
+
+FREQUENCY OF HEAVY RAIN
+-------------------------------------------------------
+
+Total Daily Rainfall.    Average Frequency of Rainfall
+
+-------------------------------------------------------
+
+0.4 inches and over         155 times each year
+0.5        "                 93       "
+0.6        "                 68       "
+0.7        "                 50       "
+0.8        "                 33       "
+0.9        "                 22       "
+1.0        "                 17       "
+1.1        "                 Once each year
+1.2        "                 Once in 17 months
+1.25       "                     "    2 years
+1.3        "                     "    2-1/2
+1.4        "                     "    3-1/3
+1.5        "                     "    5 years
+1.6        "                     "    5 years
+1.7        "                     "    5 years
+1.8        "                     "   10 years
+1.9        "                     "   10 years
+2.0        "                     "   10 years
+
+--------------------------------------------------
+
+It will be interesting and useful to consider the records for
+the year 1903, which was one of the wettest years on record,
+and to compare those taken in Birmingham with the mean of those
+given in "Symons' Rainfall," taken at thirty-seven different
+stations distributed over the rest of the country.
+
+
+TABLE No. 10.
+RAINFALL FOR 1903.
+
+                                                    Mean of 37
+                                                    stations in
+                                       Birmingham   England and
+                                                    Wales.
+Daily Rainfall of 2 in and over ......   None        1 day
+Daily Rainfall of 1 in and over ......   3 days      6 days
+Daily Rainfall of 1/2 in and over ....  17 days     25 days
+Number of rainy days.................. 177 days    211 days
+Total rainfall  ......................  33.86 in   44.89 in
+Amount per rainy day  ................   0.19 in    0.21 in
+
+
+The year 1903 was an exceptional one, but the difference
+existing between the figures in the above table and the average
+figures in Table 9 are very marked, and serve to emphasise the
+necessity for close investigation in each individual case. It
+must be further remembered that the wettest year is not
+necessarily the year of the heaviest rainfalls, and it is the
+heavy rainfalls only which affect the design of sewerage works.
+
+
+CHAPTER VIII.
+
+STORM WATER IN SEWERS.
+
+
+If the whole area of the district is not impermeable the
+percentage which is so must be carefully estimated, and will
+naturally vary in each case. The means of arriving at an
+estimate will also probably vary considerably according to
+circumstances, but the following figures, which relate to
+investigations recently made by the writer, may be of interest.
+In the town, which has a population of 10,000 and an area of
+2,037 acres, the total length of roads constructed was 74,550
+lineal feet, and their average width was 36 ft, including two
+footpaths. The average density of the population was 4.9 people
+per acre. Houses were erected adjoining a length of 43,784
+lineal feet of roads, leaving 30,766 lineal feet, which for
+distinction may be called "undeveloped"--that is, the land
+adjoining them was not built over. Dividing the length of road
+occupied by houses by the total number of the inhabitants of
+the town, the average length of road per head was 4.37 ft, and
+assuming five people per house and one house on each side of
+the road we get ten people per two houses opposite each other.
+Then 10 x 4.37 = 43.7 lineal feet of road frontage to each pair
+of opposite houses. After a very careful inspection of the
+whole town, the average area of the impermeable surfaces
+appertaining to each house was estimated at 675 sq. ft, of
+which 300 sq. ft was apportioned to the front roof and garden
+paths and 375 sq. ft to the back roof and paved yards. Dividing
+these figures by 43.71 in ft of road frontage per house, we
+find that the effective width of the impermeable roadway is
+increased by 6 ft 10 in for the front portions of each house,
+and by a width of 8 ft 7 in, for the back portions, making a
+total width of 36 ft + 2(6 ft 10 in) + 2(8 ft 7 in) = 66 ft 10
+in, say 67 ft On this basis the impermeable area in the town
+therefore equals: 43,7841 in ft x 67 ft =2,933,528; and 30,766
+lin ft x 36 ft = 1,107,576.
+
+Total, 4,041,104 sq. ft, or 92.77 acres. As the population is
+10,000 the impermeable area equals 404, say, 400 sq. ft per
+head, or ~ (92.77 x 100) / 2037 = 4.5 per cent, of the whole
+area of the town.
+
+It must be remembered that when rain continues for long
+periods, ground which in the ordinary way would generally be
+considered permeable becomes soaked and eventually becomes more
+or less impermeable. Mr. D. E. Lloyd-Davies, M.Inst.C.E., gives
+two very interesting diagrams in the paper previously referred
+to, which show the average percentage of effective impermeable
+area according to the population per acre. This information,
+which is applicable more to large towns, has been embodied in
+Fig. 16, from which it will be seen that, for storms of short
+duration, the proportion of impervious areas equals 5 per cent.
+with a population of 4.9 per acre, which is a very close
+approximation to the 4.5 per cent. obtained in the example just
+described.
+
+Where the houses are scattered at long intervals along a road
+the better way to arrive at an estimate of the quantity of
+storm water which may be expected is to ascertain the average
+impervious area of, or appertaining to, each house, and divide
+it by five, so as to get the area per head. Then the flow off
+from any section of road is directly obtained from the sum of
+the impervious area due to the length of the road, and that due
+to the population distributed along it.
+
+[Illustration: FIG. 16.--VARIATION IN AVERAGE PERCENTAGE OF
+EFFECTIVE IMPERMEABLE AREA ACCORDING TO DENSITY OF POPULATION.]
+
+In addition to being undesirable from a sanitary point of view,
+it is rarely economical to construct special storm water
+drains, but in all cases where they exist, allowance must be
+made for any rain that may be intercepted by them. Short branch
+sewers constructed for the conveyance of foul water alone are
+usually 9in or 12 in in diameter, not because those sizes are
+necessary to convey the quantity of liquid which may be
+expected, but because it is frequently undesirable to provide
+smaller public sewers, and there is generally sufficient room
+for the storm water without increasing the size of the sewer.
+If this storm water were conveyed in separate sewers the cost
+would be double, as two sewers would be required in the place
+of one. In the main sewers the difference is not so great, but
+generally one large sewer will be more economical than two
+smaller ones. Where duplicate sewers are provided and arranged,
+so that the storm water sewer takes the rain-water from the
+roads, front roofs and gardens of the houses, and the foul
+water sewer takes the rain-water from the back roofs and paved
+yards,
+
+it was found in the case previously worked out in detail that
+in built-up roads a width of 36 ft + 2 (8 ft 7 in) = 53 ft 2
+in, or, say, 160 sq. ft per lineal yard of road would drain to
+the storm water sewer, and a width of 2 (6 ft 10 in) = 13 ft 8
+in, or, say, 41 sq. ft per lineal yard of road to the foul
+water sewer. This shows that even if the whole of the rain
+which falls on the impervious areas flows off, only just under
+80 per cent. of it would be intercepted by the special storm water
+sewers. Taking an average annual rainfall of 30 in, of which 75 per
+cent. flows off, the quantity reaching the storm water sewer in the
+course of a year from each lineal
+
+                       30          75
+yard of road would be --- x 160 x --- = 300 cubic
+                       12         100
+feet = 1,875 gallons.
+
+[Illustration: FIG. 17.--SECTION OF "LEAP WEIR" OVERFLOW]
+
+The cost of constructing a separate surface water system will
+vary, but may be taken at an average of, approximately, l5s.
+0d. per lineal yard of road. To repay this amount in thirty years
+at 4 per cent, would require a sum of 10.42d., say 10-1/2d. per annum;
+that is to say, the cost of taking the surface water into special
+
+           10-1/2 d. x 1000
+sewers is  ---------------- = 5.6, say 6d. per 1,000
+                 1875
+gallons.
+
+If the sewage has to be pumped, the extra cost of pumping by
+reason of the increased quantity of surface water can be looked
+at from two different points of view:--
+
+1. The net cost of the gas or other fuel or electric current
+consumed in lifting the water.
+
+2. The cost of the fuel consumed plus wages, stores, etc., and
+a proportion of the sum required to repay the capital cost of
+the pumping station and machinery.
+
+The extra cost of the sewers to carry the additional quantity
+of storm water might also be taken into account by working out
+and preparing estimates for the alternative schemes.
+
+The actual cost of the fuel may be taken at approximately 1/4
+d. per 1,000 gallons. The annual works and capital charges,
+exclusive of fuel, should be divided by the normal quantity of
+sewage pumped per annum, rather than by the maximum quantity
+which the pumps would lift if they were able to run
+continuously during the whole time. For a town of about 10,000
+inhabitants these charges may be taken at 1-1/4 d. per 1,000
+gallons, which makes the total cost of pumping, inclusive of
+capital charges, 1-1/2 d. per 1,000 gallons. Even if the extra
+cost of enlarging the sewers is added to this sum it will still
+be considerably below the sum of 6 d., which represents the
+cost of providing a separate system for the surface water.
+
+Unless it is permissible for the sewage to have a free outlet
+to the sea at all states of the tide, the provision of
+effective storm overflows is a matter of supreme importance.
+Not only is it necessary for them to be constructed in well-
+considered positions, but they must be effective in action. A
+weir constructed along one side of a manhole and parallel to
+the sewer is rarely efficient, as in times of storm the liquid
+in the sewer travels at a considerable velocity, and the
+greater portion of it, which should be diverted, rushes past
+the weir and continues to flow in the sewer; and if, as is
+frequently the case, it is desirable that the overflowing
+liquid should be screened, and vertical bars are fixed on the
+weir for the purpose, they block the outlet and render the
+overflow practically useless.
+
+Leap weir overflows are theoretically most suitable for
+separating the excess flow during times of storm, but in
+practice they rarely prove satisfactory. This is not the fault
+of the system, but is, in the majority of the cases, if not
+all, due to defective designing. The general arrangement of a
+leap weir overflow is shown in Fig. 17. In normal circumstances
+the sewage flowing along the pipe A falls down the ramp, and
+thence along the sewer B; when the flow is increased during
+storms the sewage from A shoots out from the end of the pipe
+into the trough C, and thence along the storm-water sewer D. In
+order that it should be effective the first step is to
+ascertain accurately the gradient of the sewer above the
+proposed overflow, then, the size being known, it is easy to
+calculate the velocity of flow for the varying depths of sewage
+corresponding with minimum flow, average dry weather flow,
+maximum dry weather flow, and six times the dry weather flow.
+The natural curve which the sewage would follow in its downward
+path as it flowed out from the end of the sewer can then be
+drawn out for the various depths, taking into account the fact
+that the velocity at the invert and sides of the sewer is less
+than the average velocity of flow. The ramp should be built in
+accordance with the calculated curves so as to avoid splashing
+as far as possible, and the level of the trough C fixed so that
+when it is placed sufficiently far from A to allow the dry
+weather flow to pass down the ramp it will at the same time
+catch the storm water when the required dilution has taken
+place. Due regard must be had to the altered circumstances
+which will arise when the growth of population occurs, for
+which provision is made in the scheme, so that the overflow
+will remain efficient. The trough C is movable, so that the
+width of the leap weir may be adjusted from time to time as
+required. The overflow should be frequently inspected, and the
+accumulated rubbish removed from the trough, because sticks and
+similar matters brought down by the sewer will probably leap
+the weir instead of flowing down the ramp with the sewage. It
+is undesirable to fix a screen in conjunction with this
+overflow, but if screening is essential the operation should be
+carried out in a special manhole built lower down the course of
+the storm-water sewer. Considerable wear takes place on the
+ramp, which should, therefore, be constructed of blue
+Staffordshire or other hard bricks. The ramp should terminate
+in a stone block to resist the impact of the falling water, and
+the stones which may be brought with it, which would crack
+stoneware pipes if such were used.
+
+In cases where it is not convenient to arrange a sudden drop in
+the invert of the sewer as is required for a leap weir
+overflow, the excess flow of storm-water may be diverted by an
+arrangement similar to that shown in Fig. 18. [Footnote: PLATE
+IV] In this case calculations must be made to ascertain the
+depth at which the sewage will flow in the pipes at the time it
+is diluted to the required extent; this gives the level of the
+lip of the diverting plate. The ordinary sewage flow will pass
+steadily along the invert of the sewer under the plate until it
+rises up to that height, when the opening becomes a submerged
+orifice, and its discharging capacity becomes less than when
+the sewage was flowing freely. This restricts the flow of the
+sewage, and causes it to head up on the upper side of the
+overflow in an endeavour to force through the orifice the same
+quantity as is flowing in the sewer, but as it rises the
+velocity carries the upper layer of the water forward up the
+diverting plate and thence into the storm overflow drain A deep
+channel is desirable, so as to govern the direction of flow at
+the time the overflow is in action. The diverting trough is
+movable, and its height above the invert can be increased
+easily, as may be necessary from time to time. With this
+arrangement the storm-water can easily be screened before it is
+allowed to pass out by fixing an inclined screen in the
+position shown in Fig. 18. [Footnote: PLATE IV] It is loose, as
+is the trough, and both can be lifted out when it is desired to
+have access to the invert of the sewer. The screen is self-
+cleansing, as any floating matter which may be washed against
+it does not stop on it and reduce its discharging capacity, but
+is gradually drawn down by the flow of the sewage towards the
+diverting plate under which it will be carried. The heavier
+matter in the sewage which flows along the invert will pass
+under the plate and be carried through to the outfall works,
+instead of escaping by the overflow, and perhaps creating a
+nuisance at that point.
+
+
+CHAPTER IX.
+
+WIND AND WINDMILLS.
+
+
+In small sewerage schemes where pumping is necessary the amount
+expended in the wages of an attendant who must give his whole
+attention to the pumping station is so much in excess of the
+cost of power and the sum required for the repayment of the
+loan for the plant and buildings that it is desirable for the
+economical working of the scheme to curtail the wages bill as
+far as possible. If oil or gas engines are employed the man
+cannot be absent for many minutes together while the machinery
+is running, and when it is not running, as for instance during
+the night, he must be prepared to start the pumps at very short
+notice, should a heavy rain storm increase the flow in the
+sewers to such an extent that the pump well or storage tank
+becomes filled up. It is a simple matter to arrange floats
+whereby the pump may be connected to or disconnected from a
+running engine by means of a friction clutch, so that when the
+level of the sewage in the pump well reaches the highest point
+desired the pump may be started, and when it is lowered to a
+predetermined low water level the pump will stop; but it is
+impracticable to control the engine in the same way, so that
+although the floats are a useful accessory to the plant during
+the temporary absence of the man in charge they will not
+obviate his more or less constant attendance. An electric motor
+may be controlled by a float, but in many cases trouble is
+experienced with the switch gear, probably caused by its
+exposure to the damp air. In all cases an alarm float should be
+fixed, which would rise as the depth of the sewage in the pump
+well increased, until the top water level was reached, when the
+float would make an electrical contact and start a continuous
+ringing warning bell, which could be placed either at the pumping
+station or at the man's residence. On hearing the bell the man would
+know the pump well was full, and that he must immediately repair to
+the pumping-station and start the pumps, otherwise the building
+would be flooded. If compressed air is available a hooter could be
+fixed, which would be heard for a considerable distance from the station.
+
+[Illustration: PLATE IV.
+
+"DIVERTING PLATE" OVERFLOW.
+
+To face page 66.]
+
+It is apparent, therefore, that a pumping machine is wanted
+which will work continuously without attention, and will not
+waste money when there is nothing to pump. There are two
+sources of power in nature which might be harnessed to give
+this result--water and wind. The use of water on such a small
+scale is rarely economically practicable, as even if the water
+is available in the vicinity of the pumping-station,
+considerable work has generally to be executed at the point of
+supply, not only to store the water in sufficient bulk at such
+a level that it can be usefully employed, but also to lead it
+to the power-house, and then to provide for its escape after it
+has done its work. The power-house, with its turbines and other
+machinery, involves a comparatively large outlay, but if the
+pump can be directly driven from the turbines, so that the cost
+of attendance is reduced to a minimum, the system should
+certainly receive consideration.
+
+Although the wind is always available in every district, it is
+more frequent and powerful on the coast than inland. The
+velocity of the wind is ever varying within wide limits, and
+although the records usually give the average hourly velocity,
+it is not constant even for one minute. Windmills of the modern
+type, consisting of a wheel composed of a number of short sails
+fixed to a steel framework upon a braced steel tower, have been
+used for many years for driving machinery on farms, and less
+frequently for pumping water for domestic use. In a very few
+cases it has been utilised for pumping sewage, but there is no
+reason why, under proper conditions, it should not be employed
+to a greater extent. The reliability of the wind for pumping
+purposes may be gauged from the figures in the following table,
+No. 11, which were observed in Birmingham, and comprise a
+period of ten years; they are arranged in order corresponding
+with the magnitude of the annual rainfall:--
+
+TABLE No. 11.
+
+MEAN HOURLY VELOCITY OF WIND
+
+Reference | Rainfall |Number of days in year during which the mean  |
+Number    | for      |hourly velocity of the wind was below         |
+          | year     | 6 m.p.h. | 10 m.p.h. | 15 m.p.h. | 20 m.p.h. |
+----------+----------+----------+-----------+-----------+-----------+
+ 1...       33·86         16          88         220        314
+ 2...       29·12         15         120         260        334
+ 3...       28·86         39         133         263        336
+ 4...       26·56         36         126         247        323
+ 5...       26·51         34         149         258        330
+ 6...       26·02         34         132         262        333
+ 7...       25·16         33         151         276        332
+ 8...       22·67         46         155         272        329
+ 9...       22·30         26         130         253        337
+10...       21·94         37         133         276        330
+----------+----------+----------+-----------+-----------+-----------+
+            Average       31·4       131·7       250·7      330·8
+
+It may be of interest to examine the monthly figures for the
+two years included in the foregoing table, which had the least
+and the most wind respectively, such figures being set out in
+the following table:
+
+TABLE No. 12
+
+MONTHLY ANALYSIS OF WIND
+
+Number of days in each month during which the mean velocity of
+the wind was respectively below the value mentioned hereunder.
+
+
+Month |  Year of least wind (No. 8) | Year of most wind (No. *8*) |
+      |   5      10     15     20   |   5      10     15     20   |
+      | m.p.h. m.p.h. m.p.h. m.p.h. | m.p.h. m.p.h. m.p.h. m.p.h. |
+------+-------+-----+-------+-------+-------+------+------+-------+
+Jan.      5      11     23     27       3       6     15     23
+Feb.      5      19     23     28       0       2      8     16
+Mar.      5      10     20     23       0       1     11     18
+April     6      16     23     28       1       7     16     26
+May       1      14     24     30       3      11     24     31
+June      1      12     22     26       1      10     21     27
+July      8      18     29     31       1      12     25     29
+Aug.      2       9     23     30       1       9     18     30
+Sept.     1      13     25     30       1      12     24     28
+Oct.      5      17     21     26       0       4     16     29
+Nov.      6      11     20     26       3       7     19     28
+Dec.      1       5     19     24       2       7     23     29
+------+-------+-----+-------+-------+-------+------+------+-------+
+Total    46     155    272    329      16      88    220    314
+
+
+During the year of least wind there were only eight separate
+occasions upon which the average hourly velocity of the wind
+was less than six miles per hour for two consecutive days, and
+on two occasions only was it less than six miles per hour on
+three consecutive days. It must be remembered, however, that
+this does not by any means imply that during such days the wind
+did not rise above six miles per hour, and the probability is
+that a mill which could be actuated by a six-mile wind would
+have been at work during part of the time. It will further be
+observed that the greatest differences between these two years
+occur in the figures relating to the light winds. The number of
+days upon which the mean hourly velocity of the wind exceeds
+twenty miles per hour remains fairly constant year after year.
+
+As the greatest difficulty in connection with pumping sewage is
+the influx of storm water in times of rain, it will be useful
+to notice the rainfall at those times when the wind is at a
+minimum. From the following figures (Table No. 13) it will be
+seen that, generally speaking, when there is very little wind
+there is very little rain Taking the ten years enumerated in
+Table No. 11, we find that out of the 314 days on which the
+wind averaged less than six miles per hour only forty-eight of
+them were wet, and then the rainfall only averaged .l3 in on
+those days.
+
+
+TABLE No. 13.
+
+WIND LESS THAN 6 M.P.H.
+
+-----------+-------------+------------+--------+----------------------------------
+ Ref. No.  |  Total No.  |  Days on   |        |   Rainfall on each
+from Table | of days in  | which no   | Rainy  |     rainy day in
+ No. 11.   |  each year. | rain fell. | days.  |       inches.
+-----------+-------------+------------+--------+----------------------------------
+     1     |     16      |     14     |    2   | .63 and .245
+     2     |     15      |     13     |    2   | .02 and .02
+     3     |     39      |     34     |    5   | .025, .01, .26, .02 and .03
+     4     |     36      |     29     |    7   | / .02, .08, .135, .10, .345, .18
+           |             |            |        | \ and .02
+     5     |     34      |     28     |    6   | .10, .43, .01, .07, .175 and .07
+     6     |     32      |     27     |    5   | .10, .11, .085, .04 and .135
+     7     |     33      |     21     |    2   | .415 and .70
+     8     |     46      |     40     |    6   | .07, .035, .02, .06, .13 and .02
+     9     |     26      |     20     |    6   | .145, .20, .33, .125, .015 & .075
+    10     |     37      |     30     |    7   | / .03, .23, .165, .02, .095
+           |             |            |        | \ .045 and .02
+-----------+-------------+------------+--------+----------------------------------
+Total      |    314      |    266     |   48   | Average rainfall on each of
+           |             |            |        |      the 48 days = .13 in
+
+
+The greater the height of the tower which carries the mill the
+greater will be the amount of effective wind obtained to drive
+the mill, but at the same time there are practical
+considerations which limit the height. In America many towers
+are as much as 100 ft high, but ordinary workmen do not
+voluntarily climb to such a height, with the result that the
+mill is not properly oiled. About 40 ft is the usual height in
+this country, and 60 ft should be used as a maximum.
+
+Mr. George Phelps, in a paper read by him in 1906 before the
+Association of Water Engineers, stated that it was safe to
+assume that on an average a fifteen miles per hour wind was
+available for eight hours per day, and from this he gave the
+following figures as representing the approximate average duty
+with, a lift of l00 ft, including friction:--
+
+TABLE NO. 14
+DUTY OF WINTDMILU
+
+Diameter of Wheel.
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+25
+
+30
+
+35
+
+40
+
+The following table gives the result of tests carried out by
+the United States Department of Agriculture at Cheyenne, Wyo.,
+with a l4 ft diameter windmill under differing wind
+velocities:--
+
+TABLE No. 15.
+
+POWER or l4-rx WINDMILL IN VARYING WINDS.
+
+Velocity of Wind (miles per hour).
+
+0--5 6-10 11-15 16-20 21-25 26-30 31-35
+
+
+It will be apparent from the foregoing figures that practically
+the whole of the pumping for a small sewerage works may be done
+by means of a windmill, but it is undesirable to rely entirely
+upon such a system, even if two mills are erected so that the
+plant will be in duplicate, because there is always the
+possibility, although it may be remote, of a lengthened period
+of calm, when the sewage would accumulate; and, further, the
+Local Government Board would not approve the scheme unless it
+included an engine, driven by gas, oil, or other mechanical
+power, for emergencies. In the case of water supply the
+difficulty may be overcome by providing large storage capacity,
+but this cannot be done for sewage without creating an
+intolerable nuisance. In the latter case the storage should not
+be less than twelve hours dry weather flow, nor more than
+twenty-four. With a well-designed mill, as has already been
+indicated, the wind will, for the greater part of the year, be
+sufficient to lift the whole of the sewage and storm-water,
+but, if it is allowed to do so, the standby engine will
+deteriorate for want of use to such an extent that when
+urgently needed it will not be effective. It is, therefore,
+desirable that the attendant should run the engine at least
+once in every three days to keep it in working order. If it can
+be conveniently arranged, it is a good plan for the attendant
+to run the engine for a few minutes to entirely empty the pump
+well about six o'clock each evening. The bulk of the day's
+sewage will then have been delivered, and can be disposed of
+when it is fresh, while at the same time the whole storage
+capacity is available for the night flow, and any rainfall
+which may occur, thus reducing the chances of the man being
+called up during the night. About 22 per cent, of the total
+daily dry weather flow of sewage is delivered between 7 p.m.
+and 7 a.m.
+
+The first cost of installing a small windmill is practically
+the same as for an equivalent gas or oil engine plant, so that
+the only advantage to be looked for will be in the maintenance,
+which in the case of a windmill is a very small matter, and the
+saving which may be obtained by the reduction of the amount of
+attendance necessary. Generally speaking, a mill 20 ft in
+diameter is the largest which should be used, as when this size
+is exceeded it will be found that the capital cost involved is
+incompatible with the value of the work done by the mill, as
+compared with that done by a modern internal combustion engine.
+
+
+Mills smaller than 8 ft in diameter are rarely employed, and
+then only for small work, such as a 2 1/2 in pump and a 3-ft
+lift The efficiency of a windmill, measured by the number of
+square feet of annular sail area, decreases with the size of
+the mill, the 8 ft, 10 ft, and l2 ft mills being the most
+efficient sizes. When the diameter exceeds l2 ft, the
+efficiency rapidly falls off, because the peripheral velocity
+remains constant for any particular velocity or pressure of the
+wind, and as every foot increase in the diameter of the wheel
+makes an increase of over 3 ft in the length of the
+circumference, the greater the diameter the less the number of
+revolutions in any given time; and consequently the kinetic
+flywheel action which is so valuable in the smaller sizes is to
+a great extent lost in the larger mills.
+
+Any type of pump can be used, but the greatest efficiency will
+be obtained by adopting a single acting pump with a short
+stroke, thus avoiding the liability, inherent in a long pump
+rod, to buckle under compression, and obviating the use of a
+large number of guides which absorb a large part of the power
+given out by the mill. Although some of the older mills in this
+country are of foreign origin, there are several British
+manufacturers turning out well-designed and strongly-built
+machines in large numbers. Fig. 19 represents the general
+appearance and Fig. 20 the details of the type of mill made by
+the well-known firm of Duke and Ockenden, of Ferry Wharf,
+Littlehampton, Sussex. This firm has erected over 400
+windmills, which, after the test of time, have proved
+thoroughly efficient. From Fig. 20 it will be seen that the
+power applied by the wheel is transmitted through spur and
+pinion gearing of 2 1/2 ratio to a crank shaft, the gear wheel
+having internal annular teeth of the involute type, giving a
+greater number of teeth always in contact than is the case with
+external gears. This minimises wear, which is an important matter,
+as it is difficult to properly lubricate these appliances, and they
+are exposed to and have to work in all sorts of weather.
+
+[Illustration:  Fig. l9.--General View of Modern Windmill.]
+
+[Illustration:  Fig. 20.--Details of Windmill Manufactured by Messrs. Duke and
+Ockenden, Littlehampton.]
+
+It will be seen that the strain on the crank shaft is taken by
+a bent crank which disposes the load centrally on the casting,
+and avoids an overhanging crank disc, which has been an
+objectionable feature in some other types. The position of the
+crank shaft relative to the rocker pin holes is studied to give
+a slow upward motion to the rocker with a more rapid downward
+stroke, the difference in speed being most marked in the
+longest stroke, where it is most required.
+
+In order to transmit the circular internal motion a vertical
+connecting rod in compression is used, which permits of a
+simple method of changing the length of stroke by merely
+altering the pin in the rocking lever, the result being that
+the pump rod travels in a vertical line.
+
+The governing is entirely automatic. If the pressure on the
+wind wheel, which it will be seen is set off the centre line of
+the mill and tower, exceeds that found desirable--and this can
+be regulated by means of a spring on the fantail--the windmill
+automatically turns on the turn-table and presents an ellipse
+to the wind instead of a circular face, thus decreasing the
+area exposed to the wind gradually until the wheel reaches its
+final position, or is hauled out of gear, when the edges only
+are opposed to the full force of the wind. The whole weight of
+the mill is taken upon a ball-bearing turn-table to facilitate
+instant "hunting" of the mill to the wind to enable it to take
+advantage of all changes of direction. The pump rod in the
+windmill tower is provided with a swivel coupling, enabling the
+mill head to turn completely round without altering the
+position of the rod.
+
+
+CHAPTER X.
+
+THE DESIGN OF SEE OUTFALLS.
+
+
+The detail design of a sea outfall will depend upon the level
+of the conduit with reference to present surface of the shore,
+whether the beach is being eroded or made up, and, if any part
+of the structure is to be constructed above the level of the
+shore, whether it is likely to be subject to serious attack by
+waves in times of heavy gales. If there is probability of the
+direction of currents being affected by the construction of a
+solid structure or of any serious scour being caused, the
+design must be prepared accordingly.
+
+While there are examples of outfalls constructed of glazed
+stoneware socketed pipes surrounded with concrete, as shown in
+Fig. 21, cast iron pipes are used in the majority of cases.
+There is considerable variation in the design of the joints for
+the latter class of pipes, some of which are shown in Figs. 22,
+23, and 24. Spigot and socket joints (Fig. 22), with lead run
+in, or even with rod lead or any of the patent forms caulked in
+cold, are unsuitable for use below high-water mark on account
+of the water which will most probably be found in the trench.
+Pipes having plain turned and bored joints are liable to be
+displaced if exposed to the action of the waves, but if such
+joints are also flanged, as Fig. 24, or provided with lugs, as
+Fig. 23, great rigidity is obtained when they are bolted up; in
+addition to which the joints are easily made watertight. When a
+flange is formed all round the joint, it is necessary, in order
+that its thickness may be kept within reasonable limits, to
+provide bolts at frequent intervals. A gusset piece to stiffen
+the flange should be formed between each hole and the next, and
+the bolt holes should be arranged so that when the pipes are
+laid there will not be a hole at the bottom on the vertical
+axis of the pipe, as when the pipes are laid in a trench below
+water level it is not only difficult to insert the bolt, but
+almost impracticable to tighten up the nut afterwards. The
+pipes should be laid so that the two lowest bolt holes are
+placed equidistant on each side of the centre line, as shown in
+the end views of Figs. Nos. 23 and 24.
+
+[Illustration:  Fig. 2l.-Stoneware Pipe and Concrete Sea Outfall.]
+
+With lug pipes, fewer bolts are used, and the lugs are made
+specially strong to withstand the strain put upon them in
+bolting up the pipes. These pipes are easier and quicker to
+joint under water than are the flanged pipes, so that their use
+is a distinct advantage when the hours of working are limited.
+In some cases gun-metal bolts are used, as they resist the
+action of sea water better than steel, but they add
+considerably to the cost of the outfall sewer, and the
+principal advantage appears to be that they are possibly easier
+to remove than iron or steel ones would be if at any time it
+was required to take out any pipe which may have been
+accidentally broken. On the other hand, there is a liability of
+severe corrosion of the metal taking place by reason of
+galvanic action between the gun-metal and the iron, set up by
+the sea water in which they are immersed. If the pipes are not
+to be covered with concrete, and are thus exposed to the action
+of the sea water, particular care should be taken to see that
+the coating by Dr. Angus Smith's process is perfectly applied
+to them.
+
+[Illustration:  Fig. 22.--Spigot and Socket Joint for Cast Iron Pipes.]
+
+[Illustration:  Fig. 23.--Lug Joint for Cast Iron Pipes.]
+
+[Illustration:  Fig. 24.--Turned, Board, and Flanged Joint for Cast Iron Pipes.]
+
+Steel pipes are, on the whole, not so suitable as cast iron.
+They are, of course, obtainable in long lengths and are easily
+jointed, but their lightness compared with cast iron pipes,
+which is their great advantage in transport, is a disadvantage
+in a sea outfall, where the weight of the structure adds to its
+stability. The extra length of steel pipes necessitates a
+greater extent of trench being excavated at one time, which
+must be well timbered to prevent the sides falling in On the
+other hand, cast iron pipes are more liable to fracture by
+heavy stones being thrown upon them by the waves, but this is a
+contingency which does not frequently occur in practice.
+According to Trautwine, the cast iron for pipes to resist sea
+water should be close-grained, hard, white metal. In such metal
+the small quantity of contained carbon is chemically combined
+with the iron, but in the darker or mottled metals it is
+mechanically combined, and such iron soon becomes soft, like
+plumbago, under the influence of sea water. Hard white iron has
+been proved to resist sea water for forty years without
+deterioration, whether it is continually under water or
+alternately wet and dry.
+
+Several types of sea outfalls are shown in Figs. 25 to 31.[1]
+In the example shown in Fig. 25 a solid rock bed occurred a
+short distance below the sand, which was excavated so as to
+allow the outfall to be constructed on the rock. Anchor bolts
+with clevis heads were fixed into the rock, and then, after a
+portion of the concrete was laid, iron bands, passing around
+the cast iron pipes, were fastened to the anchors. This
+construction would not be suitable below low-water mark. Fig.
+26 represents the Aberdeen sea outfall, consisting of cast iron
+pipes 7 ft in diameter, which are embedded in a heavy concrete
+breakwater 24 ft in width, except at the extreme end, where it
+is 30 ft wide. The 4 in wrought iron rods are only used to the
+last few pipes, which were in 6 ft lengths instead of 9 ft, as
+were the remainder. Fig. 27 shows an inexpensive method of
+carrying small pipes, the slotted holes in the head of the pile
+allowing the pipes to be laid in a straight line, even if the
+pile is not driven quite true, and if the level of the latter
+is not correct it can be adjusted by inserting a packing piece
+between the cradle and the head.
+
+Great Crosby outfall sewer into the Mersey is illustrated in
+Fig. 28. The piles are of greenheart, and were driven to a
+solid foundation. The 1 3/4 in sheeting was driven to support
+the sides of the excavation, and was left in when the concrete
+was laid. Light steel rails were laid under the sewer, in
+continuous lengths, on steel sleepers and to 2 ft gauge. The
+invert blocks were of concrete, and the pipes were made of the
+same material, but were reinforced with steel ribs. The Waterloo
+(near Liverpool) sea outfall is shown in Fig. 31.
+
+[Footnote 1: Plate V.]
+
+Piling may be necessary either to support the pipes or to keep
+them secure in their proper position, but where there is a
+substratum of rock the pipes may be anchored, as shown in Figs.
+25 and 26. The nature of the piling to be adopted will vary
+according to the character of the beach. Figs. 27, 29, 30, and
+31 show various types. With steel piling and bearers, as shown
+in Fig. 29, it is generally difficult to drive the piles with
+such accuracy that the bearers may be easily bolted up through
+the holes provided in the piles, and, if the holes are not
+drilled in the piles until after they are driven to their final
+position, considerable time is occupied, and perhaps a tide
+lost in the attempt to drill them below water. There is also
+the difficulty of tightening up the bolts when the sewer is
+partly below the surface of the shore, as shown. In both the
+types shown in Figs. 29 and 30 it is essential that the piles
+and the bearers should abut closely against the pipes;
+otherwise the shock of the waves will cause the pipes to move
+and hammer against the framing, and thus lead to failure of the
+structure.
+
+Piles similar to Fig. 31 can only be fixed in sand, as was the
+case at Waterloo, because they must be absolutely true to line
+and level, otherwise the pipes cannot be laid in the cradles.
+The method of fixing these piles is described by Mr. Ben
+Howarth (Minutes of Proceedings of Inst.C.E., Vol. CLXXV.) as
+follows:--"The pile was slung vertically into position from a
+four-legged derrick, two legs of which were on each side of the
+trench; a small winch attached to one pair of the legs lifted
+and lowered the pile, through a block and tackle. When the pile
+was ready to be sunk, a 2 in iron pipe was let down the centre,
+and coupled to a force-pump by means of a hose; a jet of water
+was then forced down this pipe, driving the sand and silt away
+from below the pile. The pile was then rotated backwards and
+forwards about a quarter of a turn, by men pulling on the arms;
+the pile, of course, sank by its own weight, the water-jet
+driving the sand up through the hollow centre and into the
+trench, and it was always kept vertical by the sling from the
+derrick. As soon as the pile was down to its final level the ground
+was filled in round the arms, and in this running sand the pile
+became perfectly fast and immovable a few minutes after the
+sinking was completed. The whole process, from the first
+slinging of the pile to the final setting, did not take more
+than 20 or 25 minutes."
+
+[Illustration: PLATE V.
+
+ROCK BED. Fig. 26--ABERDEEN SEA OUTFALL. Fig. 27--SMALL GREAT
+CROSBY SEA OUTFALL. Fig. 29--CAST IRON PIPE ON STEEL CAST AND
+BEARERS. Fig. 31--WATERLOO (LIVERPOOL) SEA OUTFALL.]
+
+(_To face page 80_.)
+
+Screw piles may be used if the ground is suitable, but, if it
+is boulder clay or similar material, the best results will
+probably be obtained by employing rolled steel joists as piles.
+
+
+CHAPTER XI.
+
+THE ACTION OF SEA WATER ON CEMENT.
+
+
+Questions are frequently raised in connection with sea-coast
+works as to whether any deleterious effect will result from
+using sea-water for mixing the concrete or from using sand and
+shingle off the beach; and, further, whether the concrete,
+after it is mixed, will withstand the action of the elements,
+exposed, as it will be, to air and sea-water, rain, hot sun,
+and frosts.
+
+Some concrete structures have failed by decay of the material,
+principally between high and low water mark, and in order to
+ascertain the probable causes and to learn the precautions
+which it is necessary to take, some elaborate experiments have
+been carried out.
+
+To appreciate the chemical actions which may occur, it will be
+as well to examine analyses of sea-water and cement. The water
+of the Irish Channel is composed of
+
+
+Sodium chloride.................... 2.6439 per cent.
+Magnesium chloride................. 0.3150   "   "
+Magnesium sulphate................. 0.2066   "   "
+Calcium sulphate................... 0.1331   "   "
+Potassium chloride................. 0.0746   "   "
+Magnesium bromide.................. 0.0070   "   "
+Calcium carbonate.................. 0.0047   "   "
+Iron carbonate..................... 0.0005   "   "
+Magnesium nitrate.................. 0.0002   "   "
+Lithium chloride................... Traces.
+Ammonium chloride.................. Traces.
+Silica chloride.................... Traces.
+Water.............................. 96.6144
+                                   --------
+                                   100.0000
+
+
+An average analysis of a Thames cement may be taken to be as
+follows:--
+
+
+Silica................................ 23.54 per cent.
+Insoluble residue (sand, clay,
+      etc.)............................ 0.40    "
+Alumina and ferric oxide............... 9.86    "
+Lime.................................. 62.08    "
+Magnesia............................... 1.20    "
+Sulphuric anhydride.................... 1.08    "
+Carbonic anhydride and water........... 1.34    "
+Alkalies and loss on analysis.......... 0.50    "
+                                       -----
+                                      100.00
+
+
+The following figures give the analysis of a sample of cement
+expressed in terms of the complex compounds that are found:--
+
+
+Sodium silicate (Na2SiO3)........ 3.43 per cent.
+Calcium sulphate (CaSO4)......... 2.45    "
+Dicalcium silicate (Ca2SiO4).... 61.89    "
+Dicalcium aluminate (Ca2Al2O5).. 12.14    "
+Dicalcium ferrate (Ca2Fe2O5)..... 4.35    "
+Magnesium oxide (MgO)............ 0.97    "
+Calcium oxide (CaO)............. 14.22    "
+Loss on analysis, &c............. 0.55    "
+                                 -----
+                                100.00
+
+
+Dr. W. Michaelis, the German cement specialist, gave much
+consideration to this matter in 1906, and formed the opinion
+that the free lime in the Portland cement, or the lime freed in
+hardening, combines with the sulphuric acid of the sea-water,
+which causes the mortar or cement to expand, resulting in its
+destruction. He proposed to neutralise this action by adding to
+the mortar materials rich in silica, such as trass, which would
+combine with the lime.
+
+Mr. J. M. O'Hara, of the Southern Pacific Laboratory, San
+Francisco, Cal., made a series of tests with sets of pats 4 in
+diameter and 1/2 in thick at the centre, tapering to a thin
+edge on the circumference, and also with briquettes for
+ascertaining the tensile strength, all of which were placed
+in water twenty-four hours after mixing. At first some of the
+pats were immersed in a "five-strength solution" of sea-water
+having a chemical analysis as follows:--
+
+Sodium chloride.................... 11.5 per cent.
+Magnesium chloride.................  1.4   "   "
+Magnesium sulphate.................  0.9   "   "
+Calcium sulphate...................  0.6   "   "
+Water.............................. 85.6   "   "
+                                   100.0
+
+This strong solution was employed in order that the probable
+effect of immersing the cement in sea-water might be
+ascertained very much quicker than could be done by observing
+samples actually placed in ordinary sea-water, and it is worthy
+of note that the various mixtures which failed in this
+accelerated test also subsequently failed in ordinary sea-water
+within a period of twelve months.
+
+Strong solutions were next made of the individual salts
+contained in sea-water, and pats were immersed as before, when
+it was found that the magnesium sulphate present in the water
+acted upon the calcium hydrate in the cement, forming calcium
+sulphate, and leaving the magnesium hydrate free. The calcium
+sulphate combines with the alumina of the cement, forming
+calcium sulpho-aluminate, which causes swelling and cracking of
+the concrete, and in cements containing a high proportion of
+alumina, leads to total destruction of all cohesion. The
+magnesium hydrate has a tendency to fill the pores of the
+concrete so as to make it more impervious to the destructive
+action of the sea-water, and disintegration may be retarded or
+checked. A high proportion of magnesia has been found in
+samples of cement which have failed under the action of sea
+water, but the disastrous result cannot be attributed to this
+substance having been in excess in the original cement, as it
+was probably due to the deposition of the magnesia salts from
+the sea-water; although, if magnesia were present in the cement
+in large quantities, it would cause it to expand and crack,
+still with the small proportion in which it occurs in ordinary
+cements it is probably inert. The setting of cement under the
+action of water always frees a portion of the lime which was
+combined, but over twice as much is freed when the cement sets
+in sea-water as in fresh water. The setting qualities of cement
+are due to the iron and alumina combined with calcium, so that
+for sea-coast work it is desirable for the alumina to be
+replaced by iron as far as possible. The final hardening and
+strength of cement is due in a great degree to the tri-calcium
+silicate (3CaO, SiO2) which is soluble by the sodium chloride
+found in sea-water, so that the resultant effect of the action
+of these two compounds is to enable the sea-water to gradually
+penetrate the mortar and rot the concrete. The concrete is
+softened, when there is an abnormal amount of sulphuric acid
+present, as a result of the reaction of the sulphuric acid of
+the salt dissolved by the water upon a part of the lime in the
+cement. The ferric oxide of the cement is unaffected by sea-
+water.
+
+The neat cement briquette tests showed that those immersed in
+sea-water attained a high degree of strength at a much quicker
+rate than those immersed in fresh water, but the 1 to 3 cement
+and sand briquette tests gave an opposite result. At the end of
+twelve months, however, practically all the cements set in
+fresh water showed greater strength than those set in sea-
+water. When briquettes which have been immersed in fresh water
+and have thoroughly hardened are broken, the cores are found to
+be quite dry, and if briquettes immersed in sea-water show a
+similar dryness there need be no hesitation in using the
+cement; but if, on the other hand, the briquette shows that the
+sea-water has permeated to the interior, the cement will lose
+strength by rotting until it has no cohesion at all. It must be
+remembered that it is only necessary for the water to penetrate
+to a depth of 1/2 in on each side of a briquette to render it
+damp all through, whereas in practical work, if the water only
+penetrated to the same depth, very little ill-effect would be
+experienced, although by successive removals of a skin 1/2 in
+deep the structure might in time be imperilled.
+
+The average strength in pounds per square inch of six different
+well-known brands of cement tested by Mr. O'Hara was as
+follows:--
+
+
+TABLE No. 16.
+
+EFFECT OF SEA WATER ON STRENGTH OF CEMENT.
+
+
+                     Neat cement         1 cement to 3 sand
+                        set in                 set in
+                 Sea Water  Fresh Water  Sea Water  Fresh Water
+
+ 7 days             682        548          214        224
+28 days             836        643          293        319
+ 2 months           913        668          313        359
+ 3 months           861        667          301        387
+ 6 months           634        654          309        428
+ 9 months           542        687          317        417
+12 months           372        706          325        432
+
+
+Some tests were also made by Messrs. Westinghouse, Church,
+Kerr, and Co., of New York, to ascertain the effect of sea-
+water on the tensile strength of cement mortar. Three sets of
+briquettes were made, having a minimum section of one square
+inch. The first were mixed with fresh water and kept in fresh
+water; the second were mixed with fresh water, but kept
+immersed in pans containing salt water; while the third were
+mixed with sea-water and kept in sea-water. In the experiments
+the proportion of cement and sand varied from 1 to 1 to 1 to 6.
+The results of the tests on the stronger mixtures are shown in
+Fig. 32.
+
+The Scandinavian Portland cement manufacturers have in hand
+tests on cubes of cement mortar and cement concrete, which were
+started in 1896, and are to extend over a period of twenty
+years. A report upon the tests of the first ten years was
+submitted at the end of 1909 to the International Association
+of Testing Materials at Copenhagen, and particulars of them are
+published in "Cement and Sea-Water," by A. Poulsen (chairman of
+the committee), J. Jorsen and Co., Copenhagen, 1909, price 3s.
+
+[Illustration: FIG. 32.--Tests of the Tensile Strength of
+Cement and Sand Briquettes, Showing the Effect of Sea Water.]
+
+Cements from representative firms in different countries were
+obtained for use in making the blocks, which had coloured glass
+beads and coloured crushed glass incorporated to facilitate
+identification. Each block of concrete was provided with a
+number plate and a lifting bolt, and was kept moist for one
+month before being placed in position. The sand and gravel were
+obtained from the beach on the west coast of Jutland. The
+mortar blocks were mixed in the proportion of 1 to 1, 1 to 2,
+and 1 to 3, and were placed in various positions, some between
+high and low water, so as to be exposed twice in every twenty-
+four hours, and others below low water, so as to be always
+submerged. The blocks were also deposited under these
+conditions in various localities, the mortar ones being placed
+at Esbjerb at the south of Denmark, at Vardo in the Arctic
+Ocean, and at Degerhamm on the Baltic, where the water is only
+one-seventh as salt as the North Sea, while the concrete blocks
+were built up in the form of a breakwater or groyne at Thyboron
+on the west coast of Jutland. At intervals of three, six, and
+twelve months, and two, four, six, ten, and twenty years, some
+of the blocks have, or will be, taken up and subjected to
+chemical tests, the material being also examined to ascertain
+the effect of exposure upon them. The blocks tested at
+intervals of less than one year after being placed in position
+gave very variable results, and the tests were not of much
+value.
+
+The mortar blocks between high and low water mark of the Arctic
+Ocean at Vardo suffered the worst, and only those made with the
+strongest mixture of cement, 1 to 1, withstood the severe frost
+experienced. The best results were obtained when the mortar was
+made compact, as such a mixture only allowed diffusion to take
+place so slowly that its effect was negligible; but when, on
+the other hand, the mortar was loose, the salts rapidly
+penetrated to the interior of the mass, where chemical changes
+took place, and caused it to disintegrate. The concrete blocks
+made with 1 to 3 mortar disintegrated in nearly every case,
+while the stronger ones remained in fairly good condition. The
+best results were given by concrete containing an excess of
+very fine sand. Mixing very finely-ground silica, or trass,
+with the cement proved an advantage where a weak mixture was
+employed, but in the other cases no benefit was observed.
+
+The Association of German Portland Cement Manufacturers carried
+out a series of tests, extending over ten years, at their
+testing station at Gross Lichterfeld, near Berlin, the results
+of which were tabulated by Mr. C. Schneider and Professor Gary.
+In these tests the mortar blocks were made 3 in cube and the
+concrete blocks l2 in cube; they were deposited in two tanks,
+one containing fresh water and the other sea-water, so that the
+effect under both conditions might be noted. In addition,
+concrete blocks were made, allowed to remain in moist sand for
+three months, and were then placed in the form of a groyne in
+the sea between high and low-water mark. Some of the blocks
+were allowed to harden for twelve months in sand before being
+placed, and these gave better results than the others. Two
+brands of German Portland cement were used in these tests, one,
+from which the best results were obtained, containing 65.9 per
+cent. of lime, and the other 62.0 per cent. of lime, together
+with a high percentage of alumina. In this case, also, the
+addition of finely-ground silica, or trass, improved the
+resisting power of blocks made with poor mortars, but did not
+have any appreciable effect on the stronger mixtures.
+
+Professor M. Möller, of Brunswick, Germany, reported to the
+International Association for Testing Materials, at the
+Copenhagen Congress previously referred to, the result of his
+tests on a small hollow, trapezium shape, reinforced concrete
+structure, which was erected in the North Sea, the interior
+being filled with sandy mud, which would be easily removable by
+flowing water. The sides were 7 cm. thick, formed of cement
+concrete 1:2 1/2:2, moulded elsewhere, and placed in the
+structure forty days after they were made, while the top and
+bottom were 5 cm. thick, and consisted of concrete 1:3:3,
+moulded _in situ_ and covered by the tide within twenty-four
+hours of being laid. The concrete moulded _in situ_ hardened a
+little at first, and then became soft when damp, and friable
+when dry, and white efflorescence appeared on the surface. In a
+short time the waves broke this concrete away, and exposed the
+reinforcement, which rusted and disappeared, with the result
+that in less than four years holes were made right through the
+concrete. The sides, which were formed of slabs allowed to
+harden before being placed in the structure, were unaffected
+except for a slight roughening of the surface after being
+exposed alternately to the sea and air for a period, of
+thirteen years. Professor Möller referred also to several cases
+which had come under his notice where cement mortar or concrete
+became soft and showed white efflorescence when it had been
+brought into contact with sea-water shortly after being made.
+
+In experiments in Atlantic City samples of dry cement in powder
+form were put with sea-water in a vessel which was rapidly
+rotated for a short time, after which the cement and the sea-
+water were analysed, and it was found that the sea-water had
+taken up the lime from the cement, and the cement had absorbed
+the magnesia salts from the sea-water.
+
+Some tests were carried out in 1908-9 at the Navy Yard,
+Charlestown, Mass., by the Aberthaw Construction Company of
+Boston, in conjunction with the Navy Department. The cement
+concrete was placed so that the lower portions of the surfaces
+of the specimens were always below water, the upper portions
+were always exposed to the air, and the middle portions were
+alternately exposed to each. Although the specimens were
+exposed to several months of winter frost as well as to the
+heat of the summer, no change was visible in any part of the
+concrete at the end of six months.
+
+Mons. R. Feret, Chief of the Laboratory of Bridges and Roads,
+Boulogne-sur-Mer, France, has given expression to the following
+opinions:--
+
+1. No cement or other hydraulic product has yet been found
+which presents absolute security against the decomposing action
+of sea-water.
+
+2. The most injurious compound of sea-water is the acid of the
+dissolved sulphates, sulphuric acid being the principal agent
+in the decomposition of cement.
+
+3. Portland cement for sea-water should be low in aluminium and
+as low as possible in lime.
+
+4. Puzzolanic material is a valuable addition to cement for
+sea-water construction,
+
+5. As little gypsum as possible should be added for regulating
+the time of setting to cements which are to be used in sea-
+water.
+
+6. Sand containing a large proportion of fine grains must never
+be used in concrete or mortar for sea-water construction.
+
+7. The proportions of the cement and aggregate for sea-water
+construction must be such as will produce a dense and
+impervious concrete.
+
+On the whole, sea-water has very little chemical effect on good
+Portland cements, such as are now easily obtainable, and,
+provided the proportion of aluminates is not too high, the
+varying composition of the several well-known commercial
+cements is of little moment. For this reason tests on blocks
+immersed in still salt water are of very little use in
+determining the probable behaviour of concrete when exposed to
+damage by physical and mechanical means, such as occurs in
+practical work.
+
+The destruction of concrete works on the sea coast is due to
+the alternate exposure to air and water, frost, and heat, and
+takes the form of cracking or scaling, the latter being the
+most usual when severe frosts are experienced. When concrete
+blocks are employed in the construction of works, they should
+be made as long as possible before they are required to be
+built in the structure, and allowed to harden in moist sand,
+or, if this is impracticable, the blocks should be kept in the
+air and thoroughly wetted each day. On placing cement or
+concrete blocks in sea water a white precipitate is formed on
+their surfaces, which shows that there is some slight chemical
+action, but if the mixture is dense this action is restricted
+to the outside, and does not harm the block.
+
+Cement mixed with sea water takes longer to harden than if
+mixed with fresh water, the time varying in proportion to the
+amount of salinity in the water. Sand and gravel from the
+beach, even though dry, have their surfaces covered with saline
+matters, which retard the setting of the cement, even when
+fresh water is used, as they become mixed with such water, and
+thus permeate the whole mass. If sea water and aggregate from
+the shore are used, care must be taken to see that no decaying
+seaweed or other organic matter is mixed with it, as every such
+piece will cause a weak place in the concrete. If loam, clay,
+or other earthy matters from the cliffs have fallen down on to
+the beach, the shingle must be washed before it is used in
+concrete.
+
+Exposure to damp air, such as is unavoidable on the coast,
+considerably retards the setting of cement, so that it is
+desirable that it should not be further retarded by the
+addition of gypsum, or calcium sulphate, especially if it is to
+be used with sea water or sea-washed sand and gravel. The
+percentage of gypsum found in cement is, however, generally
+considerably below the maximum allowed by the British Standard
+Specification, viz., 2 per cent., and is so small that, for
+practical purposes, it makes very little difference in sea
+coast work, although of course, within reasonable limits, the
+quicker the cement sets the better. When cement is used to
+joint stoneware pipe sewers near the coast, allowance must be
+made for this retardation of the setting, and any internal
+water tests which may be specified to be applied must not be
+made until a longer period has elapsed after the laying of the
+pipes than would otherwise be necessary. A high proportion of
+aluminates tends to cause disintegration when exposed to sea
+water. The most appreciable change which takes place in a good
+sound cement after exposure to the sea is an increase in the
+chlorides, while a slight increase in the magnesia and the
+sulphates also takes place, so that the proportion of sulphates
+and magnesia in the cement should be kept fairly low. Hydraulic
+lime exposed to the sea rapidly loses the lime and takes up
+magnesia and sulphates.
+
+To summarise the information upon this point, it appears that
+it is better to use fresh water for all purposes, but if, for
+the sake of economy, saline matters are introduced into the
+concrete, either by using sea water for mixing or by using sand
+and shingle from the beach, the principal effect will be to
+delay the time of setting to some extent, but the ultimate
+strength of the concrete will probably not be seriously
+affected. When the concrete is placed in position the portion
+most liable to be destroyed is that between high and low water
+mark, which is alternately exposed to the action of the sea and
+the air, but if the concrete has a well-graded aggregate, is
+densely mixed, and contains not more than two parts of sand to
+one part of cement, no ill-effect need be anticipated.
+
+
+CHAPTER XII
+
+DIVING.
+
+
+The engineer is not directly concerned with the various methods
+employed in constructing a sea outfall, such matters being left
+to the discretion of the contractor. It may, however, be
+briefly stated that the work frequently involves the erection
+of temporary steel gantries, which must be very carefully
+designed and solidly built if they are to escape destruction by
+the heavy seas. It is amazing to observe the ease with which a
+rough sea will twist into most fantastic shapes steel joists 10
+in by 8in, or even larger in size. Any extra cost incurred in
+strengthening the gantries is well repaid if it avoids damage,
+because otherwise there is not only the expense of rebuilding
+the structure to be faced, but the construction of the work
+will be delayed possibly into another season.
+
+In order to ensure that the works below water are constructed
+in a substantial manner, it is absolutely necessary that the
+resident engineer, at least, should be able to don a diving
+dress and inspect the work personally. The particular points to
+which attention must be given include the proper laying of the
+pipes, so that the spigot of one is forced home into the socket
+of the other, the provision and tightening up of all the bolts
+required to be fixed, the proper driving of the piles and
+fixing the bracing, the dredging of a clear space in the bed of
+the sea in front of the outlet pipe, and other matters
+dependent upon the special form of construction adopted. If a
+plug is inserted in the open end of the pipes as laid, the
+rising of the tide will press on the plugged end and be of
+considerable assistance in pushing the pipes home; it will
+therefore be necessary to re-examine the joints to see if the
+bolts can be tightened up any more.
+
+Messrs. Siebe, Gorman, and Co., the well-known makers of
+submarine appliances, have fitted up at their works at
+Westminster Bridge-road, London, S.E., an experimental tank, in
+which engineers may make a few preliminary descents and be
+instructed in the art of diving; and it is distinctly more
+advantageous to acquire the knowledge in this way from experts
+than to depend solely upon the guidance of the divers engaged
+upon the work which the engineer desires to inspect. Only a
+nominal charge of one guinea for two descents is made, which
+sum, less out-of-pocket expenses, is remitted to the Benevolent
+Fund of the Institution of Civil Engineers. It is generally
+desirable that a complete outfit, including the air pump,
+should be provided for the sole use of the resident engineer,
+and special men should be told off to assist him in dressing
+and to attend to his wants while he is below water. He is then
+able to inspect the work while it is actually in progress, and
+he will not hinder or delay the divers.
+
+It is a wise precaution to be medically examined before
+undertaking diving work, although, with the short time which
+will generally be spent below water, and the shallow depths
+usual in this class of work, there is practically no danger;
+but, generally speaking, a diver should be of good physique,
+not unduly stout, free from heart or lung trouble and varicose
+veins, and should not drink or smoke to excess. It is
+necessary, however, to have acquaintance with the physical
+principles involved, and to know what to do in emergencies. A
+considerable amount of useful information is given by Mr. R. H.
+Davis in his "Diving Manual" (Siebe, Gorman, and Co., 5s.),
+from which many of the following notes are taken.
+
+A diving dress and equipment weighs about l75 lb, including a
+40 lb lead weight carried by the diver on his chest, a similar
+weight on his back, and l6lb of lead on each boot. Upon
+entering the water the superfluous air in the dress is driven
+out through the outlet valve in the helmet by the pressure of
+the water on the legs and body, and by the time the top of the
+diver's head reaches the surface his breathing becomes
+laboured, because the pressure of air in his lungs equals the
+atmospheric pressure, while the pressure upon his chest and
+abdomen is greater by the weight of the water thereon.
+
+He is thus breathing against a pressure, and if he has to
+breathe deeply, as during exertion, the effect becomes serious;
+so that the first thing he has to learn is to adjust the
+pressure of the spring on the outlet valve, so that the amount
+of air pumped in under pressure and retained in the diving
+dress counterbalances the pressure of the water outside, which
+is equal to a little under 1/2lb per square inch for every foot
+in depth. If the diver be 6 ft tall, and stands in an upright
+position, the pressure on his helmet will be about 3lb per
+square inch less than on his boots. The breathing is easier if
+the dress is kept inflated down to the abdomen, but in this
+case there is danger of the diver being capsized and floating
+feet upwards, in which position he is helpless, and the air
+cannot escape by the outlet valve. Air is supplied to the diver
+under pressure by an air pump through a flexible tube called
+the air pipe; and a light rope called a life line, which is
+used for signalling, connects the man with the surface. The
+descent is made by a 3 in "shot-rope," which has a heavy sinker
+weighing about 50 lb attached, and is previously lowered to the
+bottom. A 1-1/4 in rope about 15 ft long, called a "distance-
+line," is attached to the shot-rope about 3 ft above the
+sinker, and on reaching the bottom the diver takes this line
+with him to enable him to find his way back to the shot-rope,
+and thus reach the surface comfortably, instead of being hauled
+up by his life line. The diver must be careful in his movements
+that he does not fall so as suddenly to increase the depth of
+water in which he is immersed, because at the normal higher
+level the air pressure in the dress will be properly balanced
+against the water pressure; but if he falls, say 30 ft, the
+pressure of the water on his body will be increased by about 15
+lb per square inch, and as the air pump cannot immediately
+increase the pressure in the dress to a corresponding extent,
+the man's body in the unresisting dress will be forced into the
+rigid helmet, and he will certainly be severely injured, and
+perhaps even killed.
+
+When descending under water the air pressure in the dress is
+increased, and acts upon the outside of the drum of the ear,
+causing pain, until the air passing through the nose and up the
+Eustachian tube inside the head reaches the back of the drum
+and balances the pressure. This may be delayed, or prevented,
+if the tube is partially stopped up by reason of a cold or
+other cause, but the balance can generally be brought about if
+the diver pauses in his descent and swallows his saliva; or
+blocks up his nose as much as possible by pressing it against
+the front of the helmet, closing the mouth and then making a
+strong effort at expiration so as to produce temporarily an
+extra pressure inside the throat, and so blow open the tubes;
+or by yawning or going through the motions thereof. If this
+does not act he must come up again Provided his ears are
+"open," and the air pumps can keep the pressure of air equal to
+that of the depth of the water in which the diver may be, there
+is nothing to limit the rate of his descent.
+
+Now in breathing, carbonic acid gas is exhaled, the quality
+varying in accordance with the amount of work done, from .014
+cubic feet per minute when at rest to a maximum of about .045,
+and this gas must be removed by dilution with fresh air so as
+not to inconvenience the diver. This is not a matter of much
+difficulty as the proportion in fresh air is about .03 per
+cent., and no effect is felt until the proportion is increased
+to about 0.3 per cent., which causes one to breathe twice as
+deeply as usual; at 0.6 per cent. there is severe panting; and
+at a little over 1.0 per cent. unconsciousness occurs. The
+effect of the carbonic acid on the diver, however, increases
+the deeper he descends; and at a depth of 33 ft 1 per cent. of
+carbonic acid will have the same effect as 2 per cent. at the
+surface. If the diver feels bad while under water he should
+signal for more air, stop moving about, and rest quietly for a
+minute or two, when the fresh air will revive him. The volume
+of air required by the diver for respiration is about 1.5 cubic
+feet per minute, and there is a non-return valve on the air
+inlet, so that in the event of the air pipe being broken, or
+the pump failing, the air would not escape backwards, but by
+closing the outlet valve the diver could retain sufficient air
+to enable him to reach the surface.
+
+During the time that a diver is under pressure nitrogen gas
+from the air is absorbed by his blood and the tissues of his
+body. This does not inconvenience him at the time, but when he
+rises the gas is given off, so that if he has been at a great
+depth for some considerable time, and comes up quickly, bubbles
+form in the blood and fill the right side of the heart with
+air, causing death in a few minutes. In less sudden cases the
+bubbles form in the brain or spinal cord, causing paralysis of
+the legs, which is called divers' palsy, or the only trouble
+which is experienced may be severe pains in the joints and
+muscles. It is necessary, therefore, that he shall come up by
+stages so as to decompress himself gradually and avoid danger.
+The blood can hold about twice as much gas in solution as an
+equal quantity of water, and when the diver is working in
+shallow depths, up to, say, 30 ft, the amount of nitrogen
+absorbed is so small that he can stop down as long as is
+necessary for the purposes of the work, and can come up to the
+surface as quickly as he likes without any danger. At greater
+depths approximately the first half of the upward journey may
+be done in one stage, and the remainder done by degrees, the
+longest rest being made at a few feet below the surface.
+
+The following table shows the time limits in accordance with
+the latest British Admiralty practice; the time under the water
+being that from leaving the surface to the beginning of the
+ascent:--
+
+
+TABLE No. l7.--DIVING DATA.
+
+                                    Stoppages in     Total time
+                                     minutes at      for ascent
+Depth in feet.  Time under water.  different depths  in minutes.
+
+                                   at 20 ft  10 ft
+
+Up to 36        No limit                -      -     0 to 1
+
+36 to 42        Up to 3 hours           -      -     1 to 1-1/2
+                Over 3 hours            -      5     6
+
+42 to 48        Up to 1 hour            -      -     1-1/2
+                1 to 3 hours            -      5     6-1/2
+                Over 3 hours            -     10    11-1/2
+
+48 to 54        Up to 1/2 hour          -      -     2
+                1/2 to 1-1/2 hour       -      5     7
+                1-1/2 to 3 hours        -     10    12
+                Over 3 hours            -     20    22
+
+54 to 60        Up to 20 minutes        -      -     2
+                20 to 45 minutes        -      5     7
+                3/4 to 1-1/2 hour       -     10    12
+                1-1/2 to 3 hours        5     15    22
+                Over 3 hours           10     20    32
+
+
+When preparing to ascend the diver must tighten the air valve
+in his helmet to increase his buoyancy; if the valve is closed
+too much to allow the excess air to escape, his ascent will at
+first be gradual, but the pressure of the water reduces, the
+air in the dress expands, making it so stiff that he cannot
+move his arms to reach the valve, and he is blown up, with
+ever-increasing velocity, to the surface. While ascending he
+should exercise his muscles freely during the period of waiting
+at each stopping place, so as to increase the circulation, and
+consequently the rate of deceleration.
+
+During the progress of the works the location of the sea
+outfall will be clearly indicated by temporary features visible
+by day and lighted by night; but when completed its position
+must be marked in a permanent manner. The extreme end of the
+outfall should be indicated by a can buoy similar to that shown
+in Fig. 33, made by Messrs. Brown, Lenox, and Co. (Limited),
+Milwall, London, E., which costs about £75, including a 20 cwt.
+sinker and 10 fathoms of chain, and is approved for the purpose
+by the Board of Trade.
+
+[Illustration: FIG 33 CAN BUOY FOR MARKING OUTFALL SEWER.]
+
+It is not desirable to fasten the chain to any part of the
+outfall instead of using a sinker, because at low water the
+slack of the chain may become entangled, which by preventing
+the buoy from rising with the tide, will lead to damage; but a
+special pile may be driven for the purpose of securing the
+buoy, at such a distance from the outlet that the chain will
+not foul it. The buoy should be painted with alternate vertical
+stripes of yellow and green, and lettered "Sewer Outfall" in
+white letters 12 in deep.
+
+It must be remembered that it is necessary for the plans and
+sections of outfall sewers and other obstructions proposed to
+be placed in tidal waters to be submitted to the Harbour and
+Fisheries Department of the Board of Trade for their approval,
+and no subsequent alteration in the works may be made without
+their consent being first obtained.
+
+
+CHAPTER XIII.
+
+THE DISCHARGE OF SEA OUTFALL SEWERS.
+
+
+The head which governs the discharge of a sea outfall pipe is
+measured from the surface of the sewage in the tank, sewer, or
+reservoir at the head of the outfall to the level of the sea.
+As the sewage is run off the level of its surface is lowered,
+and at the same time the level of the sea is constantly varying
+as the tide rises and falls, so that the head is a variable
+factor, and consequently the rate of discharge varies. A curve
+of discharge may be plotted from calculations according to
+these varying conditions, but it is not necessary; and all
+requirements will be met if the discharges under certain stated
+conditions are ascertained. The most important condition,
+because it is the worst, is that when the level of the sea is
+at high water of equinoctial spring tides and the reservoir is
+practically empty.
+
+Sea water has a specific gravity of 1.027, and is usually taken
+as weighing 64.14 lb per cubic foot, while sewage may be taken
+as weighing 62.45 lb per cubic foot, which is the weight of
+fresh water at its maximum density. Now the ratio of weight
+between sewage and sea water is as 1 to 1.027, so that a column
+of sea water l2 inches in height requires a column of fresh
+water 12.324, or say 12-1/3 in, to balance it; therefore, in
+order to ascertain the effective head producing discharge it
+will be necessary to add on 1/3 in for every foot in depth of
+the sea water over the centre of the outlet.
+
+The sea outfall should be of such diameter that the contents of
+the reservoir can be emptied in the specified time--say, three
+hours--while the pumps are working to their greatest power in
+pouring sewage into the reservoir during the whole of the
+period; so that when the valves are closed the reservoir will
+be empty, and its entire capacity available for storage until
+the valves are again opened.
+
+To take a concrete example, assume that the reservoir and
+outfall are constructed as shown in Fig. 34, and that it is
+required to know the diameter of outfall pipe when the
+reservoir holds 1,000,000 gallons and the whole of the pumps
+together, including any that may be laid down to cope with any
+increase of the population in the future, can deliver 600,000
+gallons per hour. When the reservoir is full the top water
+level will be 43.00 O.D., but in order to have a margin for
+contingencies and to allow for the loss in head due to entry of
+sewage into the pipe, for friction in passing around bends, and
+for a slight reduction in discharging capacity of the pipe by
+reason of incrustation, it will be desirable to take the
+reservoir as full, but assume that the sewage is at the level
+31.00. The head of water in the sea measured above the centre
+of the pipe will be 21 ft, so that
+
+[*Math: $21 \times 1/3$],
+
+or 7 in--say, 0.58 ft--must be added to the height of high
+water, thus reducing the effective head from 31.00 - 10.00 =
+21.00 to 20.42 ft The quantity to be discharged will be
+
+[*Math: $\frac{1,000,000 + (3 * 600,000)}{3}$]
+
+= 933,333 gallons per hour = 15,555 gallons per minute, or,
+taking 6.23 gallons equal to 1 cubic foot, the quantity equals
+2,497 cubic feet per min Assume the required diameter to be 30
+in, then, by Hawksley's formula, the head necessary to produce
+velocity =
+
+[*Math: $\frac{Gals. per min^2}{215 \times diameter in
+inches^4} = \frac{15,555^2}{215 * 30^4}$]
+
+ = 1.389 ft, and the head to overcome friction =
+
+[*Math: $\frac{Gals. per min^2 \times Length in yards}{240 *
+diameter in inches^5} = \frac{15,555^2 * 2042}{240 * 30^5}]
+
+= 84.719. Then 1.389 + 84.719 = 86.108--say, 86.11 ft; but the
+acutal head is 20.42 ft, and the flow varies approximately as
+the square root of the head, so that the true flow will be
+about
+
+[*Math: $15,555 * \sqrt{\frac{20.42}{86.11} = 7574.8$]
+
+[Illustration: FIG 34 DIAGRAM ILLUSTRATING CALCULATIONS FOR THE
+DISCHARGE OF SEA OUTFALLS]
+
+--say 7,575 gallons. But a flow of 15,555 gallons per minute is
+required, as it varies approximately as the fifth power of the
+diameter, the requisite diameter will be about
+
+[*Math: \sqrt[5]{\frac{30^5 \times 15,555}{7575}] = 34.64
+inches.
+
+Now assume a diameter of 40 in, and repeat the calculations.
+Then head necessary to produce velocity
+
+[*Math: = \frac{15,555^2}{215 \times 40^4}] = 0.044 ft, and
+head to overcome friction =
+
+[*Math: \frac{15,555^2 \times 2042}{240 \times 40^5}]
+
+= 20.104 ft Then 0.044 + 20.104 = 20.148, say 20.15 ft, and the
+true flow will therefore be about
+
+[*Math: 15,555 * \sqrt{\frac{20.42}{20.15}}]
+
+= 15,659 gallons, and the requisite diameter about
+
+[*Math: \sqrt[5]{\frac{40^5 * 15,555}{15,659}}]
+
+= 39.94 inches.
+
+When, therefore, a 30 in diameter pipe is assumed, a diameter
+of 34.64 in is shown to be required, and when 40 in is assumed
+39.94 in is indicated.
+
+
+Let _a_ = difference between the two assumed diameters. _b_ =
+increase found over lower diameter. _c_ = decrease found under
+greater diameter. _d_ = lower assumed diameter.
+
+
+Then true diameter =
+
+[*Math: d + \frac{ab}{b+c} = 30 + \frac{10 \times
+4.64}{4.64+0.06} = 30 + \frac{46.4}{4.7} = 39.872],
+
+or, say, 40 in, which equals the required diameter.
+
+A simpler way of arriving at the size would be to calculate it
+by Santo Crimp's formula for sewer discharge, namely, velocity
+in feet per second =
+
+[*Math: 124 \sqrt[3]{R^2} \sqrt{S}],
+
+where R equals hydraulic mean depth in feet, and S = the ratio
+of fall to length; the fall being taken as the difference in
+level between the sewage and the sea after allowance has been
+made for the differing densities. In this case the fall is
+20.42 ft in a length of 6,126 ft, which gives a gradient of 1
+in 300. The hydraulic mean depth equals
+
+[*Math: \frac{d}{4}];
+
+the required discharge, 2,497 cubic feet per min, equals the
+area,
+
+[*Math: (\frac{\pi d^2}{4})]
+
+multiplied by the velocity, therefore the velocity in feet per
+second = 4/(pi d^2) x 2497/60 = 2497/(15 pi d^2) and the
+formula then becomes
+
+2497/(15 pi d^2) = 124 x * 3rd_root(d^2)/3rd_root(4^3*) x
+sqrt(1)/sqrt(300)
+
+or d^2 x 3rd_root(d^2) = 3rd_root(d^6) = (2497 x 3rd_root(16) x
+sqrt(300)) / (124 x 15 x 3.14159*)
+
+or (8 x log d)/3 = log 2497 + (1/3 x log 16) + (* x log 300) -
+log 124 - log 15 - log 3.14159;
+
+or log d = 3/8 (3.397419 + 0.401373 + 1.238561 - 2.093422 -
+1.176091 - 0.497150) = 3/8 (1.270690) = 0.476509.

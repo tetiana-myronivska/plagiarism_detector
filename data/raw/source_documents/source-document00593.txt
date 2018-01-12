@@ -1,0 +1,4771 @@
+﻿Produced by Sue Asscher asschers@bigpond.com
+
+
+CALDERON'S DRAMAS.
+
+
+LIFE IS A DREAM.
+
+
+NOW FIRST TRANSLATED FULLY FROM THE SPANISH IN THE METRE
+OF THE ORIGINAL.
+
+BY
+
+DENIS FLORENCE MAC-CARTHY.
+
+
+LONDON:  HENRY S. KING & CO.,
+65 CORNHILL, AND 12, PATERNOSTER ROW.
+1873.
+
+
+INTRODUCTION.
+
+Two of the dramas contained in this volume are the most celebrated of
+all Calderon's writings.  The first, "La Vida es Sueno", has been
+translated into many languages and performed with success on almost
+every stage in Europe but that of England.  So late as the winter of
+1866-7, in a Russian version, it drew crowded houses to the great
+theatre of Moscow; while a few years earlier, as if to give a signal
+proof of the reality of its title, and that Life was indeed a Dream,
+the Queen of Sweden expired in the theatre of Stockholm during the
+performance of "La Vida es Sueno".  In England the play has been much
+studied for its literary value and the exceeding beauty and lyrical
+sweetness of some passages; but with the exception of a version by
+John Oxenford published in "The Monthly Magazine" for 1842, which
+being in blank verse does not represent the form of the original, no
+complete translation into English has been attempted.  Some scenes
+translated with considerable elegance in the metre of the original
+were published by Archbishop Trench in 1856; but these comprised only
+a portion of the graver division of the drama.  The present version
+of the entire play has been made with the advantages which the
+author's long experience in the study and interpretation of Calderon
+has enabled him to apply to this master-piece of the great Spanish
+poet.  All the forms of verse have been preserved; while the
+closeness of the translation may be inferred from the fact, that not
+only the whole play but every speech and fragment of a speech are
+represented in English in the exact number of lines of the original,
+without the sacrifice, it is to be hoped, of one important idea.
+
+A note by Hartzenbusch in the last edition of the drama published at
+Madrid (1872), tells that "La Vida es Sueno", is founded on a story
+which turns out to be substantially the same as that with which
+English students are familiar as the foundation of the famous
+Induction to the "Taming of the Shrew".  Calderon found it however in
+a different work from that in which Shakespeare met with it, or
+rather his predecessor, the anonymous author of "The Taming of a
+Shrew", whose work supplied to Shakespeare the materials of his own
+comedy.
+
+On this subject Malone thus writes.  "The circumstance on which the
+Induction to the anonymous play, as well as to the present Comedy
+[Shakespeare's "Taming of the Shrew"], is founded, is related (as
+Langbaine has observed) by Heuterus, "Rerum Burgund." lib. iv.  The
+earliest English original of this story in prose that I have met with
+is the following, which is found in Goulart's "Admirable and
+Memorable Histories", translated by E. Grimstone, quarto, 1607; but
+this tale (which Goulart translated from Heuterus) had undoubtedly
+appeared in English, in some other shape, before 1594:
+
+"Philip called the good Duke of Burgundy, in the memory of our
+ancestors, being at Bruxelles with his Court, and walking one night
+after supper through the streets, accompanied by some of his
+favourites, he found lying upon the stones a certaine artisan that
+was very dronke, and that slept soundly.  It pleased the prince in
+this artisan to make trial of the vanity of our life, whereof he had
+before discoursed with his familiar friends.  He therefore caused
+this sleeper to be taken up, and carried into his palace; he commands
+him to be layed in one of the richest beds; a riche night cap to be
+given him; his foule shirt to be taken off, and to have another put
+on him of fine holland.  When as this dronkard had digested his wine,
+and began to awake, behold there comes about his bed Pages and
+Groomes of the Duke's Chamber, who drawe the curteines, make many
+courtesies, and being bare-headed, aske him if it please him to rise,
+and what apparell it would please him to put on that day.  They bring
+him rich apparell.  This new Monsieur amazed at such courtesie, and
+doubting whether he dreamt or waked, suffered himselfe to be drest,
+and led out of the chamber.  There came noblemen which saluted him
+with all honour, and conduct him to the Masse, where with great
+ceremonie they give him the booke of the Gospell, and the Pixe to
+kisse, as they did usually to the Duke.  From the Masse they bring
+him back unto the pallace; he washes his hands, and sittes down at
+the table well furnished.  After dinner, the Great Chamberlain
+commands cards to be brought with a great summe of money.  This Duke
+in imagination playes with the chief of the Court.  Then they carry
+him to walke in the gardein, and to hunt the hare, and to hawke.
+They bring him back into the pallace, where he sups in state.
+Candles being light the musitions begin to play; and the tables taken
+away, the gentlemen and gentlewomen fell to dancing.  Then they
+played a pleasant comedie, after which followed a Banket, whereat
+they had presently store of Ipocras and pretious wine, with all sorts
+of confitures, to this prince of the new impression; so as he was
+dronke, and fell soundlie asleepe.  Hereupon the Duke commanded that
+he should be disrobed of all his riche attire.  He was put into his
+old ragges, and carried into the same place, where he had been found
+the night before; where he spent that night.  Being awake in the
+morning, he began to remember what had happened before; he knewe not
+whether it were true indeede, or a dream that had troubled his
+braine.  But in the end, after many discourses, he concludes that ALL
+WAS BUT A DREAME that had happened unto him; and so entertained his
+wife, his children, and his neighbours, without any other
+apprehension."
+
+It is curious to find that the same anecdote which formed the
+Induction to the original "Taming of a Shrew", and which, from a
+comic point of view, Shakespeare so wonderfully developed in his own
+comedy, Calderon invested with such solemn and sublime dignity in "La
+Vida es Sueno".  He found it, as Senor Hartzenbusch points out in the
+edition of 1872 already quoted, in the very amusing "Viage
+Entretenido" of Augustin de Rojas, which was first published in 1603.
+Hartzenbusch refers to the modern edition of Rojas, Madrid, 1793,
+tomo I, pp. 261, 262, 263, but in a copy of the Lerida edition of
+1615, in my own possession, I find the anecdote at folios 118, 119,
+120.  There are some slight differences between the version of Rojas
+and that of Goulart, but the incidents and the persons are the same.
+The conclusion to which the artizan arrived at, in the version of
+Goulart, that all had been a dream, is expressed more strongly by the
+Duke himself in the story as told by Rojas.
+
+"Y dijo entonces el Duque:  'veis aqui, amigos, "Lo que es el Mundo:
+Todo es un Sueno", pues esto verdaderamente ha pasado por este, como
+habeis visto, y le parece que lo ha sonado.'" --
+
+The story in all probability came originally from the East.  Mr. Lane
+in his translation of the Thousand and One Nights gives a very
+interesting narrative which he believes to be founded on an
+historical fact in which Haroun Al Raschid plays the part of the good
+Duke of Burgundy, and Abu-l-Hasan the original of Christopher Sly.
+The gravity of the treatment and certain incidents in this Oriental
+story recall more strongly Calderon's drama than the Induction to the
+"Taming of the Shrew".  "La Vida es Sueno" was first published either
+at the end of 1635 or beginning of 1636.
+
+The "Aprobacion" for its publication along with eleven other dramas
+(not nine as Archbishop Trench has stated), was signed on the 6th of
+November in the former year by the official licenser, Juan Bautista
+de Sossa.  The volume was edited by the poet's brother, Don Joseph
+Calderon.  So scarce has this first authorised collection of any of
+Calderon's dramas become, that a Spanish writer Don Vicente Garcia de
+la Huerta, in his "Teatro Espanol" (Parte Segunda, tomo 3o), denies
+the existence of this volume of 1635, and states that it did not
+appear until 1640.  As if to corroborate this view, Barrera in his
+"Catalogo del Teatro antiguo Espanol" gives the date 1640 to the
+"Primera parte de comedias de Calderon" edited by his brother Joseph.
+
+There can be no doubt, however, that the volume appeared in 1635 or
+1636 as stated.  In 1637 Don Joseph Calderon published the "Second
+Part" of his brother's dramas containing like the former volume
+twelve plays.*  In his dedication of this volume to D. Rodrigo de
+Mendoza, Joseph Calderon expressly alludes to the First Part of his
+brother's comedies which he had "printed."  "En la primera Parte,
+Excellentissimo Senor, de las comedias que imprimi de Don Pedro
+Calderon de La Barca, mi hermano," etc.  This of course settles the
+fact of the prior publication of the first Part.  It is singular,
+however, to find that the most famous of all Calderon's dramas should
+have been frequently ascribed to Lope de Vega.  So late as 1857 it is
+given in an Italian version by Giovanni La Cecilia, under the title
+of "La Vita e un Sogno", as a drama of Lope de Vega, with the date
+1628.  This of course is a mistake, but Senor Hartzenbusch, who makes
+no allusion to this circumstance, admits that two dramas of Lope de
+Vega, which it is presumed preceded the composition of Calderon's
+play turn on very nearly the same incidents as those of "La Vida es
+Sueno".  These are "Lo que ha de ser", and "Barlan y Josafa".  He
+gives a passage from each of these dramas which seem to be the germ
+of the fine lament of Sigismund, which the reader will find
+translated in the present volume.
+
+[footnote] *In the library of the British Museum there is a fine copy
+of this "Segunda Parte de Comedias de Don Pedro Calderon de la Barca"
+Madrid, 1637.  Mr. Ticknor mentions (1863) that he too had a copy of
+this interesting volume.
+
+Senor Hartzenbusch, in the edition of Calderon's "La Vida es Sueno",
+already referred to (Madrid, 1872), prints the passages from Lope de
+Vega's two dramas, but in neither of them, he justly remarks, can we
+find anything that at all corresponds to this "grandioso caracter de
+Segismundo."
+
+The second drama in this volume, "The Wonderful Magician", is perhaps
+better known to poetical students in England than even the first,
+from the spirited fragment Shelley has left us in his "Scenes from
+Calderon."  The preoccupation of a subject by a great master throws
+immense difficulties in the way of any one who ventures to follow in
+the same path:  but as Shelley allowed himself great licence in his
+versification, and either from carelessness or an imperfect knowledge
+of Spanish is occasionally unfaithful to the meaning of his author,
+it may be hoped in my own version that strict fidelity both as to the
+form as well as substance of the original may be some compensation
+for the absence of those higher poetical harmonies to which many of
+my readers will have been accustomed.
+
+"El Magico Prodigioso" appeared for the first time in the same volume
+as "La Vida es Sueno", prepared for publication in 1635 by Don Joseph
+Calderon.  The translation is comprised in the same number of lines
+as the original, and all the preceding remarks on "Life is a Dream",
+whether in reference to the period of the first publication of the
+drama in Spain, or the principles I kept in view while attempting
+this version may be applied to it.  As in the Case of "Life is a
+Dream", "The Wonderful Magician" has previously been translated
+entire by an English writer, ("Justina", by J.H. 1848); but as
+Archbishop Trench truly observes, "the writer did not possess that
+command of the resources of the English language, which none more
+than Calderon requires."
+
+The Legend on which Calderon founded "El Magico Prodigioso" will be
+found in Surius, "De probatis Sanctorum historiis", t. V. (Col. Agr.
+1574), p. 351:  "Vita et Martyrium SS. Cypriani et Justinae, autore
+Simeone Metaphraste", and in Chapter cxlii, of the "Legenda Aurea" of
+Jacobus de Voragine "De Sancta Justina virgine".
+
+The martyrdom of the Saints took place in the year 290, and their
+festival is celebrated by the Church on the 26th of September.
+
+Mr. Ticknor in his History of Spanish Literature, 1863, volume ii. p.
+369, says that the Wonder-working Magician is founded on "the same
+legend on which Milman has founded his 'Martyr of Antioch.'"  This is
+a mistake of the learned writer.  "The Martyr of Antioch" is founded
+not on the history of St. Justina but of Saint Margaret, as Milman
+himself expressly states.  Chapter xciii., "De Sancta Margareta", in
+the "Legenda Aurea" of Jacobus de Voragine contains her story.
+
+The third translation in this volume is that of "The Purgatory of St.
+Patrick".  This, though perhaps not so famous as the two preceding
+dramas, is intended to be given by Don P. De la Escosura, in a
+selection of Calderon's finest "comedias", now being edited by him
+for the Spanish Academy, as the representative piece of its class --
+namely, the mystical drama founded on the lives of Saints.  Mr.
+Ticknor prefers it to the more celebrated "Devotion of the Cross,"
+and says that it "is commonly ranked among the best religious plays
+of the Spanish theatre in the seventeenth century."
+
+In all that relates to the famous cave known through the middle ages
+as the "Purgatory of Saint Patrick", as well as the Story of Luis
+Enius -- the Owain Miles of Ancient English poetry -- Calderon was
+entirely indebted to the little volume published at Madrid, in 1627,
+by Juan Perez de Montalvan, entitled "Vida y Purgatorio de San
+Patricio".  This singular work met with immense success.  It went
+through innumerable editions, and continues to be reprinted in Spain
+as a chap-book, down to the present day.  I have the fifth impression
+"improved and enlarged by the author himself," Madrid, 1628, the year
+after its first appearance:  also a later edition, Madrid, 1664.  As
+early as 1637 a French translation appeared at Brussels by "F. A. S.
+Chartreux, a Bruxelles."  In 1642 a second French translation was
+published at Troyes, by "R. P. Francois Bouillon, de l'Ordre de S.
+Francois, et Bachelier de Theologie."  Mr. Thomas Wright in his
+"Essay on St. Patrick's Purgatory," London, 1844, makes the singular
+mistake of supposing that Bouillon's "Histoire de la Vie et
+Purgatoire de S. Patrice" was founded on the drama of Calderon, it
+being simply a translation of Montalvan's "Vida y Purgatorio," from
+which, like itself, Calderon's play was derived.  Among other
+translations of Montalvan's work may be mentioned one in Dutch
+(Brussels, 1668) and one in Portuguese (Lisbon, 1738).  It was also
+translated into German and Italian, but I find no mention of an
+English version.  For this reason I have thought that a few extracts
+might be interesting, as showing how closely Calderon adhered even to
+the language of his predecessor.
+
+In all that relates to the Purgatory, Montalvan's work is itself
+chiefly compiled from the "Florilegium Insulae Sanctorum, seu vitae
+et Actae sanctorum Hiberniae," Paris, 1624, fol.  This work, which
+has now become scarce, was written by Thomas Messingham an Irish
+priest, the Superior of the Irish Seminary in Paris.  No complete
+English version appears to have been made of it, but a small tract in
+English containing everything in the original work that referred to
+St. Patrick's Purgatory was published at Paris in 1718.  As this
+tract is perhaps more scarce than even the Florilegium itself, the
+account of the Purgatory as given by Messingham from the MS. of Henry
+of Saltrey is reprinted in the notes to this drama in the quaint
+language of the anonymous translator.  Of this tract, "printed at
+Paris in 1718" without the name of author, publisher or printer, I
+have not been able to trace another copy.  In other points of
+interest connected with Calderon's drama, particularly to the
+clearing up of the difficulty hitherto felt as to the confused list
+of authorities at the end, the reader is also referred to the notes.
+
+The present version of "The Purgatory of Saint Patrick" is, with the
+exception of a few unimportant lines, an entirely new translation.
+It is made with the utmost care, imitating all the measures and
+contained, like the two preceding dramas, in the exact number of
+lines of the original.  One passage of the translation which I
+published in 1853 is retained in the notes, as a tribute of respect
+to the memory of the late John Rutter Chorley, it having been
+mentioned with praise by that eminent Spanish scholar in an elaborate
+review of my earlier translations from Calderon, which appeared in
+the "Athenaeum", Nov. 19 and Nov. 26, 1853.
+
+It only remains to add that the text I have followed is that of
+Hartzenbusch in his edition of Calderon's Comedias, Madrid, 1856
+("Biblioteca de Autores Espanoles").  His arrangement of the scenes
+has been followed throughout, thus enabling the reader in a moment to
+verify for himself the exactness of the translation by a reference to
+the original, a crucial test which I rather invite than decline.
+
+CLAPHAM PARK, Easter, 1873.
+
+
+LIFE IS A DREAM.
+
+
+TO
+
+DON JUAN EUGENIO HARTZENBUSCH,
+
+POET, DRAMATIST, NOVELIST, AND CRITIC,
+THE MOST ILLUSTRIOUS OF LIVING SPANISH WRITERS,
+
+THIS TRANSLATION
+INTO ENGLISH IMITATIVE VERSE
+OF
+CALDERON'S MOST FAMOUS DRAMA,
+
+IS INSCRIBED,
+WITH THE ESTEEM AND REGARD
+OF
+THE AUTHOR.
+
+
+PERSONS.
+
+      *     *     *     *     *
+
+BASILIUS, King of Poland.
+SIGISMUND, his Son.
+ASTOLFO, Duke of Muscovy.
+CLOTALDO, a Nobleman.
+ESTRELLA, a Princess.
+ROSAURA, a Lady.
+CLARIN, her Servant.
+Soldiers.
+Guards.
+Musicians.
+Attendants.
+Ladies.
+Servants.
+
+      *     *     *     *     *
+
+The Scene is in the Court of Poland, in a fortress at some distance,
+and in the open field.
+
+
+LIFE IS A DREAM.
+
+      *     *     *     *     *
+
+ACT THE FIRST.
+
+At one side a craggy mountain, at the other a tower, the lower part
+of which serves as the prison of Sigismund.  The door facing the
+spectators is half open.  The action commences at nightfall.
+
+
+SCENE I.
+
+ROSAURA, CLARIN.
+
+ROSAURA in man's attire appears on the rocky heights and descends to
+the plain.  She is followed by CLARIN.
+
+ROSAURA.  Wild hippogriff swift speeding,
+Thou that dost run, the winged winds exceeding,
+Bolt which no flash illumes,
+Fish without scales, bird without shifting plumes,
+And brute awhile bereft
+Of natural instinct, why to this wild cleft,
+This labyrinth of naked rocks, dost sweep
+Unreined, uncurbed, to plunge thee down the steep?
+Stay in this mountain wold,
+And let the beasts their Phaeton behold.
+For I, without a guide,
+Save what the laws of destiny decide,
+Benighted, desperate, blind.
+Take any path whatever that doth wind
+Down this rough mountain to its base,
+Whose wrinkled brow in heaven frowns in the sun's bright face.
+Ah, Poland! in ill mood
+Hast thou received a stranger, since in blood
+The name thou writest on thy sands
+Of her who hardly here fares hardly at thy hands.
+My fate may well say so:--
+But where shall one poor wretch find pity in her woe?
+
+CLARIN.  Say two, if you please;
+Don't leave me out when making plaints like these.
+For if we are the two
+Who left our native country with the view
+Of seeking strange adventures, if we be
+The two who, madly and in misery,
+Have got so far as this, and if we still
+Are the same two who tumbled down this hill,
+Does it not plainly to a wrong amount,
+To put me in the pain and not in the account?
+
+ROSAURA.  I do not wish to impart,
+Clarin, to thee, the sorrows of my heart;
+Mourning for thee would spoil the consolation
+Of making for thyself thy lamentation;
+For there is such a pleasure in complaining,
+That a philosopher I've heard maintaining
+One ought to seek a sorrow and be vain of it,
+In order to be privileged to complain of it.
+
+CLARIN.  That same philosopher
+Was an old drunken fool, unless I err:
+Oh, that I could a thousand thumps present him,
+In order for complaining to content him!
+But what, my lady, say,
+Are we to do, on foot, alone, our way
+Lost in the shades of night?
+For see, the sun descends another sphere to light.
+
+ROSAURA.  So strange a misadventure who has seen?
+But if my sight deceives me not, between
+These rugged rocks, half-lit by the moon's ray
+And the declining day,
+It seems, or is it fancy? that I see
+A human dwelling?
+
+CLARIN.  So it seems to me,
+Unless my wish the longed-for lodging mocks.
+
+ROSAURA.  A rustic little palace 'mid the rocks
+Uplifts its lowly roof,
+Scarce seen by the far sun that shines aloof.
+Of such a rude device
+Is the whole structure of this edifice,
+That lying at the feet
+Of these gigantic crags that rise to greet
+The sun's first beams of gold,
+It seems a rock that down the mountain rolled.
+
+CLARIN.  Let us approach more near,
+For long enough we've looked at it from here;
+Then better we shall see
+If those who dwell therein will generously
+A welcome give us.
+
+ROSAURA.  See an open door
+(Funereal mouth 'twere best the name it bore),
+From which as from a womb
+The night is born, engendered in its gloom.
+
+[The sound of chains is heard within.]
+
+CLARIN.  Heavens!  what is this I hear?
+
+ROSAURA.  Half ice, half fire, I stand transfixed with fear.
+
+CLARIN.  A sound of chains, is it not?
+Some galley-slave his sentence here hath got;
+My fear may well suggest it so may be.
+
+
+      *     *     *     *     *
+
+
+SCENE II.
+
+SIGISMUND, [in the tower.]  ROSAURA, CLARIN.
+
+SIGISMUND [within].  Alas!  Ah, wretched me!  Ah, wretched me!
+
+ROSAURA.  Oh what a mournful wail!
+Again my pains, again my fears prevail.
+
+CLARIN.  Again with fear I die.
+
+ROSAURA.  Clarin!
+
+CLARIN.      My lady!
+
+ROSAURA.            Let us turn and fly
+The risks of this enchanted tower.
+
+CLARIN.      For one,
+I scarce have strength to stand, much less to run.
+
+ROSAURA.  Is not that glimmer there afar --
+That dying exhalation -- that pale star --
+A tiny taper, which, with trembling blaze
+Flickering 'twixt struggling flames and dying rays,
+With ineffectual spark
+Makes the dark dwelling place appear more dark?
+Yes, for its distant light,
+Reflected dimly, brings before my sight
+A dungeon's awful gloom,
+Say rather of a living corse, a living tomb;
+And to increase my terror and surprise,
+Drest in the skins of beasts a man there lies:
+A piteous sight,
+Chained, and his sole companion this poor light.
+Since then we cannot fly,
+Let us attentive to his words draw nigh,
+Whatever they may be.
+
+[The doors of the tower open wide, and SIGISMUND is discovered in
+chains and clad in the skins of beasts.  The light in the tower
+increases.]
+
+SIGISMUND.  Alas!  Ah, wretched me!  Ah, wretched me!
+Heaven, here lying all forlorn,
+I desire from thee to know,
+Since thou thus dost treat me so,
+Why have I provoked thy scorn
+By the crime of being born?--
+Though for being born I feel
+Heaven with me must harshly deal,
+Since man's greatest crime on earth
+Is the fatal fact of birth --
+Sin supreme without appeal.
+This alone I ponder o'er,
+My strange mystery to pierce through;
+Leaving wholly out of view
+Germs my hapless birthday bore,
+How have I offended more,
+That the more you punish me?
+Must not other creatures be
+Born?  If born, what privilege
+Can they over me allege
+Of which I should not be free?
+Birds are born, the bird that sings,
+Richly robed by Nature's dower,
+Scarcely floats -- a feathered flower,
+Or a bunch of blooms with wings --
+When to heaven's high halls it springs,
+Cuts the blue air fast and free,
+And no longer bound will be
+By the nest's secure control:--
+And with so much more of soul,
+Must I have less liberty?
+Beasts are born, the beast whose skin
+Dappled o'er with beauteous spots,
+As when the great pencil dots
+Heaven with stars, doth scarce begin
+From its impulses within--
+Nature's stern necessity,
+To be schooled in cruelty,--
+Monster, waging ruthless war:--
+And with instincts better far
+Must I have less liberty?
+Fish are born, the spawn that breeds
+Where the oozy sea-weeds float,
+Scarce perceives itself a boat,
+Scaled and plated for its needs,
+When from wave to wave it speeds,
+Measuring all the mighty sea,
+Testing its profundity
+To its depths so dark and chill:--
+And with so much freer will,
+Must I have less liberty?
+Streams are born, a coiled-up snake
+When its path the streamlet finds,
+Scarce a silver serpent winds
+'Mong the flowers it must forsake,
+But a song of praise doth wake,
+Mournful though its music be,
+To the plain that courteously
+Opes a path through which it flies:--
+And with life that never dies,
+Must I have less liberty?
+When I think of this I start,
+Aetna-like in wild unrest
+I would pluck from out my breast
+Bit by bit my burning heart:--
+For what law can so depart
+From all right, as to deny
+One lone man that liberty --
+That sweet gift which God bestows
+On the crystal stream that flows,
+Birds and fish that float or fly?
+
+ROSAURA.  Fear and deepest sympathy
+Do I feel at every word.
+
+SIGISMUND.  Who my sad lament has heard?
+What!  Clotaldo!
+
+CLARIN [aside to his mistress].      Say 'tis he.
+
+ROSAURA.  No, 'tis but a wretch (ah, me!)
+Who in these dark caves and cold
+Hears the tale your lips unfold.
+
+SIGISMUND.  Then you'll die for listening so,
+That you may not know I know
+That you know the tale I told.
+
+[Seizes her.]
+
+Yes, you'll die for loitering near:
+In these strong arms gaunt and grim
+I will tear you limb from limb.
+
+CLARIN.  I am deaf and couldn't hear:--
+No!
+
+ROSAURA.      If human heart you bear,
+'Tis enough that I prostrate me.
+At thy feet, to liberate me!
+
+SIGISMUND.  Strange thy voice can so unbend me,
+Strange thy sight can so suspend me,
+And respect so penetrate me!
+Who art thou? for though I see
+Little from this lonely room,
+This, my cradle and my tomb.
+Being all the world to me,
+And if birthday it could be,
+Since my birthday I have known
+But this desert wild and lone,
+Where throughout my life's sad course
+I have lived, a breathing corse,
+I have moved, a skeleton;
+And though I address or see
+Never but one man alone,
+Who my sorrows all hath known,
+And through whom have come to me
+Notions of earth, sky, and sea;
+And though harrowing thee again,
+Since thou'lt call me in this den,
+Monster fit for bestial feasts,
+I'm a man among wild beasts,
+And a wild beast amongst men.
+But though round me has been wrought
+All this woe, from beasts I've learned
+Polity, the same discerned
+Heeding what the birds had taught,
+And have measured in my thought
+The fair orbits of the spheres;
+You alone, 'midst doubts and fears,
+Wake my wonder and surprise --
+Give amazement to my eyes,
+Admiration to my ears.
+Every time your face I see
+You produce a new amaze:
+After the most steadfast gaze,
+I again would gazer be.
+I believe some hydropsy
+Must affect my sight, I think
+Death must hover on the brink
+Of those wells of light, your eyes,
+For I look with fresh surprise,
+And though death result, I drink.
+Let me see and die:  forgive me;
+For I do not know, in faith,
+If to see you gives me death,
+What to see you not would give me;
+Something worse than death would grieve me,
+Anger, rage, corroding care,
+Death, but double death it were,
+Death with tenfold terrors rife,
+Since what gives the wretched life,
+Gives the happy death, despair!
+
+ROSAURA.  Thee to see wakes such dismay,
+Thee to hear I so admire,
+That I'm powerless to inquire,
+That I know not what to say:
+Only this, that I to-day,
+Guided by a wiser will,
+Have here come to cure my ill,
+Here consoled my grief to see,
+If a wretch consoled can be
+Seeing one more wretched still.
+Of a sage, who roamed dejected,
+Poor, and wretched, it is said,
+That one day, his wants being fed
+By the herbs which he collected,
+"Is there one" (he thus reflected)
+"Poorer than I am to-day?"
+Turning round him to survey,
+He his answer got, detecting
+A still poorer sage collecting
+Even the leaves he threw away.
+Thus complaining to excess,
+Mourning fate, my life I led,
+And when thoughtlessly I said
+To myself, "Does earth possess
+One more steeped in wretchedness?"
+I in thee the answer find.
+Since revolving in my mind,
+I perceive that all my pains
+To become thy joyful gains
+Thou hast gathered and entwined.
+And if haply some slight solace
+By these pains may be imparted,*
+Hear attentively the story
+Of my life's supreme disasters.
+I am ....
+
+
+[footnote] *The metre changes here to the vocal "asonante" in "a--e",
+and continues to the end of the Fourth Scene.
+
+
+      *     *     *     *     *
+
+
+SCENE III.
+
+CLOTALDO, Soldiers, SIGISMUND, ROSAURA, CLARIN.
+
+CLOTALDO [within].  Warders of this tower,
+Who, or sleeping or faint-hearted,
+Give an entrance to two persons
+Who herein have burst a passage . . . .
+
+ROSAURA.  New confusion now I suffer.
+
+SIGISMUND.  'Tis Clotaldo, who here guards me;
+Are not yet my miseries ended?
+
+CLOTALDO [within].  Hasten hither, quick! be active!
+And before they can defend them,
+Kill them on the spot, or capture!
+
+[Voices within.]  Treason!
+
+CLARIN.      Watchguards of this tower,
+Who politely let us pass here,
+Since you have the choice of killing
+Or of capturing, choose the latter.
+
+[Enter CLOTALDO and Soldiers; he with a pistol, and all with their
+faces covered.]
+
+CLOTALDO [aside to the Soldiers].  Keep your faces all well covered,
+For it is a vital matter
+That we should be known by no one,
+While I question these two stragglers.
+
+CLARIN.  Are there masqueraders here?
+
+CLOTALDO.  Ye who in your ignorant rashness
+Have passed through the bounds and limits
+Of this interdicted valley,
+'Gainst the edict of the King,
+Who has publicly commanded
+None should dare descry the wonder
+That among these rocks is guarded,
+Yield at once your arms and lives,
+Or this pistol, this cold aspic
+Formed of steel, the penetrating
+Poison of two balls will scatter,
+The report and fire of which
+Will the air astound and startle.
+
+SIGISMUND.  Ere you wound them, ere you hurt them,
+Will my life, O tyrant master,
+Be the miserable victim
+Of these wretched chains that clasp me;
+Since in them, I vow to God,
+I will tear myself to fragments
+With my hands, and with my teeth,
+In these rocks here, in these caverns,
+Ere I yield to their misfortunes,
+Or lament their sad disaster.
+
+CLOTALDO.  If you know that your misfortunes,
+Sigismund, are unexampled,
+Since before being born you died
+By Heaven's mystical enactment;
+If you know these fetters are
+Of your furies oft so rampant
+But the bridle that detains them,
+But the circle that contracts them.
+Why these idle boasts?  The door
+[To the Soldiers.]
+Of this narrow prison fasten;
+Leave him there secured.
+
+SIGISMUND.  Ah, heavens,
+It is wise of you to snatch me
+Thus from freedom! since my rage
+'Gainst you had become Titanic,
+Since to break the glass and crystal
+Gold-gates of the sun, my anger
+On the firm-fixed rocks' foundations
+Would have mountains piled of marble.
+
+CLOTALDO.  'Tis that you should not so pile them
+That perhaps these ills have happened,
+
+[Some of the SOLDIERS lead SIGISMUND into his prison, the doors of
+which are closed upon him.]
+
+
+      *     *     *     *     *
+
+
+SCENE IV.
+
+ROSAURA, CLOTALDO, CLARIN, Soldiers.
+
+ROSAURA.  Since I now have seen how pride
+Can offend thee, I were hardened
+Sure in folly not here humbly
+At thy feet for life to ask thee;
+Then to me extend thy pity,
+Since it were a special harshness
+If humility and pride,
+Both alike were disregarded.
+
+CLARIN.  If Humility and Pride
+Those two figures who have acted
+Many and many a thousand times
+In the "autos sacramentales",
+Do not move you, I, who am neither
+Proud nor humble, but a sandwich
+Partly mixed of both, entreat you
+To extend to us your pardon.
+
+CLOTALDO.  Ho!
+
+SOLDIERS.  My lord?
+
+CLOTALDO.  Disarm the two,
+And their eyes securely bandage,
+So that they may not be able
+To see whither they are carried.
+
+ROSAURA.  This is, sir, my sword; to thee
+Only would I wish to hand it,
+Since in fine of all the others
+Thou art chief, and I could hardly
+Yield it unto one less noble.
+
+CLARIN.  Mine I'll give the greatest rascal
+Of your troop: [To a Soldier.] so take it, you.
+
+ROSAURA.  And if I must die, to thank thee
+For thy pity, I would leave thee
+This as pledge, which has its value
+From the owner who once wore it;
+That thou guard it well, I charge thee,
+For although I do not know
+What strange secret it may carry,
+This I know, that some great mystery
+Lies within this golden scabbard,
+Since relying but on it
+I to Poland here have travelled
+To revenge a wrong.
+
+CLOTALDO [aside.]  Just heavens!
+What is this?  Still graver, darker,
+Grow my doubts and my confusion,
+My anxieties and my anguish.--
+Speak, who gave you this?
+
+ROSAURA.      A woman.
+
+CLOTALDO.  And her name?
+
+ROSAURA.      To that my answer
+Must be silence.
+
+CLOTALDO.  But from what
+Do you now infer, or fancy,
+That this sword involves a secret?
+
+ROSAURA.  She who gave it said:  "Depart hence
+Into Poland, and by study,
+Stratagem, and skill so manage
+That this sword may be inspected
+By the nobles and the magnates
+Of that land, for you, I know,
+Will by one of them be guarded,"--
+But his name, lest he was dead,
+Was not then to me imparted.
+
+CLOTALDO [aside].  Bless me, Heaven! what's this I hear?
+For so strangely has this happened,
+That I cannot yet determine
+If 'tis real or imagined.
+This is the same sword that I
+Left with beauteous Violante,
+As a pledge unto its wearer,
+Who might seek me out thereafter,
+As a son that I would love him,
+And protect him as a father.
+What is to be done (ah, me!)
+In confusion so entangled,
+If he who for safety bore it
+Bears it now but to dispatch him,
+Since condemned to death he cometh
+To my feet?  How strange a marvel!
+What a lamentable fortune!
+How unstable! how unhappy!
+This must be my son -- the tokens
+All declare it, superadded
+To the flutter of the heart,
+That to see him loudly rappeth
+At the breast, and not being able
+With its throbs to burst its chamber,
+Does as one in prison, who,
+Hearing tumult in the alley,
+Strives to look from out the window;
+Thus, not knowing what here passes
+Save the noise, the heart uprusheth
+To the eyes the cause to examine --
+They the windows of the heart,
+Out through which in tears it glances.
+What is to be done?  (O Heavens!)
+What is to be done?  To drag him
+Now before the King were death;
+But to hide him from my master,
+That I cannot do, according
+To my duty as a vassal.
+Thus my loyalty and self-love
+Upon either side attack me;
+Each would win.  But wherefore doubt?
+Is not loyalty a grander,
+Nobler thing than life, than honour?
+Then let loyalty live, no matter
+That he die; besides, he told me,
+If I well recall his language,
+That he came to revenge a wrong,
+But a wronged man is a lazar,--
+No, he cannot be my son,
+Not the son of noble fathers.
+But if some great chance, which no one
+Can be free from, should have happened,
+Since the delicate sense of honour
+Is a thing so fine, so fragile,
+That the slightest touch may break it,
+Or the faintest breath may tarnish,
+What could he do more, do more,
+He whose cheek the blue blood mantles,
+But at many risks to have come here
+It again to re-establish?
+Yes, he is my son, my blood,
+Since he shows himself so manly.
+And thus then betwixt two doubts
+A mid course alone is granted:
+'Tis to seek the King, and tell him
+Who he is, let what will happen.
+A desire to save my honour
+May appease my royal master;
+Should he spare his life, I then
+Will assist him in demanding
+His revenge; but if the King
+Should, persisting in his anger,
+Give him death, then he will die
+Without knowing I'm his father.--
+[To ROSAURA and CLARIN.]
+Come, then, come then with me, strangers.
+Do not fear in your disasters
+That you will not have companions
+In misfortune; for so balanced
+Are the gains of life or death,
+That I know not which are larger.
+
+[Exeunt.]
+
+      *     *     *     *     *
+
+
+SCENE V.
+
+A HALL IN THE ROYAL PALACE.
+
+[Enter at one side ASTOLFO and Soldiers, and at the other the INFANTA
+ESTRELLA and her Ladies.  Military music and salutes within.]
+
+ASTOLFO.  Struck at once with admiration
+At thy starry eyes outshining,
+Mingle many a salutation,
+Drums and trumpet-notes combining,
+Founts and birds in alternation;
+Wondering here to see thee pass,
+Music in grand chorus gathers
+All her notes from grove and grass:
+Here are trumpets formed of feathers,
+There are birds that breathe in brass.
+All salute thee, fair Senora,
+Ordnance as their Queen proclaim thee,
+Beauteous birds as their Aurora,
+As their Pallas trumpets name thee,
+And the sweet flowers as their Flora;
+For Aurora sure thou art,
+Bright as day that conquers night --
+Thine is Flora's peaceful part,
+Thou art Pallas in thy might,
+And as Queen thou rul'st my heart.
+
+ESTRELLA.  If the human voice obeying
+Should with human action pair,
+Then you have said ill in saying
+All these flattering words and fair,
+Since in truth they are gainsaying
+This parade of victory,
+'Gainst which I my standard rear,
+Since they say, it seems to me,
+Not the flatteries that I hear,
+But the rigours that I see.
+Think, too, what a base invention
+From a wild beast's treachery sprung,--
+Fraudful mother of dissension --
+Is to flatter with the tongue,
+And to kill with the intention.
+
+ASTOLFO.  Ill informed you must have been,
+Fair Estrella, thus to throw
+Doubt on my respectful mien:
+Let your ear attentive lean
+While the cause I strive show.
+King Eustorgius the Fair,
+Third so called, died leaving two
+Daughters, and Basilius heir;
+Of his sisters I and you
+Are the children -- I forbear
+To recall a single scene
+Save what's needful.  Clorilene,
+Your good mother and my aunt,
+Who is now a habitant
+Of a sphere of sunnier sheen,
+Was the elder, of whom you
+Are the daughter; Recisunda,
+Whom God guard a thousand years,
+Her fair sister (Rosamunda
+Were she called if names were true)
+Wed in Muscovy, of whom
+I was born.  'Tis needful now
+The commencement to resume.
+King Basilius, who doth bow
+'Neath the weight of years, the doom
+Age imposes, more inclined
+To the studies of the mind
+Than to women, wifeless, lone,
+Without sons, to fill his throne
+I and you our way would find.
+You, the elder's child, averred,
+That the crown you stood more nigh:
+I, maintaining that you erred,
+Held, though born of the younger, I,
+Being a man, should be preferred.
+Thus our mutual pretension
+To our uncle we related,
+Who replied that he would mention
+Here, and on this day he stated,
+What might settle the dissension.
+With this end, from Muscovy
+I set out, and with that view,
+I to-day fair Poland see,
+And not making war on you,
+Wait till war you make on me.
+Would to love -- that God so wise --
+That the crowd may be a sure
+Astrologue to read the skies,
+And this festive truce secure
+Both to you and me the prize,
+Making you a Queen, but Queen
+By my will, our uncle leaving
+You the throne we'll share between --
+And my love a realm receiving
+Dearer than a King's demesne.
+
+ESTRELLA.  Well, I must be generous too,
+For a gallantry so fine;
+This imperial realm you view,
+If I wish it to be mine
+'Tis to give it unto you.
+Though if I the truth confessed,
+I must fear your love may fail --
+Flattering words are words at best,
+For perhaps a truer tale
+Tells that portrait on your breast.
+
+ASTOLFO.  On that point complete content
+Will I give your mind, not here,
+For each sounding instrument
+[Drums are heard.]
+Tells us that the King is near,
+With his Court and Parliament.
+
+
+      *     *     *     *     *
+
+
+SCENE VI.
+
+The KING BASILIUS, with his retinue. --
+ASTOLFO, ESTRELLA, Ladies, Soldiers.
+
+ESTRELLA.  Learned Euclid . . .
+
+ASTOLFO.      Thales wise . .
+
+ESTRELLA.  The vast Zodiac . . .
+
+ASTOLFO.      The star spaces . . .
+
+ESTRELLA.  Who dost soar to . . .
+
+ASTOLFO.      Who dost rise...
+
+ESTRELLA.  The sun's orbit . . .
+
+ASTOLFO.      The stars' places . . .
+
+ESTRELLA.  To describe . . .
+
+ASTOLFO.      To map the skies . . .
+
+ESTRELLA.  Let me humbly interlacing . . .
+
+ASTOLFO.  Let me lovingly embracing . . .
+
+ESTRELLA.  Be the tendril of thy tree.
+
+ASTOLFO.  Bend respectfully my knee.
+
+BASILIUS.  Children, that dear word displacing
+Colder names, my arms here bless;
+And be sure, since you assented
+To my plan, my love's excess
+Will leave neither discontented,
+Or give either more or less.
+And though I from being old
+Slowly may the facts unfold,
+Hear in silence my narration,
+Keep reserved your admiration,
+Till the wondrous tale is told.
+You already know -- I pray you
+Be attentive, dearest children,*
+Great, illustrious Court of Poland,
+Faithful vassals, friends and kinsmen,
+You already know -- my studies
+Have throughout the whole world given me
+The high title of "the learned,"
+Since 'gainst time and time's oblivion
+The rich pencils of Timanthes,
+The bright marbles of Lysippus,
+Universally proclaim me
+Through earth's bounds the great Basilius.
+You already know the sciences
+That I feel my mind most given to
+Are the subtle mathematics,
+By whose means my clear prevision
+Takes from rumour its slow office,
+Takes from time its jurisdiction
+Of, each day, new facts disclosing;
+Since in algebraic symbols
+When the fate of future ages
+On my tablets I see written,
+I anticipate time in telling
+What my science hath predicted.
+All those circles of pure snow,
+All those canopies of crystal,
+Which the sun with rays illumines,
+Which the moon cuts in its circles,
+All those orbs of twinkling diamond,
+All those crystal globes that glisten,
+All that azure field of stars
+Where the zodiac signs are pictured,
+Are the study of my life,
+Are the books where heaven has written
+Upon diamond-dotted paper,
+Upon leaves by sapphires tinted,
+With light luminous lines of gold,
+In clear characters distinctly
+All the events of human life,
+Whether adverse or benignant.
+These so rapidly I read
+That I follow with the quickness
+Of my thoughts the swiftest movements
+Of their orbits and their circles.
+Would to heaven, that ere my mind
+To those mystic books addicted
+Was the comment of their margins
+And of all their leaves the index,
+Would to heaven, I say, my life
+Had been offered the first victim
+Of its anger, that my death-stroke
+Had in this way have been given me,
+Since the unhappy find even merit
+Is the fatal knife that kills them,
+And his own self-murderer
+Is the man whom knowledge injures!--
+I may say so, but my story
+So will say with more distinctness,
+And to win your admiration
+Once again I pray you listen.--
+Clorilene, my wife, a son
+Bore me, so by fate afflicted
+That on his unhappy birthday
+All Heaven's prodigies assisted.
+Nay, ere yet to life's sweet life
+Gave him forth her womb, that living
+Sepulchre (for death and life
+Have like ending and beginning),
+Many a time his mother saw
+In her dreams' delirious dimness
+From her side a monster break,
+Fashioned like a man, but sprinkled
+With her blood, who gave her death,
+By that human viper bitten.
+Round his birthday came at last,
+All its auguries fulfilling
+(For the presages of evil
+Seldom fail or even linger):
+Came with such a horoscope,
+That the sun rushed blood-red tinted
+Into a terrific combat
+With the dark moon that resisted;
+Earth its mighty lists outspread
+As with lessening lights diminished
+Strove the twin-lamps of the sky.
+'Twas of all the sun's eclipses
+The most dreadful that it suffered
+Since the hour its bloody visage
+Wept the awful death of Christ.
+For o'erwhelmed in glowing cinders
+The great orb appeared to suffer
+Nature's final paroxysm.
+Gloom the glowing noontide darkened,
+Earthquake shook the mightiest buildings,
+Stones the angry clouds rained down,
+And with blood ran red the rivers.
+In this frenzy of the sun,
+In its madness and delirium,
+Sigismund was born, thus early
+Giving proofs of his condition,
+Since his birth his mother slew,
+Just as if these words had killed her,
+"I am a man, since good with evil
+I repay here from the beginning,"--
+I, applying to my studies,
+Saw in them as 'twere forewritten
+This, that Sigismund would be
+The most cruel of all princes,
+Of all men the most audacious,
+Of all monarchs the most wicked;
+That his kingdom through his means
+Would be broken and partitioned,
+The academy of the vices,
+And the high school of sedition;
+And that he himself, borne onward
+By his crimes' wild course resistless,
+Would even place his feet on me;
+For I saw myself down-stricken,
+Lying on the ground before him
+(To say this what shame it gives me!)
+While his feet on my white hairs
+As a carpet were imprinted.
+Who discredits threatened ill,
+Specially an ill previsioned
+By one's study, when self-love
+Makes it his peculiar business?--
+Thus then crediting the fates
+Which far off my science witnessed,
+All these fatal auguries
+Seen though dimly in the distance,
+I resolved to chain the monster
+That unhappily life was given to,
+To find out if yet the stars
+Owned the wise man's weird dominion.
+It was publicly proclaimed
+That the sad ill-omened infant
+Was stillborn.  I then a tower
+Caused by forethought to be builded
+'Mid the rocks of these wild mountains
+Where the sunlight scarce can gild it,
+Its glad entrance being barred
+By these rude shafts obeliscal.
+All the laws of which you know,
+All the edicts that prohibit
+Anyone on pain of death
+That secluded part to visit
+Of the mountain, were occasioned
+By this cause, so long well hidden.
+There still lives Prince Sigismund,
+Miserable, poor, in prison.
+Him alone Clotaldo sees,
+Only tends to and speaks with him;
+He the sciences has taught him,
+He the Catholic religion
+Has imparted to him, being
+Of his miseries the sole witness.
+Here there are three things:  the first
+I rate highest, since my wishes
+Are, O Poland, thee to save
+From the oppression, the affliction
+Of a tyrant King, because
+Of his country and his kingdom
+He were no benignant father
+Who to such a risk could give it.
+Secondly, the thought occurs
+That to take from mine own issue
+The plain right that every law
+Human and divine hath given him
+Is not Christian charity;
+For by no law am I bidden
+To prevent another proving,
+Say, a tyrant, or a villain,
+To be one myself:  supposing
+Even my son should be so guilty,
+That he should not crimes commit
+I myself should first commit them.
+Then the third and last point is,
+That perhaps I erred in giving
+Too implicit a belief
+To the facts foreseen so dimly;
+For although his inclination
+Well might find its precipices,
+He might possibly escape them:
+For the fate the most fastidious,
+For the impulse the most powerful.
+Even the planets most malicious
+Only make free will incline,
+But can force not human wishes.
+And thus 'twist these different causes
+Vacillating and unfixed,
+I a remedy have thought of
+Which will with new wonder fill you.
+I to-morrow morning purpose,
+Without letting it be hinted
+That he is my son, and therefore
+Your true King, at once to fix him
+As King Sigismund (for the name
+Still he bears that first was given him)
+'Neath my canopy, on my throne,
+And in fine in my position,
+There to govern and command you,
+Where in dutiful submission
+You will swear to him allegiance.
+My resources thus are triple,
+As the causes of disquiet
+Were which I revealed this instant.
+The first is; that he being prudent,
+Careful, cautious and benignant,
+Falsifying the wild actions
+That of him had been predicted,
+You'll enjoy your natural prince,
+He who has so long been living
+Holding court amid these mountains,
+With the wild beasts for his circle.
+Then my next resource is this:
+If he, daring, wild, and wicked,
+Proudly runs with loosened rein
+O'er the broad plain of the vicious,
+I will have fulfilled the duty
+Of my natural love and pity;
+Then his righteous deposition
+Will but prove my royal firmness,
+Chastisement and not revenge
+Leading him once more to the prison.
+My third course is this:  the Prince
+Being what my words have pictured,
+From the love I owe you, vassals,
+I will give you other princes
+Worthier of the crown and sceptre;
+Namely, my two sisters' children,
+Who their separate pretensions
+Having happily commingled
+By the holy bonds of marriage,
+Will then fill their fit position.
+This is what a king commands you,
+This is what a father bids you,
+This is what a sage entreats you,
+This is what an old man wishes;
+And as Seneca, the Spaniard,
+Says, a king for all his riches
+Is but slave of his Republic,
+This is what a slave petitions.
+
+[footnote] *The metre changes here to the "asonante" in "i--e", or
+their vocal equivalents, and is kept up for the remainder of the Act.
+
+ASTOLFO.  If on me devolves the answer,
+As being in this weighty business
+The most interested party,
+I, of all, express the opinion:--
+Let Prince Sigismund appear;
+He's thy son, that's all-sufficient.
+
+ALL.  Give to us our natural prince,
+We proclaim him king this instant!
+
+BASILIUS.  Vassals, from my heart I thank you
+For this deference to my wishes:--
+Go, conduct to their apartments
+These two columns of my kingdom,
+On to-morrow you shall see him.
+
+ALL.  Live, long live great King Basilius!
+
+[Exeunt all, accompanying ESTRELLA and ASTOLFO;
+The King remains.]
+
+
+      *     *     *     *     *
+
+
+SCENE VII.
+
+CLOTALDO, ROSAURA, CLARIN, and BASILIUS.
+
+CLOTALDO.  May I speak to you, sire?
+
+BASILIUS.      Clotaldo,
+You are always welcome with me.
+
+CLOTALDO.  Although coming to your feet
+Shows how freely I'm admitted,
+Still, your majesty, this once,
+Fate as mournful as malicious
+Takes from privilege its due right,
+And from custom its permission.
+
+BASILIUS.  What has happened?
+
+CLOTALDO.      A misfortune,
+Sire, which has my heart afflicted
+At the moment when all joy
+Should have overflown and filled it.
+
+BASILIUS.  Pray proceed.
+
+CLOTALDO.      This handsome youth here,
+Inadvertently, or driven
+By his daring, pierced the tower,
+And the Prince discovered in it.
+Nay . . . .
+
+BASILIUS.  Clotaldo, be not troubled
+At this act, which if committed
+At another time had grieved me,
+But the secret so long hidden
+Having myself told, his knowledge
+Of the fact but matters little.
+See me presently, for I
+Much must speak upon this business,
+And for me you much must do
+For a part will be committed
+To you in the strangest drama
+That perhaps the world e'er witnessed.
+As for these, that you may know
+That I mean not your remissness
+To chastise, I grant their pardon.
+[Exit.]
+
+CLOTALDO.  Myriad years to my lord be given!
+
+
+      *     *     *     *     *
+
+
+SCENE VIII.
+
+CLOTALDO, ROSAURA, and CLARIN.
+
+CLOTALDO [aside].  Heaven has sent a happier fate;
+Since I need not now admit it,
+I'll not say he is my son.--
+Strangers who have wandered hither,
+You are free.
+
+ROSAURA.  I give your feet
+A thousand kisses.
+
+CLARIN.      I say misses,
+For a letter more or less
+'Twixt two friends is not considered.
+
+ROSAURA.  You have given me life, my lord,
+And since by your act I'm living,
+I eternally will own me
+As your slave.
+
+CLOTALDO.  The life I've given
+Is not really your true life,
+For a man by birth uplifted
+If he suffers an affront
+Actually no longer liveth;
+And supposing you have come here
+For revenge as you have hinted,
+I have not then given you life,
+Since you have not brought it with you,
+For no life disgraced is life.--
+[Aside.]   (This I say to arouse his spirit.)
+
+ROSAURA.  I confess I have it not,
+Though by you it has been given me;
+But revenge being wreaked, my honour
+I will leave so pure and limpid,
+All its perils overcome,
+That my life may then with fitness
+Seem to be a gift of yours.
+
+CLOTALDO.  Take this burnished sword which hither
+You brought with you; for I know,
+To revenge you, 'tis sufficient,
+In your enemy's blood bathed red;
+For a sword that once was girded
+Round me (I say this the while
+That to me it was committed),
+Will know how to right you.
+
+ROSAURA.      Thus
+In your name once more I gird it,
+And on it my vengeance swear,
+Though the enemy who afflicts me
+Were more powerful.
+
+CLOTALDO.      Is he so?
+
+ROSAURA. Yes; so powerful, I am hindered
+Saying who he is, not doubting
+Even for greater things your wisdom
+And calm prudence, but through fear
+Lest against me your prized pity
+Might be turned.
+
+CLOTALDO.  'Twill rather be,
+By declaring it, more kindled;
+Otherwise you bar the passage
+'Gainst your foe of my assistance.--
+[Aside.]   (Would that I but knew his name!)
+
+ROSAURA.  Not to think I set so little
+Value on such confidence,
+Know my enemy and my victim
+Is no less than Prince Astolfo,
+Duke of Muscovy.
+
+CLOTALDO [aside].      Resistance
+Badly can my grief supply
+Since 'tis heavier than I figured.
+Let us sift the matter deeper.--
+If a Muscovite by birth, then
+He who is your natural lord
+Could not 'gainst you have committed
+Any wrong; reseek your country,
+And abandon the wild impulse
+That has driven you here.
+
+ROSAURA.      I know,
+Though a prince, he has committed
+'Gainst me a great wrong.
+
+CLOTALDO.      He could not,
+Even although your face was stricken
+By his angry hand.  [Aside.]  (Oh, heavens!)
+
+ROSAURA.  Mine's a wrong more deep and bitter.
+
+CLOTALDO.  Tell it, then; it cannot be
+Worse than what my fancy pictures.
+
+ROSAURA.  I will tell it; though I know not,
+With the respect your presence gives me,
+With the affection you awaken,
+With the esteem your worth elicits,
+How with bold face here to tell you
+That this outer dress is simply
+An enigma, since it is not
+What it seems.  And from this hint, then,
+If I'm not what I appear,
+And Astolfo with this princess
+Comes to wed, judge how by him
+I was wronged:  I've said sufficient.
+
+[Exeunt ROSAURA and CLARIN.]
+
+CLOTALDO.  Listen!  hear me!  wait!  oh, stay!
+What a labyrinthine thicket
+Is all this, where reason gives
+Not a thread whereby to issue?
+My own honour here is wronged,
+Powerful is my foe's position,
+I a vassal, she a woman;
+Heaven reveal some way in pity,
+Though I doubt it has the power;
+When in such confused abysses,
+Heaven is all one fearful presage,
+And the world itself a riddle.
+
+
+      *     *     *     *     *
+
+ACT THE SECOND.
+
+A HALL IN THE ROYAL PALACE.
+
+
+      *     *     *     *     *
+
+
+SCENE I.
+
+BASILIUS and CLOTALDO.
+
+CLOTALDO.  Everything has been effected
+As you ordered.
+
+BASILIUS.  How all happened*
+Let me know, my good Clotaldo.
+
+
+[footnote] *The metre of this and the following scene is the asonante in a--e.
+
+
+CLOTALDO.  It was done, sire, in this manner.
+With the tranquillising draught,
+Which was made, as you commanded,
+Of confections duly mixed
+With some herbs, whose juice extracted
+Has a strange tyrannic power,
+Has some secret force imparted,
+Which all human sense and speech
+Robs, deprives, and counteracteth,
+And as 'twere a living corpse
+leaves the man whose lips have quaffed it
+So asleep that all his senses,
+All his powers are overmastered . . . .
+-- No need have we to discuss
+That this fact can really happen,
+Since, my lord, experience gives us
+Many a clear and proved example;
+Certain 'tis that Nature's secrets
+May by medicine be extracted,
+And that not an animal,
+Not a stone, or herb that's planted,
+But some special quality
+Doth possess:  for if the malice
+Of man's heart, a thousand poisons
+That give death, hath power to examine,
+Is it then so great a wonder
+That, their venom being abstracted,
+If, as death by some is given,
+Sleep by others is imparted?
+Putting, then, aside the doubt
+That 'tis possible this should happen,
+A thing proved beyond all question
+Both by reason and example . . . .
+-- With the sleeping draught, in fine,
+Made of opium superadded
+To the poppy and the henbane,
+I to Sigismund's apartment --
+Cell, in fact -- went down, and with him
+Spoke awhile upon the grammar
+Of the sciences, those first studies
+Which mute Nature's gentle masters,
+Silent skies and hills, had taught him;
+In which school divine and ample,
+The bird's song, the wild beast's roar,
+Were a lesson and a language.
+Then to raise his spirit more
+To the high design you planned here,
+I discoursed on, as my theme,
+The swift flight, the stare undazzled
+Of a pride-plumed eagle bold,
+Which with back-averted talons,
+Scorning the tame fields of air,
+Seeks the sphere of fire, and passes
+Through its flame a flash of feathers,
+Or a comet's hair untangled.
+I extolled its soaring flight,
+Saying, "Thou at last art master
+Of thy house, thou'rt king of birds,
+It is right thou should'st surpass them."
+He who needed nothing more
+Than to touch upon the matter
+Of high royalty, with a bearing
+As became him, boldly answered;
+For in truth his princely blood
+Moves, excites, inflames his ardour
+To attempt great things:  he said,
+"In the restless realm of atoms
+Given to birds, that even one
+Should swear fealty as a vassal!
+I, reflecting upon this,
+Am consoled by my disasters,
+For, at least, if I obey,
+I obey through force:  untrammelled,
+Free to act, I ne'er will own
+Any man on earth my master."--
+This, his usual theme of grief,
+Having roused him nigh to madness,
+I occasion took to proffer
+The drugged draught:  he drank, but hardly
+Had the liquor from the vessel
+Passed into his breast, when fastest
+Sleep his senses seized, a sweat,
+Cold as ice, the life-blood hardened
+In his veins, his limbs grew stiff,
+So that, knew I not 'twas acted,
+Death was there, feigned death, his life
+I could doubt not had departed.
+Then those, to whose care you trust
+This experiment, in a carriage
+Brought him here, where all things fitting
+The high majesty and the grandeur
+Of his person are provided.
+In the bed of your state chamber
+They have placed him, where the stupor
+Having spent its force and vanished,
+They, as 'twere yourself, my lord,
+Him will serve as you commanded:
+And if my obedient service
+Seems to merit some slight largess,
+I would ask but this alone
+(My presumption you will pardon),
+That you tell me, with what object
+Have you, in this secret manner,
+To your palace brought him here?
+
+BASILIUS.  Good Clotaldo, what you ask me
+Is so just, to you alone
+I would give full satisfaction.
+Sigismund, my son, the hard
+Influence of his hostile planet
+(As you know) doth threat a thousand
+Dreadful tragedies and disasters;
+I desire to test if Heaven
+(An impossible thing to happen)
+Could have lied -- if having given us
+Proofs unnumbered, countless samples
+Of his evil disposition,
+He might prove more mild, more guarded
+At the lest, and self-subdued
+By his prudence and true valour
+Change his character; for 'tis man
+That alone controls the planets.
+This it is I wish to test,
+Having brought him to this palace,
+Where he'll learn he is my son,
+And display his natural talents.
+If he nobly hath subdued him,
+He will reign; but if his manners
+Show him tyrannous and cruel,
+Then his chains once more shall clasp him.
+But for this experiment,
+Now you probably will ask me
+Of what moment was't to bring him
+Thus asleep and in this manner?
+And I wish to satisfy you,
+Giving all your doubts an answer.
+If to-day he learns that he
+Is my son, and some hours after
+Finds himself once more restored
+To his misery and his shackles,
+Certain 'tis that from his temper
+Blank despair may end in madness --
+But once knowing who he is,
+Can he be consoled thereafter?
+Yes, and thus I wish to leave
+One door open, one free passage,
+By declaring all he saw
+Was a dream.  With this advantage
+We attain two ends.  The first
+Is to put beyond all cavil
+His condition, for on waking
+He will show his thoughts, his fancies:
+To console him is the second;
+Since, although obeyed and flattered,
+He beholds himself awhile,
+And then back in prison shackled
+Finds him, he will think he dreamed.
+And he rightly so may fancy,
+For, Clotaldo, in this world
+All who live but dream they act here.
+
+CLOTALDO.  Reasons fail me not to show
+That the experiment may not answer;
+But there is no remedy now,
+For a sign from the apartment
+Tells me that he hath awoken
+And even hitherward advances.
+
+BASILIUS.  It is best that I retire;
+But do you, so long his master,
+Near him stand; the wild confusion
+That his waking sense may darken
+Dissipate by simple truth.
+
+CLOTALDO.  Then your licence you have granted
+That I may declare it?
+
+BASILIUS.      Yes;
+For it possibly may happen
+That admonished of his danger
+He may conquer his worst passions.
+[Exit]
+
+
+      *     *     *     *     *
+
+
+SCENE II.
+
+CLARIN and CLOTALDO.
+
+CLARIN [aside].  Four good blows are all it cost me
+To come here, inflicted smartly
+By a red-robed halberdier,
+With a beard to match his jacket,
+At that price I see the show,
+For no window's half so handy
+As that which, without entreating
+Tickets of the ticket-master,
+A man carried with himself;
+Since for all the feasts and galas
+Cool effrontery is the window
+Whence at ease he gazes at them.
+
+CLOTALDO [aside].  This is Clarin, heavens!  of her,
+Yes, I say, of her the valet,
+She, who dealing in misfortunes,
+Has my pain to Poland carried:--
+Any news, friend Clarin?
+
+CLARIN.      News?
+Yes, sir, since your great compassion
+Is disposed Rosaura's outrage
+To revenge, she has changed her habit,
+And resumed her proper dress.
+
+CLOTALDO.  'Tis quite right, lest possible scandal
+Might arise.
+
+CLARIN.      More news:  her name
+Having changed and wisely bartered
+For your niece's name, she now
+So in honour has advanced her,
+That among Estrella's ladies
+She here with her in the palace
+Lives.
+
+CLOTALDO.      'Tis right that I once more
+Should her honour re-establish.
+
+CLARIN.  News; that anxiously she waiteth
+For that very thing to happen,
+When you may have time to try it.
+
+CLOTALDO.  Most discreetly has she acted;
+Soon the time will come, believe me,
+Happily to end this matter.
+
+CLARIN.  News, too; that she's well regaled,
+Feasted like a queen, and flattered
+On the strength of being your niece.
+And the last news, and the saddest,
+Is that I who here came with her
+Am with hunger almost famished.
+None remember me, or think
+I am Clarin, clarion rather,
+And that if that clarion sounded,
+All the Court would know what passes.
+For there are two things, to wit,
+A brass clarion and a lackey,
+That are bad at keeping secrets;
+And it so may chance, if haply
+I am forced to break my silence,
+They of me may sing this passage:
+"Never, when the day is near,
+Does clarion sound more clear."*
+
+
+*[footnote] *"Clarin, que rompe el albor,
+No suena mejor."--
+This is a quotation by Calderon from his own drama, "En esta vida
+todo es verdad y todo mentira." -- Act 2, sc. x.
+
+
+CLOTALDO.  Your complaint is too well-founded;
+I will get you satisfaction,
+Meanwhile you may wait on me.
+
+CLARIN.  See, sir, Sigismund advances.
+
+
+      *     *     *     *     *
+
+
+SCENE III.
+
+[Music and song.]  SIGISMUND enters, lost in amazement.  Servants
+minister to him, presenting costly robes. --CLOTALDO, and CLARIN.
+
+SIGISMUND.  Help me, Heaven, what's this I see!
+Help me, Heaven, what's this I view!
+Things I scarce believe are true,
+But, if true, which fright not me.
+I in palaces of state?
+I 'neath silks and cloth of gold?
+I, around me, to behold
+Rich-robed servants watch and wait?
+I so soft a bed to press
+While sweet sleep my senses bowed?
+I to wake in such a crowd,
+Who assist me even to dress?
+'Twere deceit to say I dream,
+Waking I recall my lot,
+I am Sigismund, am I not?
+Heaven make plain what dark doth seem!
+Tell me, what has phantasy --
+Wild, misleading, dream-adept --
+So effected while I slept,
+That I still the phantoms see?
+But let that be as it may,
+Why perplex myself and brood?
+Better taste the present good,
+Come what will some other day.
+
+FIRST SERVANT [aside to the' Second Servant, and to CLARIN].  What a
+sadness doth oppress him!
+
+SECOND SERVANT.  Who in such-like case would be
+Less surprised and sad than he?
+
+CLARIN.  I for one.
+
+SECOND SERVANT [to the First].  You had best address him.
+
+FIRST SERVANT [to SIGISMUND].      May they sing again?
+
+SIGISMUND.            No, no;
+I don't care to hear them sing.
+
+SECOND SERVANT.  I conceived the song might bring
+To your thought some ease.
+
+SIGISMUND.      Not so;
+Voiced that but charm the ear
+Cannot soothe my sorrow's pain;
+'Tis the soldier's martial strain
+That alone I love to hear.
+
+CLOTALDO.  May your Highness, mighty Prince,
+Deign to let me kiss your hand,
+I would first of all this land
+My profound respect evince.
+
+SIGISMUND [aside].  'Tis my gaoler! how can he
+Change his harshness and neglect
+To this language of respect?
+What can have occurred to me?
+
+CLOTALDO.  The new state in which I find you
+Must create a vague surprise,
+Doubts unnumbered must arise
+To bewilder and to blind you;
+I would make your prospect fair,
+Through the maze a path would show,
+Thus, my lord, 'tis right you know
+That you are the prince and heir
+Of this Polish realm:  if late
+You lay hidden and concealed
+'Twas that we were forced to yield
+To the stern decrees of fate,
+Which strange ills, I know not how,
+Threatened on this land to bring
+Should the laurel of a king
+Ever crown thy princely brow.
+Still relying on the power
+Of your will the stars to bind,
+For a man of resolute mind
+Can them bind how dark they lower;
+To this palace from your cell
+In your life-long turret keep
+They have borne you while dull sleep
+Held your spirit in its spell.
+Soon to see you and embrace
+Comes the King, your father, here --
+He will make the rest all clear.
+
+SIGISMUND.  Why, thou traitor vile and base,
+What need I to know the rest,
+Since it is enough to know
+Who I am my power to show,
+And the pride that fills my breast?
+Why this treason brought to light
+Has thou to thy country done,
+As to hide from the King's son,
+'Gainst all reason and all right,
+This his rank?
+
+CLOTALDO.  Oh, destiny!
+
+SIGISMUND.  Thou the traitor's part has played
+'Gainst the law; the King betrayed,
+And done cruel wrong to me;
+Thus for each distinct offence
+Have the law, the King, and I
+Thee condemned this day to die
+By my hands.
+
+SECOND SERVANT.  Prince . . . .
+
+SIGISMUND      No pretence
+Shall undo the debt I owe you.
+Catiff, hence!  By Heaven!  I say,
+If you dare to stop my way
+From the window I will throw you.
+
+SECOND SERVANT.  Fly, Clotaldo!
+
+CLOTALDO.      Woe to thee,
+In thy pride so powerful seeming,
+Without knowing thou art dreaming!
+[Exit.
+
+SECOND SERVANT.      Think . . . .
+
+SIGISMUND.      Away!  don't trouble me.
+
+SECOND SERVANT.  He could not the King deny.
+
+SIGISMUND.  Bade to do a wrongful thing
+He should have refused the King;
+And, besides, his prince was I.
+
+SECOND SERVANT.  'Twas not his affair to try
+If the act was wrong or right.
+
+SIGISMUND.  You're indifferent, black or white,
+Since so pertly you reply.
+
+CLARIN.  What the Prince says is quite true,
+What you do is wrong, I say.
+
+SECOND SERVANT.  Who gave you this licence, pray?
+
+CLARIN.  No one gave; I took it.
+
+SIGISMUND.      Who
+Art thou, speak?
+
+CLARIN.  A meddling fellow,
+Prating, prying, fond of scrapes,
+General of all jackanapes,
+And most merry when most mellow.
+
+SIGISMUND.  You alone in this new sphere
+Have amused me.
+
+CLARIN.  That's quite true, sir,
+For I am the great amuser
+Of all Sigismunds who are here.
+
+
+      *     *     *     *     *
+
+
+SCENE IV.
+
+ASTOLFO, SIGISMUND, CLARIN, Servants, and Musicians.
+
+ASTOLFO.  Thousand tunes be blest the day,
+Prince, that gives thee to our sight,
+Sun of Poland, whose glad light
+Makes this whole horizon gay,
+As when from the rosy fountains
+Of the dawn the stream-rays run,
+Since thou issuest like the sun
+From the bosom of the mountains!
+And though late do not defer
+With thy sovran light to shine;
+Round thy brow the laurel twine --
+Deathless crown.
+
+SIGISMUND.  God guard thee, sir.
+
+ASTOLFO.  In not knowing me I o'erlook,
+But alone for this defect,
+This response that lacks respect,
+And due honour.  Muscovy's Duke
+Am I, and your cousin born,
+Thus my equal I regard thee.
+
+SIGISMUND.  Did there, when I said "God guard thee,"
+Lie concealed some latent scorn? --
+Then if so, now having got
+Thy big name, and seeing thee vexed,
+When thou com'st to see me next
+I will say God guard thee not.
+
+SECOND SERVANT [to ASTOLFO].  Think, your Highness, if he errs
+Thus, his mountain birth's at fault,
+Every word is an assault.
+[To SIGISMUND.]
+Duke Astolfo, sir, prefers . . . .
+
+SIGISMUND.  Tut!  his talk became a bore,
+Nay his act was worse than that,
+He presumed to wear his hat.
+
+SECOND SERVANT.  As grandee.
+
+SIGISMUND.  But I am more.
+
+SECOND SERVANT.  Nevertheless respect should be
+Much more marked betwixt ye two
+Than 'twixt others.
+
+SIGISMUND.  And pray who
+Asked your meddling thus with me?
+
+
+      *     *     *     *     *
+
+
+SCENE V.
+
+ESTRELLA. -- THE SAME.
+
+ESTRELLA.  Welcome may your Highness be,
+Welcomed oft to this thy throne,
+Which long longing for its own
+Finds at length its joy in thee;
+Where, in spite of bygone fears,
+May your reign be great and bright,
+And your life in its long flight
+Count by ages, not by years.
+
+SIGISMUND (to CLARIN).  Tell me, thou, say, who can be
+This supreme of loveliness --
+Goddess in a woman's dress --
+At whose feet divine we see
+Heaven its choicest gifts doth lay?--
+This sweet maid?  Her name declare.
+
+CLARIN.  'Tis your star-named* cousin fair.
+
+
+[footnote] *'Estrella', which means star in Spanish.
+
+
+SIGISMUND.  Nay, the sun, 'twere best to say.--
+[To ESTRELLA.]
+Though thy sweet felicitation
+Adds new splendour to my throne,
+'Tis for seeing thee alone
+That I merit gratulation;
+Therefore I a prize have drawn
+That I scarce deserved to win,
+And am doubly blessed therein:--
+Star, that in the rosy dawn
+Dimmest with transcendent ray
+Orbs that brightest gem the blue,
+What is left the sun to do,
+When thou risest with the day?--
+Give me then thy hand to kiss,
+In whose cup of snowy whiteness
+Drinks the day delicious brightness.
+
+ESTRELLA.  What a courtly speech is this?
+
+ASTOLFO [aside].  If he takes her hand I feel
+I am lost.
+
+SECOND SERVANT [aside].  Astolfo's grief
+I perceive, and bring relief:--
+Think, my lord, excuse my zeal,
+That perhaps this is too free,
+Since Astolfo . . . .
+
+SIGISMUND.  Did I say
+Woe to him that stops my way?--
+
+SECOND SERVANT.  What I said was just.
+
+SIGISMUND.  To me
+This is tiresome and absurd.
+Nought is just, or good or ill,
+In my sight that balks my will.
+
+SECOND SERVANT.  Why, my lord, yourself I heard
+Say in any righteous thing
+It was proper to obey.
+
+SIGISMUND.  You must, too, have heard me say
+Him I would from window throw
+Who should tease me or defy?
+
+SECOND SERVANT.  Men like me perhaps might show
+That could not be done, sir.
+
+SIGISMUND.  No?
+Then, by Heaven, at least, I'll try!
+[He seizes him in his arms and rushes to the side.  All follow, and
+return immediately.]
+
+ASTOLFO.  What is this I see?  Oh, woe!
+
+ESTRELLA.  Oh, prevent him!  Follow me!
+[Exit.]
+
+SIGISMUND.  [returning].  From the window into the sea
+He has fallen; I told him so.
+
+ASTOLFO.  These strange bursts of savage malice
+You should regulate, if you can;
+Wild beasts are to civilised man
+As rude mountains to a palace.
+
+SIGISMUND.  Take a bit of advice for that:
+Pause ere such bold words are said,
+Lest you may not have a head
+Upon which to hang your hat.
+
+[Exit ASTOLFO.]
+
+
+      *     *     *     *     *
+
+
+SCENE VI.
+
+BASILIUS, SIGISMUND, and CLARIN.
+
+BASILIUS.  What's all this?
+
+SIGISMUND.  A trifling thing:
+One who teased and thwarted me
+I have just thrown into the sea.
+
+CLARIN [to SIGISMUND].  Know, my lord, it is the King.
+
+BASILIUS.  Ere the first day's sun hath set,
+Has thy coming cost a life?
+
+SIGISMUND  Why he dared me to the strife,
+And I only won the bet.
+
+BASILIUS.  Prince, my grief, indeed is great,
+Coming here when I had thought
+That admonished thou wert taught
+To o'ercome the stars and fate,
+Still to see such rage abide
+In the heart I hoped was free,
+That thy first sad act should be
+A most fearful homicide.
+How could I, by love conducted,
+Trust me to thine arms' embracing,
+When their haughty interlacing,
+Has already been instructed
+How to kill?  For who could see,
+Say, some dagger bare and bloody,
+By some wretch's heart made ruddy,
+But would fear it?  Who is he,
+Who may happen to behold
+On the ground the gory stain
+Where another man was slain
+But must shudder?  The most bold
+Yields at once to Nature's laws;
+Thus I, seeing in your arms
+The dread weapon that alarms,
+And the stain, must fain withdraw;
+And though in embraces dear
+I would press you to my heart,
+I without them must depart,
+For, alas! your arms I fear.
+
+SIGISMUND.  Well, without them I must stay,
+As I've staid for many a year,
+For a father so severe,
+Who could treat me in this way,
+Whose unfeeling heart could tear me
+From his side even when a child,
+Who, a denizen of the wild,
+As a monster there could rear me,
+Any by many an artful plan
+Sought my death, it cannot grieve me
+Much his arms will not receive me
+Who has scarcely left me man.
+
+BASILIUS.  Would to God it had not been
+Act of mine that name conferred,
+Then thy voice I ne'er had heard,
+Then thy boldness ne'er had seen.
+
+SIGISMUND.  Did you manhood's right retain,
+I would then have nought to say,
+But to give and take away
+Gives me reason to complain;
+For although to give with grace
+Is the noblest act 'mongst men,
+To take back the gift again
+Is the basest of the base.
+
+BASILIUS.  This then is thy grateful mood
+For my changing thy sad lot
+To a prince's!
+
+SIGISMUND.  And for what
+Should I show my gratitude!
+Tyrant of my will o'erthrown,
+If thou hoary art and gray,
+Dying, what do'st give me?  Say,
+Do'st thou give what's not mine own?
+Thou'rt my father and my King,
+Then the pomp these walls present
+Comes to me by due descent
+As a simple, natural thing.
+Yes, this sunshine pleaseth me,
+But 'tis not through thee I bask;
+Nay, a reckoning I might ask
+For the life, love, liberty
+That through thee I've lost so long:
+Thine 'tis rather to thank me,
+That I do not claim from thee
+Compensation for my wrong.
+
+BASILIUS.  Still untamed and uncontrolled;--
+Heaven fulfils its word I feel,
+I to that same court appeal
+'Gainst thy taunts, thou vain and bold,
+But although the truth thou'st heard,
+And now know'st thy name and race,
+And do'st see thee in this place,
+Where to all thou art preferred,
+Yet be warned, and on thee take
+Ways more mild and more beseeming,
+For perhaps thou art but dreaming,
+When it seems that thou'rt awake.
+[Exit.]
+
+SIGISMUND.  Is this, then, a phantom scene? --
+Do I wake in seeming show?--
+No, I dream not, since I know
+What I am and what I've been.
+And although thou should'st repent thee,
+Remedy is now too late.
+Who I am I know, and fate,
+Howsoe'er thou should'st lament thee,
+Cannot take from me my right
+Of being born this kingdom's heir.
+If I saw myself erewhile
+Prisoned, bound, kept out of sight,
+'Twas that never on my mind
+Dawned the truth; but now I know
+Who I am -- a mingled show
+Of the man and beast combined.
+
+
+      *     *     *     *     *
+
+
+SCENE VII.
+
+ROSAURA, in female attire; SIGISMUND, CLARIN, and Servants.
+
+ROSAURA [aside.]  To wait upon Estrella I come here,
+And lest I meet Astolfo tremble with much fear;
+Clotaldo's wishes are
+The Duke should know me not, and from afar
+See me, if see he must.
+My honour is at stake, he says; my trust
+Is in Clotaldo's truth.
+He will protect my honour and my youth.
+
+CLARIN [to SIGISMUND].  Of all this palace here can boast,
+All that you yet have seen, say which has pleased you most?
+
+SIGISMUND.  Nothing surprised me, nothing scared,
+Because for everything I was prepared;
+But if I felt for aught, or more or less
+Of admiration, 'twas the loveliness
+Of woman; I have read
+Somewhere in books on which my spirit fed,
+That which caused God the greatest care to plan,
+Because in him a little world he formed, was man;
+But this were truer said, unless I err,
+Of woman, for a little heaven he made in her;
+She who in beauty from her birth
+Surpasses man as heaven surpasseth earth;
+Nay, more, the one I see.
+
+ROSAURA [aside].  The Prince is here; I must this instant flee.
+
+SIGISMUND.  Hear, woman! stay;
+Nor wed the western with the orient ray,
+Flying with rapid tread;
+For joined the orient rose and western red,
+The light and the cold gloom,
+The day will sink untimely to its tomb.
+But who is this I see?
+
+ROSAURA [aside].  I doubt and yet believe that it is he.
+
+SIGISMUND [aside].  This beauty I have seen
+Some other time.
+
+ROSAURA [aside].  This proud, majestic mien,
+This form I once saw bound
+Within a narrow cell.
+
+SIGISMUND [aside].  My life I have found.--
+Woman, the sweetest name
+That man can breathe, or flattering language frame,
+Who art thou?  for before
+I see thee, I believe and I adore;
+Faith makes my love sublime,
+Persuading me we've met some other time.
+Fair woman, speak; my will must be obeyed.
+
+ROSAURA.  In bright Estrella's train a hapless maid.--
+[Aside.]   He must not know my name.
+
+SIGISMUND.  The sun, say rather, of that star whose flame,
+However bright its blaze
+Is but the pale reflection of thy rays.
+In the fair land of flowers,
+The realm of sweets that lies in odorous bowers,
+The goddess rose I have seen
+By right divine of beauty reign as queen.
+I have seen where brightest shine
+Gems, the assembled glories of the mine,
+The brilliant throng elect the diamond king
+For the superior splendour it doth fling.
+Amid the halls of light,
+Where the unresting star-crowds meet at night,
+I have seen fair Hesper rise
+And take the foremost place of all the skies.
+And in that higher zone
+Where the sun calls the planets round his throne,
+I have seen, with sovereign sway,
+That he presides the oracle of the day.
+How, then, 'mid flowers of earth or stars of air,
+'Mid stones or suns, if that which is most fair
+The preference gains, canst thou
+Before a lesser beauty bend and bow,
+When thine own charms compose
+Something more bright than sun, stone, star, or rose?
+
+
+      *     *     *     *     *
+
+
+SCENE VIII.
+
+CLOTALDO, who remains at the side-scene; SIGISMUND, CLARIN, and Servants.
+
+CLOTALDO [aside].  To calm Prince Sigismund devolves on me,
+Because 'twas I who reared him: -- What do I see?
+
+ROSAURA.  Thy favour, sir, I prize;
+To thee the silence of my speech replies;
+For when the reason's dull, the mind depressed,
+He best doth speak who keeps his silence best.
+
+SIGISMUND.  You must not leave me.  Stay:
+What!  would you rob my senses of the ray
+Your beauteous presence gave?
+
+ROSAURA.  That licence, from your Highness, I must crave.
+
+SIGISMUND.  The violent efforts that you make
+Show that you do not ask the leave you take.
+
+ROSAURA.  I hope to take it, if it is not given.
+
+SIGISMUND.  You rouse my courtesy to rage, by heaven!--
+In me resistance, as it were, distils
+A cruel poison that my patience kills.
+
+ROSAURA.  Then though that poison may be strong,
+The source of fury, violence, and wrong,
+Potent thy patience to subdue,
+It dare not the respect to me that's due.
+
+SIGISMUND.  As if to show I may,
+You take the terror of your charms away.
+For I am but too prone
+To attempt the impossible; I to-day have thrown
+Out of this window one who said, like you,
+I dare not do the thing I said I would do.
+Now just to show I can,
+I may throw out your honour, as the man.
+
+CLOTALDO [aside].  More obstinate doth he grow;
+What course to take, O heavens!  I do not know,
+When wild desire, nay, crime,
+Perils my honour for the second time.
+
+ROSAURA.  Not vainly, as I see,
+This hapless land was warned thy tyranny
+In fearful scandals would eventuate,
+In wrath and wrong, in treachery, rage and hate.
+But who in truth could claim
+Aught from a man who is but a man in name,
+Audacious, cruel, cold,
+Inhuman, proud, tyrannical and bold,
+'Mong beasts a wild beast born?--
+
+SIGISMUND.  It was to save me from such words of scorn
+So courteously I spoke,
+Thinking to bind you by a gentler yoke;
+But if I am in aught what you have said,
+Then, as God lives, I will be all you dread.
+Ho, there!  here leave us.  See to it at your cost,
+The door be locked; let no one in.
+
+[Exeunt CLARIN and the attendants.]
+
+ROSAURA.  I'm lost!
+Consider . . . .
+
+SIGISMUND.  I'm a despot, and 'tis vain
+You strive to move me, or my will restrain.
+
+CLOTALDO [aside].  Oh, what a moment! what an agony!
+I will go forth and stop him though I die.
+[He advances.]
+
+My lord, consider, stay . . . .
+
+SIGISMUND.  A second time you dare to cross my way.
+Old dotard:  do you hold
+My rage in such slight awe you are so bold?
+What brought you hither?  Speak!
+
+CLOTALDO.  The accents of this voice, however weak,
+To tell you to restrain
+Your passions, if as King you wish to reign,--
+Not to be cruel, though you deem
+Yourself the lord of all, for all may be a dream.
+
+SIGISMUND.  You but provoke my rage
+By these old saws, the unwelcome light of age,
+In killing you, at least I'll see
+If 'tis a dream or truth.
+
+[As he is about to draw his dagger CLOTALDO detains it, and throws
+himself on his knees.]
+
+CLOTALDO.  Sole hope for me
+To save my life is thus to humbly kneel.
+
+SIGISMUND.  Take your audacious hand from off my steel.
+
+CLOTALDO.  Till some kind aid be sent,
+Till some one come who may your rage prevent,
+I will not loose my hold.
+
+ROSAURA.  Oh, Heaven!
+
+SIGISMUND.  I say,
+Loose it, old dotard, grim and gaunt and gray,
+Or by another death
+
+[They struggle.]
+
+I'll crush you in my arms while you have breath.
+
+ROSAURA.  Quick! quick! they slay
+Clotaldo, help! oh, help!
+
+[ASTOLFO enters at this moment, and CLOTALDO falls at his feet; he
+stands between them.]
+
+ASTOLFO.  This strange affray,
+What can it mean, magnanimous Prince? would you
+So bright a blade imbrue
+In blood that age already doth congeal?
+Back to its sheath return the shining steel.
+
+SIGISMUND.  Yes, when it is bathed red
+In his base blood.
+
+ASTOLFO.  This threatened life hath fled
+For sanctuary to my feet;
+I must protect it in that poor retreat.
+
+SIGISMUND.  Protect your own life, then, for in this way,
+Striking at it, I will the grudge repay
+I owe you for the past.
+
+ASTOLFO.  I thus defend
+My life; but majesty will not offend.
+[ASTOLFO draws his sword and they fight.]
+
+CLOTALDO.  Oh! wound him not, my lord.
+
+
+      *     *     *     *     *
+
+SCENE IX.
+
+BASILIUS, ESTRELLA and Attendants, SIGISMUND, ASTOLFO, and CLOTALDO.
+
+
+BASILIUS.  Swords flashing here!--
+
+ESTRELLA [aside].   Astolfo is engaged: -- Oh, pain severe!
+
+BASILIUS.  What caused this quarrel?  Speak, say why?
+
+ASTOLFO.  'Tis nothing now, my lord, since thou art by.
+
+SIGISMUND.  'Tis much, although thou now art by, my lord.
+I wished to kill this old man with my sword.
+
+BASILIUS.  Did you not then respect
+These snow-white hairs?
+
+CLOTALDO.  My lord will recollect
+They scarce deserved it, being mine.
+
+SIGISMUND.  Who dares
+To ask of me do I respect white hairs?
+Your own some day
+My feet may trample in the public way,
+For I have not as yet revenged my wrong,
+Your treatment so unjust and my sad state so long.
+[Exit.]
+
+BASILIUS.  But ere that dawn doth break,
+You must return to sleep, where when you wake
+All that hath happened here will seem --
+As is the glory of the world -- a dream.
+
+[Exeunt The King, CLOTALDO, and Attendants.]
+
+
+      *     *     *     *     *
+
+
+SCENE X.
+
+ESTRELLA and ASTOLFO
+
+ASTOLFO.  Ah, how rarely fate doth lie
+When it some misfortune threatens!*
+Dubious when 'tis good that's promised,
+When 'tis evil, ah, too certain!--
+What a good astrologer
+Would he be, whose art foretelleth
+Only cruel things; for, doubtless,
+They would turn out true for ever!
+This in Sigismund and me
+Is exemplified, Estrella,
+Since between our separate fortunes
+Such a difference is presented.
+In his case had been foreseen
+Murders, miseries, and excesses,
+And in all they turned out true,
+Since all happened as expected.
+But in mine, here seeing, lady,
+Rays so rare and so resplendent
+That the sun is but their shadow.
+And even heaven a faint resemblance,
+When fate promised me good fortune,
+Trophies, praises, and all blessings,
+It spoke ill and it spoke well;
+For it was of both expressive,
+When it held out hopes of favour,
+But disdain alone effected.
+
+
+[footnote] *The vocal asonante in e--e here commences, and continues
+to the end of the Sixteenth Scene.
+
+
+ESTRELLA.  Oh, I doubt not these fine speeches
+Are quite true, although intended
+Doubtless for that other lady,
+She whose portrait was suspended
+From your neck, when first, Astolfo,
+At this Court here you addressed me.
+This being so, 'tis she alone
+Who these compliments deserveth.
+Go and pay them to herself,
+For like bills that are protested
+In the counting-house of love,
+Are those flatteries and finesses
+Which to other kings and ladies
+Have been previously presented.
+
+
+      *     *     *     *     *
+
+
+SCENE XI.
+
+ROSAURA, who remains at the side; ESTRELLA, and ASTOLFO.
+
+ROSAURA [aside].  Well, thank God, my miseries
+Have attained their lowest level,
+Since by her who sees this sight
+Nothing worse can be expected.
+
+ASTOLFO.  Then that portrait from my breast
+Shall be taken, that thy perfect
+Beauty there may reign instead.
+For where bright Estrella enters
+Shadow cannot be, or star
+Where the sun; I go to fetch it.--
+[Aside.]  Pardon, beautiful Rosaura,
+This offence; the absent never,
+Man or woman, as this shows,
+Faith of plighted vows remember.
+[Exit.]
+
+[ROSAURA comes forward.]
+ROSAURA [aside].  Not a single word I heard,
+Being afraid they might observe me.
+
+ESTRELLA.  Oh, Astrea!
+
+ROSAURA.  My good lady!
+
+ESTRELLA.  Nothing could have pleased me better
+Than your timely coming here.
+I have something confidential
+To entrust you with.
+
+ROSAURA.  You honour
+Far too much my humble service.
+
+ESTRELLA.  Brief as is the time, Astrea,
+I have known you, you already
+Of my heart possess the keys
+'Tis for this and your own merits
+That I venture to entrust you
+With what oft I have attempted
+From myself to hide.
+
+ROSAURA.  Your slave!
+
+ESTRELLA.  Then concisely to express it,
+Know, Astolfo, my first cousin
+('Tis enough that word to mention,
+For some things may best be said
+When not spoken but suggested),
+Soon expects to wed with me,
+If my fate so far relenteth,
+As that by one single bliss
+All past sorrows may be lessened.
+I was troubled, the first day
+That we met, to see suspended
+From his neck a lady's portrait.
+On the point I urged him gently,
+He so courteous and polite
+Went immediately to get it,
+And will bring it here.  From him
+I should feel quite disconcerted
+To receive it.  You here stay,
+And request him to present it
+Unto you.  I say no more.
+You are beautiful and clever,
+You must know too what is love.
+[Exit.]
+
+
+      *     *     *     *     *
+
+
+SCENE XII.
+
+ROSAURA.  Would I knew it not!  O help me
+Now, kind heaven! for who could be
+So prudential, so collected,
+As to know how best to act
+In so painful a dilemma?
+Is there in the world a being,
+Is there one a more inclement
+Heaven has marked with more misfortunes,
+Has 'mid more of sorrow centred?--
+What, bewildered, shall I do,
+When 'tis vain to be expected
+That my reason can console me,
+Or consoling be my helper?
+From my earliest misfortune
+Everything that I've attempted
+Has been but one misery more --
+Each the other's sad successor,
+All inheritors of themselves.
+Thus, the Phoenix they resemble,
+One is from the other born,
+New life springs where old life endeth,
+And the young are warmly cradled
+By the ashes of the elder.
+Once a wise man called them cowards,
+Seeing that misfortunes never
+Have been seen to come alone.
+But I call them brave, intrepid,
+Who go straight unto their end,
+And ne'er turn their backs in terror:--
+By the man who brings them with him
+Everything may be attempted,
+Since he need on no occasion
+Have the fear of being deserted.
+I may say so, since at all times,
+Whatsoever life presented,
+I, without them, never saw me,
+Nor will they grow weary ever,
+Till they see me in death's arms,
+Wounded by fate's final weapon.
+Woe is me! but what to-day
+Shall I do in this emergence?--
+If I tell my name, Clotaldo,
+Unto whom I am indebted
+For my very life and honour,
+May be with me much offended;
+Since he said my reparation
+Must in silence be expected.
+If I tell not to Astolfo
+Who I am, and he detects me
+How can I dissemble then?
+For although a feigned resemblance
+Eyes and voice and tongue might try,
+Ah, the truthful heart would tremble,
+And expose the lie.  But wherefore
+Study what to do?  'Tis certain
+That however I may study,
+Think beforehand how to nerve me,
+When at last the occasion comes,
+Then alone what grief suggesteth
+I will do, for no one holds
+In his power the heart's distresses.
+And thus what to say or do
+As my soul cannot determine,
+Grief must only reach to-day
+Its last limit, pain be ended,
+And at last an exit make
+From the doubts that so perplex me
+How to act: but until then
+Help me, heaven, oh, deign to help me!
+
+
+      *     *     *     *     *
+
+
+SCENE XIII.
+
+ASTOLFO, with the portrait; and ROSAURA.
+
+ASTOLFO.  Here then is the portrait, Princess:
+But, good God!
+
+ROSAURA.  Your Highness trembles;
+What has startled, what surprised you?
+
+ASTOLFO.  Thee, Rosaura, to see present.
+
+ROSAURA.  I Rosaura?  Oh, your Highness
+Is deceived by some resemblance
+Doubtless to some other lady;
+I'm Astrea, one who merits
+Not the glory of producing
+An emotion so excessive.
+
+ASTOLFO.  Ah, Rosaura thou mayst feign,
+But the soul bears no deception,
+And though seeing thee as Astrea,
+As Rosaura it must serve thee.
+
+ROSAURA.  I, not knowing what your Highness
+Speaks of, am of course prevented
+From replying aught but this,
+That Estrella (the bright Hesper
+Of this sphere) was pleased to order
+That I here should wait expectant
+For that portrait, which to me
+She desires you give at present:
+For some reason she prefers
+It through me should be presented --
+So Estrella -- say, my star --
+Wishes -- so a fate relentless
+Wills -- in things that bring me loss --
+So Estrella now expecteth.
+
+ASTOLFO.  Though such efforts you attempt,
+Still how badly you dissemble,
+My Rosaura!  Tell the eyes
+In their music to keep better
+Concert with the voice, because
+Any instrument whatever
+Would be out of tune that sought
+To combine and blend together
+The true feelings of the heart
+With the false words speech expresses.
+
+ROSAURA.  I wait only, as I said,
+For the portrait.
+
+ASTOLFO.  Since you're bent then
+To the end to keep this tone,
+I adopt it, and dissemble.
+Tell the Princess, then, Astrea,
+That I so esteem her message,
+That to send to her a copy
+Seems to me so slight a present,
+How so highly it is valued
+By myself, I think it better
+To present the original,
+And you easily may present it,
+Since, in point of fact, you bring it
+With you in your own sweet person.
+
+ROSAURA.  When it has been undertaken
+By a man, bold, brave, determined,
+To obtain a certain object,
+Though he get perhaps a better,
+Still not bringing back the first
+He returns despised:  I beg, then.
+That your highness give the portrait;
+I, without it, dare not venture.
+
+ASTOLFO.  How, then, if I do not give it
+Will you get it?
+
+ROSAURA.  I will get it
+Thus, ungrateful.
+[She attempts to snatch it.[
+
+ASTOLFO.  'Tis in vain.
+
+ROSAURA.  It must ne'er be seen, no, never
+In another woman's hands.
+
+ASTOLFO.  Thou art dreadful.
+
+ROSAURA.  Thou deceptive.
+
+ASTOLFO.  Oh, enough, Rosaura mine.
+
+ROSAURA.  Thine!  Thou liest, base deserter.
+[Both struggle for the portrait.]
+
+
+      *     *     *     *     *
+
+
+SCENE XIV.
+
+ESTRELLA, ROSAURA, and ASTOLFO.
+
+ESTRELLA.  Prince!  Astrea!  What is this?
+
+ASTOLFO [aside] Heavens!  Estrella!
+
+ROSAURA [aside].  Love befriend me;
+Give me wit enough my portrait
+To regain: -- If thou would'st learn then
+[To ESTRELLA.]
+What the matter is, my lady,
+I will tell thee.
+
+ASTOLFO [aside to ROSAURA.]  Would'st o'erwhelm me?
+
+ROSAURA.  You commanded me to wait here
+For the Prince, and representing
+You, to get from him a portrait.
+I remained alone, expecting,
+And, as often by one thought
+Is some other thought suggested,
+Seeing that you spoke of portraits,
+I, reminded thus, remembered
+That I had one of myself
+In my sleeve:  I wished to inspect it,
+For a person quite alone
+Even by trifles is diverted.
+From my hand I let it fall
+On the ground; the Prince, who entered
+With the other lady's portrait,
+Raised up mine, but so rebellious
+Was he to what you had asked him
+That, instead of his presenting
+One, he wished to keep the other.
+Since he mine will not surrender
+To my prayers and my entreaties:
+Angry at this ill-timed jesting
+I endeavoured to regain it,
+That which in his hand is held there
+Is my portrait, if you see it;
+You can judge of the resemblance.
+
+ESTRELLA.  Duke, at once, give up the portrait.
+[She takes it from his hand.]
+
+ASTOLFO.  Princess . . . .
+
+ESTRELLA.  Well, the tints were blended
+By no cruel hand, methinks.
+
+ROSAURA.  Is it like me?
+
+ESTRELLA.  Like!  'Tis perfect.
+
+ROSAURA.  Now demand from him the other.
+
+ESTRELLA.  Take your own, and leave our presence.
+
+ROSAURA  [aside].  I have got my portrait back;
+Come what may I am contented.
+[Exit.]
+
+
+      *     *     *     *     *
+
+
+SCENE XV.
+
+ESTRELLA and ASTOLFO.
+
+ESTRELLA.  Give me now the other portrait;
+For -- although perhaps I never
+May again address or see you --
+I desire not, no, to let it
+In your hands remain, if only
+For my folly in requesting
+You to give it.
+
+ASTOLFO [aside].  How escape
+From this singular dilemma?--
+Though I wish, most beauteous Princess,
+To obey thee and to serve thee,
+Still I cannot give the portrait
+Thou dost ask for, since . . . .
+
+ESTRELLA.  A wretched
+And false-hearted lover art thou.
+Now I wish it not presented,
+So to give thee no pretext
+For reminding me that ever
+I had asked it at thy hands.
+[Exit.
+
+ASTOLFO.  Hear me!  listen!  wait!  I remember! --
+God, what has thou done, Rosaura?
+Why, or wherefore, on what errand,
+To destroy thyself and me
+Hast thou Poland rashly entered?
+[Exit.
+
+
+      *     *     *     *     *
+
+
+SCENE XVI.
+
+PRISON OF THE PRINCE IN THE TOWER.
+
+SIGISMUND, as at the commencement, clothed in skins, chained, and
+lying on the ground; CLOTALDO, Two Servants, and CLARIN.
+
+CLOTALDO.  Leave him here on the ground,
+Where his day,-- its pride being o'er,--
+Finds its end too.
+
+A SERVANT.      As before
+With the chain his feet are bound.
+
+CLARIN.  Never from that sleep profound
+Wake, O Sigismund, or rise,
+To behold with wondering eyes
+All thy glorious life o'erthrown,
+Like a shadow that hath flown,
+Like a bright brief flame that dies!
+
+CLOTALDO.  One who can so wisely make
+Such reflections on this case
+Should have ample time and space,
+Even for the Solon's sake,
+[To the Servant.]
+To discuss it; him you'll take
+To this cell here, and keep bound.
+[Pointing to an adjoining room]
+
+CLARIN.  But why me?
+
+CLOTALDO.  Because 'tis found
+Safe, when clarions secrets know,
+Clarions to lock up, that so
+They may not have power to sound.
+
+CLARIN.  Did I, since you treat me thus,
+Try to kill my father?  No.
+Did I from the window throw
+That unlucky Icarus?
+Is my drink somniferous?
+Do I dream?  Then why be pent?
+
+CLOTALDO.  'Tis a clarion's punishment.
+
+CLARIN.  Then a horn of low degree,
+Yea, a cornet I will be,
+A safe, silent instrument.
+[They take him away, and CLOTALDO remains alone.]
+
+
+      *     *     *     *     *
+
+
+SCENE XVII.
+
+BASILIUS, disguised; CLOTALDO, and SIGISMUND, asleep.
+
+BASILIUS.  Hark, Clotaldo!
+
+CLOTALDO.  My lord here?
+Thus disguised, your majesty?
+
+BASILIUS.  Foolish curiosity
+Leads me in this lowly gear
+To find out, ah, me!  with fear,
+How the sudden change he bore.
+
+CLOTALDO.  There behold him as before
+In his miserable state.
+
+BASILIUS.  Wretched Prince!  unhappy fate!
+Birth by baneful stars watched o'er!--
+Go and wake him cautiously,
+Now that strength and force lie chained
+By the opiate he hath drained.
+
+CLOTALDO.  Muttering something restlessly,
+See he lies.
+
+BASILIUS.  Let's listen; he
+May some few clear words repeat.
+
+SIGISMUND.  [Speaking in his sleep.]
+Perfect Prince is he whose heat
+Smites the tyrant where he stands,
+Yes, Clotaldo dies by my hands,
+Yes, my sire shall kiss my feet.
+
+CLOTALDO.  Death he threatens in his rage.
+
+BASILIUS.  Outrage vile he doth intend.
+
+CLOTALDO.  He my life has sworn to end.
+
+BASILIUS.  He has vowed to insult my age.
+
+SIGISMUND [still sleeping].  On the mighty world's great stage,
+'Mid the admiring nations' cheer,
+Valour mine, that has no peer,
+Enter thou:  the slave so shunned
+Now shall reign Prince Sigismund,
+And his sire he wrath shall fear.--
+[He awakes.]
+But, ah me!  Where am I?  Oh!--
+
+BASILIUS.  Me I must not let him see.
+[To CLOTALDO.]
+Listening I close by will be,
+What you have to do you know.
+[He retires.]
+
+SIGISMUND.  Can it possibly be so?
+Is the truth not what it seemed?
+Am I chained and unredeemed?
+Art not thou my lifelong tome,
+Dark old tower?  Yes!  What a doom!
+God!  what wondrous things I've dreamed!
+
+CLOTALDO.  Now in this delusive play
+Must my special part be taken:--
+Is it not full time to waken?
+
+SIGISMUND.  Yes, to waken well it may.
+
+CLOTALDO.  Wilt thou sleep the livelong day?--
+Since we gazing from below
+Saw the eagle sailing slow,
+Soaring through the azure sphere,
+All the time thou waited here,
+Didst thou never waken?
+
+SIGISMUND.  No,
+Nor even now am I awake
+Since such thoughts my memory fill,
+That it seems I'm dreaming still:
+Nor is this a great mistake;
+Since if dreams could phantoms make
+Things of actual substance seen,
+I things seen may phantoms deem.
+Thus a double harvest reaping,
+I can see when I am sleeping,
+And when waking I can dream.
+
+CLOTALDO.  What you may have dreamed of, say.
+
+SIGISMUND.  If I thought it only seemed,
+I would tell not what I dreamed,
+But what I beheld, I may.
+I awoke, and lo!  I lay
+(Cruel and delusive thing!)
+In a bed whose covering,
+Bright with blooms from rosy bowers,
+Seemed a tapestry of flowers
+Woven by the hand of Spring.
+Then a crowd of nobles came,
+Who addressed me by the name
+Of their prince, presenting me
+Gems and robes, on bended knee.
+Calm soon left me, and my frame
+Thrilled with joy to hear thee tell
+Of the fate that me befell,
+For though now in this dark den,
+I was Prince of Poland then.
+
+CLOTALDO. Doubtless you repaid me well?
+
+SIGISMUND.  No, not well:  for, calling thee
+Traitor vile, in furious strife
+Twice I strove to take thy life.
+
+CLOTALDO.  But why all this rage 'gainst me?
+
+SIGISMUND.  I was master, and would be
+Well revenged on foe and friend.
+Love one woman could defend . . . . .
+That, at least, for truth I deem,
+All else ended like a dream,
+THAT alone can never end.
+[The King withdraws.]
+
+CLOTALDO [aside].  From his place the King hath gone,
+Touched by his pathetic words:--
+[Aloud]
+Speaking of the king of birds
+Soaring to ascend his throne,
+Thou didst fancy one thine own;
+But in dreams, however bright,
+Thou shouldst still have kept in sight
+How for years I tended thee,
+For 'twere well, whoe'er we be,
+Even in dreams to do what's right.
+[Exit.]
+
+
+      *     *     *     *     *
+
+
+SCENE XVIII.
+
+SIGISMUND.  That is true:  then let's restrain
+This wild rage, this fierce condition
+Of the mind, this proud ambition,
+Should we ever dream again:
+And we'll do so, since 'tis plain,
+In this world's uncertain gleam,
+That to live is but to dream:
+Man dreams what he is, and wakes
+Only when upon him breaks
+Death's mysterious morning beam.
+The king dreams he is a king,
+And in this delusive way
+Lives and rules with sovereign sway;
+All the cheers that round him ring,
+Born of air, on air take wing.
+And in ashes (mournful fate!)
+Death dissolves his pride and state:
+Who would wish a crown to take,
+Seeing that he must awake
+In the dream beyond death's gate?
+And the rich man dreams of gold,
+Gilding cares it scarce conceals,
+And the poor man dreams he feels
+Want and misery and cold.
+Dreams he too who rank would hold,
+Dreams who bears toil's rough-ribbed hands,
+Dreams who wrong for wrong demands,
+And in fine, throughout the earth,
+All men dream, whate'er their birth,
+And yet no one understands.
+'Tis a dream that I in sadness
+Here am bound, the scorn of fate;
+'Twas a dream that once a state
+I enjoyed of light and gladness.
+What is life?  'Tis but a madness.
+What is life?  A thing that seems,
+A mirage that falsely gleams,
+Phantom joy, delusive rest,
+Since is life a dream at best,
+And even dreams themselves are dreams.
+
+
+      *     *     *     *     *
+
+
+ACT THE THIRD.
+
+WITHIN THE TOWER.
+
+
+      *     *     *     *     *
+
+
+SCENE I.
+
+CLARIN.  In a strange enchanted tower,
+I, for what I know, am prisoned;*
+How would ignorance be punished,
+If for knowledge they would kill me?
+What a thing to die of hunger,
+For a man who loves good living!
+I compassionate myself;
+All will say:  "I well believe it";
+And it well may be believed,
+Because silence is a virtue
+Incompatible with my name
+Clarin, which of course forbids it.
+In this place my sole companions,
+It may safely be predicted,
+Are the spiders and the mice:
+What a pleasant nest of linnets!--
+Owing to this last night's dream,
+My poor head I feel quite dizzy
+From a thousand clarionets,
+Shawms, and seraphines and cymbals,
+Crucifixes and processions,
+Flagellants who so well whipped them,
+That as up and down they went,
+Some even fainted as they witnessed
+How the blood ran down the others.
+I, if I the truth may whisper,
+Simply fainted from not eating,
+For I see me in this prison
+All day wondering how this Poland
+Such a 'Hungary' look exhibits,
+All night reading in the 'Fasti'
+By some half-starved poet written.**
+In the calendar of saints,
+If a new one is admitted,
+Then St. Secret be my patron,
+For I fast upon his vigil;
+Though it must be owned I suffer
+Justly for the fault committed,
+Since a servant to be silent
+Is a sacrilege most sinful.
+
+[A sound of drums and trumpets, with voices within.]
+
+
+*[footnote] The asonante to the end of Scene IV. is in i--e, or their
+vocal equivalents.
+
+**[footnote]  These four lines are a paraphrase of the original.
+Clarin's jokes are different, and not much better.  He says he spends
+his days studying philosophy in the works of 'Nicomedes' (or
+'Not-eating'), and his nights perusing the decrees of the 'Nicene'
+Council (Concilio 'Niceno', the Council of 'No-Supper').
+
+
+      *     *     *     *     *
+
+
+SCENE II.
+
+Soldiers and CLARIN.
+
+FIRST SOLDIER [within].  He is here within this tower.
+Dash the door from off its hinges;
+Enter all
+
+CLARIN:        Good God! 'tis certain
+That 'tis me they seek so briskly,
+Since they say that I am here.
+What can they require?
+
+FIRST SOLDIER [within].      Go in there.
+[Several Soldiers enter.
+
+SECOND SOLDIER.  Here he is.
+
+CLARIN.      He's not.
+
+ALL THE SOLDIERS.      Great lord!
+
+CLARIN [aside].  Are the fellows mad or tipsy?
+
+FIRST SOLDIER.  Thou art our own Prince, and we
+Will not have, and won't admit of,
+Any but our natural Prince;
+We no foreign Prince here wish for.
+Let us kneel and kiss thy feet.
+
+THE SOLDIERS.  Live, long live our best of Princes!
+
+CLARIN [aside.]  'Gad! the affair grows rather serious.
+Is it usual in this kingdom
+To take some one out each day,
+Make him Prince, and then remit him
+To this tower?  It must be so,
+Since each day that sight I witness.
+I must therefore play my part.
+
+SOLDIERS.  Thy feet give us!
+
+CLARIN.      I can't give them,
+As I want them for myself.
+For a prince to be a cripple
+Would be rather a defect.
+
+SECOND SOLDIER.  We have all conveyed our wishes
+To your father; we have told him
+You alone shall be our Prince here,
+Not the Duke.
+
+CLARIN.  And were you guilty
+'Gainst my sire, of disrespect?
+
+FIRST SOLDIER.  'Twas the loyalty of our spirit.
+
+CLARIN.  If 'twas loyalty, I forgive you.
+
+SECOND SOLDIER.  Come, regain thy lost dominion.
+Long live Sigismund!
+
+ALL.      Live the Prince.
+
+CLARIN [aside].  Say they Sigismund?  Good.  Admitted.
+Sigismund must be the name
+Given to all pretended princes.
+
+
+      *     *     *     *     *
+
+
+SCENE III.
+
+SIGISMUND, CLARIN, and Soldiers.
+
+SIGISMUND.  Who has named here Sigismund?
+
+CLARIN [aside.]  Ah, I'm but an addled prince, then!
+
+FIRST SOLDIER.  Who is Sigismund?
+
+SIGISMUND.      Who?  I.
+
+SECOND SOLDIER [to CLARIN].  How, then, didst thou, bold and silly,
+Dare to make thee Sigismund?
+
+CLARIN.  I a Sigismund?  Thou fibbest;
+It was you yourselves that thus
+Sigismundized me and princed me:
+All the silliness and the boldness
+Have been by yourselves committed.
+
+FIRST SOLDIER.  Great and brave Prince Sigismund
+(For thy bearing doth convince us
+Thou art he, although on faith
+We proclaim thee as our prince here).
+King Basilius, thy father,
+Fearful of the Heavens fulfilling
+A prediction, which declared
+He would see himself submitted
+At thy victor feet, attempts
+To deprive thee of thy birthright,
+And to give it to Astolfo,
+Muscovy's duke.  For this his missives
+Summoned all his court: the people
+Understanding, by some instinct,
+That they had a natural king,
+Did not wish a foreign princeling
+To rule o'er them.  And 'tis thus,
+That the fate for thee predicted
+Treating with a noble scorn,
+They have sought thee where imprisoned
+Thou dost live, that issuing forth,
+By their powerful arms assisted,
+From this tower, thy crown and sceptre
+Thou shouldst thus regain, and quit them
+Of a stranger and a tyrant.
+Forth! then; for among these cliffs here
+There is now a numerous army,
+Formed of soldiers and banditti,
+That invoke thee: freedom waits thee;
+To the thousand voices listen.
+
+[Voices within.]  Long, long live Prince Sigismund!
+
+SIGISMUND.  Once again, O Heaven! wouldst wish me
+Once again to dream of greatness
+Which may vanish in an instant?
+Once again to see the glories,
+That a royal throne encircle,
+Die in darkness and in gloom,
+Like a flame the winds extinguish?
+Once again by sad experience
+To be taught the dangerous limits
+Human power may overleap,
+At its birth and while it liveth?
+No, it must not, must not be:--
+See me now one more submitted
+To my fate; and since I know
+Life is but a dream, a vision,
+Hence, ye phantoms, that assume
+To my darkened sense the figure
+And the voice of life -- although
+Neither voice nor form is in them.
+I no longer now desire
+A feigned majesty, a fictitious
+And fantastic pomp -- illusions
+Which the slightest breath that ripples
+The calm ether can destroy,
+Even as in the early spring-time,
+When the flowering almond tree
+Unadvisedly exhibits
+All its fleeting bloom of flowers,
+The first blast their freshness withers,
+And the ornament and grace
+Of its rosy locks disfigures.
+Now I know ye -- know ye all,
+And I know the same false glimmer
+Cheats the eyes of all who sleep.
+Me false shows no more bewilder;
+Disabused, I now know well
+Life is but a dream -- a vision.
+
+SECOND SOLDIER.  If thou thinkest we deceive thee,
+Turn thine eyes to those proud cliffs here,
+See the crowds that wait there, willing,
+Eager to obey thee.
+
+SIGISMUND.      Yet
+Just as clearly and distinctly,
+I have seen another time
+The same things that now I witness,
+And 'twas but a dream.
+
+SECOND SOLDIER.  At all times
+Great events, my lord, bring with them
+Their own omens; and thy dream
+But the actual fact prefigured.
+
+SIGISMUND.  You say well, it was an omen;
+But supposing the bright vision
+Even were true, since life is short,
+Let us dream, my soul a little,
+Once again, remembering now
+With all forethought and prevision
+That we must once more awake
+At the better time not distant;
+That being known, the undeceiving,
+When it comes, will be less bitter;
+For it takes the sting from evil
+To anticipate its visit.
+And with this conviction, too,
+Even its certainty admitting,
+That all power being only lent
+Must return unto the Giver,
+Let us boldly then dare all.--
+For the loyalty you exhibit,
+Thanks, my lieges.  See in me
+One who will this land deliver
+From a stranger's alien yoke.
+Sound to arms; you soon shall witness
+What my valour can effect.
+'Gainst my father I have lifted
+Hostile arms, to see if Heaven
+Has of me the truth predicted.
+At my feet I am to see him . . .
+But if I, from dreams delivered,
+[Aside.
+Wake ere then, and nothing happens,
+Silence now were more befitting.
+
+ALL.  Long live Sigismund, our king!
+
+
+      *     *     *     *     *
+
+
+SCENE IV.
+
+CLOTALDO, SIGISMUND, CLARIN, and Soldiers.
+
+CLOTALDO.  Ha! what tumult, Heavens! has risen?
+
+SIGISMUND.  Well, Clotaldo.
+
+CLOTALDO.      Sire . . . .  On me
+[Aside.
+Will his wrath now fall.
+
+CLARIN [aside].  He'll fling him
+Headlong down the steep, I'll bet.
+[Exit.
+
+CLOTALDO.  At your royal feet submitted
+I know how to die.
+
+SIGISMUND.      My father,
+Rise, I pray, from that position,
+Since to you, my guide and polestar,
+Are my future acts committed;
+All my past life owes you much
+For your careful supervision.
+Come, embrace me.
+
+CLOTALDO.      What do you say?
+
+SIGISMUND.  That I dream, and that my wishes
+Are to do what's right, since we
+Even in dreams should do what's fitting.
+
+CLOTALDO.  Then, my prince, if you adopt
+Acting rightly as your symbol,
+You will pardon me for asking,
+So to act, that you permit me.
+No advice and no assistance
+Can I give against my king.
+Better that my lord should kill me
+At his feet here.
+
+SIGISMUND.      Oh, ungrateful!
+Villain! wretch!  [Aside.]  But Heavens!  'tis fitter
+I restrain myself, not knowing
+But all this may be a vision.--
+The fidelity I envy
+Must be honoured and admitted.
+Go and serve your lord, the king.
+Where the battle rages thickest
+We shall meet. -- To arms, my friends!
+
+CLOTALDO.  Thanks, most generous of princes.
+[Exit.
+
+SIGISMUND.  Fortune, we go forth to reign;
+Wake me not if this is vision,
+Let me sleep not if 'tis true.
+But whichever of them is it,
+To act right is what imports me.
+If 'tis true, because it is so;
+If 'tis not, that when I waken
+Friends may welcome and forgive me.
+[Exeunt all, drums beating.
+
+
+      *     *     *     *     *
+
+
+SCENE V.
+
+HALL IN THE ROYAL PALACE.
+
+BASILIUS and ASTOLFO.
+
+BASILIUS.  Who can expect, Astolfo, to restrain
+An untamed steed that wildly turns to flee?
+Who can the current of a stream detain,
+That swollen with pride sweeps down to seek the sea?
+Who can prevent from tumbling to the plain
+Some mighty peak the lightning's flash sets free?
+Yet each were easier in its separate way,
+Than the rude mob's insensate rage to stay.
+The several bands that throng each green retreat
+This truth proclaim by their disparted cries;
+Astolfo here the echoing notes repeat,
+While there 'tis Sigismund that rends the skies
+The place where late the land was glad to greet
+The choice we made, a second venture tries;
+And soon will be, as Horror o'er it leans,
+The fatal theatre of tragic scenes.
+
+ASTOLFO.  My lord, let all this joy suspended be,
+These plaudits cease, and to another day
+Defer the rapture thou hast promised me;
+For if this Poland (which I hope to sway)
+Resists to-day my right of sovereignty,
+'Tis that by merit I should win my way.
+Give me a steed; to stem this wild revolt
+My pride shall be the flash that bears the bolt.
+[Exit.
+
+BASILIUS.  Slight help there is for what is fixed by fate,
+And much of danger to foresee the blow;
+If it must fall, defence is then too late,
+And he who most forestalls doth most foreknow.
+Hard law!  Stern rule!  Dire fact to contemplate!
+That he who thinks to fly doth nearer go.
+Thus by the very means that I employed,
+My country and myself I have destroyed.
+
+
+      *     *     *     *     *
+
+
+SCENE VI.
+
+ESTRELLA and BASILIUS.
+
+ESTRELLA.  If, mighty lord, thy presence, which it braves,
+The tumult of the crowd cannot defeat --
+The frenzy of the multitude that raves
+In hostile bands through every square and street,--
+Thou'lt see thy kingdom swim in crimson waves,
+A purple sea of blood shall round it beat;
+For even already in its dismal doom
+All is disaster, tragedy, and gloom.
+Such is thy kingdom's ruin, so severe
+The hard and bloody trial fate hath sent,
+Dazed is the eye, and terrified the ear;
+Dark grows the sun, and every wind is spent;
+Each stone a mournful obelisk doth rear,
+And every flower erects a monument;
+A grave seems every house, whence life is gone,--
+Each soldier is a living skeleton.
+
+
+      *     *     *     *     *
+
+
+SCENE VII.
+
+CLOTALDO, BASILIUS, and ESTRELLA.
+
+CLOTALDO.  Thanks be to God, I reach thy feet alive.
+
+BASILIUS.  What news of Sigismund, Clotaldo, say?
+
+CLOTALDO.  The crowd, whom frenzy and blind impulse drive,
+Into the tower resistless burst their way,
+Released the Prince, who seeing thus revive
+The honour he had tasted for one day,
+Looked brave, declaring, in a haughty tone,
+The truth at last that heaven must now make known.
+
+BASILIUS.  Give me a horse!  In person forth I'll ride
+To check the pride of this ungrateful son.
+Where Science erred let now the sword decide;
+By my own valour shall my throne be won!
+[Exit.
+
+ESTRELLA.  Let me the glory of the fight divide --
+A twinkling star beside that royal sun --
+Bellona matched with Mars:  for I would dare
+To scale even heaven to rival Pallas there.
+
+[Exit, and they sound to arms.
+
+
+      *     *     *     *     *
+
+
+SCENE VIII.
+
+ROSAURA, who detains CLOTALDO.
+
+ROSAURA.  Though the trumpets from afar
+Echo in thy valorous breast,
+Hear me, list to my request,
+For I know that all is war.
+Well thou knowest that I came
+Poor to Poland, sad, dejected;
+And that graciously protected,
+Thou thy pity let me claim.
+It was thy command, ah, me!
+I should live here thus disguised,
+Striving, as thy words advised
+(Hiding all my jealousy),
+To avoid Astolfo's sight;
+But he saw me, and though seeing,
+With Estrella, he -- false being!--
+Converse holds this very night
+In a garden bower.  The key
+I have taken, and will show
+Where, by entering, with a blow
+Thou canst end my misery.
+Thus, then, daring, bold, and strong,
+Thou my honour wilt restore;
+Strike, and hesitate no more,
+Let his death revenge my wrong.
+
+CLOTALDO.  It is true, my inclination
+Since thou first wert seen by me,
+Was to strive and do for thee
+(Be thy tears my attestation)
+All my life could do to serve thee.
+What I first was forced to press,
+Was that thou should'st change thy dress;
+Les if chancing to observe thee
+Masquerading like a page,
+By appearances so strong
+Led astray, the Duke might wrong
+By a thought thy sex and age.
+Meanwhile various projects held me
+In suspense, oft pondering o'er
+How thy honour to restore;
+Though (thy honour so compelled me)
+I Astolfo's life should take --
+Wild design that soon took wing --
+Yet, as he was not my king,
+It no terror could awake.
+I his death was seeking, when
+Sigismund with vengeful aim
+Sought for mine; Astolfo came,
+And despising what most men
+Would a desperate peril deem,
+Stood in my defence; his bearing,
+Nigh to rashness in its daring,
+Showed a valour most extreme.
+How then, think, could I, whose breath
+Is his gift, in murderous strife,
+For his giving me my life,
+Strive in turn to give him death?
+And thus, grateful, yet aggrieved,
+By two opposite feelings driven,
+Seeing it to thee have given,
+And from him have it received,
+Doubting this, and that believing,
+Half revenging, half forgiving,
+If to thee I'm drawn by giving,
+I to him am by receiving;
+Thus bewildered and beset,
+Vainly seeks my love a way,
+Since I have a debt to pay,
+Where I must exact a debt
+
+ROSAURA.  It is settled, I believe,
+As all men of spirit know,
+That 'tis glorious to bestow,
+But a meanness to receive.
+Well, admitting this to be,
+Then thy thanks should not be his,
+Even supposing that he is
+One who gave thy life to thee;
+As the gift of life was thine,
+And from him the taking came,
+In this case the act was shame,
+And a glorious act in mine.
+Thus by him thou art aggrieved,
+And by me even complimented,
+Since to me thou hast presented
+What from him thou hast received:
+Then all hesitation leaving,
+Thou to guard my fame shouldst fly,
+Since my honour is as high
+As is giving to receiving.
+
+CLOTALDO.  Thou it seems a generous fever
+In a noble heart to give,
+Still an equal fire may live
+In the heart of the receiver.
+Heartlessness is something hateful,
+I would boast a liberal name;
+Thus I put my highest claim
+In the fact of being grateful.
+Then to me that title leave,--
+Gentle birth breeds gentleness;
+For the honour is no less
+To bestow than to receive.
+
+ROSAURA.  I received my life from thee,
+But for thee I now were dead;
+Still it was thyself that said
+No insulted life could be
+Called a life:  on that I stand;
+Nought have I received from thee,
+For the life no life could be
+That was given me by thy hand.
+But if thou wouldst first be just
+Ere being generous in this way
+(As I heard thyself once say),
+Thou will give me life I trust,
+Which thou hast not yet; and thus
+Giving will enhance thee more,
+For if liberal before,
+Thou wilt then be generous.
+
+CLOTALDO.  Conquered by thy argument,
+Liberal I first will be.
+I, Rosaura, will to thee
+All my property present;
+In a convent live; by me
+Has the plan been weighed some time,
+For escaping from a crime
+Thou wilt there find sanctuary;
+For so many ills present them
+Through the land on every side,
+That being nobly born, my pride
+Is to strive and not augment them.
+By the choice that I have made,
+Loyal to the land I'll be,
+I am liberal with thee,
+And Astolfo's debt is paid;
+Choose then, nay, let honour, rather,
+Choose for thee, and for us two,
+For, by Heaven!  I could not do
+More for thee were I thy father!--
+
+ROSAURA.  Were that supposition true,
+I might strive and bear this blow;
+But not being my father, no.
+
+CLOTALDO.  What then dost thou mean to do?
+
+ROSAURA.  Kill the Duke.
+
+CLOTALDO.      A gentle dame,
+Who no father's name doth know,
+Can she so much valour show?
+
+ROSAURA.  Yes.
+
+CLOTALDO.      What drives thee on?
+
+ROSAURA.            My fame.
+
+CLOTALDO.  Think that in the Duke thou'lt see . . . .
+
+ROSAURA.  Honour all my wrath doth rouse.
+
+CLOTALDO.  Soon thy king -- Estrella's spouse.
+
+ROSAURA.  No, by Heaven! it must not be.
+
+CLOTALDO.  It is madness.
+
+ROSAURA.      Yes, I see it.
+
+CLOTALDO.  Conquer it.
+
+ROSAURA.      I can't o'erthrow it.
+
+CLOTALDO.  It will cost thee . . . .
+
+ROSAURA.      Yes, I know it.
+
+CLOTALDO.  Life and honour.
+
+ROSAURA.      Well, so be it.
+
+CLOTALDO.  What wouldst have?
+
+ROSAURA.      My death.
+
+CLOTALDO.            Take care!
+It is spite.
+
+ROSAURA.  'Tis honour's cure.
+
+CLOTALDO.  'Tis wild fire.
+
+ROSAURA.      That will endure.
+
+CLOTALDO.  It is frenzy.
+
+ROSAURA.      Rage, despair.
+
+CLOTALDO.  Can there then be nothing done
+This blind rage to let pass by?
+
+ROSAURA.  No.
+
+CLOTALDO.  And who will help thee?
+
+ROSAURA.      I.
+
+CLOTALDO.  Is there then no remedy?
+
+ROSAURA.      None.
+
+CLOTALDO.  Think of other means whereby . . . .
+
+ROSAURA.  Other means would seal my fate.
+[Exit.
+
+CLOTALDO.  If 'tis so, then, daughter, wait,
+For together we shall die.
+[Exit.
+
+
+      *     *     *     *     *
+
+
+SCENE IX.
+
+THE OPEN PLAIN.
+
+SIGISMUND, clothed in skins:  Soldiers marching.  CLARIN.
+[Drums are heard.]
+
+SIGISMUND.  If Rome could see me on this day
+Amid the triumphs of its early sway,
+Oh, with what strange delight
+It would have seen so singular a sight,
+Its mighty armies led
+By one who was a savage wild beast bred,
+Whose courage soars so high,
+That even an easy conquest seems the sky!
+But let us lower our flight,
+My spirit; 'tis not thus we should invite
+This doubtful dream to stay,
+Lest when I wake and it has past away,
+I learn to my sad cost,
+A moment given, 'twas in a moment lost;
+Determined not to abuse it,
+The less will be my sorrow should I lose it.
+
+[A trumpet sounds.
+
+CLARIN.  Upon a rapid steed,
+(Excuse my painting it; I can't indeed
+Resist the inspiration),
+Which seems a moving mass of all creation,
+Its body being the earth,
+The fire the soul that in its heart hath birth,
+Its foam the sea, its panting breath the air,
+Chaos confused at which I stand and stare,
+Since in its soul, foam, body, breath, to me
+It is a monster made of fire, earth, air, and sea;
+Its colour dapple grey,
+Speckled its skin, and flecked, as well it may,
+By the impatient spur its flank that dyes,
+For lo! it doth not run, the meteor flies;
+As borne upon the wind,
+A beauteous woman seeks thee.
+
+SIGISMUND.      I'm struck blind!
+
+CLARIN.  Good God, it is Rosaura, oh, the pain!
+[Retires.
+
+SIGISMUND.  Heaven has restored her to my sight again.
+
+
+      *     *     *     *     *
+
+
+SCENE X.
+
+ROSAURA, in a light corselet, with sword and dagger;
+SIGISMUND, and Soldiers.
+
+ROSAURA.  Noble-hearted Sigismund!
+Thou whose hidden light heroic
+Issues from its night of shadows
+To the great deeds of its morning;
+And as heaven's sublimest planet
+From the white arms of Aurora
+Back restores their beauteous colour
+To the wild flowers and the roses,
+And upon the seas and mountains,
+When endiademed with glory,
+Scatters light, diffuses splendour,
+Braids their foam, their hair makes golden;
+Thus thou dawnest on the world
+Bright auspicious sun of Poland,
+Who will help a hapless woman,
+She who at thy feet doth throw her,
+Help her, since she is unhappy,
+And a woman; two good motives
+Quite enough to move a man
+Who of valour so doth boast him,
+Though even one would be sufficient,
+Though even one would be all potent.
+Thou hast seen me thrice already,
+Thrice thou hast not truly known me,
+For each time by different dresses
+Was I strangely metamorphosed.
+First I seemed to thee a man,
+When within thy sad and sombre
+Cell thou sawest me, when thy life
+Wiled from me mine own misfortunes.
+As a woman next thou sawest me,
+Where the splendours of thy throne-room
+Vanished like a fleeting vision,
+Vain, phantasmal and abortive.
+The third time is now, when being
+Something monstrous and abnormal,
+In a woman's dress thou see'st me
+With a warrior's arms adorned.
+And to pity and compassion
+That thou may'st be moved more strongly,
+Listen to the sad succession
+Of my tragical misfortunes.
+In the Court of Muscovy
+I was born of a noble mother,
+Who indeed must have been fair
+Since unhappiness was her portion.
+Fond and too persuading eyes
+Fixed on her, a traitor lover,
+Whom, not knowing, I don't name,
+Though mine own worth hath informed me
+What was his: for being his image,
+I sometimes regret that fortune
+Made me not a pagan born,
+That I might, in my wild folly,
+Think he must have been some god,
+Such as he was, who in golden
+Shower wooed Danae, or as swan
+Leda loved, as bull, Europa.
+When I thought to lengthen out,
+Citing these perfidious stories,
+My discourse, I find already
+That I have succinctly told thee
+How my mother, being persuaded
+By the flatteries of love's homage,
+Was a fair as any fair,
+And unfortunate as all are.
+That ridiculous excuse
+Of a plighted husband's promise
+So misled her, that even yet
+the remembrance brings her sorrow.
+For that traitor, that Aeneas
+Flying from his Troy, forgot there,
+Or left after him his sword.
+By this sheath its blade is covered,
+But it shall be naked drawn
+Ere this history is over.
+From this loosely fastened know
+Which binds nothing, which ties nothing,
+Call it marriage, call it crime,
+Names its nature cannot alter,
+I was born, a perfect image,
+A true copy of my mother,
+In her loveliness, ah, no!
+In her miseries and misfortunes.
+Therefore there is little need
+To say how the hapless daughter,
+Heiress of such scant good luck,
+Had her own peculiar portion.
+All that I will say to thee
+Of myself is, that the robber
+Of the trophies of my fame,
+Of the sweet spoils of my honour,
+Is Astolfo . . . . Ah! to name him
+Stirs and rouses up the choler
+Of the heart, a fitting effort
+When an enemy's name is spoken,--
+Yes, Astolfo was that traitor,
+Who, forgetful of his promise
+(For when love has passed away,
+Even its memory is forgotten),
+Came to Poland, hither called.
+From so sweet so proud a conquest,
+To be married to Estrella,
+Of my setting sun the torch light.
+Who'll believe that when one star
+Oft unites two happy lovers,
+Now one star, Estrella, comes
+Two to tear from one another?
+I offended, I deceived,
+Sad remained, remained astonished,
+Mad, half dead, remained myself;
+That's to say, in so much torment,
+That my heart was like a Babel
+Of confusion, hell, and horror:
+I resolving to be mute,
+(For there are some pains and sorrows
+That by feelings are expressed,
+Better than when words are spoken).
+I by silence spoke my pain,
+Till one day being with my mother
+Violante, she (oh, heavens!)
+Burst their prison; like a torrent
+Forth they rushed from out my breast,
+Streaming wildly o'er each other.
+No embarrassment it gave me
+To relate them, for the knowing
+That the person we confide to
+A like weakness must acknowledge
+Gives as 'twere to our confusion
+A sweet soothing and a solace,
+For at times a bad example
+Has its use.  In fine, my sorrows
+She with pity heard, relating
+Even her own grief to console me:
+When he has himself been guilty
+With what ease the judge condoneth!
+Knowing from her own experience
+That 'twas idle, to slow-moving
+Leisure, to swift-fleeting time,
+To intrust one's injured honour.
+She could not advise me better,
+As the cure of my misfortunes,
+Than to follow and compel him
+By prodigious acts of boldness
+To repay my honour's debt:
+And that such attempt might cost me
+Less, my fortune wished that I
+Should a man's strange dress put on me.
+She took down an ancient sword,
+Which is this I bear:  the moment
+Now draws nigh I must unsheath it,
+Since to her I gave that promise,
+When confiding in its marks,
+Thus she said, "Depart to Poland,
+And so manage that this steel
+Shall be seen by the chief nobles
+Of that land, for I have hope
+That there may be one among them
+Who may prove to thee a friend,
+An adviser and consoler."
+Well, in Poland I arrived;
+It is useless to inform thee
+What thou knowest already, how
+A wild steed resistless bore me
+To thy caverned tower, wherein
+Thou with wonder didst behold me.
+Let us pass too, how Clotaldo
+Passionately my cause supported,
+How he asked my life of the king
+Who to him that boon accorded;
+How discovering who I am
+He persuaded me my proper
+Dress to assume, and on Estrella
+To attend as maid of honour,
+So to thwart Astolfo's love
+And prevent the marriage contract.
+Let us, too, pass by, that here
+thou didst once again behold me
+In a woman's dress, my form
+Waking thus a twofold wonder,
+And approach the time, Clotaldo
+Being convinced it was important
+That should wed and reign together
+Fair Estrella and Astolfo,
+'Gainst my honour, me advised
+To forego my rightful project.
+But, O valiant Sigismund,
+Seeing that the moment cometh
+For thy vengeance, since heaven wishes
+Thee to-day to burst the portals
+Of thy narrow rustic cell,
+Where so long immured, thy body
+Was to feeling a wild beast,
+Was to sufferance what the rock is,
+And that 'gainst thy sire and country
+Thou hast gallantly revolted,
+And ta'en arms, I come to assist thee,
+Intermingling the bright corselet
+Of Minerva with the trappings
+Of Diana, thus enrobing
+Silken stuff and shining steel
+In a rare but rich adornment.
+On, then, on, undaunted champion!
+To us both it is important
+To prevent and bring to nought
+This engagement and betrothal;
+First to me, that he, my husband,
+Should not falsely wed another,
+Then to thee, that their two staffs
+Being united, their joined forces
+Should with overwhelming power
+Leave our doubtful victory hopeless.
+Woman, I come here to urge thee
+To repair my injured honour,
+And as man I come to rouse thee
+Crown and sceptre to recover.
+Woman I would wake thy pity
+Since here at thy feet I throw me,
+And as man, my sword and person
+In thy service I devote thee.
+But remember, if to-day
+As a woman thou should'st court me,
+I, as man, will give thee death
+In the laudable upholding,
+Of my honour, since I am
+In this strife of love, this contest,
+Woman my complaints to tell thee,
+And a man to guard my honour.
+
+SIGISMUND [aside].  Heavens! if it is true I dream,
+Memory then suspend thy office,
+For 'tis vain to hope remembrance
+Could retain so many objects.
+Help me, God! or teach me how
+All these numerous doubts to conquer,
+Or to cease to think of any!--
+Whoe'er tried such painful problems?
+If 'twas but a dream, my grandeur,
+How then is it, at this moment,
+That this woman can refer me
+To some facts that are notorious?
+Then 'twas truth, and not a dream;
+But if it was truth (another
+And no less confusion,) how
+Can my life be called in proper
+Speech a dream?  So like to dreams
+Are then all the world's chief glories,
+That the true are oft rejected
+As the false, the false too often
+Are mistaken for the true?
+Is there then 'twixt one and the other
+Such slight difference, that a question
+May arise at any moment
+Which is true or which is false?
+Are the original and the copy
+So alike, that which is which
+Oft the doubtful mind must ponder?
+If 'tis so, and if must vanish,
+As the shades of night at morning,
+All of majesty and power,
+All of grandeur and of glory,
+Let us learn at least to turn
+To our profit the brief moment
+That is given us, since our joy
+Lasteth while our dream lasts only.
+In my power Rosaura stands,
+Thou, my heart, her charms adoreth,
+Let us seize then the occasion;
+Let love trample in its boldness
+All the laws on which relying
+She here at my feet has thrown her.
+'Tis a dream; and since 'tis so,
+Let us dream of joys, the sorrows
+Will come soon enough hereafter.
+But with mine own words just spoken,
+Let me now confute myself!
+If it is a dream that mocks me,
+Who for human vanities
+Would forego celestial glory?
+What past bliss is not a dream?
+Who has had his happy fortunes
+Who hath said not to himself
+As his memory ran o'er them,
+"All I saw, beyond a doubt
+Was a dream."  If this exposeth
+My delusion, if I know
+That desire is but the glowing
+Of a flame that turns to ashes
+At the softest wind that bloweth;
+Let us seek then the eternal,
+The true fame that ne'er reposeth,
+Where the bliss is not a dream,
+Nor the crown a fleeting glory.
+Without honour is Rosaura.
+But it is a prince's province
+To give honour, not to take it:
+Then, by Heaven! it is her honour
+That for her I must win back,
+Ere this kingdom I can conquer.
+Let us fly then this temptation.
+[To the Soldiers.
+'Tis too strong:  To arms!  March onward!
+For to-day I must give battle,
+Ere descending night, the golden
+Sunbeams of expiring day
+Buries in the dark green ocean.
+
+ROSAURA.  Dost thou thus, my lord, withdraw thee?
+What! without a word being spoken?
+Does my pain deserve no pity?
+Does my grief so little move thee?
+Can it be, my lord, thou wilt not
+Deign to hear, to look upon me?
+Dost thou even avert thy face?
+
+SIGISMUND.  Ah, Rosaura, 'tis thy honour
+That requires this harshness now,
+If my pity I would show thee.
+Yes, my voice does not respond,
+'Tis my honour that respondeth;
+True I speak not, for I wish
+That my actions should speak for me;
+Thee I do not look on, no,
+For, alas! it is of moment,
+That he must not see thy beauty
+Who is pledged to see thy honour.
+[Exit followed by the Soldiers.
+
+ROSAURA.  What enigmas, O ye skies!
+After many a sigh and tear,
+Thus in doubt to leave me here
+With equivocal replies!
+
+
+      *     *     *     *     *
+
+
+SCENE XI.
+
+CLARIN and ROSAURA.
+
+CLARIN.  Madam, is it visiting hour?
+
+ROSAURA.  Welcome, Clarin, where have you been?
+
+CLARIN.  Only four stout walls between
+In an old enchanted tower;
+Death was on the cards for me,
+But amid the sudden strife
+Ere the last trump came, my life
+Won the trick and I got free.
+I ne'er hoped to sound again.
+
+ROSAURA.  Why?
+
+CLARIN.      Because alone I know
+Who you are:  And this being so,
+Learn, Clotaldo is . . . . . This strain
+Puts me out.
+
+[Drums are heard.
+
+ROSAURA.  What can it be?
+
+CLARIN.  From the citadel at hand,
+Leagured round, an armed band
+As to certain victory
+Sallies forth with flags unfurled.
+
+ROSAURA.  'Gainst Prince Sigismund! and I,
+Coward that I am, not by
+To surprise and awe the world,
+When with so much cruelty
+Each on each the two hosts spring!
+[Exit.
+
+
+      *     *     *     *     *
+
+
+SCENE XII.
+
+CLARIN; and Soldiers within.
+
+Voices of some.  Live, long live our victor King!
+
+Voices of others.  Live, long live our liberty!
+
+CLARIN.  Live, long live the two, I say!
+Me it matters not a pin,
+Which doth lose or which doth win,
+If I can keep out of the way!--
+So aside here I will go,
+Acting like a prudent hero,
+Even as the Emperor Nero
+Took things coolly long ago.
+Or if care I cannot shun,
+Let it 'bout mine ownself be;
+Yes, here hidden I can see
+All the fighting and the fun;
+What a cosy place I spy
+Mid the rock there! so secure,
+Death can't find me out I'm sure,
+Then a fig for death I say!
+[Conceals himself, drums beat and the sound of arms is heard.
+
+
+      *     *     *     *     *
+
+
+SCENE XIII.
+
+BASILIUS, CLOTALDO, ASTOLFO, flying. -- CLARIN concealed.
+
+BASILIUS.  Hapless king! disastrous reign!
+Outraged father! guilty son!
+
+CLOTALDO.  See thy vanquished forces run
+In a panic o'er the plain!
+
+ASTOLFO.  And the rebel conqueror's stay,
+Proud, defiant.
+
+BASILIUS.      'Tis decreed
+Those are loyal who succeed,
+Rebels those who lose the day.
+Let us then, Clotaldo, flee,
+Since the victory he hath won,
+From a proud and cruel son.
+
+[Shots are fired within, and CLARIN falls wounded from his hiding-place.
+
+CLARIN.  Heaven protect me!
+
+ASTOLFO.      Who can be
+This last victim of the fight,
+Who is struck down in the retreat,
+Falls here bleeding at our feet?
+
+CLARIN.  I am an unlucky wight,
+Who to shun Death's fearful face
+Found the thing I would forget:
+Flying from him, him I've met.
+For there is no secret place
+Hid from death; and therefore I
+This conclusion hold as clear,
+He 'scapes best who goes more near,
+He dies first who first doth fly.
+Then return, return and be
+In the bloody conflict lost;
+Where the battle rages most,
+There is more security
+Than in hills how desolate,
+Since no safety can there be
+'Gainst the force of destiny,
+And the inclemency of fate;
+Therefore 'tis in vain thou flyest
+From the death thou draw'st more nigh,
+Oh, take heed for thou must die
+If it is God's will thou diest!
+[Falls within.
+
+BASILIUS.  Oh, take heed for thou must die
+If it is God's will thou diest!--
+With what eloquence, O heaven!
+Does this body that here lieth,
+Through the red mouth of a wound
+To profoundest thoughts entice us
+From our ignorance and our error!
+The red current as it glideth
+Is a bloody tongue that teaches
+All man's diligence is idle,
+When against a greater power,
+And a higher cause it striveth.
+Thus with me, 'gainst strife and murder
+When I thought I had provided,
+I but brought upon my country
+All the ills I would have hindered.
+
+CLOTALDO.  Though, my lord, fate knoweth well
+Every path, and quickly findeth
+Whom it seeks; yet still it strikes me
+'Tis not christian-like to say
+'Gainst its rage that nought suffices.
+That is wrong, a prudent man
+Even o'er fate victorious rises;
+And if thou art not preserved
+From the ills that have surprised thee,
+From worse ills thyself preserve.
+
+ASTOLFO.  Sire, Clotaldo doth address thee
+As a cautious, prudent man,
+Whose experience time hath ripened.
+I as a bold youth would speak:
+Yonder, having lost its rider,
+I behold a noble steed
+Wandering reinless and unbridled,
+Mount and fly with him while I
+Guard the open path behind thee.
+
+BASILIUS.  If it is God's will I die,
+Or if Death for me here lieth
+As in ambush, face to face
+I will meet it and defy it.
+
+
+      *     *     *     *     *
+
+
+SCENE XIV.
+
+SIGISMUND, ESTRELLA, ROSAURA, Soldiers, Attendants, BASILIUS,
+ASTOLFO, and CLOTALDO.
+
+A SOLDIER.  'Mid the thickets of the mountain,
+'Neath these dark boughs so united,
+The King hides.
+
+SIGISMUND.      Pursue him then,
+Leave no single shrub unrifled,
+Nothing must escape your search,
+Not a plant, and not a pine tree.
+
+CLOTALDO.  Fly, my lord!
+
+BASILIUS.      And wherefore fly?
+
+ASTOLFO.  Come!
+
+BASILIUS.      Astolfo, I'm decided.
+
+CLOTALDO.  What to do?
+
+BASILIUS.  To try, Clotaldo,
+One sole remedy that surviveth.
+[To SIGISMUND.
+If 'tis me thou'rt seeking, Prince,
+At thy feet behold me lying.
+[Kneeling.
+Let thy carpet be these hairs
+Which the snows of age have whitened.
+Tread upon my neck, and trample
+On my crown; in base defilement
+Treat me with all disrespect;
+Let thy deadliest vengeance strike me
+Through my honour; as thy slave
+Make me serve thee, and in spite of
+All precautions let fate be,
+Let heaven keep the word it plighted.
+
+SIGISMUND.  Princes of the Court of Poland,
+Who such numerous surprises
+Have astonished seen, attend,
+For it is your prince invites ye.
+That which heaven has once determined,
+That which God's eternal finger
+Has upon the azure tablets
+Of the sky sublimely written,
+Those transparent sheets of sapphire
+Superscribed with golden ciphers
+Ne'er deceive, and never lie;
+The deceiver and the liar
+Is he who to use them badly
+In a wrongful sense defines them.
+Thus, my father, who is present,
+To protect him from the wildness
+Of my nature, made of me
+A fierce brute, a human wild-beast;
+So that I, who from my birth,
+From the noble blood that trickles
+Through my veins, my generous nature,
+And my liberal condition,
+Might have proved a docile child,
+And so grew, it was sufficient
+By so strange an education,
+By so wild a course of living,
+To have made my manners wild;--
+What a method to refine them!
+If to any man 'twas said,
+"It is fated that some wild-beast
+will destroy you," would it be
+Wise to wake a sleeping tiger
+As the remedy of the ill?
+If 'twere said, "this sword here hidden
+In its sheath, which thou dost wear,
+Is the one foredoomed to kill thee,"
+Vain precaution it would be
+To preserve the threatened victim.
+Bare to point it at his breast.
+If 'twere said, "these waves that ripple
+Calmly here for thee will build
+Foam-white sepulchres of silver,"
+Wrong it were to trust the sea
+When its haughty breast is lifted
+Into mountain heights of snow,
+Into hills of curling crystal.
+Well, this very thing has happened
+Unto him, who feared a wild-beast,
+And awoke him while he slept;
+Or who drew a sharp sword hidden
+Naked forth, or dared the sea
+When 'twas roused by raging whirlwinds
+And though my fierce nature (hear me)
+Was as 'twere the sleeping tiger,
+A sheathed sword my innate rage
+And my wrath a quiet ripple,
+Fate should not be forced by means
+So unjust and so vindictive,
+For they but excite it more;
+And thus he who would be victor
+O'er his fortune, must succeed
+By wise prudence and self-strictness.
+Not before an evil cometh
+Can it rightly be resisted
+Even by him who hath foreseen it,
+For although (the fact's admitted)
+By an humble resignation
+It is possible to diminish
+Its effects, it first must happen,
+And by no means can be hindered.
+Let it serve as an example
+This strange sight, this most surprising
+Spectacle, this fear, this horror,
+This great prodigy; for none higher
+E'er was worked than this we see,
+After years of vain contriving,
+Prostrate at my feet a father,
+And a mighty king submitted.
+This the sentence of high heaven
+Which he did his best to hinder
+He could not prevent.  Can I,
+Who in valour and in science,
+Who in years am so inferior,
+It avert?  My lord, forgive me,
+[To the King.
+Rise, sir, let me clasp thy hand;
+For since heaven has now apprized thee
+That thy mode of counteracting
+Its decree was wrong, a willing
+Sacrifice to thy revenge
+Let my prostrate neck be given.
+
+BASILIUS.  Son, this noble act of thine
+In my heart of hearts reviveth
+All my love, thou'rt there reborn.
+Thou art Prince; the bay that bindeth
+Heroes' brows, the palm, be thine,
+Let the crown thine own deeds give thee.
+
+ALL.  Long live Sigismund our King!
+
+SIGISMUND.  Though my sword must wait a little
+Ere great victories it can gain,
+I to-day will win the highest,
+The most glorious, o'er myself.--
+Give, Astolfo, give your plighted
+Hand here to Rosaura, since
+It is due and I require it.
+
+ASTOLFO.  Though 'tis true I owe the debt,
+Still 'tis needful to consider
+That she knows not who she is;
+It were infamous, a stigma
+On my name to wed a woman . . . .
+
+CLOTALDO.  Stay, Astolfo, do not finish;
+For Rosaura is as noble
+As yourself.  My sword will right her
+In the field against the world:
+She's my daughter, that's sufficient.
+
+ASTOLFO.  What do you say?
+
+CLOTALDO.      Until I saw her
+To a noble spouse united,
+I her birth would not reveal.
+It were now a long recital,
+But the sum is, she's my child.
+
+ASTOLFO.  That being so, the word I've plighted
+I will keep.
+
+SIGISMUND.  And that Estrella
+May not now be left afflicted,
+Seeing she has lost a prince
+Of such valour and distinction,
+I propose from mine own hand
+As a husband one to give her,
+Who, if he does not exceed
+Him in worth, perhaps may rival.
+Give to me thy hand.
+
+ESTRELLA.      I gain
+By an honour so distinguished.
+
+SIGISMUND.  To Clotaldo, who so truly
+Served my father, I can give him
+But these open arms wherein
+He will find what'er he wishes.
+
+A SOLDIER.  If thou honorest those who serve thee,
+Thus, to me the first beginner
+Of the tumult through the land,
+Who from out the tower, thy prison,
+Drew thee forth, what wilt thou give?
+
+SIGISMUND.  Just that tower: and that you issue
+Never from it until death,
+I will have you guarded strictly;
+For the traitor is not needed
+Once the treason is committed.
+
+BASILIUS.  So much wisdom makes one wonder.
+
+ASTOLFO.  What a change in his condition!
+
+ROSAURA.  How discreet! how calm! how prudent!
+
+SIGISMUND.  Why this wonder, these surprises,
+If my teacher was a dream,
+And amid my new aspirings
+I am fearful I may wake,
+And once more a prisoner find me
+In my cell?  But should I not,
+Even to dream it is sufficient:
+For I thus have come to know
+That at last all human blisses
+Pass and vanish as a dream,
+And the time that may be given me
+I henceforth would turn to gain:
+Asking for our faults forgiveness,
+Since to generous, noble hearts
+It is natural to forgive them.

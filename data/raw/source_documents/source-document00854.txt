@@ -1,0 +1,63 @@
+﻿I wish, before quitting this section of my subject, to call your
+attention to two very interesting but very different kinds of marine
+engines. One is the high-speed torpedo vessel, or steam launch, of
+which Messrs. Thornycroft's firm have furnished so many examples. In
+these, owing to the rate at which the piston runs to the initial
+pressure of 120 lb. and to very great skill in the design, Messrs.
+Thornycroft have succeeded in obtaining a gross indicated horse-power
+for as small a weight as half a cwt., including the boiler, the water
+in the boiler, the engine, the propeller shaft, and the propeller
+itself.
+
+To obtain the needed steam from the small and light boiler, recourse
+has to be made to the aid of a fan blast driven into the stoke-hole.
+From the use of a blast in this way advantages accrue. One is, as
+already stated, that from a small boiler a large amount of steam is
+produced. Another is that the stoke-hole is kept cool; and the third
+is that artificial blasts thus applied are unaccompanied by the
+dangers which arise, when under ordinary circumstances the blast is
+supplied only to the ash-pit itself.
+
+
+THE PERKINS SYSTEM.
+
+The second marine engine to which I wish to call your attention is one
+that has been made with a view to great economy. The principles
+followed in its construction are among those suggested by the
+President (Sir W.G. Armstrong) in his address. He (you will remember)
+pointed out that the direction in which economy in the steam engine
+was to be looked for was that of increasing the initial pressure;
+although at the same time he said that there were drawbacks in the
+shape of greater loss, by radiation, and by the higher temperature at
+which the products of combustion will escape. We must admit the fact
+of the latter source of loss, when using very high steam, it being
+inevitable that temperature of the products of combustion escaping
+from a boiler under these conditions must be higher than those which
+need be allowed to escape when lower steam is employed; although I
+regret to say that in practice in marine boilers working at
+comparatively low pressures the products are ordinarily suffered to
+pass into the funnel at above the temperature of melted lead. But with
+respect to the loss by radiation in the particular engine I am about
+to mention--that of Perkins--there is not as much loss as that which
+prevails in the ordinary marine boilers, because the Perkins boiler is
+completely inclosed, with the result that while there is within the
+case a boiler containing steam of 400 lb. on the square inch, and the
+fire to generate that steam, the hand may be applied to the casting
+itself, which contains the whole of the boiler, without receiving any
+unpleasant sensation of warmth. By Mr. Perkins's arrangement, using
+steam of 400 lb. in the boiler, it was found, as the result of very
+severe trials, conducted by Mr. Rich, of Messrs. Easton and Anderson's
+firm, and myself--trials which lasted for twelve hours--that the total
+consumption of fuel, including that for getting up steam from cold
+water, was just under 1.8, actually 1.79 lb. per gross indicated
+horse-power per hour. That gross indicated horse-power was obtained in
+a manner which it is desirable should always be employed in steamboat
+trials. It was not got by using as a divisor the horse-power of the
+most favorable diagram obtained during the day; but it was got from
+diagrams taken during the regular work; then, every half-hour, when
+the pressure began to die down, from coal being no longer put upon the
+fire, diagrams taken every quarter of an hour, and then toward the
+last, every five minutes; and the total number of foot pounds were
+calculated from these diagrams, and were used to obtain the gross
+indicated horse-power.
+

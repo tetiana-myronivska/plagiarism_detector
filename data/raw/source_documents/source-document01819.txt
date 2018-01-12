@@ -1,0 +1,5294 @@
+﻿Produced by David Garcia, Melissa Er-Raqabi and the Online
+Distributed Proofreading Team at http://www.pgdp.net.
+Produced from images provided by Kentuckiana Digital
+Archive.
+
+
+THE CLIMBERS
+A PLAY IN FOUR ACTS
+
+By
+CLYDE FITCH
+
+
+NEW YORK
+SAMUEL FRENCH
+PUBLISHER
+25 WEST 45th STREET
+
+LONDON
+SAMUEL FRENCH, LTD.
+26 SOUTHAMPTON ST.
+STRAND
+
+
+Reprinted by permission of Little, Brown & Co.
+
+
+COPYRIGHT, 1905,
+BY LITTLE, BROWN, AND COMPANY.
+ALL RIGHTS RESERVED
+
+
+This play is fully protected by the copyright law, all requirements of
+which have been complied with. In its present printed form it is
+dedicated to the reading public only, and no performance of it, either
+professional or amateur, may be given without the written permission of
+the owner of the acting rights, who may be addressed in care of the
+publishers, Little, Brown, and Company.
+
+
+TO
+CHARLES T. MATHEWS
+
+IN GRATEFUL RECOGNITION OF HIS
+TRUE FRIENDSHIP AND LOYAL ENTHUSIASM
+FROM THE BEGINNING
+
+C.F.
+
+
+[Transcriber's Note: One character is listed as Dr. Steinart in the List
+of Characters, but Dr. Steinhart in the body of the play.]
+
+
+_THE CLIMBERS_
+
+
+ACT I.    IN LATE WINTER.
+          _At the Hunters'._
+
+ACT II.   THE FOLLOWING CHRISTMAS EVE.
+          _At the Sterlings'._
+
+ACT III.  CHRISTMAS DAY.
+          _At the Hermitage, by the Bronx River._
+
+ACT IV.   THE DAY AFTER CHRISTMAS.
+          _At the Sterlings'._
+
+
+NEW YORK: TO-DAY
+
+
+_THE PEOPLE IN THE PLAY_
+
+
+RICHARD STERLING. EDWARD WARDEN. FREDERICK MASON. JOHNNY TROTTER.
+GODESBY. DR. STEINART. RYDER. SERVANT _at the Hermitage._ JORDAN.
+_Butler at the Sterlings'._ LEONARD. _Footman at the Sterlings'._ MASTER
+STERLING. SERVANTS.
+
+MRS. STERLING (_née Blanche Hunter_). MISS HUNTER. MRS. HUNTER. JESSICA
+HUNTER. CLARA HUNTER. MISS GODESBY. MISS SILLERTON. TOMPSON. _Mrs.
+Hunter's Maid._ MARIE. _Clara Hunter's Maid._
+
+
+Originally produced at the Bijou Theatre, New York, January 21, 1901,
+with the following cast:--
+
+Richard Sterling                               Mr. Frank Worthing
+Edward Warden                                  Mr. Robert Edeson
+Frederick Mason                                Mr. John Flood
+Johnny Trotter                                 Mr. Ferdinand Gottschalk
+Dr. Steinart                                   Mr. George C. Boniface
+Godesby                                        Mr. J.B. Sturges
+Ryder                                          Mr. Kinard
+Servant at the Hermitage                       Mr. Henry Warwick
+Jordan    }            Servants              { Mr. Edward Moreland
+Leonard   }             at the               { Mr. Henry Stokes
+A Footman }            Hunters'              { Mr. Frederick Wallace
+Richard Sterling, Jr.                          Master Harry Wright
+
+Mrs. Hunter                                    Mrs. Madge Carr Cook
+Mrs. Sterling (_née_ Blanche Hunter)      Miss Amelia Bingham
+Jessica Hunter                                 Miss Maud Monroe
+Clara Hunter                                   Miss Minnie Dupree
+Miss Hunter                                    Miss Annie Irish
+Miss Godesby                                   Miss Clara Bloodgood
+Miss Sillerton                                 Miss Ysobel Haskins
+Tompson }              Maids at              { Miss Lillian Eldredge
+Marie   }            the Hunters'            { Miss Florence Lloyd
+
+
+Produced at the Comedy Theatre, London, September 5, 1903, with the
+following cast:--
+
+Richard Sterling                               Mr. Sydney Valentine
+Edward Warden                                  Mr. Reeves-Smith
+Frederick Mason                                Mr. J.L. Mackay
+Johnny Trotter                                 Mr. G.M. Graham
+Godesby                                        Mr. Horace Pollock
+Dr. Steinart                                   Mr. Howard Sturges
+Master Sterling                                Miss Maidie Andrews
+Ryder                                          Mr. Henry Howard
+Jordan                                         Mr. Elgar B. Payne
+Leonard                                        Mr. Littledale Power
+Footman                                        Mr. Rivers Bertram
+Servant                                        Mr. George Aubrey
+
+Mrs. Sterling                                  Miss Lily Hanbury
+Miss Hunter                                    Miss Kate Tyndall
+Mrs. Hunter                                    Miss Lottie Venne
+Jessica Hunter                                 Miss Alma Mara
+Clara Hunter                                   Mrs. Mouillot
+Miss Sillerton                                 Miss Florence Sinclair
+Tompson                                        Miss L. Crauford
+Marie                                          Miss Armstrong
+Miss Godesby                                   Miss Fannie Ward
+
+
+ACT I
+
+
+_A drawing-room at the Hunters', handsomely and artistically furnished.
+The woodwork and furniture are in the period of Louis XVI. The walls and
+furniture are covered with yellow brocade, and the curtains are of the
+same golden material. At the back are two large windows which give out
+on Fifth Avenue, opposite the Park, the trees of which are seen across
+the way. At Left is a double doorway, leading into the hall. At Right,
+opposite, is a door which leads to other rooms, and thence to other
+parts of the house. In the centre, at back, between the two windows, is
+the fireplace; on the mantel are two vases and a clock in dark blue
+ormolu. There is a white and gold piano on the Right side of the room.
+The room suggests much wealth, and that it has been done by a
+professional decorator; the personal note of taste is lacking._
+
+_It is four o'clock in the afternoon. The shades of the windows are
+drawn down. There are rows and rows of camp-chairs filling the entire
+room._
+
+_The curtain rises slowly. After a moment,_ JORDAN, _the butler, and_
+LEONARD, _a footman, enter from the Left and begin to gather together
+and carry out the camp-chairs. They do this with very serious faces, and
+take great pains to step softly and to make no noise. They enter a
+second time for more chairs._
+
+
+JORDAN. [_Whispers to_ LEONARD.] When are they coming for the chairs?
+
+LEONARD. [_Whispers back._] To-night. Say, it was fine, wasn't it!
+
+JORDAN. Grand!
+
+[_They go out with the chairs and immediately reënter for more. They are
+followed in this time by a lady's maid,_ TOMPSON; _she is not a young
+woman. As she crosses the room she stoops and picks up a faded flower
+which has fallen from some emblem. She goes to the window at Right, and
+peeps out. She turns around and looks at the others. They all speak in
+subdued voices._
+
+TOMPSON. Jordan, what do you think--can we raise the shades now?
+
+JORDAN. Yes, of course--after they've left the house it's all over as
+far as we here are concerned.
+
+[_She raises both shades._
+
+TOMPSON. Phew! what an odor of flowers!
+
+[_She opens one of the windows a little._
+
+[MARIE, _a young, pretty, French woman, enters from the Right._
+
+MARIE. Will I help you?
+
+TOMPSON. Just with this table, thank you, Marie. [_They begin to
+rearrange the room, putting it in its normal condition. They replace the
+table and put back the ornaments upon it._] Poor Mr. Hunter, and him so
+fond of mince pie. I shall never forget how that man ate mince pie.
+
+[_She sighs lugubriously and continues her labor with the room._
+
+LEONARD. I hope as how it's not going to make any difference with us.
+
+JORDAN. [_Pompously._] Of course not; wasn't Mr. Hunter a millionnaire?
+
+TOMPSON. Some millionnaires I've known turned out poor as Job's turkey
+in their coffins!
+
+MARIE. What you say? You tink we shall 'ave some of madame's or ze young
+ladies' dresses?
+
+TOMPSON. [_Hopefully._] Perhaps.
+
+MARIE. I 'ave already made my choice. I like ze pale pink of Mees
+Jessie.
+
+LEONARD. Sh! I heard a carridge.
+
+TOMPSON. Then they're coming back.
+
+[MARIE _quickly goes out Right._
+
+JORDAN. [_To_ LEONARD, _hurriedly, as he quickly goes out Left._] Take
+them last two chairs!
+
+[LEONARD, _with the chairs, follows_ JORDAN _out Left._ TOMPSON _hastily
+puts back a last arm-chair to its usual position in the room and goes
+out Right._ MRS. HUNTER _enters Left, followed by her three daughters_,
+BLANCHE, JESSICA, _and_ CLARA, _and_ MASTER STERLING, _who is a small,
+attractive child, five years of age. All are in the deepest conventional
+mourning,_ MRS. HUNTER _in widow's weeds and_ CLARA _with a heavy, black
+chiffon veil; the_ BOY _is also dressed in conventional mourning. As
+soon as they enter, all four women lift their veils._ MRS. HUNTER _is a
+well-preserved woman, with a pretty, rather foolish, and somewhat
+querulous face. Her figure is the latest mode._ BLANCHE STERLING, _her
+oldest daughter, is her antithesis,--a handsome, dignified woman, young,
+sincere, and showing, in her attitude to the others and in her own point
+of view, the warmth of a true, evenly-balanced nature._ JESSICA _is a
+typical second child,--nice, good, self-effacing, sympathetic,
+unspoiled._ CLARA _is her opposite,--spoiled, petulant, pretty, pert,
+and selfish._
+
+MRS. HUNTER. [_With a long sigh._] Oh, I am so glad to be back home and
+the whole thing over without a hitch!
+
+[_She sinks with a great sigh of relief into a big chair._
+
+BLANCHE. [_Takes her son to_ MRS. HUNTER.] Kiss grandmother good-by, and
+then Leonard will take you home.
+
+MRS. HUNTER. Good-by, dear. Be a good boy. Don't eat too much candy.
+
+[_Kisses him carelessly._
+
+MASTER STERLING. Good-by. [_Runs towards the door Left, shouting
+happily._] Leonard! Leonard!
+
+MRS. HUNTER. [_Tearfully._] My dears, it was a great success! Everybody
+was there!
+
+[_The three younger women stand and look about the room, as if it were
+strange to them--as if it were empty. There is a moment's silence._
+
+BLANCHE. [_Tenderly._] Mother, why don't you take off your bonnet?
+
+MRS. HUNTER. Take it off for me; it _will_ be a great relief.
+
+BLANCHE. Help me, Jess.
+
+MRS. HUNTER. [_Irritably._] Yes, _do_ something, Jessie. You've
+mortified me terribly to-day! That child hasn't shed a tear. People'll
+think you didn't love your father. [_The two are taking off_ MRS.
+HUNTER'S _bonnet._ MRS. HUNTER _waits for an answer from_ JESSICA; _none
+comes._] I never saw any one so heartless! [_Tearful again._] And her
+father adored her. _She_ was one of the things we quarrelled _most_
+about!
+
+[_Over_ MRS. HUNTER'S _head_ BLANCHE _exchanges a sympathetic look with_
+JESSICA _to show she understands._
+
+CLARA. I'm sure _I've_ cried enough. I've cried buckets.
+
+[_She goes to_ MRS. HUNTER _as_ BLANCHE _and_ JESSICA _take away the
+bonnet and veil and put them on the piano._
+
+MRS. HUNTER. [_Kissing Clara._] Yes, dear, you are your mother's own
+child. And _you_ lose the most by it, too.
+
+[_Leaning against the side of her mother's chair, with one arm about her
+mother._
+
+CLARA. Yes, indeed, instead of coming out next month, and having a
+perfectly lovely winter, I'll have to mope the whole season, and, if I
+don't look out, be a wallflower without ever having been a bud!
+
+MRS. HUNTER. [_Half amused but feeling_ CLARA'S _remark is perhaps not
+quite the right thing._] Sh--
+
+[_During_ CLARA'S _speech above,_ BLANCHE _has taken_ JESSICA _in her
+arms a moment and kissed her tenderly, slowly. They rejoin_ MRS. HUNTER,
+BLANCHE _wiping her eyes,_ JESSICA _still tearless._
+
+CLARA. And think of all the clothes we brought home from Paris last
+month!
+
+MRS. HUNTER. My dear, don't think of clothes--think of your poor father!
+That street dress of mine will dye very well, and we'll give the rest to
+your aunt and cousins.
+
+BLANCHE. Mother, don't you want to go upstairs?
+
+JESSICA. [_Sincerely moved._] Yes, I hate this room now.
+
+MRS. HUNTER. [_Rising._] Hate this room! When we've just had it done!
+Louis Kinge!
+
+BLANCHE. Louis _Quinze_, dear! She means the associations now, mother.
+
+MRS. HUNTER. Oh, yes, but that's weak and foolish, Jessie. No,
+Blanche--[_Sitting again._]--I'm too exhausted to move. Ring for tea.
+
+[BLANCHE _rings the bell beside the mantel._
+
+CLARA. [_Crossing to piano, forgets and starts to play a music-hall
+song, but_ MRS. HUNTER _stops her._] Oh, yes, tea! I'm starved!
+
+MRS. HUNTER. Clara, darling! As if you could be hungry at such a time!
+
+[JORDAN _enters Left._
+
+BLANCHE. Tea, Jordan.
+
+JORDAN. Yes, madam.
+
+[_He goes out Left._
+
+MRS. HUNTER. Girls, everybody in town was there! I'm sure even your
+father himself couldn't have complained.
+
+BLANCHE. Mother!
+
+MRS. HUNTER. Well, you know he always found fault with my _parties_
+being too mixed. He wouldn't realize I couldn't throw over all my old
+set when I married into his,--not that I ever acknowledged I was your
+father's inferior. I consider my family was just as good as his, only we
+were _Presbyterians_!
+
+BLANCHE. Mother, dear, take off your gloves.
+
+MRS. HUNTER. I thought I had. [_Crying._] I'm so heartbroken I don't
+know what I'm doing.
+
+[_Taking off her gloves._
+
+[BLANCHE _and_ CLARA _comfort their mother._
+
+JESSICA. Here's the tea--
+
+[JORDAN _and_ LEONARD _enter with large, silver tray, with tea, cups,
+and thin bread-and-butter sandwiches. They place them on small tea-table
+which_ JESSICA _arranges for them._
+
+MRS. HUNTER. I'm afraid I can't touch it.
+
+[_Taking her place behind tea-table and biting eagerly into a sandwich._
+
+JESSICA. [_Dryly._] Try.
+
+[BLANCHE _pours tea for them all, which they take in turn._
+
+MRS. HUNTER. [_Eating._] One thing I was furious about,--did you see the
+Witherspoons _here_ at the house?
+
+CLARA. _I_ did.
+
+MRS. HUNTER. The idea! When I've never called on them. They are the
+worst social pushers I've ever known.
+
+[_She takes another sandwich._
+
+CLARA. Trying to make people think they are on our visiting list! Using
+even a funeral to get in!
+
+MRS. HUNTER. But I _was_ glad the Worthings were here, and I thought it
+_sweet_ of old Mr. Dormer to go even to the cemetery. [_Voice breaks a
+little._] He never goes to balls any more, and, they say, catches cold
+at the slightest change of temperature.
+
+[_She takes a third sandwich._
+
+BLANCHE. A great many people loved father.
+
+MRS. HUNTER. [_Irritably._] They ought to've. It was really foolish the
+way he was always doing something for somebody! How good these
+sandwiches are! [_Spoken very plaintively._
+
+JESSICA. Shall we have to economize now, mother?
+
+MRS. HUNTER. Of course not; how dare you suggest such an injustice to
+your _father_, and _before_ the flowers are withered on his grave!
+
+[_Again becoming tearful._
+
+[JORDAN _enters Left with a small silver tray, heaping full of letters._
+
+Has the new writing paper come?
+
+BLANCHE. [_Who takes the letters and looks through them, giving some to
+her mother._] Yes.
+
+[BLANCHE _reads a letter, and passes it to_ JESSICA.
+
+MRS. HUNTER. Is the black border broad enough? They said it was the
+thing.
+
+CLARA. If you had it any broader, you'd have to get white ink to write
+with!
+
+MRS. HUNTER. [_Sweetly._] Don't be impertinent, darling!
+
+[_Reading another letter._
+
+[_Enter_ MISS RUTH HUNTER. _She is an unmarried woman between thirty and
+forty years of age, handsome, distinguished; an aristocrat, without any
+pretensions; simple, unaffected, and direct in her effort to do
+kindnesses where they are not absolutely undeserved. She enters the room
+as if she carried with her an atmosphere of pure ozone. This affects all
+those in it. She is dressed in deep mourning and wears a thick chiffon
+veil, which she removes as she enters._
+
+RUTH. Oh! you're having tea!
+
+[_Glad that they are._
+
+MRS. HUNTER. [_Taking a second cup._] I thought the children _ought_ to.
+
+RUTH. Of course they ought and so ought you, if you haven't.
+
+MRS. HUNTER. Oh, I've _trifled_ with something.
+
+JESSICA. Sit here, Aunt Ruth.
+
+BLANCHE. Will you have a cup, Aunt Ruth?
+
+RUTH. Yes, dear, I'm feeling _very_ hungry.
+
+[_Sitting on the sofa beside_ JESSICA _and pressing her hand as she does
+so._
+
+MRS. HUNTER. Hungry! _How can you!_
+
+RUTH. Because I'm not a _hypocrite_!
+
+MRS. HUNTER. [_Whimpering._] I suppose that's a slur at me!
+
+RUTH. If the slipper fits! But I confess I haven't eaten much for
+several days; I couldn't touch anything this morning, and I begin to
+feel exhausted; I must have food and, thank Heaven, I want it. Thank
+you.
+
+[_To_ BLANCHE, _taking the cup from her._
+
+MRS. HUNTER. I think it's awful, Ruth, and I feel I have a right to say
+it--I think you owed it to my feelings to have worn a long veil; people
+will think you didn't love your brother.
+
+RUTH. [_Dryly._] Will they? Let them! You know as well as I do that
+George loathed the very idea of crêpe and all display of mourning.
+
+MRS. HUNTER. [_Feeling out of her element, changes the subject._] You
+stayed behind?
+
+RUTH. Yes. I wanted to be the last there. [_Her voice chokes; she tries
+to control herself._] Ah! you see my nerves are all gone to pieces. I
+_won't_ cry any more!
+
+MRS. HUNTER. I don't see how you could bear it--staying; but you never
+had any heart, Ruth.
+
+RUTH. [_Mechanically, biting her lips hard to keep the tears back._]
+Haven't I?
+
+MRS. HUNTER. My darling husband always felt that defect in you.
+
+RUTH. George?
+
+MRS. HUNTER. He resented your treatment of me, and often said so.
+
+RUTH. [_Very quietly, but with determination._] Please be careful. Don't
+talk to me like this about my brother, Florence--or you'll make me say
+something I shall be sorry for.
+
+MRS. HUNTER. I don't care! It wore on him, the way you treated me. I put
+up with it for his sake, but it helped undermine his health.
+
+RUTH. Florence, stop!
+
+MRS. HUNTER. [_In foolish anger, the resentment of years bursting out._]
+I _won't_ stop! I'm alone now, and the least you can do is to see that
+people who've fought shy of me take me up and give me my due. You've
+been a cruel, selfish sister-in-law, and your own brother saw and hated
+you for it!
+
+BLANCHE. _Mother!_
+
+RUTH. [_Outraged._] Send your daughters out of the room; I wish to
+answer you alone.
+
+MRS. HUNTER. [_Frightened._] No! what you have to say to me I prefer my
+children to hear!
+
+[CLARA _comes over to her mother and puts her arm about her._
+
+RUTH. I can't remain quiet any longer. George--[_She almost breaks down,
+but she controls herself._] This funeral is enough, with its show and
+worldliness! I don't believe there was a soul in the church you didn't
+see! Look at your handkerchief! Real grief isn't measured by the width
+of a black border. I'm ashamed of you, Florence! I never liked you very
+much, although I tried to for your husband's sake, but now I'm even more
+ashamed of you. My dear brother is gone, and there need be no further
+bond between us, but I want you to understand the true reason why, from
+to-day, I keep away from you. This funeral was revolting to me!--a show
+spectacle, a social function, and for _him_ who you know _hated_ the
+very thing. [_She stops a moment to control her tears and her anger._] I
+saw the reporters there, and I heard your message to them, and I
+contradicted it. I begged them not to use your information, and they
+were gentlemen and promised me not to. You are, and always have been, a
+silly, frivolous woman. I don't doubt you loved your husband as much as
+you could any man, but it wasn't enough for me; he was worth being
+adored by the best and noblest woman in the world. I've stood by all
+these years, trying with my love and silent sympathy to be some comfort
+to him--but I saw the disappointment and disillusionment eat away the
+very _hope_ of happiness out of his heart. I tried to help him by
+helping you in your foolish ambitions, doing what I could to give my
+brother's wife the social position _his name_ entitled her to!
+
+MRS. HUNTER. That's not true; I've had to fight it out all alone!
+
+RUTH. It was not my fault if my best friends found you intolerable; _I_
+couldn't blame them. Well, now it's over! George is at rest, please God.
+You are a rich woman to do what you please. Go, and do it! and Heaven
+forgive you for ruining my brother's life! I'm sorry to have said all
+this before your children. Blanche, you know how dearly I love you, and
+I hope you have forgiven me by now for my opposition to your marriage.
+
+BLANCHE. Of course I've forgiven you, but you were always unjust to
+Dick.
+
+RUTH. Yes; I didn't like your husband then, and I didn't believe in him,
+but I like him better now. And I am going to put all my affairs in his
+hands. I couldn't show--surely--a better proof of confidence and liking
+than that: to trust him as I did--your father. I hope I shall see much
+of you and Jessica. As for you, Clara, I must be honest--
+
+CLARA. [_Interrupting her._] Oh, I know you've always hated me! The
+presents you gave the other girls were always twice as nice as I got!
+
+MRS. HUNTER. [_Sympathetically._] Come here, darling.
+
+[CLARA _goes and puts her arms about her mother's neck._
+
+RUTH. You are your mother's own child, Clara, and I never could pretend
+anything I didn't feel. [_She turns to_ BLANCHE _and_ JESSICA, _who
+stand side by side._] You two are all I have left in the world of my
+brother. [_She kisses them, and lets the tears come, this time without
+struggling._] Take pity on your old-maid aunt and come and see me, won't
+you, _often_--[_Trying to smile away her tears._] And now good-by!
+
+JESSICA AND RUTH. [_Taking her hands._] Good-by.
+
+[RUTH _looks about the room to say good-by to it; she cries and
+hurriedly begins pulling down her veil, and starts to go out as_ JORDAN
+_enters Left and announces "Mr. Mason!"_
+
+[MRS. HUNTER _fluffs her hair a little and hopes she looks becoming._
+
+[MASON _is a typical New Yorker, well built, well preserved, dignified,
+and good-looking,--a solid man in every sense of the word._
+
+MASON. [_Meeting_ RUTH, _shakes hands with her._] Miss Hunter.
+
+RUTH. I am just going, Mr. Mason.
+
+MASON. You must stay. I sent word to your house this morning to meet me
+here.
+
+[_Shakes hands with the others._
+
+RUTH. I was here all night.
+
+MRS. HUNTER. Will you have some tea? The children were hungry.
+
+MASON. No, thank you. [_To_ BLANCHE.] Isn't your husband here?
+
+[JORDAN, _at a signal from_ MRS. HUNTER, _removes the tea things._
+
+BLANCHE. No, he left us at the door when we came back.
+
+MASON. Didn't he get a letter from me this morning asking him to meet me
+here?
+
+BLANCHE. Oh, yes, he did mention a letter at breakfast, but my thoughts
+were away. He has been very much worried lately over his affairs; he
+doesn't confide in me, but I see it. I wish you could advise him, Mr.
+Mason.
+
+MASON. I cannot advise your husband if he won't _ask_ my advice. I don't
+think we'll wait for Mr. Sterling.
+
+[_Gives chair to_ MRS. HUNTER.
+
+MRS. HUNTER. I suppose you've come about all the horrid business. Why
+not just tell us how much our income is, and let all the details go. I
+really think the details are more than I can bear to-day.
+
+MASON. That can be certainly as you wish; but I felt--as your business
+adviser--and besides I promised my old friend, your husband--it was my
+duty to let you know how matters stand with the least possible delay.
+
+MRS. HUNTER. [_Beginning to break down._] George! George!
+
+[RUTH _looks at her, furious, and bites her lips hard._ JESSICA _is
+standing with her back toward them._
+
+MASON. Well, then--
+
+[_He is interrupted by_ MRS. HUNTER, _who sees_ JESSICA.
+
+MRS. HUNTER. Jess! How rude you are! Turn around this minute! [JESSICA
+_does not move._] What do you mean! Excuse me, Mr. Mason! Jess! Such
+disrespect to your father's will! Turn around! [_Angry._] Do you hear
+me?
+
+JESSICA. [_With her back still turned, her shoulders shaking, speaks in
+a voice broken with sobs._] Leave me alone! Leave me alone--
+
+[_She sits in a chair beside her and leans her arms upon its back and
+buries her face in her arms._
+
+BLANCHE. [_With her hand on her mother's arm._] Mother! Don't worry her!
+
+MRS. HUNTER. Go on, please, Mr. Mason, and remember, _spare us the
+details._ What is our income?
+
+MASON. Mrs. Hunter, there is no income.
+
+MRS. HUNTER. [_Quietly, not at all grasping what he means._] No income!
+How is our money--
+
+MASON. I am sorry to say there is _no_ money.
+
+MRS. HUNTER. [_Echoes weakly._] No money?
+
+MASON. Not a penny!
+
+MRS. HUNTER. [_Realizing now what he means, cries out in a loud, hard,
+amazed voice._] What!
+
+BLANCHE. [_With her hand on her shoulder._] Mother!
+
+MRS. HUNTER. I don't believe it!
+
+RUTH. [_To_ MASON.] My good friend, do you mean that literally--that my
+brother died without leaving _any_ money behind him?
+
+MRS. HUNTER. For his wife and family?
+
+MASON. I mean just that.
+
+RUTH. But how?
+
+MRS. HUNTER. Yes, _tell us the details_--every one of them! You can't
+imagine the shock this is to me!
+
+MASON. Hunter sent for me two days before he died, and told me things
+had gone badly with him last year, but it seemed impossible to retrench
+his expenses.
+
+RUTH. _Are you listening, Florence?_
+
+MRS. HUNTER. Yes, of course I am; your brother was a very extravagant
+man!
+
+MASON. This year, with his third daughter coming out, there was need of
+more money than ever. He was harassed nearly to death with financial
+worries. [RUTH _begins to cry softly._ MRS. HUNTER _gets angrier and
+angrier._] And finally, in sheer desperation, and trusting to the advice
+of the Storrings, he risked everything he had with them in the
+Consolidated Copper. The day after, he was taken ill. You know what
+happened. The Storrings, Hunter, and others were ruined absolutely; the
+next day Hunter died.
+
+RUTH. Poor George! Why didn't he come to me; he must have known that
+everything I had was his!
+
+MASON. He was too ill when the final blow came to realize it.
+
+MRS. HUNTER. [_Angry._] But his _life insurance_,--there was a big
+policy in my name.
+
+MASON. He had been obliged to let that lapse.
+
+MRS. HUNTER. You mean I haven't even my _life_ insurance?
+
+MASON. As I said, there is nothing, except this house, and that is--
+
+MRS. HUNTER. [_Rises indignantly and almost screams in angry
+hysterics._] _Mortgaged_, I presume! Oh, it's insulting! It's an
+indignity. It's--it's--Oh, well, it's just like my husband, there!
+
+BLANCHE. Mother!
+
+[RUTH _rises, and, taking_ MASON'S _arm, leads him aside._
+
+MRS. HUNTER. [_To_ BLANCHE.] Oh, don't talk to me now! You always
+preferred your father, and now you're punished for it! He has wilfully
+left your mother and sisters paupers!
+
+BLANCHE. How can you speak like that! Surely you know father must have
+suffered more than we could when he realized he was leaving nothing for
+you.
+
+JESSICA. Yes, and it was for us too that he lost all. It was our
+extravagance.
+
+MRS. HUNTER. Hush! How dare _you_ side against me, too?
+
+RUTH. Florence--
+
+MRS. HUNTER. Well, Ruth, what do you think of your brother now?
+
+BLANCHE. [_To her mother._] Don't!
+
+MASON. By whom were the arrangements for to-day made?
+
+MRS. HUNTER. My son-in-law had most pressing business, and his friend--
+
+BLANCHE. The friend of all of us--
+
+MRS. HUNTER. Yes, of course, Mr. Warden saw to everything.
+
+BLANCHE. He will be here any moment!
+
+MASON. When he comes, will you send him on to me, please?
+
+RUTH. Yes.
+
+MASON. Very well. Good-by. [_Shakes hands with_ BLANCHE.] I am very
+sorry to have been the bearer of such bad news.
+
+MRS. HUNTER. [_Shaking hands with him._] Please overlook anything I may
+have said; at such a moment, with the loss of all my money--and my dear
+husband--I don't know _what_ to say!
+
+MASON. Naturally. [_To the others._] Good-by. [_To_ RUTH, _who follows
+him._] I'll come to see you in the morning.
+
+[_As they shake hands._
+
+RUTH. And I can then tell you what I settle here now. [MASON _goes out
+Left._] Florence, I'm very sorry--
+
+[_Interrupted._
+
+MRS. HUNTER. Oh! _You!_ Sorry!
+
+RUTH. Yes, very, very sorry,--first, that I spoke as I did just now.
+
+MRS. HUNTER. It's too late to be sorry for that now.
+
+RUTH. No, it isn't, and I'll prove to you I mean it. Come, we'll talk
+things over.
+
+MRS. HUNTER. Go away! I don't want you to prove anything to me! [MRS.
+HUNTER _and_ CLARA _sit side by side on the sofa._ BLANCHE _and_ JESSICA
+_are in chairs near the table._ RUTH _sits beside_ BLANCHE. MRS. HUNTER
+_has something the manner of porcupines and shows a set determination to
+accept nothing by way of comfort or expedient._ BLANCHE _looks hopeful
+and ready to take the helm for the family._ JESSICA _will back up_
+BLANCHE.] My happiness in this world is over. What have I to live for?
+
+RUTH. Your children!
+
+MRS. HUNTER. Beggars like myself!
+
+BLANCHE. But your children will work for you.
+
+CLARA. Work! I see myself.
+
+RUTH. So do I.
+
+MRS. HUNTER. My children work! Don't be absurd!
+
+JESSICA. It is not absurd! I can certainly earn my own living somehow
+and so can Clara.
+
+CLARA. Doing _what_, I should like to know! I see myself!
+
+BLANCHE. Jess is right. I'll take care of this family--father always
+said I was "his own child." I'll do my best to take his place.
+
+RUTH. I will gladly give Jessica a home.
+
+MRS. HUNTER. [_Whimpers._] You'd rob me of my children, too!
+
+JESSICA. Thank you, Aunt Ruth, but I must stay with mother and be
+Blanche's right-hand man!
+
+CLARA. I might go on the stage.
+
+MRS. HUNTER. My dear, smart people don't any more.
+
+CLARA. I'd like to be a sort of Anna Held.
+
+JESSICA. I don't see why I couldn't learn typewriting, Blanche?
+
+MRS. HUNTER. Huh! Why, you could never even learn to play the piano; I
+don't think you'd be much good at typewriting.
+
+CLARA. You want to be a typewriter, because in the papers they always
+have an old gentleman taking them to theatres and supper! No, sir, if
+there is to be any "old man's darling" in this family, _I'll_ be _it_!
+
+RUTH. [_Dryly._] You'll have to learn to spell correctly first!
+
+CLARA. [_Superciliously._] Humph!
+
+JESSICA. There are lots of ways nowadays for women to earn their living.
+
+RUTH. Yes, typewriting we will consider.
+
+MRS. HUNTER. Never!
+
+[_No one pays any attention to her except_ CLARA, _who agrees with her._
+
+RUTH. Jess, you learned enough to _teach_, didn't you?--even at that
+fashionable school your mother sent you to?
+
+JESSICA. Oh, yes, I think I could teach.
+
+MRS. HUNTER. Never!
+
+[_Still no one pays any attention except_ CLARA _who again agrees with
+her._
+
+CLARA. No, indeed! _I_ wouldn't teach!
+
+BLANCHE. If we only knew some nice elderly woman who wanted a companion,
+Jess would be a godsend.
+
+CLARA. If she was a nice _old_ lady with lots of money and delicate
+health, I wouldn't mind that position myself.
+
+RUTH. Clara, you seem to take this matter as a supreme joke!
+
+MRS. HUNTER. [_With mock humility._] May _I_ speak? [_She waits. All
+turn to her. A moment's, silence._] MAY I speak?
+
+RUTH. Yes, yes. Go on, Florence; don't you see we're listening?
+
+MRS. HUNTER. I didn't know! I've been so completely ignored in this
+entire conversation. But there is one thing for the girls--the easiest
+possible way for them to earn their living--which you don't seem for a
+moment to have thought of!
+
+[_She waits with a smile of coming triumph on her face._
+
+RUTH. Nursing!
+
+MRS. HUNTER. [_Disgusted._] No!
+
+CLARA. Manicuring?
+
+MRS. HUNTER. _Darling!_
+
+BLANCHE. Designing dresses and hats?
+
+MRS. HUNTER. No!
+
+JESSICA. Book-keeping?
+
+MRS. HUNTER. No.
+
+RUTH. Then what in the world is it?
+
+MRS. HUNTER. Marriage!
+
+CLARA. Oh, of course!
+
+RUTH. Humph!
+
+[JESSICA _and_ BLANCHE _exchange glances._
+
+MRS. HUNTER. That young Mr. Trotter would be a fine catch for Jess.
+
+JESSICA. Who loathes him!
+
+MRS. HUNTER. Don't be old-fashioned! He's very nice.
+
+RUTH. A little cad, trying to get into society--nice occupation for a
+_man_!
+
+JESSICA. Mother, you can't be serious.
+
+CLARA. Why wouldn't he do for _me_?
+
+RUTH. He _would_! The very thing!
+
+MRS. HUNTER. We'll see, darling; I think Europe is the place for you. I
+don't believe all the titles are gobbled up yet.
+
+RUTH. Jess, I might get you some women friends of mine, to whom you
+could go mornings and answer their letters.
+
+MRS. HUNTER. I should not allow my daughter to go in that capacity to
+the house of any woman who had refused to call on her mother, which is
+the way most of your friends have treated me.
+
+RUTH. Do you realize, Florence, this is a question of bread and butter,
+a practical suggestion of life, which has nothing whatever to do with
+the society columns of the daily papers?
+
+MRS. HUNTER. I do _not_ intend that my daughters shall lose their
+positions because their father has been--what shall we call
+it--criminally negligent of them.
+
+RUTH. [_Rising._] How dare you! You are to blame for it all. If you say
+another word injurious to my brother's memory, I'll leave this house and
+let you starve for all I'll do for you.
+
+BLANCHE. Aunt Ruth, please, for father's sake--
+
+CLARA. Well, this house is ours, anyway!
+
+BLANCHE. That is what _I've_ been thinking of. The house is yours. It's
+huge. You don't need it. You must either give it up altogether--
+
+MRS. HUNTER. [_Interrupts._] _What! Leave it? My house! Never!_
+
+BLANCHE. Or--let out floors to one or two friends,--bachelor friends.
+Mr. Mason, perhaps--
+
+CLARA. [_Interrupts, rising, furious._] Take in _boarders_!
+
+MRS. HUNTER. [_Who has listened aghast, now rises in outraged dignity;
+she stands a moment glaring at_ BLANCHE, _then speaks._] Take--[_She
+chokes._] _That_ is the _last straw_!
+
+[_And she sweeps from the room Right._
+
+CLARA. Mama! Mama!
+
+[_She goes out after her mother._
+
+[_The other three women watch the two leave the room, then turn and look
+at each other._
+
+BLANCHE. We'll manage somehow, only I think it would be easier for us to
+discuss all practical matters by _ourselves_.
+
+RUTH. And I want you to understand this, girls,--I represent your dear
+father; half of everything I have is yours, and you must promise me
+always to come to me for everything.
+
+[STERLING _enters suddenly Left._
+
+[_He is a man of thirty-eight or forty, a singularly attractive
+personality; he is handsome and distinguished. His hair is grayer than
+his years may account for and his manner betrays a nervous system
+overtaxed and barely under control. At the moment that he enters he is
+evidently laboring under some especial, and only half-concealed, nervous
+strain. In spite of his irritability at times with his wife, there is an
+undercurrent of tenderness which reveals his real love for_ BLANCHE.
+
+STERLING. Oh, you're all here! Have I missed old Mason?
+
+RUTH. Yes, but Blanche will tell you what he had to say. I'm going
+upstairs to try and pacify your mother. We mustn't forget she has a hard
+time ahead of her.
+
+[_She goes out Right with_ JESSICA.
+
+STERLING. I suppose Mason came about the will and your father's affairs?
+
+BLANCHE. Yes, you ought to have been here.
+
+STERLING. [_Irritably._] But I couldn't--I told you I couldn't!
+
+BLANCHE. Do you realize, dear, that you haven't been able to do
+_anything for me_ for a long time? Lately, even I hardly ever _see_
+you--I stay home night after night alone.
+
+STERLING. That's your own fault, dear; Ned Warden's always ready to take
+you anywhere you like.
+
+BLANCHE. [_With the ghost of a jest._] But do you think it's quite right
+for me to take up all Mr. Warden's time?
+
+STERLING. Why not, if he likes it?
+
+BLANCHE. And don't you think people will soon talk?
+
+STERLING. Darling! People always talk, and who cares!
+
+BLANCHE. It's months since you showed me any sign of affection, and now
+when my heart is hungrier than ever for it,--you know how I loved my
+father,--I long for sympathy from _you_, and you haven't once thought to
+take me, your wife, in your arms and hold me close and comfort me.
+
+STERLING. I'm sorry, old girl, I'm really sorry. [_Embracing her
+affectionately._] And surely you know I don't love any other woman in
+the world but you. [_He kisses her._] It's only because I've been
+terribly worried. I don't want to bother you with business, but I've
+been in an awful hole for money. I tried to make a big coup in Wall
+Street the other day and only succeeded getting in deeper, and for the
+last few days I've been nearly distracted.
+
+BLANCHE. Why didn't you tell me?
+
+STERLING. I thought I'd get out of it with this Consolidated Copper
+without worrying you.
+
+BLANCHE. You were in that, too?
+
+STERLING. How do you mean I, "too"?
+
+BLANCHE. Mr. Mason has just told us _father_ lost everything in it.
+
+STERLING. [_Aghast._] You don't mean your father hasn't left any money?
+
+BLANCHE. Nothing.
+
+STERLING. [_Forgetting everything but what this means to him._] Nothing!
+But I was counting on your share to save me! What did the damned old
+fool mean?
+
+BLANCHE. Dick!
+
+STERLING. Forgive me, I didn't mean to say that.
+
+BLANCHE. Oh, _who are you_! _What_ are you! You are not the man I
+thought when I married you! Every day something new happens to frighten
+me, to threaten my love for you!
+
+STERLING. No, no, don't say that, old girl.
+
+[_He tries to take her hand._
+
+BLANCHE. What right have you to criticise my father, to curse him--and
+to-day!
+
+STERLING. I don't know what I'm saying, Blanche. Try to forgive me. I
+wouldn't have thought of such a thing as his money to-day if it wasn't
+the only thing that can save me from--disgrace.
+
+[_His voice sinking almost to a whisper and the man himself sinking into
+a chair._
+
+BLANCHE. Disgrace! How? What disgrace?
+
+[_Going to him._
+
+STERLING. I can't explain it; you wouldn't understand.
+
+BLANCHE. You must explain it! _Your_ disgrace is _mine_.
+
+STERLING. [_Alarmed at having said so much, tries to retract a little._]
+Disgrace was too strong a word--I didn't mean that. I'm in trouble. I'm
+in trouble. Good God, can't you see it? And if you love me, why don't
+you leave me alone?
+
+BLANCHE. How can I go on loving you without your confidence?--without
+ever being suffered to give you any sympathy? Doll wives are out of
+fashion, and even if they weren't, I could never be one.
+
+STERLING. [_Laughing._] My dear, I'd never accuse you of being stuffed
+with sawdust.
+
+BLANCHE. Oh, and now you joke about it. Take care, Dick.
+
+STERLING. What's this, a threat?
+
+BLANCHE. Yes, if you like to call it that. You've been putting me more
+and more completely out of your life; take care that I don't finish your
+work and go the last step.
+
+STERLING. [_Seizing her roughly by the wrist._] The last step! What do
+you mean by that? [_Holding her hand more roughly._] _You dare_ to be
+unfaithful to me!
+
+BLANCHE. What! You could think I meant that! Ugh! How could you?
+
+STERLING. Well, what did you mean then? Eh?
+
+[_Pulling her up close to him, her face close to his. She realizes first
+by the odor, then by a searching look at his face, that he is partly
+under the influence of liquor._
+
+BLANCHE. [_With pathetic shame._] Let me go! I see what's the matter
+with you, but the reason is no excuse; you've been drinking.
+
+STERLING. [_Dropping her hand._] Ugh! The usual whimper of a woman!
+
+[RUTH _reënters Right._
+
+RUTH. Well, Blanche, dear, your mother's in a calmer frame of mind, and
+I must go. Dick, can you lunch with me to-morrow?
+
+STERLING. [_Hesitating, not caring about it._] Er--to-morrow?--er--
+
+RUTH. Oh, only for business. I must have a new business man now to do
+all that _he_ did for me, and I'm going to try to make up to you for not
+having been always your--_best_ friend, by putting my affairs in _your_
+hands.
+
+BLANCHE. [_Serious, uneasy, almost frightened._] Aunt Ruth--
+
+[_She stops._
+
+RUTH. What, dear?
+
+BLANCHE. Nothing.
+
+[_She gives_ STERLING _a searching, steady look and keeps her eyes upon
+him, trying to read his real self._
+
+RUTH. [_Continues to_ STERLING.] Mr. Mason is coming to me in the
+morning, and if you will lunch with me at one, I will then be able to
+give all the papers over to you.
+
+[STERLING, _who up to this time has been almost dumbfounded by this
+sudden good fortune, now collects himself, and speaks delightedly but
+with sufficient reserve of his feelings._ BLANCHE _does not take her
+eyes from_ STERLING'S _face._
+
+STERLING. Aunt Ruth, I thank you from the bottom of my heart, and I will
+do my best.
+
+BLANCHE. [_Quickly._] Promise her, Dick, before me--give her your word
+of honor--you will be faithful to Aunt Ruth's trust.
+
+[_He answers_ BLANCHE'S _look steadily with a hard gaze of his own._
+
+RUTH. His acceptance of my trust is equal to that, Blanche.
+
+BLANCHE. It is of course, isn't it, Dick?
+
+STERLING. Of course.
+
+[BLANCHE _is not content, but has to satisfy herself with this._
+
+RUTH. To-morrow at one, then.
+
+[_She starts to go._
+
+[JORDAN _enters Left._
+
+JORDAN. Mr. Warden.
+
+RUTH. I can't wait. Good-by.
+
+[_She goes out Left._
+
+BLANCHE. We will see Mr. Warden.
+
+JORDAN. Yes, madam.
+
+[_He goes out Left._
+
+STERLING. Blanche, go to your mother and ask her to see Ned to thank
+him. I want a minute's talk with him if you don't mind.
+
+BLANCHE. [_Pathetically._] What difference does it make, Dick, if I _do_
+mind?
+
+STERLING. Don't say that, old girl, and don't think it.
+
+BLANCHE. Dick, you _are_ honest, aren't you?
+
+STERLING. [_Without flinching._] What a question, Blanche!
+
+[JORDAN _enters Left announcing "Mr. Warden."_ WARDEN _enters, and_
+JORDAN _goes out._
+
+[EDWARD WARDEN, _though in reality scarcely younger than_ STERLING,
+_looks at least ten years his junior. He is good-looking, practical, a
+reasoning being, and self-controlled. He is a thorough American, with
+the fresh and strong ideals of his race, and with the feeling of romance
+alive in the bottom of his heart._
+
+STERLING. [_In enormous relief, greets him joyfully._] Ned, what do you
+think! The greatest news going!
+
+BLANCHE. Dick!
+
+STERLING. Excuse me, Blanche, I forgot; but Ned will know how I can't
+help being glad.
+
+[WARDEN _goes to_ MRS. STERLING.
+
+BLANCHE. [_Shaking_ NED'S _hand._] And Mr. Warden knows nothing could
+make me "_glad_" to-day. Thank you for all your kindness--
+
+WARDEN. Don't thank me; it was nothing.
+
+BLANCHE. Yes, please let me thank you all I can; it won't be half what I
+feel, but I want to know that you know even my silence is full of
+gratitude for all you've done for my mother, sisters, and me.
+
+STERLING. Yes, we're all immensely indebted to you, Ned, old man.
+
+BLANCHE. I will tell mother. I know she wants to see you.
+
+[_She goes out Right._
+
+STERLING. [_Speaking with suppressed excitement and uncontrollable
+gladness, unable to keep it back any longer._] Ned, my wife's aunt, Miss
+Hunter, has put all her business in my hands.
+
+WARDEN. Made you her agent?
+
+STERLING. Yes! What a godsend! Hunter didn't leave a cent.
+
+[_A moment's pause of astonishment._]
+
+WARDEN. What do you mean?
+
+STERLING. It seems he's been losing for a long time. Everything he had
+he lost in the copper crash.
+
+WARDEN. But this is awful! What will Mrs. Hunter and her two young
+daughters do?
+
+STERLING. I don't know. I hadn't thought of that.
+
+WARDEN. You'll have to think of it.
+
+STERLING. I?
+
+WARDEN. Of course you'll have to help them.
+
+STERLING. I can't! Look here, I didn't tell you the truth about my
+affairs last week, when I struck you for that loan.
+
+WARDEN. You don't mean to say you weren't straight with me?
+
+STERLING. Oh, I only didn't want to frighten you till I'd got the money;
+if you had made me the loan, I'd have owned up afterwards all right
+enough.
+
+WARDEN. Owned up what?
+
+STERLING. That I told you a pack of lies--that I haven't any
+security!--that I haven't anything but _debts_.
+
+WARDEN. [_Strongly._] Good things to borrow on! Look here, Dick, how
+long have we been friends?
+
+STERLING. Since that day at boarding school when you took a licking for
+something I did.
+
+WARDEN. What I mean is we were pals at school, chums at college, stanch
+friends for twenty years.
+
+STERLING. Hell! Are we as old as all that?
+
+WARDEN. Inseparable friends till the last two years.
+
+[STERLING'S _eyes shift._
+
+STERLING. I've been overworked lately, and everything has gone wrong!
+
+WARDEN. [_Comes up to him, and speaks firmly but still friendly._] You
+_yourself_ have _gone wrong_!
+
+STERLING. [_On the defensive._] What do you mean?
+
+WARDEN. Why did you take your business out of my hands?
+
+STERLING. The law didn't pay me enough. I thought I'd try a little
+amateur stockbroking.
+
+[_Smiling insincerely._
+
+WARDEN. You didn't want _me to know_ what you were doing!
+
+STERLING. Rats!
+
+WARDEN. You didn't want me to know what funds--_whose_ funds--you were
+using--_mis_using.
+
+STERLING. [_Ugly._] What!
+
+WARDEN. Whose money you were gambling with!
+
+STERLING. Have you been spying on me?
+
+WARDEN. Your _wife's_ money!
+
+STERLING. Well, she's _my_ wife, and you don't know what you're talking
+about!
+
+[_He turns from him and picks up a book from the table upside down and
+pretends to read it._
+
+WARDEN. You stole from me once when you were a boy!
+
+STERLING. No! I didn't!
+
+[_Throwing the book down._
+
+WARDEN. You lie! Do you hear me? _You lie!_ [_He waits a second._
+STERLING _does nothing._] I was never sure till to-day! I fought against
+ever thinking it, believing my suspicions were an injustice to you, but
+little things were always disappearing out of my rooms--finally, even
+money. Lately, that old suspicion has come back with a fuller force, and
+to-day it became a certainty.
+
+STERLING. How to-day?
+
+WARDEN. Because if it weren't true, you'd have knocked me down just now
+when I called you first a thief and _twice_ a liar!
+
+[_He stands squarely facing him._ STERLING _stands facing him also,
+surprised, taken off his guard._
+
+STERLING. Oh, come, you're joking! [WARDEN _makes an angry
+exclamation._] Why're you telling me all this now?
+
+WARDEN. Because I want you to be careful. I want you to know some one is
+watching you! Some one who knows what you've come to! Some one who knows
+you can't resist temptation! Some one who knows money not yours _has_
+stuck to your fingers!
+
+STERLING. You mind your own business.
+
+WARDEN. I'll mind _yours_ if it's necessary to protect people who are
+dear to me!
+
+[STERLING _looks at him with a sudden suspicion._
+
+STERLING. [_Insinuatingly._] I didn't know you were particularly
+attached to Mrs. Hunter.
+
+WARDEN. I'm not.
+
+STERLING. Or to her two unmarried daughters!
+
+WARDEN. Nor am I!
+
+STERLING. [_With whispered intensity._] By God, if you are in love with
+my wife!
+
+WARDEN. If you thought that out loud, I'd knock you down!
+
+STERLING. Huh! you talk as if you thought I were a coward!
+
+WARDEN. No, not a _physical_ coward--I've seen you do too many plucky
+things--but a _moral_ coward--yes, you are one!
+
+[_Straight to him, standing close and looking him squarely in the eyes._
+
+STERLING. [_Wavering._] Oh, you're too damned preachy!
+
+[MRS. HUNTER _enters Right with_ CLARA. MRS. HUNTER _shakes hands with_
+WARDEN _silently, happy in the feeling that she is in great affliction,
+and satisfied with the appearance and impression she is making. She
+carries her handkerchief, with its black border, ready in her hand._
+CLARA _has silently shaken hands with_ WARDEN, _after her mother. She
+afterwards goes to_ STERLING _and hands him several of the letters of
+condolence. She then goes to the window at Left, pulling aside the
+curtain, and stands looking out, rather bored, wishing she could go out
+and take a walk._
+
+MRS. HUNTER. We will never forget your kindness. Will the evening papers
+have anything in, do you think?
+
+WARDEN. No, not before morning.
+
+MRS. HUNTER. [_Sighs._] Every one was there.
+
+STERLING. Where's Blanche?
+
+MRS. HUNTER. Upstairs. She said she was going after Aunt Ruth.
+
+STERLING. [_Frightened._] After Aunt Ruth? [_Strongly._] What for?
+
+MRS. HUNTER. I don't know. [_Whimpering._] I'm not considered in the
+family any longer!
+
+STERLING. I shall stop and take her home.
+
+[JORDAN _enters._
+
+JORDAN. Will you see visitors, madam?
+
+STERLING. No.
+
+[_He goes out Right._
+
+MRS. HUNTER. "No"? Yes, we will! I need to see some one, or I shall
+break down. Go upstairs, Clara!
+
+CLARA. No, _why_ need I?
+
+MRS. HUNTER. You're not out yet.
+
+CLARA. I don't care! At this rate I'll never get "out." Who are they,
+Jordan?
+
+JORDAN. Miss Sillerton, Miss Godesby, and Mr. Trotter, miss.
+
+WARDEN. I must go, Mrs. Hunter.
+
+MRS. HUNTER. [_Relieved._] So sorry. Could you go straight to Mr. Mason?
+He wishes to see you?
+
+[_Shaking hands._
+
+WARDEN. Certainly.
+
+MRS. HUNTER. Thank you.
+
+[WARDEN _inclines his head to_ CLARA.
+
+CLARA. [_Lightly._] Good-by!
+
+[WARDEN _goes out Left._
+
+MRS. HUNTER. I don't think we ought to receive Mr. Trotter.
+
+CLARA. Pshaw! why not? If there's really any idea of my mar--
+
+[_She stops short, silenced by a look from her mother and an indication
+toward_ JORDAN.
+
+MRS. HUNTER. Show them up, Jordan. [JORDAN _bows and goes out._] How do I
+look, dear?
+
+[_Arranges her handkerchief._
+
+CLARA. [_Looking in the mirror._] How do I?
+
+MRS. HUNTER. [_With her back to_ CLARA.] I asked you first how _I_
+looked!
+
+CLARA. [_Not observing._] Oh, you're all right, how am I?
+
+MRS. HUNTER. [_Not looking at_ CLARA.] Charming! We'll go upstairs and
+come down again; I don't think it nice to be found here as if we were
+expecting visitors.
+
+[_They go out Right._
+
+[JORDAN _steps into the room to announce the visitors, and seeing no one
+there, bows as the three pass him._
+
+JORDAN. The ladies will be down at once.
+
+[_He goes out Right._
+
+[_The three turn, looking about the room with curiosity, as if the
+funeral might have made some difference in the house._
+
+[MISS SILLERTON _is a handsome, attractive woman, most fashionably
+dressed and perfectly conventional in character and intelligence._ MISS
+GODESBY _is a little slow, more assertive, sharper of tongue, more
+acutely intelligent, and equally smartly dressed. She has still a
+remnant of real, sincere feeling buried under a cynical mask which her
+life in a fast set has developed for her self-preservation._ TROTTER _is
+a foolish young person, meaning well enough according to his lights,
+which are not of the biggest and brightest._
+
+TROTTER. Classy house altogether!
+
+MISS SILLERTON. Mrs. Hunter went to the most expensive decorator in
+town, and told him, no matter what it cost, to go ahead and do his
+_worst_!
+
+[_They all laugh and seat themselves comfortably._
+
+TROTTER. Say! The youngest daughter is a good looker--very classy.
+
+MISS SILLERTON. That's the one we told you about, the one we want you to
+marry.
+
+MISS GODESBY. Yes, with your money and her cleverness, she'll rubber
+neck you into the smartest push in town!
+
+TROTTER. You've promised I shall know the whole classy lot before
+spring.
+
+MISS GODESBY. So you will if you do as we tell you. But you mustn't let
+society see that you _know_ you're getting in; nothing pleases society
+so much as to think you're a blatant idiot. It makes everybody feel
+you're their equal--that's why you get in.
+
+TROTTER. I've got a coach and can drive four-in-hand. I've an automobile
+drag, and the biggest private yacht in the world building. I'm going to
+have the most expensive house in Long Island, where the oysters come
+from, and I've bought a lot in Newport twice as big as the swellest
+fellow's there. I've got a house in London and a flat in Paris, and I
+make money fly. I think I ought to be a cinch as a classy success.
+
+MISS GODESBY. Don't be a yap; flag Clara Hunter and you're all right!
+
+MISS SILLERTON. Her father's position was the best in this country!
+
+TROTTER. But he's dead.
+
+[_Sitting._
+
+MISS GODESBY. A good thing for you, for he would never have stood for
+you!
+
+TROTTER. He'd have had to--or do without me as a son-in-law--I wouldn't
+marry the Venus of Milo if her father didn't think I was good enough.
+I'm no Dodo bird!
+
+MISS GODESBY. It's up to you now, Trotter! Go in and win.
+
+[_Enter_ TOMPSON _Right; a decided change takes place in all their
+manners._
+
+TOMPSON. Madam will be down at once, miss.
+
+MISS SILLERTON. Thank you.
+
+[TOMPSON _goes out Right._
+
+MISS GODESBY. Only stay a minute or two, Trotty--we're doing our best
+for you, but we must look out for ourselves, too, and we've come here
+to-day on business.
+
+MISS SILLERTON. How'll we ever get the subject on to clothes?
+
+MISS GODESBY. Humph! Do you think you can talk five minutes with Mrs.
+Hunter and not hit that topic? It's a bull's eye!
+
+TROTTER. I don't see where I'm going to come into this classy
+conversation.
+
+MISS GODESBY. You see, Trotty, they brought over piles of clothes from
+Europe this year, and we want to get hold of them before any one else
+has a chance--get 'em cheap before they have an idea anybody else'll buy
+them.
+
+TROTTER. Who buy what?
+
+MISS SILLERTON. _We_--buy their winter clothes.
+
+TROTTER. For Heaven's sake!
+
+MISS GODESBY. Laugh, you silly! I heard the Reed girls planning to come
+to-morrow. They didn't dare come to-day. Those girls haven't any sand!
+They're always getting left.
+
+TROTTER. You two _are_ Dodo birds!
+
+MISS GODESBY. I say, Eleanor, you're such a lobster about prices and
+Mrs. Hunter's no idiot, we'd better agree on some sort of a signal!
+Listen! if you like a gown very much, ask the price, then say to me, "My
+dear, your hat pin is coming out." And if I think it's a bargain, I'll
+say, "So it is, thank you; won't you put it in for me?" And if I think
+Mrs. Hunter's trying to stick you, I'll say "No, it isn't; it's always
+like that."
+
+MISS SILLERTON. All right.
+
+[MRS. HUNTER _and_ CLARA _enter Right. The manner of_ MISS SILLERTON
+_and_ MISS GODESBY _changes immediately. They speak with rather subdued
+voices, in the tone of conventional sympathy which is usually adopted on
+such occasions._ MRS. HUNTER _also assumes the manner of a martyr to
+grief._ CLARA _is casual and hard._
+
+MISS SILLERTON. [_Shakes hands with_ MRS. HUNTER.] Dear Mrs. Hunter.
+
+[_She kisses her._
+
+Clara, dear.
+
+[_She kisses her._
+
+[MISS GODESBY _goes to_ MRS. HUNTER _and shakes hands while_ MISS
+SILLERTON _crosses to_ CLARA; _Trotter shakes hands with_ MRS. HUNTER
+_as_ MISS GODESBY _goes to_ CLARA.
+
+TROTTER. I hope you don't think my coming an intrusion.
+
+MRS. HUNTER. Not at all.
+
+MISS GODESBY. I felt we must stop in for a few minutes to give you our
+love and sympathy and find out how you are.
+
+MRS. HUNTER. I've been through a terrible strain. My loss is even
+greater than I could ever possibly imagine.
+
+CLARA. [_Who misinterprets her mother's remark._] Yes, indeed, I should
+say it was!
+
+[MRS. HUNTER _stops her with a warning look._
+
+MRS. HUNTER. But every one has been most kind. _Lady Hopeton_ sent me a
+beautiful long letter to-day.
+
+MISS GODESBY. And I'm glad to find you looking so well. Black _suits_
+you!
+
+[_She exchanges a knowing glance with_ MISS SILLERTON.
+
+MRS. HUNTER. Oh, I don't know, Julia; I've always thought black very
+_trying_ for me.
+
+MISS GODESBY. Oh, _no! every one's_ saying _just_ the reverse!
+
+MRS. HUNTER. But--I suppose clothes don't interest you, Mr. Trotter?
+
+TROTTER. Oh, yes, they do, out of sight!
+
+CLARA. Well, I wish you could have seen the beautiful things we brought
+over with us!
+
+MISS SILLERTON. Julia and I were just speaking about it, and pitying you
+from the bottom of our hearts.
+
+[MISS SILLERTON _and_ MISS GODESBY _again exchange surreptitious
+glances._
+
+MRS. HUNTER. Every one's been most kind.
+
+[_There is an awkward pause for a moment, no one knowing quite what to
+say. Both_ MISS GODESBY _and_ MISS SILLERTON _have started the
+conversation in the direction of clothing and are fearful of the topic
+being changed. As the pause becomes embarrassing, they look helplessly
+from one to the other, and all five, suddenly and at once, make an
+ineffectual effort to say something--or nothing. Out of the general
+confusion_ MRS. HUNTER _comes to the front, mistress of the situation._]
+Are you going to stay in New York this winter, Mr. Trotter?
+
+TROTTER. Yes, I'm negotiating for one of the biggest classy building
+plots on upper Fifth Avenue.
+
+CLARA. [_To_ MISS GODESBY.] I saw in the papers you were at the dance
+last night.
+
+[MISS GODESBY _nods and motions surreptitiously to_ TROTTER _to go. He,
+however, doesn't understand._
+
+MRS. HUNTER. [_With interest again in life._] Oh, _were you?_ What did
+you wear?
+
+MISS GODESBY. Oh, dowdy old things. I haven't bought my winter frocks
+yet.
+
+[_She repeats this casually as if to herself._
+
+[MISS SILLERTON _motions to_ TROTTER _to go, but he has forgotten and
+still doesn't understand._
+
+TROTTER. What?
+
+MISS GODESBY. You warned us not to let you forget your engagement!
+
+TROTTER. What engagement?
+
+MISS SILLERTON. How do we know! we only know you said you _had_ to go!
+
+TROTTER. Never said so! Oh! [_As it dawns upon him._] Oh, yes! of
+course. [_He rises._] Very sorry--must be off. Only dropped in--er--that
+is, came in to express my respectful sympathy.
+
+[_Shaking hands with_ MRS. HUNTER.
+
+MRS. HUNTER. [_Who rises._] I hope you will come and see us again.
+
+CLARA. Do! It'll be a godsend! We'll be dull as ditchwater here this
+winter!
+
+TROTTER. I shall be delighted to call again. Good-by. [_He bows to
+Clara. In his embarrassment he starts to shake hands all over again,
+but, realizing his mistake, laughs nervously._] Oh, I have already.
+
+MISS SILLERTON. Good-by, Trotter.
+
+MISS GODESBY. Don't forget we're booked with you at Sherry's.
+
+TROTTER. Whose treat?
+
+MISS GODESBY. Oh! _Yours_, of course--
+
+TROTTER. I say, why can't I stay? I won't interfere.
+
+MRS. HUNTER. Oh, do stay, Mr. Trotter!
+
+MISS GODESBY. Oh, do stay!
+
+[_Suggesting by her tone that he mustn't dare to remain._
+
+CLARA. Good!
+
+[TROTTER _remains, and they all settle themselves again for a long
+stay._
+
+MRS. HUNTER. By the way, you were speaking just now of your winter
+frocks. It occurs to me--of course I don't know as I really want to
+dispose of them, but--er--
+
+[_She hesitates purposely._
+
+MISS GODESBY. Oh, _would_ you? [_Rising, she takes a chair nearer to_
+MRS. HUNTER.] You _dear_ thing!
+
+MRS. HUNTER. The dresses are no use to us now, and when _we're_ out of
+mourning--_they'll_ be out of style. You could wear Jess' things
+perfectly, Julia.
+
+MISS SILLERTON. And even something of yours could be made over for us.
+
+MRS. HUNTER. But I'm so much older than you!
+
+MISS SILLERTON. [_Thoughtlessly._] Yes, but you never dress
+appropriately to your age.
+
+CLARA. [_Laughing delightedly._] That's pretty good!
+
+MISS SILLERTON. [_Saves herself._] You know what I mean, you always
+_look_ so _youthful_, you _can't_ dress any older.
+
+MRS. HUNTER. [_Rising._] Clara, dear, go upstairs and have Tompson bring
+down my Worth dress and Jess' Doucet and your Paquin. [_She goes with_
+CLARA _to the door, Right, and then whispers to her._] If you remember,
+don't tell what we paid--we ought to get nearly double out of these
+girls--and warn Tompson not to be surprised at anything she hears.
+
+[MISS GODESBY _and_ MISS SILLERTON _exchange glances._ CLARA _goes out
+Right._
+
+MRS. HUNTER. It seems as if I had no further interest in clothes,
+anyway.
+
+MISS GODESBY. Don't say that. Every one I've seen this afternoon is
+wildly enthusiastic over your mourning.
+
+MRS. HUNTER. Well, I went straight to Madame O'Hoolihan and gave her
+carte blank!
+
+MISS GODESBY. I wouldn't like to be the ice man when your bill comes
+in!--and clothes abroad are so much cheaper.
+
+MRS. HUNTER. [_Thoughtlessly._] Oh, _half!_
+
+MISS GODESBY. [_Quickly._] You see you'll be doing us a really great
+favor letting us have some of your things!
+
+MRS. HUNTER. [_Realizing her nearly fatal error._] Oh! Oh,
+yes--but--er--I must say that _we_ found prices while in Paris _this
+year_ rather _atrocious!_
+
+[CLARA _reënters Right._
+
+CLARA. [_Sighs._] O dear! It breaks my heart not to wear my ball dress,
+my dear Julia; it was designed specially for me. I told Marie to put it
+on, mama; my clothes fit her perfectly, and I thought it would show so
+much better what it is.
+
+MRS. HUNTER. Here they are.
+
+[_Rises as_ TOMPSON _enters Right._
+
+TOMPSON. Mrs. Hunter's reception gown.
+
+[_Displaying it._
+
+CLARA. Oh, this _is_ a beauty!
+
+[_She takes the costume and drapes it over a chair._ MISS GODESBY _and_
+MISS SILLERTON _come closer to examine._
+
+MRS. HUNTER. Tompson.--[_Taking her to one side, whispers._]--I forget;
+do you remember what I paid for this dress?
+
+TOMPSON. [_Whispers back._] One hundred and sixty dollars, madam.
+
+MRS. HUNTER. Oh, yes. Don't say anything. [_Returning to the others._]
+Do you like it?
+
+MISS SILLERTON. Perfectly lovely!    }
+                                     }        [_At the same time._
+MISS GODESBY. Immensely. It's great! }
+
+MRS. HUNTER. [_Hesitates._] I forget just what I paid for it, but I
+believe it was two hundred dollars.
+
+[CLARA _half exclaims in astonishment, but on being pinched
+surreptitiously on the arm by_ MRS. HUNTER _she grasps the situation and
+starts in to do her share._
+
+CLARA. Oh, no, mama! I'm sure it was more than that!
+
+MRS. HUNTER. Well, perhaps it was two--twenty or two--twenty-five.
+
+TROTTER. That's cheap, isn't it?
+
+MISS GODESBY. Shut up.
+
+[TOMPSON'S _face is always a perfect blank, showing no expression or
+surprise; she has lived with_ MRS. HUNTER _for many years and "knows her
+business."_
+
+MISS GODESBY. [_In a very different tone of voice, influenced by the big
+price._] Of course, I see it's made of the best material. But it isn't
+my color.
+
+MRS. HUNTER. It's the very latest shade.
+
+MISS GODESBY. Yes, I know; but I think as you said a little while ago,
+perhaps it is a trifle too old for me.
+
+MRS. HUNTER. I might let you have it for a little less; say one hundred
+and eighty.
+
+MISS GODESBY. Thank you very much. I'll think it over.
+
+MISS SILLERTON. What's the other?
+
+CLARA. This is a dinner dress of Jess'.
+
+[_Holding it up to her own waist._
+
+MISS SILLERTON. [_Carried away by the dress._] Oh, lovely,--perfectly
+charming,--an adorable gown!
+
+[MISS GODESBY _pulls her arm and tries to make her less enthusiastic._
+
+MISS GODESBY. [_To_ CLARA _and_ MRS. HUNTER.] Excuse me.
+
+[_She takes_ MISS SILLERTON _to one side and whispers in her ear._
+
+MISS SILLERTON. [_Aloud._] I can't help it. I'm crazy about the dress!
+
+[_Meanwhile_ MRS. HUNTER _and_ TOMPSON _have whispered together._
+
+MRS. HUNTER. They said themselves this was the most successful frock
+they turned out this autumn.
+
+MISS SILLERTON. And how much is _this_ one?
+
+MRS. HUNTER. [_Very quickly, trying not to speak consciously._] This was
+two hundred and seventy-five.
+
+[CLARA _bites her lips in surprise and winks visibly to_ TOMPSON, _who
+gives no sign and is otherwise imperturbable._
+
+MISS SILLERTON. [_To_ MISS GODESBY, _looking hard at her._] My dear,
+your hat pin is coming out!
+
+MISS GODESBY. [_Looking hard at her._] No, it isn't; it's always like
+that.
+
+MISS SILLERTON. [_Going closer to her, whispers._] Which does that mean?
+I forget!
+
+MISS GODESBY. It's a _gouge_!
+
+MISS SILLERTON. I can't help it; I can't resist.
+
+MISS HUNTER. [_Whispers to_ CLARA.] She's going to take it; I wish I'd
+asked more.
+
+MISS SILLERTON. Mrs. Hunter, I'll _take_ the dinner dress! I'm crazy
+about it!
+
+MRS. HUNTER. I'm glad to have you have it; I'm glad to be able to do
+you, in a way, a favor.
+
+[MARIE _at this moment enters dressed in the most exquisite ball dress
+of the very latest fashion and looks extremely lovely._
+
+CLARA. Here's mine! I could cry to think I'll never wear it!
+
+MARIE. _Voila_, madame!
+
+[_A short silence, while the women sit down and drink in the gown._
+
+MISS SILLERTON. [_In a subdued voice of awed admiration._] Beautiful!
+
+MISS GODESBY. Great!
+
+TROTTER. [_To_ MISS GODESBY.] _I'm_ stuck on the _girl_; introduce me.
+She's out of sight!
+
+[MRS. HUNTER _sighs long and loud,--a sigh of appreciation and
+admiration._ MARIE _stands in the centre of the stage facing the
+audience._
+
+MISS GODESBY. May we see her back?
+
+CLARA. Her _entire_ back, if she turns around!
+
+MRS. HUNTER. Turn around, Marie.
+
+MARIE. _Oui_, madame.
+
+[_She turns her back--the dress is cut extremely in the back._
+
+MISS SILLERTON. Oh!
+
+MISS GODESBY. Rather!
+
+MRS. HUNTER. The way everything is made this year.
+
+MISS GODESBY. I'm afraid my back is rather full of bones.
+
+CLARA. They told us in Paris, bones were coming in! [_She takes a large
+American beauty rose from a vase on the piano and slips it down_ MARIE'S
+_back so that the dress seems much less décolleté._] There, never too
+late to mend!
+
+MISS GODESBY. How much is this one?
+
+[MISS GODESBY _and_ MISS SILLERTON _examine the dress._
+
+CLARA. [_Whispers to_ MRS. HUNTER.] You paid two hundred for it!
+
+MRS. HUNTER. Three hundred dollars. It is really superb.
+
+MISS SILLERTON. [_Pulling_ MISS GODESBY _around quickly._] My dear, your
+hat pin is coming out!
+
+MISS GODESBY. Don't be absurd!
+
+MISS SILLERTON. What?
+
+MISS GODESBY. It's my turn, sit down; you got the last! You won't mind
+my being frank, Mrs. Hunter?
+
+MRS. HUNTER. [_On the defensive._] Certainly not.
+
+MISS GODESBY. I think the price is too much.
+
+TROTTER. Oh, go on, pay it!
+
+MISS GODESBY. Will you sign the check?
+
+TROTTER. _Excuse me!_
+
+CLARA. I'd give twice that if only I could wear it to one ball this
+winter!
+
+MRS. HUNTER. I wouldn't part with it for a penny less. I couldn't afford
+to.
+
+[_The manners and voices of all become a little strained._
+
+MISS GODESBY. That is of course your affair.
+
+MRS. HUNTER. [_Politely._] We needn't keep Marie any longer, at any
+rate, need we? You can go, Marie, and you too, Tompson.
+
+[CLARA _and_ MRS. HUNTER _help place the other dresses on_ TOMPSON'S
+_arms._
+
+MISS SILLERTON. [_To_ MISS GODESBY, _on the opposite side of the room,
+in a lowered voice._] I'll take it; I'm willing to pay that.
+
+MISS GODESBY. Don't you dare interfere! I want the gown, but I know
+she'll come down,--if she doesn't, I'll make a bluff at going. Then if
+she sticks to her price, I'll come back and pay it.
+
+[_They turn to_ MRS. HUNTER.
+
+MISS SILLERTON. Oh, Mrs. Hunter, may I see my dress just one more
+minute?
+
+MRS. HUNTER. Certainly.
+
+[_She and_ CLARA _come back with the dress._
+
+MARIE. [_To_ TOMPSON _by the door at Right._]
+
+_Vite!_ Come! Come! Jordan 'ave stole ze photograph machine of Mees
+Clara, and he make now one pigsher of me in ze dress!
+
+[_Smiling mischievously, delighted, she goes out Right._
+
+MISS SILLERTON. Thank you.
+
+[_She leaves her dress._
+
+MRS. HUNTER. Take this too, Tompson.
+
+TOMPSON. Yes, madam.
+
+[MRS. HUNTER _speaks to_ TOMPSON, _aside, and_ CLARA, _near them,
+watches the two visitors out of the corner of her eye._
+
+MISS GODESBY. [_Aside to_ MISS SILLERTON.] I'll leave my muff; that'll
+be a good excuse to come back.
+
+TROTTER. [_Also in a lowered voice to_ MISS GODESBY.] Dodo!
+
+[TOMPSON _goes out Right._
+
+[MRS. HUNTER _and_ CLARA _come back._
+
+MISS GODESBY. You really couldn't take less than three hundred?
+
+MRS. HUNTER. I wish I could if only for your own sake; but I really
+couldn't in justice to myself.
+
+MISS GODESBY. I'm very sorry--and I'm afraid we must be going now.
+
+MRS. HUNTER. [_Not believing they will go._] Oh, must you? Well, it was
+very kind of you to come.
+
+[MISS GODESBY _leaves her muff upon the table at the Left._
+
+MISS SILLERTON. [_Shakes hands with_ MRS. HUNTER.] Good-by.
+
+[_She goes on to_ CLARA.
+
+[MISS GODESBY _comes to shake hands with_ MRS. HUNTER.
+
+MRS. HUNTER. I think you're making a mistake not to take the dress,
+Julia dear.
+
+MISS GODESBY. Perhaps, but I really can't go more than two hundred and
+fifty.
+
+[MRS. HUNTER _looks surreptitiously at_ CLARA, _who slyly shakes her
+head to her mother._
+
+MRS. HUNTER. Oh, quite impossible!
+
+MISS GODESBY. Good-by.
+
+MRS. HUNTER. Good-by.
+
+MISS GODESBY. Good-by, Clara.
+
+MRS. HUNTER. [_Frightened._] Would you like to see the dress off?
+
+MISS GODESBY. Oh, my dear, it was as _off_ as I would ever like to see
+it. Good-by.
+
+MRS. HUNTER. Good-by. [MISS SILLERTON _and_ MISS GODESBY _get to doorway
+Left._] You _won't_ take it?
+
+MISS GODESBY. _Can't!_ Good-by.
+
+CLARA. [_Dryly._] You're forgetting your muff!
+
+TROTTER. Rubber!
+
+MISS GODESBY. [_Coming back for it._] How stupid!
+
+[_She goes away to the door again in silence, which is full of suspense
+for all of them. As she reaches the door_ MRS. HUNTER _speaks._
+
+MRS. HUNTER. Look here, Julia, don't say another word; you shall have
+the dress for two hundred and fifty.
+
+MISS GODESBY. [_Rushing back, followed by all the others._] You dear!
+I'm afraid you think I've been rather nasty!
+
+MRS. HUNTER. Oh, no, of course business is business, and I'd _rather
+you_ had it than see it wasted on some of our other friends who'd be
+sights in it!
+
+MISS SILLERTON. Good-by. [_Kisses her this time._] I haven't said half I
+feel; you've been in my thoughts all these last few days.
+
+MRS. HUNTER. Thank you, dear.
+
+[_Kisses her._
+
+MISS GODESBY. Shall we send around for the dresses in the morning?
+
+MRS. HUNTER. Or I'll send them.
+
+MISS GODESBY. No, we won't trouble you.
+
+MISS SILLERTON. Good-by!
+
+MRS. HUNTER AND CLARA. Good-by!
+
+[MISS SILLERTON _and_ MISS GODESBY _go out Left, followed by_ TROTTER,
+_who has joined in all the good-bys, and upon whom_ CLARA _has more or
+less continuously kept her "weather eye."_
+
+MRS. HUNTER. I'm perfectly sure if I'd stuck to three hundred, Julia
+Godesby would have sent around when she got home and paid it!
+
+CLARA. I'm glad you didn't run the risk though, for we'll need every
+cent we can get now.
+
+[_She runs her fingers rapidly over the piano keys._
+
+[BLANCHE _reënters Right._
+
+MRS. HUNTER. Why, I thought you'd gone long ago.
+
+BLANCHE. Jess begged me to stay with her. Try to understand her, mother;
+I think she will miss father more than any of us.
+
+[JORDAN _enters Left._
+
+JORDAN. Mr. Warden has come back, madam.
+
+[WARDEN _enters Left._
+
+WARDEN. Forgive my intruding so soon again, but did Mr. Mason leave a
+letter case of Mr. Hunter's here?
+
+[BLANCHE _begins looking for the case._
+
+MRS. HUNTER. I haven't seen it; I'll ask the servants to look. Excuse
+me, I'm quite tired out; we've been receiving a long visit of
+condolence.
+
+[_She goes out, Right, with_ CLARA, _who links her arm in her mother's._
+
+BLANCHE. [_Finding the case, which has fallen beneath the table._] Here
+it is. Dear old pocket-book--
+
+[_Her voice breaks on the last word, and turning her face away to hide
+her tears, she hands him the well-worn letter case._
+
+WARDEN. Mrs. Sterling, I'm glad they left us alone, because Mr. Mason
+said he hadn't been able to manage it--to see you alone--and yet he
+wanted _you only_ to examine these. They are private papers of Mr.
+Hunter; he thought they ought not to be destroyed without being read,
+and yet _he_ hesitated to read them. We thought that duty devolved best
+upon _you_. [_He hands back the letter case._] Shall I wait and take
+back the case to Mr. Mason with the papers you wish him to have?
+
+BLANCHE. Oh, no, I will send them; I mustn't keep you while I read them.
+I'm always taking more of your time than I ought.
+
+WARDEN. [_Speaks with sincerity, but without any suggestion of
+love-making._] But never as much as I want to give you! Don't forget,
+Mrs. Sterling, what you promised me at your wedding,--that your
+husband's best man should be your best friend.
+
+BLANCHE. And nobody knows what it means to a woman, even a happily
+married woman like me--[_This is spoken with a slight effort, as if she
+is persuading herself that she is a happily married woman._]--to have an
+honest friend like you. It's those people who have failed that say there
+is no such thing as a platonic friendship.
+
+WARDEN. We'll prove them wrong.
+
+BLANCHE. We will. Good-by, and thank you.
+
+WARDEN. And thank _you_! [_Starting to go, he turns._] Shall I bring
+that Russian pianist around to play for you some day next week?
+
+BLANCHE. Do--I want some music.
+
+WARDEN. Only let me know what day. [_He goes out Left._ BLANCHE _sits by
+the table and opens the case. She looks first at a memoranda and reads
+what is on the outside._] A business memoranda. Lists of bonds. [_She
+opens and looks at the next paper only a second, and then closes it._]
+This, Mr. Mason will understand better than I. [_She puts it back in the
+pocket case. She finds a photograph in the case._] My picture!--[_She
+looks for others, but finds none._]--and _only_ mine! Oh, father!...
+[_She wipes away tears from her eyes so as to see the picture, which is
+an old one._] Father, I returned _your_ love. [_She reads on the back of
+photograph._] "Blanche, my darling daughter, at fourteen years of age!"
+That's mine! that's my own! [_And she puts the picture away separately.
+She takes up a small packet of very old love-letters tied with faded old
+pink tape._] Old letters from mother; they must be her love-letters. She
+shall have them,--they may soften her. [_She takes up a slip of paper
+and reads on the outside._] This is something for Mason, too. [_She puts
+it back in the case. She takes up a sealed envelope, blank._] Nothing on
+it, and sealed. [_She looks at it a moment, thinking._] Father, did you
+want this opened? If you didn't, why not have destroyed it? Ah! I
+needn't be afraid; _you_ had nothing to hide from the world. [_Tearing
+it open, she reads._] "I have discovered my son-in-law, Richard
+Sterling, in irregular business dealing. He is not honest. I will watch
+him as long as I live; but when you read this, Mason, keep your eye upon
+him for my daughter's sake. He has been warned by me--he may never trip
+again, and her happiness lies in ignorance." [_She starts, and looks
+about her to make sure she is alone. She then sits staring ahead for a
+few seconds; then she speaks._] My boy's father dishonest! Disgrace--he
+owned it--threatening _my_ boy! It mustn't come! It mustn't! _I'll_
+watch now. [_She goes to the fireplace, tearing the paper as she crosses
+the room, she burns the letter; then she gathers up the other letters
+and the pocket case._] He must give me his word of honor over Richard's
+little bed to-night that he will do nothing to ever make the boy ashamed
+of bearing his father's name!
+
+[_She watches to see that every piece of the paper burns, as_
+
+THE CURTAIN FALLS
+
+
+ACT II
+
+
+_Christmas Eve; fourteen months later; the dining room of the Hunters'
+house, which is now lived in jointly by the_ STERLINGS _and_ MRS. HUNTER
+_and her daughters. It is a dark wainscoted room, with curtains of
+crimson brocade. It is decorated with laurel roping, mistletoe, and
+holly, for Christmas. It is the end of a successful dinner party,
+fourteen happy and more or less congenial persons being seated at a
+table, as follows:_ WARDEN, RUTH, MASON, CLARA, TROTTER, MRS. HUNTER,
+BLANCHE, STERLING, MISS SILLERTON, MR. GODESBY, JESSICA, DOCTOR
+STEINHART, _and_ MISS GODESBY. _The room is dark on all sides, only a
+subdued light being shed on the table by two large, full candelabra with
+red shaded candles. As the curtain rises the bare backs of the three
+women nearest the footlights gleam out white. Candied fruit and other
+sweetmeats are being passed by four men servants, including_ JORDAN
+_and_ LEONARD.
+
+
+RUTH. My dear Blanche, what delicious candy!
+
+MISS SILLERTON. Isn't it!
+
+MISS GODESBY. Half of the candy offered one nowadays seems made of
+_papier-mâché_.
+
+MRS. HUNTER. [_To_ MISS GODESBY.] Julia, do tell me how Mr. Tomlins
+takes his wife's divorce?
+
+MISS GODESBY. He takes it with a grain of salt!
+
+MRS. HUNTER. But isn't he going to bring a counter suit?
+
+STERLING. No.
+
+RUTH. I hope not. I am an old-fashioned woman and don't believe in
+divorce!
+
+MISS GODESBY. Really! But then you're not married!
+
+MISS SILLERTON. What is the reason for so much divorce nowadays?
+
+RUTH. Marriage is the principal one.
+
+BLANCHE. _I_ don't believe in divorce, either.
+
+MISS SILLERTON. My dear, no woman married to as handsome a man as Mr.
+Sterling would.
+
+TROTTER. You people are all out of date! More people get divorced
+nowadays than get married.
+
+BLANCHE. Too many people do--that's the trouble. I meant what I said
+when I was married--"for better, for worse, till death us do
+part."--What is the opera Monday?
+
+TROTTER. Something of Wagner's. He's a Dodo bird! Bores me to death! Not
+catchy enough music for me.
+
+MRS. HUNTER. You'd adore him if you went to Bayreuth. Which was that
+opera, Clara, we heard at Bayreuth last summer? Was it _Faust_ or
+_Lohengrin_! They play those two so much here I'm always getting them
+mixed!
+
+MISS SILLERTON. Wagner didn't write _Faust_!
+
+MRS. HUNTER. Didn't he? I thought he had; he's written so many operas
+the last few seasons!
+
+CLARA. I like _Tannhäuser_, because as soon as you hear the "twinkle,
+twinkle, little stars" song, you can cheer up and think of your wraps
+and fur boots.
+
+TROTTER. My favorite operas are _San Toy_ and the _Roger Brothers_,
+though I saw _Florodora_ thirty-six times!
+
+BLANCHE. Mother would have gone with you every one of those thirty-six
+_Florodora_ times. She's not really fond of music.
+
+MRS. HUNTER. Not fond of music! Didn't I have an opera box for four
+years?
+
+TROTTER. Why doesn't Conried make some arrangement with Weber and Fields
+and introduce their chorus into _Faust_ and _Carmen_?
+
+DR. STEINHART. Great idea! [_To_ MISS GODESBY.] Did you get a lot of
+jolly presents?
+
+MISS GODESBY. Not half bad, especially two fine French bulls!
+
+[_All are laughing and talking together._
+
+BLANCHE. What did you get, Mr. Warden?
+
+WARDEN. Three copies of "David Harum," two umbrellas, and a cigar case
+too short for my cigars.
+
+MISS GODESBY. Give it to me for cigarettes.
+
+WARDEN. It's too long for cigarettes. Then I had something that's either
+a mouchoir or a handkerchief case, or for neckties, or shaving papers,
+or something or other.
+
+TROTTER. Yes, I know, I got one of those, too.
+
+DR. STEINHART. So did I!
+
+BLANCHE. I must start the women; we are coming back here to arrange a
+surprise for you men.
+
+[_She nods her head in signal to_ STERLING, _and rises. All rise._
+
+STERLING. One moment please. One toast on Christmas night! Ned, give us
+a toast.
+
+ALL THE WOMEN. [_But not in unison._] Oh, yes! A toast! [_Ad lib._]
+
+WARDEN. [_Holding up his glass._]
+
+Here's to those whom we love! And to those who love us! And to those who
+love those whom we love And to those who love those who love us!
+
+ALL THE MEN. [_Not in unison._] Good! Bravo! Bully toast! [_Ad lib._]
+
+[_Every one drinks._
+
+BLANCHE. One more toast, Dick. [_To the others._] Christmas Day is our
+boy's birthday.
+
+RUTH. Surely! a toast to Richard!
+
+STERLING. Long life to Master Sterling, the best boy in the world, and
+to all his good friends at this table.
+
+THE MEN. Hear! Hear!
+
+[_All the women speak their next speeches at the same time._
+
+BLANCHE. [_Laughing._] Of course! I've dropped my handkerchief.}
+                                                               }
+[NED _dives under the table for it._                           }
+                                                               }
+MISS SILLERTON. O dear, my fan!                                }
+                                                               }
+MISS GODESBY. What a bore! I've dropped a glove!               }
+                                                               }
+[STEINHART _goes under the table for it._                      }
+                                                               }
+CLARA. Both my gloves gone--I'm so sorry!                      }
+                                                               }
+[GODESBY _goes under the table for them._                      }
+                                                               }
+MRS. HUNTER. Dick, please, I've dropped my smelling bottle.    }  [ALL
+                                                               }  _together_]
+[TROTTER _and_ STERLING _go under the table for it._           }
+                                                               }
+RUTH. My gloves, please, I'm so sorry!                         }
+                                                               }
+[MASON _goes under the table for them._                        }
+                                                               }
+[_The speeches of the women are simultaneous, followed         }
+by the movements of the men also, all at the same time._       }
+
+BLANCHE. Please don't bother; the servants--
+
+LEONARD, JORDAN _and, two extra men start to hunt under the table, too._
+
+MISS GODESBY. Women ought to have everything they own fastened to them
+with rubberneck elastics.
+
+[_The men, somewhat flustered, all rise with the various articles, and
+offer them to their respective owners._
+
+[_All the women thank the men profusely, and apologize at the same
+time._ STERLING _takes_ MRS. HUNTER _out at back, followed by all the
+other couples, all talking._ RUTH _and_ MASON _lag behind._
+
+RUTH. [_To_ BLANCHE, _who with_ WARDEN _waits for_ RUTH _and_ MASON _to
+pass._] I want just a minute with Mr. Mason, Blanche. [BLANCHE _and_
+WARDEN _pass out before her._ RUTH _is alone with_ MASON. _She speaks as
+if she were carrying on a conversation that had been interrupted. She
+speaks in a lowered voice, indicating the private nature of what she has
+to say._] I sent him imperative word yesterday I must have the bonds. I
+told him I wanted one to give to his wife for Christmas. He pretends
+to-day he didn't receive this letter, but he must have.
+
+MASON. This makes the third time there has been some excuse for not
+giving you the bonds?
+
+RUTH. Yes, and this letter he says he didn't get was sent to his office
+by hand.
+
+MASON. I'll speak to him before I leave.
+
+[_They go out at back._
+
+[_As they pass out,_ JORDAN _stands by the doorway holding the curtains
+back. The other three men stand stiffly at the Right. As_ MASON _and_
+RUTH _go out, the_ SERVANTS _relax and exchange glances, each giving a
+little laugh out loud, except_ JORDAN. _During the following dialogue
+they empty the table preparatory to arranging the room for the Christmas
+tree._
+
+JORDAN. Sh! A very dull dinner, not an interesting word spoke.
+
+FIRST FOOTMAN. The widder seemed chipper like!
+
+LEONARD. And did you get on to the old lady's rig-out; mourning don't
+hang very heavy on her shoulders.
+
+[_One chair is moved back._
+
+JORDAN. [_To_ FIRST FOOTMAN.] Get the coffee. [_He goes out Right. To_
+LEONARD.] Get the smoking lay-out!
+
+[LEONARD _goes out Right and brings back a silver tray laden with
+cigarettes, cigar boxes, and a burning alcohol lamp._
+
+LEONARD. If you ask me, I think she's going to put a bit more on the
+matrimonial mare if she gets the chance.
+
+JORDAN. It's none of your business. You're _Mrs. Sterling's_ servant
+now.
+
+LEONARD. Good thing, too; it was a happy day for us when _they_ moved
+in.
+
+FIRST FOOTMAN. [_Reënters with the coffee._] Say, did you see how that
+young feller over there [_Motioning to the lower right-hand corner of
+the table._] shovelled the food in?
+
+LEONARD. And the way he poured down the liquid--regular hog! My arm's
+tired a-filling of his glass.
+
+[_And he drinks a glass of champagne which has been left untouched by a
+guest._
+
+JORDAN. He ain't nobody; he hasn't any money; he was just asked to fill
+up. He's one of these yere singing chaps what's asked to pass the time
+after dinner with a song or two _gratis_. This dinner'll last him for
+food for a week!
+
+_Their manners suddenly change as the men reënter and take seats about
+the two ends of the table._ STERLING, MASON, _and_ DOCTOR _down Left
+form one group. The other men are in a group between the window and the
+other end. On entering_ STERLING _speaks._
+
+STERLING. Jordan, for heaven's sake, give us something to see by! You
+can't tell which end of your cigar to light in this confounded woman's
+candle-light. If I had my way, I'd have candelabras made of Welsbachs!
+
+TROTTER. Bright idea, Sterling.
+
+[STERLING, _laughing, joins his group, who laugh gently with him._
+JORDAN _turns on the electric light. The servants pass the coffee,
+liqueurs, and the cigars and cigarettes. Meanwhile the following
+dialogue takes place, the men beginning to talk at once on their
+entrance._
+
+STERLING. Mr. Mason, I'd like to ask your honest opinion on something if
+you'll give it me.
+
+MASON. Certainly.
+
+STERLING. This Hudson Electric Company.
+
+DR. STEINHART. Oh! Dropped fearfully to-day.
+
+STERLING. But that can happen easily with the best thing. To-morrow--
+
+MASON. [_Interrupting._] To-morrow it will drop to its _very bottom_!
+
+STERLING. I don't believe it.
+
+DR. STEINHART. Surely, Mr. Mason, the men who floated that are too
+clever to ruin _themselves_?
+
+MASON. They're out of it.
+
+STERLING. Out of it!
+
+MASON. They got out last week quietly.
+
+STERLING. But--
+
+MASON. Mark my words, the day after to-morrow there'll be several
+foolish people ruined, and _not one of the promoters of that company
+will lose a penny_!
+
+STERLING. I don't believe it!
+
+[_The crowd at the other end of the table, who have been listening to a
+tale from_ TROTTER, _laugh heartily._
+
+TROTTER. [_Delighted with his success._] I'm no Dodo bird!
+
+[WARDEN _leaves this group casually and joins the other._
+
+MASON. [_To_ STERLING.] Don't tell me _you're_ in it?
+
+STERLING. [_Ugly._] Yes, I am in it!
+
+MASON. Not _much?_
+
+STERLING. Yes, _much!_
+
+WARDEN. Much what?
+
+STERLING. Oh, nothing; we were just discussing stocks.
+
+WARDEN. And up there they're discussing Jeffreys and Fitzsimmons.
+
+MASON. Listen, Dick, after a lifelong experience in Wall Street, I defy
+any broker to produce one customer who can show a profit after three
+consecutive years of speculation.
+
+STERLING. Oh, you're too conservative; nothing venture, nothing have.
+Excuse me, I think Jeffreys and Fitzsimmons more amusing topics. Come
+along.
+
+[STERLING _and_ DR. STEINHART _join the other group Right._
+
+MASON. [_To_ WARDEN.] You're Sterling's broker.
+
+WARDEN. No, not for over a year.
+
+MASON. Then you can't tell me how deep he is in this Hudson Electric
+swindle?
+
+WARDEN. Is he in it at all?
+
+MASON. Yes, he says, deep.
+
+WARDEN. I suspected it yesterday.
+
+MASON. But what with--his wife's money?
+
+WARDEN. That went fourteen months ago. I put him on his feet then, gave
+him some tips that enabled him to take this house with her mother, so
+that with his regular law business he ought to have done very well, but
+his living could not leave one cent over to speculate with.
+
+MASON. [_To himself._] Good God!
+
+WARDEN. I know what you're afraid of.
+
+MASON. No!
+
+WARDEN. Yes. The reason I'm no longer his broker is he was ashamed to
+let me know about his dealings.
+
+MASON. But you don't mean you think he'd actually _steal_!
+
+WARDEN. His _aunt's_ money? Why not? _He did his wife's!_
+
+MASON. Does he handle any one else's affairs?
+
+WARDEN. I know he takes care of that Godesby woman's property.
+
+MASON. And she wouldn't hold her tongue if a crash came!
+
+WARDEN. Not for a minute! Is Miss Hunter suspicious?
+
+MASON. Yes. Does Sterling realize that to-morrow he will most probably
+be a ruined cheat?
+
+WARDEN. Very likely.
+
+MASON. If he made up his mind to-night it was all up with him, he might
+do--what?
+
+WARDEN. Run away with whatever money he has left, or kill himself. I
+don't know if he's enough of a coward for that or not. There's _one_
+hold on him--he loves his wife.
+
+MASON. Which will make him all the more ashamed of discovery. Do you
+believe she suspects?
+
+WARDEN. Not a bit. She loves him too dearly.
+
+MASON. Can _we_ do anything?
+
+WARDEN. Nothing but watch him closely till the people go. Then force him
+to make a clean breast of it, so we can all know where we stand; how we
+can best protect his aunt from ruin and his wife and boy from public
+disgrace.
+
+MASON. He is watching us.
+
+WARDEN. He knows I know him; we must be careful. He's coming toward us.
+[_He then speaks in a different tone, but no louder._] You're certain of
+the trustworthiness of your information?
+
+MASON. Absolutely. Every man left in that concern will be ruined before
+the 'Change closes after to-morrow. [STERLING _has joined them in time
+to hear the end of_ MASON'S _speech._ MASON _continues._] I am telling
+Warden what I told you about the Hudson Electric Company.
+
+STERLING. Can't you talk of something pleasanter?
+
+[BLANCHE _reënters at back. On her entrance all the men rise. The
+servants finish preparing the room for the tree._
+
+BLANCHE. I'm very sorry--I really can't let you men stay here any
+longer.
+
+ALL THE MEN. Why not? How's that? [_Ad lib._]
+
+BLANCHE. You know we want to get this room ready for Santa Claus! Dick!
+[_She goes to her husband. All the men go out at back in a group led by_
+WARDEN _and_ MASON. _They are all talking and laughing._ BLANCHE _is
+left alone with her husband._] What is this Aunt Ruth has been telling
+me about not being able to get some bonds from you?
+
+STERLING. Oh, nothing. I forgot to send them up to her, that's all.
+
+BLANCHE. But she says she sent three times.
+
+STERLING. One time too late to get into the vault; and the other, her
+letter was mislaid--I mean not given to me.
+
+BLANCHE. You haven't broken your word to me?
+
+STERLING. What if I had?
+
+BLANCHE. I would let the law take its course.
+
+STERLING. You must love me very little.
+
+BLANCHE. I _live_ with you. First you robbed me of my respect for you;
+then you dried up my heart with neglect.
+
+STERLING. And our boy?
+
+BLANCHE. Your blood runs in his veins; your shame and disgrace would be
+a fearful warning to him. It might kill _me_; but never mind, if it
+_saved him_.
+
+STERLING. Oh, well, I haven't broken my word! So you needn't worry. I've
+been honest enough.
+
+BLANCHE. [_With a long sigh of relief._] Oh! I hope so!
+
+MRS. HUNTER. [_Appearing in doorway at back._] The men are in the
+drawing-room--shall we come _here_?
+
+BLANCHE. Yes, we'll bring the others, mother. Come, Dick.
+
+[_She goes out with_ MRS. HUNTER _at back._
+
+STERLING. [_Goes to door Right, opens it, and calls._] Leonard!
+
+[LEONARD _enters Right_
+
+LEONARD. Yes, sir?
+
+STERLING. Go up to my library at the top of the house, get a railroad
+guide you will find there, and bring it down and put it on the table in
+the hall just outside the drawing-room door.
+
+LEONARD. Yes, sir.
+
+STERLING. Then go to my room and pack my bag and dressing case. Do you
+understand?
+
+LEONARD. Yes, sir.
+
+[_The women are heard singing "Follow the Man from Cook's," and
+gradually coming nearer._
+
+STERLING. Be quick, and say nothing to any one.
+
+LEONARD. Yes, sir.
+
+[_He goes out quickly Right._ STERLING _goes up stage and stands beside
+the door at back as the women dance in, singing "Follow the Man from
+Cook's." They are led by_ CLARA, _with_ MRS. HUNTER _on the end._
+BLANCHE _and_ RUTH _follow alone, not dancing. The others dance around
+the chairs and_ CLARA _jumps on and off one of them; this stops the
+rest, who balk at it._ STERLING _goes out at back. The_ SERVANTS _enter
+Right._
+
+CLARA. I don't care for this dinner party at all. The women are all the
+time being chased away from the men! I prefer being with Mr. Trotter.
+Don't you, mama?
+
+MISS SILLERTON. He doesn't seem able to give a dinner party any more
+without you to chaperone, Mrs. Hunter.
+
+BLANCHE. Mother, how can you?
+
+MRS. HUNTER. Oh, I don't know as it's _chaperoning_! I like Mr. Trotter
+very much.
+
+MISS SILLERTON. But he's such a little cad. I tried to give him a lift,
+but he was too heavy for me.
+
+CLARA. Oh, well, you ought just to pretend it's the money in his pocket
+makes him so heavy; then you'd find him dead easy.
+
+[_Meanwhile the_ SERVANTS _have arranged the table, taken out the extra
+leaves and made it square, and left the room. They now reënter, bringing
+in a gorgeously decorated and lighted Christmas tree. There is at once a
+loud chorus of delighted approval from the women. The_ SERVANTS _place
+the tree in the centre of the table. The women who are sitting rise and
+come near to examine the tree._
+
+RUTH. What a beautiful tree, Blanche!
+
+BLANCHE. The boy is to have it to-morrow morning--it's really _his_
+tree! [TOMPSON _brings in a large basket containing seven small
+stockings and six small boys' socks--very small stockings and very small
+socks. They are made of bright and different colors and are stuffed into
+absurd, bulgy shapes._] There's a name on each one. Come along now!
+
+[_Taking out a little sock. The women crowd around the basket and each
+hangs a sock on the tree,_ MISS GODESBY _and_ CLARA _standing on
+chairs._
+
+CLARA. [_Reading the name on her sock._] Oh! mine's for Mr. Mason.
+What's in it, Blanche?
+
+BLANCHE. I really can't tell you. I asked the clerk where I bought it
+what it was for, and he said he didn't know; it was a "Christmas
+present."
+
+MISS GODESBY. [_Laughing._] Oh, I know the kind! Mine's for Howard
+Godesby. What's his present?
+
+BLANCHE. A silver golf marker.
+
+MISS GODESBY. But he doesn't play golf!
+
+BLANCHE. Well, he ought to; it'll keep him young.
+
+CLARA. It will be all right, anyway, Julia! _You_ can give it away to
+some one next Christmas.
+
+MISS SILLERTON. What's in Mr. Trotter's?
+
+BLANCHE. Oh, that present has almost been my death! Men are so hard to
+find things for! I had put in a gold pencil for his key chain, but
+to-night while we were eating our oysters, I saw him show a beauty that
+his mother had given him this morning! So I whispered to Jordan between
+the soup and fish to change Mr. Ryder's name to Mr. Trotter's stocking,
+and put Mr. Trotter's name on the one that had a cigarette case in it. I
+sneaked a message down to Dick on my dinner card--was it all right?--and
+he sent back word during the game that Trotter only smoked cigars; so
+before the ices were passed I shuffled Mr. Trotter's and Mr. Mason's
+names,--I'd given Mason the cigar case,--and just as Jordan signalled to
+me the transfer had been successfully effected, I heard Trotter casually
+observe he'd been obliged to give up smoking entirely--_doctor's
+orders_!
+
+[_They laugh punctiliously, rather bored by_ BLANCHE'S _long account._
+
+MRS. HUNTER. Isn't the tree stunning?
+
+CLARA. [_Getting down from her chair._] It makes the table look like one
+of Mr. Trotter's "informal little dinners."
+
+MISS GODESBY. They say he has one of those men who arrange shop windows
+decorate his dinner table for him!
+
+BLANCHE. The only time I ever dined with him I was really ashamed to go
+home with my dinner favor--it was so gorgeous! And there were such big
+bunches of violets in the finger bowls there wasn't room for your little
+finger.
+
+MISS GODESBY. You never saw such a lot of decoration! The game have
+ribbon garters on their legs, and even the raw oysters wear corsage
+bouquets! [_To_ MRS. HUNTER.] I hope you don't mind what we're saying,
+Mrs. Hunter?
+
+MRS. HUNTER. [_Offended._] I must say I do mind very much.--[_A
+pause._]--because--[_A second pause._]--well, I am going to marry Mr.
+Trotter--[_All, not believing her, laugh merrily._] You are all very
+rude!
+
+MISS GODESBY. Not on the level! Not _Trotter_!
+
+MISS SILLERTON. Not _really_!
+
+BLANCHE. No, no, of course not!
+
+[_She rings bell._
+
+MRS. HUNTER. But I _am_! And I thought here at my daughter's table,
+among my own friends (I was allowed to name the guests to-night), I
+could count on good wishes and congratulations.
+
+[_There is a dead silence._
+
+[_The musicians, a band of Neapolitan players, enter and take their
+places in a recess at Left._
+
+BLANCHE. [_To the musicians._] You may play. [_To_ JORDAN, _who has
+brought in the Neapolitans._] We are ready, Jordan.
+
+[JORDAN _goes out at back._
+
+[RUTH _goes to_ BLANCHE.
+
+[_The guitars and mandolins begin a popular song._
+
+MISS GODESBY. [_To_ MRS. HUNTER.] Oh, well, Mrs. Hunter, we were only
+codding! There's lots of good in Trotter, and I'm sure you'll bring it
+out. Good luck!
+
+[_Shaking her hand._
+
+RUTH. [_To_ BLANCHE, _aside._] You won't allow this!
+
+BLANCHE. Certainly not. [BLANCHE _crosses to her mother and they go to
+one side together;_ BLANCHE _speaks in a lowered voice._] You've amazed
+and shocked me! I will not tolerate such a thing; we'll talk it over
+to-night.
+
+[_She leaves her and returns to her guests_, MRS. HUNTER _standing where
+she is left, biting her lips and almost crying with rage and
+mortification._
+
+MISS GODESBY. [_Before the musicians, to_ BLANCHE _as she joins her._]
+I'm crazy about these men, Mrs. Sterling; they play so awfully
+well--especially that one with the lovely legs!
+
+[JORDAN _pulls aside the curtains at back and all the men reënter
+except_ WARDEN. _They all join hands and dance around the tree, singing
+with the musicians; they break, and go up to a side table, where
+everything to drink is displayed._ WARDEN _enters at this moment and
+motions to_ MASON _and leads him down stage._
+
+WARDEN. There was a railway guide in the hall--that's what he went there
+for; he's _going to run away to-night_.
+
+MASON. How'll we prevent it?
+
+WARDEN. First, we must break up this party!
+
+MASON. How?
+
+WARDEN. I haven't quite thought yet. Go back to the others; send Jordan
+to me; don't lose sight of Dick. Jordan! [_He takes him aside._] I want
+you to go out of this room for a minute, pretend to go upstairs, then
+come back and tell Mrs. Sterling, loud enough for the others to hear
+you, that Master Richard is very ill, and say the maid is frightened.
+
+JORDAN. [_Hesitating._] But--
+
+WARDEN. [_Quickly and firmly._] Do as I tell you. I am responsible for
+whatever happens.
+
+[JORDAN _goes out at back. The men and women are laughing and talking
+about the sideboard._
+
+BLANCHE. Come now, everybody! Let's have the presents. Dick, you know
+you are to be Santa Claus.
+
+[STERLING _looks nervously at his watch._
+
+STERLING. Just a minute, dear! Ned! [_Takes_ WARDEN _to one side. The
+women move about the tree, hunting for their own names on the stockings
+on the table at the foot of the tree._] Ned, I've been suddenly called
+out of town on business--must catch the eleven-twenty train. I don't
+want to break up the party, so you empty the tree, and when the time
+comes for me to go, I'll slip out.
+
+WARDEN. And when your guests go?
+
+STERLING. Oh, then you can explain for me.
+
+[JORDAN _enters at back._
+
+JORDAN. [_To_ BLANCHE.] Beg pardon, madam, but Master Richard is very
+ill.
+
+BLANCHE. [_Alarmed._] Richard!
+
+JORDAN. Yes, ma'am, and Droves is very frightened, ma'am.
+
+RUTH. Richard ill?
+
+[_All give exclamations of surprise and regret and sympathy._
+
+BLANCHE. My little boy ill? Excuse me, I must go to him.
+
+[_She hurries out at back._ RUTH _speaks to the musicians, who stop
+playing._
+
+STERLING. [_Moved._] My boy ill--why, I can't--I can't--
+
+WARDEN. "Can't" what?
+
+STERLING. How can I go away?
+
+WARDEN. Surely you won't let business take you away from your boy who
+may be dying.
+
+STERLING. No! I won't go! I'll face it out! I can't leave my boy like
+this--
+
+RUTH. [_Coming to_ STERLING.] I'm going to take these women away; tell
+Blanche not to give them a thought. Their evening up to now has been
+charming.
+
+[_During_ RUTH'S _speech_, WARDEN _has spoken aside with_ MASON.
+
+WARDEN. [_Aside to_ MASON.] Don't let Miss Hunter go.
+
+RUTH. [_To the other guests._] Come to the drawing-room.
+
+MRS. HUNTER. I was crazy to see what was in my stocking.
+
+[_All pass out talking, expressing conventional sympathy on account of_
+RICHARD, _but evidently resenting the breaking up of the party._
+STERLING _and_ WARDEN _are left alone in the room._ STERLING _moves to
+go up to back;_ WARDEN _interrupts him._
+
+WARDEN. [_To_ STERLING.] Where are you going?
+
+STERLING. To my boy and my wife.
+
+WARDEN. Wait a minute; I want to speak to you.
+
+STERLING. Speak to me later; I can't wait now.
+
+BLANCHE. [_Off stage, at back, excitedly._] Jordan! [_She enters,
+excited, half hysterical._] Jordan! Where is Jordan? It was a lie! What
+did he mean? Richard is sleeping sweetly. The maid knows nothing of
+being alarmed! Where is Jordan?
+
+[_She starts to go toward the door Right._
+
+WARDEN. [_Stops her._] Mrs. Sterling, he had nothing to do with it! _I_
+told Jordan to say what he said.
+
+[BLANCHE _turns and looks at_ WARDEN _in astonishment._
+
+STERLING. [_Stunned and at once suspicious._] What?
+
+BLANCHE. But--
+
+WARDEN. Forgive me for so cruelly alarming you; it was the only way I
+could think of for getting rid at once of your guests!
+
+STERLING. [_Angry._] You'll interfere once too often in the affairs of
+this house.
+
+BLANCHE. [_Indignant._] But what excuse can you make, Mr. Warden?
+
+WARDEN. Will you be so good as to ask Miss Hunter and Mr. Mason to come
+here? They will explain what I have done, partly, and your husband will
+tell you the rest when you come back.
+
+[STERLING _sneers aloud._
+
+BLANCHE. I don't understand, I don't understand.
+
+[_She goes out at back._
+
+STERLING. Well, I _do_ understand, at least enough.
+
+WARDEN. Good! That spares me a very disagreeable speech.
+
+STERLING. No, it doesn't! Come out with it! What is it you want? What is
+it you've found out?
+
+WARDEN. From betraying a trust, you've come, in less than two years, to
+an outright embezzlement.
+
+STERLING. Speak out--give us facts!
+
+WARDEN. You've stolen your aunt's fortune.
+
+STERLING. _Prove that!_
+
+WARDEN. It's _her money_ that's lost in the Hudson Electric Company!
+
+STERLING. PROVE IT!
+
+WARDEN. Easy enough, to-morrow.
+
+STERLING. You've got to excuse your action _to-night_ or _be kicked_ out
+of my house!
+
+WARDEN. [_Strong._] Isn't what I say the truth?
+
+STERLING. [_Equally strong._] No! And now get out!
+
+WARDEN. [_Looks at his watch._] I'll not leave this house till it's too
+late for you to take that eleven-twenty.
+
+STERLING. [_More ugly._] Yes, you will and mighty--
+
+WARDEN. _No, I'll not!_
+
+[_He is interrupted by the entrance of_ BLANCHE, RUTH, _and_ MASON.
+
+WARDEN. [_To_ BLANCHE.] I _hope_ you forgive me now--
+
+BLANCHE. [_Pathetically._] You did right; I thank you.
+
+STERLING. [_Heartbroken._] Blanche--without hearing a word from me!
+
+BLANCHE. No, I've come now to hear what _you_ have to say.
+
+[_A deep-toned clock strikes eleven._ STERLING, _at the second stroke,
+takes out his watch with a hurried movement._
+
+WARDEN. [_Quickly._] Eleven o'clock.
+
+STERLING. I wish Warden to leave the room.
+
+BLANCHE. [_Firmly._] And I wish him to stay.
+
+[_A short pause._
+
+STERLING. Well, of what am I accused?
+
+WARDEN. Nobody wants to accuse you. We want you to make a clean breast
+of it.
+
+STERLING. Don't you talk to me; let my wife do the talking if you want
+me to answer.
+
+BLANCHE. Sit down, Aunt Ruth. [RUTH _sits by the table_, WARDEN _stands
+at back._ STERLING _stands at Right and_ BLANCHE _and_ MASON _sit near
+the centre._] Aunt Ruth asks you to give her a true account of her trust
+in you. Mr. Mason is here as her friend and my father's.
+
+STERLING. I haven't said I betrayed her trust. I told her she should
+_have_ the bonds she wants to-morrow.
+
+BLANCHE. But _will_ she? That's what I want to know. I ask you if you
+haven't her bonds, to tell us here now,--tell _us_, who have been and
+must be still the best friends, perhaps the only friends, you can have.
+Tell us where we all stand--are we the only ones to suffer or are there
+others who will perhaps be less generous in their treatment of you? Tell
+us now while there is time perhaps to save us from public scandal, from
+the disgrace which would stamp your wife as the wife of a thief, and
+send your boy out into the world the son of a convict cheat. [_She
+breaks down, but in a moment controls herself. There is no answer._
+STERLING _sinks into a chair, his arms on the table, his head on his
+arms. A moment's silence._] You _love_ me--I know that. I appeal to your
+love; let your love of me persuade you to do what I ask. I ask it for
+your sake and for _mine_! Tell us here the truth now--it will spare me
+much to-morrow, perhaps--me whom you love--for love of me--
+
+STERLING. [_In an agony._] I'm afraid I'll lose you--
+
+BLANCHE. No, I'll promise to stand by you if you'll only tell _us all_
+the truth.
+
+STERLING. [_In a low, shamed voice._] I'll tell _you_, but not
+_now_--not before all these others.
+
+[BLANCHE _looks up questioningly to_ MASON. MASON _shakes his head._
+
+BLANCHE. It _must_ be _now_, Dick.
+
+STERLING. No! no! I can't look you in the face and tell it! Let me tell
+it to you _alone_, later, in the dark.
+
+[BLANCHE _looks up questioningly to_ MASON. _He shakes his head._
+
+BLANCHE. It must be now.
+
+STERLING. No, no, I'm too ashamed, I can't face you; in the dark I'll
+make a clean breast of it--let me tell you in the dark.
+
+[WARDEN _moves and puts his hand on the electric-light button beside the
+doorway at back._
+
+WARDEN. In the DARK, then, _tell it_!
+
+[_He presses the button and all the lights go out. The stage is in
+complete darkness; only the voices are heard from the different places
+in which the actors are last seen._
+
+BLANCHE. [_Quickly._] Remember, to help you to help ourselves, we must
+know everything. Go on.
+
+STERLING. It began fourteen months ago, after Ned Warden put me on my
+feet; I got a little ahead--why not get way ahead? There were plenty of
+men around me making their fortunes! I wanted to equal them--climb as
+high as they; it seemed easy enough for them, and luck had begun to come
+my way. We're all climbers of some sort in this world. I was a climber
+after wealth and everything it brings--
+
+[_He stops a moment._
+
+BLANCHE. [_Her voice comes throbbing with pathetic emotion through the
+darkness._] And _I_ after _happiness_ and all it brings.
+
+STERLING. [_Deeply moved, his voice trembles for a moment, but only for
+a moment._] Don't, Blanche, or I can't finish. Well, I borrowed on some
+of Aunt Ruth's bonds and speculated--I made a hundred thousand in a
+week! I put back the bonds. But it had been so easy! I could see those
+bonds grinning at me through the iron side of the vault box. They seemed
+to smile and beckon, to _beg_ me to take them out into the air again!
+They grew to be like living things to me, servants of mine to get me
+gold--and finally I determined to make one bigger coup than ever! I took
+Aunt Ruth's bonds out and all the money available in my trust, and put
+it _all_ into this new company! It seemed so safe. I stood to be a
+prince among the richest! And, for a day or so, I've known nothing short
+of a miracle could save me from being wanted by the police! To-night I
+gave up even the miracle. That's all. It's no use saying I'm sorry.
+
+[_A moment's pause._
+
+MASON. Have others suffered besides Miss Hunter?
+
+STERLING. There is some money of Aunt Ruth's left--stock I couldn't
+transfer. But I used the money of others--Miss Godesby and Ryder's.
+
+MASON. Miss Ruth, a large part of your fortune is gone, used unlawfully
+by this man. Will you resort to the law?
+
+RUTH. [_Very quietly._] No!
+
+BLANCHE. [_In a voice broken with emotion and gratitude._] Aunt Ruth!
+
+MASON. We can't hope Miss Godesby and Ryder will be as lenient! You must
+go to them in the morning--tell them everything, put yourself at their
+mercy, ask for time and their silence.
+
+STERLING. _Never!_ I couldn't do it.
+
+MASON. It is the only honorable way out of your dishonorable action--the
+least you can do!
+
+STERLING. Confess to their faces, and probably to no good? Eat the dust
+at their feet, and most likely be clapped into prison for it? _No, thank
+you!_
+
+BLANCHE. Suppose _I_ went to them?
+
+STERLING. You?
+
+RUTH. No! Why should _you_!
+
+STERLING. Yes! Why not? They might keep silent for _her_!
+
+BLANCHE. I would do it for my boy's sake. Yes, _I'll_ go.
+
+STERLING. _Yes!_ _You_ go, Blanche.
+
+RUTH. No, you _shan't_ go--you shan't humiliate yourself in his place!
+
+MASON. Certainly not; and if your husband is willing, we are not
+willing! _He_ must go.
+
+BLANCHE. But if he _won't_?
+
+MASON. He _must_!
+
+RUTH. You must demand his going, Blanche, and I demand it, too, as
+something due to me.
+
+BLANCHE. Very well. I demand it. Will you go?
+
+[_A moment's silence._
+
+WARDEN. Why don't you speak? [_He presses the electric button and all
+the lights come on._ STERLING _is at the doorway at back, about to steal
+out. There is an exclamation aloud from all of surprise and disgust. The
+clock strikes the quarter;_ WARDEN _catches hold of_ STERLING'S _arm._]
+What's your hurry, Dick? There goes the quarter hour; you could never
+catch the eleven-twenty.
+
+STERLING. Damn you!
+
+[_Facing_ WARDEN _squarely, as_
+
+THE CURTAIN FALLS QUICKLY
+
+
+ACT III
+
+
+_At "The Hermitage," on the Bronx River, the next afternoon. The house
+is on the Left, and on the Right and at the back are the green lattice
+arches. Snow lies thick everywhere, on the benches at the Right and on
+the little iron table beside it, on the swing between two trees at the
+Right, in the red boxes of dead shrubs, on the rocks and dried grass of
+a "rookery" in the centre, and on the branches of the trees._ CLARA
+_comes out from the house, followed by_ TROTTER.
+
+
+CLARA. Come on and let mama rest awhile--naturally she's excited and
+tired out, being married so suddenly and away from home. [_She stops
+beside the swing, taking hold of its side rope with her hand._] It isn't
+every mother who can elope without her oldest child's consent and have
+her youngest daughter for a bridesmaid.
+
+[_Laughing._
+
+TROTTER. I hope Mrs. Sterling will forgive me. Perhaps she will when she
+sees how my money can help your mother and me to get right in with all
+the smarties!
+
+CLARA. Oh, don't you be too sure about your getting in; it isn't as easy
+as the papers say! But, anyway, that wouldn't make any difference to
+Blanche. She was never a climber like mama and me. I suppose that's why
+she is asked to all sorts of houses through Aunt Ruth that wouldn't let
+mama and me even leave our cards on the butler!
+
+TROTTER. I thought your mother could go anywhere she liked.
+
+CLARA. Oh, no, she couldn't! if she made you think that, it was only a
+jolly! Blanche is the only one of us who really went everywhere. Come
+along, "_Poppa_," give me a swing! I haven't had one for years!
+
+[_She sweeps off the snow from the seat of the swing with her hand._
+
+TROTTER. Your mother certainly did represent--
+
+CLARA. [_Sitting in the swing._] Oh, well, now don't blame mama! She
+couldn't help herself; she always thought you _dreadfully handsome_!
+Swing me!
+
+TROTTER. I don't care, anyway. I'm deucedly proud of your mother,--I
+mean of _my wife_,--and I'd just as lief throw up the whole society
+business and go off and live happily by ourselves.
+
+CLARA. O dear! I think mama would find that awfully dull. Go on, swing
+me! [TROTTER _swings her._] Of course, you'll find mama a little
+different when you see her all the time. You really won't see much more
+of her, though, than you do now. She doesn't get up till noon, and has
+her masseuse for an hour every morning, her manicure and her mental
+science visitor every other day, and her face steamed three times a
+week! She has to lie down a lot, too, but you mustn't mind that; you
+must remember she isn't our age!
+
+TROTTER. [_Swings her._] She _suits_ me!
+
+CLARA. That's just what _I feel_! You'll take care of her, and me, too,
+all our lives, and that's what makes me so happy. I'm full of plans!
+We'll go abroad soon and stay two years. [_He has stopped swinging
+her._] Go on, swing me!
+
+TROTTER. [_Holding the swing still._] Say! if you think you are going to
+run me and the whole family, you're a Dodo bird! Remember that you're my
+daughter; you must wait a little if you want to be a mother-in-law.
+
+[_Sleigh-bells are heard in the distance, coming nearer._
+
+CLARA. Good gracious! If you ask _me_, I think mama has got her hands
+full. What's become of Miss Godesby and her brother?
+
+TROTTER. When you went upstairs with your mother, they went down the
+road.
+
+CLARA. You know originally the idea was _I_ was to marry you.
+
+TROTTER. Really--
+
+CLARA. [_Laughingly._] Yes, and mama cut me out.
+
+TROTTER. Oh, well, it can't be helped; we can't marry everybody.
+
+CLARA. [_Noticing the bells._] _Somebody else arriving!_ That's
+queer--nobody comes here in the winter; that's why we chose it, because
+it would be quiet! Let's play this game.
+
+[_Going to an iron frog on a box which stands near the house._
+
+TROTTER. Perhaps it's Mrs. Sterling.
+
+CLARA. No; if she was coming at all, she'd have come in time for the
+wedding. [_She takes up the disks which lie beside the frog._] I should
+hate to get married like you and mama--no splurge and no presents! Why,
+the presents'd be half the fun! And think of all those you and she've
+given in your life, and have lost now a good chance of getting back.
+
+[_Throws a disk into the frog's open mouth._
+
+TROTTER. _I'll_ give your mother all the presents she wants. I can
+afford it; I don't want anybody to give us anything!
+
+CLARA. You talk like Jess! [_Throws another disk._] You know Jess earns
+her own living. She goes around to smart women's houses answering their
+invitations and letters for 'em. She calls it being a visiting
+secretary, but I tell her she's a _co-respon-dent_!
+
+[_Throws a disk._
+
+[WARDEN _and_ MASON _enter from behind the house quickly, with a manner
+of suppressed excitement. They are surprised to find_ CLARA _and_
+TROTTER.
+
+WARDEN. Why, here they are!
+
+MASON. No, only Miss Clara and Trotter.
+
+WARDEN. Lucky I met you--you must take me back in your sleigh.
+
+MASON. Yes, the riding's beastly.
+
+TROTTER. Hello! I say, were you invited?
+
+CLARA. Merry Christmas!
+
+WARDEN. We came to see the Godesbys.
+
+CLARA. They've gone down the road.
+
+MASON. Sterling isn't here, is he?
+
+TROTTER. No, haven't seen him.
+
+CLARA. Do you know _why_ we're here?
+
+[MASON _and_ WARDEN _are embarrassed._
+
+MASON. Yes--er--er--a--many happy returns, Mr. Trotter.
+
+TROTTER. It's a great day for me, Mr. Mason!
+
+WARDEN. Wish you joy, Trotter!
+
+[_Embarrassed and not going near him._ TROTTER _rushes eagerly to him
+and grasps his hand warmly._
+
+TROTTER. Thank you, old man! I say! _Thank you!_
+
+MASON. Miss Clara, would you do me the great favor of going down the
+road and hurrying the Godesbys back if you see them?
+
+CLARA. Yes, I don't mind; come along, Trotty!
+
+WARDEN. You must excuse Trotter. I want a talk with him if he will give
+me five minutes.
+
+CLARA. Oh, certainly.
+
+[_She goes out Left behind the house._
+
+WARDEN. [_To_ MASON.] Will you see Mrs. Hunter?
+
+TROTTER. I beg your pardon, Mrs. _Trotter_!
+
+WARDEN. [_Politely._] I beg yours. [_To_ MASON.] See Mrs. Trotter.
+
+MASON. [_Aside to_ WARDEN.] You're going to ask _him_ to go on Dick's
+note for Ryder?
+
+WARDEN. [_In a low voice._] Yes.
+
+MASON. You're a wonder! As if _he_ would!
+
+WARDEN. _Somebody must_, and there's nobody else. That boy and that
+mother have got to be saved!
+
+MASON. I'm sorry my name's no good for us.
+
+WARDEN. And mine mustn't be used.
+
+MASON. No, indeed! The minute that was done, there'd be a new
+complication, and more trouble would tumble down on Mrs. Sterling's
+head. Good luck.
+
+[_Shakes his hand and enters the house._
+
+TROTTER. What's up? _You_ haven't come to kick about my wedding, have
+you? I wouldn't stand for that, you know!
+
+WARDEN. It's not that, Mr. Trotter. Your wife's son-in-law, Sterling,
+has turned out a blackguard; he has had intrusted to him Miss Ruth
+Hunter's money and several other people's, and he's used it all for
+speculation of his own.
+
+TROTTER. Then he's a damned thief!
+
+[_He sits on the bench with the manner that he has settled the subject._
+
+WARDEN. So he is, and he's ruined.
+
+TROTTER. Well, prison is the place for _him_.
+
+WARDEN. We won't argue that, but how about his family--they get punished
+for what he has done; they must share his disgrace.
+
+TROTTER. Oh, well, my wife is out of all that now--_she's Mrs. Trotter_.
+
+WARDEN. Yes, but _her own daughter_ suffers.
+
+TROTTER. [_On the defensive._] She isn't very chummy with her classy
+eldest daughter.
+
+WARDEN. Never mind that; you know without my telling you that Mrs.
+Sterling is a fine woman.
+
+TROTTER. She's always snubbed me right and left, but, by George, I must
+own she is a fine woman.
+
+WARDEN. That's right! [_Clapping him on the back and putting his arm
+around his shoulder._] Look here--help us save her!
+
+TROTTER. How?
+
+WARDEN. Indorse a note of Sterling's to give Ryder to keep him quiet.
+
+TROTTER. I'd have to ask my wife.
+
+WARDEN. No! Don't start off like that! Keep the reins in your own hands
+at the very beginning,--make her realize from this very day that you're
+raised up on the cushion beside her; that she's sitting lower down
+admiring the scenery, while you do the driving through life!
+
+TROTTER. [_Half laughing._] Ha! I guess you're right. Box seat and reins
+are good enough for me!
+
+WARDEN. Good boy! Then we can count on you to sign this note?
+
+TROTTER. Where's _my_ security?
+
+WARDEN. I can get you security if you want it.
+
+TROTTER. Of course I want it! And I say, where are _you_? Why aren't
+_you_ in it?
+
+WARDEN. There are reasons why my name had better not appear; you are in
+the family. But I'll tell you what I'll do, Trotter; I'll secure _you_
+with a note of my own--only you must keep it dark; you mustn't even let
+Mason know.
+
+TROTTER. All right, perhaps I'm a Dodo bird, but I'll do it. Say, I seem
+to have married a good many of this classy family!
+
+WARDEN. Trotter, no one's done you justice! And, by George! you deserve
+a better fate--er--I mean--my best wishes on your wedding day.
+
+[TROTTER _shakes his hand delightedly._
+
+TROTTER. Great day for me! What I wanted was style and position, and
+some one classy who would know how to spend my money for me!
+
+WARDEN. Well, you've got _that, surely_!
+
+[CLARA _comes back from the house._
+
+CLARA. The Godesbys are coming. Trotter, there's skating on the river
+near here, and they've skates in the house--don't you want a spin?
+
+TROTTER. Yes, I don't mind--if my wife doesn't need me! [CLARA _laughs
+as_ GODESBY _and_ MISS GODESBY _enter from behind the house._ TROTTER
+_meets them, with_ CLARA _on his arm._] Excuse us for a little while!
+
+CLARA. _Poppa_ and I're going skating!
+
+[_They go out Left._
+
+GODESBY. Hello, Warden.
+
+WARDEN. Good morning, Miss Godesby.
+
+MISS GODESBY. Good morning.
+
+WARDEN. How are you, Godesby? I've come on a matter most serious, most
+urgent--something very painful.
+
+GODESBY. What is it?
+
+[_Comes forward._
+
+WARDEN. Both of you trusted Dick Sterling.
+
+MISS GODESBY. What's he done?
+
+WARDEN. Misused your funds.
+
+GODESBY. How d'you mean?
+
+WARDEN. I mean that the money you intrusted to him is gone, and I've
+come to make a proposition to you.
+
+MISS GODESBY. Gone?
+
+[GODESBY _and_ MISS GODESBY _are aghast. A second's silence, during
+which_ GODESBY _and_ MISS GODESBY _look at each other, then back at_
+WARDEN.
+
+GODESBY. Do you mean to say--
+
+WARDEN. The money is _gone_, every penny of it, and I want you to accept
+a note from Sterling to cover the amount.
+
+MISS GODESBY. I can't _grasp_ it!
+
+GODESBY. Where is Sterling? Why didn't _he_ come?
+
+WARDEN. He was ashamed.
+
+GODESBY. I should hope so!
+
+WARDEN. Several of us are going to stick by him; we'll manage to put him
+on his feet again, and we want you to accept his note.
+
+GODESBY. [_Incredulous._] Accept his note?
+
+MISS GODESBY. [_Also incredulous._] On _what security_?
+
+GODESBY. [_Quickly._] You'll do nothing of the sort, Julia!
+
+MISS GODESBY. I'll see him where he belongs, in State's Prison, first!
+
+WARDEN. That wouldn't bring you back your money.
+
+MISS GODESBY. Neither will his note!
+
+WARDEN. If I get it indorsed?
+
+GODESBY. Likely!
+
+MISS GODESBY. Rather!
+
+WARDEN. I want your silence to keep it from the public for the family's
+sake. I've secured a satisfactory indorser for a note to satisfy Ryder's
+claim.
+
+MISS GODESBY. Why didn't you give him to _me_ instead of Ryder?
+
+WARDEN. I felt you would be willing, out of friendship--
+
+[_There are sleigh-bells in the distance, coming nearer._
+
+MISS GODESBY. Huh! you must take me for an idiot!
+
+WARDEN. Out of friendship for his wife.
+
+MISS GODESBY. Blanche Sterling! I never could bear her! She's always
+treated me like the dirt under her feet!
+
+WARDEN. You dined with her last night.
+
+MISS GODESBY. That was to please her mother. No, if my money's gone,
+Sterling's got to suffer, and the one slight consolation I shall have
+will be that Blanche Sterling will have to come off her high horse.
+
+[_The sleigh-bells stop._
+
+GODESBY. [_To_ MISS GODESBY.] Ten to one if you agree to sign this
+note--
+
+WARDEN. And keep silent.
+
+MISS GODESBY. [_Satirically._] Oh, yes, of course, the next morning when
+I wake up Sterling will be gone! Nobody knows where!
+
+WARDEN. I've had it out with Sterling! I am here as his representative.
+I give you my word of honor Sterling will not run away. It is under such
+an understanding with him that I am pleading his case in his stead. He
+will stay here and work till he has paid you back, every cent.
+
+[JESSICA _enters hurriedly from the house._
+
+JESSICA. [_In great excitement._] Mr. Warden, Mr. Warden, Dick has gone!
+
+WARDEN. _Sterling? Gone?_
+
+MISS GODESBY. _Gone?_
+
+GODESBY. That's _good_!
+
+WARDEN. Don't be a fool, Godesby. How do you mean "gone," Miss Hunter?
+
+JESSICA. I don't altogether know. While I was out this morning, Blanche
+received a message from mother saying she'd been--
+
+[_She hesitates, looking toward_ GODESBY _and_ MISS GODESBY.
+
+WARDEN. They know. They're your mother's guests here.
+
+JESSICA. She told Blanche they would be glad to have her here at one
+o'clock for breakfast. Blanche ordered the sleigh at once and went away,
+leaving word for me I was to open any message which might come for her.
+
+WARDEN. [_To_ GODESBY.] Has she been here?
+
+GODESBY. Not that I know of.
+
+MISS GODESBY. [_Eager to hear more._] No, no!
+
+JESSICA. No, they say not. She probably went first to Aunt Ruth's.
+Before I got back, Dick, who'd been out--
+
+WARDEN. He was at my house.
+
+JESSICA. Yes. He came back, questioned Jordan as to where Blanche was,
+went upstairs, and then went away again, leaving a note for Blanche,
+which I found when I came home--
+
+WARDEN. [_Eagerly._] Yes?
+
+JESSICA. It simply said, "Good-by. Dick."
+
+MISS GODESBY. [_Very angry._] Oh!
+
+GODESBY. [_Quickly._] He's taken a train! He's cleared out!
+
+WARDEN. Do you know if he took a bag or anything with him?
+
+JESSICA. No, he took nothing of that sort. Jordan went into his room and
+found a drawer open and empty, a drawer in which Dick kept--a
+_pistol_!--
+
+[_She drops her voice almost to a whisper._
+
+WARDEN. Good God, he's shot himself!
+
+JESSICA. Perhaps not--he left the house.
+
+WARDEN. Yes, if he were really determined to shoot himself, why wouldn't
+he have done it there in his own room?
+
+JESSICA. What can we do? What can we do?
+
+WARDEN. I'll get Mr. Mason; he's with your mother; he must go back to
+town at once.
+
+[_Going to the house._
+
+JESSICA. He can go with me; I'd better be at the house. Some one must be
+there.
+
+WARDEN. Good!
+
+[_He goes into the house._
+
+[MISS GODESBY _and her brother ignore and apparently forget the presence
+of_ JESSICA _in their excitement. They both speak and move excitedly._
+
+MISS GODESBY. I ought to have suspected something when Sterling told me
+he was getting ten per cent for my money,--the blackguard!
+
+GODESBY. I always told you you were a fool not to take care of your
+money yourself! You know more about business than most men.
+
+MISS GODESBY. I didn't want to be bothered; besides, there was always
+something very attractive about Sterling. I don't mind telling you that
+if he had fallen in love with me instead of the stiff-necked woman he
+married, I'd have tumbled over myself to get him.
+
+GODESBY. How do you feel about him now?
+
+MISS GODESBY. Now! Thank God, I'm saved such a waking up! It's going to
+make a big difference with my income, Howard! I wonder if his wife knew
+he was crooked! I'll bet you she's got a pot of money stowed away all
+right in her own name.
+
+JESSICA. [_Who can bear no more, interrupts._]
+
+Please--please! Remember that you're speaking of my sister and that
+every word you are saying cuts through me like a knife.
+
+MISS GODESBY. I beg your pardon; I ought to have thought. I like and
+respect you, Jess, and I've been very rude.
+
+JESSICA. You've been more than that; you've been cruelly unjust to
+Blanche in all that you've said!
+
+MISS GODESBY. Perhaps I have, but I don't feel in a very generous mood;
+I've some excuse--so please forgive me.
+
+[WARDEN _reënters Left._
+
+WARDEN. [_To_ JESSICA.] Mason is waiting for you with the sleigh. He's
+going first to my house. Dick may have gone back there to hear the
+result of my interview with Ryder,--then Mason'll try his own house and
+Sterling's club.
+
+GODESBY. The _police_ are the best men to find Sterling, whatever's
+happened.
+
+WARDEN. [_To_ GODESBY.] You wait a minute with me; I haven't finished
+with you yet. [_To_ JESSICA.] I'll stay here for your sister, in case
+she comes.
+
+[JESSICA _goes out Left._
+
+GODESBY. [_To_ MISS GODESBY.] Don't you give in!
+
+MISS GODESBY. Not for a minute! [_To_ WARDEN.] Don't you think, under
+the circumstances, the wedding breakfast had better be called off, and
+my brother and I go back to town?
+
+WARDEN. Not till you've given me your promise, both of you, that you
+will keep silent about the embezzlement of your bonds for the sake of
+Mrs. Sterling and her son.
+
+MISS GODESBY. [_Half laughs._] Huh!
+
+WARDEN. For the sake of her mother, who is your friend.
+
+[_Sleigh-bells start up loud and die off quickly;_ JESSICA _has gone._
+
+MISS GODESBY. Oh, come, you know what sort of friends we are,--for the
+amusement we can get out of each other. This is the case,--I trusted
+this man with my affairs. He was very attractive--I don't deny that;
+business with Dick Sterling became more or less of a pleasure--but that
+doesn't cut any ice with me; he's stolen my money. To put it plainly,
+he's a common thief, and he ought to be punished; why should he go scot
+free and a lot of others not? You know perfectly well his note wouldn't
+be worth the paper it was written on; and, anyway, if he hasn't gone and
+sneaked out of the world, I won't lift my little finger to keep him from
+the punishment he deserves!
+
+GODESBY. Good for you, Julia!
+
+WARDEN. Don't you put your oar in, Godesby; just let this matter rest
+between your sister and me! She's always been known as the best man in
+your family.
+
+GODESBY. You don't choose a very conciliatory way of bringing us around!
+
+WARDEN. I'm not choosing any way at all; I'm striking right out from the
+shoulder. There isn't time for beating round the bush! I'm pleading for
+the good name and honorable position of a perfectly innocent, a fine,
+woman, and for the reputation and unimpeded career of her son! And I
+make that appeal as man to man and woman!
+
+MISS GODESBY. I have nothing to do with any one in this matter but
+Sterling himself, who has robbed me, and I'll gladly see him suffer for
+it!
+
+WARDEN. Now look here, Miss Godesby, you belong to a pretty tough crowd
+in society, but I know at heart you're not a bad sort! What good will it
+do you? Granted even that you don't care for Mrs. Sterling, still don't
+tell me you're the kind of woman to take a cruel pleasure in seeing
+another woman suffer! I wouldn't believe it! You're not one of those
+catty creatures! You're a clever woman, and I don't doubt you can be a
+pretty hard one, too, at times; but you're _just_--that's the point
+now--you're _JUST_--
+
+MISS GODESBY. [_Interrupting._] Exactly! I'm just, an eye for an eye!
+Sterling is a thief, let him get the deserts of one!
+
+[_She sits on the bench determinedly._
+
+WARDEN. But you can't look at only one side! You can't shut your eyes to
+his wife's suffering, too, and she doesn't deserve it! Neither does her
+boy deserve to share his disgrace. [_He sits beside her._] Why, you have
+it in your power to handicap that boy through his whole life by
+publishing his father a criminal; or you can give that boy a fair show
+to prove himself more his _mother's son_ than his father's, and to live
+an honest--who knows--perhaps a noble life!
+
+MISS GODESBY. I refuse to accept such a responsibility. Ryder--
+
+WARDEN. [_Rises, interrupting her._] Ryder's word is given to be silent.
+
+MISS GODESBY. Well, that's _his_ lookout.
+
+WARDEN. You'll have many a heart wrench, I'll bet you! You'll have to
+run across the results of the harm you do to Mrs. Sterling and Richard
+day in and day out, year after year! I don't believe you realize what it
+means! Why, I know _you_ can't bear to see a _dog_ suffer! I met you
+last week on the street carrying a mangy, crippled brute of a little dog
+in your arms, afraid lest he'd get into the hands of the
+vivisectionists, and yet here you'll let a boy and his mother--
+
+MISS GODESBY. [_Interrupts him, struggling against a tiny emotion which
+he has stirred._] Stop Stop! I don't want you working on my feelings
+that way.
+
+[_She rises and turns from him_
+
+WARDEN. [_Follows her._] I'm only knocking at the door of your heart.
+And now because it's opened just a tiny way, you want to shut it in my
+face again. Will you leave this woman's name fit for her to use? _Won't_
+you make that boy's life worth living to him?
+
+MISS GODESBY. [_After a moment's pause, looks straight into_ WARDEN'S
+_face._] I'll tell you what I'll do. Get me some security, some sort of
+indorsement of Sterling's note--
+
+WARDEN. If the man's only alive!
+
+MISS GODESBY. And I'll hold my tongue.
+
+WARDEN. How long will you give me?
+
+MISS GODESBY. Oh, come, I can't have any monkey business! You must get
+me my security to-day.
+
+WARDEN. To-day?
+
+MISS GODESBY. Yes.
+
+WARDEN. But--
+
+MISS GODESBY. That's my last word.
+
+GODESBY. Stick to that, Julia!
+
+WARDEN. I shan't try to persuade her against that. Will you leave your
+sister alone with me a moment. Perhaps you'll see about your sleigh
+being ready to return to town.
+
+GODESBY. I've no objection--if Julia wishes it.
+
+MISS GODESBY. Yes, go on, Howard!
+
+[GODESBY _goes out back of house._
+
+WARDEN. [_Left alone with_ MISS GODESBY, _goes nearer to her._] Look,
+here! Will you accept _my_ indorsement? Will _I_ be all right?
+
+MISS GODESBY. [_Incredulously._] Certainly.
+
+WARDEN. Then it's settled?
+
+MISS GODESBY. You don't mean it!
+
+WARDEN. I do.
+
+MISS GODESBY. You'd be willing to lose--[_A revelation comes to her._]
+Oh--for _Mrs. Sterling_! I see!
+
+WARDEN. [_Very seriously._] I _wouldn't_. I wouldn't see.
+
+MISS GODESBY. And she's always been blackguarding me for my affairs with
+men! And all the time--
+
+WARDEN. [_Interrupts strongly._] Don't say any more, please, _Miss
+Godesby_! I only wish your brother had said that much instead of you.
+
+MISS GODESBY. [_Disagreeably._] So you're in love with Blanche Sterling?
+
+WARDEN. No!
+
+MISS GODESBY. Oh, come, don't tell a lie about it; that will only make
+it seem worse.
+
+WARDEN. Well, suppose I were in love with her--what of it?
+
+MISS GODESBY. Nothing; only, my dear Warden, that woman--
+
+WARDEN. [_Interrupts._] Wait a minute! You've got me in a corner, but
+knowing half the truth, you mustn't _guess_ the whole. She is even more
+ignorant of my love for her than you were ten minutes ago! [MISS GODESBY
+_smiles and makes a little satirical exclamation._] You don't believe
+that, but I'll _make_ you. I'm going to tell _you_ something I've never
+even told myself. I'm going to put you to a big test, because I've got
+to. Apparently, I can't help myself; but after all, somehow I believe in
+the human nature in you, and you've got it in your power to help or hurt
+the woman I love--I say those words aloud for the first time--the woman
+I love!
+
+[_He has finished his speech in a lowered tone throbbing with controlled
+feeling._
+
+MISS GODESBY. [_Incredulously._] You've never told her?
+
+WARDEN. Never; and you show how little you really know her when you ask
+that question! She loves her husband.
+
+MISS GODESBY. I'm not so sure about that!
+
+WARDEN. I am, and I _love her_. But surely the silent love of a man,
+like mine, is no insult to a good woman--cannot harm her! A love that is
+never spoken, not even whispered, can't hurt any one, except, perhaps,
+the one who loves. You must acknowledge even _you_ have never heard a
+hint; you _showed_ just now your real surprise at what circumstances
+revealed to you! I'd die sooner than bring the slightest shadow of a
+scandal on her, and I've hugged my secret tight. Have you any idea what
+such a love means? How it grows and grows, its strength shut in, held
+back, doubling and redoubling its powers!--its ideality increasing, the
+passion _suppressed_, locked up! Good God! I tremble sometimes when I
+think--suppose some day it should burst out, _break_ my control, MASTER
+ME! [_A pause._] And here, now, I've told _you_; I'm sorry, but I had to
+for _her_ sake again. Will you help me keep my secret?
+
+MISS GODESBY. [_After a second's pause._] Yes, because I believe you.
+
+WARDEN. And Mrs. Sterling?
+
+MISS GODESBY. [_Slowly, with sincere meaning._] I envy her!
+
+[_Her voice breaks and she turns away from him._
+
+WARDEN. No one is to know I indorse Sterling's note?
+
+MISS GODESBY. You needn't sign the note; my brother'd have to see it.
+I'll take your word for the indorsement.
+
+[_She offers him her hand. They shake hands._
+
+WARDEN. What a brick you are! You know you don't do yourself anything
+like justice in the world!
+
+[GODESBY _reënters Left and after him a_ MAN SERVANT _in ordinary
+clothes, who passes through the archway at back Centre._
+
+GODESBY. Ready!
+
+WARDEN. [_Aside to her._] You can promise his silence about Sterling?
+
+MISS GODESBY. Oh, yes, he's absolutely dependent upon me.
+
+WARDEN. Thank you.
+
+MISS GODESBY. [_To_ NED _with a forced gaiety._] Good-by!
+
+WARDEN. [_Again shaking her hand_] Good-by.
+
+[_He looks his thanks at her._
+
+GODESBY. Well? What did you do?
+
+MISS GODESBY. [_As they go._] Don't worry; I've taken care of myself for
+many years, and I still feel up to it!
+
+[_They go out Left and at the same time the_ SERVANT _enters from the
+archway at back Centre carrying some fire logs in his arms. This_
+SERVANT _speaks with a slight French accent. As he reaches the house,_
+WARDEN _stops him with a question, and the_ GODESBYS' _sleigh-bells
+start up and quickly die away. The sun begins to set._
+
+WARDEN Have you an empty sitting room?
+
+SERVANT. Yes, sair.
+
+WARDEN Warm?
+
+SERVANT. I will soon arrange a fire.
+
+WARDEN I wish you would, please.
+
+SERVANT. Ze big room for ze breakfast is altogether ready and warm; you
+will be able to go in there now.
+
+WARDEN. No, that wouldn't do. It's all right out here for _me_, only I
+am expecting a lady.
+
+[_Sleigh-bells are heard in the distance, coming quickly nearer._
+
+SERVANT. Yes, sair.
+
+WARDEN. I hear a sleigh coming. If a lady is in it, ask if her name is
+Mrs. Sterling, and if she says yes, tell her Mr. Warden is here and
+would like to speak with her a moment before she goes in to Mrs.--
+
+[_He hesitates a second._
+
+SERVANT. Trottair?
+
+WARDEN. Yes.
+
+SERVANT. Yes, sair.
+
+[_He goes into the house._
+
+[_The sun grows red, and the colors of sunset creep over the sky during
+the scene which follows. After a moment the_ SERVANT _shows_ BLANCHE
+_out from the house._
+
+BLANCHE. [_Surprised and depressed._] Good morning, Mr. Warden, have you
+been asked to these funeral baked meats?
+
+WARDEN. No, I'll explain why I am here in a few minutes. Only let me ask
+you first when you last saw your husband?
+
+BLANCHE. Early this morning.
+
+WARDEN. And you have come just now from where?
+
+BLANCHE. Aunt Ruth's. Of course you know about my mother? When I heard
+it I started to come here, but my heart failed me and I turned back to
+my aunt's. She has persuaded me that I ought to come and put the best
+face on the matter possible, but it seems as if I'd had now a little
+more than I _can_ bear!
+
+[_Her voice breaks and her eyes fill with tears._
+
+WARDEN. [_Almost tenderly._] Shall we go inside?
+
+BLANCHE. No, no! Let us stay out in the air; my head would burst in one
+of these close little rooms. Have you seen mother?
+
+WARDEN. No, not yet.
+
+BLANCHE. Where is Dick? Did he go to Ryder's?
+
+WARDEN. No, but I have some good news to tell you all the same--Ryder
+has promised silence.
+
+BLANCHE. [_With tremendous relief._] Oh! that's too good, too good to be
+true! To whom did he promise?
+
+WARDEN. I want you not to ask me that.
+
+BLANCHE. I can guess, it was--
+
+WARDEN. [_Lying._] No, it was--_Mason_.
+
+BLANCHE. [_Doubting him._] Mr. Mason?
+
+WARDEN. And I've more good news for you, Mrs. Sterling--the _Godesbys_,
+too; _they_ will be silent.
+
+BLANCHE. You're sure?
+
+WARDEN. We have their word!
+
+BLANCHE. [_Pointedly._] Mr. Mason again?--
+
+[WARDEN _bows his head in assent._] He was _here_?
+
+WARDEN. Some time ago, but only for a minute. He didn't stay; he went to
+find your husband.
+
+BLANCHE. But the _Godesbys_? I just met them now on the road going back.
+How could Mr. Mason, if he didn't stay--[WARDEN _is embarrassed, and is
+silent, searching a way out of it._] Oh, no! no! it wasn't Mr. Mason! I
+see the whole thing clearly. Dick was too great a coward, and _you_ did
+it! It was _you_ who won over Ryder! It was _you_ who persuaded the
+Godesbys!--
+
+[WARDEN _shakes his head and makes a movement to deny it._ BLANCHE
+_continues speaking, the words rushing to her lips, as her pent-up heart
+opens and lets all her emotions suddenly free._] Don't try to deny it;
+you can't make me believe you! It's to _you_ I owe whatever promise the
+future has for me! It is _you_ who have given me all the happiness I've
+had for years. It is _you_ who have watched over, taken care of,
+me--_you_, the best friend any woman in this world ever had. It is _you_
+now who have saved my boy's honor. It is _you_ who lift the weight off
+my shoulders, the weight off my heart! You!--you!--you!
+
+[_She sinks sobbing on the bench. It begins to snow very quietly and
+slowly._
+
+WARDEN. [_All his love bursting out into his face and into his voice,
+cries._] Blanche! Blanche!
+
+[_Leaning over her as if to protect her from her trouble and take her to
+his breast._
+
+BLANCHE. [_Rising and looking straight into his eyes with a suddenly
+revealed great love in her own._] Ned!--
+
+[_They hold this position some moments, gazing into each other's eyes;
+then finally_ WARDEN _makes a movement towards her, crying out more
+triumphantly, having read and realized her love for him._
+
+WARDEN. Blanche!
+
+BLANCHE. [_Moving a half step back from him._] No--
+
+WARDEN. No?
+
+BLANCHE. Look--look, it's beginning to snow!
+
+WARDEN. [_Very softly._] What do you mean?
+
+BLANCHE. [_Desperately._] I mean to speak of anything except what is in
+your thoughts at this moment! Help me not to forget that no matter what
+he has done, Dick is still my husband.
+
+WARDEN. You don't know all he has done!
+
+BLANCHE. How not "all"? What else? Where is he?
+
+[_With a sudden new alarm._
+
+WARDEN. He has left you.
+
+BLANCHE. [_Echoes._] Left me?--
+
+WARDEN. Mason is searching for him. He left a note at your house which
+Jess read; it was only one word "Good-by."
+
+BLANCHE. [_Echoes again._] Good-by! [_Sleigh-bells are heard in the
+distance, coming quickly nearer._] What does it mean? You're hiding
+something from me! Tell me what else you know?
+
+WARDEN. He left the house, but took something with him--something from a
+drawer in his room.
+
+BLANCHE. [_After a second's pause she whispers._] His pistol?
+
+WARDEN. Yes.
+
+BLANCHE. [_Aghast, still whispers._] Has he done it?
+
+WARDEN. I don't know; I'm waiting word from Mason.
+
+[_The sleigh-bells stop._
+
+BLANCHE. [_Excited._] But we can't wait here doing nothing; we must go,
+too!
+
+WARDEN. Mason is doing all that can be done; we'd better wait here.
+
+[_He takes her hand in sympathy, but without suggesting the passion of a
+few moments before._ STERLING _enters hurriedly Left. He is wild with
+drink and jealousy._
+
+STERLING. Drop my wife's hand!
+
+[_They turn in great surprise._
+
+BLANCHE. Dick!
+
+[_Fright at his appearance is mingled with her surprise._
+
+WARDEN. [_At the same time as_ BLANCHE.] Sterling!
+
+[_They do not drop hands._
+
+STERLING. [_Coming nearer, very strong._] Drop my wife's hand! [_They do
+so quickly, not understanding yet._] So I've _caught_ you!
+
+WARDEN. [_Angry._] Caught us!
+
+STERLING. Yes, I had my suspicions roused some time ago!
+
+BLANCHE. Of what?
+
+STERLING. _I_ could go to the devil--what did _you two_ care! I could go
+to State's Prison! All the better--_out of your way!_
+
+WARDEN. You're speaking like a madman!
+
+STERLING. I went back to my house this morning; my wife was gone--no
+message left where to! But I questioned the servant. She'd driven here!
+Why? Ha! [_A bitter half laugh; he turns to_ BLANCHE.] _You've come here
+once too often!_
+
+WARDEN. [_Very strong._] Sterling!
+
+STERLING. [_To_ WARDEN, _but ignoring his exclamation._] Then I went to
+_your_ house. _They knew_ where _you'd_ gone! You ought to train your
+servants better! _Both here!_
+
+WARDEN. If you're not careful, I'll ram your insinuations down your
+throat.
+
+STERLING. [_Jeers._] "Insinuations?" I've caught you! I make no
+"_insinuations_." I tell you _both you're caught!_ You're my wife's
+lover, and she's your damned mis--
+
+[_Interrupted._
+
+WARDEN. [_Seizing_ STERLING _by the throat._] Don't you finish!
+
+BLANCHE. Sh!--for Heaven's sake! [_To_ WARDEN.] Let him alone; I'm not
+afraid of what he says.
+
+[WARDEN _leaves_ STERLING.
+
+STERLING. No, you never were a liar, I'll give you credit for that,--so
+confess the truth--you're his--
+
+[_Interrupted._
+
+BLANCHE. [_Excited beyond her control._] Listen! And you shall have the
+truth if you want it! These years that he's been befriending me I never
+dreamed of loving him nor thought of his loving me. [DICK _sneers._]
+_Wait!_ No, not even the day my father was buried, when I learned
+outright you were _dishonest!_
+
+STERLING. [_Surprised._] What do you mean?
+
+BLANCHE. What I say--I learned it then from a paper of my father's. I
+shouldn't have kept my knowledge to myself--I see that now; but I did,
+for your sake, not for love of you--the love went for good that day. But
+here, a moment ago, I realized for the first time that my old friend
+_did_ love me, love me with an ideal devotion the noblest woman in the
+world might be proud of! I didn't tell him then I loved him, but now I
+take this chance, I _take it_ GLADLY before you!--_forced by you!_ I
+tell him now, what perhaps he has already guessed, I love him with all
+my heart--I _love him_! I LOVE HIM!
+
+STERLING. Damn you both! then it's the _end_ of _me!_
+
+[_He pulls out a pistol and tries to put it to his temple._
+
+BLANCHE. [_Cries out._] Ned!
+
+WARDEN. [_Seizes_ STERLING, _catches his arm, and wrenches the pistol
+from him._] So that's what you planned to do, is it--make a wretched
+scene like that?
+
+[_It begins to snow more heavily._
+
+STERLING. [_In utter collapse and shame._] Why did you stop me? I'm
+better out of the world. I'm crazy with shame. First I disgraced and now
+I've insulted--_degraded_--the only living thing I care for,--that's my
+wife.
+
+[_A moment's pause._
+
+BLANCHE. [_Speaks quietly._] Come back to the house. Mr. Mason is
+looking for you; he has something to tell you.
+
+STERLING. I know--more bad news.
+
+BLANCHE. No, good.
+
+STERLING. [_Echoes._] Good! [_Starting to go, he turns at the porch._] I
+want _you_ to know that _I_ know I'm a rotten beast.
+
+[_He goes out Left._
+
+WARDEN. You're going back _home_?
+
+BLANCHE. "_Home!_" [_With a faint smile._] I should hardly call it that.
+
+WARDEN. [_Aside to her._] You're not afraid?
+
+BLANCHE. [_Half smiling._] Oh, no! And my boy's there.
+
+[_The thick falling snow almost hides them, but they are unconscious of
+it._
+
+WARDEN. What's to be done?
+
+BLANCHE. Wait; we'll see--we'll see--let it be something we could never
+regret. Good-by, Ned.
+
+[_Giving him her hand._
+
+WARDEN. Good-by, Blanche.
+
+[_Kissing her hand very tenderly and almost with a certain kind of awe,
+as_
+
+THE CURTAIN SLOWLY FALLS
+
+
+ACT IV
+
+
+_The following morning; at the_ STERLINGS'; _the library; a warm,
+livable, and lovable room, full of pictures, photographs, and books;
+mistletoe and holly decorate everywhere. In the bow-window at back there
+is a large bird-cage with half a dozen birds in it. The furniture is
+comfortable and heavily upholstered. At Left there is a fireplace with
+logs ready, but the fire is not lit. There a big table near the centre,
+full of magazines, illustrated papers, and books. A big arm-chair is
+beside the table, and other chairs conversationally close. There is a
+table near the door at Right, piled with Christmas gifts, still wrapped
+in white paper; they are tied with many colored ribbons and bunches of
+holly. There are doors Right and Left. After the curtain rises on an
+empty stage,_ RUTH _enters quickly; while she has her buoyant manner,
+she is, of course, more serious than usual. She carries a bunch of fresh
+violets in her hand. She looks about the room with a sort of curiosity.
+She is waiting for some one to appear. She takes up a silver-framed
+photograph of her brother which stands on a table and speaks aloud to
+it._
+
+
+RUTH. I'm glad you're spared this. [_With a long-drawn breath she places
+the photograph back upon the table and turns to greet_ BLANCHE, _who
+comes in Right._] Good morning, my dear.
+
+[_She kisses her._
+
+BLANCHE. Good morning. You've had my note? [RUTH _nods._] Thank you. I
+wanted to see you before I saw any one else. You must help me decide,
+only _you_ can.
+
+RUTH. Have you seen your husband this morning?
+
+BLANCHE. No. He sent word he was feeling ill, but would like to see me
+when I was willing.
+
+RUTH. And you?
+
+[_They sit near each other._
+
+BLANCHE. I don't want to talk with him till I see more clearly what I am
+going to do.
+
+RUTH. Mr. Warden told me last night all that happened at "The
+Hermitage." But on your ride home with Dick?
+
+BLANCHE. We never spoke. [_She rises._] Aunt Ruth, I am going to leave
+him.
+
+RUTH. [_Rising._] No!
+
+BLANCHE. [_Walking up and down._] Why not? _Everybody_ does.
+
+RUTH. [_Going to her._] That's just it. _Be somebody!_ Don't do the
+easy, weak thing. Be strong; be an example to other women. Heaven knows
+it's time they had one!
+
+[MRS. HUNTER _enters Right._ BLANCHE _meets her._
+
+MRS. HUNTER. Good morning, my poor dear.
+
+[_Going to kiss_ BLANCHE.
+
+BLANCHE. [_Taking_ MRS. HUNTER'S _hand and not kissing her._] Good
+morning.
+
+MRS. HUNTER. Clara's gone upstairs to see little Richard. Good morning,
+Ruth.
+
+[_She adds this with a manner of being on the defensive._
+
+RUTH. [_Dryly._] Good morning.
+
+MRS. HUNTER. [_Sitting by the table and looking at the picture papers._]
+Isn't it awful! What are you going to do?
+
+BLANCHE. I don't know yet, mother.
+
+MRS. HUNTER. _Don't know?_ Absolute divorce--no legal separation! [_To_
+RUTH.] We're staying at the Waldorf.
+
+[BLANCHE _sits discouragedly on the sofa._
+
+RUTH. [_Sitting beside her._] I shall advise against, and do everything
+in my power to prevent, Blanche's getting a divorce!
+
+MRS. HUNTER. You don't mean to say you'll carry those ridiculous notions
+of yours into practice?--now that a scandal has come into our very
+family?
+
+RUTH. Oh, I know selfish, cynical, and worldly people won't agree with
+me, and I pity and sympathize with Blanche from the bottom of my heart.
+[_Taking and holding_ BLANCHE'S _hand._] But I want her not to decide
+anything now; wait till the first blows over, and then--well, then I
+feel sure she will do the strong, noble thing--the difficult thing--not
+the easy.
+
+BLANCHE. [_Withdraws her hand from_ RUTH'S.] _No_, you ask too much of
+me, Aunt Ruth; I can't do it.
+
+RUTH. I say don't decide now--wait.
+
+BLANCHE. I don't want to wait. I want to decide now and to cut my life
+free, entirely, from Dick's.
+
+RUTH. You used to agree with me. I've heard you decry these snapshot,
+rapid-transit, tunnel divorces many a time. I've heard you say when a
+woman has made her bed, she must lie in it--make the best of her bad
+bargain.
+
+BLANCHE. I always sympathized with a woman who sought a divorce in this
+state.
+
+RUTH. Oh, yes, but _you can't_, can you?
+
+BLANCHE. No, but I'm not strong enough to fight out an unhappy life for
+the sake of setting an example to other women--women who _don't want_
+the example set!
+
+RUTH. Blanche, I counted on you to be strong, to be big--
+
+BLANCHE. [_With a voice full of emotion._] But I love Ned Warden. He
+loves me--life stretches out long before us. Dick has disgraced us all.
+I don't love him--should I give _my_ happiness and Mr. Warden's
+happiness for _him_?
+
+MRS. HUNTER. Absurd! We all have a right to happiness if we can get it.
+I have chosen; let Blanche follow my example.
+
+BLANCHE. [_Disgusted._] _Yours?_ [_Rises._] Oh!
+
+RUTH. [_Following up the advantage._] Yes, Blanche, do you want to
+follow your mother's example?
+
+BLANCHE. No! But the cases are not analogous!
+
+MRS. HUNTER. Not what? You needn't fling any innuendoes at Mr. Trotter;
+it's he who said it was my duty to stand by you, advise you, and all
+that sort of thing. I'm not here to please myself! Goodness knows, a
+divorce court isn't a very pleasant place to spend your honeymoon!
+
+BLANCHE. Thank both you and Mr. Trotter, mother; but I ask you to allow
+Aunt Ruth and me to decide this matter between us.
+
+MRS. HUNTER. Trotter says _divorce_ was _made_ for woman!
+
+RUTH. And what was made for man, please? Polygamy?
+
+MRS. HUNTER. I don't know anything about politics! But I could count a
+dozen women in a breath, all divorced, or trying to be, or _ought_ to
+be!
+
+RUTH. And each one of them getting a cold shoulder.
+
+BLANCHE. What of it if their hearts are warm--poor climbers after
+happiness!
+
+RUTH. Believe me, dear, the chill spreads. You're going to be selfish?
+
+MRS. HUNTER. She's going to be sensible.
+
+[CLARA _enters Right._
+
+CLARA. Hello, everybody! I just saw Dick coming out of his room and I
+cut him dead.
+
+BLANCHE. Clara!
+
+RUTH. [_To_ BLANCHE.] You've taken a certain responsibility upon
+yourself, and you can't shirk it.
+
+BLANCHE. He isn't what I thought him!
+
+RUTH. The day the sun shone on you as a bride, in God's presence, you
+said you took him for better for worse--
+
+CLARA. Dear me, is that in it? The marriage service ought to be
+expurgated!
+
+RUTH. [_To_ CLARA.] I'm ashamed of you.
+
+CLARA. That's nothing new!
+
+BLANCHE. Aunt Ruth, let us talk some other time.
+
+MRS. HUNTER. Oh, if we are in the way, we'll go!
+
+[_Rises._
+
+CLARA. Yes, come on, let's go to Atlantic City.
+
+MRS. HUNTER. No, I'd rather go to Lakewood.
+
+CLARA. Oh, pshaw, Lakewood's no fun! I'm surprised you don't say go to
+Aiken, North Carolina.
+
+MRS. HUNTER. Mr. Trotter says we can't leave town anyway while Blanche
+is in this trouble.
+
+BLANCHE. Mother, please discuss your affairs somewhere else.
+
+RUTH. And if I may be permitted to suggest, you will find Mr. Trotter's
+advice always pretty good to follow. That young man has better qualities
+than we have suspected. I have some thing to thank him for; will you be
+good enough to ask him to come and see me?
+
+MRS. HUNTER. He will not go to your house with my permission. I shall
+tell him you have never asked me inside your door.
+
+CLARA. Mother, if you ask _me_--[MRS. HUNTER _interjects_ "Which I
+don't," _but_ CLARA _continues without paying any attention to the
+interruption._]--I don't think Mr. Trotter is going to cry himself to
+sleep for your permission about anything!
+
+MRS. HUNTER. [_To_ BLANCHE.] Good-by, my dear; if you want me, let me
+know; I'll be glad to do anything I can. I'm staying at the Waldorf.
+
+CLARA. It's full of people from Kansas and Wyoming Territory come to
+hear the Opera!
+
+RUTH. A little western blood wouldn't hurt our New York life a bit!
+
+CLARA. Ah! Got you there! The west is the place where the divorces come
+from!
+
+MRS. HUNTER. [_Laughs._] What's the matter with Providence? I think
+Rhode Island tips the scales pretty even for the east!
+
+BLANCHE. Please go, mother; please leave me for a little while.
+
+MRS. HUNTER. Oh, very well, good-by! [LEONARD _enters Right with a
+Christmas parcel, which he places on the table Right._] Dear me, have
+you had all these Christmas presents and not opened them?
+
+BLANCHE. It is only little Richard in this house who is celebrating
+Christmas to-day.
+
+MRS. HUNTER. It's a terrible affair; I only hope the newspapers won't
+get hold of it. [_To_ LEONARD.] If any women come here asking for _me_
+who look like ladies, don't let 'em in! They ain't my friends; they're
+reporters.
+
+[LEONARD _bows and goes out._
+
+CLARA. I'm awfully sorry, Blanche, I honestly am; but I think you'll
+have only yourself to blame if you don't strike out now and throw Dick
+over. Good-by!
+
+[MRS. HUNTER _and_ CLARA _go out Right._
+
+BLANCHE. I wish _they_ wouldn't advise me to do what I _want_ to.
+
+RUTH. Ah!
+
+BLANCHE. But who do I harm by it? Surely, it wouldn't be for _his_ good
+to be brought up under the influence of his father!
+
+RUTH. If he saw you patiently bearing a cross for the sake of duty, can
+you imagine a stronger force for good on the boy's character? What an
+example _you_ will set him! What a chance for a mother!
+
+BLANCHE. But my own life, my own happiness?
+
+RUTH. Ah, my dear, that's just it! The watchword of our age is self! We
+are all for ourselves; the twentieth century is to be a glorification of
+selfishness, the Era of Egotism! Forget yourself, and what would you do?
+The dignified thing. You would live quietly _beside_ your husband if not
+_with_ him. And your son would be worthy of such a mother!
+
+BLANCHE. And I?
+
+RUTH. You would be _glad_ in the end.
+
+BLANCHE. Perhaps--
+
+RUTH. Surely! Blanche, for twenty years Mr. Mason and I have loved each
+other.
+
+[BLANCHE _is astonished. There is a pause._
+
+[RUTH _smiles while she speaks, though her voice breaks._]
+
+You never guessed! Ah, well, your father knew.
+
+BLANCHE. But Mrs. Mason is hopelessly insane; surely--
+
+RUTH. A principle is a principle; I took my stand against divorce. What
+can you do for a principle if you don't give up everything for it?
+Nothing! And that is what I mean. To-day I am not sorry--I am happy.
+
+[_There is another slight pause._ RICHARD _is heard upstairs singing a
+Christmas carol, "Once in Royal David's City," etc._
+
+BLANCHE. [_With great emotion._] But if it breaks my heart--if it breaks
+my heart?
+
+RUTH. Hearts don't break from the pain that comes of doing right, but
+from the sorrow of doing wrong! [_Neither woman speaks for a minute; in
+the silence_ RUTH _hears_ RICHARD.] What's that?
+
+BLANCHE. [_Hearing now for the first time._] Richard singing one of his
+carols.
+
+RUTH. I'd forgotten it _was_ Christmas.
+
+[LEONARD _enters Left._
+
+LEONARD. Doctor Steinhart is here to see Mr. Sterling. Where shall I
+show him, madame?
+
+BLANCHE. Here; we'll go--
+
+[_Rising._
+
+LEONARD. Yes, madame.
+
+[_He goes out._
+
+RUT. Well? What are you going to do?
+
+BLANCHE. I'm _thinking_--
+
+RUTH. May I come with you, or shall I--
+
+BLANCHE. No, come.
+
+[_The two women start to leave the room together Right, with their arms
+around each other. They meet_ STERLING, _who enters; he starts, they
+stop._
+
+STERLING. I beg your pardon, I didn't know you were here.
+
+BLANCHE. We are going to my room; I am sorry you are not well.
+
+STERLING. Oh, it's nothing, thank you.
+
+RUTH. If we can do anything, let us know.
+
+STERLING. [_Overwhelmed with shame, bows his head._] Thank you.
+
+[_The women go out Right. At the same moment_ DR. STEINHART _is shown in
+by_ LEONARD _Left._
+
+DR. STEINHART. Good morning, Sterling.
+
+STERLING. Good morning, doctor; sit down.
+
+DR. STEINHART. No, thanks, I'm very rushed this morning. What can I do
+for you?
+
+STERLING. I've been drinking too much for some time; I can't eat--my
+nerves are all gone to pieces. I've some--some business troubles, and I
+haven't slept for a week.
+
+DR. STEINHART. Is that all! Brace up, help yourself a little, and we can
+soon make a man of you.
+
+STERLING. I'm afraid it would take more than a doctor to do that.
+
+DR. STEINHART. Oh, come, we must get rid of melancholy. Come and drive
+with me to 79th Street.
+
+STERLING. No, I'm too worn out. Look at my hand! [_Holds out a trembling
+hand._] I tell you literally I haven't slept for weeks--I thought you'd
+give me some chloral or something.
+
+DR. STEINHART. What? Now?
+
+STERLING. Yes; I've tried sulphonal and all that rot; if doesn't have
+any effect on me. Give me a hypodermic--
+
+DR. STEINHART. Nonsense! Come out into the air!
+
+STERLING. I've _been_ out.
+
+DR. STEINHART. Good! Then try lying down again, and perhaps you'll go to
+sleep _now_.
+
+STERLING. Very well, but give me something to take to-night in case I
+can't sleep then.
+
+DR. STEINHART. [_Takes out a note-book and writes with a stylographic
+pen._] Be careful what you eat to-day. How about this drinking--did your
+business trouble come after it began, or did the whiskey come after the
+business trouble?
+
+STERLING. That's it.
+
+DR. STEINHART. Um--[_Giving_ STERLING _the paper which he tears out of
+his note-book._] Look here, I've a busy day before me; but I'll look in
+to-morrow, and we'll have a good talk.
+
+STERLING. Thank you. I say, what _is_ this?
+
+DR. STEINHART. It's all right. Sulphate of morphia--one-quarter-grain
+tablets.
+
+STERLING. Isn't that very little?
+
+DR. STEINHART. Oh, no; you try one, and repeat in an hour if it hasn't
+done its work.
+
+STERLING. But you've only given me two tablets, and I tell you I'm
+awfully hard to influence!
+
+DR. STEINHART. Two's enough; we don't give a lot of drugs to a man in a
+nervous condition like yours. Don't let them wake you for luncheon if
+you're asleep. Sleep's best for you. Good-by--pleasant dreams.
+
+[_He goes out Left._
+
+STERLING. [_Reads off the prescription._] "Two one-quarter-grain tablets
+sulphate of morphia, Wm. B. Steinhart--" And in _ink!_ Why didn't he
+write it with a lead-pencil? How can I make it more? Two--wait a minute!
+Two! [_Taking out his own stylographic pen._] What's his ink? [_Makes a
+mark with his pen on his cuff._] Good! the same! Why not make it twelve?
+[_Marking a one before the two._] Just in case--I might as well be on
+the safe side!
+
+[_He rings an electric bell beside the mantel, and waves the paper in
+the air to dry it._ BLANCHE _enters Right._
+
+BLANCHE. I heard the doctor go. Is anything serious the matter?
+
+STERLING. _If_ it were my _body_ only that had gone wrong, Blanche!
+
+[LEONARD _enters Left._
+
+[_To_ LEONARD.] Take this prescription round the corner and have it put
+up.
+
+LEONARD. Yes, sir.
+
+STERLING. And bring it to me with a glass of water.
+
+LEONARD. Yes, sir.
+
+[_He goes out Left._
+
+[BLANCHE _is still standing._ STERLING _sinks into a chair, and puts his
+head in his hands, his elbows on the table. He lifts his head and looks
+at her._
+
+STERLING. I know what you're going to do; you don't have to tell me; of
+course you're going to divorce me.
+
+BLANCHE. No.
+
+STERLING. What!
+
+[_His hands drop to the table; he looks her straight in the face,
+doubting what he hears._
+
+BLANCHE. [_Looking back into his eyes._] No.
+
+STERLING. [_Cries._] Blanche!
+
+[_In a tone of amazement and joy._
+
+BLANCHE. I give you one more chance, for your sake _only as my boy's
+father_. But--_don't make it impossible for me_--do you understand?
+
+STERLING. Yes! I must take the true advantage of this chance your
+goodness gives me. I must right myself, so that people need not hesitate
+to speak of his father in Richard's presence. _And this I will do._
+[_With great conviction he rises._] I know I am at the cross-roads, and
+I know the way; _but_ I don't choose it for _your_ reasons; I choose for
+my own reason--which is that, unfit as _I am, I love you._
+
+[_He speaks deliberately and with real feeling, bending over her._
+
+BLANCHE. I tell you truly my love for you is gone for good.
+
+STERLING. I'll win it back--you _did_ love me, you _did_, didn't you,
+Blanche?
+
+BLANCHE.. I loved the man I thought you were. Do you remember that day
+in the mountains when we first really came to know each other, when we
+walked many, many miles without dreaming of being tired?
+
+STERLING. And found ourselves at sunset at the top instead of below, by
+our hotel! Oh, yes, I remember! The world changed for me that day.
+
+[_He sinks back into the arm-chair, overcome, in his weakened state, by
+his memories and his realization of what he has made of the present._
+
+BLANCHE. And for me! I knew then for the first time you loved me, and
+that I loved you. Oh! how short life of a sudden seemed! Not half long
+enough for the happiness it held for me! [_She turns upon him with a
+vivid change of feeling._] Has it turned out so?
+
+STERLING. How different! Oh, what a beast! what a fool!
+
+BLANCHE. [_Speaking with pathetic emotion, tears in her throat and in
+her eyes._] And that early summer's day you asked me to be your wife!
+[_She gives a little exclamation, half a sob, half a laugh._] It was in
+the corner of the garden; I can smell the lilacs now! And the raindrops
+fell from the branches as my happy tears did on father's shoulder that
+night, when I said, "Father, he will make me the happiest woman in the
+world!"
+
+STERLING. O God! to have your love back!
+
+BLANCHE. You can't breathe life back into a dead thing; how different
+the world would be if one could!
+
+STERLING. You can bring back life to the drowned; perhaps your love is
+only drowned in the sorrow I've caused.
+
+BLANCHE. [_Smiles sadly and shakes her head; the smile dies away._] Life
+to me then was like a glorious staircase, and I mounted happy step after
+step led by your hand till everything _seemed_ to culminate on the day
+of our wedding. You men don't, _can't_ realize, what that service means
+to a girl. In those few moments she parts from all that have cherished
+her, made her life, and gives her whole self, her love, her body, and
+even her soul sometimes--for love often overwhelms us women--to _the_
+man who, she believes, wants, _starves_, for her gifts. All that a woman
+who marries for love feels at the altar I tell you a _man_ can't
+understand! You treated this gift of mine, Dick, like a child does a
+Santa Claus plaything--for a while you were never happy away from it,
+then you grew accustomed to it, then you broke it, and now you have even
+lost the broken pieces!
+
+STERLING. [_Comes to her, growing more and more determined._] I will
+_find_ them, and put them together again.
+
+BLANCHE. [_Again smiles sadly and shakes her head._] First we made of
+_every Tuesday_ a festival--our wedding anniversary. After a while we
+kept the twenty-eighth of _every month_! The second year you were
+satisfied with the twenty-eighth of April only, and last year you forgot
+the day altogether. And yet what a happy first year it was!
+
+STERLING. Ah, you see I _did_ make you happy once!
+
+BLANCHE. Blessedly happy! Our long silences in those days were not
+broken by an oath and a fling out of the room. Oh, the happiness it
+means to a wife to see it is hard for her husband to leave her in the
+morning, and to be taken so quickly--even roughly--into his arms at
+night that she knows he has been longing to come back to her. Nothing
+grew tame that first year. And at its end I climbed to the highest step
+I had reached yet, when you leaned over my bed and cried big man's
+tears, the first I'd ever seen you cry, and kissed me first, and then
+little Richard lying on my warm arm, and said, "God bless you, little
+mother." [_There is a pause._ BLANCHE _cries softly a moment._ STERLING
+_is silent, ashamed. Again she turns upon him, rousing herself, but with
+a voice broken with emotion._] And what a _bad_ father you've been to
+that boy!
+
+STERLING. I didn't mean to! That's done, that's past, but Richard's my
+boy. I'll make him proud of me, somehow! I'll win your love back--you'll
+see!
+
+[BLANCHE _is about to speak in remonstrance, but stops because of the
+entrance of_ LEONARD. _He brings a small chemist's box of tablets in an
+envelope and a glass of water on a small silver tray._
+
+LEONARD. Your medicine, sir.
+
+[_He puts it on the table and goes out Right._
+
+STERLING. Thank you, thank you!
+
+[_He takes the box of tablets out of the envelope._
+
+BLANCHE. [_Going to him._] _You don't realize_ why I've told you all
+this!
+
+STERLING. [_Counting out the tablets._] One, two. To give me hope! To
+give me hope!
+
+[_He empties the other ten tablets into the envelope, twists it up, and
+throws it in the fireplace._
+
+BLANCHE. No, no, just the opposite!
+
+STERLING. Then you've defeated your end, dear; you will stay here with
+me.
+
+BLANCHE. [_Trying to make him realize the exact position._] Opposite you
+at the table, receiving our friends, keeping up appearances, yes--but
+nearer to you than that? No! Never!
+
+STERLING. But you _will_ stay?
+
+[LEONARD _enters from Left._
+
+LEONARD. Miss Godesby, Mr. Warden.
+
+[_They enter._
+
+[_All greet each other._ WARDEN _nods stiffly to_ STERLING, _barely
+acknowledging his greeting._
+
+MISS GODESBY. [_To_ STERLING, _purposely speaking with good-humored
+raillery to relieve the tension of the situation._] Well, you're a nice
+lot, aren't you?
+
+STERLING. I'm so ashamed! I'm so ashamed!
+
+MISS GODESBY. Oh, never mind that now.
+
+BLANCHE. I have no words to thank you with.
+
+MISS GODESBY. Oh, that's all right. The truth is, I've made Warden bring
+me here, Sterling, for a bit of business. I had an emotional moment
+yesterday and went off my head a bit. I stand by what I said as to
+keeping quiet, but--well, I'm like any other old maid who hates dust on
+her mantelpiece--I'm fidgety not to make some sort of a bluff at putting
+this thing on a business basis.
+
+WARDEN. Excuse me, Miss Godesby, I think Sterling ought to know the
+truth.
+
+STERLING. _Now_ what?
+
+MISS GODESBY. Well, the truth is, my fool of a brother has kicked up an
+infernal row, and refuses to hold his tongue.
+
+STERLING. Then I'm ruined after all!
+
+MISS GODESBY. Wait, I've left him with Mr. Mason. I feel certain I can
+assure his silence if I can only show him some sort of an agreement to
+pay, an acknowledgment of the--the--affair, signed and sealed.
+
+BLANCHE. Signed by whom?
+
+MISS GODESBY. Your husband and yourself will do.
+
+STERLING. But both names are worthless.
+
+MISS GODESBY. Not as a point of honor.
+
+STERLING. Ah! no, not my wife's.
+
+MISS GODESBY. Nor yours to me. Come along!
+
+[_She goes to the table with_ STERLING, _and unfolding a paper gives it
+to him. He signs it._
+
+WARDEN. [_Aside to_ BLANCHE, _apologizing for his presence._] She made
+me come--she wouldn't come alone; otherwise I should have waited till
+you sent for me.
+
+BLANCHE. It's as well--I've decided. Oh, I wonder if I'm doing wrong.
+
+[_Looking him straight in the face._
+
+WARDEN. [_Looking back searchingly in hers to read the truth, but
+believing that she will certainly leave her husband._] No, _you_ can't
+do wrong! But I must warn you of one thing--I'm not any longer the
+controlled man I was.
+
+MISS GODESBY. Come along now, Mrs. Sterling, brace up and give me your
+name, and Warden, witness, please. [_They do so._] Of course, my dears,
+I know perfectly well that legally this isn't worth the paper it's
+written on. [_Exchanging a serious and meaning look with_ WARDEN.] But
+my idiot of a brother won't realize that, which is the point. One thing
+more--will you both dine with me next week, Thursday? [_There is an
+embarrassed pause, which, with quick intuition, she understands._] Yes,
+you _will_--for _silence_ gives consent! [_Laughing._] Now, that's
+settled!
+
+STERLING. What an awfully good sort you are!
+
+MISS GODESBY. Thanks, not always--I've been a mucker more than once in
+my life! I must go [_Shaking hands with_ BLANCHE.] and relieve Mr. Mason
+of my brother, or he'll be accusing me of inhuman treatment; more than
+one consecutive hour of my brother ought to be prevented by the police.
+
+BLANCHE. You are very, _very_ good.
+
+MISS GODESBY. I think if you and I can get well over this, we'll be real
+friends, and I haven't many, have you?
+
+BLANCHE. [_Takes her hand._] You can count upon me and my boy so long as
+we live.
+
+[_She impulsively but tenderly kisses her._
+
+[MISS GODESBY _is very much surprised, but moved._
+
+MISS GODESBY. [_Half laughing, half crying, and pulling her veil down to
+hide her emotion._] By George! I haven't been kissed by a woman for
+years! Good-by.
+
+[WARDEN _starts to go out with_ MISS GODESBY. BLANCHE _stops him._
+
+BLANCHE. Wait one moment--I want to speak alone to Miss Godesby.
+
+[MISS GODESBY _goes out Left._
+
+BLANCHE. [_Aside to_ STERLING.] You tell him; I cannot. Tell him the
+_truth_.
+
+[_She goes out after_ MISS GODESBY.
+
+WARDEN. Dick.
+
+STERLING. Ned?
+
+WARDEN. I have nothing to say to you, Sterling.
+
+[WARDEN _looks away and whistles a tune to show his unwillingness to
+listen._ STERLING _speaks clearly so_ WARDEN _shall hear._
+
+STERLING. I have a message for you from my wife. [_There is a second's
+pause._ WARDEN _stops whistling and turns and looks at_ STERLING.] She
+asks me to explain--to tell--to tell you a decision she has come to.
+
+[_There is another pause._
+
+WARDEN. Yes?
+
+[_Anxious, at a supreme tension, and now a little alarmed as to the
+decision._
+
+STERLING. She has decided not to leave my house.
+
+WARDEN. [_Adds._] _Yet!_
+
+STERLING. _Ever!_
+
+WARDEN. [_Losing his control._] That's a lie!
+
+STERLING. I couldn't believe it, either, when she told me. It was her
+first word to me to-day. I said, "You are going to divorce me," and she
+answered, "No."
+
+WARDEN. She's sacrificing herself for some reason--her boy!
+
+STERLING. Never mind, she won't leave me; I have her promise, and I'll
+win back her love!
+
+WARDEN. You fool! You can't win her back! She would never have loved me
+if you hadn't disillusioned, _dishonored_ her! I'm not worthy of her,
+but I'll never dishonor her, and, please God, never disappoint her, and
+so I'll keep her love.
+
+STERLING. Well, as to that, she decides to stay, leaving love out of the
+question.
+
+WARDEN. And you'll accept that sacrifice! You don't even _love_ her.
+You're only thinking of _yourself_ now. Love, real love, forgets itself.
+You, after having spoilt half her life, are willing to spoil the rest,
+for _your own sake_!
+
+STERLING. No, for the boy's sake, and her sake--to save a scandal--the
+world--
+
+[_Interrupted._
+
+WARDEN. [_Beside himself._] Oh, damn the world! It's _heaven_ and _hell_
+you'd better think of. _Scandal!_ It couldn't harm _her_, and the hurt
+it would do you is a small price to pay. Those whom _God_ has
+joined--yes! but it was the devil bound her to you!
+
+STERLING. Here! I've had enough! Look out!
+
+WARDEN. [_Moves toward him._] _You_ look out--you shan't rob her of her
+happiness. You--a drunkard! A forger! A thief!
+
+STERLING. _I'd keep her now if only to spite you!_
+
+WARDEN. Hah! There spoke the true man in you! Would to heaven the old
+days of duelling were back!
+
+STERLING. A brave wish, as you know they're not!
+
+WARDEN. They fight in other countries still for their love and honor,
+and I'm ready here, now, if you are, with any weapons you choose!
+
+[STERLING _sneers._]
+
+Sneer! But will you fight? We'll find a place, and something to fight
+with, or fists if you'd rather! You wouldn't kill me before I'd got you
+out of her way for good. Will you fight?
+
+[_Coming closer to him._
+
+STERLING. No!
+
+WARDEN. [_Getting more and more enraged._] If _you lose, you go away_,
+and set her free of your own will!
+
+STERLING. _No!_
+
+WARDEN. [_Losing entirely his self-control._] What do you want to _make_
+you fight--will that?
+
+[_He gives him a stinging blow in the face._
+
+STERLING. Yes!
+
+[_He springs toward_ WARDEN _as_ RUTH _and_ MASON _enter Left. The two
+men stand rigid_, WARDEN _breathing heavily._
+
+RUTH. Blanche, may I bring in--where's Blanche?
+
+STERLING. I don't know.
+
+MASON. Good morning, gentlemen.
+
+[_There is no response._ WARDEN _is with great difficulty restraining
+himself. His lips are compressed lightly and his hands clenched._
+
+RUTH. What's the trouble?
+
+STERLING. I have just told Warden my wife's decision not to leave me.
+
+RUTH. [_Showing her relief and satisfaction in her face, turns to_
+WARDEN.] You won't try to shake that resolve?
+
+WARDEN. [_Unable to control himself._] But I will! I _will_--I tell you
+all! I hardly know what I say or do! But look out for me, I'm desperate!
+I'm a torrent that's only let loose since yesterday, and now all of a
+sudden you try to stop me! But it's too late; I've got my impetus; the
+repressed passion of years is behind me; nothing can stop me--and God
+keep me from doing the wrong thing! I am determined to clear him out of
+the way of the happiness of the woman I love. [_To_ RUTH.] Do you mean
+to say you approve of her decision? [RUTH _turns her head; he turns to_
+MASON.] Do _you_?
+
+RUTH. No.
+
+STERLING. [_To_ RUTH, _holding out his hand._] You will stand by me,
+Aunt Ruth, and together we--
+
+RUTH. [_Interrupting and refusing his hand._] Oh, no.
+
+STERLING. Don't you think I can win her love back?
+
+RUTH. No.
+
+STERLING. Won't you help me try?
+
+RUTH. No. It would be useless.
+
+WARDEN. Come with me to Blanche; I must speak with her.
+
+[WARDEN _and_ RUTH _go out Right._
+
+MASON. [_Alone with_ STERLING.] Go away and make your wife understand
+you are never coming back.
+
+STERLING. But the loneliness, the misery, away--alone.
+
+MASON. Kill them with hard work; _you have other heavy debts_, you know.
+I came to see you about this business of your acknowledgments to Miss
+Godesby and Miss Hunter.
+
+STERLING. Later, later. To-morrow I will decide--
+
+[_He motions him away._ MASON _goes to him and puts his hand on his
+shoulder._
+
+MASON. Decide well--
+
+[_He hesitates a moment and then goes out Right._
+
+STERLING. [_Watching him go._] There's not one soul in this world who
+cares for me, and it's my _own fault_. [RICHARD _is heard upstairs again
+singing "Once in Royal David's City._" STERLING _lifts his head and
+listens._] Yes, one little soul loves me, and it would be better for
+him, too, if I went away. I'll go to sleep and see how I feel about it
+when I wake up. [_He moves the glass of water and takes out the box of
+tablets. He starts suddenly, but very slightly, and his muscles
+tighten._]
+
+After all, why not end it all _now_, at once, without any more bother?
+[_He looks in the box, and glances up questioningly; then he remembers
+the fireplace where he threw the other tablets and looks across the room
+at the logs. He rises, goes over, and sees in the fireplace the twisted
+envelope which holds the other tablets. He bends over to pick it up; he
+stops short._] No! Why shouldn't I try it, anyway? She, herself, gives
+me the chance! [_He rings the electric bell, and walking away from the
+fireplace, takes up with a trembling hand the papers left by_ MASON; _he
+wipes the damp from his forehead with his handkerchief. To_ JORDAN, _who
+enters Left._] Light the fire quickly; I feel cold.
+
+[_He sinks into the arm-chair, weak from the mental strain._
+
+LEONARD. It's very warm in the house, sir.
+
+STERLING. Do as I tell you--light the fire.
+
+LEONARD. [_Looking for matches on the mantel, finds the box empty._]
+There are no matches, sir; I must get one.
+
+STERLING. No, don't go--here--here--
+
+[_He gives him a match from his own box._ LEONARD _notices the trembling
+hand and suppressed excitement of_ STERLING, _and involuntarily glances
+up, but quickly looks back to his work and strikes a match. The match
+goes out._
+
+LEONARD. I shall need another match, please, sir.
+
+STERLING. [_With one in his fingers taken from his match-box, he alters
+his mind._] I have no more. [_He puts away his match-box._] Never mind
+the fire; get me a pint bottle of champagne.
+
+LEONARD. [_With a surreptitious side glance of curiosity._] Very well,
+sir.
+
+[_He goes out Left._
+
+STERLING. That was funny; that was very funny! I wonder if it was
+accident, or if there's such a thing as fatality. [_He goes to the
+fireplace and picks up the twisted envelope._] If not now--perhaps some
+other time--who knows? [_He thrusts the envelope in his vest pocket, and
+takes up the papers again from the table to look over them._] I can't
+read these things! [_Throwing them down._] The words mean nothing to me!
+
+[_There is the sound outside of a cork being drawn._ LEONARD _enters
+with the champagne and a glass and places them beside_ STERLING.
+
+LEONARD. Shall I light the fire now, sir?
+
+STERLING. No, never mind now.
+
+LEONARD. Yes, sir.
+
+[_He goes out Left._
+
+[STERLING _half fills the glass with champagne. He takes out the box of
+tablets and counts aloud._
+
+STERLING. One, two, three, four--[_He puts all in the glass, dropping
+them as he counts. He hesitates, then quickly drops in two more and
+drinks quickly. The glass is empty. He sits by the table thinking a
+moment, then lakes a piece of paper and makes ready his stylographic
+pen._] Let me see; can I make it seem accidental; it would be so much
+less bother and trouble for them! [_He thinks a second, then writes._]
+"I have accidentally taken an overdose of my sleeping draught. I have
+tried to call some one, but it's no use. I ask only one thing, that you
+forget all my sins, wipe out their memory with my name. I want my boy to
+change his name, too." [_He hesitates a moment, and then scratches that
+sentence heavily out._] No, I won't say that. [_He waits a moment._] God
+in heaven, what wouldn't I give for one friendly word just now! Some one
+to sort of say _good-by_ to me--take my hand--even a _servant_!
+
+[_He looks about him, showing signs of drowsiness. The door Right bursts
+open._ STERLING _quickly hides the letter in his inside pocket as_
+WARDEN _comes in._
+
+WARDEN. My hat! Where's my hat!
+
+[_He looks about for it._
+
+STERLING. [_Quietly._] Ned?
+
+WARDEN. My hat, I say! Where's my hat?
+
+[_Looking._
+
+STERLING. Ned!
+
+[_Something in his voice arrests_ WARDEN'S _attention._
+
+WARDEN. What? [_He looks at him._] What's the matter--
+
+STERLING. Nothing--I'm half asleep, that's all--the reaction--I'm worn
+out and I've changed my mind--
+
+WARDEN. How do you mean?
+
+STERLING. I'm going away for good--that's the best I can do; I want you
+to forgive me--_could_ you? What do you say? Forgive me for everything!
+For the sake of the old schoolboy days--
+
+WARDEN. When are you going?
+
+STERLING. To-day. Will you say good-by to me and wish me well on my
+journey?
+
+WARDEN. [_Speaks without sympathy._] You can count on me always to help
+you in any way I can. You can still retrieve a good deal if you're
+strong enough.
+
+STERLING. I know what a beastly friend I've been, and yesterday was more
+than any man would stand, but forgive that, too, will you? I've always
+been a bad lot!
+
+WARDEN. [_Goes to him and speaks, with the sympathy of a man for a child
+coming into his voice._] No, a weak lot; that's been your ruin, Dickie.
+I'll see you again before you go.
+
+STERLING. No, I'm going to sleep as long as I can now, and I don't want
+any one to wake me up; but when I do wake, I shall have other things to
+do. This is good-by.
+
+WARDEN. Well, good luck! [_He starts to go. The two men look at each
+other, and finally_ STERLING _gets the courage to hold out his hand._
+WARDEN _hesitates a moment, then shakes it._] Good luck!
+
+[_He goes out Left._
+
+[STERLING, _who has been growing more and more drowsy, as soon as he is
+alone, goes with difficulty to the door and locks it. He is so drowsy
+that he leans against the door for a moment; then he starts to go back
+to the table, but is unable to get there and sinks on the sofa half way
+between the table and the door. His eyes close, but suddenly he starts
+violently and tries to rise, but cannot, crying out faintly._
+
+STERLING. Good God--the money! I forgot the money--who'll pay my debts?
+Ah, this is a fitting climax for my life--the weakest, dirtiest thing
+I've done--[_He gets the letter from his pocket and holds it in his
+hand; the light of the afternoon grows slowly dim, like his fading sight
+and senses. He murmurs twice in a faint, drowsy voice._] Coward! Coward!
+
+[BLANCHE, _in the hall outside Right, calls his name._
+
+BLANCHE. Dick!
+
+[STERLING'S _body relaxes and sets. The letter drops from his lifeless
+hands._
+
+[BLANCHE _enters with_ RUTH, _followed by_ RICHARD, _who rides a stick
+with a horse's head and wears a soldier's cap._
+
+RICHARD. Merry Christmas, father!
+
+BLANCHE. [_Going toward the sofa._] Dick!
+
+RICHARD. Merry Christmas, father!
+
+BLANCHE. Sh! Father's asleep.
+
+[_They steal back toward the other door when_ WARDEN _enters Right._
+
+WARDEN. Oh, you are here! I went down into the drawing-room where I left
+you.
+
+BLANCHE. Sh!
+
+[_She points to_ STERLING, _who lies apparently asleep. They speak in
+lowered voices._
+
+WARDEN. Yes, I have a message for you from him.
+
+[_Looking at_ RICHARD _and_ RUTH.
+
+RUTH. [_Who understands._] Come, Richard, I haven't seen your tree yet.
+
+[_She goes out Right with_ RICHARD.
+
+WARDEN. [_To_ BLANCHE.] Give me your hand.
+
+[_She does so wonderingly._
+
+WARDEN. [_Softly, with a man's tenderness in his voice._] He is going
+away for good.
+
+BLANCHE. Away?
+
+WARDEN. For good.
+
+BLANCHE. [_Slowly, withdrawing her hand._] For good? [_She looks over
+toward_ STERLING, _and then back to_ WARDEN.] What does he mean?
+
+WARDEN. We will know when he wakes.
+
+THE CURTAIN STEALS SOFTLY DOWN

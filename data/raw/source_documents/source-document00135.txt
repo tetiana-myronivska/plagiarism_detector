@@ -1,0 +1,395 @@
+﻿Apart from the experience of the eye watching itself in a glass, Dodge
+(_loc. citat._) found another fact which strongly suggested
+anæsthesia. In the course of some experiments on reading, conducted by
+Erdmann and Dodge, the question came up, how "to explain the meaning
+of those strangely rhythmic pauses of the eye in reading every page of
+printed matter." It was demonstrated (_ibid._, p. 457) "that the
+rhythmic pauses in reading are the moments of significant
+stimulation.... If a simple letter or figure is placed between two
+fixation-points so as to be irrecognizable from both, no eye-movement
+is found to make it clear, which does not show a full stop between
+them."
+
+With these facts in view Dodge made an experiment to test the
+hypothesis of anæsthesia. He proceeded as follows (_ibid._, p. 458):
+"A disc of black cardboard thirteen inches in diameter, in which a
+circle of one-eighth inch round holes, one half inch apart, had been
+punched close to the periphery all around, was made to revolve at such
+a velocity that, while the light from the holes fused to a bright
+circle when the eye was at rest, when the eye moved in the direction
+of the disc's rotation from one fixation point, seen through the fused
+circle of light, to another one inch distant, three clear-cut round
+holes were seen much brighter than the band of light out of which they
+seemed to emerge. This was only possible when the velocity of the
+holes was sufficient to keep their images at exactly the same spot on
+the retina during the movement of the eye. The significant thing is
+that the individual round spots of light thus seen were much more
+intense than the fused line of light seen while the eyes were at rest.
+Neither my assistant nor I was able to detect any difference in
+brightness between them and the background when altogether
+unobstructed." Dodge finds that this experiment 'disproves' the
+hypothesis of anæsthesia.
+
+If by 'anæsthesia' is meant a condition of the retinal end-organs in
+which they should be momentarily indifferent to excitation by
+light-waves, the hypothesis is indeed disproved, for obviously the
+'three clear-cut round holes' which appeared as bright as the
+unobstructed background were due to a summation of the light which
+reached the retina during the movement, through three holes of the
+disc, and which fell on the same three spots of the retina as long as
+the disc and the eyeball were moving at the same angular rate. But
+such a momentary anæsthesia of the retina itself would in any case,
+from our knowledge of its physiological and chemical structure, be
+utterly inconceivable.
+
+On the other hand, there seems to be nothing in the experiment which
+shows that the images of the three holes were present to consciousness
+just during the movement, rather than immediately thereafter. A
+central mechanism of inhibition, such as Exner mentions, might
+condition a central anæsthesia during movement, although the
+functioning of the retina should remain unaltered. Such a central
+anæsthesia would just as well account for the phenomena which have
+been enumerated. The three luminous images could be supposed to remain
+unmodified for a finite interval as positive after-images, and as such
+first to appear in consciousness. Inasmuch as 'the arc of eye
+movements was 4.7°' only, the time would be too brief to make possible
+any reliable judgment as to whether the three holes were seen during
+or just after the eye-movement. With this point in view, the writer
+repeated the experiment of Dodge, and found indeed nothing which gave
+a hint as to the exact time when the images emerged in consciousness.
+The results of Dodge were otherwise entirely confirmed.
+
+
+II. THE PHENOMENON OF 'FALSELY LOCALIZED AFTER-IMAGES.'
+
+
+A further fact suggestive of anæsthesia during movement comes from an
+unexpected source. While walking in the street of an evening, if one
+fixates for a moment some bright light and then quickly turns the eye
+away, one will observe that a luminous streak seems to dart out from
+the light and to shoot away in either of two directions, either in the
+same direction as that in which the eye moved, or in just the
+opposite. If the eye makes only a slight movement, say of 5°, the
+streak jumps with the eye; but if the eye sweeps through a rather
+large arc, say of 40°, the luminous streak darts away in the opposite
+direction. In the latter case, moreover, a faint streak of light
+appears later, lying in the direction of the eye-movement.
+
+This phenomenon was probably first described by Mach, in 1886.[8] His
+view is essentially as follows: It is clear that in whatever direction
+the eye moves, away from its luminous fixation point, the streak
+described on the retina by the luminous image will lie on the same
+part of the retina as it would have lain on had the eye remained at
+rest but the object moved in the opposite direction. Thus, if the eye
+moves to the right, we should expect the streak to appear to dart to
+the left. If, however, the streak has not faded by the time the eye
+has come to rest on a new fixation point (by supposition to the right
+of the old), we should expect the streak to be localized to the left
+of this, that is, to the right of the former fixation-point. In order
+to be projected, a retinal image has to be localized with reference to
+some point, generally the fixation-point of the eyes; and it is
+therefore clear that when two such fixation-points are involved, the
+localization will be ambiguous if for any reason the central apparatus
+does not clearly determine which shall be the point of reference. With
+regard to the oppositely moving streak Mach says:[9] "The streak is,
+of course, an after-image, which comes to consciousness only on, or
+shortly before, the completion of the eye-movement, nevertheless with
+positional values which correspond, remarkably enough, not to the
+later but to the earlier position and innervation of the eyes." Mach
+does not further attempt to explain the phenomenon.
+
+   [8] Mach, Ernst, 'Beiträge zur Analyze der Empfindungen,' Jena,
+   1886.
+
+   [9] Mach, _op. citat._, 2te Aufl., Jena, 1900, S. 96.
+
+It is brought up again by Lipps,[10] who assumes that the streak ought
+to dart with the eyes and calls therefore the oppositely moving streak
+the 'falsely localized image.' For sake of brevity we may call this
+the 'false image.' The explanation of Lipps can be pieced together as
+follows (_ibid._, S. 64): "The explanation presupposes that sensations
+of eye-movements have nothing to do with the projection of retinal
+impressions into the visual field, that is, with the perception of the
+mutual relations as to direction and distance, of objects which are
+viewed simultaneously.... Undoubtedly, however, sensations of
+eye-movements, and of head-and body-movements as well, afford us a
+scale for measuring the displacements which our entire visual field
+and every point in it undergo within the surrounding _totality of
+space_, which we conceive of as fixed. We estimate according to the
+length of such movements, or at least we deduce therefrom, the
+distance through fixed space which our view by virtue of these
+movements has traversed.... They themselves are nothing for our
+consciousness but a series of purely intensive states. But in
+experience they can come to _indicate_ distance traversed." Now in
+turning the eye from a luminous object, _O_, to some other
+fixation-point, _P_, the distance as simply contemplated is more or
+less subdivided or filled in by the objects which are seen to lie
+between _O_ and _P_, or if no such objects are visible the distance is
+still felt to consist of an infinity of points; whereas the muscular
+innervation which is to carry the eye over this very distance is an
+undivided unit. But it is this which gives us our estimate of the arc
+we move through, and being thus uninterrupted it will appear shorter
+than the contemplated, much subdivided distance _OP_, just as a
+continuous line appears shorter than a broken line. "After such
+analogies, now, the movement of the eye from _O_ to _P_, that is, the
+arc which I traverse, must be underestimated" (_ibid._, S. 67). There
+is thus a discrepancy between our two estimates of the distance _OP_.
+This discrepancy is felt during the movement, and can be harmonized
+only if we seem to see the two fixation-points move apart, until the
+arc between them, in terms of innervation-feeling, feels equal to the
+distance _OP_ in terms of its visual subdivisions. Now either _O_ and
+_P_ can both seem to move apart from each other, or else one can seem
+fixed while the other moves. But the eye has for its goal _P_, which
+ought therefore to have a definite position. "_P_ appears fixed
+because, as goal, I hold it fast in my thought" (_loc. citat._). It
+must be _O_, therefore, which appears to move; that is, _O_ must dart
+backward as the eye moves forward toward _P_. Thus Lipps explains the
+illusion.
+
+   [10] Lipps, Th., _Zeitschrift f. Psychologie u. Physiologie der
+   Sinnesorgane_, 1890, I., S. 60-74.
+
+Such an explanation involves many doubtful presuppositions, but if we
+were to grant to Lipps those, the following consideration would
+invalidate his account. Whether the feeling of innervation which he
+speaks of as being the underestimated factor is supposed to be a true
+innervation-feeling in the narrower sense, or a muscular sensation
+remembered from past movements, it would in the course of experience
+certainly come to be so closely associated with the corresponding
+objective distance as not to feel less than this. So far as an
+innervation-feeling might allow us to estimate distance, it could have
+no other meaning than to represent just that distance through which
+the innervation will move the organ in question. If _OP_ is a distance
+and _i_ is the feeling of such an innervation as will move the eye
+through that distance, it is inconceivable that _i_, if it represent
+any distance at all, should represent any other distance than just
+_OP_.
+
+Cornelius[11] brought up the matter a year later than Lipps. Cornelius
+criticises the unwarranted presuppositions of Lipps, and himself
+suggests that the falsely localized streak is due to a slight rebound
+which the eye, having overshot its intended goal, may make in the
+opposite direction to regain the mark. This would undoubtedly explain
+the phenomenon if such movements of rebound actually took place.
+Cornelius himself does not adduce any experiments to corroborate this
+account.
+
+   [11] Cornelius, C.S., _Zeitschrift f. Psychologie u.
+   Physiologie der Sinnesorgane_, 1891, II., S. 164-179.
+
+The writer, therefore, undertook to find out if such movements
+actually are made. The observations were made by watching the eyes of
+several subjects, who looked repeatedly from one fixation-point to
+another. Although sometimes such backward movements seemed indeed to
+be made, they were very rare and always very slight. Inasmuch as the
+'false' streak is often one third as long as the distance moved
+through, a movement of rebound, such as Cornelius means, would have to
+be one third of the arc intended, and could therefore easily have been
+noticed. Furthermore, the researches of Lamansky,[12] Guillery,[13]
+Huey,[14] Dodge and Cline,[15] which are particularly concerned with
+the movements of the eyes, make no mention of such rebounds.
+Schwarz[16] above all has made careful investigations on this very
+point, in which a screen was so placed between the observer and the
+luminous spot that it intervened between the pupil and the light, just
+before the end of the movement. Thus the retina was not stimulated
+during the latter part of its movement, just when Cornelius assumed
+the rebound to take place. This arrangement, however, did not in the
+least modify the appearance of the false streak.
+
+   [12] Lamansky, S., _Pflüger's Archiv f. d. gesammte
+   Physiologie_, 1869, II., S. 418.
+
+   [13] Guillery, _ibid._, 1898, LXXI., S. 607; and 1898, LXXIII.,
+   S. 87.
+
+   [14] Huey, Edmund B., _American Journal of Psychology_, 1900,
+   XI., p. 283.
+
+   [15] Dodge, Raymond, and Cline, T.S., PSYCHOLOGICAL REVIEW,
+   1901, VIII., PP. 145-157.
+
+   [16] Schwarz, Otto, _Zeitschrift J. Psychologie u. Physiologie
+   der Sinnesorgane_, 1892, III., S. 398-404.
+
+This work of Schwarz certainly proves that the explanation of
+Cornelius is not correct. Schwarz found that the phenomenon takes
+place as well when the head moves and the eyes are fixed relatively to
+the head, as when the eyes alone move. He furthermore made this
+observation. Meaning by _a_ the point of departure and by _b_ the goal
+of either the eye-or the head-movement, movement, he says (_ibid._,
+S. 400-2): "While oftentimes the streak of the after-image extended
+uninterruptedly to the point _b_, or better seemed to proceed from
+this point,--as Lipps also reported--yet generally, under the
+experimental conditions which I have indicated, _two streaks_ could be
+seen, _separated by a dark space between_; firstly the anomalous one"
+(the false streak) "rather brilliant, and secondly a fainter one of
+about equal or perhaps greater length, which began at the new
+fixation-point _b_ and was manifestly an after-image correctly
+localized with regard to the situation of this point. This last
+after-image streak did not always appear; but it appeared regularly if
+the light at _a_ was bright enough and the background dark.... It was
+impossible for this second after-image streak to originate in the
+point _b_, because it appeared equally when _b_ was only an imaginary
+fixation-point.... This consideration makes it already conceivable
+that the two parts of the total after-image _are two manifestations of
+the one identical retinal stimulation, which are differently
+localized_.... Therefore we must probably picture to ourselves that
+the sensation from the strip of the retina stimulated during the quick
+eye-movement is, _during the interval of movement or at least during
+the greater part of it, localized as if the axis of vision were still
+directed toward the original fixation-point. And when the new position
+of rest is reached and the disturbance on the retinal strip has not
+wholly died away, then the strip comes once more into consciousness,
+but this time correctly localized with reference to the new position
+of the axis of vision_. By attending closely to the behavior as
+regards time of both after-image streaks, I can generally see the
+normal after-image develop a moment later than the anomalous one"
+(that is, the false streak). Schwarz finally suggests (S. 404) that
+probably between the first and second appearances of the streak an
+'innervation-feeling' intervenes which affords the basis for
+localizing the second streak ('correctly') with reference to the new
+position of the eye.
+
+After this digression we return to consider how this phenomenon is
+related to the hypothesis of anæsthesia during eye-movements. If we
+accept the interpretation of Schwarz, there is one retinal process
+which is perceived as two luminous streaks in space, localized
+differently and referred to different moments of time. It is
+surprising, then, that a continuous retinal process is subjectively
+interpreted as two quite different objects, that is, as something
+discontinuous. Where does the factor of discontinuity come in? If we
+suppose the retinal disturbance to produce a continuous sensation in
+consciousness, we should expect, according to every analogy, that this
+sensation would be referred to one continuously existing object. And
+if this object is to be localized in two places successively, we
+should expect it to appear to move continuously through all
+intervening positions. Such an interpretation is all the more to be
+expected, since, as the strobic phenomena show, even discontinuous
+retinal processes tend to be interpreted as continuously existing
+objects.
+
+On the other hand, if there were a central anæsthesia during
+eye-movement, the continuous process in the retina could not produce a
+continuous sensation, and if the interval were long enough the image
+might well be referred to two objects; since also, in the strobic
+appearances, the stimulations must succeed at a certain minimal rate
+in order to produce the illusion of continuous existence and movement.
+
+This consideration seemed to make it worth while to perform some
+experiments with the falsely localized after-images. The phenomenon
+had also by chance been noted in the case of the eye moving past a
+luminous dot which was being regularly covered and uncovered. The
+appearance is of a row of luminous spots side by side in space, which
+under conditions may be either falsely or correctly localized. Since
+these dots seemed likely to afford every phenomenon exhibited by the
+streaks, with the bare chance of bringing out new facts, apparatus was
+arranged as in Fig. 1, which is a horizontal section.
+
+_DD_ is a disc which revolves in a vertical plane, 56 cm. in diameter
+and bearing near its periphery one-centimeter holes punched 3 cm.
+apart. _E_ is an eye-rest, and _L_ an electric lamp. _SS_ is a screen
+pierced at _H_ by a one-centimeter hole. The distance _EH_ is 34 cm.
+The disc _DD_ is so pivoted that the highest point of the circle of
+holes lies in a straight line between the eye _E_ and the lamp _L_.
+The hole _H_ lies also in this straight line. A piece of milk-glass
+_M_ intervenes between _L_ and _H_, to temper the illumination. The
+disc _DD_ is geared to a wheel _W_, which can be turned by the hand of
+the observer at _E_, or by a second person. As the disc revolves, each
+hole in turn crosses the line _EL_. Thus the luminous hole _H_ is
+successively covered and uncovered to the eye _E_; and if the eye
+moves, a succession of points on the retina is stimulated by the
+successive uncovering of the luminous spot. No fixation-points are
+provided for the eye, since such points, if bright enough to be of use
+in the otherwise dark room, might themselves produce confusing
+streaks, and also since an exact determination of the arc of
+eye-movement would be superfluous.
+
+[Illustration: Fig. 1.]
+
+The eye was first fixated on the light-spot, and then moved
+horizontally away toward either the right or the left. In the first
+few trials (with eye-sweeps of medium length), the observations did
+not agree, for some subjects saw both the false and the correct
+streaks, while others saw only the latter. It was found later that
+all the subjects saw both streaks if the arc of movement was large,
+say 40°, and all saw only the correctly localized streak if the arc
+was small, say 5°. Arcs of medium length revealed individual
+differences between the persons, and these differences, though
+modified, persisted throughout the experiments. After the subjects had
+become somewhat trained in observation, the falsely localized streak
+never appeared without the correctly localized one as well. For the
+sake of brevity the word 'streak' is retained, although the appearance
+now referred to is that of a series of separate spots of light
+arranged in a nearly straight line.
+
+The phenomena are as follows.--(1) If the arc of movement is small, a
+short, correctly localized streak is seen extending from the final
+fixation-point to the light-spot. It is brightest at the end nearer
+the light. (2) If the eye-movement is 40° or more, a streak having a
+length of about one third the distance moved through is seen on the
+other side of the light from the final fixation-point; while another
+streak is seen of the length of the distance moved through, and
+extending from the final fixation-point to the light. The first is the
+falsely, the second the correctly localized streak. The second, which
+is paler than the first, feels as if it appeared a moment later than
+this. The brighter end of each streak is the end which adjoins the
+luminous spot. (3) Owing to this last fact, it sometimes happens, when
+the eye-movement is 40° or a trifle less, that both streaks are seen,
+but that the feeling of succession is absent, so that the two streaks
+look like one streak which lies (unequally parted) on both sides of
+the spot of light. It was observed, in agreement with Schwarz, that
+the phenomenon was the same whether the head or the eyes moved. Only
+one other point need be noted. It is that the false streak, which
+appears in the beginning to dart from the luminous hole, does not
+fade, but seems to suffer a sudden and total eclipse; whereas the
+second streak flashes out suddenly _in situ_, but at a lesser
+brilliancy than the other, and very slowly fades away.
+
+These observations thoroughly confirmed those of Schwarz. And one
+could not avoid the conviction that Schwarz's suggestion of the two
+streaks being separate localizations of the same retinal stimulation
+was an extremely shrewd conjecture. The facts speak strongly in its
+favor; first, that when the arc of movement is rather long, there is a
+distinct feeling of succession between the appearances of the falsely
+and the correctly localized images; second, that when both streaks are
+seen, the correct streak is always noticeably dimmer than the false
+streak.
+
+It is of course perfectly conceivable that the feeling of succession
+is an illusion (which will itself then need to be explained), and that
+the streak is seen continuously, its spacial reference only undergoing
+an instantaneous substitution. If this is the case, it is singular
+that the correctly seen streak seems to enter consciousness so much
+reduced as to intensity below that of the false streak when it was
+eclipsed. Whereas, if a momentary anæsthesia could be demonstrated,
+both the feeling of succession and the discontinuity of the
+intensities would be explained (since during the anæsthesia the
+after-image on the retina would have faded). This last interpretation
+would be entirely in accordance with the observations of
+McDougall,[17] who reports some cases in which after-images are
+intermittently present to consciousness, and fade during their
+eclipse, so that they reappear always noticeably dimmer than when they
+disappeared.
+
+   [17] McDougall, _Mind_, N.S., X., 1901, p. 55, Observation II.
+
+Now if the event of such an anæsthesia could be established, we should
+know at once that it is not a retinal but a central phenomenon. We
+should strongly suspect, moreover, that the anæsthesia is not present
+during the very first part of the movement. This must be so if the
+interpretation of Schwarz is correct, for certainly no part of the
+streak could be made before the eye had begun to move; and yet
+approximately the first third was seen at once in its original
+intensity, before indeed the 'innervation-feelings' had reached
+consciousness. Apparently the anæsthesia commences, it at all, after
+the eye has accomplished about the first third of its sweep. And
+finally, we shall expect to find that movements of the head no less
+than movements of the eyes condition the anæsthesia, since neither by
+Schwarz nor by the present writer was any difference observed in the
+phenomena of falsely localized after-images, between the cases when
+the head, and those when the eyes moved.
+
+
+III. THE PERIMETER-TEST OF DODGE, AND THE LAW OF THE LOCALIZATION OF
+AFTER-IMAGES.
+

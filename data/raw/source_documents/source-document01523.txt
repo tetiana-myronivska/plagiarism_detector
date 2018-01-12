@@ -1,0 +1,178 @@
+﻿
+The _Engineering and Mining Journal_ raises the question whether steel,
+which is becoming so popular a substitute for wrought iron, will, when it
+is subjected to continuous strain in suspension bridges and other similar
+structures, do as well as iron has proved that it can. Recent tests of
+sections from the cables at Fairmount Park, Philadelphia, and at Niagara
+Falls show that long use has not materially changed the structure. The
+_Journal_ says: "It is a serious question, and one which time only can
+completely answer, whether steel structures will prove as uniformly and
+permanently reliable as wrought iron has proved itself to be. In other
+words, whether the fibrous texture of wrought iron can be equaled in this
+respect by the granulated texture of steel or ingot iron. In this
+connection it is interesting to note that the fibrous texture referred to
+is imparted to wrought iron by the presence in it of a small proportion
+of slag from the puddling furnace, and that this can be secured in the
+Bessemer converter also if desired. The so-called _Klein-Bessemerei,_
+carried on at Avesta in Sweden for several years past, produces an
+exclusively soft, fibrous iron by the simple device of pouring slag and
+iron together into the ingot mould. This requires however a very small
+charge (usually not more than half a ton), and a direct pouring from the
+converter, without the intervention of a ladle, which would chill the
+slag."
+
+The effect of the introduction of slag would seem to be to retrace the
+steps usually taken in producing steel, viz., to separate the iron from
+its impurities, and then to add definite quantities of carbon and such
+other ingredients as are found to neutralize the effects of certain
+impurities not fully removed.
+
+The most intelligent engineers, after ascertaining by exhaustive physical
+tests what they need, present their "requirements" to the iron and steel
+makers, whose practical experience and science guide them in the
+protracted metallurgical experiments necessary to find the exact process
+required. The engineer verifies the product by further tests, and by
+practical use may find that his "requirement" needs further
+modifications. As a result of all this care, some degree of certainty is
+secured as to what the material may be expected to do.
+
+No doubt the chemical composition of the slag used at Avesta was known
+and met some equally well known want in the iron, and thus the result
+arrived at was one which had been definitely and intelligently sought.
+
+An important factor in selecting material for the cables of suspension
+bridges is its _true elastic limit_. By this term we mean the percentage
+of the total strength of the material which it can exert continuously
+without losing its resilience, i.e., its power to resume its former shape
+and position when stress is removed. Now, in the case particularly of
+steel wire as commonly furnished in spiral coils, the curve put into the
+wire in the process of manufacture seriously diminishes this available
+sustaining power.
+
+For it is evident that it would be unsafe to subject these cables at any
+time to a stress beyond their elastic limit. If, e.g., a snowstorm or a
+great crowd of people should load a bridge beyond this limit, when the
+extra weight was removed the cables could not bring the bridge back to
+its normal place, and the result would be a permanent flattening and
+weakening of the arch.
+
+By a process invented and patented by Col. Paine, the wire in the New
+York and Brooklyn bridge was furnished _straight_ instead of curved. Now,
+if a short piece of common steel wire is taken from the coil, and pulled
+toward a straight position, and then released, it springs back into its
+former curve; but if a short piece of the straight-furnished wire that
+was put into this bridge is bent, and then released, it springs back
+toward its straight position.
+
+It is easy to see that if a curved wire is pulled straight, there must
+occur a distention of the particles on the inside of the curve and a
+compression of those on the outside. The inside is in fact strained past
+its elastic limit before _any_ stress comes upon the outside. Hence,
+after the wire has been pulled straight, the elastic limit of only a
+portion of it can be taken into the account in calculating the load that
+can safely be put upon it. In the case of curved steel wire pulled
+straight, its ultimate strength was found to be only about 90 per cent.
+that of similar wire furnished straight by this process. The superior
+ductility of iron wire in some measure compensates for the distention of
+the particles on the inside of the curve, and that is a reason why it has
+heretofore been used for suspension bridges. But with straight steel wire
+there is no such distention, and its _entire elastic limit_ is available.
+This elastic limit is 66 per cent. of the ultimate strength, and,
+besides, that ultimate strength is 10 per cent. greater than that of
+similar curved wire. Thus if we have a curved steel wire large enough to
+sustain 1,000 lb. without breaking, a similar straight wire, such as
+those in this bridge, will hold up 1,100 lb., and 66 per cent. of this
+1,100 lb = 720 lb.
+
+The elastic limit of curved wire has never been determined, since any
+stress that will cause it to reach a straight line is beyond the elastic
+limit of the inside of its sectional area. That of curved iron wire has
+been estimated at 40 per cent. of its ultimate strength, which is about
+half the ultimate strength of curved steel wire; that is, it would be
+unsafe to put more than 40 per cent. of 500 lb.--or 200 lb.--upon a
+curved iron wire when a _straight_ steel one can sustain 720 lb. without
+injury. In the New York and Brooklyn bridge the cost of a sufficient
+amount of such iron wire as is used in all other suspension bridges would
+have been some $200,000 greater than that of the straight steel wire
+which was used. At five per cent., this effects an annual saving in
+interest of $10,000.
+
+There must, too, be a considerable saving in the current expense for
+painting and care, to say nothing of the more neat and elegant appearance
+of the less bulky steel. And as the whole area of the section of these
+wires is subjected to an even strain that is always far within the
+elastic limit, there is no danger of a change of structure under that
+stress.
+
+It is highly probable--although Col. Paine has been too busy to work up
+the matter--that piano wire made in this straight method could be drawn
+up to and kept at pitch, without approaching very near the elastic limit.
+In that case not only would they seldom if ever require tuning, but
+probably all along the tone would be more satisfactory. And there would
+not be those exasperating periods when the pitch is not quite perfect,
+but yet is not far enough out to make it seem worth while to send for a
+tuner.
+
+       *       *       *       *       *
+
+
+A catalogue, containing brief notices of many important scientific papers
+heretofore published in the SUPPLEMENT, may be had gratis at this office.
+
+
+       *       *       *       *       *
+
+THE SCIENTIFIC AMERICAN SUPPLEMENT.
+
+PUBLISHED WEEKLY.
+
+Terms of Subscription, $5 a Year.
+
+Sent by mail, postage prepaid, to subscribers in any part of the United
+States or Canada. Six dollars a year, sent, prepaid, to any foreign
+country.
+
+All the back numbers of THE SUPPLEMENT, from the commencement, January 1,
+1876, can be had. Price, 10 cents each.
+
+All the back volumes of THE SUPPLEMENT can likewise be supplied. Two
+volumes are issued yearly. Price of each volume, $2.50, stitched in
+paper, or $3.50, bound in stiff covers.
+
+COMBINED RATES--One copy of SCIENTIFIC AMERICAN and one copy of
+SCIENTIFIC AMERICAN SUPPLEMENT, one year, postpaid, $7.00.
+
+A liberal discount to booksellers, news agents, and canvassers.
+
+
+MUNN & CO., Publishers,
+
+361 Broadway, New York, N.Y.
+
+
+       *       *       *       *       *
+
+
+PATENTS.
+
+In connection with the SCIENTIFIC AMERICAN, Messrs. MUNN & Co. are
+Solicitors of American and Foreign Patents, have had 40 years'
+experience, and now have the largest establishment in the world. Patents
+are obtained on the best terms.
+
+A special notice is made in the SCIENTIFIC AMERICAN of all
+Inventions patented through this Agency, with the name and residence of
+the Patentee. By the immense circulation thus given, public attention is
+directed to the merits of the new patent, and sales or introduction often
+easily effected.
+
+Any person who has made a new discovery or invention can ascertain, free
+of charge, whether a patent can probably be obtained, by writing to MUNN
+& Co.
+
+We also send free our Hand Book about the Patent Laws, Patents, Caveats,
+Trade Marks, their costs, and how procured. Address
+
+MUNN & CO., 361 Broadway, New York.
+
+Branch Office, cor. F and 7th Sts., Washington, D.C.

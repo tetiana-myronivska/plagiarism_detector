@@ -1,0 +1,576 @@
+﻿Produced by David King, Juliet Sutherland and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+[Illustration]
+
+
+SCIENTIFIC AMERICAN SUPPLEMENT NO. 365
+
+
+NEW YORK, DECEMBER 30, 1882.
+
+Scientific American Supplement. Vol. XIV., No. 365.
+
+Scientific American established 1845
+
+Scientific American Supplement, $5 a year.
+
+Scientific American and Supplement, $7 a year.
+
+       *       *       *       *       *
+
+
+TABLE OF CONTENTS.
+
+
+I.    ENGINEERING AND MECHANICS.--Louis Favre, Constructor
+      of the St. Gothard Tunnel.--2 figures.--Portrait and
+      monument at Turin to commemorate the tunneling of the
+      Alps                                                      5817
+
+      The New Harbor of Vera Cruz.--New artificial harbor
+      for Vera Cruz.--Capt. Eads's plan.--1 figure.--Plan
+      of harbor and improvement                                 5818
+
+      Cost of Power to Make Flour                               5818
+
+      Driving gear Mechanism for Lift Hammers.--2 figures       5819
+
+      De Junker and Ruh's Machine for Cutting Annular
+      Wheels.--3 figures                                        5819
+
+      Recent Hydraulic Experiments.--Results of experiments
+      on the flow of water in the Ganges Canal                  5819
+
+      The Germ: Shall It be Retained in Flour? By Arthur
+      Atkins                                                    5820
+
+      Wheat Tests                                               5820
+
+II.   TECHNOLOGY AND CHEMISTRY.--Apparatus for Manufacturing
+      Gaseous or Aerated Beverages.--11 figures.--Bicarbonate
+      of soda apparatus. Generator. Washer.--Suction
+      pump.--Saturator.--Apparatus for using carbonate of
+      lime.--Apparatus completely mechanical in operation       5815
+
+      Detection and Estimation of Fusel Oil                     5816
+
+      On Silicon.--Curious formation of silicide of platinum    5816
+
+      Stannous Nitrates.--The formation of explosive
+      compounds in machines by the corrosion of bronze and
+      tin solder                                                5816
+
+      Metallic Thorium. By L.F. Nilson                          5816
+
+      Friedrich Wöhler.--Obituary notice of the great German
+      chemist                                                   5816
+
+      Apparatus for Printing by the Blue Process. By
+      Channing Whitaker.--3 figures                             5820
+
+III.  ELECTRICITY, LIGHT, HEAT, ETC.--Spectrum Gratings         5822
+
+      A New Pocket Opera Glass.--4 figures                      5822
+
+      Atoms, Molecules, and Ether Waves. By JOHN TYNDALL.
+      Action of heat and light on molecules.--Heat as an
+      agent in exploring molecular conditions.--The results
+      of a recent incursion into the extra-sensible world
+      of atoms and molecules                                    5823
+
+      Apparatus for Measuring Electricity at the Upper
+      School of Telegraphy. By E. MERCADIER.--5 figures.
+      Constant vibrator.--The Electrical tuning fork.
+      Arrangement for testing electric piles.--Very rapid
+      electric tuning fork.--A vibrating micrometer             5824
+
+IV.   NATURAL HISTORY.--Our Origin as a Species. By RICHARD
+      OWEN.--The Neanderthal skull.--Differential characters
+      between the lowest _Homo_ and the highest _Simia_         5825
+
+      The Aba or Odika. By Dr. W.H. BACHELER.--A remarkable
+      tree of West Africa                                       5826
+
+      California Cedars                                         5826
+
+       *       *       *       *       *
+
+
+APPARATUS FOR MANUFACTURING GASEOUS OR AERATED BEVERAGES.
+
+
+The apparatus employed at present for making gaseous beverages are
+divided into two classes--intermittent apparatus based on chemical
+compression, and continuous ones based on mechanical compression.
+
+The first are simple in appearance and occupy small space, but their use
+is attended with too great inconveniences and losses to allow them to be
+employed in cases where the manufacture is of any extent, so the
+continuous apparatus are more and more preferred by those engaged in the
+industry.
+
+Continuous apparatus, however, other than those that we now propose to
+occupy ourselves with, are not without some defects, for the gas is
+produced in them intermittingly and at intervals, and more rapidly than
+it is used, thus necessitating the use of a gasometer, numerous and
+large washers, complicated piping, and, besides, of an acid cock.
+
+To get rid of such drawbacks, it became necessary to seek a means of
+rendering the production of the gas continuous, and of regulating it
+automatically without the aid of the operator. Mr. Mondollot has
+obtained such a result through a happy modification of the primitive
+system of the English engineer Bramah. He preserves the suction and
+force pump but, while applying it to the same uses, he likewise employs
+it, by the aid of a special arrangement, so as to distribute the
+sulphuric acid automatically over the chalk in the generator, and to
+thus obtain a regular and continuous disengagement of carbonic acid gas.
+The dangers and difficulties in the maneuver of an acid cock are
+obviated, the gasometer and its cumbersome accessories are dispensed
+with, and the purification is more certain, owing to the regularity with
+which the gas traverses the washers.
+
+In the accompanying plate we have figured three types of these
+apparatus. The first that we shall describe is arranged for the use of
+bicarbonate of soda. This apparatus consists (1) of a _generator_, C D,
+(2) of a double _washer_ G G, (3) of a _suction pump_, P, and (4) of a
+_saturator_, S (See Figs 1 to 9).
+
+_The Generator._--This consists of a cylindrical leaden receptacle, D,
+on the bottom of which rests a leaden bell containing apertures, c, at
+its base. A partition, c, into which is screwed a leaden tube, C,
+containing apertures divides the interior of the bell into two
+compartments. The upper of these latter is surmounted by a mouth, B,
+closed by a clamp, and through which the bicarbonate of soda is
+introduced. A definite quantity of water and sulphuric acid having been
+poured into the receptacle, D, a level tends to take place between the
+latter and the bell, C, the liquid passing through the apertures. But
+the acidulated water, coming in contact with the soda, sets free
+carbonic acid gas, which, having no exit, forces the water back and
+stops the production of gas until the apparatus is set in motion. At
+this moment, the suction of the pump causes a new inflow of acidulated
+water upon the soda, from whence another disengagement of gas, and then
+a momentary forcing of the water, whose level thus alternately rises and
+falls and causes a continuous production of gas proportionate with the
+suction of the pump.
+
+The consumption of soda and acid is about 2 kilogrammes each for
+charging 100 siphons or 150 bottles. The bicarbonate is known to be used
+up when the liquid in the generator is seen to descend to the bottom of
+the water level, n, fixed to the vessel, D.
+
+_The Washer_ (Figs 1 and 4)--The gas, on leaving the generator, enters
+the washer through a bent copper pipe, R. The washer is formed of two
+ovoid glass flasks G G, mounted on a bronze piece, L, to which they are
+fixed by screw rings, l, of the same metal. The two flasks, G G,
+communicate with each other only through the tinned-copper tube q,
+which is held in the mounting q, of the same metal. This latter is
+screwed into the piece, L, and contains numerous apertures, through
+which the gas coming in from the pipe, R, passes to reach the upper
+flask, G. The gas is washed by bubbling up through water that has been
+introduced through the cock, R. After it has traversed both flasks, it
+escapes through the copper pipe, p, into which it is sucked by the
+pump, P.
+
+_The Pump_ (Figs 1, 5 and 6)--This consists of a cylindrical chamber, P,
+of bronze, bolted to a bracket on the frame, and cast in a piece, with
+the suction valve chamber, P, in which the valve, p, plays. It is
+surmounted by the distributing valve chamber P². This latter is held
+by means of two nuts screwed on to the extremity of the rods, p³,
+connected with the shell, E, of the distributing-cock, E. In the shell,
+E, terminates, on one side, the pipe, p, through which enters the gas
+from the washer, and, on the other, the pipe i, that communicates with
+a feed-reservoir not shown in the cuts. The cock E, permits of the
+simultaneous regulation of the entrance of the gas and water. Its
+position is shown by an index e, passing over a graduated dial, _e¹_.
+From the distributing valve chamber, P² the pipe, s, leads the
+mixture of water and gas under pressure into
+
+_The Saturator_, S (Figs 1, 7 and 9)--This consists of a large copper
+vessel, s, affixed to the top of the frame through the intermedium of
+a bronze collar h, and a self closing bottom H. This latter is
+provided with two pipes, one of which, s, leads the mixture of water
+and carbonic acid forced by the pump, and the other, b, communicates
+with the siphons or bottles to be filled. The pipe, b, is not affixed
+directly to the bottom, but is connected therewith through the
+intermedium of a cock, r. The object of the broken form of this pipe
+is to cause the pressure to act according to the axis of the screw, r,
+which is maneuvered by the key, r².
+
+The water under pressure, having been forced into the vessel, S, is
+submitted therein to an agitation that allows it to dissolve a larger
+quantity of gas. Such agitation is produced by two pairs of paddles, J
+J, mounted at the extremity of an axle actuated by the wheel, A, through
+the intermedium of gearings, g and g.
+
+The course of the operation in the saturator may be followed by an
+inspection of the water level, n, seen at the front and side in Figs.
+2 and 3. This apparatus, in which the pressure reaches 4 to 6
+atmospheres in the manufacture of Seltzer water or gaseous lemonade in
+bottles, and from 10 to 12 atmospheres in that of Seltzer water in
+siphons, is provided also with a pressure gauge, m, and a safety
+valve, both screwed, as is also the tube, n², into a sphere, S, on
+the top of the saturator.
+
+_Apparatus for Using Carbonate of Lime_ (Figs 2, 3, and 10)--When chalk
+is acted upon by sulphuric acid, there is formed an insoluble sulphate
+which, by covering the chalk, prevents the action of the acid from
+continuing if care be not taken to constantly agitate the materials.
+This has led to a change in the arrangement of the generator in the
+apparatus designed for the use of chalk.
+
+It consists in this case of a leaden vessel, D, having a hemispherical
+bottom set into a cylindrical cast iron base, K, and of an agitator
+similar to that shown in Fig. 11, for keeping the chalk in suspension in
+the water. These latter materials are introduced through the mouth, B
+(Fig. 3). Then a special receptacle, C, of lead, shown in detail in Fig.
+10, and the cock, c, of which is kept closed, is filled with sulphuric
+acid. The acid is not introduced directly into the vessel, C, but is
+poured into the cylinder, C, whose sides contain numerous apertures
+which prevent foreign materials from passing into the siphon tube c,
+and obstructing it.
+
+To put the apparatus in operation, the acid cock, c, is opened and the
+wheel, A, is turned, thus setting in motion both the pump piston, P, and
+the agitator, within S and D. Then the play of the pump produces a
+suction in the washers and from thence in the generator and causes the
+acid in the vessel, C, to flow into the generator through the leaden
+siphon tubes, c. Coming in contact with the chalk in suspension, the
+acid produces a disengagement of gas which soon establishes sufficient
+pressure to stop the flow of the acid and drive it back into the siphon
+tube. The play of the pump continuing, a new suction takes place and
+consequently a momentary flow of acid and a new disengagement of gas.
+Thus the production of the latter is continuous, and is regulated by the
+very action of the pump, without the operator having to maneuver an
+acid-cock. The latter he only has to open when he sets the apparatus in
+operation, and to close it when he stops it.
+
+The arrangement of the washer is the same as in the preceding apparatus,
+save that a larger cylindrical copper reservoir, G', is substituted for
+the lower flask. The pump and saturator offer nothing peculiar.
+
+A bent tube, u, which communicates with the generator, D, on one side,
+and with a cylindrical tube, V, ending in a glass vessel on the other,
+serves as a safety-valve for both the generator and the acid vessel.
+
+The consumption of chalk is about 2.5 kilogrammes, and the same of acid,
+for charging 100 siphons or 150 bottles. The apparatus shown in the
+figure is capable of charging 600 siphons or 900 bottles per day.
+
+_An Apparatus Completely Mechanical in Operation_ (Fig. 11).--This
+apparatus consists of two very distinct parts. The saturator, pump, and
+driving shaft are supported by a hollow base, in whose interior are
+placed a copper washer and the water-inlet controlled by a float-cock.
+This part of the apparatus is not shown in the plate. The generator,
+partially shown in Fig. 11, is placed on a base of its own, and is
+connected by a pipe with the rest of the apparatus. It consists of two
+similar generators, D, made of copper lined with lead, and working
+alternately, so as to avoid all stoppages in the manufacture when the
+materials are being renewed. The pipe, d, connecting the two parts of
+the apparatus forks so as to lead the gas from one or the other of the
+generators, whence it passes into the copper washer within the base,
+then into the glass indicating washer, and then to the pump which forces
+it into the saturator.
+
+Each of the generators communicates by special pipes, a, with a single
+safety vessel, V, that operates the same as in the preceding apparatus.
+The agitator, Q, is of bronze, and is curved as shown in Fig. 11.
+
+The production of this type of apparatus is dependent upon the number of
+siphons that can be filled by a siphon filler working without
+interruption.--_Machines, Outils et Appareils._
+
+       *       *       *       *       *
+
+
+DETECTION AND ESTIMATION OF FUSEL OIL.
+
+
+Until quite recently we have had no accurate method for the
+determination of fusel oil in alcohol or brandy. In 1837 Meurer
+suggested a solution of one part of silver nitrate in nine parts of
+water as a reagent for its detection, stating that when added to alcohol
+containing fusel oil, a reddish brown color is produced, and in case
+large quantities are present, a dark brown precipitate is formed. It was
+soon found, however, that other substances than amyl alcohol produce
+brown colored solutions with silver nitrate; and Bouvier[1] observed
+that on adding potassium iodide to alcohol containing fusel oil, the
+solution is colored yellow, from the decomposition of the iodide.
+Subsequently Böttger[2] proved that potassium iodide is not decomposed
+by pure amyl alcohol, and that the decomposition is due to the presence
+of acids contained in fusel oil. More accurate results are obtained by
+using a very dilute solution of potassium permanganate, which is
+decomposed by amyl alcohol much more rapidly than by ethyl alcohol.
+
+    [Footnote 1: Zeitschrift f. Anal. Chem. xi., 343.]
+
+    [Footnote 2: Dingler's Polytech. Jour., ccxii., 516.]
+
+Depré[3] determines fusel oil by oxidizing a definite quantity of the
+alcohol in a closed vessel with potassium bichromate and sulphuric acid.
+after removal of excess of the oxidizing reagents, the organic acids are
+distilled, and, by repeated fractional distillation, the acetic acid is
+separated as completely as possible. The remaining acids are saturated
+with barium hydroxide, and the salts analyzed; a difference between the
+percentage of barium found and that of barium in barium acetate proves
+the presence of fusel oil, and the amount of difference gives some idea
+of its quantity. Betelli[4] dilutes 5 c.c. of the alcohol to be tested
+with 6 to 7 volumes of water, and adds 15 to 20 drops of chloroform and
+shakes thoroughly. If fusel oil is present, its odor may be detected by
+evaporating the chloroform; or, by treatment with sulphuric acid and
+sodium acetate, the ether is obtained, which can be readily recognized.
+Jorissen[5] tests for fusel oil by adding 10 drops of colorless aniline
+and 2 to 3 drops of hydrochloric acid to 10 c.c. of the alcohol. In the
+presence of fusel oil a red color is produced within a short time, which
+can be detected when not more than 0.1 per cent. is present. But
+Foerster[6] objects to this method because he finds the color to be due
+to the presence of furfurol, and that pure amyl alcohol gives no color
+with aniline and hydrochloric acid.
+
+    [Footnote 3: Pharm. J. Trans. [3] vi., 867.]
+
+    [Footnote 4: Berichte d. Deutschen Chem. Gesellsch., viii., 72.]
+
+    [Footnote 5: Pharm. Centralhalle, xxii., 3.]
+
+    [Footnote 6: Berichte d. Deutsch. Chem. Gesellsch., xv., 230.]
+
+Hager[7] detects fusel oil as follows: If the spirit contains more than
+60 per cent. of alcohol, it is diluted with an equal volume of water and
+some glycerine added, pieces of filter paper are then saturated with the
+liquid and exposed to the After the evaporation of the alcohol, the odor
+of the fusel oil can be readily detected. For the quantitative
+determination he distills 100 c.c. of the alcohol in a flask of 150 to
+200 c.c. capacity connected with a condenser, and so arranged that the
+apparatus does not extend more than 20 cm. above the water bath. This
+arrangement prevents the fusel oil from passing over. If the alcohol is
+stronger than 70 per cent., and the height of the distillation apparatus
+is not more than 17 cm., the residue in the flask may be weighed as
+fusel oil. With a weaker alcohol, or an apparatus which projects further
+out of the water bath, the residual fusel oil is mixed with water. It
+can, however, be separated by adding strong alcohol and redistilling, or
+by treating with ether, which dissolves the amyl alcohol, and
+distilling, the temperature being raised finally to 60°.
+
+    [Footnote 7: Pharm. Centralhalle, xxii., 236.]
+
+Marquardt,[8] like Betelli, extracts the fusel oil from alcohol by means
+of chloroform, and by oxidation converts it into valeric acid. From the
+quantity of barium valerate found he calculates the amount of amyl
+alcohol present in the original solution; 150 c.c. of the spirit, which
+has been diluted so as to contain 12 to 15 per cent. of alcohol, are
+shaken up thoroughly with 50 c.c. of chloroform, the aqueous layer drawn
+off, and shaken with a fresh portion of chloroform. This treatment is
+repeated several times. The extracts are then united, and washed
+repeatedly with water. The chloroform, which is now free from alcohol
+and contains all the fusel oil, is treated with a solution of 5 grammes
+of potassium bichromate in 30 grammes of water and 2 grammes of
+sulphuric acid, and then heated in a closed flask for six hours on a
+water bath at 85°. The contents of the flask are then distilled, the
+distillate saturated with barium carbonate, and the chloroform
+distilled; the residue is evaporated to a small volume, the excess of
+barium carbonate filtered off, and the filtrate evaporated to dryness
+and weighed. The residue is dissolved in water, a few drops of nitric
+acid added, and the solution divided into two portions. In the first
+portion the barium is determined; in the second the barium chloride. The
+total per cent. of barium minus that of barium chloride gives the amount
+present as barium valerate, from which is calculated the per cent. of
+amyl alcohol. By this process the author has determined one part of
+fusel oil in ten thousand of alcohol. To detect very minute quantities
+of fusel oil, the chloroform extracts are treated with several drops of
+sulphuric acid and enough potassium permanganate to keep the solution
+red for twenty-four hours. If allowed to stand in a test tube, the odor
+of valeric aldehyde will first be noticed, then that of amyl valerate,
+and lastly that of valeric acid.--_Amer. Chem. Journal._
+
+    [Footnote 8: Berichte d. Deutsch. Chem. Gesellsch., xv., 1,370
+    and 1,663.]
+
+       *       *       *       *       *
+
+
+ON SILICON.
+
+
+It is known that platinum heated in a forge fire, in contact with
+carbon, becomes fusible. Boussingault has shown that this is due to the
+formation of a silicide of platinum by means of the reduction of the
+silica of the carbon by the metal. MM. P. Schützenberger and A. Colson
+have produced the same phenomenon by heating to white heat a slip of
+platinum in the center of a thick layer of lampblack free from silica.
+
+The increase in weight of the metal and the augmentation of its
+fusibility were found to be due, in this case also, to a combination
+with silicon. As the silicon could not come directly from the carbon
+which surrounded the platinum, MM. Schützenberger and Colson have
+endeavored to discover under what form it could pass from the walls of
+the crucible through a layer of lampblack several centimeters in
+thickness, in spite of a volatility amounting to almost nothing under
+the conditions of the experiment. They describe the following
+experiments as serving to throw some light upon the question:
+
+1. A thin slip of platinum rolled in a spiral is placed in a small
+crucible of retort carbon closed by a turned cover of the same material.
+This is placed in a second larger crucible of refractory clay, and the
+intervening space filled with lampblack tightly packed. The whole is
+then heated to white heat for an hour and a half in a good wind furnace.
+After cooling, the platinum is generally found to have been fused into a
+button, with a marked increase in weight due to taking up silicon, which
+has penetrated in the form of vapor through the walls of the interior
+crucible.
+
+2. If, in the preceding experiment, the lampblack be replaced by a
+mixture of lampblack and rutile in fine powder, the slip of platinum
+remains absolutely intact, and does not change in weight. Thus the
+titaniferous packing recommended by Sainte-Claire Deville for preventing
+the access of nitrogen in experiments at high temperatures also prevents
+the passage of silicon. A mixture of carbon and finely divided iron is,
+on the contrary, ineffectual. These facts seem to indicate that nitrogen
+plays a part in the transportation of the silicon, as this is only
+prevented by the same means made use of in order to prevent the passage
+of nitrogen.
+
+3. The volatility of free silicon at a high temperature is too slight to
+account for the alteration of the platinum at a distance. This can be
+shown by placing several decigrammes of crystallized silicon on the
+bottom of a small crucible of retort carbon, covering the silicon with a
+small flat disk of retort carbon upon which is placed the slip of
+platinum. The crucible, closed by its turned cover, is then enveloped in
+a titaniferous packing and kept at a brilliant white heat for an hour
+and a half. The metal is found to have only very slightly increased in
+weight, and its properties remain unaltered. This experiment was
+repeated several times with the same result. If, however, the
+crystallized silicon be replaced by powdered calcined silica, the
+platinum, placed upon the carbon disk, fuses and increases in weight,
+while the silica loses weight. The theory of these curious phenomena is
+very difficult to establish on account of the high temperatures which
+are necessary for their manifestation, but it may be concluded, at
+present, that nitrogen and probably oxygen also play some part in the
+transportation of the silicon across the intervening space, and that the
+carbosilicious compounds recently described by MM. Schützenberger and
+Colson also take part in the phenomenon.--_Comptes Rendus_, xciv.,
+1,710.--_Amer. Chem. Journal._
+
+       *       *       *       *       *
+
+
+STANNOUS NITRATES.
+
+
+At the Royal Powder Works at Spandau, Prussia, frequent ignition of the
+powder at a certain stage of the process led to an examination of the
+machinery, when it was found that where, at certain parts, bronze pieces
+which were soldered were in constant contact with the moist powder, the
+solder was much corroded and in part entirely destroyed, and that in the
+joints had collected a substance which, on being scraped out with a
+chisel, exploded with emission of sparks. It was suspected that the
+formation of this explosive material was in some way connected with the
+corrosion of the solder, and the subject was referred for investigation
+to Rudolph Weber, of the School of Technology, at Berlin. The main
+results of his investigation are here given.
+
+The explosive properties of the substance indicated a probable
+nitro-compound of one of the solder metals (tin and lead), and as the
+lead salts are more stable and better understood than those of tin, it
+was resolved to investigate the latter, in hope of obtaining a similar
+explosive compound. Experiments on the action of moist potassium nitrate
+on pure tin led to no result, as no explosive body was formed. Stannous
+nitrate, Sn(NO_{3})_{2}, formed by the action of dilute nitric acid on
+tin, has long been known, but only in solution, as it is decomposed on
+evaporating. By adding freshly precipitated moist brown stannous oxide
+to cool nitric acid of sp. gr. 1.20, as long as solution occurred, and
+then cooling the solution to -20°, Weber obtained an abundance of
+crystals of the composition Sn(NO_{3})_{2} + 20H_{2}O. They resemble
+crystals of potassium chlorate. They cannot be kept, as they liquefy at
+ordinary temperatures. An insoluble _basic_ salt was obtained by
+digesting an excess of moist stannous oxide in solution of stannous
+nitrate, or by adding to a solution of stannous nitrate by degrees, with
+constant stirring, a quantity of sodium carbonate solution insufficient
+for complete precipitation. Thus obtained, the basic salt, which has the
+composition Sn_{2}N_{2}O_{7}, is a snow-white crystalline powder, which
+is partially decomposed by water, and slowly oxidized by long exposure
+to the air, or by heating to 100°. By rapid heating to a higher
+temperature, as well as by percussion and friction, it explodes
+violently, giving off a shower of sparks. This compound is also formed
+when a fine spray of nitric acid (sp. gr. 1.20) is thrown upon a surface
+of tin or solder. It is also formed when tin or solder is exposed to the
+action of a solution of copper nitrate, and thus formed presents the
+properties already described.
+
+In this, then, we have a probable cause of the explosions occurring in
+the powder works; but the explanation of the formation of the substance
+is wanting, as potassium nitrate was shown not to give an explosive
+substance with tin. A thin layer of a mixture of sulphur and potassium
+nitrate was placed between sheets of tin and copper foil, and allowed to
+stand, being kept constantly moist. After a time the copper was found to
+have become coated with sulphide, while the tin was largely converted
+into the explosive basic nitrate. The conditions are obviously the same
+as those found in the powder machinery, where bronze and tin solder are
+constantly in contact with moist gunpowder. The chemical action is
+probably this: the sulphur of the powder forms, with the copper of the
+bronze, copper sulphide; this is oxidized to sulphate, which reacts with
+the niter of the powder, forming potassium sulphate and copper nitrate;
+the latter, as shown above, then forms with the tin of the solder the
+explosive basic nitrate, which, being insoluble, gradually collects in
+the joints, and finally leads to an explosion.--_Journal für Praktische
+Chemie._
+
+       *       *       *       *       *
+
+
+METALLIC THORIUM.
+
+By L.F. NILSON.
+
+
+The density of thorium as obtained by reducing the anhydrous chloride by
+means of sodium was found by Chydenius, 7.657 to 7.795. The author has
+obtained metallic thorium by heating sodium with the double anhydrous
+thorium potassium chloride, in presence of sodium chloride in an iron
+crucible. After treating the residue with water there remains a grayish,
+heavy, sparkling powder, which under the microscope appears to consist
+of very small crystals. Metallic thorium is brittle and almost
+infusible; the powder takes a metallic luster under pressure, is
+permanent in the air at temperatures up to 120°, takes fire below a red
+heat either in air or oxygen, and burns with a dazzling luster, leaving
+a residue of perfectly white thoria. If heated with chlorine, bromine,
+iodine, and sulphur, it combines with them with ignition. It is not
+attacked by water, cold or hot. Dilute sulphuric acid occasions the
+disengagement of hydrogen, especially if heated, but the metal is acted
+on very slowly. Concentrated sulphuric acid with the aid of heat attacks
+the metal very slightly, evolving sulphurous anhydride. Nitric acid,
+strong or weak, has no sensible action. Fuming hydrochloric acid and
+_aqua regia_ attack thorium readily, but the alkalies are without
+action. The metal examined by the author behaves with the reagents in
+question the same as did the specimens obtained by Berzelius. The mean
+specific gravity of pure thorium is about 11. Hence it would seem that
+the metal obtained by Chydenius must have contained much foreign matter.
+The specific gravity of pure thoria is 10.2207 to 10.2198. The
+equivalent and the density being known, we may calculate the atomic
+volume. If we admit that the metal is equivalent to 4 atoms of hydrogen,
+we obtain the value 21.1. This number coincides with the atomic volumes
+of zirconium (21.7), cerium (21.1), lanthanum (22.6), and didymium
+(21.5). This analogy is certainly not due to chance; it rather confirms
+the opinion which I have put forward in connection with my researches on
+the selenites, on certain chloro-platinates and chloro-platinites, etc.,
+that the elements of the rare earths form a series of quadrivalent
+metals.
+
+       *       *       *       *       *
+
+[AMERICAN CHEMICAL JOURNAL.]
+
+
+FRIEDRICH WÖHLER.
+
+
+No one but a chemist can appreciate the full significance of the brief
+message which came to us a month ago without warning--"Wöhler is dead!"
+What need be added to it? No chemist was better known or more honored
+than Wöhler, and none ever deserved distinction and honor more than he.
+His life was made up of a series of brilliant successes, which not only
+compelled the admiration of the world at large, but directed the
+thoughts of his fellow workers, and led to results of the highest
+importance to science.
+

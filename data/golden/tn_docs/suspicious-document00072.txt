@@ -1,0 +1,72 @@
+﻿That is to say, in modern terminology, the moon at this time
+lacks three degrees (one thirtieth of ninety degrees) of being at
+right angles with the line of the sun as viewed from the earth;
+or, stated otherwise, the angular distance of the moon from the
+sun as viewed from the earth is at this time eighty-seven
+degrees--this being, as we have already observed, the fundamental
+measurement upon which so much depends. We may fairly suppose
+that some previous paper of Aristarchus's has detailed the
+measurement which here is taken for granted, yet which of course
+could depend solely on observation.
+
+"Fifth. The diameter of the shadow [cast by the earth at the
+point where the moon's orbit cuts that shadow when the moon is
+eclipsed] is double the diameter of the moon."
+
+Here again a knowledge of previously established measurements is
+taken for granted; but, indeed, this is the case throughout the
+treatise.
+
+"Sixth. The arc subtended in the sky by the moon is a fifteenth
+part of a sign" of the zodiac; that is to say, since there are
+twenty-four, signs in the zodiac, one-fifteenth of one
+twenty-fourth, or in modern terminology, one degree of arc. This
+is Aristarchus's measurement of the moon to which we have already
+referred when speaking of the measurements of Archimedes.
+
+"If we admit these six hypotheses," Aristarchus continues, "it
+follows that the sun is more than eighteen times more distant
+from the earth than is the moon, and that it is less than twenty
+times more distant, and that the diameter of the sun bears a
+corresponding relation to the diameter of the moon; which is
+proved by the position of the moon when dichotomized. But the
+ratio of the diameter of the sun to that of the earth is greater
+than nineteen to three and less than forty-three to six. This is
+demonstrated by the relation of the distances, by the position
+[of the moon] in relation to the earth's shadow, and by the fact
+that the arc subtended by the moon is a fifteenth part of a
+sign."
+
+Aristarchus follows with nineteen propositions intended to
+elucidate his hypotheses and to demonstrate his various
+contentions. These show a singularly clear grasp of geometrical
+problems and an altogether correct conception of the general
+relations as to size and position of the earth, the moon, and the
+sun. His reasoning has to do largely with the shadow cast by the
+earth and by the moon, and it presupposes a considerable
+knowledge of the phenomena of eclipses. His first proposition is
+that "two equal spheres may always be circumscribed in a
+cylinder; two unequal spheres in a cone of which the apex is
+found on the side of the smaller sphere; and a straight line
+joining the centres of these spheres is perpendicular to each of
+the two circles made by the contact of the surface of the
+cylinder or of the cone with the spheres."
+
+It will be observed that Aristarchus has in mind here the moon,
+the earth, and the sun as spheres to be circumscribed within a
+cone, which cone is made tangible and measurable by the shadows
+cast by the non-luminous bodies; since, continuing, he clearly
+states in proposition nine, that "when the sun is totally
+eclipsed, an observer on the earth's surface is at an apex of a
+cone comprising the moon and the sun." Various propositions deal
+with other relations of the shadows which need not detain us
+since they are not fundamentally important, and we may pass to
+the final conclusions of Aristarchus, as reached in his
+propositions ten to nineteen.
+
+Now, since (proposition ten) "the diameter of the sun is more
+than eighteen times and less than twenty times greater than that
+of the moon," it follows (proposition eleven) "that the bulk of
+the sun is to that of the moon in ratio, greater than 5832 to 1,
+and less than 8000 to 1."
+

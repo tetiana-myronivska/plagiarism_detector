@@ -1,0 +1,179 @@
+﻿OBS. 17.--The pronoun _it_ very frequently refers to something mentioned
+subsequently in the sentence; as, "_It_ is useless _to complain_ of what is
+irremediable." This pronoun is a necessary expletive at the commencement of
+any sentence in which the verb is followed by a phrase or a clause which,
+by transposition, might be made the subject of the verb; as, "_It is
+impossible_ _to please every one_."--_W. Allen's Gram._ "_It_ was requisite
+_that the papers should be_ sent."--_Ib._ The following example is censured
+by the Rev. Matt. Harrison: "_It is really curious, the course_ which balls
+will sometimes take."--_Abernethy's Lectures_. "This awkward expression,"
+says the critic, "might have been avoided by saying, 'The course which
+balls will sometimes take is really curious.'"--_Harrison, on the English
+Language_, p. 147. If the construction is objectionable, it may, in this
+instance, be altered thus: "It is really curious, _to observe_ the course
+which balls will sometimes take!" So, it appears, we may avoid a _pleonasm_
+by an _addition_. But he finds a worse example: saying, "Again, in an
+article _from_ the 'New Monthly,' No. 103, we meet with the same form of
+expression, _but with an aggravated aspect_:--'It is incredible, the number
+of apothecaries' shops, presenting themselves.' It would be quite as easy
+to say, 'The number of apothecaries' shops, presenting themselves, is
+incredible.' "--_Ib._, p. 147. This, too, may take an infinitive, "_to
+tell_," or "_to behold_;" for there is no more extravagance in doubting
+one's eyes, than in declaring one's own statement "incredible." But I am
+not sure that the original form is not allowable. In the following line, we
+seem to have something like it:
+
+   "It curled not Tweed alone, that breeze."--_Sir W. Scott_.
+
+OBS. 18.--_Relative_ and _interrogative_ pronouns are placed at or near the
+beginning of their own clauses; and the learner must observe that, through
+all their cases, they almost invariably retain this situation in the
+sentence, and are found before their verbs even when the order of the
+construction would reverse this arrangement: as, "He _who_ preserves me, to
+_whom_ I owe my being, _whose_ I am, and _whom_ I serve, is
+eternal."--_Murray_, p. 159. "He _whom_ you seek."--_Lowth_.
+
+   "The good must merit God's peculiar care;
+    But _who_, but God, can tell us _who_ they are?"--_Pope_.
+
+OBS. 19.--A _relative_ pronoun, being the representative of some antecedent
+word or phrase, derives from this relation its person, number, and gender,
+but not its case. By taking an other relation of case, it helps to form an
+other clause; and, by retaining the essential meaning of its antecedent,
+serves to connect this clause to that in which the antecedent is found. No
+relative, therefore, can ever be used in an independent simple sentence, or
+be made the subject of a subjunctive verb, or be put in apposition with any
+noun or pronoun; but, like other connectives, this pronoun belongs at the
+head of a clause in a compound sentence, and excludes conjunctions, except
+when two such clauses are to be joined together, as in the following
+example: "I should be glad, at least, of an easy companion, _who_ may tell
+me his thoughts, _and_ to _whom_ I may communicate mine."--_Goldsmith's
+Essays_, p. 196.
+
+OBS. 20.--The two _special_ rules commonly given by the grammarians, for
+the construction of relatives, are not only unnecessary,[382] but faulty. I
+shall notice them only to show my reasons for discarding them. With whom
+they originated, it is difficult to say. Paul's Accidence has them, and if
+Dean Colet, the supposed writer, did not take them from some earlier
+author, they must have been first taught by _him_, about the year 1510; and
+it is certain that they have been copied into almost every grammar
+published since. The first one is faulty, because, "_When there cometh no
+nominative case between the relative and the verb, the relative shall_ [not
+always] _be the nominative case to the verb_;" as may be seen by the
+following examples: "Many are the works of human industry, _which_ to begin
+and finish are [say _is_] hardly granted to the same man."--_Dr. Johnson's
+Adv. to Dict._ "They aim at his removal; _which_ there is reason to fear
+they will effect."--"_Which_ to avoid, I cut them off."--_Shak., Hen. IV_.
+The second rule is faulty, because, "_When there cometh a nominative case
+between the relative and the verb, the relative shall_ [not always] _be
+such case as the verb will have after it_;" as may be seen by the following
+examples: "The author has not advanced any instances, _which_ he does not
+think _are_ pertinent."--_Murray's Gram._, i, 192. "_Which_ we have reason
+to think _was_ the case with the Greek and Latin."--_Ib._, 112. "Is this
+your son, _who_ ye say _was born_ blind?"--_John_, ix, 19. The case of the
+relative cannot be accurately determined by any rules of mere location. It
+may be nominative to a verb afar off, or it may be objective with a verb
+immediately following; as, "_Which_ I do not find that there ever
+_was_."--_Knight, on the Greek Alphabet_, p. 31. "And our chief reason for
+believing _which_ is that our ancestors did so before us."--_Philological
+Museum_, i, 641. Both these particular rules are useless, because the
+general rules for the cases, as given in chapter third above, are
+applicable to relatives, sufficient to all the purpose, and not liable to
+any exceptions.
+
+OBS. 21.--In syntactical parsing, each word, in general, is to be resolved
+by some _one_ rule; but the parsing of a pronoun commonly requires _two_;
+one for its agreement with the noun or nouns for which it stands, and an
+other for its case. The rule of agreement will be one of the four which are
+embraced in this present chapter; and the rule for the case will be one of
+the seven which compose chapter third. So that the whole syntax of pronouns
+requires the application of eleven different rules, while that of nouns or
+verbs is embraced in six or seven, and that of any other part of speech, in
+one only. In respect to their cases, relatives and interrogatives admit of
+every construction common to nouns, or to the personal pronouns, except
+apposition. This is proved by the following examples:
+
+1. Nominatives by Rule 2d: "I _who_ write;--Thou _who_ writest;--He _who_
+writes;--The animal _which_ runs."--_Dr. Adam_. "He _that spareth_ his rod,
+hateth his son."--_Solomon_. "He _who_ does any thing _which_ he knows is
+wrong, ventures on dangerous ground."--"_What_ will become of us without
+religion?"--_Blair_. "Here I determined to wait the hand of death; _which_,
+I hope, when at last it comes, _will fall_ lightly upon me."--_Dr.
+Johnson_. "_What is_ sudden and unaccountable, _serves_ to
+confound."--_Crabb_. "They only are wise, _who are_ wise to
+salvation."--_Goodwin_.
+
+2. Nominatives by Rule 6th: (i.e., words parsed as nominatives after the
+verbs, though mostly transposed:) "_Who_ art thou?"--_Bible_. "_What_ were
+we?"--_Ib._ "Do not tell them _who_ I am."--"Let him be _who_ he may, he is
+not the honest fellow _that_ he seemed."--"The general conduct of mankind
+is neither _what_ it was designed, nor _what_ it ought to be."
+
+3. Nominatives absolute by Rule 8th: "There are certain bounds to
+imprudence, _which being transgressed_, there remains no place for
+repentance in the natural course of things."--_Bp. Butler_. "_Which being
+so_, it need not be any wonder, why I should."--_Walker's Particles,
+Pref._, p. xiv. "He offered an apology, _which not being admitted_, he
+became submissive."--_Murray's Key_, p. 202. This construction of the
+relative is a Latinism, and very seldom used by the best _English_ writers.
+
+4. Possessives by Rule 4th: "The chief man of the island, _whose_ name was
+Publius."--_Acts_. "Despair, a cruel tyrant, from _whose_ prisons none can
+escape."--_Dr. Johnson_. "To contemplate on Him _whose_ yoke is easy and
+_whose_ burden is light."--_Steele_.
+
+5. Objectives by Rule 5th: "Those _whom_ she persuaded."--_Dr. Johnson_.
+"The cloak _that_ I left at Troas."--_St. Paul_. "By the things _which_ he
+suffered."--_Id._ "A man _whom_ there is reason to suspect."--"_What_ are
+we to do?"--_Burke_. "Love refuses nothing _that_ love sends."--_Gurnall_.
+"The first thing, says he, is, to choose some maxim or point of morality;
+to inculcate _which_, is to be the design of his work."--_Blair's Rhet._,
+p. 421. "_Whomsoever_ you please to appoint."--_Lowth_. "_Whatsover_
+[sic--KTH] he doeth, shall prosper."--_Bible_. "_What_ we are afraid to do
+before men, we should be afraid to think before God."--_Sibs_. "Shall I
+hide from Abraham that thing _which_ I do?"--_Gen._, xviii, 32. "Shall I
+hide from Abraham _what_ I am going to do?"--"Call imperfection _what_ thou
+fanciest such."--_Pope_.
+
+6. Objectives by Rule 6th: (i.e., pronouns parsed as objectives after
+neuter verbs, though they stand before them:) "He is not the man _that_ I
+took him to be."--"_Whom_ did you suppose me to be?"--"If the lad ever
+become _what_ you wish him to be."
+
+7. Objectives by Rule 7th: "To _whom_ shall we go?"--_Bible_. "The laws by
+_which_ the world is governed, are general."--_Bp. Butler_. "_Whom_ he
+looks upon as his defender."--_Addison_. "That secret heaviness of heart
+_which_ unthinking men are subject to."--_Id._ "I cannot but think the loss
+of such talents as the man of _whom_ I am speaking was master of, a more
+melancholy instance."--_Steele_. "Grammar is the solid foundation upon
+_which_ all other science rests."--_Buchanan's Eng. Synt._, p. xx.
+
+OBS. 22.--In familiar language, the relative of the objective case is
+frequently understood; as, "The man [_whom_] I trust."--_Cowper_. "Here is
+the letter [_which_] I received." So in the following sentences: "This is
+the man they hate. These are the goods they bought. Are these the Gods they
+worship? Is this the woman you saw?"--_Ash's Gram._, p. 96. This ellipsis
+seems allowable only in the familiar style. In grave writing, or deliberate
+discourse, it is much better to express this relative. The omission of it
+is often attended with some obscurity; as, "The next error [_that_] I shall
+mention [,] is a capital one."--_Kames, El. of Crit._, ii, 157. "It is
+little [_that_] we know of the divine perfections."--_Scougal_, p. 94. "The
+faith [_which_] we give to memory, may be thought, on a superficial view,
+to be resolvable into consciousness, as well as that [_which_] we give to
+the immediate impressions of sense."--_Campbell's Rhet._, p. 53. "We speak
+that [_which_] we do know, and testify that [_which_] we have
+seen."--_John_, iii, 11. The omission of a relative in the nominative case,
+is almost always inelegant; as, "This is the worst thing [_that_] could
+happen."--"There were several things [_which_] brought it upon
+me."--_Pilgrim's Progress_, p. 162. The latter ellipsis may occur after
+_but_ or _than_, and it is also sometimes allowed in poetry; as, [There is]
+"No person of reflection but [who] must be sensible, that an incident makes
+a stronger impression on an eye-witness, than when heard at second
+hand."--_Kames, El. of Crit._, ii, 257.
+
+   "In this 'tis God directs, in that 'tis man."--_Pope, on Man_.
+
+    "Abuse on all he lov'd, or lov'd him, spread."--_Id., to Arbuthnot_.
+
+    "There's nothing blackens like the ink of fools."--_Id., to Augustus_.
+

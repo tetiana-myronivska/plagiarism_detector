@@ -1,0 +1,641 @@
+﻿Produced by Arno Peters, David Moynihan, Charles Franks
+and the Online Distributed Proofreading Team.
+
+
+[Transcriber's Note: In this plain-text rendering,
+ .'. means therefore
+ [alpha], [beta], ..., [Alpha], [Beta], ... for Greek symbols]
+
+
+DEDUCTIVE LOGIC
+
+BY
+
+ST. GEORGE STOCK, M.A.
+
+PEMBROKE COLLEGE, OXFORD
+
+
+PREFACE.
+
+One critic, who was kind enough to look at this book in manuscript,
+recommended me to abandon the design of Publishing it, on the ground
+that my logic was too like all other logics; another suggested to me
+to cut out a considerable amount of new matter. The latter advice I
+have followed; the former has encouraged me to hope that I shall not
+be considered guilty of wanton innovation.  The few novelties which I
+have ventured to retain will, I trust, be regarded as legitimate
+extensions of received lines of teaching.
+
+My object has been to produce a work which should be as thoroughly
+representative of the present state of the logic of the Oxford Schools
+as any of the text-books of the past. The qualities which I have aimed
+at before all others have been clearness and consistency. For the task
+which I have taken upon myself I may claim one qualification--that of
+experience; since more than seventeen years have now elapsed since I
+took my first pupil in logic for the Honour School of Moderations, and
+during that time I have been pretty continuously engaged in studying
+and teaching the subject.
+
+In acknowledging my obligations to previous writers I must begin with
+Archbishop Whately, whose writings first gave me an interest in the
+subject. The works of Mill and Hamilton have of course been freely
+drawn upon. I have not followed either of those two great writers
+exclusively, but have endeavoured to assimilate what seemed best in
+both. To Professor Fowler I am under a special debt. I had not the
+privilege of personal teaching from him in logic,--as I had in some
+other subjects; but his book fell into my hands at an early period in
+my mental training, and was so thoroughly studied as to have become a
+permanent part of the furniture of my mind. Much the same may be said
+of my relation to the late Professor Jevons's Elementary Lessons in
+Logic.  Two other books, which I feel bound to mention with special
+emphasis, are Hansel's edition of Aldrich and McCosh's Laws of
+Discursive Thought. If there be added to the foregoing Watts's Logic,
+Thomson's Outlines of the Laws of Thought, Bain's Deductive Logic,
+Jevons's Studies in Deductive Logic and Principles of Science,
+Bradley's Principles of Logic, Abbott's Elements of Logic, Walker's
+edition of Murray, Ray's Text-book of Deductive Logic, and
+Weatherley's Rudiments of Logic, I think the list will be exhausted of
+modern works from which I am conscious of having borrowed. But, not to
+forget the sun, while thanking the manufacturers of lamps and candles,
+I should add that I have studied the works of Aristotle according to
+the measure of my time and ability.
+
+This work has had the great advantage of having been revised, while
+still in manuscript, by Mr. Alfred Robinson, Fellow of New College, to
+whom I cannot sufficiently express my obligation. I have availed
+myself to the full of the series of criticisms which he was kind
+enough to send me. As some additions have been made since then, he
+cannot be held in anyway responsible for the faults which less kindly
+critics may detect.
+
+For the examples at the end I am mainly indebted to others, and to a
+large extent to my ingenious friend, the Rev. W. J. Priest of Merton
+College.
+
+My thanks are due also to my friend and former pupil, Mr. Gilbert
+Grindle, Scholar of Corpus, who has been at the pains to compose an
+index, and to revise the proofs as they passed through the press.
+
+And last, but not least, I must set on record my gratitude to
+Commander R. A. Stock, R.N., one of Her Majesty's Knights of Windsor,
+without whose brotherly aid this work might never have been written,
+and would certainly not have assumed exactly its present shape.
+
+OXFORD,
+
+_October_ 22, 1888.
+
+
+CONTENTS.
+
+PREFACE.
+
+INTRODUCTION, §§ 1-56.
+
+PART I. Of Terms, §§ 57-171.
+
+  CHAP. I. Of the Term as distinguished from other words, §§ 57-76.
+
+  II. Of the Division of Things, §§ 77-85.
+
+  III. Of the Divisions of Terms, §§ 86-165.
+
+  IV. Of the Law of Inverse Variation of Extension and Intension, §§
+  166-171.
+
+PART II. Of Propositions, §§ 172-185.
+
+  CHAP. I. Of the Proposition as distinguished from other Sentences,
+  §§ 172-185.
+
+  II. Of the Copula, §§ 186-201.
+
+  III. Of the Divisions of Propositions, §§ 202-273.
+
+  IV. Of the Distribution of Terms, §§ 274-294.
+
+  V. Of the Quantification of the Predicate, §§ 295-312.
+
+  VI. Of the Heads of Predicables, §§ 313-346.
+
+  VII. Of Definition, §§ 347-384.
+
+  VIII. Of Division, §§ 385-425.
+
+PART III. Of Inferences, §§ 426-884.
+
+  CHAP. I. Of Inferences in general, §§ 426-441.
+
+  II. Of Deductive Inferences, §§ 442-448.
+
+  III. Of Opposition, §§ 449-478.
+
+  IV. Of Conversion, §§ 479-495.
+
+  V. Of Permutation, §§ 496-502.
+
+  VI. Of Compound Forms of Immediate Inference, §§ 503-532.
+
+  VII. Of Other Forms of Immediate Inference, §§ 533-539.
+
+  VIII. Of Mediate Inferences or Syllogisms, §§ 540-557.
+
+  IX. Of Mood and Figure, §§ 558-568.
+
+  X. Of the Canon of Reasoning, §§ 569-581.
+
+  XI. Of the General Rules of Syllogism, §§ 582-598.
+
+  XII. Of the Determination of the Legitimate Moods of Syllogism, §§
+  599-605.
+
+  XIII. Of the Special Rules of the Four Figures, §§ 606-620.
+
+  XIV. Of the Determination of the Moods that are valid in the Four
+  Figures, §§ 621-632.
+
+  XV. Of the Special Canons of the Four Figures, §§ 633-647.
+
+  XVI. Of the Special Uses of the Four Figures, §§ 648-655.
+
+  XVII. Of the Syllogism with Three Figures, §§ 656-666.
+
+  XVIII. Of Reduction, §§ 667-700.
+
+  XIX. Of Immediate Inference as applied to Complex Propositions, §§
+  701-730.
+
+  XX. Of Complex Syllogisms, §§ 731-743.
+
+  XXI. Of the Reduction of the Partly Conjunctive Syllogism, §§
+  744-752.
+
+  XXII. Of the Partly Conjunctive Syllogism regarded as all Immediate
+  Inference, §§ 753-759.
+
+  XXIII. Of the Disjunctive Syllogism, §§ 760-765.
+
+  XXIV. Of the Reduction of the Disjunctive Syllogism, §§ 766-769.
+
+  XXV. Of the Disjunctive Syllogism regarded as an Immediate
+  Inference, §§ 770-777.
+
+  XXVI. Of the Mixed Form of Complex Syllogism, §§ 778-795.
+
+  XXVII. Of the Reduction of the Dilemma, §§ 796-797.
+
+  XXVIII. Of the Dilemma regarded as an Immediate Inference, §§
+  798,799.
+
+  XXIX. Of Trains of Reasoning, §§ 800-826.
+
+  XXX. Of Fallacies, §§ 827-884.
+
+EXERCISES.
+
+INDEX.
+
+
+INTRODUCTION.
+
+§ 1. LOGIC is divided into two branches, namely--
+
+  (1) Inductive,
+
+  (2) Deductive.
+
+§ 2. The problem of inductive logic is to determine the actual truth
+or falsity of propositions: the problem of deductive logic is to
+determine their relative truth or falsity, that is to say, given such
+and such propositions as true, what others will follow from them.
+
+§ 3. Hence in the natural order of treatment inductive logic precedes
+deductive, since it is induction which supplies us with the general
+truths, from which we reason down in our deductive inferences.
+
+§ 4. It is not, however, with logic as a whole that we are here
+concerned, but only with deductive logic, which may be defined as The
+Science of the Formal Laws of Thought.
+
+§ 5. In order fully to understand this definition we must know exactly
+what is meant by 'thought,' by a 'law of thought,' by the term
+'formal,' and by 'science.'
+
+§ 6. Thought, as here used, is confined to the faculty of
+comparison. All thought involves comparison, that is to say, a
+recognition of likeness or unlikeness.
+
+§ 7. The laws of thought are the conditions of correct thinking. The
+term 'law,' however, is so ambiguous that it will be well to determine
+more precisely in what sense it is here used.
+
+§ 8. We talk of the 'laws of the land' and of the 'laws of nature,'
+and it is evident that we mean very different things by these
+expressions. By a law in the political sense is meant a command
+imposed by a superior upon an inferior and sanctioned by a penalty for
+disobedience.  But by the 'laws of nature' are meant merely certain
+uniformities among natural phenomena; for instance, the 'law of
+gravitation' means that every particle of matter does invariably
+attract every other particle of matter in the universe.
+
+§ 9. The word 'law' is transferred by a metaphor from one of these
+senses to the other. The effect of such a command as that described
+above is to produce a certain amount of uniformity in the conduct of
+men, and so, where we observe uniformity in nature, we assume that it
+is the result of such a command, whereas the only thing really known
+to us is the fact of uniformity itself.
+
+§ 10. Now in which of these two senses are we using the term 'laws of
+thought'? The laws of the land, it is plain, are often violated,
+whereas the laws of nature never can be so [Footnote: There is a sense
+in which people frequently speak of the laws of nature being violated,
+as when one says that intemperance or celibacy is a violation of the
+laws of nature, but here by 'nature' is meant an ideal perfection in
+the conditions of existence.]. Can the laws of thought be violated in
+like manner with the laws of the land? Or are they inviolable like the
+laws of nature?
+
+§ 11. In appearance they can be, and manifestly often are violated-for
+how else could error be possible? But in reality they can not. No man
+ever accepts a contradiction when it presents itself to the mind as
+such: but when reasoning is at all complicated what does really
+involve a contradiction is not seen to do so; and this sort of error
+is further assisted by the infinite perplexities of language.
+
+§ 12. The laws of thought then in their ultimate expression are
+certain uniformities which invariably hold among mental phenomena, and
+so far they resemble the laws of nature: but in their complex
+applications they may be violated owing to error, as the laws of the
+land may be violated by crime.
+
+§ 13. We have now to determine the meaning of the expression 'formal
+laws of thought.'
+
+§ 14. The distinction between form and matter is one which pervades
+all nature. We are familiar with it in the case of concrete things. A
+cup, for instance, with precisely the same form, may be composed of
+very different matter-gold, silver, pewter, horn or what not?
+
+§ 15. Similarly in every act of thought we may distinguish two
+things--
+
+  (1) the object thought about,
+
+  (2) the way in which the mind thinks of it.
+
+The first is called the Matter; the second the Form of Thought.
+
+§ 16. Now Formal, which is another name for Deductive Logic, is
+concerned only with the way in which the mind thinks, and has nothing
+to do with the particular objects thought about.
+
+§ 17. Since the form may be the same, whilst the matter is different,
+we may say that formal logic is concerned with the essential and
+necessary elements of thought as opposed to such as are accidental and
+contingent. By 'contingent' is meant what holds true in some cases,
+but not in others. For instance, in the particular case of equilateral
+triangles it is true to say, not only that 'all equilateral triangles
+are equiangular,' but also that 'all equiangular triangles are
+equilateral.' But the evidence for these two propositions is
+independent. The one is not a formal consequence of the other. If it
+were, we should be able to apply the same inference to all matter, and
+assert generally that if all A is B, all B is A, which it is notorious
+that we cannot do.
+
+§ 18. It remains now for the full elucidation of our definition to
+determine what is meant by 'science.'
+
+§ 19. The question has often been discussed whether logic is a science
+or an art. The answer to it must depend upon the meaning we assign to
+these terms.
+
+§ 20. Broadly speaking, there is the same difference between Science
+and Art as there is between knowing and doing.
+
+  Science is systematized knowledge;
+  Art is systematized action.
+  Science is acquired by study;
+  Art is acquired by practice.
+
+§ 21. Now logic is manifestly a branch of knowledge, and does not
+necessarily confer any practical skill. It is only the right use of
+its rules in thinking which can make men think better. It is
+therefore, in the broad sense of the terms, wholly a science and not
+at all an art.
+
+§ 22. But this word 'art,' like most others, is ambiguous, and is
+often used, not for skill displayed in practice, but for the knowledge
+necessary thereto. This meaning is better conveyed by the term
+'practical science.'
+
+§ 23. Science is either speculative or practical. In the first case we
+study merely that we may know; in the latter that we may do.
+
+  Anatomy is a speculative science;
+  Surgery is a practical science.
+
+In the first case we study the human frame in order that we may
+understand its structure; in the second that we may assist its
+needs. Whether logic is a speculative or a practical science depends
+entirely upon the way in which it is treated. If we study the laws of
+thought merely that we may know what they are, we are making it a
+speculative science; if we study the same laws with a view to deducing
+rules for the guidance of thought, we are making it a practical
+science.
+
+§ 24. Hence logic may be declared to be both the science and the art
+of thinking. It is the art of thinking in the same sense in which
+grammar is the art of speaking.  Grammar is not in itself the right
+use of words, but a knowledge of it enables men to use words
+correctly. In the same way a knowledge of logic enables men to think
+correctly, or at least to avoid incorrect thoughts. As an art logic
+may be called the navigation of the sea of thought.
+
+§ 25. The laws of thought are all reducible to the three following
+axioms, which are known as The Three Fundamental Laws of Thought.
+
+  (1) The Law of Identity--
+
+    Whatever is, is;
+
+  or, in a more precise form,
+
+    Every A is A.
+
+  (2) The Law of Contradiction--
+
+    Nothing can both be and not be;
+    Nothing can be A and not A.
+
+  (3) The Law of Excluded Middle--
+
+    Everything must either be or not be;
+    Everything is either A or not A.
+
+§ 26. Each of these principles is independent and self-evident.
+
+§ 27. If it were possible for the law of identity to be violated, no
+violation of the law of contradiction would necessarily ensue: for a
+thing might then be something else, without being itself at the same
+time, which latter is what the law of contradiction militates
+against. Neither would the law of excluded middle be infringed. For,
+on the supposition, a thing would be something else, whereas all that
+the law of excluded middle demands is that it should either be itself
+or not. A would in this case adopt the alternative of being not A.
+
+§ 28. Again, the violation of the law of contradiction does not
+involve any violation of the law of identity: for a thing might in
+that case be still itself, so that the law of identity would be
+observed, even though, owing to the law of contradiction not holding,
+it were not itself at the same time. Neither would the law of excluded
+middle be infringed. For a thing would, on the supposition, be both
+itself and not itself, which is the very reverse of being neither.
+
+§ 29. Lastly, the law of excluded middle might be violated without a
+violation of the law of contradiction: for we should then have a thing
+which was neither A nor not A, but not a thing which was both at the
+same time.  Neither would the law of identity be infringed. For we
+should in this case have a thing which neither was nor was not, so
+that the conditions of the law of identity could not exist to be
+broken. That law postulates that whatever is, is: here we have a thing
+which never was to begin with.
+
+§ 30. These principles are of so simple a character that the
+discussion of them is apt to be regarded as puerile.  Especially is
+this the case with regard to the law of identity. This principle in
+fact is one of those things which are more honoured in the breach than
+in the observance. Suppose for a moment that this law did not
+hold--then what would become of all our reasoning?  Where would be the
+use of establishing conclusions about things, if they were liable to
+evade us by a Protean change of identity?
+
+§ 31. The remaining two laws supplement each other in the following
+way. The law of contradiction enables us to affirm of two exhaustive
+and mutually exclusive alternatives, that it is impossible for both to
+be true; the law of excluded middle entitles us to add, that it is
+equally impossible for both to be false. Or, to put the same thing in
+a different form, the law of contradiction lays down that one of two
+such alternatives must be false; the law of excluded middle adds that
+one must be true.
+
+§32. There are three processes of thought
+
+  (1) Conception.
+
+  (2) Judgement.
+
+  (3) Inference or Reasoning.
+
+§ 33. Conception, which is otherwise known as Simple Apprehension, is
+the act of forming in the mind the idea of anything, e.g. when we form
+in the mind the idea of a cup, we are performing the process of
+conception.
+
+§ 34. Judgement, in the sense in which it is here used [Footnote:
+Sometimes the term 'judgement' is extended to the comparison of
+nameless sense-impressions, which underlies the formation of
+concepts. But this amounts to identifying judgement with thought in
+general.]  may be resolved into putting two ideas together in the
+mind, and pronouncing as to their agreement or disagreement, e.g. we
+have in our minds the idea of a cup and the idea of a thing made of
+porcelain, and we combine them in the judgement--'This cup is made of
+porcelain.'
+
+§ 35. Inference, or Reasoning, is the passage of the mind from one or
+more judgements to another, e.g. from the two judgements 'Whatever is
+made of porcelain is brittle,' and 'This cup is made of porcelain,' we
+elicit a third judgement, 'This cup is brittle.'
+
+§ 36. Corresponding to these three processes there are three products
+of thought, viz.
+
+  (1) The Concept.
+
+  (2) The Judgement.
+
+  (3) The Inference.
+
+§ 37. Since our language has a tendency to confuse the distinction
+between processes and products, [Footnote: E.g. We have to speak quite
+indiscriminately of Sensation, Imagination, Reflexion, Sight, Thought,
+Division, Definition, and so on, whether we mean in any case a process
+or a product.] it is the more necessary to keep them distinct in
+thought. Strictly we ought to speak of conceiving, judging and
+inferring on the one hand, and, on the other, of the concept, the
+judgement and the inference.
+
+The direct object of logic is the study of the products rather than of
+the processes of thought. But, at the same time, in studying the
+products we are studying the processes in the only way in which it is
+possible to do so.  For the human mind cannot be both actor and
+spectator at once; we must wait until a thought is formed in our minds
+before we can examine it. Thought must be already dead in order to be
+dissected: there is no vivisection of consciousness. Thus we can never
+know more of the processes of thought than what is revealed to us in
+their products.
+
+§ 38. When the three products of thought are expressed in language,
+they are called respectively
+
+  (1) The Term.
+
+  (2) The Proposition.
+
+  (3) The Inference.
+
+§ 39. Such is the ambiguity of language that we have already used the
+term 'inference' in three different senses--first, for the act or
+process of inferring; secondly, for the result of that act as it
+exists in the mind; and, thirdly, for the same thing as expressed in
+language.  Later on we shall have to notice a further ambiguity in its
+use.
+
+§ 40. It has been declared that thought in general is the faculty of
+comparison, and we have now seen that there are three products of
+thought. It follows that each of these products of thought must be the
+result of a comparison of some kind or other.
+
+  The concept is the result of comparing attributes.
+  The judgement is the result of comparing concepts.
+  The inference is the result of comparing judgements.
+
+§ 41. In what follows we shall, for convenience, adopt the phraseology
+which regards the products of thought as clothed in language in
+preference to that which regards the same products as they exist in
+the mind of the individual. For although the object of logic is to
+examine thought pure and simple, it is obviously impossible to discuss
+it except as clothed in language. Accordingly the three statements
+above made may be expressed as follows--
+
+  The term is the result of comparing attributes.
+  The proposition is the result of comparing terms.
+  The inference is the result of comparing propositions.
+
+§ 42. There is an advantage attending the change of language in the
+fact that the word 'concept' is not an adequate expression for the
+first of the three products of thought, whereas the word 'term' is. By
+a concept is meant a general notion, or the idea of a class, which
+corresponds only to a common term. Now not only are common terms the
+results of comparison, but singular terms, or the names of
+individuals, are so too.
+
+§ 43. The earliest result of thought is the recognition of an
+individual object as such, that is to say as distinguished and marked
+off from the mass of its surroundings. No doubt the first impression
+produced Upon the nascent intelligence of an infant is that of a
+confused whole. It requires much exercise of thought to distinguish
+this whole into its parts. The completeness of the recognition of an
+individual object is announced by attaching a name to it. Hence even
+an individual name, or singular term, implies thought or
+comparison. Before the _child_ can attach a meaning to the word
+'_mother_,' which to it is a singular term, it must have
+distinguished between the set of impressions produced in it by one
+object from those which are produced in it by others.  Thus, when
+Vergil says
+
+  Incipe, parve puer, risu cognoscere matrem,
+
+he is exhorting the beatific infant to the exercise of the faculty of
+comparison.
+
+§ 44. That a common term implies comparison does not need to be
+insisted upon. It is because things resemble each other in certain of
+their attributes that we call them by a common name, and this
+resemblance could not be ascertained except by comparison, at some
+time and by some one. Thus a common term, or concept, is the
+compressed result of an indefinite number of comparisons, which lie
+wrapped up in it like so many fossils, witnessing to prior ages of
+thought.
+
+§ 45. In the next product of thought, namely, the proposition, we have
+the result of a single act of comparison between two terms; and this
+is why the proposition is called the unit of thought, as being the
+simplest and most direct result of comparison.
+
+§ 46. In the third product of thought, namely, the inference, we have
+a comparison of propositions either directly or by means of a
+third. This will be explained later on. For the present we return to
+the first product of thought.
+
+§ 47. The nature of singular terms has not given rise to much dispute;
+but the nature of common terms has been the great battle-ground of
+logicians. What corresponds to a singular term is easy to determine,
+for the thing of which it is a name is there to point to: but the
+meaning of a common term, like 'man' or 'horse,' is not so obvious as
+people are apt to think on first hearing of the question.
+
+§ 48. A common term or class-name was known to mediæval logicians
+under the title of a Universal; and it was on the question 'What is a
+Universal 7' that they split into the three schools of Realists,
+Nominalists, and Conceptualists. Here are the answers of the three
+schools to this question in their most exaggerated form--
+
+§ 49. Universals, said the Realists, are substances having an
+independent existence in nature.
+
+§ 50. Universals, said the Nominalists, are a mere matter of words,
+the members of what we call a class having nothing in common but the
+name.
+
+§ 51. Universals, said the Conceptualists, exist in the mind alone,
+They are the conceptions under which the mind regards external
+objects.
+
+§ 52. The origin of pure Realism is due to Plato and his doctrine of
+'ideas'; for Idealism, in this sense, is not opposed to Realism, but
+identical with it. Plato seems to have imagined that, as there was a
+really existing thing corresponding to a singular term, such as
+Socrates, so there must be a really existing thing corresponding to
+the common term 'man.' But when once the existence of these general
+objects is admitted, they swamp all other existences. For individual
+men are fleeting and transitory--subject to growth, decay and
+death--whereas the idea of man is imperishable and eternal. It is only
+by partaking in the nature of these ideas that individual objects
+exist at all.
+
+§ 53. Pure Nominalism was the swing of the pendulum of thought to the
+very opposite extreme; while Conceptualism was an attempt to hit the
+happy mean between the two.
+
+§ 54. Roughly it may be said that the Realists sought for the answer
+to the question 'What is a Universal?' in the matter of thought, the
+Conceptualists in the form, and the Nominalists in the expression.
+
+§ 55. A full answer to the question 'What is a Universal?' will bring
+in something of the three views above given, while avoiding the
+exaggeration of each. A Universal is a number of things that are
+called by the same name; but they would not be called by the same name
+unless they fell under the same conception in the mind; nor would they
+fall under the same conception in the mind unless there actually
+existed similar attributes in the several members of a class, causing
+us to regard them under the same conception and to give them the same
+name. Universals therefore do exist in nature, and not merely in the
+mind of man: but their existence is dependent upon individual objects,
+instead of individual objects depending for their existence upon
+them. Aristotle saw this very clearly, and marked the distinction
+between the objects corresponding to the singular and to the common
+term by calling the former Primary and the latter Secondary
+Existences. Rosinante and Excalibur are primary, but 'horse' and
+'sword' secondary existences.
+
+§ 56. We have seen that the three products of thought are each one
+stage in advance of the other, the inference being built upon the
+proposition, as the proposition is built upon the term. Logic
+therefore naturally divides itself into three parts.
+
+  The First Part of Logic deals with the Term;
+  The Second Part deals with the Proposition;
+  The Third Part deals with the Inference.
+
+
+PART I.--OF TERMS.
+
+
+CHAPTER 1.
+
+_Of the Term as distinguished from other words._
+
+
+§ 57. The word 'term' means a boundary.
+

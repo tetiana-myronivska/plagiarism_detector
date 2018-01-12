@@ -1,0 +1,1026 @@
+﻿Produced by Carlos Traverso, Verity White, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Bibliothèque nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr)
+
+
+SMITHSONIAN INSTITUTION--BUREAU OF ETHNOLOGY.
+
+ORIGIN AND DEVELOPMENT
+
+OF
+
+FORM AND ORNAMENT IN CERAMIC ART.
+
+BY
+
+WILLIAM H. HOLMES.
+
+
+CONTENTS.
+
+
+                                              Page.
+
+Introductory                                    443
+  Origin of form                                445
+    By adventition                              445
+    By imitation                                445
+    By invention                                450
+  Modification of form                          450
+     By adventition                             450
+     By intention                               452
+  Origin of ornament                            453
+    From natural objects                        454
+    From artificial objects                     455
+      Functional features                       455
+      Constructional features                   456
+    From accidents attending construction       457
+    From ideographic and pictorial subjects     457
+  Modification of ornament                      457
+    Through material                            458
+    Through form                                458
+    Through methods of realization              459
+
+
+ILLUSTRATIONS.
+
+
+FIG. 464.--Form derived from a gourd                            446
+     465.--Form derived from a conch, shell                     447
+     466.--Form derived from a stone pot                        448
+     467.--Form derived from a wooden tray                      448
+     468.--Form derived from a horn spoon                       448
+     469.--Form derived from a bark vessel                      446
+     470.--Form derived from basketry                           449
+     471.--Form derived from basketry                           449
+     472.--Form derived from a wooden vessel                    449
+     473.--Coincident forms                                     451
+     474.--Form produced by accident                            451
+     475.--Scroll derived from the spire of a conch shell       454
+     476.--Theoretical development of current scroll            455
+     477.--Ornament derived through modification of handles     455
+     478.--Scroll derived from coil of clay                     456
+     479.--Ornamental use of fillets of clay                    456
+     480.--Variation through, the influence of form             459
+     481.--Theoretical development of the current scroll        460
+     482.--Forms of the same motive expressed in different arts 461
+     483.--Forms of the same motive expressed in different arts 461
+     484.--Forms of the same motive expressed in different arts 461
+     485.--Geometric form of textile ornament                   462
+     486.--Loss of geometric accuracy in painting               462
+     487.--Design painted upon pottery                          463
+     488.--Theoretical development of fret work                 464
+     489.--Theoretical development of scroll work               465
+
+
+ORIGIN AND DEVELOPMENT OF FORM AND ORNAMENT
+IN CERAMIC ART.
+
+BY WILLIAM H. HOLMES.
+
+
+INTRODUCTORY.
+
+For the investigation of art in its early stages and in its widest
+sense--there is probably no fairer field than that afforded by
+aboriginal America, ancient and modern.
+
+At the period of discovery, art at a number of places on the American
+continent seems to have been developing surely and steadily, through the
+force of the innate genius of the race, and the more advanced nations
+were already approaching the threshold of civilization; at the same time
+their methods were characterized by great simplicity, and their art
+products are, as a consequence, exceptionally homogeneous.
+
+The advent of European civilization checked the current of growth, and
+new and conflicting elements were introduced necessarily disastrous to
+the native development.
+
+There is much, however, in the art of living tribes, especially of those
+least influenced by the whites, capable of throwing light upon the
+obscure passages of precolumbian art. By supplementing the study of the
+prehistoric by that of historic art, which is still in many cases in its
+incipient stages, we may hope to penetrate deeply into the secrets of
+the past.
+
+The advantages of this field, as compared with Greece, Egypt, and the
+Orient, will be apparent when we remember that the dawn of art in these
+countries lies hidden in the shadow of unnumbered ages, while ours
+stands out in the light of the very present. This is well illustrated by
+a remark of Birch, who, in dwelling upon the antiquity of the fictile
+art, says that "the existence of earthen vessels in Egypt was at least
+coeval with the formation of a written language."[1] Beyond this there
+is acknowledged chaos. In strong contrast with this, is the fact that
+all precolumbian American pottery _precedes_ the acquisition of written
+language, and this contrast is emphasized by the additional fact that it
+also antedates the use of the wheel, that great perverter of the plastic
+tendencies of clay.
+
+[Footnote 1: Birch: History of Ancient Pottery, 1873, p. 8.]
+
+The material presented in the following notes is derived chiefly from
+the native ceramic art of the United States, but the principles involved
+are applicable to all times and to all art, as they are based upon the
+laws of nature.
+
+Ceramic art presents two classes of phenomena of importance in the study
+of the evolution of æsthetic culture. These relate, first, to _form_,
+and second, to _ornament_.
+
+_Form_, as embodied in clay vessels, embraces, 1st, _useful shapes_,
+which may or may not be ornamental, and, 2d, _æsthetic shapes_, which
+are ornamental and may be useful. There are also _grotesque_ and
+_fanciful shapes_, which may or may not be either useful or ornamental.
+
+No form or class of forms can be said to characterize a particular age
+or stage of culture. In a general way, of course, the vessels of
+primitive peoples will be simple in form, while those of more advanced
+races will be more varied and highly specialized.
+
+The shapes first assumed by vessels in clay depend upon the shape of the
+vessels employed at the time of the introduction of the art, and these
+depend, to a great extent, upon the kind and grade of culture of the
+people acquiring the art and upon the resources of the country in which
+they live. To illustrate: If, for instance, some of the highly advanced
+Alaskan tribes which do not make pottery should migrate to another
+habitat, less suitable to the practice of their old arts and well
+adapted to art in clay, and should there acquire the art of pottery,
+they would doubtless, to a great extent, copy their highly developed
+utensils of wood, bone, ivory, and basketry, and thus reach a high grade
+of ceramic achievement in the first century of the practice of the art;
+but, on the other hand, if certain tribes, very low in intelligence and
+having no vessel-making arts, should undergo a corresponding change of
+habitat and acquire the art of pottery, they might not reach in a
+thousand years, if left to themselves, a grade in the art equal to that
+of the hypothetical Alaskan potters in the first decade. It is,
+therefore, not the age of the art itself that determines its forms, but
+the grade and kind of art with which it originates and coexists.
+
+_Ornament_ is subject to similar laws. Where pottery is employed by
+peoples in very low stages of culture, its ornamentation will be of the
+simple archaic kind. Being a conservative art and much hampered by the
+restraints of convention, the elementary forms of ornament are carried a
+long way into the succeeding periods and have a very decided effect upon
+the higher stages. Pottery brought into use for the first time by more
+advanced races will never pass through the elementary stage of
+decoration, but will take its ornament greatly from existing art and
+carry this up in its own peculiar way through succeeding generations.
+The character of the ornamentation does not therefore depend upon the
+age of the art so much as upon the acquirements of the potter and his
+people in other arts.
+
+
+ORIGIN OF FORM
+
+
+In order to convey a clear idea of the bearing of the preceding
+statements upon the history of form and ornament, it will be necessary
+to present a number of points in greater detail.
+
+The following synopsis will give a connected view of various possible
+origins of form.
+
+                / By adventition.
+Origin of form--| By imitation--------/ Of natural models.
+                \ By invention.       \ Of artificial models
+
+
++FORMS SUGGESTED BY ADVENTITION.+
+
+The suggestions of accident, especially in the early stages of art, are
+often adopted, and become fruitful sources of improvement and progress.
+By such means the use of clay was discovered and the ceramic art came
+into existence. The accidental indentation of a mass of clay by the
+foot, or hand, or by a fruit-shell, or stone, while serving as an
+auxiliary in some simple art, may have suggested the making of a cup,
+the simplest form of vessel.
+
+The use of clay as a cement in repairing utensils, in protecting
+combustible vessels from injury by fire, or in building up the walls of
+shallow vessels, may also have led to the formation of disks or cups,
+afterwards independently constructed. In any case the objects or
+utensils with which the clay was associated in its earliest use would
+impress their forms upon it. Thus, if clay were used in deepening or
+mending vessels of stone by a given people, it would, when used
+independently by that people, tend to assume shapes suggested by stone
+vessels. The same may be said of its use in connection with wood and
+wicker, or with vessels of other materials. Forms of vessels so derived
+may be said to have an adventitious origin, yet they are essentially
+copies, although not so by design, and may as readily be placed under
+the succeeding head.
+
+
++FORMS DERIVED BY IMITATION.+
+
+Clay has no inherent qualities of a nature to impose a given form or
+class of forms upon its products, as have wood, bark, bone, or stone. It
+is so mobile as to be quite free to take form from surroundings, and
+where extensively used will record or echo a vast deal of nature and of
+coexistent art.
+
+In this observation we have a key that will unlock many of the mysteries
+of form.
+
+In the investigation of this point it will be necessary to consider the
+processes by which an art inherits or acquires the forms of another art
+or of nature, and how one material imposes its peculiarities upon
+another material. In early stages of culture the processes of art are
+closely akin to those of nature, the human agent hardly ranking as more
+than a part of the environment. The primitive artist does not proceed
+by methods identical with our own. He does not deliberately and freely
+examine all departments of nature or art and select for models those
+things most convenient or most agreeable to fancy; neither does he
+experiment with the view of inventing new forms. What he attempts
+depends almost absolutely upon what happens to be suggested by preceding
+forms, and so narrow and so direct are the processes of his mind that,
+knowing his resources, we could closely predict his results.
+
+The range of models in the ceramic art is at first very limited, and
+includes only those utensils devoted to the particular use to which the
+clay vessels are to be applied; later, closely-associated objects and
+utensils are copied. In the first stages of art, when the savage makes a
+weapon, he modifies or copies a weapon; when he makes a vessel, he
+modifies or copies a vessel.
+
+This law holds good in an inverse ratio to culture, varying to a certain
+extent with the character of the material used.
+
+_Natural originals_.--Natural originals, both animal and vegetable,
+necessarily differ with the country and the climate, thus giving rise to
+individual characters in art forms often extremely persistent and
+surviving decided changes of environment.
+
+The gourd is probably the most varied and suggestive natural vessel. We
+find that the primitive potter has often copied it in the most literal
+manner. One example only, out of the many available ones, is necessary.
+This is from a mound in southeastern Missouri.
+
+In Fig. 464, _a_ illustrates a common form of the gourd, while _b_
+represents the imitation in clay.
+
+[Illustration: _a_, Gourd. _b_, Clay vessel. FIG. 464.--Form
+derived from a gourd.]
+
+All nations situated upon the sea or upon large rivers use shells of
+mollusks, which, without modification, make excellent receptacles for
+water and food. Imitations of these are often found among the products
+of the potter's art. A good example from the Mississippi Valley is shown
+in Fig. 465, _a_ being the original and _b_ the copy in clay.
+
+In Africa, and in other countries, such natural objects as cocoanut
+shells, and ostrich eggs are used in like manner.
+
+Another class of vessels, those made from the skins, bladders, and
+stomachs of animals, should also be mentioned in this connection, as it
+is certain that their influence has frequently been felt in the
+conformation of earthen utensils.
+
+In searching nature, therefore, for originals of primitive ceramic forms
+we have little need of going outside of objects that in their natural or
+slightly altered state are available for vessels.
+
+[Illustration: _a_, Shell. _b_, Clay. FIG. 465.--Form derived
+from a conch shell.]
+
+True, other objects have been copied. We find a multitude of the higher
+natural forms, both animal and vegetable, embodied in vessels of clay,
+but their presence is indicative of a somewhat advanced stage of art,
+when the copying of vessels that were functionally proper antecedents
+had given rise to a familiarity with the use of clay and a capacity in
+handling it that, with advancing culture, brought all nature within the
+reach of the potter and made it assist in the processes of variation and
+development.
+
+_Artificial originals_.--There is no doubt that among most peoples art
+had produced vessels in other materials antecedent to the utilization of
+clay. These would be legitimate models for the potter and we may
+therefore expect to find them repeated in earthenware. In this way the
+art has acquired a multitude of new forms, some of which may be natural
+forms at second hand, that is to say, with modifications imposed upon
+them by the material in which they were first shaped. But all materials
+other than clay are exceedingly intractable, and impress their own
+characters so decidedly upon forms produced in them that ultimate
+originals, where there are such, cannot often be traced through them.
+
+It will be most interesting to note the influence of these peculiarities
+of originals upon the ceramic art.
+
+A nation having stone vessels, like those of California, on acquiring
+the art of pottery would use the stone vessels as models, and such forms
+as that given in Fig. 466 would arise, _a_ being in stone and _b_ in
+clay, the former from California and the latter from Arizona.
+
+Similar forms would just as readily come from gourds, baskets, or other
+globular utensils.
+
+Nations having wooden vessels would copy them in clay on acquiring the
+art of pottery. This would give rise to a distinct group of forms, the
+result primarily of the peculiarities of the woody structure. Thus in
+Fig. 467, _a_, we have a form of wooden vessel, a sort of winged trough
+that I have frequently found copied in clay. The earthen vessel given in
+Fig. 467, _b_, was obtained from an ancient grave in Arkansas.
+
+[Illustration: _a_, stone. _b_, clay. FIG. 466.--Form derived
+from a stone pot.]
+
+[Illustration: _a_, wood. _b_, clay. FIG. 467.--Form derived
+from a wooden tray.]
+
+[Illustration: _a_, Horn. _b_, Clay. FIG. 468.--Form derived
+from a horn spoon.]
+
+[Illustration: _a_, Bark. _b_, Clay. FIG. 469.--Form derived
+from a bark vessel.]
+
+The carapace of some species of turtles, and perhaps even the hard case
+of the armadillo, could be utilized in a similar way. The shaping of a
+knot of wood often gives rise to a dipper-shaped vessel, such as may be
+found in use by many tribes, and is as likely an original for the dipper
+form in clay as is the gourd or the conch shell; the familiar horn
+vessel of the western tribes, Fig. 468, _a_, would have served equally
+well. The specimen given in _b_ is from Arkansas. As a rule, however,
+such vessels cannot be traced to their originals, since by copying and
+recopying they have varied from the parent form, tending always toward
+uniform conventional shapes.
+
+A vessel of rectangular outline might originate in wood or bark. In Fig.
+469, _a_, we have a usual form of bark tray, which is possibly the
+prototype of the square-rimmed earthen vessel given in _b_.
+
+[Illustration: _a_, Wicker. _b_, Clay. FIG. 470.--Form
+originating in basketry.]
+
+[Illustration: _a_, Wicker. _b_, Clay. FIG. 471.--Form
+originating in basketry.]
+
+[Illustration: _a_, Net. _b_, Clay. FIG. 472.--Form originating
+in basketry.]
+
+Basketry and other classes of woven vessels take a great variety of
+forms and, being generally antecedent to the potter's art and constantly
+present with it, have left an indelible impression upon ceramic forms.
+This is traceable in the earthenware of nearly all nations. The clay
+vessel is an intruder, and usurps the place and appropriates the dress
+of its predecessor in wicker. The form illustrated in Fig. 470, _a_, is
+a common one with the Pueblo peoples, and their earthen vessels often
+resemble it very closely, as shown in _b_. Another variety is given in
+Fig. 471, _a_ and _b_. These specimens are from southwestern Utah. Fig.
+472, _b_, illustrates a form quite common in the Southern States, a
+section in which pouch-like nets and baskets, _a_, were formerly in use
+and in which the pots were often modeled.
+
+
++INVENTION OF FORM.+
+
+In the early stages of art, forms are rarely invented outright and I
+shall not stop to consider the subject here.
+
+
++MODIFICATION OF FORM.+
+
+The acquisition of new materials, the development of new uses, the
+employment of new processes of manufacture, and many other agencies lead
+to the multiplication of forms through modification. The processes by
+which highly differentiated forms are reached are interesting throughout
+and repay the closest study.
+
+A preliminary classification of the various causes that lead to
+modification is given in the following synopsis:
+
+                     /                /                        /To assume form.
+                     |                |Incapacity of material--\To retain form.
+                     |                |Incapacity of the artisan.
+                     |                |Changes in method of manufacture.
+                     |By adventition--|Changes in environment.
+                                      |Changes of use.
+Modification of form--|               |Lack of use.
+                      |               \Influence of new or exotic forms, etc.
+                      |
+                      |              /To enhance usefulness.
+                      |By intention--|
+                      |              \To please fancy.--/For the beautiful.
+                      \                                  \For the grotesque.
+
+
++MODIFICATION BY ADVENTITION.+
+
+_Incapacity of material._--It is evident at a glance that clay lacks the
+capacity to assume and to retain many of the details of form found in
+antecedent vessels. This necessarily results in the alteration or
+omission of these features, and hence arise many modifications of
+original forms.
+
+The simple lack of capacity on the part of the potter who undertook to
+reproduce a model would lead to the modification of all but the most
+simple shapes.
+
+The acquisition of the art by a superior or an inferior race, or one of
+different habits would lead to decided changes. A people accustomed to
+carrying objects upon the head, on acquiring earthen vessels would shape
+the bases and the handles to facilitate this use.
+
+Improvements in the methods of manufacture are of the greatest
+importance in the progress of an art. The introduction of the lathe, for
+example, might almost revolutionize form in clay.
+
+As arts multiply, clay is applied to new uses. Its employment in the
+manufacture of lamps, whistles, or toys would lead to a multitude of
+distinct and unique forms.
+
+The acquisition of a new vessel-making material by a nation of potters
+and the association of the forms developed through its inherent
+qualities or structure would often lead ceramic shapes into new
+channels.
+
+[Illustration: _a_, wood. _b_, clay. FIG. 473.--Coincident forms.]
+
+The contact of a nation of potters with a nation of carvers in wood
+would tend very decidedly to modify the utensils of the former. One
+example may be given which will illustrate the possibilities of such
+exotic influences upon form. In Fig. 473, _a_, we have an Alaskan vessel
+carved in wood. It represents a beaver grasping a stick in its hands and
+teeth. The conception is so unusual and the style of vessel so
+characteristic of the people that we should not expect to find it
+repeated in other regions; but the ancient graves of the Middle
+Mississippi Valley have furnished a number of very similar vessels in
+clay, one of which is outlined in _b_. While this remarkable coincidence
+is suggestive of ethnic relationships which do not call for attention
+here, it serves to illustrate the possibilities of modification by
+simple contact.
+
+[Illustration: _a_ _b_ FIG. 471.--Form resulting from accident.]
+
+A curious example illustrative of possible transformation by
+adventitious circumstances is found in the collection from the province
+of ancient Tusayan. A small vessel of sphynx-like appearance, possibly
+derived more or less remotely from a skin vessel, has a noticeable
+resemblance to some life form, Fig. 474, _a_. The fore-legs are
+represented by two large bosses, the wide-open mouth takes the place of
+the severed neck, and a handle connects the top of the rim with the back
+of the vessel. The handle being broken off and the vessel inverted,
+_b_, there is a decided change; we are struck by the resemblance to a
+frog or toad. The original legs, having dark concentric lines painted
+around them, look like large protruding eyes, and the mouth gapes in the
+most realistic manner, while the two short broken ends of the handle
+resemble legs and serve to support the vessel in an upright position,
+completing the illusion. The fetich-hunting Pueblo Indian, picking up
+this little vessel in its mutilated condition, would probably at once
+give to it the sacred character of the water animal which it resembles,
+and it might readily transmit its peculiarities of form to other
+generations of vessels.
+
+It is not necessary in this study to refer at length to the influence of
+metallic vessels upon ceramic forms. They do not usually appear until
+the ceramic art is far advanced and often receive a heritage of shape
+from earthen forms. Afterwards, when the inherent qualities of the metal
+have stamped their individuality upon utensils, the debt is paid back to
+clay with interest, as will be seen by reference to later forms in many
+parts of the world.
+
+
++MODIFICATION BY INTENTION.+
+
+_To enhance usefulness._--There can be no doubt that the desire upon the
+part of the archaic potter to increase the usefulness and convenience of
+his utensils has been an important agent in the modification of form.
+The earliest vessels employed were often clumsy and difficult to handle.
+The favorite conch shell would hold water for him who wished to drink,
+but the breaking away of spines and the extraction of the interior whorl
+improved it immeasurably. The clumsy mortar of stone, with its thick
+walls and great weight, served a useful purpose, but it needed a very
+little intelligent thought to show that thin walls and neatly-trimmed
+margins were much preferable.
+
+Vessels of clay, aside from the forms imposed upon, them by their
+antecedents and associates, would necessarily be subject to changes
+suggested by the growing needs of man. These would be worked out with
+ever-increasing ease by his unfolding genius for invention. Further
+investigation of this phase of development would carry me beyond the
+limits set for this paper.
+
+_To please fancy._--The skill acquired by the handling of clay in
+constructing vessels and in efforts to increase their usefulness would
+open an expansive field for the play of fancy. The potter would no
+sooner succeed in copying vessels having life form than he would be
+placed in a position to realize his capacity to imitate forms not
+peculiar to vessels. His ambition would in time lead him even beyond the
+limits of nature and he would invade the realm of imagination, embodying
+the conceptions of superstition in the plastic clay. This tendency would
+be encouraged and perpetuated by the relegation of vessels of particular
+forms to particular ceremonies.
+
+
++ORIGIN OF ORNAMENT.+
+
+
+The birth of the embellishing art must be sought in that stage of animal
+development when instinct began to discover that certain attributes or
+adornments increased attractiveness. When art in its human sense came
+into existence ideas of embellishment soon extended from the _person_,
+with, which they had been associated, to all things with which man had
+to deal. The processes of the growth of the æsthetic idea are long and
+obscure and cannot be taken up in this place.
+
+The various elements of embellishment in which the ceramic art is
+interested may be assigned to two great classes, based upon the
+character of the conceptions associated with them. These are
+_ideographic_ and _non-ideographic_. In the present paper I shall treat
+chiefly of the non ideographic, reserving the ideographic for a second
+paper.
+
+Elements, non-ideographic from the start, are derived mainly from two
+sources: 1st, from objects, natural or artificial, associated with the
+arts; and, 2d, from the suggestions of accidents attending construction.
+Natural objects abound in features highly suggestive of embellishment
+and these are constantly employed in art. Artificial objects have two
+classes of features capable of giving rise to ornament: these are
+_constructional_ and _functional_. In a late stage of development all
+things in nature and in art, however complex or foreign to the art in
+its practice, are subject to decorative treatment. This latter is the
+realistic pictorial stage, one of which the student of native American
+culture needs to take little cognizance.
+
+Elements of design are not invented outright: man modifies, combines,
+and recombines elements or ideas already in existence, but does not
+create.
+
+A classification of the sources of decorative motives employed in the
+ceramic art is given in the following diagram:
+
+                  /Suggestions of features of natural utensils or objects.
+                  |                               /
+                  |                               |           /Handles.
+                  |                               |           |Legs
+                  |                               | Functional|Bands
+                  |                               |           \Perforations, etc.
+                  |                               |
+                  |Suggestions of features of     |
+                  |artificial utensils or objects.|              /The coil.
+                  |                               |              |The seam.
+Origin of ornament|                               |Constructional|The stitch.
+                  |                               |              |The plait.
+                  |                               \              \The twist, etc.
+                  |Suggestions from accidents     /Marks of fingers.
+                  | attending construction.       |Marks of implements.
+                  |                               \Marks of molds, etc.
+                  |
+                  |
+                  \Suggestions of ideographic features or pictorial delineations.
+
++SUGGESTIONS OF NATURAL FEATURES OF OBJECTS.+
+
+The first articles used by men in their simple arts have in many cases
+possessed features suggestive of decoration. Shells of mollusks are
+exquisitely embellished with ribs, spines, nodes, and colors. The same
+is true to a somewhat limited extent of the shells of the turtle and the
+armadillo and of the hard cases of fruits.
+
+These decorative features, though not essential to the utensil, are
+nevertheless inseparable parts of it, and are cast or unconsciously
+copied by a very primitive people when similar articles are artificially
+produced in plastic material. In this way a utensil may acquire
+ornamental characters long before the workman has learned to take
+pleasure in such details or has conceived an idea beyond that of simple
+utility. This may be called unconscious embellishment. In this
+fortuitous fashion a ribbed variety of fruit shell would give rise to a
+ribbed vessel in clay; one covered with spines would suggest a noded
+vessel, etc. When taste came to be exercised upon such objects these
+features would be retained and copied for the pleasure they afforded.
+
+[Illustration: _a._--Shell vessel. _b._--Copy in clay. FIG. 475.--Scroll
+derived from the spire of a conch shell.]
+
+Passing by the many simple elements of decoration that by this
+unconscious process could be derived from such sources, let me give a
+single example by which it will be seen that not only elementary forms
+but even so highly constituted an ornament as the scroll may have been
+brought thus naturally into the realm of decorative art. The sea-shell
+has always been intimately associated with the arts that utilize clay
+and abounds in suggestions of embellishment. The _Busycon_ was almost
+universally employed as a vessel by the tribes of the Atlantic drainage
+of North America. Usually it was trimmed down and excavated until only
+about three-fourths of the outer wall of the shell remained. At one end
+was the long spike-like base which served as a handle, and at the other
+the flat conical apex, with its very pronounced spiral line or ridge
+expanding from the center to the circumference, as seen in Fig. 475 _a_.
+This vessel was often copied in clay, as many good examples now in our
+museums testify. The notable feature is that the shell has been copied
+literally, the spiral appearing in its proper place. A specimen is
+illustrated in Fig. 475 _b_ which, although simple and highly
+conventionalized, still retains the spiral figure.
+
+[Illustration: _a_ _b_ _c_ FIG. 476.--Possible derivation of the
+current scroll.]
+
+In another example we have four of the noded apexes placed about the rim
+of the vessel, as shown in Fig. 476_a_, the conception being that of
+four conch shells united in one vessel, the bases being turned inward
+and the apexes outward. Now it is only necessary to suppose the addition
+of the spiral lines, always associated with the nodes, to have the
+result shown in _b_, and by a still higher degree of convention we have
+the classic scroll ornament given in _c_. Of course, no such result as
+this could come about adventitiously, as successful combination calls
+for the exercise of judgment and taste; but the initiatory steps could
+be taken--the motive could enter art--without the conscious supervision
+of the human agent.
+
+
++SUGGESTIONS BY FEATURES OF ARTIFICIAL OBJECTS.+
+
+[Illustration: FIG. 477.--Ornament derived through the modification of
+handles.]
+
+_Functional features_.--Functional features of art products liable to
+influence ornament comprise handles, legs, feet, rims, bands, and other
+peculiarities of shape originating in utility. Handles, for instance,
+may have been indigenous to a number of arts; they are coeval and
+coextensive with culture. The first load, weapon, or vessel transported
+by man may have been suspended by a vine or filament. Such arts as have
+fallen heir to handles have used them according to the capacities of the
+material employed. Of all the materials stone is probably the least
+suited to their successful use, while clay utilizes them in its own
+peculiar way, giving to them a great variety of expression. They are
+copied in clay from various models, but owing to the inadequate
+capacities of the material, often lose their function and degenerate
+into mere ornaments, which are modified as such to please the potter's
+fancy. Thus, for example, the series of handles placed about the neck of
+the vessel become, by modification in frequent copying, a mere band of
+ornamental figures in relief, or even finally in engraved, punctured, or
+painted lines, in the manner suggested in Fig. 477. Legs, pedestals,
+spouts, and other features may in a like manner give rise to decoration.
+
+[Illustration: _a._--Coiled fillet of clay. _b._--Double coil.
+FIG. 478.--Scroll derived from coil of clay.]
+
+
+_Constructional features._-Features of vessels resulting from
+construction are infinitely varied and often highly suggestive of
+decoration. Constructional peculiarities of the clay utensils themselves
+are especially worthy of notice, and on account of their actual presence
+in the art itself are more likely to be utilized or copied for ceramic
+ornament than those of other materials. The coil, so universally
+employed in construction, has had a decided influence upon the ceramic
+decoration of certain peoples, as I have shown in a paper on ancient
+Pueblo art. From it we have not only a great variety of surface
+ornamentation produced by simple treatment of the coil in place, but
+probably many forms suggested by the use of the coil in vessel building,
+as, for instance, the spiral formed in beginning the base of a coiled
+vessel, Fig. 478 _a_, from which the double scroll _b_, as a separate
+feature, could readily be derived, and finally the chain of scrolls so
+often seen in border and zone decoration. This familiarity with the use
+of fillets or ropes of clay would also lead to a great variety of
+applied ornament, examples of which, from Pueblo art, are given in Fig.
+479. The sinuous forms assumed by a rope of clay so employed would
+readily suggest to the Indian the form of the serpent and the means of
+representing it, and might thus lead to the introduction of this much
+revered creature into art.
+
+[Illustration: FIG. 479.--Ornamental use of fillets.]
+
+Of the various classes of utensils associated closely with the ceramic
+art, there are none so characteristically marked by constructional
+features as nets and wicker baskets. The twisting, interlacing,
+knotting, and stitching of filaments give relieved figures that by
+contact in manufacture impress themselves upon the plastic clay. Such
+impressions come in time to be regarded as pleasing features, and when
+free-hand methods of reproducing are finally acquired they and their
+derivatives become essentials of decoration. At a later stage these
+characters of basketry influence ceramic decoration in a somewhat
+different way. By the use of variously-colored fillets the woven surface
+displays figures in color corresponding to those in relief and varying
+with every new combination. Many striking patterns are thus produced,
+and the potter who has learned to decorate his wares by the stylus or
+brush reproduces these patterns by free-hand methods. We find pottery in
+all countries ornamented with patterns, painted, incised, stamped, and
+relieved, certainly derived from this source. So well is this fact known
+that I need hardly go into details.
+
+In the higher stages of art the constructional characters of
+architecture give rise to many notions of decoration which afterwards
+descend to other arts, taking greatly divergent forms. Aboriginal
+architecture in some parts of America had reached a development capable
+of wielding a strong influence. This is not true, however, of any part
+of the United States.
+
+
++SUGGESTIONS OF ACCIDENTS.+
+
+Besides the suggestions of surface features impressed in manufacture or
+intentionally copied as indicated above, we have also those of
+accidental imprints of implements or of the fingers in manufacture. From
+this source there are necessarily many suggestions of ornament, at first
+of indented figures, but later, after long employment, extending to the
+other modes of representation.
+
+
++IDEOGRAPHIC AND PICTORIAL SUBJECTS.+
+
+Non-ideographic forms of ornament may originate in ideographic features,
+mnemonic, demonstrative, or symbolic. Such significant figures are
+borrowed by decorators from other branches of art. As time goes on they
+lose their significance and are subsequently treated as purely
+decorative elements. Subjects wholly pictorial in character, when such
+come to be made, may also be used as simple decoration, and by long
+processes of convention become geometric.
+
+The exact amount of significance still attached to significant figures
+after adoption into decoration cannot be determined except in cases of
+actual identification by living peoples, and even when the signification
+is known by the more learned individuals the decorator may be wholly
+without knowledge of it.
+
+
+MODIFICATION OF ORNAMENT.
+
+
+There are comparatively few elementary ideas prominently and generally
+employed in primitive decorative art. New ideas are acquired, as already
+shown, all along the pathway of progress. None of these ideas retain a
+uniform expression, however, as they are subject to modification by
+environment just as are the forms of living organisms. A brief
+classification of the causes of modification is given in the following
+synopsis:
+
+
+                              /Through material.
+Modification of ornament------|Through form.
+                              \Through, methods of realization.
+
+
+_Through material._--It is evident at a glance that _material_ must have
+a strong influence upon the forms assumed by the various decorative
+motives, however derived. Thus stone, clay, wood, bone, and copper,
+although they readily borrow from nature and from each other,
+necessarily show different decorative results. Stone is massive and
+takes form slowly and by peculiar processes. Clay is more versatile and
+decoration may be scratched, incised, painted, or modeled in relief with
+equal facility, while wood and metal engender details having characters
+peculiar to themselves, producing different results from the same
+motives or elements. Much of the diversity displayed by the art products
+of different countries and climates is due to this cause.
+
+Peoples dwelling in arctic climates are limited, by their materials, to
+particular modes of expression. Bone and ivory as shaped for use in the
+arts of subsistence afford facilities for the employment of a very
+restricted class of linear decoration, such chiefly as could be
+scratched with a hard point upon small irregular, often cylindrical,
+implements. Skins and other animal tissues are not favorable to the
+development of ornament, and the textile arts--the greatest agents of
+convention--do not readily find suitable materials in which to work.
+
+Decorative art carried to a high stage under arctic environment would be
+more likely to achieve unconventional and realistic forms than if
+developed in more highly favored countries. The accurate geometric and
+linear patterns would hardly arise.
+
+_Through form._--Forms of decorated objects exercise a strong influence
+upon the decorative designs employed. It would be more difficult to
+tattoo the human face or body with straight lines or rectilinear
+patterns than with curved ones. An ornament applied originally to a
+vessel of a given form would accommodate itself to that form pretty much
+as costume becomes adjusted to the individual. When it came to be
+required for another form of vessel, very decided changes might be
+necessary.
+
+With the ancient Pueblo peoples rectilinear forms of meander patterns
+were very much in favor and many earthen vessels are found in which
+bands of beautiful angular geometric figures occupy the peripheral
+zone, Fig. 480 _a_, but when the artist takes up a mug having a row of
+hemispherical nodes about the body, _b_, he finds it very difficult to
+apply his favorite forms and is almost compelled to run spiral curves
+about the nodes in order to secure a neat adjustment.
+
+[Illustration: FIG. 480.--Variations in a motive through the influence
+of form.]
+
+_Through methods of realisation_.--It will readily be seen that the
+forms assumed by a motive depend greatly upon the character of the
+mechanical devices employed. In the potter's art devices for holding and
+turning the vessel under manipulation produce peculiar results.
+
+In applying a given idea to clay much depends upon the method of
+executing it. It will take widely differing forms when executed by
+incising, by modeling, by painting, and by stamping.
+
+Intimately associated with methods of execution are peculiarities of
+construction, the two agencies working together in the processes of
+modification and development of ornament.
+
+I have previously shown how our favorite ornament, the scroll, in its
+disconnected form may have originated in the copying of natural forms or
+through the manipulation of coils of clay. I present here an example of
+its possible origin through the modification of forms derived from
+constructional features of basketry. An ornament known as the guilloche
+is found in many countries. The combination of lines resembles that of
+twisted or platted fillets of wood, cane, or rushes, as may be seen at a
+glance, Fig. 481 _a_. An incised ornament of this character, possibly
+derived from basketry by copying the twisted fillets or their
+impressions in the clay, is very common on the pottery of the mounds of
+the Mississippi Valley, and its variants form a most interesting study.
+In applying this to a vessel the careless artist does not properly
+connect the ends of the lines which pass beneath the intersecting
+fillets, and the parts become disconnected, _b_. In many cases the ends
+are turned in abruptly as seen in _c_, and only a slight further change
+is necessary to lead to the result, _d_, the running scroll with
+well-developed links. All of these steps may be observed in a single
+group of vessels.
+
+It may be thought by some that the processes of development indicated
+above are insufficient and unsatisfactory. There are those who, seeing
+these forms already endowed with symbolism, begin at what I conceive to
+be the wrong end of the process. They derive the form of symbol directly
+from the thing symbolized. Thus the current scroll is, with many races,
+found to be a symbol of water, and its origin is attributed to a literal
+rendition of the sweep and curl of the waves. It is more probable that
+the scroll became the symbol of the sea long after its development
+through agencies similar to those described above, and that the
+association resulted from the observation of incidental resemblances.
+This same figure, in use by the Indians of the interior of the
+continent, is regarded as symbolic of the whirlwind, and it is probable
+that any symbol-using people will find in the features and phenomena of
+their environment, whatever it may be, sufficient resemblance to any of
+their decorative devices to lead to a symbolic association.
+
+[Illustration: FIG. 481.--Theoretical development of the current
+scroll.]
+
+One secret of modification is found in the use of a radical in more than
+one art, owing to differences in constructional characters. For example,
+the tendency of nearly all woven fabrics is to encourage, even to
+compel, the use of straight lines in the decorative designs applied.
+Thus the attempt to employ curved lines would lead to stepped or broken
+lines. The curvilinear scroll coming from some other art would be forced
+by the constructional character of the fabric into square forms, and the
+rectilinear meander or fret would result, as shown in. Fig. 482, _a_
+being the plain form, painted, engraved, or in relief, and _b_ the same
+idea developed in a woven fabric. Stone or brick-work would lead to like
+results, Fig. 483; but the modification could as readily move in the
+other direction. If an ornament originating in the constructional
+character of a woven fabric, or remodeled by it, and hence rectilinear,
+should be desired for a smooth structureless or featureless surface, the
+difficulties of drawing the angular forms would lead to the delineation
+of curved forms, and we would have exactly the reverse of the order
+shown in Figs. 482 and 483. The two forms given in Fig. 484 actually
+occur in one and the same design painted upon an ancient Pueblo vase.
+The curved form is apparently the result of careless or hurried work,
+the original angular form, having come from, a textile source.
+
+[Illustration: _a_, free-hand form. _b_, form imposed, by fabric.
+FIG. 482.--Forms of the same motive expressed in different arts.]
+
+[Illustration: _a_, free-hand form. _b_, form imposed by masonry.
+FIG. 483.--Forms of the same motive expressed in different arts.]
+
+[Illustration: _a_ _b_ FIG. 484.--Variations resulting from change
+of method.]
+
+Many excellent examples illustrative of this tendency to modification
+are found in Pueblo art. Much of the ornament applied to pottery is
+derived from the sister art, basketry. In the latter art the forms of
+decorative figures are geometric and symmetrical to the highest degree,
+as I have frequently pointed out. The rays of a radiating ornament,
+worked with the texture of a shallow basket, spring from the center and
+take uniform directions toward the margin, as shown in Fig. 485. But
+when a similar idea derived from basketry (as it could have no other
+origin) is executed in color upon an earthen vessel, we observe a
+tendency to depart from symmetry as well as from consistency. I call
+attention here to the arrangement of the parts merely, not to the
+motives employed, as I happen to have no examples of identical figures
+from the two arts.
+
+[Illustration: FIG. 485.--Geometric form, of textile ornament.]
+
+[Illustration: FIG. 486.--Loss of geometric accuracy in painting.]
+
+It will be seen by reference to the design given in Fig. 486, taken from
+the upper surface of an ancient vase, that although the spirit of the
+decoration is wonderfully well preserved the idea of the origin of all
+the rays in the center of the vessel is not kept in view, and that by
+carelessness in the drawing two of the rays are crowded out and
+terminate against the side of a neighboring ray. In copying and
+recopying by free-hand methods, many curious modifications take place in
+these designs, as, for example, the unconformity which occurs in one
+place in the example given may occur at a number of places, and there
+will be a series of independent sections, a small number only of the
+bands of devices remaining true rays.
+
+[Illustration: FIG. 487.--Design painted upon pottery.]
+
+A characteristic painted design from the interior of an ancient bowl is
+shown in Fig. 487, in which merely a suggestion of the radiation is
+preserved, although the figure is still decorative and tasteful. This
+process of modification goes on without end, and as the true geometric
+textile forms recede from view innovation robs the design of all traces
+of its original character, producing much that is incongruous and
+unsatisfactory.
+
+The growth of decorative devices from the elementary to the highly
+constituted and elegant is owing to a tendency of the human mind to
+elaborate because it is pleasant to do so or because pleasure is taken
+in the result, but there is still a directing and shaping agency to be
+accounted for.
+
+I have already shown that such figures as the scroll and the guilloche
+are not _necessarily_ developed by processes of selection and
+combination of simple elements, as many have thought, since they may
+have come into art at a very early stage almost full-fledged; but there
+is nothing in these facts to throw light upon the processes by which
+ornament followed particular lines of development throughout endless
+elaboration. In treating of this point, Prof. C.F. Hartt[2] maintained
+that the development of ornamental designs took particular and uniform
+directions owing to the structure of the eye, certain forms being chosen
+and perpetuated because of the pleasure afforded by movements of the eye
+in following them. In connection with this hypothesis, for it is nothing
+more, Mr. Hartt advanced the additional idea, that in unison with
+the general course of nature decorative forms began with simple
+elements and developed by systematic methods to complex forms. Take for
+example the series of designs shown in Fig. 488. The meander _a_ made up
+of simple parts would, according to Mr. Hartt, by further elaboration
+under the supervision of the muscles of the eye, develop into _b_. This,
+in time, into _c_, and so on until the elegant anthemium was achieved.
+The series shown in Fig. 489 would develop in a similar way, or
+otherwise would be produced by modification in free-hand copying of the
+rectilinear series. The processes here suggested, although to all
+appearances reasonable enough, should not be passed over without careful
+scrutiny.
+
+[Illustration: FIG. 488.--Theoretical development of fret-work.]
+
+[Footnote 2: Hartt: Popular Science Monthly, Vol. VI, p. 266.]
+
+Taking the first series, we observe that the ornaments are projected in
+straight continuous lines or zones, which are filled in with more or
+less complex parts, rectilinear and geometrically accurate. Still higher
+forms are marvelously intricate and graceful, yet not less geometric and
+symmetrical.
+
+[Illustration: FIG. 489.--Theoretical development of scroll work.]
+
+Let us turn to the primitive artisan, and observe him at work with rude
+brush and stylus upon the rounded and irregular forms of his
+utensils and weapons, or upon skins, bark, and rock surfaces. Is it
+probable that with his free hand directed by the eye alone he will be
+able to achieve these rythmic geometric forms. It seems to me that the
+whole tendency is in the opposite direction. I venture to surmise that
+if there had been no other resources than those named above the typical
+rectilinear fret would never have been known, at least to the primitive
+world; for, notwithstanding the contrary statement by Professor Hartt,
+the fret is in its more highly-developed forms extremely difficult to
+follow with the eye and to delineate with the hand. Until arts,
+geometric in their construction, arose to create and to combine
+mechanically the necessary elements and motives, and lead the way by a
+long series of object-lessons to ideas of geometric combination, our
+typical border ornament would not be possible. Such arts are the textile
+arts and architecture. These brought into existence forms and ideas not
+met with in nature and not primarily thought of by man, and combined
+them in defiance of human, conceptions of grace. Geometric ornament is
+the offspring of technique.
+
+
+INDEX.
+
+Acquisition of new material modifies form in pottery 451
+Adventition, a source of form 445, 450
+America as a field for study of art 443
+Basketry copied in pottery 449
+Busycon shell copied as a vessel, The 454
+California, Pottery from 447
+Ceramic art, Origin and development of form and
+ ornament in, W.H. Holmes 437-465
+  form discussed 444
+  ornament discussed 444
+Coils suggesting spiral ornament 456
+Decorative motive in pottery, Sources of 453
+European civilization checked aboriginal American art 443
+Fancy modifying form in pottery 452
+Fictile art related to written language 443
+Form modifies ornament in pottery 458
+  of pottery modified by certain influences 450-452
+Hartt, Prof. C.F., on form of designs as influenced by
+ structure of the eye 463-464
+Ideographic elements of decoration 453
+Imitation, A source of form 445
+Improvements in modes of manufacture modify forms in pottery 450
+Intention a modifier of form in pottery 452
+Modification of ornaments in pottery 458
+Non-ideographic elements of decoration 453
+Origin and development of form and ornament in
+ ceramic art (W.H. Holmes) 437-465
+Origin of ornament in pottery 453
+Ornament in pottery, Origin of 453-457
+Ornamental elements modified by invention 453
+Pottery from California 447
+  Tusayan 451
+  Utah 449
+Scroll, Possible origin of the 459
+Shells copied in pottery 447
+Skin vessels copied in pottery 447
+Sources of decorative motive in ceramic art 453
+Spiral ornament from coils 456
+Stone vessels copied in pottery 447
+Symbols adopted rather than invented 460
+Utility modifies form in pottery 452
+Wooden vessels copied in pottery 447, 451
+Written language as related to fictile art 443

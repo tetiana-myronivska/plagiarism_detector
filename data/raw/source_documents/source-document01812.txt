@@ -1,0 +1,646 @@
+﻿We illustrate one of the largest Corliss engines ever constructed. It is
+of the single cylinder, horizontal, condensing type, with one cylinder
+40 inches diameter, and 10 feet stroke, and makes forty-five revolutions
+per minute, corresponding to a piston speed of 900 feet per minute. At
+mid stroke the velocity of the piston is 1,402 feet per minute nearly,
+and its energy in foot pounds amounts to about 8.6 times its weight.
+The cylinder is steam jacketed on the body and ends, and is fitted with
+Corliss valves and Inglis & Spencer's automatic Corliss valve expansion
+gear. Referring to the general drawing of the engine, it will be seen
+that the cylinder is bolted directly to the end of the massive cast iron
+frame, and the piston coupled direct to the crank by the steel piston
+rod and crosshead and the connecting rod. The connecting rod is 28
+feet long center to center, and 12 inches diameter at the middle. The
+crankshaft is made of forged Bolton steel, and is 21 inches diameter at
+the part where the fly-wheel is carried. The fly driving wheel is 35
+feet in diameter, and grooved for twenty-seven ropes, which transmit the
+power direct to the various line shafts in the mill. The rope grooves
+are made on Hick, Hargreaves & Co.'s standard pattern of deep groove,
+and the wheel, which is built up, is constructed on their improved plan
+with separate arms and boss, and twelve segments in the rim with joints
+planed to the true angle by a special machine designed and made by
+themselves. The weight of the fly-wheel is about 60 tons. The condensing
+apparatus is arranged below, so that there is complete drainage from the
+cylinder to the condenser. The air pump, which is 36 inches diameter and
+2 feet 6 inches stroke, is a vertical pump worked by wrought iron
+plate levers and two side links, shown by dotted lines, from the main
+crosshead. The engine is fenced off by neat railing, and a platform with
+access from one side is fitted round the top of the cylinder for getting
+conveniently to the valve spindles and lubricators. The above engraving,
+which is a side elevation of the cylinder, shows the valve gear
+complete. There are two central disk plates worked by separate
+eccentrics, which give separate motion to the steam and exhaust valves.
+The eccentrics are mounted on a small cross shaft, which is driven by a
+line shaft and gear wheels. The piston rod passes out at the back end of
+the cylinder and is carried by a shoe slide and guide bar, as shown more
+fully in the detailed sectional elevation through the cylinder, showing
+also the covers and jackets in section. The cylinder, made in four
+pieces, is built up on Mr. W. Inglis's patent arrangement, with separate
+liner and steam jacket casing and separate end valve chambers. This
+arrangement simplifies the castings and secures good and sound ones. The
+liner has face joints, which are carefully scraped up to bed truly to
+the end valve chambers. The crosshead slides are each 3 feet 3 inches
+long and I foot 3 inches wide. The engine was started last year, and
+has worked beautifully from the first, without heating of bearings or
+trouble of any kind, and it gives most uniform and steady turning. It is
+worked now at forty-one revolutions per minute, or only 820 feet piston
+speed, but will be worked regularly at the intended 900 feet piston
+speed per minute when the spinning machinery is adapted for the increase
+which the four extra revolutions per minute of the engine will give; the
+load driven is over 1,000 horsepower, the steam pressure being 50 lb.
+to 55 lb., which, however, will be increased when the existing boilers,
+which are old, come to be replaced by new. Indicator diagrams from the
+engines are given on page 309. The engine is very economical in steam
+consumption, but no special trials or tests have been made with it. An
+exactly similar engine, but of smaller size, with a cylinder 30 inches
+diameter and 8 feet stroke, working at forty-five revolutions per
+minute, made by Messrs. Hick, Hargreaves & Co. for Sir Titus Salt,
+Sons & Co.'s mill at Saltaire, was tested about two years ago by Mr.
+Fletcher, chief engineer of the Manchester Steam Users' Association, and
+the results which are given below pretty fairly represent the results
+obtained from this class of engine. Messrs. Hick, Hargreaves & Co. are
+now constructing a single engine of the same type for 1,800 indicated
+horse-power for a cotton mill at Bolton; and they have an order for a
+pair of horizontal compound Corliss engines intended to indicate 3,000
+horse-power. These engines will be the largest cotton mill engines in
+the world.--_The Engineer_.
+
+[Illustration: 1000 HORSE POWER CORLISS ENGINE.--BY HICK. HARGREAVES &
+CO.]
+
+_Result of Trials with Saltaire Horizontal Engine on February 14th and
+15th, 1878. Trials made by Mr. L.E. Fletcher, Chief Engineer Steam
+Users' Association, Manchester._
+
+Engine single-cylinder, with Corliss valves. Inglis and Spencer's valve
+gear. Diameter of cylinder. 30in.; stroke, 8ft.; 45 revolutions per
+minute.
+
+No. of trials
+Total 1.H.P.
+[MB] Mean boiler pressure.
+[MP] Mean pressure on piston at beginning of stroke.
+[ML] Mean loss between boiler pressure and cylinder.
+[MA] Mean average pressure on piston.
+[W]  Water Per I.H.P. per hour.
+[C]  Coal per I.H.P. per hour.
+
+No. of trials  Total  MB     MP     ML     MA     W      C
+               I.H.P. lb     lb     lb     lb     lb     lb
+Trial No. 1.  301.89  46.6   44.11   2.53  21.23  18.373  2.699
+Trial No. 2.  309.66  47.63  44.45   3.18  21.67  17.599  2.561
+Means.        305.775 47.115 44.28   2.855 21.45  17.986  2.630
+
+[Illustration: 1000 HORSE POWER CORLISS ENGINE.--BY HICK, HARGREAVES
+& CO.] [Illustration: 1000 HORSE POWER CORLISS ENGINE.--BY HICK,
+HARGREAVES & CO.]
+
+       *       *       *       *       *
+
+
+OPENING OF THE NEW WORKSHOP OF THE STEVENS INSTITUTE OF TECHNOLOGY.
+
+
+In our SUPPLEMENT No. 283 we gave reports of some of the addresses of
+the distinguished speakers, and we now present the remarks of Prof.
+Raymond and Horatio Allen, Esq.:
+
+
+SPEECH OF PROF. R. W. RAYMOND.
+
+A few years ago, at one of the meetings of our Society of Civil
+Engineers we spent a day or so in discussing the proper mode of
+educating young men so as to fit them for that profession. It is a
+question that is reopened for us as soon as we arrive at the age when
+we begin to consider what career to lay out for our sons. When we were
+young, the only question with parents in the better walks of life was,
+whether their sons should be lawyers, physicians, or ministers. Anything
+less than a professional career was looked upon as a loss of caste, a
+lowering in the social scale. These things have changed, now that we
+engineers are beginning to hold up our heads, as we have every reason to
+do; for the prosperity and well-being of the great nations of the world
+are attributable, perhaps, more to our efforts than to those of any
+other class. When, in the past, the man of letters, the poet, the
+orator, succeeded, by some fit expression, by some winged word, to
+engage the attention of the world concerning some subject he had at
+heart, the highest praise his fellow man could bestow was to cry out
+to him, "Well said, well said!" But now, when, by our achievements,
+commerce and industry are increased to gigantic proportions, when the
+remotest peoples are brought in ever closer communication with us, when
+the progress of the human race has become a mighty torrent, rushing
+onward with ever accelerating speed, we glory in the yet higher praise,
+"Well done, well done!" Under these circumstances, the question how a
+young man is best fitted for our profession has become one of increasing
+importance, and three methods have been proposed for its solution.
+Formerly the only point in debate was whether the candidate should go
+first to the schools and then to the workshop, or first to the shop and
+then to the schools. It was difficult to arrive at any decision; for of
+the many who had risen to eminence as engineers, some had adopted
+one order and some the other. There remained a third course, that of
+combining the school and the shop and of pursuing simultaneously the
+study of theory and the exercise of practical manipulation. Unforeseen
+difficulties arose, however, in the attempt to carry out this, the most
+promising method. The maintenance of the shop proved a heavy expense,
+which it was found could not be lessened by the manufacture of salable
+articles, because the work of students could not compete with that of
+expert mechanics. It would require more time than could be allotted,
+moreover, to convert students into skilled workmen. Various
+modifications of this combination of theory and practice, including more
+or less of the Russian system of instruction in shop-work, have been
+tried in different schools of engineering, but never under so favorable
+conditions as the present. With characteristic caution and good
+judgment, President Morton has studied the operation of the scheme
+of instruction adopted in the Stevens Institute, and, noting its
+deficiencies, has now supplied them with munificent liberality, giving
+to it a completeness that leaves seemingly nothing that could be
+improved upon, even in a prayer or a dream. Still, no one will be more
+ready to admit than he who has done all this, that it is not enough to
+fit up a machine shop, be it never so complete, and light it with an
+electric lamp. The decision as to its efficiency must come from the
+students that are so fortunate as to be admitted to it. If such young
+men, earnest, enthusiastic, with every incentive to exertion and every
+advantage for improvement, here, where they can feel the throbbing of
+the great heart of enterprise, within sight of bridges upon which their
+services will be needed, within hearing of the whistles of a score of
+railroads, and the bells of countless manufactories which will want
+them; if such as these, trained under such instructors and amid such
+surroundings, prove to be not fitted for the positions waiting for them
+to fill, it will have been definitely demonstrated that the perfect
+scheme is yet unknown.
+
+
+SPEECH OF MR. HORATIO ALLEN.
+
+Impressed with the very great step in advance which has been inaugurated
+here this evening, I feel crowding upon me so many thoughts that I
+cannot make sure that, in selecting from them, I may not leave unsaid
+much that I should say, and say some things that I had better omit. Some
+years ago, when asked by a wealthy gentleman to what machine-shop he had
+best send his son, who was to become a mechanical engineer, I advised
+him not to send him to any, but to fit up a shop for him where he could
+go and work at what he pleased without the drudgery of apprenticeship,
+to put him in the way of receiving such information as he needed, and
+especially to let him go where he could see things break. Great, indeed,
+are the advantages of those who have the opportunity of seeing things
+break, of witnessing failures and profiting by them. When men have
+enumerated the achievements of those most eminent in our profession the
+thought has often struck me, "Ah! if we could only see that man's scrap
+heap."
+
+There are many who are able to construct a machine for a given purpose
+so that it will work, but to do this so that it will not cost too much
+is an entirely different problem. To know what to omit is a rare talent.
+I once found a young man who could tell students what to store up in
+their minds for immediate use, and what to skim over or omit; but I
+could not keep him long, for more lucrative positions are always waiting
+for such men.
+
+The advice I gave my wealthy friend was given before the Stevens
+Institute had developed in the direction it has now. The foundation of
+this advice, namely, to combine a certain amount of judicious practice
+with theory, is now in a fair way to be carried out, and although
+things will probably not be permitted to break here, the students will
+doubtless have opportunities for looking around them and supplementing
+their systematic instruction here by observation abroad.
+
+       *       *       *       *       *
+
+
+LIGHT STEAM ENGINE FOR BALLOONS.
+
+
+We here illustrate one of a couple of compound engines designed and
+constructed by Messrs. Ahrbecker, Son & Hamkens, of Stamford Street,
+S.E., for Captain Mojaisky, of the Russian Imperial Navy, who intends
+to use them for aeronautical purposes. The larger of these engines has
+cylinders 3¾ in. and 7½ in. in diameter and 5 in. stroke, and when
+making 300 revolutions per minute it develops 20 actual horse
+power, while its weight is but 105 lbs. The smaller engine--the one
+illustrated--has cylinders 2½ in. and 5 in. in diameter, and 3½ in.
+stroke, and weighs 63 lbs., while when making 450 revolutions it
+develops 10 actual horse power.
+
+The two engines are identical in design, and are constructed of forged
+steel with the exception of the bearings, connecting-rods, crossheads,
+slide valves and pumps, which are of phosphor-bronze. The cylinders,
+with the steam passages, etc., are shaped out of the solid. The
+standards, as will be seen, are of very light T steel, the crankshafts
+and pins are hollow, as are also the crosshead bolts and piston rods.
+The small engine drives a single-acting air pump of the ordinary type by
+a crank, not shown in the drawing. The condenser is formed of a series
+of hollow gratings.
+
+[Illustration: LIGHT STEAM ENGINE FOR AERONAUTICAL PURPOSES]
+
+Steam is supplied to the two engines by one boiler of the Herreshoff
+steam generator type, with certain modifications, introduced by the
+designers, to insure the utmost certainty in working. It is of steel,
+the outside dimensions being 22 in. in diameter, 25 in. high, and weighs
+142 lb. The fuel used is petroleum, and the working pressure 190 lb. per
+square inch.
+
+The constructors consider the power developed by these engines very
+moderate, on account of the low piston speed specified in this
+particular case. In some small and light engines by the same makers
+the piston speed is as high as 1000 ft. per minute. The engines now
+illustrated form an interesting example of special designing, and
+Messrs. Ahrbecker, Son, and Hamkens deserve much credit for the manner
+in which the work has been turned out, the construction of such light
+engines involving many practical difficulties,--_Engineering._
+
+       *       *       *       *       *
+
+Mount Baker, Washington Territory, has shown slight symptoms of volcanic
+activity for several years. An unmistakable eruption is now in progress.
+
+       *       *       *       *       *
+
+
+COMPLETE PREVENTION OF INCRUSTATION IN BOILERS.
+
+
+The chemical factory, Eisenbuettel, near Braunschweig, distributes the
+following circular: "The principal generators of incrustation in boilers
+are gypsum and the so-called bicarbonates of calcium and magnesium. If
+these can be taken put of the water, before it enters the boiler, the
+formation of incrustation is made impossible; all disturbances and
+troubles, derived from these incrustations, are done away with, and
+besides this, a considerable saving of fuel is possible, as clear iron
+will conduct heat quicker than that which is covered with incrustation."
+
+J. Kolb, according to _Dingler's Polyt. Journal_, says: "A boiler with
+clear sides yielded with 1 kil. coal 7.5 kil. steam, after two months
+only 6.4 kil. steam, or a decrease of 17 per cent. At the same time the
+boiler had suffered by continual working."
+
+Suppose a boiler free from inside crust would yield a saving of only
+5 per cent. in fuel (and this figure is taken very low compared with
+practical experiments) it would be at the same time a saving of 3c. per
+cubic meter water. If the cleaning of one cubic meter water therefore
+costs less than 3c., this alone would be an advantage.
+
+Already, for a long time, efforts have been made to find some means for
+this purpose, and we have reached good results with lime and chloride of
+barium, as well as with magnesia preparations. But these preparations
+have many disadvantages. Corrosion of the boiler-iron and muriatic acid
+gas have been detected. (Accounts of the Magdeburg Association for
+boiler management.)
+
+Chloride of calcium, which is formed by using chloride of barium,
+increases the boiling point considerably, and diminishes the elasticity
+of steam; while the sulphate of soda, resulting from the use of
+carbonate of soda, is completely ineffectual against the boiler iron.
+It increases the boiling point of water less than all other salts, and
+diminishes likewise the elasticity of steam (Wullner).
+
+In using magnesia preparation, the precipitation is only very slowly and
+incompletely effected--one part of the magnesia will be covered by the
+mire and the formed carbonate of magnesia in such a way, that it can no
+more dissolve in water and have any effect (_Dingler's Polyt. Journal_,
+1877-78).
+
+The use of carbonate of soda is also cheaper than all other above
+mentioned substances.
+
+One milligramme equivalent sulphate of lime, in 1 liter, = 68 grammes
+sulphate of lime in 1 cubic meter, requiring for decomposition:
+
+120 gr. (86-88 per cent.) chloride of barium of commerce--at $5.00 =
+0.6c.
+
+Or, 50 gr. magnesia preparation--at $10.00 = 0.5c.
+
+Or, 55 gr. (96-98 per cent.) carbonate of soda--at $7.50 = 0.41c.
+
+The proportions of cost by using chloride of barium, magnesia
+preparation, carbonate of soda, will be 6 : 5 : 4.
+
+
+ARRANGEMENT FOR PURIFYING BOILER-WATER WITH LIME AND CARBONATE OF SODA.
+
+We need for carrying out these manipulations, according to the size
+of the establishment, one or more reservoirs for precipitating the
+impurities of the water, and one pure water reservoir, to take up the
+purified water; from the latter reservoir the boilers are fed. The most
+practical idea would be to arrange the precipitating reservoir in such
+manner that the purified water can flow directly into the feeding
+reservoir.
+
+The water in the precipitating reservoir is heated either by adding
+boiling water or letting in steam up to 60° C. at least. The
+precipitating reservoirs (square iron vessels or horizontal
+cylinders--old boilers) of no more than 4 or 4½ feet, having a faucet 6
+inches above the bottom, through which the purified water is drawn off,
+and another one at the bottom of the vessel, to let the precipitate off
+and allow of a perfect cleaning. In a factory with six or seven boilers
+of the usual size, making together 400 square meters heating surface,
+two precipitating reservoirs, of ten cubic meters each, and one pure
+water reservoir of ten or fifteen cubic meter capacity, are used.
+
+In twenty-four hours about 240 cubic meters of water are evaporated; we
+have, therefore, to purify twenty-four precipitating reservoirs at ten
+cubic meters each day, or ten cubic meters each hour.
+
+It is profitable to surround the reservoirs with inferior conductors of
+heat, to avoid losses.
+
+The contents of the precipitating reservoirs have to be stirred up very
+well, and for this purpose we can either arrange a mechanical stirrer
+or do it by hand, or the best would be a "Korting steam stirring and
+blowing apparatus." In using the latter we only have to open the valve,
+whereby in a very short time the air driven through the water stirs this
+up and mixes it thoroughly with the precipitating ingredients. In a
+factory where boilers of only 15 to 100 square meters heating surface
+are, one precipitating reservoir of two to ten cubic meters and one pure
+water reservoir of three to ten cubic meters capacity are required. For
+locomobiles, two wooden tubs or barrels are sufficient.
+
+
+THE PURIFICATION OF THE WATER.
+
+After the required quantity of lime and carbonate of soda which is
+necessary for a total precipitation has been figured out from the
+analysis of the water, respectively verified by practical experiments
+in the laboratory, the heated water in the reservoir is mixed with the
+lime, in form of thin milk of lime, and stirred up; we have to add so
+much lime, that slightly reddened litmus paper gives, after ¼ minute's
+contact with this mixture, an alkaline reaction, i.e., turns blue; now
+the solution of carbonate of soda is added and again stirred well.
+
+After twenty or thirty minutes (the hotter the water, the quicker the
+precipitation) the precipitate has settled in large flocks at the
+bottom, and the clear water is drawn off into the pure water reservoir.
+The precipitating and settling of the impurities can also take place in
+cold water; it will require, however, a pretty long time.
+
+In order to avoid the weighing and slaking of the lime, which is
+necessary for each precipitation, we use an open barrel, in which a
+known quantity of slaked lime is mixed with three and a half or four
+times its weight of water, and then diluted to a thin paste, so that one
+kilogramme slaked lime is diluted to twenty-five liters milk of lime.
+
+Example.--If we use for ten cubic meters water, one kilogramme lime,
+or in one day (in twenty-four hours), 240 cubic meters 24 kg. lime, a
+vessel four or five feet high and about 700 liters capacity, in which
+daily 24 kg. lime with about 100 liters water are slaked and then
+diluted to the mark 600, constantly stirring, 25 liters of this mixture
+contain exactly 1 kg. slaked lime.
+
+Before using, this milk of lime has to be stirred up and allowed to
+settle for a few seconds; and then we draw off the required quantity of
+milk of lime (in our case 25 liters) through a faucet about 8 inches
+above the bottom, or we can dip it off with a pail. For the first
+precipitate we always need the exact amount of milk of lime, which we
+have figured out, or rather some more, but for the next precipitates we
+do not want the whole quantity, but always less, as that part of the
+lime, which does not settle with the precipitate, will be good for use
+in further precipitations. It is therefore important to control the
+addition of milk of lime by the use of litmus paper. If we do not add
+enough lime, it prevents the formation of the flocky precipitate, and,
+besides, more carbonate of soda is used. By adding too much lime, we
+also use more carbonate of soda in order to precipitate the excess of
+lime. We can therefore add so much lime, that there is only a very small
+excess of hydrous lime in the water, and that after well stirring, a red
+litmus paper being placed in the water for twenty seconds, appears only
+slightly blue. After a short time of practice, an attentive person can
+always get the exact amount of lime which ought to be added. On adding
+the milk of lime, we have to dissolve the required amount of pure
+carbonate of soda in an iron kettle, in about six or eight parts hot
+water with the assistance of steam; add this to the other liquid in the
+precipitating reservoirs and stir up well. The water will get clear
+after twenty-five or thirty minutes, and is then drawn off into the pure
+water reservoir.
+
+
+EXAMINATION OF WATER WHICH HAS BEEN PURIFIED BY MEANS OF MILK OF LIME
+AND CARBONATE OF SODA.
+
+In order to be convinced that the purification of the water has been
+properly conducted, we try the water in the following manner. Take a
+sample of the purified water into a small tumbler, and add a few
+drops of a solution of oxalate of ammonia; this addition must neither
+immediately nor after some minutes cause a milky appearance of the
+water, but remain bright and clear. A white precipitate would indicate
+that not enough carbonate of soda had been added. A new sample is taken
+of the purified water and a solution of chloride of calcium added; a
+milky appearance, especially after heating, would show that too much
+carbonate of soda had been added.
+
+
+RESULTS OF THIS WATER PURIFICATION.
+
+1. The boilers do not need to be cleaned during a whole season, as they
+remain entirely free from incrustation; it is only required to avoid a
+collection of soluble salts in the boiler, and therefore it is partly
+drawn off twice a week.
+
+2. The iron is not touched by this purified water. The water does not
+froth and does not stop up valves. The fillings in the joints of pipes,
+etc., do not suffer so much, and therefore keep longer.
+
+3. The steam is entirely free from sour gases.
+
+4. The production of steam is easier and better.
+
+5. A considerable saving of fuel can soon be perceived.
+
+6. The cost of cleaning boilers from incrustation, and loss of time
+caused by cleaning, is entirely done with. Old incrustations, which
+could not be cleaned out before, get decomposed and break off in soft
+pieces.
+
+7. The cost of this purification is covered sufficiently by the above
+advantages, and besides this, the method is cheaper and surer than any
+other.
+
+The chemical factory, Eisenbuettel, furnishes pure carbonate of soda in
+single packages, which exactly correspond with the quantity, stated by
+the analysis, of ten cubic meters of a certain water. The determination
+of the quantities of lime and carbonate of soda necessary for a certain
+kind of water, after sending in a sample, will be done without extra
+charge.--_Neue Zeitung fur Ruebenzucker Industrie_.
+
+       *       *       *       *       *
+
+
+EDDYSTONE LIGHTHOUSE.
+
+
+The exterior work on the new Eddystone Lighthouse is about two thirds
+done. In the latter part of April fifty-three courses of granite
+masonry, rising to the height of seventy feet above high water, had been
+laid, and thirty-six courses remained to be set. The old lighthouse had
+been already overtopped. As the work advances toward completion the
+question arises: What shall be done with John Smeaton's famous tower,
+which has done such admirable service for 120 years? One proposition is
+to take it down to the level of the top of the solid portion, and
+leave the rest as a perpetual memorial of the great work which Smeaton
+accomplished in the face of obstacles vastly greater than those which
+confront the modern architect. The London _News_ says: "Were Smeaton's
+beautiful tower to be literally consigned to the waves, we should regard
+the act as a national calamity, not to say scandal; and, if public funds
+are not available for its conservation, we trust that private zeal and
+munificence may be relied on to save from destruction so interesting
+a relic. It certainly could not cost much to convey the building in
+sections to the mainland, and there, on some suitable spot, to re-erect
+it as a national tribute to the genius of its great architect." When
+the present lighthouse was built one of the chief difficulties was in
+getting the building materials to the spot. They were conveyed from
+Millbay in small sailing vessels, which often beat about for days before
+they could effect a landing at the Eddystone rocks, so that each arrival
+called out the special gratitude of Smeaton.
+
+       *       *       *       *       *
+
+
+ROLLING-MILL FOR MAKING CORRUGATED IRON.
+
+
+MESSRS. SCHULZ, KNAUDT & Co., of Essen, who are making an application
+of corrugated iron in the construction of the interior flues of steam
+boilers, have devised a new mill for the manufacture of this form of
+iron plates, and which is represented in the accompanying cut, taken
+from the _Deutsche Industrie Zeitung_. The supports of the two accessory
+cylinders, F F, rest on two slides, G G, which move along the oblique
+guides, H H. As a consequence of this arrangement, when the cylinders, F
+F, are caused to approach the cylinder, D, both are raised at the same
+instant.
+
+When the cylinders, F, occupy the position represented in the engraving
+by unbroken lines, the flat plate, O, is simply submitted to pressure
+between the cylinders, D and P, the cylinders, F F, then merely acting
+as guides. But when, while the plate is being thus flattened between the
+principal cylinders, the accessory cylinders are caused to rise, the
+plate is curved as shown by the dotted lines, O' O'. To obtain a
+uniformity in the position of the two cylinders, F F, the following
+mechanism is employed: Each cylinder has an axle, to which is affixed a
+crank, Q, connected by means of a rod, R, with the slide, G. These axles
+are also provided with toothed sectors, L L, which gear with two screws,
+L L, whose threads run in opposite directions. These screws are mounted
+on a shaft, N, which may be revolved by any suitable arrangement.
+
+[Illustration: ROLLING MILL FOR MAKING CORRUGATED IRON]
+
+       *       *       *       *       *
+
+
+RAILWAY TURN-TABLE IN THE TIME OF LOUIS XIV.
+
+
+The small engraving which we reproduce herewith from _La Nature_ is
+deposited at the Archives at Paris. It is catalogued in the documents
+relating to Old Marly, 1714, under number 11,339, Vol. 1. The design
+represents a diversion called the _Jeu de la Roulette_ which was
+indulged in by the royal family at the sumptuous and magnificent chateau
+of Mary-le-Roi.
+
+[Illustration: PLEASURE CAR; RAILWAY AND TURN-TABLE OF THE TIME OF LOUIS
+XIV.]
+
+According to Alex. Guillaumot the apparatus consisted of a sort of
+railway on which the car was moved by manual labor. In the car, which
+was decorated with the royal colors, are seen seated the ladies and
+children of the king's household, while the king himself stands in the
+rear and seems to be directing operations. The remarkable peculiarity to
+which we would direct the attention of the reader is that this document
+shows that the car ran on rails very nearly like those used on the
+railways of the present time, and that a turn-table served for changing
+the direction to a right angle in order to place the car under the
+shelter of a small building. The picture which we reproduce, and the
+authenticity of which is certain, proves then that in the time of
+Louis XIV. our present railway turn-tables had been thought of and
+constructed--which is a historic fact worthy of being noted. It is well
+known that the use of railways in mines is of very ancient date, but we
+do not believe that there are on record any documents as precise as that
+of the _Jeu de la Roulette_ as to the existence of turn-tables in former
+ages.
+
+       *       *       *       *       *
+
+
+NEW SIGNAL WIRE COMPENSATOR.
+
+
+_To the Editor of the Scientific American_:
+
+I send you a plate of my new railway signal wire compensator. Here
+in India signal wires give more trouble, perhaps, than in America or
+elsewhere, by expansion and contraction. What makes the difficulty more
+here is the ignorance and indolence of the point and signalmen, who
+are all natives. There have been numerous collisions, owing to signals
+falling off by contraction. Many devices and systems have been tried,
+but none have given the desired result. You will observe the signal wire
+marked D is entirely separated and independent of the wire, E, leading
+to lever. On the Great Indian and Peninsula Railway I work one of these
+compensators, 1,160 yards from signal, which stands on a summit the
+grade of which is 1 in 150; and on the Nizam State Railway I have one
+working on a signal 800 yards. This signal had previously given so much
+trouble that it was decided to do away with it altogether. It stands on
+top of a high cutting and on a 1,600 foot curve.
+
+[Illustration: Railway Signal Wire Comensator]
+
+I have noted on the compensator fixed at 1,160 yards, 13¼ inches
+contraction and expansion. The compensator is very simple and not at all
+likely to get out of order. On new wire, when I fix my compensator, I
+usually have an adjusting screw on the lead to lever. This I remove
+when the wire has been stretched to its full tension. I have everything
+removed from lever, so there can be no meddling or altering. When
+once the wire is stretched so that no slack remains between lever and
+trigger, no further adjustment is necessary.
+
+A. LYLE,
+
+Chief Maintenance Inspector, Permanent Way,
+
+H.H. Nizam State Railway, E. India.
+
+Secunderabad, India, 1881.
+
+
+TANGYE'S HYDRAULIC HOIST.
+
+
+[Illustration: TANGYE'S HYDRAULIC HOIST.]
+
+The great merits of hydraulic hoists generally as regards safety and
+readiness of control are too well known to need pointing out here.
+We may, therefore, at once proceed to introduce to our readers the
+apparatus of this class illustrated in the above engravings. This is
+a hoist (Cherry's patent) manufactured by Messrs. Tangye Brothers, of
+London and Birmingham, and which experience has proved to be a most
+useful adjunct in warehouses, railway stations, hotels, and the like.
+Fig. 1 of our engraving shows a perspective view of the hoist, Fig. 2
+being a longitudinal section. It will be seen that this apparatus is of
+very simple construction, the motion of the piston being transmitted
+directly to the winding-drum shaft by means of a flexible steel rack.
+Referring to Fig. 2, F is a piston working in the cylinder, G; E is
+the flexible steel rack connected to the piston, F, and gearing with a
+toothed wheel, B, which is inclosed in a watertight casing having cover,
+D, for convenient access. The wheel, B, is keyed on a steel shaft, C,
+which passes through stuffing-boxes in the casing, and has the winding
+barrel, A, keyed on it outside the casing. H is a rectangular tube,
+which guides the free end of the flexible steel rack, E. The hoist is
+fitted with a stopping and starting valve, by means of which water
+under pressure from any convenient source of supply may be admitted or
+exhausted from the cylinder. The action in lifting is as follows: The
+water pressure forces the piston toward the end of the cylinder. The
+piston, by means of the flexible steel rack, causes the toothed wheel
+to revolve. The winding barrel, being keyed on the same shaft as the
+toothed wheel, also revolves, and winds up the weight by means of the
+lifting chain. Two special advantages are obtained by this simple method
+of construction. In the first place, twice the length of stroke can be
+obtained in the same space as compared with the older types of hydraulic
+hoist; and, from the directness of the action, the friction is reduced
+to a minimum. This simple method of construction renders the hoist very
+compact and easily fixed; and, from the directness with which the power
+is conveyed from the piston to the winding drum, and the frictionless
+nature of the mechanism, a smaller piston suffices than in the ordinary
+hydraulic hoists, and a smaller quantity of water is required to work
+them.--_Iron_.
+
+       *       *       *       *       *
+
+
+POWER LOOM FOR DELICATE FABRICS.
+

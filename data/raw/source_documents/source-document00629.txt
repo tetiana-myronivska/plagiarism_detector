@@ -1,0 +1,763 @@
+﻿La Esperanza, Spain                   11,453
+Lagos, Nigeria                        42,000
+Lahore, India                        202,964
+Laibach, Austria                      36,547
+La Linea, Spain                       31,862
+Lancaster, England                    40,329
+Lanchau, China                       500,000
+Landsberg, Germany                    33,600
+Landskrono, Sweden                    16,083
+Laoag, P.I.                           34,454
+La Paz, Bolivia                       78,856
+La Plata, Argentina                   80,000
+Laris, Greece                         18,041
+La Rochelle, France                   31,559
+Larvik, Norway                        10,668
+Lashkar, India                        89,154
+Las Palmas, Spain                     44,517
+Lassa, Tibet                          45,000
+Laurium, Greece                       10,007
+Lausanne, Switzerland                 60,000
+Laval, France                         30,356
+Leberia, Costa Rica                    3,194
+Le Creuzot, France                    30,584
+Lecce, Italy                          32,687
+Leeds, England                       484,012
+Leeuwarden, Netherlands               36,054
+Leghorn, Italy                        98,321
+Leicester, England                   244,255
+Leiden, Netherlands                   57,919
+Leigh, England                        40,001
+Leipzig, Germany                     456,120
+Leipzig, Germany                     503,672
+Leith, Scotland                       81,477
+Le Havre, France                     132,430
+Le Mans, France                       65,467
+Lemberg, Austria                     159,877
+Lens, France                          24,353
+Lenz, Austria                         58,791
+Leon, Mexico                          63,263
+Leon, Nicaragua                       45,000
+Les Cayes, Haiti                      12,000
+Leskovatz, Servia                     13,647
+Levallois-Perret, France              61,920
+Leyton, England                       98,899
+Libau, Russia                         64,489
+Lichtenberg, Germany                  43,371
+Lieben, Austria                       21,375
+Liege, Belgium                       175,870
+Liegnitz, Germany                     59,706
+Lima, Peru                           140,884
+Limerick, Ireland                     45,806
+Limoges, France                       88,597
+Limon, Costa Rica                      4,906
+Linares, Chile                        33,000
+Linares, Spain                        38,245
+Lincoln, England                      55,296
+Linden, Germany                       57,941
+Linkoping, Sweden                     17,623
+Linz, Austria                         58,791
+Lipa, P.I.                            37,924
+Lisbon, Portugal                     356,009
+Lisle, France                        205,602
+Liverpool, England                   760,357
+Livorno, Italy                       108,000
+Lodz, Russia                         351,570
+Lomza, Russia                         20,093
+London, England                    6,580,616
+London, Ont., Canada                  37,981
+Londonderry, Ireland                  39,892
+Longton, England                      35,825
+Lorca, Spain                          69,836
+Lorient, France                       46,403
+Louvain, Belgium                      42,001
+Lübeck, Germany                       91,541
+Lublin, Russia                        50,385
+Lucea, Italy                          74,971
+Lucerne, Switzerland                  36,200
+Lucknow, India                       264,049
+Ludwigshafen, Germany                 72,286
+Luneburg, Germany                     24,715
+Lungchau, China                       15,000
+Luno, Sweden                          19,675
+Luque, Paraguay                        8,000
+Luton, England                        36,404
+Luxemburg, Luxemburg                  20,928
+Lyon, France                         472,114
+
+Maastricht, Netherlands               37,511
+Macao, China                          63,991
+Macclesfield, England                 34,635
+Maceia, Brazil                        33,000
+Macerata, Italy                       22,784
+Madras, India                        509,346
+Madrid, Spain                        539,835
+Madura, India                        105,984
+Magdeburg, Germany                   239,559
+Maibashi, Japan                       45,183
+Maidstone, England                    33,516
+Maikop, Russia in Asia                34,327
+Mainz, Germany                        91,541
+Mako, Hungary                         33,722
+Malaga, Spain                        130,109
+Malines, Belgium                      58,101
+Malmo, Sweden                         81,120
+Managua, Nicaragua                    30,000
+Manaos, Brazil                        50,000
+Manchester, England                  655,435
+Mandalay, India                      183,816
+Manila, P.I.                         219,928
+Manipur, India                        67,093
+Manissa, Turkey in Asia               50,000
+Mannheim, Germany                    163,693
+Mansura, Egypt                        40,279
+Mantua, Italy                         29,344
+Maracaibo, Venezuela                  34,284
+Maranhao, Brazil                      29,308
+Mariapol, Russia                      31,116
+Maria Theresiopol, Hungary            82,122
+Marsala, Italy                        57,567
+Marseille, France                    517,498
+Mascara, Algieria                     22,934
+Maskat, Arabia                        60,000
+Massa, Italy                          26,413
+Matanzas, Cuba                        36,009
+Matsumoto, Japan                      35,011
+Matsuyama, Japan                      44,166
+Matsuye, Japan                        36,209
+Maulman, India                        58,446
+Mayebeshi, Japan                      41,716
+Mecca, Turkey in Asia                 60,000
+Mechlin, Belgium                      59,218
+Medellin, Colombia                    60,000
+Medina, Turkey in Asia                50,000
+Medinet-el-Fayoum, Egypt              40,350
+Meerut, India                        118,129
+Mehallet-el Kebir, Egypt              47,955
+Mekinez, Morocco                      56,000
+Melbourne, Australia                 508,450
+Mellawi, Egypt                        20,249
+Mendoza, Argentina                    32,000
+Mengtsz, China                        20,000
+Menuf, Egypt                          22,316
+Merida, Mexico                        43,630
+Merthyr Tydfil, Wales                 69,227
+Meshed, Persia                        60,000
+Messina, Italy                       149,778
+Metz, Germany                         60,419
+Mexico, Mexico                       344,721
+Middlesborough, England              105,255
+Milan, Italy                         584,000
+Minia, Egypt                          27,221
+Minsk, Russia                         91,912
+Mirzapur, India                       79,862
+Miskolcz, Hungary                     43,096
+Mitau, Russia                         35,131
+Mito, Japan                           38,435
+Modena, Italy                         64,813
+Modica, Italy                         48,962
+Moghiley-on-Dnieper, Russia           47,591
+Mohilef, Russia                       45,000
+Moji, Japan                           55,682
+Molenbeek, Belgium                    61,122
+Molfetta, Italy                       40,135
+Mombasa, Br. E. Africa                27,000
+Monastir, Turkey                      45,000
+Mons, Belgium                         27,349
+Monsul, Turkey                        61,000
+Monterey, Mexico                      62,266
+Montevideo, Uruguay                  316,000
+Montlucon, France                     35,062
+Montpelier, France                    77,114
+Montreal, Canada                     267,730
+Montreuil, France                     35,904
+Monza, Italy                          42,599
+Moradabad, India                      75,128
+Morelia, Mexico                       37,278
+Morika, Japan                         36,012
+Morocco, Morocco                      60,000
+Morshansk, Russia                     25,913
+Moscow, Russia                     1,359,254
+Mostaganem, Algeria                   22,011
+Motherwell, Scotland                  30,423
+Mountain Ash, Wales                   31,093
+Mukden, China                        160,000
+Mülhausen, Germany                    94,498
+Mülheim-on-Rhine, Germany             50,811
+Mülheim-on-Ruhr, Germany              93,599
+Multan, India                         87,394
+Munich, Germany                      538,983
+Munchen Glen, Germany                 60,709
+Münster, Germany                      81,468
+Murcia, Spain                        111,539
+Mustapha, Algeria                     38,327
+Muttra, India                         60,042
+Mysore, India                         68,111
+
+Nacaome, Honduras                     12,040
+Nafa, Japan                           47,562
+Nagano, Japan                         39,242
+Nagaoka, Japan                        35,376
+Nagasaki, Japan                       17,648
+Nagoya, Japan                        378,231
+Nagpur, India                        127,734
+Nagy-Koros, Hungary                   50,177
+Nakichevan, Russia                    40,384
+Namangan, Russia in Asia              62,017
+Namur, Belgium                        32,047
+Nanchang, China                      300,000
+Nancy, France                         10,570
+Nankin, China                        267,000
+Nanning, China                        40,000
+Nantes, France                       133,247
+Naples, Italy                        596,000
+Nara, Japan                           32,732
+Narbonne, France                      24,670
+Navanagan, India                      53,844
+Nawangar, India                       53,844
+Negapatam, India                      57,190
+Neisset, Germany                      24,367
+Nelson, England                       32,816
+Neuchatel, Switzerland                23,400
+Neuilly, France                       41,145
+Neumünster, Germany                   27,400
+Neustadt, Austria                     28,700
+Nevers, France                        27,673
+Newcastle, Australia                  58,620
+Newcastle, England                   281,584
+New Guatemala, Guatemala              96,560
+Newport, England                      78,336
+Nice, France                         134,232
+Nicolaistad, Russia                   18,600
+Nictheroy, Brazil                     35,000
+Niigata, Japan                        61,616
+Nijmegen, Netherlands                 49,342
+Nikolaief, Russia                     92,012
+Nimegven, Netherlands                 54,735
+Nimes, France                         80,184
+Ningpo, China                        260,000
+Nissa, Servia                         21,946
+Niuchwang, China                      52,000
+Nizhni Novgorod, Russia               90,053
+Nordhausen, Germany                   28,516
+Norköping, Sweden                     45,416
+Northampton, England                  97,752
+Norwich, England                     124,136
+Nottingham, England                  263,443
+Novara, Italy                         45,248
+Novgorod, Russia                      26,972
+Novo Cherkask, Russia                 51,963
+Novorossiisk, Russia                  16,897
+Neuva, San Salvador                   18,770
+Nuka, Russia                          24,811
+Nuremberg, Germany                   294,426
+Nyezhin, Russia                       32,113
+Nyneghyhaza, Hungary                  33,088
+
+Oaxaca, Mexico                        35,049
+Oberhausen, Germany                   52,166
+Odenburg, Hungary                     33,478
+Odense, Denmark                       40,547
+Odessa, Russia                       449,673
+Offenbach, Germany                    59,765
+Okayama, Japan                        93,421
+Oldenburg, Germany                    26,656
+Oldham, England                      143,301
+Oldmarghelan, Russia                  36,490
+Olmütz, Austria                       22,106
+Omdurman, Egypt                       69,000
+Omsk, Russia in Asia                  37,396
+Onomichi, Japan                       30,367
+Oporto, Portugal                     167,555
+Oppeln, Germany                       30,175
+Oran, Algeria                        106,577
+Orebro, Sweden                        28,583
+Orel, Russia                          69,735
+Orenburg, Russia                      72,425
+Orizaba, Mexico                       32,894
+Orleans, France                       68,614
+Oruro, Bolivia                        20,670
+Osaka, Japan                       1,226,590
+Osh, Russia                           34,157
+Osnabrück, Germany                    59,580
+Ostend, Belgium                       42,606
+Otaru, Japan                          91,281
+Otsu, Japan                           42,869
+Ottawa, Canada                        59,928
+Oulgaret, India                       54,965
+Ouro Preto, Brazil                    59,249
+Oviedo, Spain                         48,103
+Oxford, England                       52,774
+
+Paarl, C. of Good Hope                11,293
+Pachuca, Mexico                       37,487
+Padova, Italy                         82,281
+Padua, Italy                          82,281
+Paisley, Scotland                     85,604
+Pakhoi, China                         20,000
+Palembang, Sumatra                    53,788
+Palermo, Italy                       319,000
+Palma, Spain                          63,937
+Palmas, Canary Islands                44,517
+Panama, Panama                        30,000
+Para, Brazil                         100,000
+Paraquari, Paraguay                   10,000
+Paramaribo, Dutch Guiana              32,000
+Parana, Argentina                     27,000
+Paris, France                      2,763,393
+Parma, Italy                          49,340
+Partick, Scotland                     54,274
+Patiala, India                        53,545
+Patna, India                         134,785
+Patras, Greece                        37,724
+Pau, France                           35,044
+Pavia, Italy                          35,447
+Pecs, Hungary                         43,982
+Peking, China                      1,600,000
+Pelotas, Brazil                       41,591
+Penang, Straits Settlements           94,086
+Pensa, Russia                         59,981
+Perigueux, France                     38,898
+Perm, Russia                          45,205
+Pernambuco, Brazil                   150,000
+Perpignan, France                     36,157
+Perth, Australia                      42,474
+Perth, Scotland                       34,214
+Perugia, Italy                        61,385
+Pesaro, Italy                         25,103
+Peshawar, India                       95,147
+Peterborough, England                 30,870
+Petrozavoosk, Russia                  12,522
+Pforzheim, Germany                    59,789
+Philippopolis, East Roumelia          45,707
+Philippeville, Algeria                26,050
+Piacenza, Italy                       36,004
+Piatra, Roumania                      25,000
+Pietermaritzburg, Natal               34,676
+Pilsen, Austria                       68,079
+Pingyang, Korea                       40,000
+Pinsk, Russia                         27,938
+Piotrkof, Russia                      32,173
+Piraeus, Greece                       73,579
+Pirmasens, Germany                    30,200
+Pirot, Servia                         10,000
+Pisa, Italy                           61,321
+Pistoia, Italy                        62,606
+Plauen, Germany                      105,381
+Plevna, Bulgaria                      21,145
+Plock, Russia                         30,000
+Ployesti, Roumania                    48,000
+Plymouth, England                    124,180
+Pnum Penh, Cambodia                   50,000
+Point de Galle, Ceylon                48,500
+Poitiers, France                      39,302
+Pola, Austria                         40,892
+Poltava, Russia                       53,703
+Ponce, Porto Rico                     27,952
+Pondichery, India                     47,843
+Ponta Delgada, Portugal               17,620
+Poona, India                         153,320
+Pont-y-Pridd, Wales                   32,319
+Port au Prince, Haiti                100,000
+Portalegre, Portugal                  11,820
+Port Arthur, China
+[Transcriber's Note: number missing in original]
+Port de Paix, Haiti                   10,000
+Port Elizabeth, Cape of Good Hope     32,959
+Port Louis, Mauritius                 52,740
+Porto Alegre, Brazil                 100,000
+Port of Spain, Trinidad               54,100
+Porto Novo, Dahomey                   50,000
+Porto Maurizio, Italy                  7,141
+Port Said, Egypt                      49,884
+Portmouth, England                   214,726
+Posen, Germany                       136,808
+Potenza, Italy                        16,186
+Potosi, Bolivia                       23,450
+Potsdam, Germany                      61,414
+Pozarevatz, Servia                    12,162
+Pozsony, Hungary                      65,867
+Prague, Austria                      233,649
+Prato, Italy                          51,453
+Praya, Cape Verde Islands             20,000
+Presburg, Hungary                     65,867
+Preston, England                     118,519
+Pretoria, Transvaal                   36,700
+Prisrend, Turkey                      50,000
+Prossnitz, Austria                    24,343
+Przemysl, Austria                     46,295
+Pskof, Russia                         30,478
+Pueblo, Mexico                        93,521
+Puerto Ploto, S. Domingo              16,000
+Puntarenas, Costa Rica                 4,637
+Pu Ket, Siam                         179,600
+Pyrgos, Greece                        13,690
+
+Quebec, Canada                        68,840
+Quena, Egypt                          20,069
+Queretaro, Mexico                     33,152
+Quezaltenango, Guatemala              28,940
+Quito, Ecuador                        70,000
+
+Radom, Russia                         30,126
+Ragusa, Italy                         31,922
+Rampur, India                         78,758
+Randers, Denmark                      20,963
+Rangoon, India                       234,881
+Rathmines, Ireland                    32,472
+Ratisbon, Germany                     45,435
+Ravenna, Italy                        64,031
+Rawalpindi, India                     87,688
+Rawtenstall, England                  31,052
+Reading, England                      82,995
+Reggia, Emilia, Italy                 58,490
+Reggio, Calabria, Italy               44,415
+Reichenberg, Austria                  34,099
+Remscheid, Germany                    64,340
+Rennes, France                        75,640
+Resht, Persia                         40,000
+Reus, Spain                           26,235
+Revel, Russia                         64,572
+Rheims, France                       109,859
+Rheydt, Germany                       34,036
+Rhondda, Wales                       113,735
+Riabamba, Ecuador                     18,000
+Riazan, Russia                        44,552
+Richmond, England                     31,677
+Riga, Russia                         282,230
+Rimini, Italy                         43,203
+Rio de Janeiro, Brazil               811,265
+Rixdorf, Germany                     153,513
+Roanne, France                        35,516
+Rochdale, England                     89,653
+Rochefort, France                     36,694
+Rochester, England                    30,622
+Rodosto, Turkey                       42,000
+Rome, Italy                          575,000
+Rosario, Argentina                   150,000
+Rostock, Germany                      60,793
+Rostof, Russia                       119,476
+Rotherham, England                    54,348
+Rotterdam, Netherlands               411,635
+Rovigo, Italy                         11,174
+Roubaix, France                      121,017
+Rouen, France                        118,459
+Roulers, Belgium                      23,245
+Rowley Regis, England                 34,669
+Rustchuk, Bulgaria                    33,632
+Ryazan, Russia                        46,122
+
+Saga, Japan                           35,083
+Saharanpur, India                     66,254
+Saigon, Anam                          50,870
+St. Denis, France                     64,790
+St. Denis, Reunion Island             27,392
+St. Etienne, France                  146,788
+St. Gallen, Switzerland               55,400
+St. Gilles, Belgium                   56,750
+St. Helens, England                   95,161
+St. John, New Brunswick               40,711
+St. Johns, Newfoundland               31,501
+St. Louis, Senegal                    24,070
+St. Nazaire, France                   35,762
+St. Nicolas, Belgium                  33,661
+St. Ouen, France                      37,866
+St. Petersburg, Russia             1,678,000
+St. Quentin, France                   52,778
+Sakai, Japan                          61,103
+Salem, India                          70,621
+Salerno, Italy                        42,727
+Salford, England                     241,950
+Salonika, Turkey                     150,000
+Salta, Argentine                      18,000
+Saltillo, Mexico                      23,996
+Salzburg, Austria                     33,067
+Samara, Russia                        89,399
+Samarang, Java                        96,600
+Samarkand, Russia in Asia             58,194
+Samshui, China                         6,000
+San Jose, Costa Rica                  26,682
+San Juan, Argentine                   11,500
+San Juan, Porto Rico                  32,048
+San Luis Potosi, Mexico               61,019
+San Luis, Argentine                   10,500
+San Miguel, Salvador                  24,768
+San Pedro, Guatemala                  10,190
+San Pedro, Paraguay                    8,000
+San Salvador, Salvador                59,540
+San Sebastian, Spain                  37,812
+San Severo, Italy                     30,040
+Santa Ana, Salvador                   48,120
+Santa Cruz, Canary Island             38,419
+Santa Cruz, Bolivia                   20,535
+Santa Fe, Argentina                   33,200
+Santa Rosa, Honduras                  10,888
+Santander, Spain                      54,694
+Santiago, S. Domingo                  12,000
+Santiago, Chile                      332,724
+Santiago de Cuba, Cuba                45,470
+Santiago, Spain                       24,927
+Santo Domingo, S. Domingo             18,626
+Santos, Brazil                        35,000
+Santuao, China                         8,000
+San Vicente, Salvador                 17,832
+San Luiz, Brazil                      32,000
+Sao Paulo, Brazil                    348,000
+Sapporo, Japan                        70,084
+Saragossa, Spain                      99,118
+Saratof, Russia                      137,147
+Sasebo, Japan                         93,051
+Sassari, Italy                        38,268
+Savona, Italy                         38,355
+Scarborough, England                  38,160
+Schaerbeck, Belgium                   66,617
+Schiedam, Netherlands                 31,409
+Schoneberg, Germany                  141,010
+Schweidnitz, Germany                  28,448
+Schwerin, Germany                     38,672
+Sebastopol, Russia                    53,595
+Semipalatinsk, Russia                 36,040
+Sendai, Japan                         97,944
+Seoul, Korea                         150,000
+Seraing, Belgium                      42,638
+Serajevo, Austria-Hungary             41,174
+Seres, Turkey                         31,000
+Sergievsk, Russia                     31,413
+Serpukhov                             30,571
+Setif, Algeria                        21,792
+Setubal, Portugal                     22,074
+Seville, Spain                       148,315
+Shabatz, Servia                       12,151
+Shahjahanpur, India                   76,458
+Shanghai, China                      651,000
+Shasi, China                          86,000
+Shebinelkom                           21,576
+Sheffield, England                   470,958
+Sherbin, Egypt                        25,473
+Shidzvoka, Japan                      58,254
+Shimonoseki, Japan                    58,254
+Shiraz, Persia                        50,000
+Shizwoka, Japan                       48,744
+Sholapur, India                       75,288
+Shumula, Bulgaria                     22,275
+Shusha, Russia                        25,656
+Sialkot, India                        57,956
+Siangtan, China                      850,000
+Sidi-bel-Abbes, Algeria               24,494
+Sie Olce, Russia                      26,234
+Siena, Italy                          38,665
+Simbirsk, Russia                      44,111
+Simferopol, Russia                    49,078
+Singan, China                        875,000
+Singapore, Straits Settlements       193,089
+Siracusa, Italy                       32,030
+Siwas, Turkey in Asia                 43,100
+Skien, Norway                         11,394
+Skobelev, Russia in Asia               8,918
+Skutari, Turkey in Asia               80,000
+Slivno, Eastern Roumelia              25,027
+Smethwick, England                    54,560
+Smichow, Austria                      47,135
+Smolensk, Russia                      46,699
+Smyrna, Turkey in Asia               201,000
+Soderhamn, Sweden                     11,306
+Sofia, Bulgaria                      100,000
+Solingen, Germany                     45,260
+Sondrio, Italy                         8,171
+Sonsonate, Salvador                   17,016
+Sopron, Hungary                       33,478
+Southampton, England                 124,667
+Southport, England                    48,087
+South Shields, England               117,627
+Spandau, Germany                      70,295
+Spezia, Italy                         65,612
+Srinagar, India                      122,618
+Stanislaw, Austria                    29,956
+Stargard, Germany                     26,875
+Stavanger, Norway                     30,613
+Stavropol, Russia in Asia             41,590
+Stettin, Germany                     224,119
+Stockholm, Sweden                    339,582
+Stockport, England                   103,706
+Stockton-on-Tees, England             51,476
+Stoke-upon-Trent, England             30,476
+Stolp, Germany                        27,304
+Stralsund, Germany                    31,178
+Strasburg, Germany                   167,678
+Stratford, England                    43,000
+Stretford, England                    30,346
+Stryj, Austria                        23,300
+Stuttgart, Germany                   249,286
+Suchau, China                        500,000
+Sucre, Bolivia                        23,416
+Suez, Egypt                           24,970
+Suit, Egypt                           42,079
+Sumy, Russia                          28,511
+Sunderland, England                  159,378
+Sundsvail, Sweden                     16,278
+Surabaya, Java                       150,198
+Surakarta, Java                      125,006
+Surat, India                         119,300
+Suwalk, Russia                        22,648
+Swansea, Wales                        98,305
+Swatow, China                         67,000
+Swindon, England                      45,906
+Sydney, Australia                    508,501
+Syra, Greece                          18,132
+Syracuse, Italy                       32,687
+Syzran, Russia                        33,046
+Szabadka, Hungary                     82,122
+Szegedin, Hungary                    102,991
+Szekestejervar, Hungary               32,168
+Szemao, China                         15,000
+Szentes, Hungary                      31,307
+
+Taganrog, Russia                      58,928
+Taiwan, Formosa                       48,097
+Takaoka, Japan                        33,603
+Takamatsu, Japan                      42,578
+Takasaki, Japan                       39,961
+Talca, Chile                          38,040
+Talcahuano, Chile                     15,561
+Tambof, Russia                        49,208
+Tammerfors, Finland                   41,307
+Tamsui, Formosa                      100,000
+Tananarivo, Madagascar                55,579
+Tangier, Morocco                      30,056
+Tanjore, India                        57,870
+Tanta, Egypt                          54,437
+Taranto, Italy                        60,733
+Tarbes, France                        20,845
+Tarija, Bolivia                        7,817
+Tarnopol, Austria                     30,415
+Tarragona, Spain                      26,285
+Tashkend, Turkestan                  155,673
+Tatungkau, China                       3,000
+Tavasetehus, Russia                    5,626
+Tavira, Portugal                      12,175
+Tazriz, Persia                       200,000
+Tegucigalpa, Honduras                 34,692
+Teheran, Persia                      280,000
+Temesvar, Hungary                     53,033
+Temuco, Chile                         16,037
+Tengyueh, China                       10,000
+Teplitz, Austria                      24,560
+Terama, Italy                         24,563
+Terni, Italy                          30,641
+Theodosia, Russia                     27,236
+The Hague, Netherlands               259,012
+Thorn, Germany                        29,470
+Tientsin, China                      800,000
+Tiflis, Russia                       159,590
+Tilburg, Netherlands                  49,319
+Tilsit, Germany                       34,539
+Tipton, England                       30,543
+Tiraspol, Russia                      31,616
+Tiumen, Russia in Asia                35,000
+Tlemcen, Algeria                      39,757
+Tobolsk, Russia in Asia               21,401
+Tojama, Japan                         57,437
+Tokat, Turkey in Asia                 60,000
+Tokushina, Japan                      65,561
+Tokyo, Japan                       2,186,079
+Toledo, Spain                         23,393
+Toluca, Mexico                        25,904
+Tomsk, Russia in Asia                 67,419
+Torino, Italy                        371,000
+Toronto, Canada                      208,040
+Torquay, England                      33,625
+Torre del Greco, Italy                32,299
+Tortosa, Spain                        25,368
+Totonicapam, Guatemala                28,310
+Tottenham, England                   102,519
+Tottori, Japan                        32,682
+Toulon, France                       103,549
+Toulouse, France                     149,438
+Tour, France                          67,601
+Tourcoing, France                     81,671
+Tournay, Belgium                      37,640
+Toyohashi, Japan                      43,980
+Trani, Italy                          31,800
+Trapani, Italy                        59,452
+Trebizond, Turkey in Asia             35,000
+Treves, Germany                       43,506
+Treviso, Italy                        33,987
+Trichinopoli, India                  104,721
+Trient, Austria                       24,868
+Trieste, Austria                     221,993
+Trikhala, Greece                      17,809
+Trinidad, Bolivia                      4,810
+Tripoli, Tripoli                      35,000
+Tripolitsa, Greece                    10,958
+Trivandrum, India                     57,882
+Trondhjem, Norway                     38,180
+Troyes, France                        53,447
+Tsaritsyn, Russia                     55,186
+Tsu, Japan                            41,229
+Tucuman, Argentina                    55,000
+Tula, Russia                         114,733
+Tulcea, Roumania                      20,000
+Tunbridge Wells, England              33,388
+Tunis, Tunis                         176,500
+Turgai, Russia                           896
+Turin, Italy                         335,656
+Tver, Russia                          53,544
+Tynemouth, England                    51,514
+
+Uddevalla, Sweden                     12,059
+Udine, Italy                          37,942
+Ufa, Russia                           49,275
+Ujiyamada, Japan                      37,539
+Uipest, Hungary                       41,858
+Uleaborg, Russia                      17,869
+Ulm, Germany                          51,820
+Uitenhage, C. of Good Hope            12,193
+Uman, Russia                          31,016
+Umballa, India                        78,638
+Upsala, Sweden                        25,311
+Uralsk, Russia                        36,466
+Uskup, Turkey                         20,000
+Utrecht, Netherlands                 116,783
+Utsunomiya, Japan                     47,114
+
+Valdiva, Chile                        15,229
+Valence, France                       26,964
+Valencia, Spain                      213,530
+Valencia, Venezuela                   38,654
+Valenciennes, France                  30,946
+Valetta, Malta                        61,268
+Valladolid, Spain                     68,789
+Valparaiso, Chile                    162,447
+Vancouver, Br. Columbia               26,133
+Varna, Bulgaria                       37,417
+Vasteras, Sweden                      17,004
+Venice, Italy                        151,840
+Vera Cruz, Mexico                     29,164
+Vercelli, Italy                       31,154
+Versailles, France                    54,820
+Verviers, Belgium                     48,583
+Viborg, Russia                        35,065
+Vicenza, Italy                        44,777
+Victoria, Br. Columbia                20,816
+Vicuna (Verona), Italy                74,271
+Vienna, Austria                    2,085,888
+Villanova, India                      41,913
+Villa Rica, Paraguay                  25,000
+Villadel Pilar, Paraguay              10,000
+Vilna, Russia                        162,633
+Vina del Mar, Chile                   26,262
+Vincennes, France                     31,405
+Vinnitsa, Russia                      30,563
+Vitebsk, Russia                       65,871
+Victoria, Spain                       30,701
+Vittoria, Italy                       32,151
+Vladikavkas, Russia                   43,740
+Vladimir, Russia                      32,029
+Vladivostok, Russia in Asia           38,000
+Volgoda, Russia                       27,705
+Volo, Greece                          23,563
+Volsk, Russia                         27,572
+Voronezh, Russia                      71,071
+Vranye, Servia                        11,375
+Vyvatka, Russia                       25,008
+

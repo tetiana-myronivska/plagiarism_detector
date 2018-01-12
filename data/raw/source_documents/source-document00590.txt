@@ -1,0 +1,305 @@
+﻿Mr. Barnaby asked Mr. Linnington whether, in designing twin screws for a
+vessel of 8,000 i.h.p., he would make each screw, which would have to take
+4,000 i.h.p., of the same diameter as a screw for a single ship of 4,000
+i.h.p., of the same speed. Unfortunately in high speed vessels, from one
+point of view, the faster they went for a given power the smaller the
+diameter of the screw had to be, and the larger the pitch, so that in very
+high speed twin screw vessels the ratio of pitch to diameter would be found
+to come out very great indeed. In a twin screw torpedo boat, to be tried
+shortly, they had a ratio as high as 1.64. In the case of the Inflexible it
+was found, owing possibly to the position of the screw, that the whole of
+the plates immediately over the screws were damaged. Mr. Beckett Hill had
+been using, during the past three or four years, the twin screw steamers
+the Ludgate Hill, Richmond Hill, and Tower Hill. These were all over 4,000
+tons register, and indicated, when at work at full speed, 2,500 h.p. Before
+he and his friends built these steamers, they built some very large tug
+boats on the twin screw principle. At the present moment, four of the
+fastest steamers building for the Atlantic service were to have twin
+screws. The great obstacle to the extension of the twin screw in the
+mercantile navy had been the fear that the projection of these screws would
+make the vessels very difficult to handle, but he had found no such
+difficulties. He had found it an advantage to put the point of the
+propeller as near the deadwood as he could, without actually touching it,
+and in the large steamers, as well as in the tugs, the distance was a few
+inches. As to the point of safety, he thought it a great advantage to have
+twin screws, and on two occasions twin screw vessels had met with accidents
+which, but for the twin screws, would have necessitated their putting back
+to New York for repairs. The Richmond Hill, on one occasion, met with an
+accident to her machinery two days after leaving New York; but she was able
+to come on with the second set of engines, and was only one day late in the
+passage. No difficulty had been found in the docking and undocking of these
+vessels, either in London or Liverpool, and while with single screw vessels
+they had sometimes to employ one or two dock boats to dock and undock them,
+they never had to do so with the twin screw vessels. These vessels were 400
+ft. long, with 48 ft. breadth of beam--a very large size to handle in a
+river like the Thames. He noticed in the paper a propeller with a diameter
+of 15 ft. 6 in. to indicate 11,110 h.p., so that a great Atlantic steamer,
+which should indicate 11,000 or 12,000 h.p., and have a beam of about
+65ft., would have her screws very well protected.
+
+Mr. White said that as soon as it was found that with twin screws they lost
+nothing in efficiency, ship owners generally were contemplating their
+adoption, an admirable example of which had been set in the vessels of the
+Hill line. In adopting twin screws, the question whether they should
+overlap was one that deserved very serious consideration, and it was
+interesting to know, from experience gained by the vessels of the Hill
+line, that there was no difficulty in the way of the projection of the
+screws. With a moderate power, and with vessels of considerable size, the
+screws were well sheltered: but in the large ships which were contemplated,
+where there must necessarily be larger screws, this might be different, and
+become a difficulty.
+
+Mr. Linnington, in reply, said there was no reason to think that the twin
+screw at sea might not be as satisfactory, in comparison with the single
+screw, as it appeared in smooth water. As a matter of fact, one of the
+great advantages of twin screws was that at sea the condition of weather
+which would bring the single screw out of the water, and make it extremely
+inefficient, would have no appreciable effect on the twin screws. In
+vessels of deep draught especially, they were well immersed, and they were
+really more efficient at sea than in smooth water. In ships of full form,
+the longitudinal position of the screws was of importance; but in the ships
+referred to in this table the run was very fine, and the screws were well
+covered by the hull. He did not think, in such a case, any small difference
+in longitudinal position would affect the performance. If any alteration
+were made, it would probably be better to put the screws farther off. When
+the rudder was hard over, the blades of the screw should be about a foot
+clear of the rudder.--_Industries_.
+
+       *       *       *       *       *
+
+
+RECENT ADVANCES IN SEWING MACHINERY.
+
+[Footnote: A recent lecture before the Society of Arts, London.]
+
+By JOHN W. URQUHART.
+
+
+The distinct improvements in sewing machinery to which I would invite your
+attention this evening have reference more particularly to the results of
+inventive effort within the past ten years. But although marked development
+in the machines has occurred in so short a time, it may be taken for
+granted that those advances are but the accumulated results of many years'
+prior invention and experience of stitching appliances.
+
+The history of the sewing machine, and the decision of the great question,
+Who invented an apparatus that would unite fabrics by stitches? do not at
+present concern us. Many sources of information are open to those who would
+decide that extremely involved problem. But whether the production of the
+first device of this kind be claimed for England or for America, it is
+quite certain that no one man invented the perfect machine, and that those
+fine specimens of sewing apparatus shown here to-night embody the labors of
+many earnest workers, both in Europe and America.
+
+Most of us are familiar with the arrangements of an ordinary lock stitch
+machine, and an able paper by Mr. Edwin P. Alexander, embracing not only a
+good account of its history, but most of the elements of the earlier
+machines, has already (April 5, 1863), been read before you. This, and
+sundry descriptions of such apparatus in the engineering papers, confine my
+remarks to the more recent improvements in three great classes of machines.
+These are, briefly, plain sewing machines; sewing machines as used in
+factories, where they are moved by steam power; and special sewing
+machines, embracing many interesting forms, only recently introduced. We
+have thus to consider, in the first place, the general efficiency of the
+machine as a plain stitcher. Secondly, its adaptability to high rates of
+speed, and the provision that has been made to withstand such velocities
+for a reasonable time. And, thirdly, the apparatus and means employed to
+effect the controlling of the motive power when applied to the machines.
+
+To deal with the subject in this way must, I fear, involve a good deal of
+technical description; and I hope to be pardoned if in attempting to
+elucidate the more important devices, use must be made of words but seldom
+heard outside of a machinists' workshop.
+
+It appears scarcely necessary to premise that the sewing machine of twenty
+years ago has almost faded away, save, perhaps, in general exterior
+appearance; that the bell crank arms, the heart cams, the weaver's
+shuttles, the spring "take ups," rectangular needle bars, and gear wheels,
+have developed into very different devices for performing the various
+functions of those several parts.
+
+The shuttle is perhaps the most important part of a lock stitch machine.
+But what is a shuttle? So many devices for performing the functions of the
+early weaver's shuttle have been introduced of late, that the word shuttle,
+if it be used at all, must not be accepted as meaning "to shoot." We have
+vibrating shuttles, which are, strictly speaking, the only surviving
+representatives of the weaver's shuttle in these new orders of machines;
+and stationary shuttles, oscillating shuttles, and revolving shuttles,
+besides the earlier rotating hook, in several new forms, difficult to name.
+But the general acceptation of the word shuttle, as indicating those
+devices that pass bodily through the loop of upper thread, is, I venture to
+think, sufficiently correct.
+
+Many changes have been effected in the form, size, and movements of the
+shuttle, and we may profitably inquire into the causes that have induced
+manufacturers to abandon the earlier forms. The long, weaver's kind of
+shuttle, originally used by Howe and Singer, had many drawbacks. Mr. A.B.
+Wilson's ingenious device, the lock stitch rotating hook, was not free from
+corresponding faults. The removal of these in both has led to the adoption
+of an entirely new class of both shuttles and revolving hooks. It is well
+known that the lock stitch is formed by the crossing of two threads, one of
+which lies over, and the other under, the cloth to be sewn. This crossing
+point, to insure integrity of the stitch, must occur as nearly as possible
+in the middle of the thickness of the fabric. The crossing must also be
+effected while a certain strain, called tension, is imposed upon both
+threads. If the tension of one thread should outweigh that of the other,
+the locking point becomes displaced. If the tension be insignificant, the
+stitches will be loose. If the tension should vary, as in the long shuttle,
+there will occur faulty points in the seam.
+
+In the earlier rotating hook the tension depended upon the friction
+developed between the spool and the hook. This tension, therefore, varied
+in proportion to the speed of the latter, and could never be constant. This
+was quite apart from the frictional resistance offered to the upper thread
+in passing over the cavity of the hook.
+
+In the shuttle the tension was obtained by threading through holes in the
+shell, or beneath a tension plate, as in Howe's machine. This tension, so
+long as the reel ran between spring centers, was never constant. The
+variation was chiefly due to the angular strain set up when unwinding from
+the reel. This strain varied according to the point of unwinding. It was
+light in the middle of the reel and heavy at either extremity. These
+drawbacks caused immense anxiety to the first makers of sewing machines,
+and numerous attempts to overcome them led to little improvement. With
+reference to high rates of speed, the older shuttle, requiring a long and
+noisy reciprocation, had its disadvantages.
+
+The only effective remedy for these drawbacks was a radical one. It was
+necessary to substitute depth of reel for length. Hence, several attempts
+have been made to construct disk or ring shuttles. Many forms of those have
+been tried. They all depend upon the principle of coiling up the thread in
+a vertical plane, rather than in horizontal spirals. Some makers placed the
+disk in a horizontal plane, and caused it to revolve. Nothing could be
+worse, as will be seen, if we follow the course the enveloping loop must
+take in encircling such a shuttle. But a complete solution of the
+difficulty of employing a ring shuttle has been achieved in the oscillating
+form, invented by Mr. Phil. Diehl, and known as Singer's (Fig. 1). A short
+examination of it may profitably engage your attention. The shuttle itself
+is sufficiently well known, but certain features of it, and to which it
+owes its efficiency, appear to call for some explanation. Its introduction
+dates back some years, during which time it has undergone certain
+modifications.
+
+[Illustration: FIG. 1.]
+
+It consists of a thick disk bobbin of thread, _h_, fitting loosely in a
+case constructed in the form of a bivalve, _a_ and _d_. This case is
+furnished with a long beak, usually forming a continuation of the
+periphery. The beak is intended to enter and detain the loops of upper
+thread, and lead them so that they ultimately envelop the shuttle, a motion
+of the thread which is chiefly due to the oscillation of the shuttle in a
+vertical plane. The oscillating movement is to the extent of 180 degs. of
+the circle, which suffices to cast the loops freely over the shuttle. The
+center of oscillation is not coincident with the center of the shuttle; but
+it is nearly so with the periphery of the thread reel, and exactly
+coincides with the point where the under thread is drawn from the shuttle,
+_g_. The shuttle thread is thus entirely freed from any tendency to twist,
+an objection frequently urged against circular or revolving shuttles. It
+will be observed, also, that the body of the shuttle is extremely narrow.
+Bulging of the thread loops to one side or the other is thus obviated.
+
+But the long beak in this description of shuttle serves an important
+purpose other than that of seizing the upper thread loops, otherwise a very
+short beak would be preferable. It adds so much to the efficiency of the
+machine that a little further explanation of it appears essential. In the
+old fashioned machines the thread required to envelop the shuttle was
+dragged downward through the cloth, while the needle still remained in the
+fabric. This necessitated the use of large needles with deep side channels,
+to enable the thread to run freely, and as a consequence the punctures that
+had to be made in the fabric were unnecessarily large, and could not in any
+case be entirely filled by the thread, a condition which is now recognized
+as essential in linen stitching and for waterproof boots.
+
+The long beak in both shuttles and hooks offers an immediate solution of
+the old difficulty experienced with long shuttles. When the needle begins
+to rise, the shuttle commences to oscillate, through the loop, the motions
+so coinciding that the long beak, c, merely detains the loop until the eye
+of the needle has ascended above the cloth; then, and then only, does the
+envelopment of the shuttle commence, and the thread required for it flows
+downward through the puncture. The envelopment is completed before the
+needle has attained its highest point, and the consequent loose thread is
+immediately pulled up by a lever, called a positive take-up, before the
+needle begins to descend for a fresh stitch. In this way little or no
+movement of the thread is required in the cloth while the puncture made is
+occupied by the needle. The result is the capability of such apparatus to
+work with an incredibly fine needle--indeed, so fine as to be no thicker
+than the incompressed thread itself. This would have been considered quite
+impossible of accomplishment by our earlier machine makers. The advantage
+thereby gained in stitching linen goods, and in sewing leather, where every
+puncture of the needle should be quite filled by the thread, is at once
+apparent. Indeed, a rubber or leather sack, stitched in this way, will
+contain water without leakage--a very extreme test.
+
+_Revolving Shuttles_.--The class of shuttles known as revolving or
+rotating, and which really consist of a combination of the disk shuttle and
+the earlier rotating hook of Wilson, have been under trial by several
+makers for many years. If, for example, the oscillating shuttle we have
+just examined were to complete its circular movement, it would constitute a
+revolving shuttle, but would not be quite similar to those devices now
+known as such. The most remarkable device of this kind yet introduced is to
+be found in Wheeler & Wilson's machine known as No. 10 D, and invented by
+Mr. Dials last year. It consists, in fact, of a detached hook, and its
+inventor declines to class it with shuttles at all, styling it a detached
+hook. It consists of an exterior shell or skeleton of steel, capable of
+rotation in an annular raceway. Its detachment from the axis forms a
+striking exception to the general construction of interlocking apparatus in
+this company's machines. Under the beak of this curious device is found an
+oblong recess, into which fits loosely a carrier or driver, rotating with a
+differential or variable motion. The space between the carrier and the
+sides of the recess is sufficient to permit the free passage of the thread
+in encircling the shuttle, and the differential movement ingeniously
+releases the contact between the hook and carrier. The skeleton of this
+device is only one-sided, and does not really carry its bobbin in the
+course of its revolution. The bobbin is placed in a cup-like holder, which
+lies within the shuttle or hook body, and is retained in position by a
+latch hinged to the bed of the machine. The cup and bobbin are prevented
+from partaking of the rotatory movement by a steel spur projecting from the
+cup, and fitting loosely into a notch in the latch. Tension upon the under
+thread is obtained by passing it under a tension plate upon the bobbin cup.
+Twisting of the thread is by these means entirely obviated. In this
+apparatus, the disk-like appearance of the bobbin is partially lost in its
+considerable breadth, and there is thus a distinct departure from the lines
+of the ring shuttles before mentioned. The diagrams exhibit the hook in
+several positions during its revolution, and the position of the threads
+corresponding thereto.
+
+[Illustration: FIG. 2]
+
+_Fixed Rotating Hooks_.--Wilson's rotating hook for lock stitch machines,
+and Gribbs' hook for single thread machines, are both well known. In the
+year 1872, the Wheeler & Wilson company introduced a new hook, forming an
+improvement upon Wilson's original device (Fig. 3). Its chief peculiarity
+consists in the extension of the termination of the periphery, forming a
+long tail piece, quite overlapping the point, and serving as a guard, both
+to keep off the bobbin thread and to prevent collision between bobbin and
+needle.
+
+[Illustration: FIG. 3.]
+
+This improved class of hooks are provided with a much deeper cavity than
+those first introduced, an arrangement permitting of the employment of a
+more commodious bobbin, which is generally covered by a cap, as in the
+revolving shuttle, but free to revolve. In some cases the cap carries a
+tension plate preventing its revolution with the hook. But beyond these
+improvements on Wilson's original device, the utility of the hook mainly
+depends upon two things quite apart from the hook itself. These are the
+dispensing with the old fashioned check brush and the use of a positive
+take-up.
+
+Thus, in the original machine, the stitch was pulled up by the succeeding
+revolution of the hook. For while one revolution sufficed to cast it over
+the spool, a second turn was requisite to complete the stitch. In this way,
+to make a first stitch with such an apparatus required two turns of the
+rotating hook. The improvements mentioned enable the machine to complete a
+stitch with one turn of the hook--an important step in advance, when we
+consider that by the old method each length of slack thread must be
+tightened up solely through the fabric and the needle eye. But this
+particular arrangement bears so much upon the introduction of the positive
+take-up itself that further reference to it must be reserved until that
+device has been described.
+
+_Simple Thread Hooks_.--The best known of these is Willcox & Gibbs. It has
+been so often described, that no further reference to it may be made. It
+continues to make the same excellent twisted stitch as it produced
+twenty-five years ago.
+

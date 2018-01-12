@@ -1,0 +1,304 @@
+﻿At a certain stage in the history of the Western world--the exact point
+in time may be disputed but the event is admitted by all--men turned to
+explore the treasures of the ancient wisdom and the whole mass of Greek
+medical learning was gradually laid before the student. That mass
+contained much dross, material that survived from early as from late
+Greek times which was hardly, if at all, superior to the debased
+compositions that circulated in the name of medicine in the middle
+centuries. But the recovered Greek medical writings also contained some
+material of the purest and most scientific type, and that material and
+the spirit in which it was written, form the debt of modern medicine to
+antiquity.
+
+It is a debt the value of which cannot be exaggerated. The physicians of
+the revival of learning, and for long after, doubtless pinned their
+faith too much to the written word of their Greek forbears and sought to
+imprison the free spirit of Hippocrates and Galen in the rigid wall of
+their own rediscovered texts. The great medical pioneers of a somewhat
+later age, enraged by this attempt, the real nature of which was largely
+hidden from them, not infrequently revolted and rightly revolted against
+the bondage to the Greeks in which they had been brought up. Yet it is
+sure that these modern discoverers were the true inheritors of the
+Greeks. Without Herophilus we should have had no Harvey and the rise of
+physiology might have been delayed for centuries; had Galen's works not
+survived, Vesalius would never have reconstructed Anatomy, and Surgery
+too might have stayed behind with her laggard sister, Medicine; the
+Hippocratic collection was the necessary and acknowledged basis for the
+work of the greatest of modern clinical observers, Thomas Sydenham, and
+the teaching of Hippocrates and of his school is the substantial basis
+of instruction in the wards of a modern hospital. In the pages which
+follow we propose therefore to review the general character of medical
+knowledge in the best Greek period and to consider briefly how much of
+that great heritage remained accessible to the earlier modern
+physicians. The reader will thus be able to form some estimate of the
+degree to which the legacy has been passed on to our own times.
+
+It is evident that among such a group of peoples as the Greeks, varying
+in state of civilization, in mental power, in geographical and economic
+position and in general outlook, the practice of medicine can have been
+by no means uniform. Without any method of centralizing medical
+education and standardizing teaching there was a great variety of
+doctrines and of practice in vogue among them, and much of this was on a
+low level of folk custom. Such lower grade material of Greek origin has
+come down to us in abundance, though much of it, curiously enough, from
+a later time. But the overwhelming mass of earlier Greek medical
+literature sets forth for us a pure scientific effort to observe and to
+classify disease, to make generalizations from carefully collected data,
+to explain the origin of disease on rational grounds, and to apply
+remedies, when possible, on a reasoned basis. We may thus rest fairly
+well assured that, despite serious and irreparable losses, we are still
+in possession of some of the very finest products of the Greek medical
+intellect.
+
+There is ample evidence that the Greeks inherited, in common with many
+other peoples of Mediterranean and Asiatic origin, a whole system of
+magical or at least non-rational pharmacy and medicine from a remoter
+ancestry. Striking parallels can be drawn between these folk elements
+among the Greeks and the medical systems of the early Romans, as well as
+with the medicine of the Indian Vedas, of the ancient Egyptians, and of
+the earliest European barbarian writings. It is thus reasonable to
+suppose that these elements, when they appear in later Greek writings,
+represent more primitive folk elements working up, under the influence
+of social disintegration and consequent mental deterioration, through
+the upper strata of the literate Greek world. But with these elements,
+intensely interesting to the anthropologist, the psychologist, the
+ethnologist, and to the historian of religion, we are not here greatly
+concerned. Important as they are, they constitute no part of the special
+claim of the Greek people to distinction, but rather aid us in uniting
+the Greek mentality with that of other kindred peoples. Here we shall
+rather discuss the course of Greek scientific medicine proper, the type
+of medical doctrine and practice, capable of development in the proper
+sense of the word, that forms the basis of our modern system. We are
+concerned, in fact, with the earliest evolutionary medicine.
+
+We need hardly discuss the first origins of Greek Medicine. The material
+is scanty and the conclusions somewhat doubtful and perhaps premature,
+for the discovery of a considerable fragment of the historical work of
+Menon, a pupil of Aristotle, containing a description of the views of
+some of the precursors of the Hippocratic school, renews a hope that
+more extended investigation may yield further information as to the
+sources and nature of the earliest Greek medical writings.[57] The study
+of Mesopotamian star-lore has linked it up with early Greek astronomical
+science. The efforts of cuneiform scholars have not, however, been
+equally successful for medicine, and on the whole the general tendency
+of modern research is to give less weight to Mesopotamian and more to
+Egyptian sources than had previously been admitted; thus very recently
+an Egyptian medical papyrus of about 1700 B. C. has been described which
+bears a distinct resemblance to some of the Hippocratic treatises.[58] A
+number of drugs, too, habitually used by the Greeks, such as
+_Andropogon_, _Cardamoms_, and _Sesame orientalis_, are of Indian
+origin. There are also the Minoan cultures to be considered, and though
+our knowledge is not yet sufficient to speak of the heritage that Greek
+medicine may or may not have derived from that source, it seems not
+improbable that Greek hygiene may here owe a debt.[59] Omitting,
+therefore, this early epoch, we pass direct to the later period,
+between the sixth and fourth centuries, from which documents have
+actually come down to us.
+
+    [57] This fragment has been published in vol. iii, part 1, of the
+    _Supplementum Aristotelicum_ by H. Diels as _Anonymi Londinensis ex
+    Aristotelis Iatricis Menonis et Aliis Medicis Eclogae_, Berlin,
+    1893. See also H. Bekh and F. Spät, _Anonymus Londinensis, Auszuge
+    eines Unbekannten aus Aristoteles-Menons Handbuch der Medizin_,
+    Berlin, 1896.
+
+    [58] As we go to press there appears a preliminary account of the
+    very remarkable Edwin Smith papyrus, see J. H. Breasted in _Recueil
+    d'études egyptologiques dédiées à la mémoire de Champollion_, Paris
+    1922, and _New York Historical Society Bulletin_, 1922.
+
+    [59] It is tempting, also, to connect the Asclepian snake cult with
+    the prominence of the serpent in Minoan religion.
+
+The earliest medical school of which we have definite information is
+that of Cnidus, a Lacedaemonian colony in Asiatic Doris. Its origin may
+perhaps reach back to the seventh century B. C. We have actual records
+that the teachers of Cnidus were accustomed to collect systematically
+the phenomena of disease, of which they had produced a very complex
+classification, and we probably possess also several of their actual
+works. The physicians of Cos, their only contemporary critics whose
+writings have survived, considered that the Cnidian physicians paid too
+much attention to the actual sensations of the patient and to the
+physical signs of the disease. The most important of the Cnidian
+doctrines were drawn up in a series of _Sentences_ or Aphorisms, and
+these, it appears, inculcated a treatment along Egyptian lines of the
+symptom or at most the disease, rather than the patient, a statement
+borne out by the contents of the gynaecological works of probable
+Cnidian origin included in the so-called 'Hippocratic Collection'. A few
+names of Cnidian physicians have, moreover, come down to us with titles
+of their works, and a later statement that they practised anatomy. There
+can be little doubt too that the Cnidian school drew also on Persian and
+Indian Medicine.
+
+The origin of the school of the neighbouring island of Cos was a little
+later than that of Cnidus and probably dates from the sixth century B.
+C. Of the Coan school, or at least of the general tendencies that it
+represented, we have a magnificent and copious literary monument in the
+Corpus Hippocraticum, a collection which was probably put together in
+the early part of the third century B. C. by a commission of Alexandrian
+scholars at the order of the book-loving Ptolemy Soter (reigned 323-285
+B. C.). The elements of which this collection is composed are of varying
+dates from the sixth to the fourth century B. C., and of varying value
+and origin, but they mainly represent the point of view of physicians
+of the eastern part of the Greek world in the fifth and fourth
+centuries.
+
+The most obvious feature, the outstanding element that at once strikes
+the modern observer in these 'Coan' writings, is the enormous emphasis
+laid on the actual course of disease. 'It appears to me a most excellent
+thing', so opens one of the greatest of the Hippocratic works, 'for a
+physician to cultivate _pronoia_.[60] Foreknowing and foretelling in the
+presence of the sick the past, present, and future (of their symptoms)
+and explaining all that the patients are neglecting, he would be
+believed to understand their condition, so that men would have
+confidence to entrust themselves to his care.... Thus he would win just
+respect and be a good physician. By an earlier forecast in each case he
+would be more able to tend those aright who have a chance of surviving,
+and by foreseeing and stating who will die, and who will survive, he
+will escape blame....'[61]
+
+    [60] This word _pronoia_, as Galen explains (εις το Ἱπποκρατους
+    προγνωστικον {eis to Hippokratous prognôstikon}, K. xviii, B. p.
+    10), is not used in the philosophic sense, as when we ask whether
+    the universe was made by chance or by _pronoia_, nor is it used
+    quite in the modern sense of _prognosis_, though it includes that
+    too. _Pronoia_ in Hippocrates means knowing things about a patient
+    before you are told them. See E. T. Withington, 'Some Greek medical
+    terms with reference to Luke and Liddell and Scott,' _Proceedings of
+    the Royal Society of Medicine_ (_Section of the History of
+    Medicine_), xiii, p. 124, London, 1920.
+
+    [61] _Prognostics_ 1.
+
+Just as the Cnidians by dividing up diseases according to symptoms
+over-emphasized diagnosis and over-elaborated treatment, so the Coans
+laid very great force on prognosis and adopted therefore a largely
+expectant attitude towards diseases. Both Cnidian and Coan physicians
+were held together by a common bond which was, historically if not
+actually, related to temple worship. Physicians leagued together in the
+name of a god, as were the Asclepiadae, might escape, and did escape,
+the baser theurgic elements of temple medicine. Of these they were as
+devoid as a modern Catholic physician might be expected to be free from
+the absurdities of Lourdes. But the extreme cult of prognosis among the
+Coans may not improbably be traced back to the medical lore of the
+temple soothsayers whose divine omens were replaced by indications of a
+physical nature in the patient himself.[62] We are tempted too to link
+it with that process of astronomical and astrological prognosis
+practised in the Mesopotamian civilizations from which Ionia imitated
+and derived so much. Religion had thus the same relation to medicine
+that it would have with a modern 'religious' medical man as suggesting
+the motive and determining the general direction of his practice though
+without influence on the details and method.
+
+    [62] There is a discussion of the relation of the Asclepiadae to
+    temple practice in an article by E. T. Withington, 'The Asclepiadae
+    and the Priest of Asclepius,' in _Studies in the History and Method
+    of Science_, edited by Charles Singer, vol. ii, Oxford, 1921.
+
+During the development of the Coan medical school along these lines in
+the sixth and fifth centuries, there was going on a most remarkable
+movement at the very other extreme of the Greek world. Into the course
+and general importance of Sicilian philosophy it is not our place to
+enter, but that extraordinary movement was not without its repercussion
+on medical theory and practice. Very important in this direction was
+Empedocles of Agrigentum (_c._ 500-_c._ 430 B. C.). His view that the
+blood is the seat of the 'innate heat', εμφυτον θερμον {emphyton
+thermon}, he took from folk belief--'the blood is the life'--and this
+innate heat he closely identified with soul. More profitable was his
+doctrine that breathing takes place not only through what are now known
+as the respiratory passages but also through the pores of the skin. His
+teaching led to a belief in the heart as the centre of the vascular
+system and the chief organ of the 'pneuma' which was distributed by the
+blood vessels. This pneuma was equivalent to both soul and life, but it
+was something more. It was identified with air and breath, and the
+pneuma could be seen to rise as shimmering steam from the shed blood of
+the sacrificial victim--for was not the blood its natural home? There
+was a pneuma, too, that interpenetrated the universe around us and gave
+it those qualities of life that it was felt to possess. Anaximenes (_c._
+610-_c._ 545 B. C.), an Ionian predecessor of Empedocles, may be said to
+have defined for us these functions of the pneuma; ὁιον ἡ ψυχη ἡ ἡμετερα
+αηρ ουσα συγκρατει ἡμας, ὁλον τον κοσμον πνευμα και αηρ περιεχει {hoion
+hê psychê hê hêmetera aêr ousa synkratei hêmas, holon ton kosmon pneuma
+kai aêr periechei}, 'As our soul, being air, sustains us, so pneuma and
+air pervade the whole universe';[63] but it is the speculation of
+Empedocles himself that came to be regarded as the basis of the
+Pneumatic School in Medicine which had later very important
+developments.
+
+    [63] The works of Anaximenes are lost. This phrase of his, however,
+    is preserved by the later writer Aetios.
+
+Another early member of the Western school who made important
+contributions to medical doctrine--in which relation alone we need
+consider him--was Pythagoras of Samos (_c._ 580-_c._490 B. C.). For him
+number, as the purest conception, formed the basis of philosophy. Unity
+was the symbol of perfection and corresponded to God Himself. The
+material universe was represented by 2, and was divided by the number
+12, whence we have 3 worlds and 4 spheres. These in turn, according at
+least to the later Pythagoreans, give rise to the four elements, earth,
+air, fire, and water--a primary doctrine of medicine and of science
+derived perhaps from ancient Egypt and surviving for more than two
+millennia. The Pythagoreans taught, too, of the existence of an animal
+soul, an emanation of the soul of the universe. In all this we may
+distinguish the germ of that doctrine of the relation of man and
+universe, microcosm and macrocosm, which, suppressed as irrelevant in
+the Hippocratic works, reappears in the Platonic and especially in the
+Neoplatonic writings, and forms a very important dogma in later
+medicine.
+
+A pupil of Pythagoras and an older contemporary of Empedocles was
+Alcmaeon of Croton (_c._ 500 B. C.), who began to construct a positive
+basis for medical science by the practice of dissection of animals, and
+discovered the optic nerves and the Eustachian tubes. He even extended
+his researches to Embryology, describing the head of the foetus as the
+first part to be developed--a justifiable deduction from appearances.
+Alcmaeon introduced also the doctrine that health depends on harmony,
+disease on discord of the elements within the body. Curiosity as to the
+distribution of the vessels was excited by Empedocles and Alcmaeon and
+led to further dissection, and Alcmaeon's pupils Acron (_c._ 480 B. C.)
+and Pausanias (_c._ 480 B. C.), and the later Philistion of Lokri,[64]
+the contemporary of Plato, all made anatomical investigations.
+
+    [64] For the work of these physicians see especially M. Wellmann,
+    _Fragmentsammlung der griechischen Aerzte_, Bd. I, Berlin, 1901.
+
+The views of Empedocles, and especially his doctrine that regarded the
+heart as the main site of the pneuma, though rejected by the Coan school
+as a whole, were not without influence on Ionia. Diogenes of Apollonia,
+the philosopher of pneumatism, a late fifth-century writer who must have
+been contemporary with Hippocrates the Great, himself made an
+investigation of the blood vessels; and the influence of the same school
+may be traced in a little work περι καρδιης {peri kardiês}, _On the
+heart_, which is the best anatomical treatise of the Hippocratic
+Collection. This work describes the aorta and the pulmonary artery as
+well as the three valves at the root of each of the great vessels, and
+it speaks of experiments to test their validity. It treats of the
+pericardium and of the pericardial fluid and perhaps of the musculi
+papillares, and contrasts the thickness of the walls of right and left
+ventricles. The author considers that the left ventricle is empty of
+blood--as indeed it is after death--and is the source of the innate heat
+and of the absolute intelligence. These views fit in with the doctrines
+of Empedocles, so that we may perhaps even venture to regard this work
+as a surviving document of the Sicilian school. It is interesting to
+observe that we have here the first hint of human dissection, for the
+author tells us that the hearts of animals may be compared to that of
+man. The distinction of having been the first to write on human anatomy,
+as such, belongs however, probably to a later writer, Diocles, son of
+Archidamus of Carystus, who lived in the fourth century B. C.[65]
+
+    [65] Galen, περι ανατομικων εγχειρησεων {peri anatomikôn
+    encheirêseôn}, _On anatomical preparations_, § 1, K. II, p. 282.
+
+We may now turn to the Hippocratic Corpus as a whole. This collection
+consists of about 60 or 70 separate works, written at various periods
+and in various states of preservation. At best only a very small
+proportion of them can be attributed to Hippocrates, but the discussion
+of the general question of the 'genuineness' of the works is now
+admitted to be futile, for it is certain that we have no criteria
+whatever to determine whether or no a particular work be from the pen of
+the Father of Medicine, and the most we can ever say of such a treatise
+is that it appears to be of his school and in his spirit. Yet among the
+great gifts of this collection to our time and to all time are two which
+stand out above all others, the picture of a man, and the picture of a
+method.
+

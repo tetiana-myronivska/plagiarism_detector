@@ -1,0 +1,3487 @@
+﻿Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net. (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+THE CHEMISTRY,
+
+PROPERTIES AND TESTS OF
+
+PRECIOUS STONES
+
+       *       *       *       *       *
+
+BY THE SAME AUTHOR
+
+THE STOLEN PLANET. (2nd edition.) 3s. 6d.
+
+THROUGH THE SUN IN AN AIRSHIP. 6s.
+
+THE IMMORTAL LIGHT. (2nd edition.) 6s.
+
+    C. GRIFFIN AND CO., LTD.
+
+THE AUTOBIOGRAPHY OF A PICTURE.
+(2nd edition.) 3s. 6d.
+
+THIS WORKADAY WORLD. (In the Press.)
+
+    HENRY J. DRANE.
+
+PEPPER'S BOY'S PLAYBOOK OF SCIENCE.
+
+(New edition.) Now in Press, revised, re-written and re-illustrated by
+DR. JOHN MASTIN.
+
+    GEORGE ROUTLEDGE AND SONS, LTD.
+
+ETC. ETC.
+
+       *       *       *       *       *
+
+
+THE CHEMISTRY, PROPERTIES
+
+AND TESTS
+
+OF
+
+PRECIOUS STONES.
+
+BY
+
+JOHN MASTIN, M.A. D.SC. PH.D. LITT.D.
+
+F.S A.SCOT. F.L.S. F.C.S. F.R.A.S. F.R.M.S. R.B.A.
+
+_Author of "Parasites of Insects," "The True Analysis of Milk,"
+"Plate-Culture and Staining of Amoebæ," etc., etc._
+
+
+_London_
+
+E. & F. N. SPON, LIMITED, 57 HAYMARKET
+
+_NEW YORK_
+
+SPON & CHAMBERLAIN, 123 LIBERTY STREET
+
+1911
+
+
+Transcriber's note:
+
+For Text: A word surrounded by a cedilla such as ~this~ signifies that
+the word is bolded in the text. A word surrounded by underscores like
+_this_ signifies the word is italics in the text. The italic and bold
+markup for single italized letters or "foreign" abbreviations are
+deleted for easier reading.
+
+For numbers and equations: Parentheses have been added to clarify
+fractions. Underscores before bracketed numbers in equations denote a
+subscript.
+
+
+CONTENTS
+
+
+CHAPTER                                                           PAGE
+
+I INTRODUCTORY                                                       1
+
+II THE ORIGIN OF PRECIOUS STONES                                     7
+
+III  PHYSICAL PROPERTIES--(A) CRYSTALLINE STRUCTURE                 13
+
+IV       "          "     (B) CLEAVAGE                              19
+
+V        "          "     (C) LIGHT                                 26
+
+VI       "          "     (D) COLOUR                                32
+
+VII      "          "     (E) HARDNESS                              39
+
+VIII     "          "     (F) SPECIFIC GRAVITY                      45
+
+IX       "          "     (G) HEAT                                  52
+
+X        "          "     (H) MAGNETIC AND ELECTRIC INFLUENCES      57
+
+XI THE CUTTING OF PRECIOUS STONES                                   62
+
+XII IMITATIONS, AND SOME OF THE TESTS OF PRECIOUS STONES            70
+
+XIII  VARIOUS PRECIOUS STONES                                       80
+
+XIV      "       "       "  (_continued_)                           88
+
+XV       "       "       "        "                                 98
+
+
+PREFACE
+
+
+Some little time ago certain London diamond merchants and wholesale
+dealers in precious stones made the suggestion to me to write a work on
+this section of mineralogy, as there did not appear to be any giving
+exactly the information most needed.
+
+Finding there was a call for such a book I have written the present
+volume in order to meet this want, and I trust that this handbook will
+prove useful, not only to the expert and to those requiring certain
+technical information, but also to the general public, whose interest in
+this entrancing subject may be simply that of pleasure in the purchase,
+possession, or collection of precious stones, or even in the mere
+examination of them through the plate-glass of a jeweller's window.
+
+JOHN MASTIN.
+
+TOTLEY BROOK,
+NEAR SHEFFIELD.
+
+_June 1911._
+
+
+THE CHEMISTRY, PROPERTIES AND TESTS OF PRECIOUS STONES
+
+
+CHAPTER I.
+
+INTRODUCTORY.
+
+
+What constitutes a precious stone is the question which, at the onset,
+rises in the mind, and this question, simple as it seems, is one by no
+means easy to answer, since what may be considered precious at one time,
+may cease to be so at another.
+
+There are, however, certain minerals which possess distinctive features
+in their qualities of hardness, colour, transparency, refractability or
+double refractability to light-beams, which qualities place them in an
+entirely different class to the minerals of a metallic nature. These
+particular and non-metallic minerals, therefore, because of their
+comparative rarity, rise pre-eminently above other minerals, and become
+actually "precious."
+
+This is, at the same time, but a comparative term, for it will readily
+be understood that in the case of a sudden flooding of the market with
+one class of stone, even if it should be one hitherto rare and
+precious, there would be an equally sudden drop in the intrinsic value
+of the jewel to such an extent as perhaps to wipe it out of the category
+of precious stones. For instance, rubies were discovered long before
+diamonds; then when diamonds were found these were considered much more
+valuable till their abundance made them common, and they became of
+little account. Rubies again asserted their position as chief of all
+precious stones in value, and in many biblical references rubies are
+quoted as being the symbol of the very acme of wealth, such as in
+Proverbs, chapter iii., verses 13 and 15, where there are the passages,
+"happy is the man that findeth wisdom ... she is more precious than
+rubies"--and this, notwithstanding the enormous quantity of them at that
+time obtained from the ruby mines of Ophir and Nubia, which were then
+the chief sources of wealth.
+
+It will also be remembered that Josephus relates how, at the fall of
+Jerusalem, the spoil of gold was so great that Syria was inundated with
+it, and the value of gold there quickly dropped to one-half; other
+historians, also, speaking of this time, record such a glut of gold,
+silver, and jewels in Syria, as made them of little value, which state
+continued for some considerable period, till the untold wealth became
+ruthlessly and wastefully scattered, when the normal values slowly
+reasserted themselves.
+
+Amongst so many varieties of these precious minerals, it cannot be
+otherwise than that there should be important differences in their
+various characteristics, though for a stone to have the slightest claim
+to be classed as "precious" it must conform to several at least of the
+following requirements:--It must withstand the action of light without
+deterioration of its beauty, lustre, or substance, and it must be of
+sufficient hardness to retain its form, purity and lustre under the
+actions of warmth, reasonable wear, and the dust which falls upon it
+during use; it must not be subject to chemical change, decomposition,
+disintegration, or other alteration of its substance under exposure to
+atmospheric air; otherwise it is useless for all practical purposes of
+adornment or ornamentation.
+
+There are certain other characteristics of these curious minerals which
+may be classified briefly, thus:--Some stones owe their beauty to a
+wonderful play of colour or fire, due to the action of light, quite
+apart from the colour of the stone itself, and of this series the opal
+may be taken as a type. In others, this splendid play of colour is
+altogether absent, the colour being associated with the stone itself, in
+its substance, the charm lying entirely in the superb transparency, the
+ruby being taken as an example of this class of stone. Others, again,
+have not only colour, but transparency and lustre, as in the coloured
+diamonds, whilst the commoner well-known diamonds are extremely rich in
+transparency and lustre, the play of light alone showing a considerable
+amount of brilliancy and beauty of colour, though the stone itself is
+clear. Still others are opaque, or semi-opaque, or practically free from
+play of light and from lustre, owing their value and beauty entirely to
+their richness of colour.
+
+In all cases the value of the stone cannot be appreciated fully till the
+gem is separated from its matrix and polished, and in some cases, such
+as in that of the diamond, cut in variously shaped facets, on and
+amongst which the light rays have power to play; other stones, such as
+the opal, turquoise and the like, are cut or ground in flat,
+dome-shaped, or other form, and then merely polished. It frequently
+happens that only a small portion of even a large stone is of supreme
+value or purity, the cutter often retaining as his perquisite the
+smaller pieces and waste. These, if too small for setting, are ground
+into powder and used to cut and polish other stones.
+
+Broadly speaking, the greatest claim which a stone can possess in order
+to be classed as precious is its rarity. To this may be added public
+opinion, which is led for better or worse by the fashion of the moment.
+For if the comparatively common amethyst should chance to be made
+extraordinarily conspicuous by some society leader, it would at once
+step from its humbler position as semi-precious, and rise to the nobler
+classification of a truly precious stone, by reason of the demand
+created for it, which would, in all probability, absorb the available
+stock to rarity; and this despite the more entrancing beauty of the now
+rarer stones.
+
+The study of this section of mineralogy is one of intense interest, and
+by understanding the nature, environment, chemical composition and the
+properties of the stones, possibility of fraud is altogether precluded,
+and there is induced in the mind--even of those with whom the study of
+precious stones has no part commercially--an intelligent interest in the
+sight or association of what might otherwise excite no more than a mere
+glance of admiration or curiosity. There is scarcely any form of matter,
+be it liquid, solid, or gaseous, but has yielded or is now yielding up
+its secrets with more or less freedom to the scientist. By his method of
+synthesis (which is the scientific name for putting substances together
+in order to form new compounds out of their union) or of analysis (the
+decomposing of bodies so as to divide or separate them into substances
+of less complexity), particularly the latter, he slowly and surely
+breaks down the substances undergoing examination into their various
+constituents, reducing these still further till no more reduction is
+possible, and he arrives at their elements. From their behaviour during
+the many and varied processes through which they have passed he finds
+out, with unerring accuracy, the exact proportions of their composition,
+and, in many cases, the cause of their origin.
+
+It may be thought that, knowing all this, it is strange that man does
+not himself manufacture these rare gems, such as the diamond, but so far
+he has only succeeded in making a few of microscopic size, altogether
+useless except as scientific curiosities. The manner in which these
+minute gems and spurious stones are manufactured, and the methods by
+which they may readily be distinguished from real, will be dealt with in
+due course.
+
+The natural stones represent the slow chemical action of water, decay,
+and association with, or near, other chemical substances or elements,
+combined with the action of millions of years of time, and the unceasing
+enormous pressure during that time of thousands, perhaps millions, of
+tons of earth, rock, and the like, subjected, for a certain portion at
+least of that period, to extremes of heat or cold, all of which
+determine the nature of the gem. So that only in the earth itself,
+under strictly natural conditions, can these rare substances be found at
+all in any workable size; therefore they must be sought after
+assiduously, with more or less speculative risk.
+
+
+CHAPTER II.
+
+THE ORIGIN OF PRECIOUS STONES.
+
+
+Though the origin, formation, composition, characteristics and tests of
+each stone will be examined in detail when dealing with the stones
+seriatim, it is necessary to enquire into those particulars of origin
+which are common to all, in order thoroughly to understand why they
+differ from other non-metallic and metallic minerals.
+
+At the very commencement we are faced with a subject on which
+mineralogists and geologists are by no means in full agreement, and
+there seems just ground for considerable divergence of opinion,
+according to the line of argument taken. It is a most remarkable fact
+that, precious as are certain stones, they do not (with a few
+exceptions) contain any of the rarer metals, such as platinum, gold,
+etc., or any of their compounds, but are composed entirely of the common
+elements and their derivatives, especially of those elements contained
+in the upper crust of the earth, and this notwithstanding the fact that
+gems are often found deep down in the earth. This is very significant,
+and points to the conclusion that these stones were formed by the slow
+percolation of water from the surface through the deeper parts of the
+earth, carrying with it, in solution or suspension, the chemical
+constituents of the earth's upper crust; time and long-continued
+pressure, combined with heat or cold, or perhaps both in turn, doing the
+rest, as already mentioned.
+
+The moisture falling in dew and rain becomes acidulated with carbonic
+acid, CO_{2} (carbon dioxide), from the combustion and decay of organic
+matter, vegetation, and other sources, and this moisture is capable of
+dissolving certain calcareous substances, which it takes deep into the
+earth, till the time comes when it enters perhaps a division-plane in
+some rock, or some such cavity, and is unable to get away. The hollow
+becomes filled with water, which is slowly more and more charged with
+the salts brought down, till saturated; then super-saturated, so that
+the salts become precipitated, or perhaps crystallised out, maybe by the
+presence of more or other salts, or by a change in temperature. These
+crystals then become packed hard by further supplies and pressure, till
+eventually, after the lapse of ages, a natural gem is found, _exactly
+filling_ the cavity, and is a precious find in many cases.
+
+If now we try to find its analogy in chemistry, and for a moment
+consider the curious behaviour of some well-known salts, under different
+conditions of temperature, what is taking place underground ceases to be
+mysterious and becomes readily intelligible.
+
+Perhaps the best salt for the purpose, and one easy to obtain for
+experiment, is the sulphate of sodium--known also as Glauber's Salt.
+
+It is in large, colourless prisms, which may soon be dissolved in about
+three parts of water, so long as the water does not exceed 60° F., and
+at this temperature a super-saturated solution may easily be made. But
+if the water is heated the salt then becomes more and more insoluble as
+the temperature increases, till it is completely insoluble.
+
+If a super-saturated solution of this Glauber's Salt is made in a glass,
+at ordinary atmospheric temperature, and into this cold solution,
+without heating, is dropped a small crystal of the same salt, there will
+be caused a rise in temperature, and the whole will then crystallise out
+quite suddenly; the water will be absorbed, and the whole will solidify
+into a mass which exactly fits the inner contour of the vessel.
+
+We have now formed what _might_ be a precious stone, and no doubt would
+be, if continuous pressure could be applied to it for perhaps a few
+thousand years; at any rate, the formation of a natural jewel is not
+greatly different, and after being subjected for a period, extending to
+ages, to the washings of moisture, the contact of its containing bed
+(its later matrix), the action of the changes in the temperature of the
+earth in its vicinity, it emerges by volcanic eruption, earthquake,
+landslip and the like, or is discovered as a rare and valuable specimen
+of some simple compound of earth-crust and water, as simple as Glauber's
+Salt, or as the pure crystallized carbon.
+
+It is also curious to note that in some cases the stones have not been
+caused by aqueous deposit in an already existing hollow, but the aqueous
+infusion has acted on a portion of the rock on which it rested,
+absorbing the rock, and, as it were, replacing it by its own substance.
+This is evidenced in cases where gems have been found encrusted on their
+matrix, which latter was being slowly transformed to the character of
+the jewel encrusted, or "scabbed" on it.
+
+The character of the matrix is also in a great measure the cause of the
+variety of the stone, for it is obvious that the same salt-charged
+aqueous solution which undergoes change in and on ironstone would result
+in an entirely different product from that resting on or embedded in
+silica.
+
+Following out the explanation of the aqueous solution, in which the
+earth-crust constituents are secreted, we find that the rarer and more
+precious metals do not generally enter into the composition of precious
+stones--which fact may advisedly be repeated. It is, of course, to be
+expected that beryllium will be found in the emerald, since it is under
+the species beryl, and zirconium in zircon; but such instances are the
+exception, and we may well wonder at the actions of the infinite powers
+of nature, when we reflect that the rarest, costliest and most beautiful
+of all precious stones are the simplest in their constituents.
+
+Thus we find the diamond standing unique amongst all gems in being
+composed of one element only--carbon--being pure crystallised carbon; a
+different form from graphite, it is true, but, nevertheless, pure carbon
+and nothing else. Therefore, from its chemical, as well as from its
+commercial aspect, the diamond stands alone as the most important of
+gems.
+
+The next in simplicity, whilst being the most costly of all, is the
+ruby, and with this may be classed the blue sapphire, seeing that their
+chemical constituents are exactly the same, the difference being one of
+colour only. These have two elements, oxygen and aluminium, which
+important constituents appear also in other stones, but this example is
+sufficient to prove their simplicity of origin.
+
+Another unique stone is the turquoise, in that it is the only rare gem
+essentially containing a great proportion of water, which renders it
+easily liable to destruction, as we shall see later. It is a combination
+of alumina, water, and phosphoric acid, and is also unique in being the
+only known valuable stone containing a phosphate.
+
+Turning to the silica series, we again find a number of gems with two
+elements only, silica--an important constituent of the earth's
+crust--and oxygen--an important constituent of atmospheric air. In this
+group may be mentioned the opal, amethyst, agate, rock-crystal, and the
+like, as the best known examples, whilst oxygen appears also mostly in
+the form of oxides, in chrysoberyl, spinel, and the like. This silica
+group is extremely interesting, for in it, with the exception of the
+tourmaline and a few others, the composition of the gems is very simple,
+and we find in this group such stones as the chrysolite, several
+varieties of topaz, the garnet, emerald, etc., etc.
+
+Malachite and similar stones are more ornamental than precious, though
+they come in the category of precious stones. These are the carbonate
+series, containing much carbonic acid, and, as may be expected, a
+considerable proportion of water in their composition, which water can,
+of course, be dispelled by the application of heat, but to the
+destruction of the stone.
+
+From all this will be seen how strong is the theory of aqueous
+percolation, for, given time and pressure, water charged with
+earth-crust constituents appears to be the origin of the formation of
+all precious stones; and all the precious stones known have, when
+analysed, been found to be almost exclusively composed of
+upper-earth-crust constituents; the other compounds which certain stones
+contain may, in all cases, be traced to their matrix, or to their
+geological or mineralogical situation.
+
+In contradistinction to this, the essentially underground liquids, with
+time and pressure, form metallic minerals and mineralise the rocks,
+instead of forming gems.
+
+Thus we see that in a different class of minerals--compounds of metals
+with the sulphates, such as sulphuric acid and compounds; also those
+containing the metallic sulphides; in cases where the metalliferous ores
+or the metallic elements enter into composition with the
+halogens--bromine, chlorine, fluorine, and iodine--in all these,
+precious stones are comparatively common, but the stones of these groups
+are invariably those used for decorative or ornamental purposes, and
+true "gems" are entirely absent.
+
+It would therefore appear that though metallic minerals, as already
+mentioned, are formed by the action of essentially _underground_
+chemically-charged water--combined with ages of time and long-continued
+pressure, rocks and earth being transformed into metalliferous ores by
+the same means--precious stones (or that portion of them ranking as
+jewels or gems) must on the contrary be wholly, or almost wholly,
+composed of _upper_-earth-crust materials, carried deep down by water,
+and subjected to the action of the same time and pressure; the simpler
+the compound, the more perfect and important the result, as seen in the
+diamond, the ruby, and the like.
+
+
+CHAPTER III.
+
+PHYSICAL PROPERTIES.
+
+
+A--CRYSTALLINE STRUCTURE.
+
+Before proceeding to the study of precious stones as individual gems,
+certain physical properties common to all must be discussed, in order to
+bring the gems into separate classes, not only because of some chemical
+uniformity, but also because of the unity which exists between their
+physical formation and properties.
+
+The first consideration, therefore, may advisedly be that of their
+crystals, since their crystalline structure forms a ready means for the
+classification of stones, and indeed for that of a multitudinous variety
+of substances.
+
+It is one of the many marvellous phenomena of nature that mineral, as
+well as many vegetable and animal substances, on entering into a state
+of solidity, take upon themselves a definite form called a crystal.
+These crystals build themselves round an axis or axes with wonderful
+regularity, and it has been found, speaking broadly, that the same
+substance gives the same crystal, no matter how its character may be
+altered by colour or other means. Even when mixed with other
+crystallisable substances, the resulting crystals may partake of the two
+varieties and become a sort of composite, yet to the physicist they are
+read like an open book, and when separated by analysis they at once
+revert to their original form. On this property the analyst depends
+largely for his results, for in such matters as food adulteration, etc.,
+the microscope unerringly reveals impurities by means of the crystals
+alone, apart from other evidences.
+
+It is most curious, too, to note that no matter how large a crystal may
+be, when reduced even to small size it will be found that the crystals
+are still of the same shape. If this process is taken still further, and
+the substance is ground to the finest impalpable powder, as fine as
+floating dust, when placed under the microscope each speck, though
+perhaps invisible to the naked eye, will be seen a perfect crystal, of
+the identical shape as that from which it came, one so large maybe that
+its planes and angles might have been measured and defined by rule and
+compass. This shows how impossible it is to alter the shape of a
+crystal. We may dissolve it, pour the solution into any shaped vessel or
+mould we desire, recrystallise it and obtain a solid sphere, triangle,
+square, or any other form; it is also possible, in many cases, to
+squeeze the crystal by pressure into a tablet, or any form we choose,
+but in each case we have merely altered the _arrangement_ of the
+crystals, so as to produce a differently shaped _mass_, the crystals
+themselves remaining individually as before. Such can be said to be one
+of the laws of crystals, and as it is found that every substance has its
+own form of crystal, a science, or branch of mineralogy, has arisen,
+called "crystallography," and out of the conglomeration of confused
+forms there have been evolved certain rules of comparison by which all
+known crystals may be classed in certain groups.
+
+This is not so laborious a matter as would appear, for if we take a
+substance which crystallises in a cube we find it is possible to draw
+nine symmetrical planes, these being called "planes of symmetry," the
+intersections of one or more of which planes being called "axes of
+symmetry." So that in the nine planes of symmetry of the cube we get
+three axes, each running through to the opposite side of the cube. One
+will be through the centre of a face to the opposite face; a second will
+be through the centre of one edge diagonally; the third will be found in
+a line running diagonally from one point to its opposite. On turning the
+cube on these three axes--as, for example, a long needle running through
+a cube of soap--we shall find that four of the six identical faces of
+the cube are exposed to view during each revolution of the cube on the
+needle or axis.
+
+These faces are not necessarily, or always, planes, or flat, strictly
+speaking, but are often more or less curved, according to the shape of
+the crystal, taking certain characteristic forms, such as the square,
+various forms of triangles, the rectangle, etc., and though the crystals
+may be a combination of several forms, all the faces of any particular
+form are similar.
+
+All the crystals at present known exhibit differences in their planes,
+axes and lines of symmetry, and on careful comparison many of them are
+found to have some features in common; so that when they are sorted out
+it is seen that they are capable of being classified into thirty-three
+groups. Many of these groups are analogous, so that on analysing them
+still further we find that all the known crystals may be classed in six
+separate systems according to their planes of symmetry, and all stones
+of the same class, no matter what their variety or complexity may be,
+show forms of the same group. Beginning with the highest, we have--(1)
+the cubic system, with nine planes of symmetry; (2) the hexagonal, with
+seven planes; (3) the tetragonal, with five planes; (4) the rhombic,
+with three planes; (5) the monoclinic, with one plane; (6) the
+triclinic, with no plane of symmetry at all.
+
+In the first, the cubic--called also the isometric, monometric, or
+regular--there are, as we have seen, three axes, all at right angles,
+all of them being equal.
+
+The second, the hexagonal system--called also the rhombohedral--is
+different from the others in having four axes, three of them equal and
+in one plane and all at 120° to each other; the fourth axis is not
+always equal to these three. It may be, and often is, longer or shorter.
+It passes through the intersecting point of the three others, and is
+perpendicular or at right angles to them.
+
+The third of the six systems enumerated above, the tetragonal--or the
+quadratic, square prismatic, dimetric, or pyramidal--system has three
+axes like the cubic, but, in this case, though they are all at right
+angles, two only of them are equal, the third, consequently, unequal.
+The vertical or principal axis is often much longer or shorter in this
+group, but the other two are always equal and lie in the horizontal
+plane, at right angles to each other, and at right angles to the
+vertical axis.
+
+The fourth system, the rhombic--or orthorhombic, or prismatic, or
+trimetric--has, like the tetragonal, three axes; but in this case, none
+of them are equal, though the two lateral axes are at right angles to
+each other, and to the vertical axis, which may vary in length, more so
+even than the other two.
+
+The fifth, the monoclinic--or clinorhombic, monosymmetric, or
+oblique--system, has also three axes, all of them unequal. The two
+lateral axes are at right angles to each other, but the principal or
+vertical axis, which passes through the point of intersection of the two
+lateral axes, is only at right angles to one of them.
+
+In the sixth and last system, the triclinic--or anorthic, or
+asymmetric--the axes are again three, but in this case, none of them are
+equal and none at right angles.
+
+It is difficult to explain these various systems without drawings, and
+the foregoing may seem unnecessarily technical. It is, however,
+essential that these particulars should be clearly stated in order
+thoroughly to understand how stones, especially uncut stones, are
+classified. These various groups must also be referred to when dealing
+with the action of light and other matters, for in one or other of them
+most stones are placed, notwithstanding great differences in hue and
+character; thus all stones exhibiting the same crystalline structure as
+the diamond are placed in the same group. Further, when the methods of
+testing come to be dealt with, it will be seen that these particulars of
+grouping form a certain means of testing stones and of distinguishing
+spurious from real. For if a stone is offered as a real gem (the true
+stone being known to lie in the highest or cubic system), it follows
+that should examination prove the stone to be in the sixth system, then,
+no matter how coloured or cut, no matter how perfect the imitation, the
+test of its crystalline structure stamps it readily as false beyond all
+shadow of doubt--for as we have seen, no human means have as yet been
+forthcoming by which the crystals can be changed in form, only in
+arrangement, for a diamond crystal _is_ a diamond crystal, be it in a
+large mass, like the brightest and largest gem so far discovered--the
+great Cullinan diamond--or the tiniest grain of microscopic
+diamond-dust, and so on with all precious stones. So that in future
+references, to avoid repetition, these groups will be referred to as
+group 1, 2, and so on, as detailed here.
+
+
+CHAPTER IV.
+
+PHYSICAL PROPERTIES.
+
+
+B--CLEAVAGE.
+
+By cleavage is meant the manner in which minerals separate or split off
+with regularity. The difference between a break or fracture and a
+"cleave," is that the former may be anywhere throughout the substance of
+the broken body, with an extremely remote chance of another fracture
+being identical in form, whereas in the latter, when a body is
+"cleaved," the fractured part is more readily severed, and usually takes
+a similar if not an actually identical form in the divided surface of
+each piece severed. Thus we find a piece of wood may be "broken" or
+"chopped" when fractured across the grain, no two fractured edges being
+alike; but, strictly speaking, we only "cleave" wood when we "split" it
+with the grain, or, in scientific language, along the line of cleavage,
+and then we find many pieces with their divided surfaces identical. So
+that when wood is "broken," or "chopped," we obtain pieces of any width
+or thickness, with no manner of regularity of fracture, but when
+"cleaved," we obtain strips which are often perfectly parallel, that is,
+of equal thickness throughout their whole length, and of such uniformity
+of surface that it is difficult or even impossible to distinguish one
+strip from another. Advantage is taken of these lines of cleavage to
+procure long and extremely thin even strips from trees of the willow
+variety for such trades as basket-making.
+
+The same effect is seen in house-coal, which may easily be split the way
+of the grain (on the lines of cleavage), but is much more difficult and
+requires greater force to break across the grain. Rocks also show
+distinct lines of cleavage, and are more readily split one way than
+another, the line of cleavage or stratum of break being at any angle and
+not necessarily parallel to its bed. A striking example of this is seen
+in slate, which may be split in plates, or laminæ, with great facility,
+though this property is the result of the pressure to which the rock has
+been for ages subjected, which has caused a change in the molecules,
+rather than by "cleavage" as the term is strictly understood, and as
+existing in minerals. Mica is also another example of laminated
+cleavage, for given care, and a thin, fine knife to divide the plates,
+this mineral may be "cleaved" to such remarkably thin sheets as to be
+unable to sustain the most delicate touch without shattering.
+
+These are well-known examples of simple cleavage, in one definite
+direction, though in many instances there are several forms and
+directions of cleavage, but even in these there is generally one part or
+line in and on which cleavage will take place much more readily than on
+the others, these planes or lines also showing different properties and
+angular characters, which, no matter how much fractured, always remain
+the same. It is this "cleavage" which causes a crystal to reproduce
+itself exactly, as explained in the last chapter, showing its parent
+form, shape and characteristics with microscopic perfection, but more
+and more in miniature as its size is reduced.
+
+This may clearly be seen by taking a very small quantity of such a
+substance as chlorate of potash. If a crystal of this is examined under
+a magnifying glass till its crystalline form and structure are familiar,
+and it is then placed in a test-tube and gently heated, cleavage will at
+once be evident. With a little crackling, the chlorate splits itself
+into many crystals along its chief lines of cleavage (called the
+cleavage planes), every one of which crystals showing under the
+microscope the identical form and characteristics of the larger crystal
+from which it came.
+
+The cleavage of minerals must, therefore, be considered as a part of
+their crystalline structure, since this is caused by cleavage, so that
+both cleavage and crystalline structure should be considered together.
+Thus we see that given an unchangeable crystal with cleavage planes
+evident, it is possible easily to reproduce the same form over and over
+again by splitting, whereas by simply breaking, the form of the crystal
+would be lost; just as a rhomb of Iceland spar might be sawn or broken
+across the middle and its form lost, although this would really be more
+apparent than real, since it would be an alteration in the mass and not
+in the shape of each individual crystal. And given further cleavage, by
+time or a sudden breaking down, even the mass, as mass, would eventually
+become split into smaller but perfect rhombs.
+
+Much skill is, therefore, required in cutting and fashioning a precious
+stone, otherwise the gem may be ruined at the onset, for it will only
+divide along its lines of cleavage, and any mistake in deciding upon
+these, would "break," not "split" the stone, and destroy the beauty of
+its crystalline structure. An example of this was specially seen in the
+great Cullinan diamond, the splitting of which was perhaps the most
+thrilling moment in the history of precious stones.[A] The value of the
+enormous crystal was almost beyond computation, but it had a flaw in the
+centre, and in order to cut out this flaw it was necessary to divide the
+stone into two pieces. The planes of cleavage were worked out, the
+diamond was sawn a little, when the operator, acknowledged to be the
+greatest living expert, inserted a knife in the saw-mark, and with the
+second blow of a steel rod, the marvellous stone parted precisely as
+intended, cutting the flaw exactly in two, leaving half of it on the
+outside of each divided portion. The slightest miscalculation would have
+meant enormous loss, if not ruin, to the stone, but the greatest feat
+the world has ever known in the splitting of a priceless diamond was
+accomplished successfully by this skilful expert in an Amsterdam
+workroom in February, 1908. Some idea of the risk involved may be
+gathered from the fact that this stone, the largest ever discovered, in
+the rough weighed nearly 3,254 carats, its value being almost anything
+one cared to state--incalculable.
+
+[Footnote A: The hammer and knife used in cutting the diamond, the two
+largest pieces of which are now called "The Stars of Africa," together
+with a model of the great uncut stone, are in the Tower of London
+amongst the Regalia.]
+
+These cleavage planes help considerably in the bringing of the stone to
+shape, for in a broad sense, a finished cut stone may be said to be in
+the form in which its cleavages bring it. Particularly is this seen in
+the diamond "brilliant," which plainly evidences the four cleavage
+planes. These cleavage planes and their number are a simple means of
+identification of precious stones, though those possessing distinct and
+ready cleavages are extremely liable to "start" or "split" on these
+planes by extremes of heat and cold, accidental blows, sudden shocks and
+the like.
+
+In stones possessing certain crystalline structure, the cleavage planes
+are the readiest, often the only, means of identification, especially
+when the stones are chemically coloured to imitate a more valuable
+stone. In such cases the cleavage of one stone is often of paramount
+importance in testing the cleavage of another, as is seen in the
+perfection of the cleavage planes of calcite, which is used in the
+polariscope.
+
+It sometimes happens, however, that false conditions arise, such as in
+substances which are of no form or shape, and are in all respects and
+directions without regular structure and show no crystallisation even in
+the minutest particles; these are called amorphous. Such a condition
+sometimes enters wholly or partially into the crystalline structure, and
+the mineral loses its true form, possessing instead the form of
+crystals, but without a crystalline structure. It is then called a
+pseudomorph, which is a term applied to any mineral which, instead of
+having the form it should possess, shows the form of something which has
+altered its structure completely, and then disappeared. For instance:
+very often, in a certain cavity, fluorspar has existed originally, but,
+through some chemical means, has been slowly changed to quartz, so
+that, as crystals cannot be changed in shape, we find quartz
+existing--undeniably quartz--yet possessing the crystals of fluorspar;
+therefore the quartz becomes a pseudomorph, the condition being an
+example of what is termed pseudomorphism. The actual cause of this
+curious chemical change or substitution is not known with certainty, but
+it is interesting to note the conditions in which such changes do occur.
+
+It is found that in some cases, the matrix of a certain shaped crystal
+may, after the crystal is dissolved or taken away, become filled by some
+other and foreign substance, perhaps in liquid form; or a crystalline
+substance may become coated or "invested" by another foreign substance,
+which thus takes its shape; or actual chemical change takes place by
+means of an incoming substance which slowly alters the original
+substance, so that eventually each is false and both become
+pseudomorphs. This curious change often takes place with precious
+stones, as well as with other minerals, and to such an extent that it
+sometimes becomes difficult to say what the stone ought really to be
+called.
+
+Pseudomorphs are, however, comparatively easy of isolation and
+detection, being more or less rounded in their crystalline form, instead
+of having sharp, well-defined angles and edges; their surfaces also are
+not good. These stones are of little value, except in the specially
+curious examples, when they become rare more by reason of their
+curiosity than by their utility as gems.
+
+Some also show cleavage planes of two or more systems, and others show
+a crystalline structure comprised of several systems. Thus calcspar is
+in the 2nd, or hexagonal, whilst aragonite is in the 4th, the rhombic,
+system, yet both are the same substance, viz.:--carbonate of lime. Such
+a condition is called dimorphism; those minerals which crystallise in
+three systems are said to be trimorphous. Those in a number of systems
+are polymorphous, and of these sulphur may be taken as an example, since
+it possesses thirty or more modifications of its crystalline structure,
+though some authorities eliminate nearly all these, and, since it is
+most frequently in either the 4th (rhombic) or the 5th (monoclinic)
+systems, consider it as an example of dimorphism, rather than
+polymorphism.
+
+These varieties of cleavage affect the character, beauty and usefulness
+of the stone to a remarkable extent, and at the same time form a means
+of ready and certain identification and classification.
+
+
+CHAPTER V.
+
+PHYSICAL PROPERTIES.
+
+
+C--LIGHT.
+
+Probably the most important of the many important physical properties
+possessed by precious stones are those of light and its effects, for to
+these all known gems owe their beauty, if not actual fascination.
+
+When light strikes a cut or polished stone, one or more of the following
+effects are observed:--it may be transmitted through the stone,
+diaphaneity, as it is called; it may produce single or double
+refraction, or polarisation; if reflected, it may produce lustre or
+colour; or it may produce phosphorescence; so that light may be (1)
+transmitted; (2) reflected; or produce (3) phosphorescence.
+
+(1) TRANSMISSION.--In transmitted light we have, as stated above, single
+or double refraction, polarisation, and diaphaneity.
+
+To the quality of _refraction_ is due one of the chief charms of certain
+precious stones. It is not necessary to explain here what refraction is,
+for everyone will be familiar with the refractive property of a
+light-beam when passing through a medium denser than atmospheric air. It
+will be quite sufficient to say that all the rays are not equal in
+refractive power in all substances, so that the middle of the spectrum
+is generally selected as the mean for indexing purposes.
+
+It will be seen that the stones in the 1st, or cubic system, show single
+refraction, whereas those of all other systems show double refraction;
+thus, light, in passing through their substance, is deviated, part of it
+going one way, the other portion going in another direction--that is, at
+a slightly different angle--so that this property alone will isolate
+readily all gems belonging to the 1st system.
+
+A well-known simple experiment in physics shows this clearly. A mark on
+a card or paper is viewed through a piece of double-refracting spar
+(Iceland spar or clear calcite), when the mark is doubled and two
+appear. On rotating this rhomb of spar, one of these marks is seen to
+revolve round the other, which remains stationary, the moving mark
+passing further from the centre in places. When the spar is cut and used
+in a certain direction, we see but one mark, and such a position is
+called its optical axis.
+
+_Polarisation_ is when certain crystals possessing double refraction
+have the power of changing light, giving it the appearance of poles
+which have different properties, and the polariscope is an instrument in
+which are placed pieces of double-refracting (Iceland) spar, so that all
+light passing through will be polarised.
+
+Since only crystals possessing the property of double refraction show
+polarisation, it follows that those of the 1st, or cubic system--in
+which the diamond stands a prominent example--fail to become polarised,
+so that when such a stone is placed in the polariscope and rotated, it
+fails _at every point_ to transmit light, which a double-refracting gem
+allows to pass except when its optical axis is placed in the axis of the
+polariscope, but this will be dealt with more fully when the methods of
+testing the stones come to be considered.
+
+_Diaphaneity_, or the power of transmitting light:--some rather fine
+trade distinctions are drawn between the stones in this class, technical
+distinctions made specially for purposes of classification, thus:--a
+"non-diaphanous" stone is one which is quite opaque, no light of any
+kind passing through its substance; a "diaphanous" stone is one which is
+altogether transparent; "semi-diaphanous" means one not altogether
+transparent, and sometimes called "sub-transparent." A "translucent"
+stone is one in which, though light passes through its substance, sight
+is not possible through it; whilst in a "sub-translucent" stone, light
+passes through it, but only in a small degree.
+
+The second physical property of light is seen in those stones which owe
+their beauty or value to REFLECTION: this again may be dependent on
+Lustre, or Colour.
+
+~Lustre.~--This is an important characteristic due to reflection, and of
+which there are six varieties:--([alpha]) adamantine (which some
+authorities, experts and merchants subdivide as detailed below);
+([beta]) pearly; ([gamma]) silky; ([delta]) resinous; ([epsilon])
+vitreous; ([zeta]) metallic. These may be described:--
+
+([alpha]) Adamantine, or the peculiar lustre of the diamond, so called
+from the lustre of adamantine spar, which is a form of corundum (as is
+emery) with a diamond-like lustre, the hard powder of which is used in
+polishing diamonds. It is almost pure anhydrous alumina (Al_{2}O_{3})
+and is, roughly, four times as heavy as water. The lustre of this is the
+true "adamantine," or diamond, brilliancy, and the other and impure
+divisions of this particular lustre are: _splendent_, when objects are
+reflected perfectly, but of a lower scale of perfection than the true
+"adamantine" standard, which is absolutely flawless. When still lower,
+and the reflection, though maybe fairly good, is somewhat "fuzzy," or is
+confused or out of focus, it is then merely _shining_; when still less
+distinct, and no trace of actual reflection is possible (by which is
+meant that no object can be reproduced in any way to define it, as it
+could be defined in the reflection from still water or the surface of a
+mirror, even though imperfectly) the stone is then said to _glint_ or
+_glisten_. When too low in the scale even to glisten, merely showing a
+feeble lustre now and again as the light is reflected from its surface
+in points which vary with the angle of light, the stone is then said to
+be _glimmering_. Below this, the definitions of lustre do not go, as
+such stones are said to be _lustreless_.
+
+([beta]) Pearly, as its name implies, is the lustre of a pearl.
+
+([gamma]) Silky, possessing the sheen of silk, hence its name.
+
+([delta]) Resinous, also explanatory in its name; amber and the like
+come in this variety.
+
+([epsilon]) Vitreous. This also explains itself, being of the lustre of
+glass, quartz, etc.; some experts subdividing this for greater defining
+accuracy into the "sub-vitreous" or lower type, for all but perfect
+specimens.
+
+([zeta]) Metallic or Sub-metallic. The former when the lustre is perfect
+as in gold; the latter when the stones possess the less true lustre of
+copper.
+
+~Colour.~--Colour is an effect entirely dependent upon light, for in the
+total absence of light, such as in black darkness, objects are
+altogether invisible to the normal human eye. In daylight, also, certain
+objects reflect so few vibrations of light, or none, that they appear
+grey, black, or jet-black; whilst those which reflect all the rays of
+which light is composed, and in the same number of vibrations, appear
+white. Between these two extremes of _none_ and _all_ we find a
+wonderful play and variety of colour, as some gems allow the red rays
+only to pass and therefore appear red; others allow the blue rays only
+and these appear blue, and so on, through all the shades, combinations
+and varieties of the colours of which light is composed, as revealed by
+the prism. But this is so important a matter that it demands a chapter
+to itself.
+
+The third physical property of light, PHOSPHORESCENCE, is the property
+possessed by certain gems and minerals of becoming phosphorescent on
+being rubbed, or on having their temperature raised by this or other
+means.
+
+It is difficult to say exactly whether this is due to the heat, the
+friction, or to electricity. Perhaps two or all of these may be the
+cause, for electricity is developed in some gems--such as the topaz--by
+heat, and heat by electricity, and phosphorescence developed by both.
+
+For example, if we rub together some pulverised fluorspar in the dark,
+or raise its temperature by the direct application of heat, such as from
+a hot or warm iron, or a heated wire, we at once obtain excellent
+phosphorescence. Common quartz, rubbed against a second piece of the
+same quartz in the dark, becomes highly phosphorescent. Certain gems,
+also, when merely exposed to light--sunlight for preference--then taken
+into a darkened room, will glow for a short time. The diamond is one of
+the best examples of this kind of phosphorescence, for if exposed to
+sunlight for a while, then covered and rapidly taken into black
+darkness, it will emit a curious phosphorescent glow for from one to ten
+seconds; the purer the stone, the longer, clearer and brighter the
+result.
+
+
+CHAPTER VI.
+
+PHYSICAL PROPERTIES.
+
+
+D--COLOUR.
+
+Colour is one of the most wonderful effects in nature. It is an
+attribute of light and is not a part of the object which appears to be
+coloured; though all objects, by their chemical or physical composition,
+determine the number and variety of vibrations passed on or returned to
+the eye, thus fixing their own individual colours.
+
+We have also seen that if an _equal_ light-beam becomes obstructed in
+its passage by some substance which is denser than atmospheric air, it
+will become altered in its direction by refraction or reflection, and
+polarised, each side or pole having different properties.
+
+Polarised light cannot be made again to pass in a certain direction
+through the crystal which has polarised it; nor can it again be
+reflected at a particular angle; so that in double-refracting crystals,
+these two poles, or polarised beams, are different in colour, some
+stones being opaque to one beam but not to the other, whilst some are
+opaque to both.
+
+This curious phenomenon, with this brief, though somewhat technical
+explanation, shows the cause of many of the great charms in precious
+stones, for when viewed at one angle they appear of a definite colour,
+whilst at another angle they are just as decided in their colour, which
+is then entirely different; and as these angles change as the eye
+glances on various facets, the stone assumes a marvellous wealth of the
+most brilliant and intense colour of kaleidoscopic variety, even in a
+stone which may itself be absolutely clear or colourless to ordinary
+light.
+
+Such an effect is called pleochroism, and crystals which show variations
+in their colour when viewed from different angles, or by transmitted
+light, are called pleochroic, or pleochromatic--from two Greek words
+signifying "to colour more." To aid in the examination of this
+wonderfully beautiful property possessed by precious stones, a little
+instrument has been invented called the dichroscope, its name showing
+its Greek derivation, and meaning--"to see colour twice" (twice, colour,
+to see). It is often a part of a polariscope; frequently a part also of
+the polarising attachment to the microscope, and is so simple and
+ingenious as to deserve detailed explanation.
+
+In a small, brass tube is fixed a double-image prism of calcite or
+Iceland spar, which has been achromatised--that is, clear, devoid of
+colour--and is therefore capable of transmitting light without showing
+any prismatic effect, or allowing the least trace of any except the
+clear light-beam to pass through. At one end of this tube there is a
+tiny square hole, the opposite end carrying a small convex lens, of such
+a strength or focus as to show the square hole in true focus, that is,
+with perfectly sharp definition, even up to the corners of the square.
+On looking through the tube, the square hole is duplicated, two squares
+being seen. The colours of a gem are tested by the stone being put in
+front of this square, when the two colours are seen quite distinctly.
+Not only is this a simple means of judging colour, but it enables a
+stone to be classified readily. For if the dichroscope shows two images
+of _the same_ colour, then it may possibly be a carbuncle, or a diamond,
+as the case may be--for single-refracting stones, of the first or cubic
+system, show two images of _the same_ colour. But if these two colours
+are different, then it must be a double-refracting stone, and according
+to the particular colours seen, so is the stone classified, for each
+stone has its own identical colour or colours when viewed through this
+small but useful instrument.
+
+How clear and distinct are these changes may be viewed without it in
+substances strongly dichroic; for instance, if common mica is viewed in
+one direction, it is transparent as polished plate-glass, whilst at
+another angle, it is totally opaque. Chloride of palladium also is
+blood-red when viewed parallel to its axis, and transversely, it is a
+remarkably bright green. The beryl also, is sea-green one way and a
+beautiful blue another; the yellow chrysoberyl is brown one way and
+yellow with a greenish cast when viewed another way. The pink topaz
+shows rose-colour in one direction and yellow in another. These are
+perhaps the most striking examples, and are mostly self-evident to the
+naked eye, whilst in other cases, the changes are so delicate that the
+instrument must be used to give certainty; some again show changes of
+colour as the stone is revolved in the dichroscope, or the instrument
+revolved round the stone.
+
+Some stones, such as the opal, split up the light-beams as does a
+prism, and show a wonderful exhibition of prismatic colour, which is
+technically known as a "play of colour." The descriptive term
+"opalescence" is self-suggesting as to its origin, which is the "noble"
+or "precious" opal; this radiates brilliant and rapidly changing
+iridescent reflections of blue, green, yellow and red, all blending
+with, and coming out of, a curious silky and milky whiteness, which is
+altogether characteristic. The moonstone is another example of this
+peculiar feature which is possessed in a more or less degree by all the
+stones in the class of pellucid jewels, but no stone or gem can in any
+way even rival the curious mixture of opaqueness, translucency,
+silkiness, milkiness, fire, and the steadfast changeable and prismatic
+brilliance of colour of the precious opal. The other six varieties of
+opal are much inferior in their strange mixture of these anomalies of
+light and colour. Given in order of value, we have as the second, the
+"fire" opal with a red reflection, and, as a rule, that only. The third
+in value is the "common" opal, with the colours of green, red, white and
+yellow, but this is easily distinguishable from the "noble" or
+"precious" variety in that the common opal does not possess that
+wonderful "play" of colour. The fourth variety is called the
+"semi-opal," which is really like the third variety, the "common," but
+of a poorer quality and more opaque. The fifth variety in order of
+value, is that known as the "hydrophane," which has an interesting
+characteristic in becoming transparent when immersed in water, and only
+then. The sixth is the "hyalite," which has but a glassy or vitreous
+lustre, and is found almost exclusively in the form of globules, or
+clusters of globules, somewhat after the form and size of bunches of
+grapes; hence the name "botryoidal" is often applied to this variety.
+The last and commonest of all the seven varieties of opal is somewhat
+after the shape of a kidney (reniform), or other irregular shape,
+occasionally almost transparent, but more often somewhat translucent,
+and very often opaque. This seventh class is called "menilite," being
+really an opaline form of quartz, originally found at Menilmontant,
+hence its name (_Menil_, and Greek _lithos_, stone). It is a curious
+blue on the exterior of the stone, brown inside.
+
+History records many magnificent and valuable opals, not the least of
+which was that of Nonius, who declined to give it to Mark Antony,
+choosing exile rather than part with so rare a jewel, which Pliny
+describes as being existent in his day, and of a value which, in present
+English computation, would exceed one hundred thousand pounds.
+
+Many other stones possess one or more properties of the opal, and are
+therefore considered more or less opalescent. This "play of colour" and
+"opalescence," must not be confused with "change of colour." The two
+first appear mostly in spots and in brilliant points or flashes of
+coloured light, or "fire" as it is termed. This fire is constantly on
+the move, or "playing," whereas "change of colour," though not greatly
+dissimilar, is when the fire merely travels over broader surfaces, each
+colour remaining constant, such as when directly moving the stone, or
+turning it, when the broad mass of coloured light slowly changes,
+usually to its complementary. Thus in this class of stone, subject to
+"change of colour," a green light is usually followed by its
+complementary, red, yellow by purple, blue by orange, green by brown,
+orange by grey, purple by broken green, with all the intermediary shades
+of each.
+
+Thus when the line of sight is altered, or the stone moved, never
+otherwise, the colours chase one another over the surface of the gem,
+and mostly in broad splashes; but in those gems possessing "play of
+colour," strictly speaking, whilst the stone itself remains perfectly
+still, and the sight is fixed unwaveringly upon it, the pulsations of
+the blood in the eyes, with the natural movements of the eyes and
+eyelids, even in a fixed, steady glance, are quite sufficient to create
+in the stone a display of sparks and splashes of beautiful fiery light
+and colour at every tremor.
+
+The term "iridescence" is used when the display of colour is seen on the
+surface, rather than coming out of the stone itself. The cause of this
+is a natural, or in some cases an accidental, breaking of the surface of
+the stone into numerous cobweb-like cracks; these are often of
+microscopic fineness, only perceptible under moderately high powers.
+Nevertheless they are quite sufficient to interfere with and refract the
+light rays and to split them up prismatically. In some inferior stones
+this same effect is caused or obtained by the application of a gentle
+heat, immersion in chemicals, subjection to "X rays" and other strong
+electric influence, and in many other ways. As a result, the stone is
+very slightly expanded, and as the molecules separate, there appear on
+the surface thousands, perhaps millions, of microscopic fissures running
+at all angles, so that no matter from what position the stone may be
+viewed, a great number of these fissures are certain to split up the
+light into prismatic colours causing brilliant iridescence. Similar
+fissures may often be seen with the naked eye on glass, especially if
+scorched or cooled too rapidly (chilled), and on the surface of clear
+spar and mica, their effects being of extreme interest, from a colour
+point of view, at least.
+
+
+CHAPTER VII.
+
+PHYSICAL PROPERTIES.
+
+
+E--HARDNESS.
+
+Hardness is perhaps one of the most important features in a stone,
+especially those of the "gem" series, for no matter how colour, lustre,
+general beauty and even rarity may entitle a stone to the designation
+"precious," unless it possesses great hardness it cannot be used as a
+gem or jewel.
+
+Consequently, the hardness of jewels is a matter of no small importance,
+and by dint of indefatigable research, in tests and comparison, all
+known precious stones have been classified in various scales or degrees
+of hardness. The most popular and reliable table is that of Mohs, in
+which he takes talc as the softest of the rarer minerals and classes
+this as No. 1; from that he goes by gradual steps to the diamond, the
+hardest of the stones, which he calls No. 10, and between these two all
+other gems are placed. Here is given a complete list of Mohs's
+arrangement of stones, according to their hardness, beginning at No. 1,
+thus:--
+
+Talc                                                       1
+Rock salt                                                  2
+Amber                                                      2-1/2
+Calcite                                                    3
+Malachite                                                  3-1/2
+Jet                                                        3-1/2
+Fluorspar                                                  4
+Apatite                                                    5
+Dioptase                                                   5
+Kyanite (various)                                          5-7
+Haüynite                                                   5-1/2
+Hæmatite                                                   5-1/2
+Lapis lazuli                                               5-1/2
+Moldavite (various)                                        5-1/2-6-1/2
+Rhodonite                                                  5-1/2-6-1/2
+Obsidian                                                   5-1/2
+Sphene                                                     5-1/2
+Opal (various)                                             5-1/2-6-1/2
+Nephrite                                                   5-3/4
+Chrysolite                                                 6-7
+Felspar                                                    6
+Adularia                                                   6
+Amazon stone                                               6
+Diopside                                                   6
+Iron pyrites                                               6
+Labradorite                                                6
+Turquoise                                                  6
+Spodumene                                                  6-1/2-7
+The Chalcedony group which embraces the Agate,
+    Carnelian, etc.                                        6-1/2
+Demantoid                                                  6-1/2
+Epidote                                                    6-1/2
+Idocrase                                                   6-1/2
+Garnets (see also "Red Garnets" below)                     6-1/2-7-1/2
+Axinite                                                    6-3/4
+Jadeite                                                    6-3/4
+Quartz, including Rock-crystal, Amethyst, Jasper,
+   Chrysoprase Citrine, etc.                               7
+Jade                                                       7
+Dichorite (water sapphire)                                 7-7-1/2
+Cordierite                                                 7-1/4
+Red Garnets (see also Garnets above)                       7-1/4
+Tourmaline                                                 7-1/4
+Andalusite                                                 7-1/2
+Euclase                                                    7-1/2
+Staurolite                                                 7-1/2
+Zircon                                                     7-1/2
+Emerald, Aquamarine, or Beryl                              7-3/4
+Phenakite                                                  7-3/4
+Spinel                                                     8
+Topaz                                                      8
+Chrysoberyl                                                8-1/2
+The Corundum group embracing the Ruby, Sapphire, etc.      9
+Diamond                                                   10
+
+(See also list of stones, arranged in their respective colours, in
+Chapter XII.)
+
+The method of testing is very simple. A representative selection of the
+above stones, each with a sharp edge, is kept for the purpose of
+scratching and being scratched, and those usually set apart for tests in
+the various groups, are as follows:--
+
+    1 Talc
+    2 Rock-salt, or Gypsum
+    3 Calcite
+    4 Fluorspar
+    5 Apatite
+    6 Felspar
+    7 Quartz
+    8 Topaz
+    9 Corundum
+    10 Diamond
+
+The stone under examination may perhaps first be somewhat roughly
+classified by its colour, cleavage, and general shape. One of these
+standard stones is then gently rubbed across its surface and then others
+of increasingly higher degrees, till no scratch is evident under a
+magnifying glass. Thus if quartz ceases to scratch it, but a topaz will
+do so, the degree of hardness must lie between 7 and 8. Then we reverse
+the process: the stone is passed over the standard, and if both quartz
+and topaz are scratched, then the stone is at least equal in hardness to
+the topaz, and its classification becomes an easy matter.
+
+Instead of stones, some experts use variously-tempered needles of
+different qualities and compositions of iron and steel. For instance, a
+finely-tempered ordinary steel needle will cut up to No. 6 stones; one
+made of tool steel, up to 7; one of manganese steel, to 7-1/2; one made
+of high-speed tool steel, to 8 and 8-1/2, and so on, according to
+temper; so that from the scratch which can be made with the finger-nail
+on mica, to the hardness of the diamond, which diamond alone will
+scratch readily, the stones may be picked out, classified and tested,
+with unerring accuracy.
+
+It will thus be seen how impossible it is, even in this one of many
+tests, for an expert to be deceived in the purchase of precious stones,
+except through gross carelessness--a fault seldom, if ever, met with in
+the trade. For example--a piece of rock-crystal, chemically coloured,
+and cut to represent a ruby, might appear so like one as to deceive a
+novice, but the mere application to its surface of a real ruby, which is
+hardness 9, or a No. 9 needle, would reveal too deep or powdery a
+scratch; also its possibility of being scratched by a topaz or a No. 8
+needle, would alone prove it false, for the corundum group, being harder
+than No. 8, could not be scratched by it. So would the expert go down
+the scale, the tiny scratches becoming fainter as he descended, because
+he would be approaching more nearly the hardness of the stone under
+test, till he arrived at the felspar, No. 6, which would be too soft to
+scratch it, yet the stone would scratch the felspar, but not zircon or
+andalusite, 7-1/2, or topaz, 8, so that his tests would at once classify
+the stone as a piece of cut and coloured quartz, thus confirming what he
+would, at the first sight, have suspected it to be.
+
+The standard stones themselves are much more certain in results than the
+needles, which latter, though well selected and tempered, are not
+altogether reliable, especially in the more delicate distinctions of
+picking out the hardest of certain stones of the same kind, in which
+cases only the expert judge can decide with exactness. Accurate in this
+the expert always is, for he judges by the sound and depth of his cut,
+and by the amount and quality of the powder, often calling the
+microscope to his aid, so that when the decision is made finally, there
+is never the least doubt about it.
+
+Rapidly as these tests can be made, they are extremely reliable, and
+should the stone be of great value, it is also subjected to other
+unerring tests of extreme severity, any one of which would prove it
+false, if it chanced to be so, though some stones are manufactured and
+coloured so cleverly that to all but the expert judge and experienced
+dealer, they would pass well for the genuine.
+
+In Mohs's list it will be seen that several stones vary considerably,
+the opal, for instance, having a degree of hardness from 5-1/2 to 6-1/2
+inclusive. All stones differ slightly, though almost all may be said to
+fit their position in the scale; but in the case of the opal, the
+difference shown is partly due to the many varieties of the stone, as
+described in the last chapter.
+
+In applying this test of hardness to a cut gem, it will be noticed that
+some parts of the same stone seem to scratch more readily than others,
+such as on a facet at the side, which is often softer than those nearest
+the widest part of the stone, where the claws, which hold it in its
+setting, usually come. This portion is called the "girdle," and it is on
+these "girdle" facets that the scratches are generally made. This
+variation in hardness is mostly caused by cleavage, these cleavage
+planes showing a marked, though often but slight, difference in the
+scratch, which difference is _felt_ rather than seen. In addition to the
+peculiar _feel_ of a cutting scratch, is the _sound_ of it. On a soft
+stone being cut by a hard one, little or no sound is heard, but there
+will form a plentiful supply of powder, which, on being brushed off,
+reveals a more or less deep incision. But as the stones approach one
+another in hardness, there will be little powder and a considerable
+increase in the noise; for the harder are the stones, cutting and being
+cut, the louder will be the sound and the less the powder. An example
+of this difference is evident in the cutting of ordinary glass with a
+"set" or "glazier's" diamond, and with a nail. If the diamond is held
+properly, there will be heard a curious sound like a keen, drawn-out
+"kiss," the diamond being considerably harder than the material it cut.
+An altogether different sound is that produced by the scratching of
+glass with a nail. In this case, the relative difference in hardness
+between the two is small, so that the glass can only be scratched and
+not "cut" by the nail; it is too hard for that, so the noise is much
+greater and becomes a screech. Experience, therefore, makes it possible
+to tell to a trifle, at the first contact, of what the stone is
+composed, and in which class it should be placed, by the mere "feel" of
+the scratch, the depth of it, the amount and kind of powder it leaves,
+and above all, by the sound made, which, even in the tiniest scratch, is
+quite characteristic.
+
+
+CHAPTER VIII.
+
+PHYSICAL PROPERTIES.
+
+
+F--SPECIFIC GRAVITY.
+
+The fixing of the specific gravity of a stone also determines its group
+position with regard to weight; its colour and other characteristics
+defining the actual stone. This is a safe and very common method of
+proving a stone, since its specific gravity does not vary more than a
+point or so in different specimens of the same stone. There are several
+ways of arriving at this, such as by weighing in balances in the usual
+manner, by displacement, and by immersion in liquids the specific
+gravity of which are known. Cork is of less specific gravity than water,
+therefore it floats on the surface of that liquid, whereas iron, being
+heavier, sinks. So that by changing the liquid to one lighter than cork,
+the cork will sink in it as does iron in water; in the second instance,
+if we change the liquid to one heavier than iron, the iron will float on
+it as does cork on water, and exactly as an ordinary flat-iron will
+float on quicksilver, bobbing up and down like a cork in a tumbler of
+water. If, therefore, solutions of known but varying densities are
+compounded, it is possible to tell almost to exactitude the specific
+gravity of any stone dropped into them, by the position they assume.
+Thus, if we take a solution of pure methylene iodide, which has a
+specific gravity of 3.2981, and into this drop a few stones selected
+indiscriminately, the effect will be curious: first, some will sink
+plump to the bottom like lead; second, some will fall so far quickly,
+then remain for a considerable time fairly stationary; third, some will
+sink very slowly; fourth, some will be partially immersed, that is, a
+portion of their substance being above the surface of the liquid and a
+portion covered by it; fifth, some will float on the surface without any
+apparent immersion. In the first case, the stones will be much heavier
+than 3.2981; in the second, the stones will be about 3.50; in the third
+and fourth instances, the stones will be about the same specific gravity
+as the liquid, whilst in the fifth, they will be much lighter, and thus
+a rough but tolerably accurate isolation may be made.
+
+On certain stones being extracted and placed in other liquids of lighter
+or denser specific gravity, as the case may be, their proper
+classification may easily be arrived at, and if the results are checked
+by actual weight, in a specific gravity balance, they will be found to
+be fairly accurate. The solution commonly used for the heaviest stones
+is a mixture of nitrate of thallium and nitrate of silver. This double
+nitrate has a specific gravity of 4.7963, therefore such a stone as
+zircon, which is the heaviest known, will float in it. For use, the
+mixture should be slightly warmed till it runs thin and clear; this is
+necessary, because at 60° (taking this as ordinary atmospheric
+temperature) it is a stiff mass. A lighter liquid is a mixture of iodide
+of mercury in iodide of potassium, but this is such an extremely
+corrosive and dangerous mixture, that the more common solution is one
+in which methylene iodide is saturated with a mixture of iodoform until
+it shows a specific gravity of 3.601; and by using the methylene iodide
+alone, in its pure state, it having a specific gravity of 3.2981, the
+stones to that weight can be isolated, and by diluting this with
+benzole, its weight can be brought down to that of the benzole itself,
+as in the case of Sonstadt's solution. This solution, in full standard
+strength, has a specific gravity of 3.1789, but may be weakened by the
+addition of distilled water in varying proportions till the weight
+becomes almost that of water.
+
+Knowing the specific gravity of all stones, and dividing them into six
+groups, by taking a series of standard solutions selected from one or
+other of the above, and of known specific gravity, we can judge with
+accuracy if any stone is what it is supposed to be, and classify it
+correctly by its mere floating or sinking when placed in these liquids.
+Beginning then with the pure double nitrate of silver and thallium, this
+will isolate the stones of less specific gravity than 4.7963, and taking
+the lighter solutions and standardising them, we may get seven solutions
+which will isolate the stones as follows:--
+
+A {shows the stones which have}  4.7963
+  {a specific gravity over}
+B       "        "     "         3.70  and under 4.7963
+C       "        "     "         3.50     "   3.70
+D       "        "     "         3.00     "   3.50
+E       "        "     "         2.50     "   3.00
+F       "        "     "         2.00     "   2.50
+G       "        "     --         --    under 2.00
+
+Therefore each liquid will isolate the stones in its own group by
+compelling them to float on its surface; commencing with the heaviest
+and giving to the groups the same letters as the liquids, it is seen
+that--
+
+_Group_ A.--Isolates gems with a specific gravity of 4.7963 and over
+4.70; in this group is placed zircon, with a specific gravity of from
+4.70 to 4.88.
+
+_Group_ B.--Stones whose specific gravity lies between 3.70 and under
+4.7963.
+
+Garnets, many varieties. See Group D below.
+Almandine      4.11   and occasionally to 4.25
+Ruby           4.073   "    4.080
+Sapphire       4.049   "    4.060
+Corundum       3.90    "    4.16
+Cape Ruby      3.861
+Demantoid      3.815
+Staurolite     3.735
+Malachite      3.710 and occasionally to 3.996
+
+_Group_ C.--Stones whose specific gravity lies between 3.50 and under
+3.70.
+
+Pyrope (average)      3.682
+Chrysoberyl           3.689 and occasionally to 3.752
+Spinel                3.614          "          3.654
+Kyanite               3.609          "          3.688
+Hessonite             3.603          "          3.651
+Diamond               3.502          "          3.564
+Topaz                 3.500          "          3.520
+
+_Group_ D.--Stones whose specific gravity lies between 3 and under 3.50.
+
+Rhodonite    3.413 and occasionally to 3.617
+Garnets      3.400         "           4.500
+Epidote      3.360         "           3.480
+Sphene                  3.348 and occasionally to 3.420
+Idocrase                3.346         "           3.410
+Olivine                 3.334         "           3.368
+Chrysolite              3.316         "           3.528
+Jade                    3.300         "           3.381
+Jadeite                 3.299
+Axinite                 3.295
+Dioptase                3.289
+Diopside                2.279
+Tourmaline (yellow)     3.210
+Andalusite              3.204
+Apatite                 3.190
+Tourmaline (Blue and
+             Violet)    3.160
+Tourmaline (Green)      3.148
+      "    (Red)        3.100
+Spodumene               3.130 and occasionally to 3.200
+Euclase                 3.090
+Fluorspar               3.031 and occasionally to 3.200
+Tourmaline (Colourless) 3.029
+Tourmaline  (Blush
+Rose)                   3.024
+Tourmaline (Black)      3.024 and occasionally to 3.300
+Nephrite                3.019
+
+_Group_ E.--Stones whose specific gravity lies between 2.50 and under
+3.000.
+
+Phenakite       2.965
+Turquoise       2.800
+Beryl           2.709 and occasionally to 2.81
+Aquamarine      2.701          "          2.80
+Labradorite     2.700
+Emerald         2.690
+Quartz          2.670
+Chrysoprase     2.670
+Jasper          2.668
+Amethyst        2.661
+Hornstone       2.658
+Citrine         2.658
+Cordierite      2.641
+Agate           2.610
+Chalcedony      2.598 and occasionally to 2.610
+Adularia        2.567
+Rock-crystal    2.521 and occasionally to 2.795
+
+_Group_ F.--Stones whose specific gravity lies between 2.00 and under
+2.50.
+
+Haüynite             2.470 and occasionally to 2.491
+Lapis lazuli         2.461
+Moldavite            2.354
+Opal                 2.160 and according to variety to 2.283
+  " (Fire Opal)      2.210 (average)
+
+_Group_ G.--Stones whose specific gravity is under 2.00.
+
+Jet        1.348
+Amber      1.000
+
+     (See also list of stones, arranged in their respective colours,
+     in Chapter XII.)
+
+In many of these cases the specific gravity varies from .11 to .20, but
+the above are the average figures obtained from a number of samples
+specially and separately weighed. In some instances this difference may
+cause a slight overlapping of the groups, as in group C, where the
+chrysoberyl may weigh from 3.689 to 3.752, thus bringing the heavier
+varieties of the stone into group B, but in all cases where overlapping
+occurs, the colour, form, and the self-evident character of the stone
+are in themselves sufficient for classification, the specific gravity
+proving genuineness. This is especially appreciated when it is
+remembered that so far science has been unable (except in very rare
+instances of no importance) to manufacture any stone of the same colour
+as the genuine and at the same time of the same specific gravity. Either
+the colour and characteristics suffer in obtaining the required weight
+or density, or if the colour and other properties of an artificial stone
+are made closely to resemble the real, then the specific gravity is so
+greatly different, either more or less, as at once to stamp the jewel as
+false. In the very few exceptions where chemically-made gems even
+approach the real in hardness, colour, specific gravity, &c., they cost
+so much to obtain and the difficulties of production are so great that
+they become mere chemical curiosities, far more costly than the real
+gems. Further, they are so much subject to chemical action, and are so
+susceptible to their surroundings, that their purity and stability
+cannot be maintained for long even if kept airtight; consequently these
+ultra-perfect "imitations" are of no commercial value whatever as
+jewels, even though they may successfully withstand two or three tests.
+
+
+CHAPTER IX.
+
+PHYSICAL PROPERTIES.
+
+
+G--HEAT.
+
+Another method of isolating certain stones is by the action of
+heat-rays. Remembering our lessons in physics we recall that just as
+light-rays may be refracted, absorbed, or reflected, according to the
+media through which they are caused to pass, so do heat-rays possess
+similar properties. Therefore, if heat-rays are projected through
+precious stones, or brought to bear on them in some other manner than by
+simple projection, they will be refracted, absorbed, or reflected by the
+stones in the same manner as if they were light-rays, and just as
+certain stones allow light to pass through their substance, whilst
+others are opaque, so do some stones offer no resistance to the passage
+of heat-rays, but allow them free movement through the substance,
+whilst, in other cases, no passage of heat is possible, the stones being
+as opaque to heat as to light. Indeed, the properties of light and heat
+are in many ways identical, though the test by heat must in all cases
+give place to that by light, which latter is by far of the greater
+importance in the judging and isolation of precious stones. It will
+readily be understood that in the spectrum the outer or extreme
+light-rays at each side are more or less bent or diverted, but those
+nearest the centre are comparatively straight, so that, as before
+remarked, these central rays are taken as being the standard of
+light-value. This divergence or refraction is greater in some stones
+than in others, and to it the diamond, as an example, owes its chief
+charm. In just such manner do certain stones refract, absorb, or reflect
+heat; thus amber, gypsum, and the like, are practically opaque to
+heat-rays, in contrast with those of the nature of fluorspar, rock-salt,
+&c., which are receptive. Heat passes through these as easily as does
+light through a diamond, such stones being classed as diathermal (to
+heat through). So that all diathermal stones are easily permeable by
+radiant heat, which passes through them exactly as does light through
+transparent bodies.
+
+Others, again, are both single and double refracting to heat-rays, and
+it is interesting to note the heat-penetrating value as compared with
+the refractive indexes of the stone. In the following table will be
+found the refractive indexes of a selection of single and double
+refractive stones, the figures for "Light" being taken from a standard
+list. The second column shows the refractive power of heat, applied to
+the actual stones, and consisting of a fine pencil blowpipe-flame, one
+line (the one twelfth part of an inch) in length in each case. This list
+must be taken as approximate, since in many instances the test has been
+made on one stone only, without possibility of obtaining an average; and
+as stones vary considerably, the figures may be raised or lowered
+slightly, or perhaps even changed in class, because in some stones the
+least stain or impurity may cause the heat effects to be altered greatly
+in their character, and even to become singly or doubly refracting,
+opaque or transparent, to heat-rays, according to the nature of the
+impurity or to some slight change in the crystalline structure, and so
+on.
+
+_Selection of Singly refracting stones._   _Indexes of Rays of_
+                 LIGHT.                          HEAT.
+  Fluorspar      1.436                        4.10 varies
+  Opal           1.479                        2.10   "
+  Spinel         1.726                        1.00
+  Almandine      1.764                        1.00
+  Diamond        2.431                        6.11 double
+
+_Selection of Doubly refracting stones._   _Indexes of Rays of_
+               LIGHT.                            HEAT.
+  Quartz         1.545                        4.7 single and double
+  Beryl          1.575                        1.0 varies considerably
+  Topaz          1.635                        4.1    "        "
+  Chrysoberyl    1.765                        1.1    "        "
+  Ruby           1.949                        5.1 single and double
+
+The tourmaline has a light-refractive index of 1.63, with a heat index
+of none, being to heat-rays completely opaque.
+
+The refractive index of gypsum is 1.54, but heat none, being opaque.
+
+The refractive index of amber is 1.51, but heat none, being opaque.
+
+In some of the specimens the gypsum showed a heat-penetration index of
+0.001, and amber of 0.056, but mostly not within the third point. In all
+cases the heat-penetration and refraction were shown by electric
+recorders. These figures are the average of those obtained from tests
+made in some cases on several stones of the same kind, and also on
+isolated specimens. Not only does the power of the stone to conduct
+heat vary in different stones of the same kind or variety, as already
+explained, but there is seen a remarkable difference in value, according
+to the spot on which the heat is applied, so that on one stone there is
+often seen a conductivity varying between 0.15 to 4.70.
+
+This is owing to the differences of expansion due to the temporary
+disturbance of its crystalline structure, brought about by the applied
+heat. This will be evident when heat is applied on the axes of the
+crystal, on their faces, angles, lines of symmetry, etc., etc., each one
+of which gives different results, not only as to value in conductivity,
+but a result which varies in a curious degree, out of all proportion to
+the heat applied. In many cases a slight diminution in applied heat
+gives a greater conductivity, whilst in others a slight rise in the
+temperature of the heat destroys its conductivity altogether, and
+renders the stone quite opaque to heat-rays.
+
+This anomaly is due entirely to the alteration of crystalline structure,
+which, in the one case, is so changed by the diminution in heat as to
+cause the crystals to be so placed that they become diathermal, or
+transparent to heat-rays; whilst, in the other instance, the crystals
+which so arrange themselves as to be diathermal are, by a slightly
+increased temperature, somewhat displaced, and reflect, or otherwise
+oppose the direct passage of heat-rays, which, at the lower temperature,
+obtained free passage.
+
+Thus certain stones become both opaque and diathermal, and as the heat
+is caused to vary, so do they show the complete gamut between the two
+extremes of total opacity and complete transparency to heat-rays.
+
+For the purpose under consideration, the temperature of the pencil of
+heat applied to the stones in their several portions was kept constant.
+It will be seen, therefore, that no great reliance can be placed on the
+heat test as applied to precious stones.
+
+
+CHAPTER X.
+
+PHYSICAL PROPERTIES.
+
+
+H--MAGNETIC AND ELECTRIC INFLUENCES.
+
+The word "electricity" is derived from the Greek "elektron," which was
+the name for amber, a mineralised resin of extinct pine-trees. It was
+well-known to the people of pre-historic times; later to the early
+Egyptians, and, at a still later date, we have recorded how Thales--the
+Greek philosopher, who lived about the close of the 7th Century B.C.,
+and was one of the "seven wise men"--discovered the peculiar property
+which we call "electricity" by rubbing dry silk on amber.
+
+Many stones are capable of exhibiting the same phenomenon, not only by
+friction, as in Thales's experiment, but also under the influence of
+light, heat, magnetism, chemical action, pressure, etc., and of holding
+or retaining this induced or added power for a long or short period,
+according to conditions and environment.
+
+If a small pith ball is suspended from a non-conducting support, it
+forms a simple and ready means of testing the electricity in a stone.
+According to whether the ball is repelled or attracted, so is the
+electricity in the stone made evident, though the electroscope gives the
+better results. By either of these methods it will be found that some of
+the stones are more capable of giving and receiving charges of
+electricity than are others; also that some are charged throughout with
+one kind only, either positive or negative, whilst others have both,
+becoming polarised electrically, having one portion of their substance
+negative, the other positive. For instance, amber, as is well known,
+produces negative electricity under the influence of friction, but in
+almost all cut stones, other than amber, the electricity produced by the
+same means is positive, whereas in the _uncut_ stones the electricity is
+negative, with the exception of the diamond, in which the electricity is
+positive.
+
+When heated, some stones lose their electricity; others develop it,
+others have it reversed, the positive becoming negative and vice versâ;
+others again, when heated, become powerfully magnetic and assume strong
+polarity. When electricity develops under the influence of heat, or is
+in any way connected with a rising or falling of temperature in a body,
+it is called "pyro-electricity," from the Greek word "pyros," fire. The
+phenomenon was first discovered in the tourmaline, and it is observed,
+speaking broadly, only in those minerals which are hemimorphic, that is,
+where the crystals have different planes or faces at their two ends,
+examples of which are seen in such crystals as those of axinite,
+boracite, smithsonite, topaz, etc., all of which are hemimorphic.
+
+Taking the tourmaline as an example of the pyro-electric minerals, we
+find that when this is heated to between 50° F. and 300° F. it assumes
+electric polarity, becoming electrified positively at one end or pole
+and negatively at the opposite pole. If it is suspended on a silken
+thread from a glass rod or other non-conducting support in a similar
+manner to the pith ball, the tourmaline will be found to have become an
+excellent magnet. By testing this continually as it cools there will
+soon be perceived a point which is of extreme delicacy of temperature,
+where the magnetic properties are almost in abeyance. But as the
+tourmaline cools yet further, though but a fraction of a degree, the
+magnetic properties change; the positive pole becomes the negative, the
+negative having changed to the positive.
+
+It is also interesting to note that if the tourmaline is not warmed so
+high as to reach a temperature of 50° F., or is heated so strongly as to
+exceed more than a few degrees above 300° F., then these magnetic
+properties do not appear, as no polarity is present. This polarity, or
+the presence of positive and negative electricity in one stone, may be
+strikingly illustrated in a very simple manner:--If a little sulphur and
+red-lead, both in fine powder, are shaken up together in a paper or
+similar bag, the moderate friction of particle against particle
+electrifies both; one negatively, the other positively. If, then, a
+little of this now golden-coloured mixture is gently dusted over the
+surface of the tourmaline or other stone possessing electric polarity, a
+most interesting change is at once apparent. The red-lead separates
+itself from the sulphur and adheres to the negative portion of the
+stone, whilst the separated sulphur is at once attracted to the positive
+end, so that the golden-coloured mixture becomes slowly transformed into
+its two separate components--the brilliant yellow sulphur, and the
+equally brilliant red-lead. These particles form in lines and waves
+around the respective poles in beautiful symmetry, their positions
+corresponding with the directions of the lines of magnetic force,
+exactly as will iron filings round the two poles of a magnet.
+
+From this it will clearly be seen how simple a matter it is to isolate
+the topaz, tourmaline, and all the pyro-electric stones from the
+non-pyro-electric, for science has not as yet been able to give to
+spurious stones these same electric properties, however excellent some
+imitations may be in other respects. Further, almost all minerals lose
+their electricity rapidly on exposure to atmospheric influences, even to
+dry air; the diamond retains it somewhat longer than most stones, though
+the sapphire, topaz, and a few others retain it almost as long again as
+the diamond, and these electric properties are some of the tests which
+are used in the examination of precious stones.
+
+Those stones which show electricity on the application of pressure are
+such as the fluorspar, calcite, and topaz.
+
+With regard to magnetism, the actual cause of this is not yet known with
+certainty. It is, of course, a self-evident fact that the magnetic iron
+ore, which is a form of peroxide, commonly known as magnetite, or
+lodestone, has the power of attracting a magnet when swinging free, or
+of being attracted by a magnet, to account for which many plausible
+reasons have been advanced. Perhaps the most reasonable and acceptable
+of these is that this material contains molecules which have half their
+substance positively and the other half negatively magnetised.
+
+Substances so composed, of which magnets are an example, may be made
+the means of magnetising other substances by friction, without they
+themselves suffering any loss; but it is not all substances that will
+respond to the magnet. For instance, common iron pyrites, FeS_{2}, is
+unresponsive, whilst the magnetic pyrites, which varies from 5FeS,
+Fe_{2}S_{3}, to 6FeS, Fe_{2}S_{3}, and is a sulphide of iron, is
+responsive both positively and negatively. Bismuth and antimony also are
+inactive, whilst almost all minerals containing even a small percentage
+of iron will deflect the magnetic needle, at least under the influence
+of heat. So that from the lodestone--the most powerfully magnetic
+mineral known--to those minerals possessing no magnetic action whatever,
+we have a long, graduated scale, in which many of the precious stones
+appear, those containing iron in their composition being more or less
+responsive, as already mentioned, and that either in their normal state,
+or when heated, and always to an extent depending on the quantity or
+percentage of iron they contain.
+
+In this case, also, science has not as yet been able to introduce into
+an artificial stone the requisite quantity of iron to bring it the same
+analytically as the gem it is supposed to represent, without completely
+spoiling the colour. So that the behaviour of a stone in the presence of
+a magnet, to the degree to which it should or should not respond, is one
+of the important tests of a genuine stone.
+
+
+CHAPTER XI.
+
+THE CUTTING OF PRECIOUS STONES.
+
+
+As existing in a state of nature precious stones do not, as a rule,
+exhibit any of those beautiful and wonderful properties which cause them
+to be so admired and sought after as to become of great intrinsic value,
+for their surfaces have become clouded by innumerable fine cuts or
+abrasions, because of the thousands of years during which they have been
+under pressure, or tumbled about in rivers, or subjected to the
+incessant friction caused by surrounding substances. All this occurring
+above and under ground has given them an appearance altogether different
+to that which follows cutting and polishing. Further, the shape of the
+stone becomes altered by the same means, and just as Michael Angelo's
+figure was already in the marble, as he facetiously said, and all he had
+to do was to chip off what he did not require till he came to it, so is
+the same process of cutting and polishing necessary to give to the
+precious stones their full value, and it is the manner in which these
+delicate and difficult operations are performed that is now under
+consideration. Just as experience and skill are essential to the
+obtaining of a perfect figure from the block of marble, so must the
+cutting and polishing of a precious stone call for the greatest
+dexterity of which a workman is capable, experience and skill so great
+as to be found only in the expert, for in stones of great value even a
+slight mistake in the shaping and cutting would probably not only be
+wasteful of the precious material, but would utterly spoil its beauty,
+causing incalculable loss, and destroying altogether the refrangibility,
+lustre and colour of the stone, thus rendering it liable to easy
+fracture: in every sense converting what would have been a rare and
+magnificent jewel to a comparatively valueless specimen.
+
+One of the chief services rendered by precious stones is that they may
+be employed as objects of adornment, therefore, the stone must be cut of
+such a shape as will allow of its being set without falling out of its
+fastening--not too shallow or thin, to make it unserviceable and liable
+to fracture, and in the case of a transparent stone, not too deep for
+the light to penetrate, or much colour and beauty will be lost. Again,
+very few stones are flawless, and the position in which the flaw or
+flaws appear will, to a great extent, regulate the shape of the stones,
+for there are some positions in which a slight flaw would be of small
+detriment, because they would take little or no reflection, whilst in
+others, where the reflections go back and forth from facet to facet
+throughout the stone, a flaw would be magnified times without number,
+and the value of the stone greatly reduced. It is therefore essential
+that a flaw should be removed whenever possible, but, when this is not
+practicable, the expert will cut the stone into such a shape as will
+bring the defect into the least important part of the finished gem, or
+probably sacrifice the size and weight of the original stone by cutting
+it in two or more pieces of such a shape that the cutting and polishing
+will obliterate the defective portions. Such a method was adopted with
+the great Cullinan diamond, as described in Chapter IV. From this
+remarkable diamond a great number of magnificent stones were obtained,
+the two chief being the largest and heaviest at present known. Some idea
+of the size of the original stone may be gathered from the fact that the
+traditional Indian diamond, the "Great Mogul," is said to have weighed
+280 carats. This stone, however, is lost, and some experts believe that
+it was divided, part of it forming the present famous Koh-i-nûr; at any
+rate, all trace of the Great Mogul ceased with the looting of Delhi in
+1739. The Koh-i-nûr weighs a little over 106 carats; before cutting it
+weighed a shade over 186; the Cullinan, in the same state, weighed
+nearly 3254 carats. This massive diamond was cut into about 200 stones,
+the largest, now placed in "The Royal Sceptre with the Cross," weighing
+516-1/2 carats, the second, now placed under the historic ruby in "The
+Imperial State Crown," weighing 309-3/16ths carats. These two diamonds
+are now called "The Stars of Africa." Both these stones, but especially
+the larger, completely overshadow the notorious Koh-i-nûr, and
+notwithstanding the flaw which appeared in the original stone, every one
+of the resulting pieces, irrespective of weight, is without the
+slightest blemish and of the finest colour ever known, for the great
+South African diamond is of a quality never even approached by any
+existing stone, being ideally perfect.
+
+It requires a somewhat elaborate explanation to make clear the various
+styles of cut without illustrations. They are usually divided into two
+groups, with curved, and with flat or plane surfaces. Of the first, the
+curved surfaces, opaque and translucent stones, such as the moonstone,
+cat's-eye, etc., are mostly cut _en cabochon_, that is, dome-shaped or
+semi-circular at the top, flat on the underside, and when the garnet is
+so cut it is called a carbuncle. In strongly coloured stones, while the
+upper surface is semi-circular like the cabochon, the under surface is
+more or less deeply concave, sometimes following the curve of the upper
+surface, the thickness of the stone being in that case almost parallel
+throughout. This is called the "hollow" cabochon. Other stones are cut
+so that the upper surface is dome-shaped like the last two, but the
+lower is more or less convex, though not so deep as to make the stone
+spherical. This is called the "double" cabochon.
+
+A further variety of cutting is known as the _goutte de suif_, or the
+"tallow-drop," which takes the form of a somewhat flattened or
+long-focus double-convex lens. The more complicated varieties of cut are
+those appearing in the second group, or those with plane surfaces. A
+very old form is the "rose" or "rosette"; in this the extreme upper
+centre, called the "crown," or "star," is usually composed of six
+triangles, the apexes of which are elevated and joined together, forming
+one point in the centre. From their bases descend a further series of
+triangles, the bases and apexes of which are formed by the bases and
+lower angles of the upper series. This lower belt is called the "teeth,"
+under which the surface or base of the stone is usually flat, but
+sometimes partakes of a similar shape to the upper surface, though
+somewhat modified in form.
+
+Another variety is called the "table cut," and is used for coloured
+stones. It has a flat top or "table" of a square or other shape, the
+edges of which slope outwards and form the "bezils" or that extended
+portion by which the stone is held in its setting. It will thus be seen
+that the outside of the stone is of the same shape as that of the
+"table," but larger, so that from every portion of the "table" the
+surface extends downwards, sloping outwards to the extreme size of the
+stone, the underside sloping downwards and inwards to a small and flat
+base, the whole, in section, being not unlike the section of a "pegtop."
+
+A modification of this is known as the "step" cut, sometimes also called
+the "trap." Briefly, the difference between this and the last is that
+whereas the table has usually one bevel on the upper and lower surfaces,
+the trap has one or more steps in the sloping parts, hence its name.
+
+The most common of all, and usually applied only to the diamond, is the
+"brilliant" cut. This is somewhat complicated, and requires detailed
+description. In section, the shape is substantially that of a pegtop
+with a flat "table" top and a small flat base. The widest portion is
+that on which the claws, or other form of setting, hold it securely in
+position. This portion is called the "girdle," and if we take this as a
+defining line, that portion which appears above the setting of this
+girdle, is called the "crown"; the portion below the girdle is called
+the "culasse," or less commonly the "pavilion." Commencing with the
+girdle upwards, we have eight "cross facets" in four pairs, a pair on
+each side; each pair having their apexes together, meeting on the four
+extremities of two lines drawn laterally at right angles through the
+stone. It will, therefore, be seen that one side of each triangle
+coincides with the girdle, and as their bases do not meet, these spaces
+are occupied by eight small triangles, called "skill facets," each of
+which has, as its base, the girdle, and the outer of its sides coincides
+with the base of the adjoining "cross facet." The two inner sides of
+each pair of skill facets form the half of a diamond or lozenge-shaped
+facet, called a "quoin," of which there are four. The inner or upper
+half of each of these four quoins forms the bases of two triangles, one
+at each side, making eight in all, which are called "star facets," and
+the inner lines of these eight star facets form the boundary of the top
+of the stone, called the "table." The inner lines also of the star
+facets immediately below the table and those of the cross facets
+immediately above the girdle form four "templets," or "bezils." We thus
+have above the girdle, thirty-three facets: 8 cross, 8 skill, 4 quoin, 8
+star, 1 table, and 4 templets.
+
+Reversing the stone and again commencing at the girdle, we have eight
+"skill facets," sometimes called the lower skill facets, the bases of
+which are on the girdle, their outer sides forming the bases of eight
+cross facets, the apexes of which meet on the extremities of the
+horizontal line, as in those above the girdle. If the basal lines of
+these cross facets, where they join the sides of the skill facets, are
+extended to the peak, or narrow end of the stone, these lines, together
+with the sides of the cross facets, will form four five-sided facets,
+called the "pavilions"; the spaces between these four pavilions have
+their ends nearest the girdle formed by the inner sides of the skill
+facets, and of these spaces, there will, of course, be four, which also
+are five-sided figures, and are called "quoins," so that there are eight
+five-sided facets--four large and four narrow--their bases forming a
+square, with a small portion of each corner cut away; the bases of the
+broader pavilions form the four sides, whilst the bases of the four
+narrower quoins cut off the corners of the square, and this flat
+portion, bounded by the eight bases, is called the "culet," but more
+commonly "collet." So that below the girdle, we find twenty-five facets:
+8 cross, 8 skill, 4 pavilion, 4 quoin, and 1 collet.
+
+These, with the 33 of the crown, make 58, which is the usual number of
+facets in a brilliant, though this varies with the character, quality,
+and size of the diamond. For instance, though this number is considered
+the best for normal stones, specially large ones often have more,
+otherwise there is danger of their appearing dull, and it requires a
+vast amount of skill and experience to decide upon the particular number
+and size of the facets that will best display the fire and brilliance of
+a large stone, for it is obvious that if, after months of cutting and
+polishing, it is found that a greater or smaller number of facets ought
+to have been allowed, the error cannot be retrieved without considerable
+loss, and probable ruin to the stone. In the case of the Cullinan
+diamonds, the two largest of which are called the Stars of Africa, 74
+facets were cut in the largest portion, while in the next largest the
+experts decided to make 66, and, as already pointed out, these stones
+are, up to the present time, the most magnificent in fire, beauty and
+purity ever discovered.
+
+The positions and angles of the facets, as well as the number, are of
+supreme importance, and diamond cutters--even though they have rules
+regulating these matters, according to the weight and size of the
+stone--must exercise the greatest care and exactitude, for their
+decision once made is practically unalterable.
+
+
+CHAPTER XII.
+
+IMITATIONS, AND SOME OF THE TESTS, OF PRECIOUS STONES.
+
+
+We now arrive at the point where it is necessary to discuss the
+manufacture and re-formation of precious stones, and also to consider a
+few of the tests which may be applied to _all_ stones. These are given
+here in order to save needless repetition; the tests which are specially
+applicable to individual stones will more properly be found under the
+description of the stone referred to, so that the present chapter will
+be devoted chiefly to generalities.
+
+With regard to diamonds, the manufacture of these has not as yet been
+very successful. As will be seen on reference to Chapter II., on "the
+Origin of Precious Stones," it is generally admitted that these
+beautiful and valuable minerals are caused by chemically-charged water
+and occasionally, though not always, high temperature, but invariably
+beautified and brought to the condition in which they are obtained by
+the action of weight and pressure, extending unbroken through perhaps
+ages of time.
+
+In these circumstances, science, though able to give chemical
+properties and pressure, cannot, of course, maintain these continuously
+for "ages," therefore the chemist must manufacture the jewels in such
+manner that he may soon see the results of his labours, and though real
+diamonds may be made, and with comparative ease, from boron in the
+amorphous or pure state along with aluminium, fused in a crucible at a
+high temperature, these diamonds are but microscopic, nor can a number
+of them be fused, or in any other way converted into a large single
+stone, so that imitation stones, to be of any service must be made of a
+good clear glass. The glass for this purpose is usually composed of
+53.70 per cent. of red lead, 38.48 per cent. of pure quartz in fine
+powder, preferably water-ground, and 7.82 per cent. of carbonate of
+potash, the whole coloured when necessary with metallic oxides of a
+similar nature to the constituents of the natural stones imitated. But
+for colourless diamonds, the glass requires no such addition to tint it.
+From the formula given is made the material known as "strass," or
+"paste," and stones made of it are mostly exhibited under and amongst
+brilliant artificial lights. The mere fact that they are sold cheaply is
+_primâ facie_ proof that the stones are glass, for it is evident that a
+diamond, the commercial value of which might be £50 or more, cannot be
+purchased for a few shillings and be genuine. So long as this is
+understood and the stone is sold for the few shillings, no harm is done;
+but to offer it as a genuine stone and at the price of a genuine stone,
+would amount to fraud, and be punishable accordingly. Some of these
+"paste," or "white stones," as they are called in the trade, are cut and
+polished exactly like a diamond, and with such success as occasionally
+to deceive all but experts. Such imitations are costly, though, of
+course, not approaching the value of the real stones; it being no
+uncommon thing for valuable jewels to be duplicated in paste, whilst the
+originals are kept in the strong room of a bank or safe-deposit.
+
+In all cases, however, a hard file will abrade the surface of the false
+stone. In chapter VII. we found that quartz is in the seventh degree of
+hardness, and an ordinary file is but a shade harder than this, so that
+almost all stones higher than No. 7 are unaffected by a file unless it
+is used roughly, so as to break a sharp edge. In order to prepare
+artificial diamonds and other stones for the file and various tests,
+they are often what is called "converted" into "doublets" or "triplets."
+These are made as follows: the body of the glass is of paste, and on the
+"table" (see last chapter), and perhaps on the broader facets, there
+will be placed a very thin slab of the real stone, attached by cement.
+In the case of the diamond, the body is clear, but in the coloured
+imitations the paste portion is made somewhat lighter in shade than the
+real stone would be, the portion below the girdle being coloured
+chemically, or mounted in a coloured backing. Such a stone will, of
+course, stand most tests, for the parts usually tested are genuine.
+
+A stone of this nature is called a "doublet," and it is evident that
+when it is tested on the underside, it will prove too soft, therefore
+the "triplet" has been introduced. This is exactly on the lines of the
+doublet, except that the collet and perhaps the pavilions are covered
+also, so that the girdle, which is generally encased by the mounting,
+is the only surface-portion of paste. In other cases the whole of the
+crown is genuine, whilst often both the upper and lower portions are
+solid and genuine, the saving being effected by using a paste centre at
+the girdle, covered by the mounting. Such a stone as this last mentioned
+is often difficult to detect without using severe tests and desperate
+means, e.g.:--(a) by its crystalline structure (see Chapter III.);
+(b) by the cleavage planes (see Chapter IV.); (c) by the polariscope
+(see Chapter V.); (d) by the dichroscope (see Chapter VI.); (e) by
+specific gravity (see Chapter VIII.); (f) cutting off the mounting,
+and examining the girdle; (g) soaking the stone for a minute or so in
+a mixture said to have been originally discovered by M. D. Rothschild,
+and composed of hydrofluoric acid and ammonia; this will not answer for
+all stones, but is safe to use for the diamond and a few others. Should
+the jewel be glass, it will be etched, if not completely destroyed, but
+if genuine, no change will be apparent; (h) soaking the diamond for a
+few minutes in warm or cold water, in alcohol, in chloroform, or in all
+these in turn, when, if a doublet, or triplet, it will tumble to pieces
+where joined together by the cement, which will have been dissolved. It
+is, however, seldom necessary to test so far, for an examination under
+the microscope, even with low power, is usually sufficient to detect in
+the glass the air-bubbles which are almost inseparable from
+glass-mixtures, though they do not detract from the physical properties
+of the glass. The higher powers of the same instrument will almost
+always define the junction and the layer or layers of cement, no matter
+how delicate a film may have been used. Any one of these tests is
+sufficient to isolate a false stone.
+
+Some of the softer genuine stones may be fused together with splinters,
+dust, and cuttings of the same stones, and of this product is formed a
+larger stone, which, though manufactured, is essentially perfectly real,
+possessing exactly the same properties as a naturally formed stone. Many
+such stones are obtained as large as an ordinary pin's head, and are
+much used commercially for cluster-work in rings, brooches, for
+watch-jewels, scarf-pins, and the like, and are capable of being cut and
+polished exactly like an original stone. This is a means of using up to
+great advantage the lapidary's dust, and though these products are real
+stones, perhaps a little more enriched in colour chemically, they are
+much cheaper than a natural stone of the same size and weight.
+
+Some spurious stones have their colour improved by heat, by being tinged
+on the outside, by being tinted throughout with a fixed colour and
+placed in a clear setting; others, again, have a setting of a different
+hue, so that the reflection of this shall give additional colour and
+fire to the stone. For instance, glass diamonds are often set with the
+whole of the portion below the girdle hidden, this part of the stone
+being silvered like a mirror. Others are set open, being held at the
+girdle only, the portion covered by the setting being silvered. Other
+glass imitations, such as the opal, have a tolerably good representation
+of the "fiery" opal given to them by the admixture, in the glass, of a
+little oxide of tin, which makes it somewhat opalescent, and in the
+setting is placed a backing of red, gold, copper, or fiery-coloured
+tinsel, whilst the glass itself, at the back, is painted very thinly
+with a paint composed of well washed and dried fish-scales, reduced to
+an impalpable powder, mixed with a little pure, refined mastic, or other
+colourless varnish. This gives a good imitation of phosphorescence, as
+well as a slight pearliness, whilst the tinsel, seen through the paint
+and the curious milkiness of the glass, gives good "fire."
+
+A knowledge of the colours natural to precious stones and to jewels
+generally is of great service in their rough classification for testing,
+even though some stones are found in a variety of colours. An
+alphabetical list of the most useful is here appended, together with
+their average specific gravities and hardness. (See also Chapter VII. on
+"Hardness," and Chapter VIII. on "Specific Gravity.")
+
+
+                  WHITE OR COLOURLESS STONES.
+
+                                       _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+
+Beryl                                   7-3/4            2.709-2.81
+Corundum                                9                3.90-4.16
+Diamond                                10                3.502-3.564
+Jade                                    7                3.300-3.381
+Opal                                    5-1/2-6-1/2      2.160-2.283
+Phenakite                               7-3/4            2.965
+Quartz                                  7                2.670
+Rock-crystal                            7                2.521-2.795
+Sapphire                                9                4.049-4.060
+Spinel                                  8                3.614-3.654
+Topaz                                   8                3.500-3.520
+Tourmaline                              7-1/4            3.029
+Zircon                                  7-1/2            4.700-4.880
+
+
+YELLOW STONES.
+
+                                      _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+Amber                                    2-1/2              1.000
+Beryl                                    7-3/4              2.709-2.810
+Chrysoberyl                              8-1/2              3.689-3.752
+Chrysolite                               6-7                3.316-3.528
+Corundum (the yellow variety known
+as "Oriental Topaz" [not "Topaz"],
+see below)                               9                  3.90-4.16
+Diamond                                 10                  3.502-3.564
+Garnets (various)                        6-1/2-7-1/2        3.4-4.5
+Hyacinth (a form of Zircon)              7-1/2              4.7-4.88
+Quartz (Citrine)                         7                  2.658
+Sapphire                                 9                  4.049-4.060
+Spinel                                   8                  3.614-3.654
+Topaz (for "Oriental Topaz," see above)  8                  3.500-3.520
+Tourmaline                               7-1/4              3.210
+
+
+BROWN AND FLAME-COLOURED STONES.
+
+                                       _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+Andalusite                                7-1/2              3.204
+Diamond                                  10                  3.502-3.564
+Garnets (various)                         6-1/2-7-1/2        3.40-4.50
+Hyacinth (a form of Zircon), see below    7-1/2              4.70-4.88
+Quartz (smoke coloured)                   7                  2.670
+Tourmaline                                7-1/4              3.100
+Zircon (Hyacinth)                         7-1/2              4.70-4.88
+
+
+RED AND ROSE-COLOURED STONES.
+
+                                       _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+Carnelian (a variety of Chalcedony)        6-1/2               2.598-2.610
+Diamond                                   10                   3.502-3.564
+Deep Red Garnet                            7-1/4               3.40-4.50
+Jasper                                     7                   2.668
+Opal (the "Fire Opal")                     5-1/2-6-1/2         2.21
+                                                                (average)
+Ruby                                       9                   4.073-4.080
+Rhodonite                                  5-1/2-6-1/2         3.413-3.617
+Sapphire                                   9                   4.049-4.060
+Spinel Ruby                                8                   3.614-3.654
+Topaz                                      8                   3.500-3.520
+Tourmaline                                 7-1/4               3.024
+Zircon                                     7-1/2               4.70-4.88
+
+
+PINK STONES.
+
+                                       _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+Beryl                                      7-3/4                2.709-2.810
+Diamond                                   10                    3.502-3.564
+Ruby                                       9                    4.073-4.080
+Spinel                                     8                    3.614-3.654
+Topaz ("burnt" or "pinked"), see
+ Chapter XIV., page 92                     8                    3.500-3.520
+Tourmaline                                 7-1/4                3.024
+
+
+BLUE STONES.
+
+                                       _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+Beryl                                         7-3/4          2.709-2.810
+Diamond                                      10              3.502-3.564
+Dichorite (Water Sapphire)                    7-7-1/2        4.049-4.060
+Disthene (Kyanite)                            5-7            3.609-3.688
+Iolite (Cordierite)                           7-1/4          2.641
+Lapis lazuli                                  5-1/2          2.461
+Sapphire                                      9              4.049-4.060
+Topaz                                         8              3.500-3.520
+Tourmaline                                    7-1/4          3.160
+Turquoise                                     6              2.800
+
+
+GREEN STONES.
+
+                                       _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+Aquamarine                                 7-3/4            2.701-2.800
+Chrysoberyl                                8-1/2            3.689-3.752
+Chrysolite                                 6-7              3.316-3.528
+Chrysoprase (Quartz)                       7                2.670
+Diamond                                   10                3.502-3.564
+Dioptase                                   5                3.289
+Emerald and Oriental Emerald               7-3/4            2.690
+Euclase                                    7-1/2            3.090
+Garnet (see also Red Garnet)               6-1/2-7-1/2      3.400-4.500
+Heliotrope (Chalcedony)                    6-1/2            2.598-2.610
+Hiddenite (a variety of Spodumene)         6-1/2-7          3.130-3.200
+Jade                                       7                3.300-3.381
+Jadeite                                    7                3.299
+Malachite                                  3-1/2            3.710-3.996
+Peridot (a variety of Chrysolite)          6-7              3.316-3.528
+Plasma (a variety of Chalcedony)           6-1/2            2.598-2.610
+Quartz                                     7                2.670
+Sapphire                                   9                4.049-4.060
+Topaz                                      8                3.500-3.520
+Tourmaline                                 7-1/4            3.148
+
+
+VIOLET STONES.
+
+                                       _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+Amethyst                                    7                2.661
+Diamond                                    10                3.502-3.564
+Quartz (Amethyst)                           7                2.670
+Sapphire                                    9                4.049-4.060
+Spinel                                      8                3.614-3.654
+Tourmaline                                  7-1/4            3.160
+
+
+CHATOYANT STONES.
+
+These stones are easily recognisable by their play of colour. (See
+Chapter XIV.)
+
+
+BLACK STONES.
+
+                                       _Hardness._      _Specific Gravity._
+                                  (See Chapter VII.)    (See Chapter VIII.)
+Diamond                                  10                 3.502-3.564
+Garnet                                    6-1/2-7-1/2       3.400-4.500
+Jet                                       3-1/2             1.348
+Onyx (a variety of Chalcedony)            6-1/2             2.598-2.610
+Quartz                                    7                 2.670
+Tourmaline (not unlike Black Resin
+in appearance)                            7-1/4             3.024-3.300
+
+
+CHAPTER XIII.
+
+VARIOUS PRECIOUS STONES.
+
+
+_The Diamond._
+
+To recapitulate certain of the facts respecting the diamond.--This
+wonderful gem has the distinction amongst precious stones of being
+unique; though many are composed of two, three, or but a small number of
+elements, the diamond is the only stone known consisting of one element,
+and absolutely nothing else--pure crystallised carbon. Its hardness is
+proverbial; not only is it untouched by the action of a hard file, but
+it occasionally refuses to split when struck with finely tempered steel,
+which it often causes to break. Such was the case with the South African
+diamond, for when the knife that was to break it was struck smartly with
+a steel bar, the first blow broke the blade without affecting the
+diamond, yet a piece of bort, or diamond dust, splinters, or defective
+diamonds (all these being called bort), may readily be pulverised in a
+hard steel mortar with a hard steel pestle.
+
+The diamond is the hardest stone known; it is also the only stone known
+which is really combustible. It is of true adamantine lustre, classed by
+experts as midway between the truly metallic and the purely resinous. In
+refractive power and dispersion of the coloured rays of light, called
+its fire, it stands pre-eminent. It possesses a considerable variety of
+colour; that regarded as the most perfect and rare is the blue-white
+colour. Most commonly, however, the colours are clear, with steely-blue
+casts, pale and neutral-colour yellow, whilst amongst the most expensive
+and rare are those of green, pale pink, red, and any other variety with
+strong and decided colour. Although these stones are sold by the carat,
+there can be no hard and fast rule laid down as to the value of a carat,
+for this depends on the size, quality, and the purity of the stone. The
+larger the stone the greater the value per carat, and prices have been
+known to range from 25_l._ per carat for a small stone to 500_l._ per
+carat for a large one, whereas the exceptionally large stones possess a
+value almost beyond estimation.
+
+It often happens that some stones--particularly those from South Africa
+and Brazil--are tinted when uncut, probably by reason of the action upon
+them of their matrix, especially if ironstone, or with rolling for ages
+amongst ironstone in river-beds, which gives them a slight metallic
+appearance; in each case the cause is suggested by the fact that these
+tinted stones are usually found in such places, and that the tinting is
+very thin and on the surface only, so that the cutting and shaping of
+the stone gets below it to the perfectly clear diamond.
+
+From Pliny and other historians we gather that at various periods
+considerable superstition has existed with regard to diamonds, such as
+that if one is powdered it becomes poisonous to a remarkable degree;
+that gifts of diamonds between lovers--married and unmarried--produce
+and seal affection; hence the popularity of diamonds in betrothal
+rings. Pretty as is this conceit, there is no doubt about the fact that
+the gift of diamonds to the object of one's affections does usually
+produce a feeling of pleasure to both parties, from which it would
+appear that there is some ground for the belief.
+
+
+_Corundum._
+
+This mineral is a species of crystal, or crystalline alumina--an almost
+pure anhydrous alumina, Al_{2}O_{3}--in many varieties, both of shape
+and colour. The chief stone is the ruby, considered, when large, to be
+of even more importance and value than the diamond. There are many other
+red stones in this group; sapphires, also, are a species of corundum,
+both the blue and the colourless varieties, as are also the aquamarine,
+the emerald, the amethyst, the topaz, and others, all of widely
+differing colour, as well as the star-shaped, or "aster" ruby, called
+the "ruby" cat's-eye. All these vary more in colour than in their
+chemical properties. Still another variety, greyish-black and generally
+associated with hæmatite iron ore, is called emery, and, when ground in
+different degrees of fineness, is so well known by its general use as a
+polishing medium as to need no description. It should, however, be
+mentioned that amongst the more coarsely ground emery it is no uncommon
+thing to find minute sapphires, taking sapphires in their broad,
+commercial meaning, as signifying any variety of corundum, except the
+red and the emery. The surfaces of crystals of corundum are often
+clouded or dull, whilst its classification of lustre is vitreous. It is
+double refracting and has no cleavage. It is found in China, India,
+Burma, Ceylon, South Africa, America, and in many other places, having a
+wide distribution.
+
+
+_The Ruby._
+
+In the dichroscope the ruby shows two images, one square of a violet
+red, the second square being a truer and a paler red. It may be
+subjected to strong heat, when it changes its colour to a sooty or dirty
+slate, this varying with the locality in which the stone is found, and
+the manner in which the heat is applied. But as it cools it becomes
+paler and greener, till it slowly enrichens; the green first becomes
+broken, then warmer, redder, and finally assumes its original beautiful
+blood red. This method of heating is sometimes used as a test, but it is
+a test which often means the complete ruin of a stone which is not
+genuine. Another characteristic which, in the eyes of the expert,
+invariably isolates a real from an artificial ruby is its curious mild
+brilliance, which as yet has not been reproduced by any scientific
+method in paste or any other material, but perhaps the safest test of
+all is the crystalline structure, which identical structure appears in
+no other stone, though it is possible, by heating alumina coloured with
+oxide of iron and perhaps also a trace of oxide of chromium to a very
+high temperature for a considerable time, and then cooling very slowly,
+to obtain a ruby which is nearly the same in its structure as the real
+gem; its specific gravity and hardness may perhaps be to standard, and
+when properly cut, its brilliance would deceive all but an expert. And
+as in some real rubies there are found slight hollows corresponding or
+analogous to the bubbles found in melted glass, it becomes a matter of
+great difficulty to distinguish the real from the imitation by such
+tests as hardness, specific gravity, dichroism, and the like, so that in
+such a case, short of risking the ruin of the stone, ordinary persons
+are unable to apply any convincing tests. Therefore, only the expert can
+decide, by his appreciation of the delicate shade of difference in the
+light of a true ruby and that of an excellent imitation, and by the
+distribution of the colour, which--however experienced the chemist may
+be, or with what care the colouring matter may have been incorporated in
+the mass--has been found impossible of distribution throughout the body
+of an artificial stone so perfectly and in the same manner and direction
+as nature herself distributes it in the genuine. This alone, even in the
+closest imitations, is clear to the eye of the expert, though not to the
+untrained eye, unless the stone is palpably spurious. To one who is
+accustomed to the examination of precious stones, however perfect the
+imitation, it is but necessary to place it beside or amongst one or more
+real ones for the false to be almost instantly identified, and that with
+certainty.
+
+
+_The Sapphire._
+
+The Sapphire is not so easy to imitate, as its hardness exceeds that of
+the ruby, and imitations containing its known constituents, or of glass,
+are invariably softer than the natural stone. As before remarked, almost
+any form of corundum other than red is, broadly, called sapphire, but
+giving them their strictly correct designations, we have the olivine
+corundum, called "chrysolite" (oriental), which is harder than the
+ordinary or "noble" chrysolite, sometimes called the "peridot." The
+various yellow varieties of corundum take the name of the "oriental
+topaz," which, like most, if not all, the corundum varieties, is harder
+than the gem which bears the same name, minus the prefix "oriental."
+Then we have the "amethyst" sapphire, which varies from a red to a blue
+purple, being richer in colour than the ordinary amethyst, which is a
+form of violet-coloured quartz, but the corundum variety, which, like
+its companions, is called the "oriental" amethyst, is both rarer and
+more precious. A very rare and extremely beautiful green variety is
+called the oriental emerald. The oriental jacinth, or hyacinth, is a
+brown-red corundum, which is more stable than the ordinary hyacinth,
+this latter being a form of zircon; it changes colour on exposure to
+light, which colour is not restored by subsequent retention in darkness.
+
+The blue sapphire is of all shades of blue, from cornflower blue to the
+very palest tints of this colour, all the gradations from light to dark
+purple blues, and, in fact, so many shades of tone and colour that they
+become almost as numerous as the stones. These stones are usually found
+in similar situations to those which produce the ruby, and often along
+with them. The lighter colours are usually called females, or feminine
+stones, whilst the darker ones are called masculine stones. Some of
+these dark ones are so deep as to be almost black, when they are called
+"ink" sapphires, and if inclining to blue, "indigo" sapphires, in
+contradistinction to which the palest of the stones are called "water"
+sapphires. The colouring matter is not always even, but is often spread
+over the substance of the stone in scabs or "splotches," which rather
+favours imitation, and, where this unevenness occurs, it may be
+necessary to cut or divide the stone, or so to arrange the form of it
+that the finished stone shall be equally blue throughout.
+
+In some cases, however, the sapphire may owe its beauty to the presence
+of two, three or more colours in separate strata appearing in one stone;
+such as a portion being a green-blue, another a cornflower blue, another
+perfectly colourless, another a pale sky blue, another yellow, each
+perfectly distinct, the stone being cut so as to show each colour in its
+full perfection.
+
+This stone, the sapphire, is hardness No. 9 (see "Hardness" table), and
+therefore ranks next to the diamond, which makes it a matter of great
+difficulty to obtain an imitation which is of the same specific gravity
+and of the same degree of hardness, though this has been done. Such
+stones are purchasable, but though sold as imitations at comparatively
+low price, and the buyer may consider them just as good as the real gem,
+to the experienced eye they are readily detectable.
+
+By heating a sapphire its blue colour slowly fades, to complete
+transparency in many cases, or at any rate to so pale a tint as to pass
+for a transparent stone. Valuable as is the sapphire, the diamond is
+more so, and it follows that if one of these clear or "cleared"
+sapphires is cut in the "rose" or "brilliant" form--which forms are
+reserved almost exclusively for the diamond--such a stone would pass
+very well as a diamond, and many so cut are sold by unscrupulous people
+as the more valuable stone, which fraud an expert would, of course,
+detect.
+
+Sapphires are mentioned by Pliny, and figure largely in the ancient
+history of China, Egypt, Rome, etc. The Greeks dedicated the sapphire
+specially to Jupiter, and many of the stones were cut to represent the
+god; it also figured as one of the chief stones worn by the Jewish High
+Priest on the breast-plate. Some stones have curious rays of variegated
+colour, due to their crystalline formation, taking the shape of a star;
+these are called "asteriated," or "cat's eye" sapphires. Others have
+curious flashes of light, technically called a "play" of light (as
+described in Chapter VI. on "Colour"), together with a curious blue
+opalescence; these are the "girasol." Another interesting variety of
+this blue sapphire is one known as "chatoyant"; this has a rapidly
+changing lustre, which seems to undulate between a green-yellow and a
+luminous blue, with a phosphorescent glow, or fire, something like that
+seen in the eyes of a cat in the dark, or the steady, burning glow
+observed when the cat is fascinating a bird--hence its name. This is not
+the same variety as the "asteriated," or "cat's eye" or "lynx eye"
+mentioned above.
+
+
+CHAPTER XIV.
+
+VARIOUS PRECIOUS STONES--_continued._
+
+
+_The Chrysoberyl._
+
+There are certain stones and other minerals which, owing to their
+possession of numerous microscopically fine cavities, of a globular or
+tubular shape, have the appearance of "rays" or "stars," and these are
+called "asteriated." Several of such stones have been discussed already
+in the last chapter, and in addition to these star-like rays, some of
+the stones have, running through their substance, one or more streaks,
+perhaps of asbestos or calcite, some being perfectly clear, whilst
+others are opalescent. When these streaks pass across the star-like
+radiations they give the stone the appearance of an eye, the rays
+forming the iris, the clear, opalescent, or black streak closely
+resembling the slit in a cat's eye, and when these stones are cut _en
+cabochon_, that is, dome-shaped (see Chapter XI. on "Cutting"), there is
+nothing to deflect the light beams back and forth from facet to facet,
+as in a diamond, so that the light, acting directly on these radiations
+or masses of globular cavities and on the streak, causes the former to
+glow like living fire, and the streak appears to vibrate, palpitate,
+expand, and contract, exactly like the slit in the eye of a cat.
+
+There are a considerable number of superstitions in connection with
+these cat's-eye stones, many people regarding them as mascots, or with
+disfavour, according to their colour. When possessing the favourite hue
+or "fire" of the wearer, such as the fire of the opal for those born in
+October, of the ruby for those born in July, etc., these stones are
+considered to bring nothing but good luck; to ward off accident, danger,
+and sudden death; to be a charm against being bitten by animals, and to
+be a protection from poison, the "evil eye," etc. They figured largely,
+along with other valuable jewels, in the worship of the ancient
+Egyptians, and have been found in some of the tombs in Egypt. They also
+appeared on the "systrum," which was a sacred instrument used by the
+ancient Egyptians in the performance of their religious rites,
+particularly in their sacrifices to the goddess Isis. This, therefore,
+may be considered one of their sacred stones, whilst there is some
+analogy between the cat's-eye stones and the sacred cat of the Egyptians
+which recurs so often in their hieroglyphics; it is well known that our
+domestic cat is not descended from the wild cat, but from the celebrated
+cat of Egypt, where history records its being "domesticated" at least
+thirteen centuries B.C. From there it was taken throughout Europe, where
+it appeared at least a century B.C., and was kept as a pet in the homes
+of the wealthy, though certain writers, speaking of the "mouse-hunters"
+of the old Romans and Greeks, state that these creatures were not the
+Egyptian cat, but a carniverous, long-bodied animal, after the shape of
+a weasel, called "marten," of the species the "beech" or "common" marten
+(_mustela foina_), found also in Britain to-day. It is also interesting
+to note that the various superstitions existing with regard to the
+different varieties and colours of cats also exist in an identical
+manner with the corresponding colours of the minerals known as "cat's
+eye."
+
+Several varieties of cat's-eye have already been described. Another
+important variety is that of the chrysoberyl called "cymophane." This is
+composed of glucina, which is glucinum oxide, or beryllia, BeO, of which
+there is 19.8 per cent., and alumina, or aluminium oxide, Al_{2}O_{3},
+of which there is 80.2 per cent. It has, therefore, the chemical
+formula, BeO,Al_{2}O_{3}. This stone shows positive electricity when
+rubbed, and, unlike the sapphires described in the last chapter, which
+lose their colour when heated, this variety of chrysoberyl shows no
+change in colour, and any electricity given to it, either by friction or
+heat, is retained for a long time. When heated in the blowpipe alone it
+remains unaltered, that is, it is not fusible, and even with microcosmic
+salt it requires a considerably long and fierce heat before it yields
+and fuses, and acids do not act upon it. It crystallises in the 4th
+(rhombic) system, and its lustre is vitreous.
+
+The cymophane shows a number of varieties, quite as many as the
+chrysoberyl, of which it is itself a variety, and these go through the
+gamut of greens, from a pale white green to the stronger green of
+asparagus, and through both the grey and yellow greens to dark. It is
+found in Ceylon, Moravia, the Ural Mountains, Brazil, North America,
+and elsewhere. The cat's-eye of this is very similar to the quartz
+cat's-eye, but a comparison will make the difference so clear that they
+could never be mistaken, apart from the fact that the quartz has a
+specific gravity considerably lower than the chrysoberyl cat's-eye,
+which latter is the true cat's-eye, and the one usually understood when
+allusion is made to the stone without any distinguishing prefix, such as
+the ruby, sapphire, quartz, etc., cat's eye. It should, however, be
+mentioned that this stone is referred to when the names Ceylonese and
+Oriental cat's-eye are given, which names are used in the trade as well
+as the simple appellation, "cat's eye." One peculiarity of some of these
+stones is that the "fire" or "glow" is usually altered in colour by the
+colour of the light under which it is seen, the change of colour being
+generally the complementary. Thus, a stone which in one light shows red,
+in another will be green; the "eye" showing blue in one light will
+become orange in another; whilst the yellow of another stone may show a
+decided purple or amethyst in a different light.
+
+A good test for this, and indeed most precious stones, is that they
+conduct heat more quickly than does glass, and with such rapidity that
+on breathing upon a stone the warmth is conducted instantly, so that,
+though the stone is dimmed the dimness vanishes at once, whereas with
+glass the film of moisture fades but slowly in comparison.
+
+
+_The Topaz._
+
+The name topaz is derived from the Greek _topazos_, which is the name of
+a small island situated in the Gulf of Arabia, from whence the Romans
+obtained a mineral which they called topazos and topazion, which mineral
+to-day is termed chrysolite. The mineral topaz is found in Cornwall and
+in the British Isles generally; also in Siberia, India, South America
+and many other localities, some of the finest stones coming from Saxony,
+Bohemia, and Brazil, especially the last-named. The cleavage is perfect
+and parallel to the basal plane. It crystallises in the 4th (rhombic)
+system; in lustre it is vitreous; it is transparent, or ranging from
+that to translucent; the streak is white or colourless. Its colour
+varies very much--some stones are straw-colour, some are grey, white,
+blue, green, and orange. A very favourite colour is the pink, but in
+most cases this colour is not natural to the stone, but is the result of
+"burning," or "pinking" as the process is called technically, which
+process is to raise the temperature of a yellow stone till the yellow
+tint turns to a pink of the colour desired. The topaz is harder than
+quartz, as will be seen on reference to the "Hardness" table, and is
+composed of a silicate of aluminium, fluorine taking the place of some
+of the oxygen. Its composition averages 16.25 per cent. of silica, 55.75
+per cent. of alumina, or oxide of aluminium, and fluoride of silicium,
+28 per cent. Its formula is [Al(F,OH)]_{2} SiO_{4}, or (AlF)_{2}SiO_{4}.
+From this it will be understood that the fluorine will be evolved when
+the stone is fused. It is, however, very difficult to fuse, and alone it
+is infusible under the blowpipe, but with microcosmic salt it fuses and
+evolves fluorine, and the glass of the tube in the open end of which the
+stone is fixed is bitten with the gas.
+
+Such experiments with the topaz are highly interesting, and if we take a
+little of the powdered stone and mix with it a small portion of the
+microcosmic salt, we may apply the usual test for analysing and proving
+aluminium, thus: a strongly brilliant mass is seen when hot, and if we
+moisten the powder with nitrate of cobalt and heat again, this time in
+the inner flame, the mass becomes blue. Other phenomena are seen during
+the influence of heat. Some stones, as stated, become pink on heating,
+but if the heating is continued too long, or too strongly, the stone is
+decoloured. Others, again, suffer no change, and this has led to a
+slight difference of opinion amongst chemists as to whether the colour
+is due to inorganic or organic matter. Heating also produces
+electricity, and the stone, and even splinters of it, will give out a
+curious phosphorescent light, which is sometimes yellow, sometimes blue,
+or green. Friction or pressure produces strong electrification; thus the
+stones may be electrified by shaking a few together in a bag, or by the
+tumbling of the powdered stone-grains over each other as they roll down
+a short inclined plane. The stones are usually found in the primitive
+rocks, varying somewhat in different localities in their colour; many of
+the Brazilian stones, when cut as diamonds, are not unlike them.
+
+In testing, besides those qualities already enumerated, the crystalline
+structure is specially perfect and unmistakable. It is doubly
+refractive, whereas spinel and the diamond, which two it closely
+resembles, are singly refractive. Topaz is readily electrified, and, if
+perfect at terminals, becomes polarised; also the commercial solution
+of violets, of which a drop only need be taken for test, is turned green
+by adding to it a few grains of topaz dust, or of a little splinter
+crushed to fine powder.
+
+
+_The Beryl._
+
+The beryl is a compound of silicates of beryllia and alumina, with the
+formula 3BeOSiO_{2} + Al_{2}O_{3},3SiO_{2}, or
+3BeO,Al_{2}O_{3},6SiO_{2}. It differs very little indeed from the
+emerald, with the exception of its colour. In the ordinary varieties
+this is somewhat poor, being mostly blue, or a dirty or a greenish
+yellow; the better kinds, however, possess magnificent colour and
+variety, such as in the aquamarine, emerald, etc. The cleavage is
+parallel to the basal plane. Its lustre is sometimes resinous, sometimes
+vitreous, and it crystallises in the 2nd (hexagonal) system. It occurs
+in somewhat long, hexagonal prisms, with smooth, truncated planes, and
+is often found in granite and the silt brought down by rivers from
+granite, gneiss, and similar rocks. It is found in Great Britain and in
+many parts of Europe, Asia, and America, in crystals of all sizes, from
+small to the weight of several tons. The common kinds are too opaque and
+colourless to be used as gems and are somewhat difficult of fusion under
+the blowpipe, on the application of which heat some stones lose their
+colour altogether, others partly; others, which before heating were
+somewhat transparent, become clouded and opaque; others suffer no change
+in colour, whilst some are improved. In almost every case a slight
+fusion is seen on the sharp edges of fractures, which become smooth,
+lose their sharpness, and have the appearance of partly fused glass.
+The hardness varies from 7-1/4 to 8, the crystals being very brittle,
+breaking with a fracture of great unevenness. The better varieties are
+transparent, varying from that to translucent, and are called the
+"noble" beryls. Transparent beryl crystals are used by fortune-tellers
+as "gazing stones," in which they claim to see visions of future events.
+
+
+_The Emerald._
+
+Considering the particular emerald which is a variety of beryl--although
+the name emerald in the trade is applied somewhat loosely to any stone
+which is of the same colour, or approaching the colour of the beryl
+variety--this emerald only differs chemically from the beryl, just
+described, in possessing an addition of oxide of chromium. In shape,
+crystallisation, fracture and hardness, it is the same, and often
+contains, in addition to the chromium, the further addition of traces of
+carbonate of lime, magnesia, and occasionally faint traces of hornblende
+and mica, which evidently result from its intimate association with the
+granite rock and gneiss, amongst which it is mostly found, the latter
+rocks being of a slaty nature, in layers or plates, and, like granite,
+containing mica, pyrites, felspar, quartz, etc.
+
+Emeralds have been known from very early times, and are supposed to have
+been found first in the mines of ancient Egypt. They were considered
+amongst the rarest and the most costly of gems, and it was the custom,
+when conferring lavish honour, to engrave or model emeralds for
+presentation purposes. Thus we find Pliny describes Ptolemy giving
+Lucullus, on his landing at Alexandria, an emerald on which was
+engraved his portrait. Pliny also relates how the short-sighted Nero
+watched the fights of gladiators through an eye-glass made of an
+emerald, and in ancient times, in Rome, Greece, and Egypt, eye-glasses
+made of emeralds were much valued. Many of these, as well as engraved
+and carved emeralds, have been discovered in ruins and tombs of those
+periods.
+
+The copper emerald is rare; it is a hydrous form of copper silicate,
+CuOSiO_{2} + H_{2}O, of a beautiful emerald green, varying from
+transparent to translucent. It exhibits double refraction, and is a
+crystallised mineral, brittle, and showing a green streak. This is less
+hard than the real emerald, is heavier, deeper in colour, and is usually
+found in crystals, in cavities of a particular kind of limestone which
+exists at Altyn-Tübe, a hill in the Altai Mountains, in the Urals, and
+in North and Central America.
+
+
+_The Tourmaline._
+
+The tourmaline is a most complex substance; almost every stone obtained
+has a different composition, some varying but slightly, with mere traces
+of certain constituents which other stones possess in a perceptible
+degree. Consequently, it is not possible to give the chemical formula,
+which might, and possibly would, be found but seldom, even in analyses
+of many specimens. It will therefore be sufficient to state the average
+composition, which is:--ferrous oxide, manganous oxide, potash, lime,
+boracic acid, magnesia, soda, lithia, and water. These form, roughly
+speaking, 25 per cent. of the bulk, the remainder being oxide of silicon
+and oxide of aluminium in about equal parts. It crystallises in the 2nd
+(hexagonal) system, with difficult cleavage and vitreous lustre.
+
+It will naturally be expected that a substance of such complexity and
+variety of composition must necessarily have a corresponding variety of
+colour; thus we find in this, as in the corundum, a wonderful range of
+tints. The common is the black, which is not used as a gem. Next come
+the colourless specimens, which are not often cut and polished, whereas
+all the transparent and coloured varieties are in great demand. To
+describe adequately their characteristics with relation to light would
+alone require the space of a complete volume, and the reader is referred
+to the many excellent works on physics (optics) which are obtainable.
+This stone is doubly refracting, exhibiting extremely strong dichroism,
+especially in the blue and the green varieties. It polarises light, and
+when viewed with the dichroscope shows a remarkable variety of twin
+colours. It will be remembered that in Hogarth's "Rake's Progress," the
+youth is too engrossed in the changing wonders of a tourmaline to notice
+the entrance of the officers come to arrest him.
+
+
+CHAPTER XV.
+
+VARIOUS PRECIOUS STONES--_continued_.
+
+
+_Zircon._
+
+Zircon appears to have been first discovered by Klaproth in 1789, in the
+form of an earth, and six years later he found that the stone hyacinth
+contained a similar substance, both having the formula, ZrSiO_{4}, and
+both having as their colouring agent ferric oxide. There are several
+methods of obtaining the metallic element, zirconium; it is however with
+the silicate of zirconium that we have to deal at the moment. This is
+called zircon, ZrSiO_{4}, or hyacinth when transparent or red, but when
+smoke-coloured, or colourless, it is the jargoon, or jarcon, and is
+found in silt and alluvial soils, limestone, gneiss, and various forms
+of schist, in India, Australia, the Urals, and certain parts of America.
+It is often combined with and found in juxtaposition to gold and certain
+varieties of precious stones. The lines of cleavage are parallel to the
+sides of the prism, and the crystals have an adamantine, or diamond
+lustre, varying from the completely opaque to the transparent. In some
+varieties the oxide of uranium is also present in traces. It
+crystallises in the 3rd (tetragonal) system, with indistinct cleavage.
+Its specific gravity varies from 4.70 to 4.88, according to the specimen
+and the locality.
+
+This stone, like some of the others described, has a very wide range of
+colour, going through reds, browns, greens, yellows, oranges, whites,
+greys, blues from light to indigo, notwithstanding which it is somewhat
+difficult to imitate scientifically, though its composition of 33 per
+cent. of silica with 67 per cent. of zirconia (the oxide of zirconium),
+is practically all it contains, apart from the colouring matter, such as
+the metallic oxides of iron, uranium, etc. Its hardness is 7-1/2,
+consequently it is untouched by a file, and so far, if one or perhaps
+two of the three qualities of colour, hardness, and specific gravity,
+are obtained in a chemically made zircon, the third is wanting. Under
+the blowpipe, zircons are infusible, but the coloured stones when heated
+strongly become heavier, and as they are contracting, their colour
+fades, sometimes entirely, which changes are permanent, so that as they
+possess the adamantine lustre, they are occasionally cut like a diamond,
+and used as such, though their deficiency in fire and hardness, and
+their high specific gravity, make them readily distinguishable from the
+diamond.
+
+On exposure to light the coloured zircon becomes more or less
+decoloured; especially is this so in sunlight, for when the direct rays
+of the sun fall upon it, the colours fade, and for a moment or two
+occasional phosphorescence follows, as is the case when the stone is
+warmed or heated in a dark room. The stone appears to be very
+susceptible to brilliant light-rays, and in certain specimens which were
+split for testing, one half of each being kept excluded from light for
+purposes of comparison, it was found that sunshine affected them most;
+then brilliant acetylene gas, which was more effective still when tinted
+yellow by being passed through yellow glass. The electric arc was not so
+effective, but the electric light of the mercury-vapour lamp, though
+causing little change at the first, after a few hours' exposure rapidly
+bleached certain of the colours, whilst having no effect on others. Coal
+gas with incandescent fibre mantle was slightly effective, whilst the
+coal-gas, burned direct through an ordinary burner, affected very few of
+the colours, even after twenty-four hours' exposure at a distance of
+three feet. In all these cases, though the colours were slightly
+improved by the stones being kept for a time in the dark, they failed to
+recover their original strength, showing permanent loss of colour.
+
+
+_The Silicates._
+
+The chief of these are the garnets, crystallising in the cubic system,
+and anhydrous. The garnet is usually in the form of a rhombic
+dodecahedron, or as a trisoctahedron (called also sometimes an
+icosatetrahedron), or a mixture of the two, though the stones appear in
+other cubic forms. In hardness they vary from 6-1/2 to 8-1/2. They
+average from 40 to about 42 per cent. of silica, the other ingredients
+being in fairly constant and definite proportions. They are vitreous and
+resinous in their lustre and of great variety of colour, chiefly amongst
+reds, purples, violets, greens, yellows and blacks, according to the
+colouring matter present in their mass. There are many varieties which
+are named in accordance with one or more of their constituents, the best
+known being: (A) The iron-alumina garnet, having the formula 6FeO,
+3SiO_{2} + 2Al_{2}O_{3}, 3SiO_{2}. This is the "precious" garnet, or
+almandine, sometimes called the "Oriental" garnet; these stones are
+found in Great Britain, India, and South America, and are deep red and
+transparent, of vitreous lustre. They get up well, but certain varieties
+are so subject to defects in their substance, brought about by pressure,
+volcanic action, and other causes, some of which are not yet known, that
+their quality often becomes much depreciated in consequence. This
+inferior variety of the iron-alumina garnet is called the "common"
+garnet, and has little lustre, being sometimes opaque. The perfect
+qualities, or almandine, as described above, are favourite stones with
+jewellers, who mount great quantities of them.
+
+The second variety is the (B) lime-iron garnet, formula, 6CaO,3SiO_{2} +
+2Fe_{2}O_{3},3SiO_{2}. The chief of this class is the melanite,
+sometimes dull, yet often vitreous; it is mostly found in volcanic
+rocks, such as tuff; this variety is very popular with jewellers for
+mourning ornaments, for as it is a beautiful velvet-black in colour and
+quite opaque, it is pre-eminent for this purpose, being considerably
+less brittle than jet, though heavier. Another variety is the
+"topazolite," both yellow and green. The "aplome" is greenish-yellow,
+yellowish-green, brown, and usually opaque. A further form of lime-iron
+garnet is the "pyreneite," first found in the Pyrenees Mountains, hence
+its name.
+
+The (C) lime-chrome garnets--6CaO,3SiO_{2} + 2Cr_{2}O_{3}, 3SiO_{2}--the
+chief of which is "uwarowite." This is of a magnificent emerald green
+colour, translucent at edges and of a vitreous lustre. When heated on
+the borax bead it gives an equally beautiful green, which is, however,
+rather more inclined to chrome than emerald. This is an extremely rare
+stone in fine colour, though cloudy and imperfect specimens are often
+met with, but seldom are large stones found without flaws and of the
+pure colour, which rivals that of the emerald in beauty.
+
+The fourth variety (D) is the lime-alumina garnet, its formula
+being--6CaO,3SiO_{2} + 2Al_{2}O_{3},3SiO_{2}. Like the others, it has a
+number of sub-varieties, the chief being the "cinnamon stone," which is
+one of great beauty and value when perfect. This stone is almost always
+transparent when pure, which property is usually taken as one of the
+tests of its value, for the slightest admixture or presence of other
+substances cloud it, probably to opacity, in accordance with the
+quantity of impurity existent. This variety is composed of the oxides of
+aluminium and silicon with lime. In colour it ranges from a beautiful
+yellowish-orange deepening towards the red to a pure and beautiful red.
+
+"Romanzovite" is another beautiful variety, the colour of which ranges
+through browns to black. Another important variety is the "succinite,"
+which gets up well and is a favourite with jewellers because of its
+beautiful, amber-like colour, without possessing any of the drawbacks of
+amber.
+
+(E) The magnesia-alumina garnet--6MgO,3SiO_{2} +
+2Al_{2}O_{3},3SiO_{2}--is somewhat rare, the most frequently found being
+of a strong crimson colour and transparent. This variety is called
+"pyrope," the deeper and richer tints being designated "carbuncle," from
+the Latin _carbunculus_, a little coal, because when this beautiful
+variety of the "noble" garnet is held up between the eyes and the sun,
+it is no longer a deep, blood-red, but has exactly the appearance of a
+small piece of live or glowing coal, the scarlet portion of its
+colour-mixture being particularly evident. The ancient Greeks called it
+anthrax, which name is sometimes used in medicine to-day with reference
+to the severe boil-like inflammation which, from its burning and
+redness, is called a carbuncle, though it is more usual to apply the
+word "anthrax" to the malignant cattle-disease which is occasionally
+passed on to man by means of wool, hair, blood-clots, etc., etc., and
+almost always ends fatally. A great deal of mystery and superstition has
+always existed in connexion with this stone--the invisibility of the
+bearer of the egg-carbuncle laid by a goldfinch, for instance.
+
+(F) The manganese-alumina garnet--6MnO,3SiO_{2} +
+2Al{2}O_{3},3SiO_{2}--is usually found in a crystalline or granular
+form, and mostly in granite and in the interstices of the plates, or
+laminæ, of rocks called schist. One variety of this, which is a deep
+hyacinth in colour, though often of a brown-tinted red, is called
+"spessartine," or "spessartite," from the district in which it is
+chiefly found, though its distribution is a fairly wide one.
+
+
+_The Lapis-Lazuli._
+
+The lapis-lazuli, sometimes called "azure stone," is almost always blue,
+though often containing streaks of white and gold colour, the latter of
+which are due to the presence of minute specks or veins of iron pyrites,
+the former and colourless streaks being due to free lime, calcite, and
+other substances which have become more or less blended with the blue
+colour of the stone. It has a vitreous lustre, crystallises in the 1st,
+or cubic system, and is a complex substance, varying considerably in its
+ingredients in accordance with the locality in which it is found, its
+matrix, and the general geological formation of the surrounding
+substances, which may, by the penetration of moisture, be brought to
+bear upon the stone, thus influencing to a great extent its chemical
+composition. So that we find the stone composed of about a quarter of
+its substance of alumina, or oxide of aluminium, silica to the extent of
+almost half, the remainder being lime, soda, sulphur, and occasionally
+traces of copper and iron. It is mostly found in granite and certain
+crystalline limestone rocks, in fairly large masses. It is of great
+antiquity, figuring extensively in ancient Egyptian history, both in its
+form as a stone and ground up into a pigment for the decoration of
+sacred and royal vessels and appointments. When so ground, it forms the
+stable and magnificent colour, _genuine_ ultramarine, which is the
+finest and purest blue on the artist's palette, but owing to its
+extremely high price its use is not in very great demand, especially as
+many excellent chemical substitutes of equal permanence are obtainable
+at little cost.
+
+
+_The Turquoise._
+
+The turquoise is a pseudomorph (see Chapter IV., "Cleavage.") In colour
+it is blue or greenish-blue, sometimes opaque, varying between that and
+feeble translucency, though it should be said that in all forms, even
+those considered opaque, a thin cutting of the stone appears almost
+transparent, so that the usual classing of it among the opaque stones
+must be done with this reservation. In composition it contains about 20
+per cent. of water, about a third of its substance being phosphoric
+acid, or phosphorus-pentoxide; sometimes nearly half of it is alumina,
+with small quantities of iron in the form of variously coloured oxides,
+with oxide of manganese. The great proportion of water, which it seems
+to take up during formation, is mostly obtained in the cavities of
+weathered and moisture-decomposing rocks. Its average formula may be
+said to be Al_{2}O_{3}P_{2}O_{5} + 5H_{2}O, and sometimes Al_{2}O_{3}
+FeOP_{2}O_{5} + 5H_{2}O. It must therefore follow that when the stone is
+heated, this water will separate and be given off in steam, which is
+found to be the case. The water comes off rapidly, the colour of the
+stone altering meanwhile from its blue or blue-green to brown. If the
+heat is continued sufficiently long, this brown will deepen to black,
+while the flame is turned green. This is one of the tests for turquoise,
+but as the stone is destroyed in the process, the experiment should be
+made on a splinter from it.
+
+This stone is of very ancient origin, and many old turquoise deposits,
+now empty, have been discovered in various places. History records a
+magnificent turquoise being offered in Russia for about £800 a few
+centuries ago, which is a very high price for these comparatively common
+stones.
+
+Owing to the presence of phosphorus in bones, it is not uncommon to
+find, in certain caves which have been the resort of wild animals, or
+into which animals have fallen, that bones in time become subjected to
+the oozing and moisture of their surroundings; alumina, as well as the
+oxides of copper, manganese and iron, are often washed across and over
+these bones lying on the cave floor, so that in time, this silt acts on
+the substance of the bones, forming a variety of turquoise of exactly
+the same composition as that just described, and of the same colour. So
+that around the bones there eventually appears a beautiful turquoise
+casing; the bone centre is also coloured like its casing, though not
+entirely losing its bony characteristics, so that it really forms a kind
+of ossified turquoise, surrounded by real turquoise, and this is called
+the "bone turquoise" or "odontolite."
+
+
+INDEX
+
+
+Adamantine lustre, 28
+  glimmering, 29
+  glinting, or glistening, 29
+  lustreless, 29
+  shining, 29
+  splendent, 29
+
+Agate, 11
+
+Almandine, 101
+
+Amethyst, 11
+  oriental, 85
+  sapphire, 85
+
+Amorphous stones and their characteristics, 23
+
+Analysis, 5
+
+Aplome, 101
+
+Asters, or asteriated stones, 82, 87-91
+
+Azure-stone, 103
+
+
+Beryl, 10, 94
+  colours of, in dichroscope, 34
+
+Beryllium, 10
+
+Bezils, 66
+
+Black stones, list of, 79
+
+Blue sapphire, composition of the, 10
+  stones, list of, 77
+
+Bone-turquoise, 106
+
+Break, as opposed to cleavage, 19
+
+Brilliant-cut stones, 66
+
+Brown stones, list of, 76
+
+Building up of crystals, 13
+
+Burnt, or pinked topaz, 92
+
+
+Cabochon-cut stones, 64
+  (the double), 65
+  (the hollow), 65
+
+Carbonate series, 11
+
+Carbuncle, 102, 103
+
+Cat of Egypt, 89
+
+Cat's eye stones, 82, 87-91
+  list of (see "Chatoyant Stones"), 78
+
+Ceylonese cat's eye (see "Cat's eye")
+
+Change of colour (not to be confused with "Play of colour" and "Opalescence,"
+which see; see also "Fire"), 36
+
+Characteristics of precious stones, 1, 3
+
+Chatoyant stones, list of, 78
+
+Chemical illustration of formation of precious stones, 8
+
+Chloride of palladium in dichroscope, 34
+
+Chrysoberyl, 88
+
+Chrysolite, 11
+  ordinary, or "noble", 85
+  oriental, 85
+
+Cinnamon stone, 102
+
+Claims of precious stones, 4
+
+Cleavage affecting tests, 43
+  and "cleavage" as opposed to "break", 19, 22
+
+Colour, 26, 28, 30, 32
+
+Colourless stones, list of, 75
+
+Colours and characteristics of the various opals, 35, 36
+  of precious stones, list of, 75-79
+
+Common garnet, 101
+  opal, 35
+
+Composite crystals, 13
+
+Composition of paste, or strass, for imitation stones, 71
+
+Composition of precious stones, 7
+
+Converted stones, 72
+
+Corundum, 82
+
+Crown portion of stones, 65, 66
+
+Crystalline structure, physical properties, of 13
+
+Crystallography, 14
+
+Crystals, axes of symmetry, 15
+  groups of, 15, 16
+  planes of symmetry, 15
+  systems of, 16
+    (1) Cubic--isometric, monometric, regular, 16
+    (2) Hexagonal--rhombohedral, 16
+    (3) Tetragonal--quadratic, square prismatic, dimetric, pyramidal, 16
+    (4) Rhombic--orthorhombic, prismatic, trimetric, 16
+    (5) Monoclinic--clinorhombic, monosymmetric, oblique, 16, 17
+    (6) Triclinic--anorthic, asymmetric, 16, 17
+  treatment of, 14
+
+Culasse portion of stones, 66
+
+Cullinan diamond (see also "Stars of Africa"), 22, 64, 68, 80
+
+Cutting of precious stones, 3, 4, 62
+
+Cymophane, 90
+
+
+Definition of a precious stone, 1
+
+Diamond, characteristics of the, 80
+  composition of the, 10
+  (sapphire), 86
+  unique, 10
+  (zircon), 99
+
+Diaphaneity, 26, 28
+
+Diaphanous stones, 28
+
+Dichroscope, 33
+  how to make a, 33
+  how to use a, 34
+
+Dimorphism in precious stones, 25
+
+Double cabochon-cut stones, 65
+  refraction (see "Refraction")
+
+Doublets, 72
+
+
+Electric and magnetic influences, 57
+  experiments with precious stones and pithball and electroscope, 57
+  experiments with tourmaline, 58, 59
+
+Emerald, 10, 11, 95, 96
+  oriental, 85
+
+En cabochon-cut stones, 64
+
+Experiments to show electric polarity, 58, 59
+
+
+Facets in stones, description of the, 67, 68
+
+Feminine stones, 85
+
+Fire in stones (see also "Change of Colour," "Opalescence," and "Play of
+Colour"), 36, 37
+
+Fire opal, 35
+
+Flame-coloured stones, list of, 76
+
+Flaws, 63
+
+Formation of precious stones, 5, 8
+  chemical illustration of, 8, 9
+
+
+Garnet, 11, 100
+
+Garnets
+  (A) iron-alumina (called also almandine and precious
+      or oriental garnet), 101
+    sub-variety, common garnet, 101
+  (B) lime-iron, 101
+    sub-variety aplome, 101
+      melanite, 101
+      pyreneite, 101
+      topazolite, 101
+  (C) lime-chrome, 101, 102
+    sub-variety uwarowite, 101, 102
+  (D) lime-alumina, 102
+    sub-variety cinnamon stone, 102
+      romanzovite, 102
+      succinite, 102
+  (E) magnesia-alumina, 102, 103
+    sub-variety carbuncle, or anthrax, 102, 103
+      noble, 103
+      pyrope, 102
+  (F) manganese-alumina, 103
+    sub-variety spessartine, or spessartite, 103
+
+Girdle portion of a stone, 66
+
+Glimmering, in lustre, definition of, 29
+
+Glinting, or glistening in lustre, definition of, 29
+
+_Goutte de suif_-cut stones, 65
+
+Great Mogul diamond, 64
+
+Green stones, list of, 78
+
+Groups of crystals (see "Crystals")
+
+
+Hardness, physical properties of, 39
+  table of, 39, 40, 41
+
+Heat indexes, 54
+  physical properties of, 52
+
+Hollow-cabochon, 65
+
+Hyacinth, ordinary (a form of zircon), 85, 98
+  oriental, 85
+
+Hyalite (opal), 35
+
+Hydrophane (opal), 35
+
+
+Imitations and tests of precious stones, 70
+
+Indigo sapphires, 86
+
+Ink sapphires, 85
+
+Iridescence, and cause of, 37, 38
+
+Iron-alumina garnets, 101
+
+
+Jacinth, oriental, 85
+
+Jarcon, or jargoon, 98
+
+
+Koh-i-nûr, 64
+
+
+Lapis-lazuli, 103
+
+Light, physical properties of, 26
+
+Lime-alumina garnets, 102
+  cinnamon stone, 102
+  romanzovite, 102
+  succinite, 102
+
+Lime-chrome garnets, 101, 102
+  uwarowite, 101, 102
+
+Lime-iron garnets, 101
+  aplome, 101
+  pyreneite, 101
+  topazolite, 101
+
+List of stones according to colour, 75-79
+  hardness, 39-41
+  specific gravity, 48-50
+
+Lustre, 26, 28
+
+Lustreless, definition of, 29
+
+Lynx-eye stones, 87
+
+
+Magnesia-alumina garnets, 102, 103
+  carbuncle, or anthrax, 102
+  noble, 103
+  pyrope, 102
+
+Magnetic and electric influences, 57-61
+
+Malachite, 11
+
+Manganese-alumina garnets, 103
+  spessartine, or spessartite, 103
+
+Masculine stones, 85
+
+Melanite, 101
+
+Menilite (opal), 36
+
+Metallic-lustre stones, 28, 29
+
+Mohs's table of hardness, 39-41
+
+
+Noble garnet, 103
+  or precious opal, 35
+
+Non-diaphanous stones, 28
+
+
+Odontolite, 106
+
+Olivine corundum (see "Chrysolite"), 85
+
+Opal, 11
+  varieties of, 35, 36
+
+Opalescence (not to be confused with "Change of Colour" and "Play of Colour,"
+which see; see also "Fire"), 36, 37
+
+Oriental amethyst, 85
+  cat's eye (see "Cat's eye")
+  emerald, 85
+  garnet, 101
+  topaz, 85
+
+Origin of precious stones, 7
+
+
+Paste, or strass, for imitation stones, composition of, 71
+
+Pavilion portion of cut stones, 66
+
+Pearly-lustre stones, 28, 29
+
+Peridot (see "Noble Chrysolite"), 85
+
+Pink-coloured stones, list of (see also Red), 77
+
+Pinked topaz, 92
+
+Phosphorescence, 26, 30
+
+Physical properties:--
+  A.--Crystalline structure, 13
+  B.--Cleavage, 19
+  C.--Light, 26
+  D.--Colour, 32
+  E.--Hardness, 39
+  F.--Specific gravity, 45
+  G.--Heat, 52
+  H.--Magnetic and electric influences, 57
+
+Play of colour (not to be confused with "Change of Colour" and "Opalescence,"
+which see; see also "Fire"), 36, 37
+
+Pleochroism, 33
+
+Polarisation, electric, 58, 59
+  of light, 26, 27
+
+Polariscope, 27, 28
+
+Polishing precious stones, 3, 4
+
+Polymorphism in precious stones, 25
+
+Precious, or noble opal, 35
+
+Pseudomorphism in precious stones, 23, 24
+
+Pyreneite, 101
+
+Pyro-electricity, development and behaviour of, 58-60
+
+Pyrope, 102
+
+
+Qualities of precious stones, 1, 3
+
+
+Red and rose-coloured stones, list of (see also Pink), 76, 77
+
+Reflection of light, 26, 28
+
+Refraction of heat, 52-55
+  light, 26, 27
+
+Reproduction of crystalline form, 20, 21
+
+Resinous lustre stones, 28, 29
+
+Rock-crystal, 11
+
+Romanzovite, 102
+
+Rose-coloured stones (see Red, above), 76, 77
+
+Rose, or rosette-cut stones, 65
+
+Rothschild's testing solution, 73
+
+Ruby, characteristics of, 83
+  composition of, 10
+
+
+Sapphire, amethyst, 85
+  and its varieties, 84, 85
+  cleared, 86
+  diamonds, 87
+  indigo, 86
+  ink, 85
+  the blue, composition of, 10, 85
+  water, 86
+
+Semi-diaphanous stones, 28
+
+Shining, in lustre, definition of, 29
+
+Silica group, composition of the, 11
+
+Silicates, 100
+
+Silky-lustre stones, 28, 29
+
+Single-refraction (see "Refraction")
+
+South African diamond (see "Cullinan Diamond")
+
+Specific gravity, 45
+
+Splendent, in lustre, definition of, 29
+
+Splitting of the Cullinan diamond, 22
+
+Star-portion of stones, 65
+
+Stars of Africa (see also "Cullinan Diamond"), 22, 64, 68
+
+Starting or splitting of stones on cleavage planes, 23
+
+Step-cut stones, 66
+
+Stones arranged according to colour, 75-79
+  hardness, 39-41
+  specific gravity, 48-50
+
+Strass for imitation stones, composition of, 71
+
+Sub-metallic in lustre, definition of, 29
+
+Sub-translucent stones, 28
+
+Sub-transparent stones, 28
+
+Succinite, 102
+
+Synthesis, 5
+
+Systems of crystals (see "Crystals")
+
+
+Table-cut stones, 65
+
+Tallow drops, 65
+
+Teeth of stone, 65
+
+Testing by crystalline structure, 17
+  hardness, 40, 43
+    with needles, 41
+  gems by dichroscope, 33, 34
+  solution (Rothschild's), 73
+
+Tests of precious stones (general), 70
+
+Topaz, 11, 91
+  colours of, in dichroscope, 34
+  oriental, 85
+
+Topazolite, 101
+
+Tourmaline, 96, 97
+  electric experiments with, 58, 59
+
+Translucent stones, 28
+
+Transmission of heat, 52-56
+  light, 26
+
+Transparent stones, 28
+
+Trap-cut stones, 66
+
+Tri-morphism in precious stones, 25
+
+Triplets, 72
+
+Turquoise, 104
+  (bone), 106
+  composition of the, 11
+  odontolite, 106
+
+
+Uwarowite, 101, 102
+
+
+Violet stones, list of, 78
+
+Vitreous-lustre stones, 28, 29
+
+
+Water-sapphires, 86
+
+White (paste) stones, 71
+  stones, list of, 75
+
+
+Yellow stones, list of, 76
+  topaz, 92
+
+
+Zircon, 10, 98
+  diamonds, 99
+
+Zirconium, 10
+
+
+LONDON: PRINTED BY WILLIAM CLOWES AND SONS, LIMITED,
+GREAT WINDMILL STREET, W., AND DUKE STREET, STAMFORD STREET, S. E.

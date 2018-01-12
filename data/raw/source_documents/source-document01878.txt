@@ -1,0 +1,506 @@
+﻿Produced by Malcolm Farmer, Richard J. Shiffer and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+                     CHAMBERS' EDINBURGH JOURNAL
+
+  CONDUCTED BY WILLIAM AND ROBERT CHAMBERS, EDITORS OF 'CHAMBERS'S
+  INFORMATION FOR THE PEOPLE,' 'CHAMBERS'S EDUCATIONAL COURSE,' &c.
+
+
+  No. 451. NEW SERIES.   SATURDAY, AUGUST 21, 1852.   PRICE 1-1/2_d._
+
+
+WHO SHALL RULE THE WAVES?
+
+
+A contest of a very remarkable kind is now going on, one which is
+pregnant with important results in respect to commerce, to naval
+architecture, to geographical discovery, to colonisation, to the
+spread of intelligence, to the improvement of industrial art, and to
+the balance of political power among nations. The nature of this
+contest cannot be better made intelligible than by giving the words of
+a challenge recently put forth: 'The American Navigation Company
+challenge the ship-builders of Great Britain to a ship-race, with
+cargo on board, from a port in England to a port in China and back.
+One ship to be entered by each party, and to be named within a week of
+the start. The ships to be modelled, commanded, and officered entirely
+by citizens of the United States and Great Britain respectively; to be
+entitled to rank "A 1" either at the American offices or at Lloyd's.
+The stakes to be L.10,000, and satisfactorily secured by both parties;
+to be paid without regard to accidents, or to any exceptions; the
+whole amount forfeited by either party not appearing. Judges to be
+mutually chosen. Reasonable time to be given after notice of
+acceptance, to build the ships, if required, and also for discharging
+and loading cargo in China. The challenged party may name the size of
+the ships--not under 800 nor over 1200 American register tons; the
+weight and measurement which may be carried each way; and the
+allowance for short weight or oversize.'
+
+There is a boldness, a straightforwardness, an honesty in this
+challenge, which cannot be mistaken. It is difficult to be interpreted
+in any other sense than that the challengers _mean_ what they say.
+Brother Jonathan has fairly thrown down the gauntlet to the
+Britishers, and it behoves the latter to take it up in a becoming
+spirit. Our ship-builders, especially on the Dee, the Clyde, the Wear,
+the Mersey, and the Thames, ought to feel that much is now expected
+from them; for if once the Yankees obtain a reputation--a European
+reputation it will then be--for outstripping British ships on the
+broad seas, our ship-owners will assuredly feel the effects in a
+commercial sense.
+
+This question of the speed of ships is a very curious one. Empirical
+rules, rather than scientific principles, have hitherto determined the
+forms which shall be given to ships. Smith adopts a certain form
+because Brown's ship sailed well, whereas Jones's differently shaped
+vessel was a bad sailer; although Smith, Brown, and Jones collectively
+may be little able to shew _why_ one of the vessels should sail better
+than the other.
+
+If opportunity should occur to the reader to visit a large
+ship-building establishment, such as those on any one of the five
+rivers named above, he will see something like the following routine
+of operation going on:--
+
+There is, first, the 'ship's draughtsman,' whose duties are somewhat
+analogous to those of the architect of a house, or the engineer of a
+railway, or the scientific cutter at a fashionable tailor's: he has to
+shape the materials out of which the structure is to be built up, or
+at least he has to shew others how it is to be done. When the
+ship-builder has received an order, we will say, to construct a ship,
+and has ascertained for what route, and for what purpose, and of what
+size it is to be, he and his ship's draughtsman 'lay their heads
+together' to devise such an arrangement of timbers as will meet the
+requirements of the case. Here it is that a _science_ of ship-building
+would be valuable; the practical rules followed are deductions not so
+much from general principles as from accumulated facts which are
+waiting to be systematised; and until this process has been carried
+further, ship-building will be an _art_, but not a _science_. Well,
+then; the draughtsman, gathering up all the crumbs of knowledge
+obtainable from various quarters, puts his wisdom upon paper in the
+form of drawings and diagrams, to represent not only the dimensions of
+the vessel, but the sizes and shapes of the principal timbers which
+are to form it, on the scale, perhaps, of a quarter of an inch to a
+foot. Then this very responsible personage goes to his 'mould-loft,'
+on the wide-spreading floor of which he chalks such a labyrinth of
+lines as bewilder one even to look at. These lines represent the
+actual sizes and shapes of the different parts of the ship, with
+curvatures and taperings of singularly varied character. One floor of
+one room thus contains full-sized contours of all the timbers for the
+ship.
+
+So far, then, the draughtsman. Next, under his supervision, thin
+planks of deal are cut to the contours of all these chalk-lines; and
+these thin pieces, called _moulds_, are intended to guide the sawyers
+in cutting the timbers for the ship. A large East Indiaman requires
+more than a hundred mould-pieces, chalked and marked in every
+direction.
+
+Another skilful personage, called the 'converter,' then makes a tour
+of the timber-yard, and looks about for all the odd, crooked, crabbed
+trunks of oak and elm which he can find; well knowing that if the
+natural curvature of a tree accords somewhat with the required
+curvature of a ship's timber, the timber will be stronger than if cut
+from a straight trunk. He has the mould-pieces for a guide, and
+searches until he has ferreted out all the timbers wanted. Then he
+sets the sawyers to work, who, with the mould-pieces always at hand,
+shape the large trunks to the required form. And here it may be noted
+as a remarkable fact, that although we live in such a steam-engine and
+machine-working age, very few engines or machines afford aid in sawing
+ships' timbers. The truth seems to be, that the curvatures are so
+numerous and varied, that machine-sawing would scarcely be applicable.
+Yet attempts are from time to time made to construct such machines. Mr
+Cochran has invented one; and it is said that at the Earl of Rosse's
+first soirée as president of the Royal Society, a model of this
+timber-cutting machine was exhibited; that Prince Albert cut a
+miniature timber with it; and that he thus began an apprenticeship to
+the national art of ship-building.
+
+Leaving the supposed visitor to a ship-yard to trace the timbers
+through all their stages of progress, we will proceed with that which
+is more directly the object of the present paper--namely, the relation
+of _speed_ to _build_. Some sixteen or eighteen years ago, the British
+Association rightly conceived that its Mechanical Section would be
+worthily occupied in an inquiry concerning the forms of ships, and the
+effect of form on the speed and steadiness. The inquiry was intrusted
+to Mr Scott Russell and Mr (afterwards Sir John) Robison; and
+admirably has it been carried out. Mr Scott Russell, especially, has
+sought to establish something like a _science_ of form in
+ship-building--precisely the thing which would supply a proper basis
+for the artificers.
+
+It is interesting to see how, year after year, this committee of two
+persons narrated the result of their unbought and unpaid labours to
+the Association. In 1838 and 1839, they shewed how a solid moving in
+the water produced a particular kind of wave; how, at a certain
+velocity, the solid might ride on the _top_ of the wave, without
+sinking into the hollow; how, if the external form of a vessel bore a
+certain resemblance to a section of this wave, the ship would
+encounter less resistance in the water than any other form; and thus
+originated the _wave principle_--so much talked of in connection with
+ship-building. A ship built on that principle in that year (1839) was
+believed to be the fastest ship in Britain. In 1840, the committee
+stated that they had 'consulted the most eminent ship-builders as to
+the points upon which they most wanted information, and requested them
+to point out what were the forms of vessel which they would wish to
+have tried. More than 100 models of vessels of various sizes, from 30
+inches to 25 feet in length, were constructed,' and an immense mass of
+experiments were made on them. In 1841, they described how they had
+experimented on vessels of every size, from models of 30 inches in
+length to vessels of 1300 tons. In the next following year, the
+committee presented a report of no fewer than 20,000 experiments on
+models and ships, some of which afforded remarkable confirmation of
+the efficiency of the wave principle in ship-building. Thus the
+committee went on, year after year, detailing to the Association the
+results of their experiments, and pointing out how the ship-builders
+were by degrees giving practical value to these results.
+
+Now, a country in which a scientific society will spend a thousand
+pounds on such an inquiry, and in which scientific men will give up
+days and weeks of their time to it without fee or reward, _ought_ not
+to be beaten on the broad seas by any competitor. It affords an
+instructive confirmation of the results arrived at by the committee,
+that when some of our swiftest yachts and clippers came to be
+carefully examined, it was found that the wave principle had been to a
+great extent adopted in their form, in cases even where the vessels
+were built before the labours of the committee had commenced. The
+_art_ had in this case preceded the _science_. And let it not be
+considered that any absurdity is involved here: farmers manured their
+fields long before chemists were able to explain the real nature of
+manuring; and so in other arts, ingenious practical men often discover
+useful processes before the men of science can give the rationale of
+those processes.
+
+It may be all very well to assert, that 'Britannia rules the waves,'
+and that 'Britons never will be slaves,' and so forth; only let us
+prove the assertions to be _true_, or not assert at all. We must
+appeal to the 'Shipping Intelligence' which comes to hand from every
+side, and determine, from actual facts, whether any one country really
+outsails another.
+
+Among the facts which thus present themselves to notice, is one
+relating to _clippers_. Who first gave the name of clipper to a ship,
+or what the name means, we do not know; but a clipper is understood to
+be a vessel so shaped as to sail faster than other vessels of equal
+tonnage. It is said that these swift sailers originated in the wants
+of the salmon shippers, and others at our eastern ports. A bulky,
+slow-moving ship may suffice for the conveyance to London of the
+minerals and manufactures of Northumberland and Durham; but salmon and
+other perishable articles become seriously deteriorated by a long
+voyage; and hence it is profitable in such case to sacrifice bulk to
+speed. Leith, Dundee, and especially Aberdeen, are distinguished for
+the speed of their vessels above those of the Tyne and the Wear; and
+the above facts probably explain the cause of the difference. The
+Aberdeen clipper is narrow, very keen and penetrating in front,
+gracefully tapering at the stern, and altogether calculated to 'go
+ahead' through the water in rapid style. As compared with one of the
+ordinary old-fashioned English coasting brigs of equal tonnage, an
+Aberdeen clipper will attain nearly double the speed. One of these
+fine vessels, the _Chrysolite_, in a recent voyage from China,
+traversed 320 nautical miles (nearly 370 English statute miles) in
+twenty-four hours: this was a great performance. But it must not be
+forgotten, that the United States claim to have attained a high
+ship-speed before England had thought much on the matter; the
+Baltimore clippers have long been known on the other side of the
+Atlantic as dashing, rapid, little vessels, mostly either single or
+double-masted.
+
+It is to the opening of the China trade the present wonderful rivalry
+may in great part be attributed. So long as European vessels were
+cooped up stagnantly in Canton river, and allowed to trade only under
+circumstances of great restriction and annoyance, little was effected
+except by the tea-drinking denizens of Great Britain; but when, by the
+treaty of Nankin in 1842, Sir Henry Pottinger obtained the opening of
+the four ports of Amoy, Foo-tchow-foo, Ning-po, and Shang-hae, and
+stipulated that foreign vessels should be allowed to share with those
+of England the liberty of trading at those ports, there was a great
+impetus given to ship-builders and ship-owners: those who had goods to
+sell, thus found a new market for them; and those who could perform
+the voyage most quickly, would have a quicker return for their
+capital. This, following at an interval of seven or eight years the
+changes made in the India trade by the East India Company's charter of
+1834, brought the Americans and the French and others into the Indian
+seas in great numbers. Then came the wonders of 1847, in the discovery
+of Californian gold; and those of 1851, in the similar discoveries in
+Australia.
+
+Now, these four dates--1834, 1842, 1847, 1851--may be considered as
+four starting-points, each marked by a renewed conquest of man over
+the waves, and a strengthened but not hostile rivalry on the seas
+between nation and nation. So many inducements are now afforded to
+merchants to transact their dealings rapidly, that the ship-builders
+are beset on all sides with demands for more speed--more speed; and it
+is significant to observe that, in almost every recent newspaper
+account of a ship-launch, we are told how many knots an hour she is
+expected to attain when fitted. Every ship seems to beat every other
+ship, in the glowing language employed; but after making a little
+allowance for local vanity, there is a substratum of correctness which
+shews strongly how we are advancing in rate of speed.
+
+It will really now become useful to collect and preserve records of
+speed at sea, in connection with particular ships of particular build,
+as a guide to future construction. Mr Henry Wise published a volume
+about 1840, containing an analysis of one hundred voyages, made by
+ships belonging to the East India Company, extracted from the ships'
+logs preserved by the Company. It appears that an average gave 112
+days as the duration of a voyage from London to Bombay. Now, within
+the last few months we have seen that the _Chrysolite_, a small
+clipper, built at Aberdeen for a Liverpool firm, has made the run from
+England to China in 104 days; and the _Stornoway_, built at the same
+place for a London firm, has accomplished the distance in 103 days.
+Let the reader open his map, and compare the relative distances of
+Bombay and China from England, and he will then see what a wonderful
+increase of speed is implied in the above numbers. Three American
+clippers were sighted during the out and home voyages of the two
+vessels, and, if newspaper reports tell truly, were distanced by them.
+
+We must not expect that the vast and unprecedented emigration to
+California and Australia now going on, will be designedly and
+materially connected with high speed, because most of the emigrants go
+in roomy ships, at fares as low as are attainable; but goods-traffic,
+and the higher class of passenger-traffic, are every month coming more
+and more within the domain of high speed. Let us take two instances
+which 1852 has afforded, one furnished by England, and one by
+America--one connected with the Australian trade, and one with the
+Chinese. The Aberdeen clipper-built barque, _Phoenician_, arrived at
+Plymouth on February 3, having left Sydney on November 12, and
+performed the voyage in 83 days! Her previous voyages had varied from
+88 to 103 days. The other instance is that of the American clipper,
+_Witch of the Wave_, a fine vessel of 1400 tons burden, which left
+Canton on 5th January, and arrived in the Downs on 4th April, a period
+of 90 days. Her greatest speed is said to have been 338 nautical
+miles--equivalent to about 389 English miles--in 24 hours.
+
+Thus it is, we find, that in one voyage we beat the Americans--in
+another, they outstrip us; and there seems at present no reason why
+either country should fail in making still further advances. The
+Liverpool and New York packet-trade affords another example of the
+same principle which we have been considering; gradually these truly
+noble vessels are acquiring an increased rate of speed. Not only does
+the general desire for high speed impel their owners to this, but
+there is a more direct incentive in the increased rivalry of
+steam-vessels. The American 'liners,' as the sailing-packets on this
+route are usually called, have had in past years an average of about
+36 days outward passage, and 24 days homeward; but they are now
+shooting ahead unmistakably. The _Racer_, built at New York in 1851,
+and placed upon the Liverpool station, is a magnificent clipper of
+1700 tons register; it made its first voyage from New York to
+Liverpool in 14 days--a quickness not only exceeding that of its
+predecessors, but leaving nearly all of them many days in arrear. Even
+this, however, was shortly afterwards excelled; for another new
+clipper, the _Washington_, accomplished the distance in a little over
+13-1/2 days.
+
+The pleasure-vessels which are so numerous in the south of England,
+belonging to the several yacht-clubs, are sharing in the modern
+speed-producing improvements observable in other vessels. Every one
+has heard of the yacht _America_, which arrived at Cowes from the
+United States in July 1851, and of the challenge which her owners
+threw out against English yacht-owners. Every one knows that the
+_America_ beat the yachts which were fitted against her. This victory
+has led to an immense activity on the part of yacht-builders in
+England; they are studying all the peculiarities in the build and the
+trim of the yachts belonging to the different ports and different
+countries; and we are justified by every analogy in expecting, that
+good results will spring out of wits thus sharpened.
+
+Although we have not deemed it necessary in the present paper to touch
+on the national struggle between steam-ships, we must not forget that
+one of the most promising and valuable features in steam navigation
+arose as an appendage to sailing. The _auxiliary screw_ will deserve
+the blessings of our colonists, for reasons which may be soon told.
+When it was yet uncertain what result would mark the contest _Screw_
+v. _Paddle_, it was suggested that the screw-propeller might probably
+be used as an auxiliary power, for occasional use during calms and
+contrary winds; the vessel to be a sailing-vessel under ordinary
+circumstances; but to have a marine engine and a screw for exigencies
+at times when the ship would be brought to a stand-still or even
+driven backwards. About seven years ago, an American packet-ship, the
+_Massachusetts_, a complete sailing-vessel in other respects, was
+provided with a screw and a steam-engine powerful enough to keep the
+ship moving when winds and tides were adverse; the screw was capable
+of being lifted out of the water when not in use. In her first voyage
+from Liverpool to America, this ship gained from five to thirteen days
+as compared with five other ships which sailed either on the same or
+the following day. This experiment was deemed so far successful, that
+the Admiralty ordered, in 1846, an auxiliary screw to be fitted to the
+_Amphion_ frigate, then building at Woolwich. Another example was the
+_Sarah Sands_, an iron ship of 1300 tons; she had engines of 180
+horse-power, much below that requisite for an ordinary steamer of the
+same size. She could carry three classes of passengers, coal for the
+whole voyage, and 900 tons of merchandise. She made four voyages in
+1847, two out and two home; and in 1848 she made five: her average
+time was about nineteen days out, and seventeen days home, and she
+usually passed about six liners on the voyage.
+
+The speed here mentioned is not quite equal to that of the truly
+remarkable clippers noticed above, but it far exceeded that of any
+liner at work in 1848. The example was followed in other vessels; and
+then men began to cherish the vision of a propeller screwing its way
+through the broad ocean to our distant colonies. From this humble
+beginning as an auxiliary, the screw has obtained a place of more and
+more dignity, until at length we see the mails for the Cape and for
+Australia intrusted confidently to its safe-keeping.
+
+The icy regions of the north are braved by the auxiliary screw. The
+little _Isabel_, fitted out almost entirely at the expense of Lady
+Franklin to aid in the search for her gallant husband, is a brigantine
+of 180 tons, with an auxiliary screw to ship and unship. The
+_Intrepid_ and the _Pioneer_, the two screw-steamers which form part
+of Sir Edward Belcher's arctic expedition--lately started from
+England--are to work with or without their auxiliary appendage as
+circumstances may determine.
+
+The present article, however, will shew that sailing is not less alive
+and busy than steaming; and that the yachts and clippers of both
+nations are probably destined to a continuous series of improvements.
+When these improvements--whether by aid of scientific societies and
+laborious experiments, or by the watchful eye and the shrewd
+intelligence of ship-builders, or by both combined--have advanced
+steadily to a point perhaps far beyond that which we have yet
+attained, then, if at all, may we trouble ourselves about the
+question--'Who shall rule the waves?'
+
+
+NUMBER NINETEEN IN OUR STREET.
+
+
+Number Nineteen in our street is a gloomy house, with a blistered door
+and a cavernous step; with a hungry area and a desolate frontage. The
+windows are like prison-slips, only a trifle darker, and a good deal
+dirtier; and the kitchen-offices might stand proxies for the Black
+Hole of Calcutta, barring the company and the warmth. For as to
+company, black beetles, mice, and red ants, are all that are ever seen
+of animated nature there, and the thermometer rarely stands above
+freezing-point. Number Nineteen is a lodging-house, kept by a poor old
+maid, whose only friend is her cat, and whose only heirs will be the
+parish. With the outward world, excepting such as slowly filter
+through the rusty opening of the blistered door, Miss Rebecca Spong
+has long ceased to have dealings. She hangs a certain piece of
+cardboard, with 'Lodgings to Let,' printed in school-girl print,
+unconscious of straight lines, across it; and this act of public
+notification, coupled with anxious peepings over the blinds of the
+parlour front, is all the intercourse which she and the world of men
+hold together. Every now and then, indeed, a mangy cab may be seen
+driving up to her worn-out step; and dingy individuals, of the kind
+who travel about with small square boxes, covered with marbled paper,
+and secured with knotted cords of different sizes, may be witnessed
+taking possession of Nineteen, in a melancholy and mysterious way. But
+even these visitations, unsatisfactory as most lodging-house keepers
+would consider them, are few and far between; for somehow the people
+who come and go never seem to have any friends or relations whereby
+Miss Spong may improve her 'connection.' You never see the postman
+stop at that desolate door; you never hear a visitor's knock on that
+rusty lion's head; no unnecessary traffic of social life ever takes
+place behind those dusty blinds; it might be the home of a select
+party of Trappists, or the favourite hiding-place of coiners, for all
+the sunshine of external humanity that is suffered to enter those
+interior recesses. If a murder had been committed in every room, from
+the attics to the cellar, a heavier spell of solitude and desolation
+could not rest on its floors.
+
+One dreary afternoon in November, a cab stopped at Number Nineteen. It
+was a railway cab, less worn and ghastly than those vehicles in
+general, but not bringing much evidence of gaiety or wealth for all
+that. Its inmates were a widow and a boy of about fifteen; and all the
+possessions they had with them were contained in one trunk of very
+moderate dimensions, a cage with a canary bird twittering inside, some
+pots of flowers, and a little white rabbit, one of the comical
+'lop-eared' kind. There was something very touching in these evidences
+of the fresh country life which they had left for the dull atmosphere
+and steaming fogs of the metropolis. They told a sad tale of old
+associations broken, and old loves forsworn; of days of comfort and
+prosperity exchanged for the dreariness of poverty; and freedom, love,
+and happiness, all snapped asunder for the leaden chain of suffering
+to be forged instead. One could not help thinking of all those two
+hapless people must have gone through before they could have summoned
+courage to leave their own dear village, where they had lived so many
+years in that local honourableness of the clergyman's family; throwing
+themselves out of the society which knew and loved them, that they
+might enter a harsh world, where they must make their own position,
+and earn their own living, unaided by sympathy, honour, or affection.
+They looked as if they themselves thought something of this too, when
+they took possession of the desolate second floor; and the widow sat
+down near her son, and taking his hand in hers, gave vent to a flood
+of tears, which ended by unmanning the boy as well. And then they shut
+up the window carefully, and nothing more was seen of them that night.
+
+Mrs Lawson, the widow, was a mild, lady-like person, whose face bore
+the marks of recent affliction, and whose whole appearance and manners
+were those of a loving, gentle, unenergetic, and helpless woman, whom
+sorrow could well crush beyond all power of resistance. The boy was a
+tall, thin youth, with a hectic flush and a hollow cough, eyes bright
+and restless, and as manifestly nervous as his mother was the reverse
+in temperament--anxious and restless, and continually taxing his
+strength beyond its power, making himself seriously ill in his
+endeavours to save his beloved mother some small trouble. They seemed
+to be very tenderly attached one to the other, and to supply to each
+all that was wanting in each: the mother's gentleness soothing down
+her boy's excitability, and the boy's nervousness rousing the mother
+to exertion. They were interesting people--so lonely, apparently so
+unfit to 'rough it' in the world; the mother so gentle in temper, and
+the son so frail in constitution--two people who ought to have been
+protected from all ill and all cares, yet who had such a bitter cup to
+empty, such a harsh fate to fulfil.
+
+They were very poor. The mother used to go out with a small basket on
+her arm, which could hold but scanty supplies for two full-grown
+people. Yet this was the only store they had; for no baker, no
+butcher, no milkman, grocer, or poulterer, ever stopped at the area
+gate of Miss Rebecca Spong; no purveyor of higher grade than a
+cat's-meat-man was ever seen to hand provisions into the depths of
+Number Nineteen's darkness. The old maid herself was poor; and she,
+too, used to do her marketing on the basket principle; carrying home,
+generally at night, odd scraps from the open stalls in Tottenham
+Court-Road, which she had picked up as bargains; and dividing equally
+between herself and her fagged servant-of-all-work the wretched meal
+which would not have been too ample for one. She therefore could not
+help her lodgers, and they all scrambled on over the desolate places
+of poverty as they best might. In general, tea, sugar, bread, a little
+rice, a little coffee as a change, a scrap of butter which no cow that
+ever yielded milk would have acknowledged--these were the usual items
+of Mrs Lawson's marketing, on which she and her young son were to be
+nourished. And on such poor fare as this was that pale boy expected to
+become a hearty man? The mother could not, did not expect it. Else why
+were the tears in her eyes so often as she returned? and why did she
+hang over her son, and caress him fondly, as if in deprecation, when
+she brought him his wretched meal, seeming to lament, to blame
+herself, too, that she had not been able to provide him anything
+better? Poor things! poor things!
+
+Mrs Lawson seemed at last to get some employment. She had been seeking
+for it long--to judge by her frequent absences from home, and the
+weary look of disappointment she wore when she returned. But at last
+the opening was found, and she set to work in earnest. She used to go
+out early in the morning, and not return until late in the evening,
+and then she looked pale and tired, as one whose energies had been
+overtasked all the day; but she had found no gold-mine. The scanty
+meals were even scantier than before, and her shabby mourning was
+getting shabbier and duller. She was evidently hard-worked for very
+little pay; and their condition was not improved, only sustained by
+her exertions. Things seemed to be very bad with them altogether, and
+with little hope of amendment; for poor Mrs Lawson had been 'brought
+up as a lady,' and so was doubly incapable--by education as well as
+by temperament--of gaining her own living. She was now employed as
+daily governess in the family of a city tradesman--people, who though
+they were kindly-natured enough, had as much as they could do in
+keeping their own fortunes afloat without giving any substantial aid
+to others, and who had therefore engaged her at the lowest possible
+salary, such as was barely sufficient to keep her and her son from
+absolute want.
+
+The boy had long been very busy. He used to sit by the window all the
+day, earnestly employed with paper and scissors; and I wondered what
+fascinating occupation he had found to chain him for so many hours by
+those chinks and draughts; for he was usually enveloped in shawls, and
+blankets were hung about his chair, and every tender precaution taken
+that he should not increase his sickness by exposure even to the
+ordinary changes in the temperature of a dwelling-room. But now, in
+spite of his terrible cough, in spite of his hurried breathing, he
+used to sit for hours on hours by the dusky window, cutting and
+cutting at that eternal paper, as if his very life depended on his
+task. But he used to gather up the cuttings carefully, and hide all
+out of sight before his mother came home--sometimes nearly caught
+before quite prepared, when he used to shew as much trepidation as if
+committing a crime.
+

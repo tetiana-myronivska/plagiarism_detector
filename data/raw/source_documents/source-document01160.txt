@@ -1,0 +1,500 @@
+﻿The school's cabinets are now provided with the best instruments for
+study, and are daily becoming richer therein. The chemical
+laboratories are none the less remarkably organized. In the
+accompanying cut we give a view of one of these--the one that is under
+the direction of Mr. Schultzenberger, professor of chemistry and
+director of the new school. Each pupil has his own place in front of a
+large table provided with a stand whereon he may arrange all the
+products that he has to employ. Beneath the work-table he has at his
+disposal a closet in which to place his apparatus after he is through
+using them. Each pupil has in front of him a water-faucet, which is
+fixed to a vertical column and placed over a sink. Alongside of this
+faucet there is a double gas burner, which may be connected with
+furnaces and heating apparatus by means of rubber tubing. A special
+hall, with draught and ventilation, is set apart for precipitations by
+sulphureted hydrogen and the preparation of chlorine and other
+ill-smelling and deleterious gases. The great amount of light and
+space provided secure the best of conditions of hygiene to this fine
+and vast laboratory, where young people have all the necessary
+requisites for becoming true chemists.--_La Nature._
+
+       *       *       *       *       *
+
+
+DUST-FREE SPACES.[1]
+
+   [Footnote 1: Lecture to the Royal Dublin Society by Dr. Oliver J.
+   Lodge, April 2, 1884.]
+
+
+Within the last few years a singular interest has arisen in the
+subject of dust, smoke, and fog, and several scientific researches
+into the nature and properties of these phenomena have been recently
+conducted. It so happened that at the time I received a request from
+the secretary of this society to lecture here this afternoon I was in
+the middle of a research connected with dust, which I had been
+carrying on for some months in conjunction with Mr. J.W. Clark,
+Demonstrator of Physics in University College, Liverpool, and which
+had led us to some interesting results. It struck me that possibly
+some sort of account of this investigation might not be unacceptable
+to a learned body such as this, and accordingly I telegraphed off to
+Mr. Moss the title of this afternoon's lecture. But now that the time
+has come for me to approach the subject before you, I find myself
+conscious of some misgivings, and the misgivings are founded upon this
+ground: that the subject is not one that lends itself easily to
+experimental demonstration before an audience. Many of the experiments
+can only be made on a small scale, and require to be watched closely.
+However, by help of diagrams and by not confining myself too closely
+to our special investigation, but dealing somewhat with the wider
+subject of dust in general, I may hope to render myself and my subject
+intelligible if not very entertaining.
+
+First of all, I draw no distinction between "dust" and "smoke." It
+would be possible to draw such a distinction, but it would hardly be
+in accordance with usage. Dust might be defined as smoke which had
+settled, and the term smoke applied to solid particles still suspended
+in the air. But at present the term "smoke" is applied to solid
+particles produced by combustion only, and "dust" to particles owing
+their floating existence to some other cause. This is evidently an
+unessential distinction, and for the present I shall use either term
+without distinction, meaning by dust or smoke, solid particles
+floating in the air. Then "fog"; this differs from smoke only in the
+fact that the particles are liquid instead of solid. And the three
+terms dust, smoke, and fog, come to much the same thing, only that the
+latter term is applied when the suspended particles are liquid. I do
+not think, however, that we usually apply the term "fog" when the
+liquid particles are pure water; we call it then mostly either mist or
+cloud. The name "fog," at any rate in towns, carries with it the idea
+of a hideous, greasy compound, consisting of smoke and mist and
+sulphur and filth, as unlike the mists on a Highland mountain as a
+country meadow is unlike a city slum. Nevertheless, the finest cloud
+or mist that ever existed consists simply of little globules of water
+suspended in air, and thus for our present purpose differs in no
+important respect from fog, dust, and smoke. A cloud or mist is, in
+fact, fine water-dust. Rain is coarse water-dust formed by the
+aggregation of smaller globules, and varying in fineness from the
+Scotch mist to the tropical deluge. It has often been asked how it is
+that clouds and mists are able to float about when water is so much
+heavier (800 times heavier) than air. The answer to this is easy. It
+depends on the resistance or viscosity of fluids, and on the smallness
+of the particles concerned. Bodies falling far through fluids acquire
+a "terminal velocity," at which they are in stable equilibrium--their
+weight being exactly equal to the resistance--and this terminal
+velocity is greater for large particles than for small; consequently
+we have all sorts of rain velocity, depending on the size of the
+drops; and large particles of dust settle more quickly than small.
+Cloud-spherules are falling therefore, but falling very slowly.
+
+To recognize the presence of dust in air there are two principal
+tests; the first is, the obvious one of looking at it with plenty of
+light, the way one is accustomed to look for anything else; the other
+is a method of Mr. John Aitken's, viz., to observe the condensation of
+water vapor.
+
+Take these in order. When a sunbeam enters a darkened room through a
+chink, it is commonly said to be rendered visible by the motes or dust
+particles dancing in it; but of course really it is not the motes
+which make the sunbeam visible, but the sunbeam the motes. A dust
+particle is illuminated like any other solid screen, and is able to
+send a sufficient fraction of light to our eyes to render itself
+visible. If there are no such particles in the beam--nothing but
+clear, invisible air--then of course nothing is seen, and the beam
+plunges on its way quite invisible to us unless we place our eyes in
+its course. In other words, to be visible, light must enter the eye.
+(A concentrated beam was passed through an empty tube, and then
+ordinary air let in.)
+
+The other test, that of Mr. Aitken, depends on the condensation of
+steam. When a jet of steam finds itself in dusty air, it condenses
+around each dust particle as a nucleus, and forms the white visible
+cloud popularly called steam. In the absence of nuclei Mr. Aitken has
+shown that the steam cannot condense until it is highly
+supersaturated, and that when it does it condenses straight into
+rain--that is, into large drops which fall. The condensation of steam
+is a more delicate test for dust than is a beam of light. A curious
+illustration of the action of nuclei in condensing moisture has just
+occurred to me, in the experiment--well known to children--of writing
+on a reasonably clean window-pane with, say, a blunt wooden point, and
+then breathing on the glass; the condensation of the breath renders
+the writing legible. No doubt the nuclei are partially wiped away by
+the writing, and the moisture will condense into larger drops with
+less light-scattering power along the written lines than over the
+general surface of the pane where the nuclei are plentiful, and the
+drops therefore numerous and minute. Mr. Aitken points out that if the
+air were ever quite dustless, vapor could not condense, but the air
+would gradually get into a horribly supersaturated condition, soaking
+all our walls and clothes, dripping from every leaf, and penetrating
+everywhere, instead of falling in an honest shower, against which
+umbrellas and slate roofs are some protection. But let us understand
+what sort of dust it is which is necessary for this condensing
+process. It is not the dust and smoke of towns, it is not the dust of
+a country road; all such particles as these are gross and large
+compared with those which are able to act as condensers of moisture.
+The fine dust of Mr. Aitken exists everywhere, even in the upper
+regions of the atmosphere; many of its particles are of
+ultra-microscopic fineness, one of them must exist in every raindrop,
+nay, even in every spherule of a mist or cloud, but it is only
+occasionally that one can find them with the microscope. It is to such
+particles as these that we owe the blue of the sky, and yet they are
+sufficiently gross and tangible to be capable of being filtered out of
+the air by a packed mass of cotton-wool. Such dust as this, then, we
+need never be afraid of being without. Without it there could be no
+rain, and existence would be insupportable, perhaps impossible; but it
+is not manufactured in towns; the sea makes it; trees and wind make
+it; but the kind of dust made in towns rises only a few hundred yards
+or so into the atmosphere, floating as a canopy or pall over those
+unfortunate regions, and sinks and settles most of it as soon as the
+air is quiet, but scarcely any of it ever rises into the upper regions
+of the atmosphere at all.
+
+Dust, then, being so universally prevalent, what do I mean by
+dust-free spaces? How are such things possible? And where are they to
+be found? In 1870 Dr. Tyndall was examining dusty air by means of a
+beam of light in which a spirit-lamp happened to be burning, when he
+noticed that from the flame there poured up torrents of apparently
+thick black smoke. He could not think the flame was really smoky, but
+to make sure he tried, first a Bunsen gas flame and then a hydrogen
+flame. They all showed the same effect, and smoke was out of the
+question. He then used a red-hot poker, a platinum wire ignited by an
+electric current, and ultimately a flask of hot water, and he found
+that from all warm bodies examined in dusty air by a beam of light the
+upstreaming convection currents were dark. Now, of course smoke would
+behave very differently. Dusty air itself is only a kind of smoke, and
+it looks bright, and the thicker the smoke the brighter it looks; the
+blackness is simply the utter absence of smoke; there is nothing at
+all for the light to illuminate, accordingly we have the blankness of
+sheer invisibility. Here is a flame burning under the beam, and, to
+show what real smoke looks like, I will burn also this spirit lamp
+filled with turpentine instead of alcohol. _Why_ the convention
+currents were free from dust was unknown; Tyndall thought the dust was
+burnt and consumed; Dr. Frankland thought it was simply evaporated.
+
+In 1881 Lord Rayleigh took the matter up, not feeling satisfied with
+these explanations, and repeated the experiment very carefully. He
+noted several new points, and hit on the capital idea of seeing what a
+cold body did. From the cold body the descending current was just as
+dark and dust-free as from a warm body. Combustion and evaporation
+explanations suffered their death-blow. But he was unable to suggest
+any other explanation in their room, and so the phenomenon remained
+curious and unexplained.
+
+In this state Mr. Clark and I took the matter up last summer, and
+critically examined all sorts of hypotheses that suggested themselves,
+Mr. Clark following up the phenomena experimentally with great
+ingenuity and perseverance. One hypothesis after another suggested
+itself, seemed hopeful for a time, but ultimately had to be discarded.
+Some died quickly, others lingered long. In the examination of one
+electrical hypothesis which suggested itself we came across various
+curious phenomena which we hope still to follow up.[2] It was some
+months before what we now believe to be the true explanation began to
+dawn upon us. Meanwhile we had acquired various new facts, and first
+and foremost we found that the dark plane rising from a warm body was
+only the upstreaming portion of a dust-free _coat_ perpetually being
+renewed on the surface of the body. Let me describe the appearance and
+mode of seeing it by help of a diagram. (For full description see
+_Philosophical Magazine_ for March, 1884.)
+
+   [Footnote 2: For instance, the electric properties of crystals
+   can be readily examined in illuminated dusty air; the dust grows
+   on them in little bushes and marks out their poles and neutral
+   regions, without any need for an electrometer. Magnesia smoke
+   answers capitally.]
+
+Surrounding all bodies warmer than the air is a thin region free from
+dust, which shows itself as a dark space when examined by looking
+along a cylinder illuminated transversely, and with a dark background.
+At high temperatures the coat is thick; at very low temperatures it is
+absent, and dust then rapidly collects on the rod. On a warm surface
+only the heavy particles are able to settle--there is evidently some
+action tending to drive small bodies away. An excess of temperature of
+a degree or two is sufficient to establish this dust-free coat, and it
+is easy to see the dust-free plane rising from it. The appearances may
+also be examined by looking along a cylinder _toward_ the source of
+light, when the dust-free spaces will appear brighter than the rest. A
+rod of electric light carbon warmed and fixed horizontally across a
+bell-jar full of dense smoke is very suitable for this experiment, and
+by means of a lens the dust-free regions may be thus projected on to a
+screen. Diminished pressure makes the coat thicker. Increased pressure
+makes it thinner. In hydrogen it is thicker, and in carbonic acid
+thinner, than in air. We have also succeeded in observing it in
+liquids--for instance, in water holding fine rouge in suspension, the
+solid body being a metal steam tube. Quantitative determinations are
+now in progress.
+
+[Illustration: Fig. 1 and Fig. 2]
+
+Fig. 1 shows the appearance when looking along a copper or carbon rod
+laterally illuminated; the paths of the dust particles are roughly
+indicated. Fig. 2 shows the coat on a semi-cylinder of sheet copper
+with the concave side turned toward the light.
+
+It is difficult to give the full explanation of the dust free spaces
+in a few words, but we may say roughly that there is a molecular
+bombardment from all warm surfaces by means of which small suspended
+bodies get driven outward and kept away from the surface. It is a sort
+of differential bombardment of the gas molecules on the two faces of a
+dust particle somewhat analogous to the action on Mr. Crookes'
+radiometer vanes. Near cold surfaces the bombardment is very feeble,
+and if they are cold enough it appears to act toward the body, driving
+the dust inward--at any rate, there is no outward bombardment
+sufficient to keep the dust away, and bodies colder than the
+atmosphere surrounding them soon get dusty. Thus if I hold this piece
+of glass in a magnesium flame, or in a turpentine or camphor flame, it
+quickly gets covered with smoke--white in the one case, black in the
+other. I take two conical flasks with their surfaces blackened with
+camphor black, and filling one with ice, the other with boiling water,
+I cork them and put a bell jar over them, under which I burn some
+magnesium wire; in a quarter of an hour or so we find that the cold
+one is white and hoary, the hot one has only a few larger specks of
+dust on it, these being of such size that the bombardment was unable
+to sustain their weight, and they have settled by gravitation. We thus
+see that when the air in a room is warmer than the solids in it--as
+will be the case when stoves, gas-burners, etc., are used--things will
+get very dusty; whereas when walls and objects are warmer than the
+air--as will be the case in sunshine, or when open fireplaces are
+used, things will tend to keep themselves more free from dust. Mr.
+Aitken points out that soot in a chimney is an illustration of this
+kind of deposition of dust; and as another illustration it strikes me
+as just possible that the dirtiness of snow during a thaw may be
+partly due to the bombardment on to the cold surface of dust out of
+the warmer air above. Mr. Aitken has indeed suggested a sort of
+practical dust or smoke filter on this principle, passing air between
+two surfaces--one hot and one cold--so as to vigorously bombard the
+particles on to the cold surface and leave the air free.
+
+But we have found another and apparently much more effectual mode of
+clearing air than this. We do it by discharging electricity into it.
+It is easily possible to electrify air by means of a point or flame,
+and an electrified body has this curious property, that the dust near
+it at once aggregates together into larger particles. It is not
+difficult to understand why this happens; each of the particles
+becomes polarized by induction, and they then cling together end to
+end, just like iron filings near a magnet. A feeble charge is often
+sufficient to start this coagulating action. And when the particles
+have grown into big ones, they easily and quickly fall. A stronger
+charge forcibly drives them on to all electrified surfaces, where they
+cling. A fine water fog in a bell jar, electrified, turns first into a
+coarse fog or Scotch mist, and then into rain. Smoke also has its
+particles coagulated, and a space can thus be cleared of it. I will
+illustrate this action by making some artificial fogs in a bell-jar
+furnished with a metal point. First burn some magnesium wire,
+electrify it by a few turns of this small Voss machine, and the smoke
+has become snow; the particles are elongated, and by pointing to the
+charged rod indicate the lines of electrostatic force very
+beautifully; electrify further, and the air is perfectly clear. Next
+burn turpentine, and electrify gently; the dense black smoke
+coagulates into black masses over an inch long; electrify further, and
+the glass is covered with soot, but the air is clear. Turpentine smoke
+acts very well, and can be tried on a larger scale; a room filled with
+turpentine smoke, so dense that a gas-light is invisible inside it,
+begins to clear in a minute or two after the machine begins to turn,
+and in a quarter of an hour one can go in and find the walls thickly
+covered with stringy blacks, notably on the gas-pipes and everything
+most easily charged by induction. Next fill a bell-jar full of steam,
+and electrify, paying attention to insulation of the supply point in
+this case. In a few seconds the air looks clear, and turning on a beam
+of light we see the globules of water dancing about, no longer fine
+and impalpable, but separately visible and rapidly falling. Finally,
+make a London fog by burning turpentine and sulphur, adding a little
+sulphuric acid, either directly as vapor or indirectly by a trace of
+nitric oxide, and then blowing in steam. Electrify, and it soon
+becomes clear, although it lakes a little longer than before; and on
+removing the bell-jar we find that even the smell of SO2 has
+disappeared, and only a little vapor of turpentine remains. Similarly
+we can make a Widnes fog by sulphureted hydrogen, chlorine, sulphuric
+acid, and a little steam. Probably the steam assists the clearing when
+gases have to be dealt with. It may be possible to clear the air of
+tunnels by simply discharging electricity into the air--the
+electricity being supplied by Holtz machines, driven say by small
+turbines--a very handy form of power, difficult to get out of order.
+Or possibly some hydro-electric arrangement might be devised for the
+locomotive steam to do the work. I even hope to make some impression
+on a London fog, discharging from lightning conductors or captive
+balloons carrying flames, but it is premature to say anything about
+this matter yet. I have, however, cleared a room of smoke very quickly
+with a small hand machine.
+
+It will naturally strike you how closely allied these phenomena must
+be to the fact of popular science that "thunder clears the air." Ozone
+is undoubtedly generated by the flashes, and may have a beneficial
+effect, but the dust-coagulating and dust-expelling power of the
+electricity has a much more rapid effect, though it may not act till
+the cloud is discharged. Consider a cloud electrified slightly; the
+mists and clouds in its vicinity begin to coagulate, and go on till
+large drops are formed, which may be held up by electrical action, the
+drops dancing from one cloud to another and thus forming the very
+dense thunder cloud. The coagulation of charged drops increases the
+potential, as Prof. Tait points out, until at length--flash--the cloud
+is discharged, and the large drops fall in a violent shower. Moreover,
+the rapid excursion to and fro of the drops may easily have caused
+them to evaporate so fast as to freeze, and hence we may get hail.
+
+While the cloud was electrified, it acted inductively on the earth
+underneath, drawing up an opposite charge from all points, and thus
+electrifying the atmosphere. When the discharge occurs this
+atmospheric electrification engages with the earth, clearing the air
+between, and driving the dust and germs on to all exposed surfaces. In
+some such way also it may be that "thunder turns milk sour," and
+exerts other putrefactive influences on the bodies which receive the
+germs and dust from the air.
+
+But we are now no longer on safe and thoroughly explored territory. I
+have allowed myself to found upon a basis of experimental fact, a
+superstructure of practical application to the explanation of the
+phenomena of nature and to the uses of man. The basis seems to me
+strong enough to bear most of the superstructure, but before being
+sure it will be necessary actually to put the methods into operation
+and to experiment on a very large scale. I hope to do this when I can
+get to a suitable place of operation. Liverpool fogs are poor affairs,
+and not worth clearing off. Manchester fogs are much better and more
+frequent, but there is nothing to beat the real article as found in
+London, and in London if possible I intend to rig up some large
+machines and to see what happens. The underground railway also offers
+its suffocating murkiness as a most tempting field for experiment, and
+I wish I were able already to tell you the actual result instead of
+being only in a position to indicate possibilities. Whether anything
+comes of it practically or not, it is an instructive example of how
+the smallest and most unpromising beginnings may, if only followed up
+long enough, lead to suggestions for large practical application. When
+we began the investigation into the dust-free spaces found above warm
+bodies, we were not only without expectation, but without hope or idea
+of any sort, that anything was likely to come of it; the phenomenon
+itself possessed its own interest and charm.
+
+And so it must ever be. The devotee of pure science never has
+practical developments as his primary aim; often he not only does not
+know, but does not in the least care whether his researches will ever
+lead to any beneficial result. In some minds this passive ignoring of
+the practical goes so far as to become active repulsion; so that some
+singularly biased minds will not engage in anything which seems likely
+to lead to practical use. I regard this as an error, and as the sign
+of a warped judgment, for after all man is to us the most important
+part of nature; but the system works well nevertheless, and the
+division of labor accomplishes its object. One man investigates nature
+impelled simply by his own genius, and because he feels he cannot help
+it; it never occurs to him to give a reason for or to justify his
+pursuits. Another subsequently utilizes his results, and applies them
+to the benefit of the race. Meanwhile, however, it may happen that the
+yet unapplied and unfruitful results evoke a sneer, and the question:
+"Cui bono?" the only answer to which question seems to be: "No one is
+wise enough to tell beforehand what gigantic developments may not
+spring from the most insignificant fact."
+
+       *       *       *       *       *
+
+
+TELEPHONY AND TELEGRAPHY ON THE SAME WIRES SIMULTANEOUSLY.
+
+
+For the last eighteen months a system has been in active operation in
+Belgium whereby the ordinary telegraph wires are used to convey
+telephonic communications at the same time that they are being
+employed in their ordinary work of transmitting telegraphic messages.
+This system, the invention of M. Van Rysselberghe, whose previous
+devices for diminishing the evil effects of induction in the telephone
+service will be remembered, has lately been described in the _Journal
+Telegraphique_ of Berne, by M.J. Banneux of the Belgian Telegraph
+Department. Our information is derived from this article and from
+others by M. Hospitalier.
+
+The method previously adopted by Van Rysselberghe, to prevent
+induction from taking place between the telegraph wires and those
+running parallel to them used for telephone work, was briefly as
+follows: The system of sending the dots and dashes of the
+code--usually done by depressing and raising a key which suddenly
+turns on the current and then suddenly turns it off--was modified so
+that the current should rise gradually and fall gradually in its
+strength by the introduction of suitable resistances. These were
+introduced into the circuit at the moment of closing or opening by a
+simple automatic arrangement worked exactly as before by a key. The
+result, of the gradual opening and gradual closing of the circuit was
+that the current attained its full strength gradually instead of
+suddenly, and died away also gradually. And as induction from one wire
+to another depends not on the strength of the current, but on the rate
+at which the strength changes, this very simple modification had the
+effect of suppressing induction. Later Van Rysselberghe changed these
+arrangements for the still simpler device of introducing permanently
+into the circuit either condensers or else electro-magnets having a
+high coefficient of self-induction. These, as is well known to all
+telegraphic engineers, retard the rise or fall of an electric current;
+they fulfill the conditions required for the working of Van
+Rysselberghe's method better than any other device.
+
+Having got thus far in his devices for destroying induction from one
+line to another, Van Rysselberghe saw that, as an immediate
+consequence, it might be concluded that, if the telegraph currents
+were thus modified and graduated so that they produced no induction in
+a neighboring telephone line, they would produce no sound in the
+telephone if that instrument were itself joined up in the telegraph
+line. And such was found to be case. Why this is so will be more
+readily comprehended if it be remembered that a telephone is sensitive
+to the changes in the strength of the current if those changes occur
+with a frequency of some hundreds or in some cases thousands of times
+_per second_. On the other hand, currents vibrating with such rapidity
+as this are utterly incompetent to affect the moving parts of
+telegraphic instruments, which cannot at the most be worked so as to
+give more than 200 to 800 separate signals _per minute_.
+
+[Illustration: Fig. 1]
+
+[Illustration: Fig. 2]
+
+The simplest arrangement for carrying out this method is shown in Fig.
+1, which illustrates the arrangements at one end of a line. M is the
+Morse key for sending messages, and is shown as in its position of
+rest for receiving. The currents arriving from the line pass first
+through a "graduating" electromagnet, E2, of about 500 ohms
+resistance, then through the key, thence through the electromagnet, R,
+of the receiving Morse instrument, and so to the earth. A condenser,
+C, of 2 microfarads capacity is also introduced between the key and
+earth. There is a second "graduating" electromagnet, E1, of 500 ohms
+resistance introduced between the sending battery, B, and the key.
+When the key, M, is depressed in order to send a signal, the current
+from the battery must charge the condenser, C, and must magnetize the
+cores of the two electromagnets, E1 and E2, and is thereby retarded in
+rising to its full strength. Consequently no sound is heard in a
+telephone, T, inserted in the line-circuit. Neither the currents which
+start from one end nor those which start from the other will affect
+the telephones inserted in the line. And, if these currents do not
+affect telephones in the actual line, it is clear that they will not
+affect telephones in neighboring lines. Also the telephones so
+inserted in the main line might be used for speaking to one another,
+though the arrangement of the telephones in the same actual line would
+be inconvenient. Accordingly M. Van Rysselberghe has devised a further
+modification in which a separate branch taken from the telegraph line
+is made available for the telephone service. To understand this
+matter, one other fact must be explained. Telephonic conversation can
+be carried on, even though the actual metallic communication be
+severed by the insertion of a condenser. Indeed, in quite the early
+days of the Bell telephone, an operator in the States used a condenser
+in the telegraph line to enable him to talk through the wire. If a
+telephonic set at T1 (Fig. 2) communicate through the line to a
+distant station, T2, through a condenser, C, of a capacity of half a
+microfarad, conversation is still perfectly audible, provided the
+telephonic system is one that acts by induction currents. And since in
+this case the interposition of the condenser prevents any continuous
+flow of current through the line, no perceptible weakening will be
+felt if a shunt S, of as high a resistance as 500 ohms and of great
+electromagnetic rigidity, that is to say, having a high coefficient of
+self-induction, be placed across the circuit from line to earth. In
+this, as well as in the other figures, the telephones indicated are of
+the Bell pattern, and if set up as shown in Fig. 2, without any
+battery, would be used both as transmitter and receiver on Bell's
+original plan. But as a matter of fact any ordinary telephone might be
+used. In practice the Bell telephone is not advantageous as a
+transmitter, and has been abandoned except for receiving; the Blake,
+Ader, or some other modification of the microphone being used in
+conjunction with a separate battery. To avoid complication in the
+drawings, however, the simplest case is taken. And it must be
+understood that instead of the single instrument shown at T1 or T2, a
+complete set of telephonic instruments, including transmitter,
+battery, induction-coil, and receiver or receivers, may be
+substituted. And if a shunt, S, of 500 ohms placed across the circuit
+makes no difference to the talking in the telephones because of the
+interposition of the separating condenser, C, it will readily be
+understood that a telegraphic system properly "graduated," and having
+also a resistance of 500 ohms, will not affect the telephones if
+interposed in the place of S. This arrangement is shown in Fig. 3,
+where the "graduated" telegraph-set from Fig. 1 is intercalated into
+the telephonic system of Fig. 2, so that both work simultaneously, but
+independently, through a single line.

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document01645.txt">
+  <feature name="project-gutenberg" etext_number="25351" url="http://www.gutenberg.org/files/25351/25351-8.txt"/>
+  <feature name="language" value="en" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="14727" this_length="18305" source_reference="source-document06876.txt" source_offset="11209" source_length="18511" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="43864" this_length="22623" source_reference="source-document00930.txt" source_offset="14992" source_length="22794" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="81744" this_length="20970" source_reference="source-document02834.txt" source_offset="1778" source_length="21181" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="114157" this_length="514" source_reference="source-document05044.txt" source_offset="7579" source_length="511" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="129219" this_length="16143" source_reference="source-document06876.txt" source_offset="43720" source_length="16473" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="152673" this_length="23052" source_reference="source-document05599.txt" source_offset="217958" source_length="23514" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="188710" this_length="4911" source_reference="source-document06876.txt" source_offset="5226" source_length="4531" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="199225" this_length="3648" source_reference="source-document01604.txt" source_offset="0" source_length="3663" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="204274" this_length="18492" source_reference="source-document06049.txt" source_offset="122601" source_length="18407" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="243770" this_length="24265" source_reference="source-document05599.txt" source_offset="23837" source_length="24731" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="295519" this_length="22977" source_reference="source-document05599.txt" source_offset="97444" source_length="23434" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="324219" this_length="434" source_reference="source-document05577.txt" source_offset="9677" source_length="515" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="325034" this_length="3595" source_reference="source-document04655.txt" source_offset="1727" source_length="3745" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="331704" this_length="270" source_reference="source-document06382.txt" source_offset="620" source_length="273" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="333181" this_length="1490" source_reference="source-document05577.txt" source_offset="3637" source_length="1501" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="335178" this_length="2879" source_reference="source-document00930.txt" source_offset="61863" source_length="2978" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="339885" this_length="497" source_reference="source-document06876.txt" source_offset="32532" source_length="508" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="340583" this_length="238" source_reference="source-document05044.txt" source_offset="11769" source_length="232" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="341044" this_length="235" source_reference="source-document02834.txt" source_offset="753" source_length="236" />
+  <!-- Use tags like the one below to annotate plagiarism you detected. -->
+  <!-- <feature name="detected-plagiarism" this_offset="50" this_length="1000" source_reference="source-documentX.txt" source_offset="750" source_length="1700"/> -->
+</document>
+

@@ -1,0 +1,6678 @@
+﻿Produced by David Garcia and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Kentuckiana Digital Library)
+
+
+[Bookplate: EX LIBRIS
+
+The books, and your capacity
+for understanding them, are just
+the same in all places.
+
+A. Lincoln]
+
+WILLIAM H. TOWNSEND
+
+
+A MAN OF THE PEOPLE
+
+
+A DRAMA OF ABRAHAM LINCOLN
+
+
+BY
+
+THOMAS DIXON
+
+AUTHOR OF "THE BIRTH OF A NATION," "THE CLANSMAN,"
+"THE LEOPARD'S SPOTS," ETC.
+
+
+D. APPLETON AND COMPANY
+NEW YORK         LONDON
+MCMXX
+
+COPYRIGHT, 1920, BY
+THOMAS DIXON
+
+PRINTED IN THE UNITED STATES OF AMERICA
+
+
+TO
+
+WILLIAM HARRIS, JR.
+
+WHOSE COURAGE AND HIGH IDEALS AS A
+PRODUCER GAVE TO THE AMERICAN
+STAGE THE EPOCH-MAKING PLAY
+
+ABRAHAM LINCOLN
+
+
+HISTORICAL NOTE
+
+
+While the popular conception of Lincoln as the Liberator of the Slave
+is true historically, there is a deeper view of his life and character.
+He was the savior, if not the real creator, of the American Union of
+free Democratic States. His proclamation of emancipation was purely an
+incident of war. The first policy of his administration was to save the
+Union. To this fact we owe a united Nation to-day. It is this truth of
+history which I try to make a living reality in my play.
+
+The scenes relating to the issues of our National life have been drawn
+from authentic records. The plot of the action is based on the letter
+of Colonel John Nicolay to Major Hay, dated August 25, 1864, in which
+the following opening paragraph is found:
+
+    "Hell is to pay. The New York politicians have got a stampede on
+    that is about to swamp everything. Raymond and the National
+    Committee are here to-day. R. thinks a Commission to Richmond is
+    about the only salt to save us; while the President sees and says
+    it would be utter ruination. The matter is now undergoing
+    consultation. Weak-kneed damned fools are in the movement for a new
+    candidate to supplant the President. Everything is darkness, doubt,
+    and discouragement."
+
+No liberty has been taken with an essential detail of history in the
+development of the action except to slightly shift the dates of two
+incidents for dramatic unity. In neither case does the change of date
+affect the validity of the scene as used.
+
+THOMAS DIXON
+
+
+DIVISION INTO ACTS
+
+
+PROLOGUE: The Lincoln cabin in the woods of Indiana, 1820.
+
+ACT I: In the President's room, the morning of August 23, 1864.
+
+ACT II: The same, that evening.
+
+ACT III: Scene 1. Jefferson Davis' room three days later, in Richmond.
+Morning.
+
+Scene 2. Same as Acts I and II.
+
+EPILOGUE--VICTORY. The Platform of the second Inauguration, March 4,
+1865, before the Capitol at Washington.
+
+
+A MAN OF THE PEOPLE
+
+PROLOGUE
+
+
+PERSONS OF THE PROLOGUE
+
+
+ABE                 _A Boy of Ten._
+SARAH               _His Sister._
+TOM LINCOLN         _His Father._
+NANCY               _His Mother._
+THE DOCTOR          _An Old-fashioned Pioneer._
+
+
+PROLOGUE
+
+
+SET SCENE: _The rough-hewn log cabin of Tom Lincoln is seen in the
+center surrounded by the forest wilderness of Southern Indiana, 1820._
+
+_The cabin door is cut in level with the ground. There is no shutter to
+the door and no window to the cabin._
+
+_Right and Left of the door opening are rude benches of split logs. On
+the walls are stretched a coon and a small bear, squirrel and muskrat
+skins. In the foreground on the right is seen an old-fashioned wash pot
+set on three stones. Near the wash pot is fixed in the ground a pole,
+on the top of which are hung six gourds cut for martin swallows to nest
+in. Beside it are a rude bench and two wash tubs. On the left is a
+crude settee made of a split log with legs set in augur holes and a
+rough back made of saplings. An old-fashioned doctor's saddle-bags hang
+across the back of the settee. The trees are walnut, beech and
+oak--undergrowth of dogwood, sumac and wild grapevines. These vines,
+festooned over the cabin, give a sinister impression. A creek winds
+down through the hills behind the cabin._
+
+AT RISE: SARAH _is seen softly tiptoeing toward the cabin door. She
+pauses, listens and slowly peeps inside. She listens again and then
+slips away and calls_.
+
+
+                             SARAH
+
+Abe! Abe!
+
+    [SARAH _goes back to the door and peeps in and runs to the gate._]
+
+Abe----! Ma's awake now!
+
+    [_She returns to the door, peeps in again and runs once more to the
+    gate._]
+
+Abe----! He's feelin' her pulse! Come on in--don't stay out there in
+the woods....
+
+    [ABE _enters slowly._]
+
+                             ABE
+
+What does he say?
+
+                             SARAH
+
+He ain't said nothin' yet.
+
+                             ABE
+
+He's a dumb doctor, anyhow. I couldn't get him to say a word comin',
+last night.
+
+                             SARAH
+
+Well, he's here now, and there's his saddle-bags full of medicine.
+You've been ridin' all night--you look terrible tired! Go to bed and
+sleep a little----
+
+                             ABE
+
+I can't--while Ma's so sick--I'm afraid to go to sleep----
+
+                             SARAH
+
+Why----?
+
+                             ABE
+
+You know why--Sarah----
+
+                             SARAH
+
+Ah, she ain't goin' to die now. She's talkin' to the doctor--lie down
+just a little while and get to sleep before the sun comes up or ye
+can't sleep----
+
+    [_Pleading._]
+
+--come on----
+
+                             ABE
+
+No--I'm scared--the plague's killin' folks every day--and nobody knows
+what to do for 'em----
+
+    [_The_ DOCTOR _and_ TOM _enter from the cabin and come down
+    slowly--the_ DOCTOR _seems to be debating his course of action._]
+
+    [_Eagerly to_ DOCTOR.]
+
+You can do somethin' for her, Doctor?
+
+                             DOCTOR
+
+    [_Hesitates._]
+
+Yes--Get me a clean towel and a bowl----
+
+                             ABE
+
+Run, SARAH--quick----
+
+                             SARAH
+
+    [_Running to cabin._]
+
+Yes--I'll get 'em----
+
+    [_The_ DOCTOR _opens his saddle-bags, takes out his lancet and
+    examines its keen point._]
+
+                             TOM
+
+What are ye goin' ter do with that knife?
+
+                             DOCTOR
+
+Bleed her, of course--it's the only thing to do----
+
+    [_Starts toward cabin._]
+
+                             ABE
+
+    [_To his father._]
+
+Don't let him do it----!
+
+                             DOCTOR
+
+What's that?
+
+                             TOM
+
+You shan't bleed her--I don't know nothin' 'bout doctorin'--but I know
+that'll kill her----
+
+                             DOCTOR
+
+I've a notion to give you the worst cussin' you ever had in your life,
+Tom Lincoln....
+
+                             TOM
+
+'Twouldn't do no good--Doctor----
+
+                             DOCTOR
+
+    [_Throwing his arms up._]
+
+'Twould do _me_ good! I've rode all night--thirty-five miles--from
+my home in Kentucky across the Ohio, into this wilderness, just for you
+to insult me----
+
+                             TOM
+
+I didn't mean to----
+
+                             DOCTOR
+
+Well, you're doin' it--and I'd give ye the cussin' that'ud pay me for
+my trouble comin' up here--if I hadn't heard what you've been doin' for
+your neighbors, in this plague. There's no doctor in thirty
+miles---- You've been the doctor and nurse--mother and father to 'em
+all. And when they die, you go into the woods, cut down a tree, rip out
+the boards, make the coffin, dig the grave and lower the dead with a
+prayer--I'd like to cuss you, Tom Lincoln--but I can't--damn ye----!
+
+                             TOM
+
+I'm sorry, Doctor--but I just couldn't let ye bleed her----
+
+                             DOCTOR
+
+All right--good-by----
+
+    [_With a snort of anger, the_ DOCTOR _throws his lancet into his
+    saddle-bags, snaps them together, and starts for the gate._]
+
+                             ABE
+
+    [_Following the_ DOCTOR _to gate._]
+
+Doctor----!
+
+                             DOCTOR
+
+What do ye want----?
+
+                             ABE
+
+    [_Seizing his hand._]
+
+Please don't go--I'm mighty sorry we made ye mad--I didn't go to do
+it--you see----
+
+    [_He falters._]
+
+I love my Ma so, I just couldn't see ye cut her arm open. And Pa didn't
+mean to hurt yer feelin's--won't ye stay and help us? Can't ye do
+somethin' else for her----?
+
+    [_Pauses._]
+
+I'll pay ye----! I'll work for ye a whole--year----
+
+                             DOCTOR
+
+You'd work for me a year?
+
+                             ABE
+
+    [_Eagerly._]
+
+I'll work for ye _five_ years if you'll just save her--just save
+her life--that's all--don't go--please, don't----
+
+                             DOCTOR
+
+    [_The_ DOCTOR _slips his arm around the boy, draws him close and
+    holds him a moment._]
+
+You're a good boy, Abe----
+
+                             ABE
+
+You'll stay----?
+
+                             DOCTOR
+
+I'd stay and do something if I could, Sonny, but to tell ye the truth,
+I don't know what to do--I'm not quite sure I'm right about the
+bleedin', or I'd stay and make you both help me----
+
+    [_He pauses._]
+
+But I'm not sure----! I'm not sure! And I don't know what else to
+do--I've got no medicine--so I can't stay. All I can tell ye is to keep
+her warm--and give her everything good to eat that she can take--she's
+in God's hands--Good-by----
+
+    [_The_ DOCTOR _hurries through the gate--and leaves_ ABE _and_ TOM
+    _gazing forlornly after him, as_ SARAH _comes from the house._]
+
+                             SARAH
+
+I've got the towel and bowl all ready----
+
+    [_Pauses._]
+
+What's the matter----?
+
+    [_Looks around._]
+
+Where's the doctor----?
+
+                             ABE
+
+He's gone----
+
+                             SARAH
+
+Gone----?
+
+                             TOM
+
+Yes----
+
+    [NANCY _enters by door of cabin._]
+
+    [NANCY'S _sudden appearance in the door swings_ ABE _around with a
+    quick cry of pain. The sun is tinging the eastern sky with the
+    splendor of an Indian Summer morning. The mother's figure in blue
+    homespun suggests against the dark background of the cabin door the
+    coming of a spirit from the unseen world. She pauses a moment in
+    the doorway and smiles at her son._]
+
+                             ABE
+
+Oh, Ma, you mustn't----
+
+                             TOM
+
+    [_Following._]
+
+Nancy----!
+
+                             NANCY
+
+I'm better, I'm a lot better----
+
+                             ABE
+
+You're too sick to come out here, Ma----
+
+                             NANCY
+
+    [_Smiling._]
+
+I can walk--as well as you can,--see----
+
+    [_She sways slightly toward the settee._]
+
+                             ABE
+
+But the Doctor says you must keep warm----
+
+                             NANCY
+
+Well--I have on the warm stockings that Sarah knit for me and the coon
+skin moccasins you made--don't you see, I'm better now----?
+
+                             ABE
+
+    [_Joyfully._]
+
+Look, Pa, she's better!
+
+                             SARAH
+
+Yes--she's better!
+
+                             TOM
+
+    [_Alarmed._]
+
+Don't try to walk--set down, honey!
+
+                             NANCY
+
+    [_Sinking on bench._]
+
+Yes--I will----
+
+    [_The boy comes closer, staring eagerly into his mother's face._]
+
+                             NANCY
+
+Come closer, my boy----
+
+    [ABE _kneels at her feet._]
+
+                             TOM
+
+I'm a feared of this, Nancy--you better let me git a hot rock and wrap
+it up for your feet.
+
+                             NANCY
+
+Yes, Tom--and bring me the Bible. I want Abe to read to me.
+
+    [TOM _goes into the cabin worried over her._]
+
+                             ABE
+
+Feel all right, Ma----?
+
+                             NANCY
+
+    [_She nods and breathes deeply--her eyes alight._]
+
+I wanted to see the sun rise through the trees! You remember the day
+you cut down your first tree to begin the clearing and the sunlight
+came through the hole you'd made to the sky----
+
+                             ABE
+
+Yes--I remember.
+
+                             NANCY
+
+You called me to come and see it----
+
+                             ABE
+
+    [_In a whisper._]
+
+Yes----
+
+                             NANCY
+
+I was proud that morning as I saw you stand with your ax on that big
+log--anything my boy starts to do--he does----
+
+    [_Pauses._]
+
+Your father taught you to use the ax and----
+
+    [_Turns and looks at_ ABE.]
+
+Your father's a good man, my son--kind-hearted and true and everybody
+likes him. They made him road supervisor of his township in Kentucky
+once. If he could read and write he would have gone to the
+legislature----
+
+    [TOM _enters from the cabin with the rock and Bible, he crosses to_
+    NANCY, _and_ ABE _takes the rock and puts it under her feet_--SARAH
+    _kneels and helps him._ NANCY'S _hand drops on the bench._ TOM
+    _picks up her hand, and the chill of it worries him._]
+
+    [ABE _and_ SARAH _rise._]
+
+                             NANCY
+
+Read to me, son--I like to hear your voice----
+
+                             ABE
+
+    [_Brightly._]
+
+All right--what----?
+
+                             NANCY
+
+The Twenty-third Psalm.
+
+    [ABE _looks for the place._]
+
+I love to hear you read, my boy. It means that you can do what any
+other man can--it means so much!
+
+                             ABE
+
+    [_Reads._]
+
+The Lord is my shepherd--I shall not want. He maketh me to lie down in
+green pastures. He leadeth me beside still waters. He restoreth my
+soul. He leadeth me in the paths of righteousness for his name's
+sake----
+
+                             NANCY
+
+    [_In a whisper._]
+
+Yea, tho' I walk through the valley of the shadow of death, I will fear
+no evil, for thou art with me----
+
+    [ABE _stops, looks up at his mother in amazement._]
+
+                             ABE
+
+Ma----
+
+                             NANCY
+
+Remember always, my boy, that God _is_ with you! He is in the day
+and the night. He is in the sun and the wind, the trees and the
+grass--and not a sparrow falls to the ground without He knows. You
+recollect the year you put up those gourds there----
+
+    [_She points to the pole._]
+
+for your martins----? You cried when they circled away in the fall----
+
+    [ABE _nods._]
+
+I told you God would send them back in the spring, didn't I----?
+
+    [_She laughs softly._]
+
+You said that He'd forget to tell them and they'd never find the
+way--but they came--didn't they----?
+
+                             ABE
+
+Yes, Ma, and I know now they'll come again next spring.
+
+                             NANCY
+
+So--I want you never again to doubt God, my boy, and I want you never
+to doubt yourself. Your bare feet, your ragged clothes, how poor you
+are--this is nothing! It doesn't count here--it's what you feel, it's
+what you believe--it's what you see that counts! I've taught you to
+read and write, and now you can do anything! If God takes me----
+
+    [_She pauses exhausted._]
+
+                             ABE
+
+But you mustn't say that, Ma----!
+
+                             NANCY
+
+"The judgments of the Lord are true and righteous altogether!"
+
+                             ABE
+
+No! no, Ma! Don't talk that way! You'll give up if you do----!
+
+                             NANCY
+
+If He calls, my son, then _my_ work is done--and _you_ can do
+all I've tried and failed to do----
+
+                             ABE
+
+    [_Alarmed._]
+
+Had she better talk so much, Pa----
+
+    [_Stoops to fix her feet._]
+
+                             TOM
+
+    [_Feeling her hand._]
+
+Nancy----!
+
+                             NANCY
+
+Just a minute more, Tom----! Don't let him know yet--_you_
+know----!
+
+                             TOM
+
+    [_With upward look of faith._]
+
+Yes, I know----
+
+    [_To_ ABE.]
+
+It's all right--boy----
+
+                             NANCY
+
+Come back close, my son, I want to tell you something I saw last night!
+I had a dream--the same one I had the night before you were born. You
+had grown a man--strong and brave--wise and gentle. The people hung on
+your words, and did you homage. But you remembered this cabin here in
+the deep woods and you were humble. I walked with you between two white
+pillars. It was still and solemn, in there. Outside I could hear the
+people calling your name. You bowed low and whispered in my ear: "This
+is all yours, my Mother. I bought it for you with my life. All that I
+am I owe to you----"
+
+    [_Her voice sinks to a whisper that is half a laugh of religious
+    ecstasy._]
+
+                             ABE
+
+    [_Joyfully._]
+
+See how she's smilin'--Pa! She's getting well--I tell you----!
+
+                             TOM
+
+    [_Whispering._]
+
+Don't ye understand, boy----?
+
+                             ABE
+
+No--what----?
+
+                             SARAH
+
+What--what is it----?
+
+                             TOM
+
+    [_In deep religious awe._]
+
+Look--look at her eyes----! She's not telling ye a dream--she's
+looking through the gates of Heaven----
+
+                             ABE
+
+No--no--no----!
+
+                             TOM
+
+It's death--boy--it's come--Lord, God, have mercy----
+
+    [ABE _springs to his feet and stares in anguish, as_ TOM _falls on
+    his knees beside_ NANCY. NANCY'S _hand rests gently on_ TOM'S
+    _shaggy head, while he sobs. With her other hand she feels for_
+    ABE'S _and holds it feebly._]
+
+                             NANCY
+
+Be good to your Father,----
+
+    [_She pauses and breathes with difficulty._]
+
+In the days to come, he will be the child and you the man----
+
+                             ABE
+
+Yes----
+
+                             NANCY
+
+And love your sister----
+
+    [ABE _nods._]
+
+If dark hours come, my spirit will be watching, my son--and I'll help
+you if I can----
+
+                             ABE
+
+Yes, I know it!
+
+                             NANCY
+
+And remember that you can be a great man in this free country if you
+only say--I will----
+
+    [NANCY'S _body sinks in death as the boy lifts his face illumined
+    by the light of a great purpose._]
+
+                             ABE
+
+Yes, Ma,--I will!
+
+
+CURTAIN
+
+
+PERSONS OF THE PLAY
+
+
+ABRAHAM LINCOLN                  _The President._
+MRS. LINCOLN                     _His Wife._
+COLONEL NICOLAY                  _His Secretary._
+EDWARD                           _The Doorman._
+EDWIN M. STANTON                 _Secretary of War._
+GEN. GEO. B. MCCLELLAN           _Lincoln's Rival._
+CAPTAIN VAUGHAN                  _Of the U. S. Army._
+BETTY WINTER                     _His Sweetheart._
+THADDEUS STEVENS                 _Leader of Congress._
+HENRY RAYMOND                    _Editor of the New York Times._
+JOHN R. GILMORE                  _Of the New York Tribune._
+COLONEL JACQUESS                 _A Methodist Clergyman._
+JEFFERSON DAVIS                  _President of the Confederacy._
+JUDAH P. BENJAMIN                _His Secretary of State._
+JUDGE ROBERT OULD                _Commissioner of Exchange._
+ROBERT E. LEE                    _Commanding General._
+A SISTER                         _Who begs for her brother's life._
+A CONGRESSMAN                    _Who demands a hearing._
+A LITTLE GIRL                    _From Virginia._
+A MOTHER                         _With a baby._
+A WOMAN                          _Who has lost two sons._
+A TELEGRAPH OPERATOR             _In the White House._
+A DOORMAN                        _At Richmond._
+            COMMITTEEMEN, SOLDIERS AND GUARDS.
+
+
+ACT I
+
+
+SET SCENE: _The President's room in the White House, August 23, 1864.
+A flat desk left center. At right a long table and chairs. Doors open
+right and left. Large windows open center. Beside the center window
+stands an upright desk. In one corner a rack with map rollers and
+folios of maps on the floor and leaning against the wall._
+
+AT RISE: _Colonel Nicolay, the President's Secretary, is seen writing
+before an enormous pile of mail. He reads a letter and throws it down
+in disgust. Reads another and hurls it into the waste basket. He
+rises--turns back to the desk and hurls an armful of the letters into
+the corner on the floor and removes enough letters to clear a space for
+his Chief to write._
+
+
+    [EDWARD _enters dragging a mail bag._]
+
+                             NICOLAY
+
+    [_Calling to the Doorman._]
+
+Edward!
+
+                             EDWARD
+
+Yes, sir----
+
+                             NICOLAY
+
+Hold that door tight this morning----
+
+                             EDWARD
+
+Tight as a drum, sir----
+
+                             NICOLAY
+
+If any men of importance try to crowd in before their time----
+
+                             EDWARD
+
+I'll look out for them, sir--here's another bag of letters, Colonel
+Nicolay----
+
+                             NICOLAY
+
+Another----?
+
+                             EDWARD
+
+And there's two more outside----
+
+                             NICOLAY
+
+My God----!
+
+                             EDWARD
+
+Don't blame me, sir--I didn't write 'em----
+
+                             NICOLAY
+
+No, I'll vouch for your loyalty to the President.
+
+                             EDWARD
+
+Where'll I put these----?
+
+                             NICOLAY
+
+Throw the bag in the corner--there's no room on his desk now----
+
+                             EDWARD
+
+    [_Obeying._]
+
+Yes, sir----
+
+    [EDWARD _throws the bag in the corner of the room where_ NICOLAY
+    _has already piled the letters from the desk, and turns to_
+    NICOLAY. _He watches_ NICOLAY _destroying letters for a moment._]
+
+                             NICOLAY
+
+Well, Edward----?
+
+                             EDWARD
+
+Will you tell me one thing, Colonel Nicolay----?
+
+                             NICOLAY
+
+If I can----
+
+                             EDWARD
+
+What do they say in these letters to the President----? I've served
+through four administrations--I've never seen such piles of letters in
+the White House before----
+
+                             NICOLAY
+
+Well, Edward--these letters ask two things of Abraham Lincoln: That he
+dismiss General Grant from command of the Army----
+
+                             EDWARD
+
+The idiots----
+
+                             NICOLAY
+
+And stop the war to-day--August 23, 1864,--make peace--peace at any
+price--to-day----
+
+                             EDWARD
+
+God save us! After nearly four years--quit, with nothing settled----?
+
+                             NICOLAY
+
+That's what these letters demand----
+
+                             EDWARD
+
+You couldn't believe it---- No wonder his eyes sink back in his head,
+an' he looks as if he were seeing ghosts----
+
+    [_Pauses and starts._]
+
+                             NICOLAY
+
+Watch out for that door, Edward----
+
+    [EDWARD _bows, and exits to door leading to the main corridor._
+    NICOLAY _returns to his task of reading the letters--one he tosses
+    into the basket wearily--one he crumples in anger and hurls into
+    the basket._]
+
+                             NICOLAY
+
+The fools----!
+
+    [_He is absorbed in a letter when_ MRS. LINCOLN _enters in a state
+    of nervous excitement. He rises quickly, and goes to meet her._]
+
+What is it, Mrs. Lincoln----?
+
+                             MRS. LINCOLN
+
+I have just heard that the Republican National Committee is in
+Washington----!
+
+                             NICOLAY
+
+They are----
+
+                             MRS. LINCOLN
+
+In conference at Senator Winter's house----?
+
+                             NICOLAY
+
+Yes----
+
+                             MRS. LINCOLN
+
+What do they want?
+
+                             NICOLAY
+
+There are ugly rumors----
+
+                             MRS. LINCOLN
+
+What----? What----? What----?
+
+                             NICOLAY
+
+I can't discuss it, Madam, until the Chief knows----
+
+                             MRS. LINCOLN
+
+Mr. Lincoln doesn't know----
+
+                             NICOLAY
+
+Not yet. He will, this morning. They've just sent a demand to me that
+he see them before his public reception begins----
+
+                             MRS. LINCOLN
+
+You've heard something--you know something--tell me--I can't endure the
+suspense----
+
+                             NICOLAY
+
+Only rumors--and they're too ugly to put into words--they're
+incredible----
+
+                             MRS. LINCOLN
+
+All the same, you believe them----
+
+    [_Impetuously._]
+
+What have you heard----?
+
+                             NICOLAY
+
+    [_Shakes his head._]
+
+The Chief wouldn't like it if I talk, before he knows. I'll tell you a
+few things I'm _thinking_ in plain English--if you'd like to hear----
+
+                             MRS. LINCOLN
+
+You can't make it too _plain_ to suit me----
+
+                             NICOLAY
+
+In my opinion, the devil is to pay. Weak-kneed fools are deserting the
+Chief. Every man who loves Abraham Lincoln must get off his coat now
+and fight. He is the only man who can save this Nation to-day, and he's
+too big and generous to be trusted alone with wolves----
+
+                             MRS. LINCOLN
+
+What can you mean----? The Republican National Committee have no power
+over the President of the United States----
+
+                             NICOLAY
+
+No, Madam---- But they have certain powers over the Nominee of their
+party----
+
+                             MRS. LINCOLN
+
+But Mr. Lincoln is already the nominee of his party for the second term
+... chosen two months ago--and the election is but eight weeks
+off--what do you mean----?
+
+    [EDWARD _enters._]
+
+                             EDWARD
+
+Miss Betty Winter to see you, Ma'am----
+
+                             MRS. LINCOLN
+
+How fortunate--they're at her father's house----!
+
+                             NICOLAY
+
+Yes----
+
+                             MRS. LINCOLN
+
+Show her right in here, Edward----
+
+                             EDWARD
+
+Yes, Madam----
+
+                             MRS. LINCOLN
+
+    [_To_ NICOLAY.]
+
+And she's loyal to Mr. Lincoln--
+
+                             EDWARD
+
+    [_At door left._]
+
+Right this way,--Miss Betty----
+
+    [BETTY _enters--a young woman 25 years old--poised, cultured,
+    charming._]
+
+                             MRS. LINCOLN
+
+    [_Meeting Betty._]
+
+Welcome--my child----
+
+                             BETTY
+
+You're always so kind----!
+
+                             NICOLAY
+
+Excuse me, ladies--while I go out and get rid of some of these people
+waiting to see the President----
+
+    [NICOLAY _exits._]
+
+                             MRS. LINCOLN
+
+Tell me, dear, you've heard something--the Republican National
+Committee are at your father's----
+
+                             BETTY
+
+They _were_ there--they've adjourned to Thaddeus Stevens' house
+across the street from us---- They were locked in with father for two
+hours----
+
+                             MRS. LINCOLN
+
+Locked in----?
+
+                             BETTY
+
+    [_Nods._]
+
+With the keyhole chinked up----!
+
+                             MRS. LINCOLN
+
+And you didn't get a hint of what they're up to----?
+
+                             BETTY
+
+Not the faintest----
+
+                             MRS. LINCOLN
+
+Oh, Betty--they're discussing me----
+
+                             BETTY
+
+They didn't mention your name----
+
+                             MRS. LINCOLN
+
+How do you know----?
+
+                             BETTY
+
+Well--I did hear a little----! I could hear from the next room when
+they got excited! It's Abraham Lincoln they're discussing--not his
+wife----
+
+                             MRS. LINCOLN
+
+You're sure----?
+
+                             BETTY
+
+Sure----! It sounded like a regular dog fight--with one big brute
+howling----
+
+    [_Imitates._]
+
+--the President's name above the din----
+
+                             MRS. LINCOLN
+
+But, you can't be sure, my dear----
+
+                             BETTY
+
+What on earth could they be discussing you for----?
+
+                             MRS. LINCOLN
+
+My loyalty, of course--you know that my brothers are in the Southern
+Army, fighting the Union. Fools have accused me of giving them
+important secrets of the Government. When I _hate_ them for all
+they have done to me and mine----!
+
+                             BETTY
+
+But my dear Mrs. Lincoln--no one believes such lies about you now--not
+even in this bitter campaign--it's absurd----
+
+                             MRS. LINCOLN
+
+    [_Hesitates._]
+
+That is not the real thing I'm afraid of, child--it's something
+worse--I'm going to take you into my confidence now--may I?
+
+                             BETTY
+
+I'll be tickled to death with the honor----!
+
+                             MRS. LINCOLN
+
+And I'm going to ask you to help me----
+
+                             BETTY
+
+I'll be in the Cabinet next----!
+
+                             MRS. LINCOLN
+
+The truth is, I owe A. T. Stewart and Company an enormous bill for
+dresses--$60,000----
+
+                             BETTY
+
+Sixty thousand--oh, my Lord! That's worse than mine----!
+
+                             MRS. LINCOLN
+
+I had to get them! The world said the White House would be disgraced by
+my awkward husband's régime--I've shown them better! But I just
+couldn't tell Mr. Lincoln. He has no idea of the cost of clothes. If
+these jackals have found out and attack him on my account, the thought
+of it will kill me----
+
+                             BETTY
+
+But you know he'd defend you against any one who dares attack you.
+
+                             MRS. LINCOLN
+
+Yes, dear--but it would hurt him so to hear it from their brutal lips.
+I want you to find out from your father, if they know----
+
+                             BETTY
+
+And if they know----?
+
+                             MRS. LINCOLN
+
+Get here before they do, and I'll head them off--I'll tell Mr. Lincoln
+first----
+
+                             BETTY
+
+    [_Smiling._]
+
+On one condition--that you help me----
+
+                             MRS. LINCOLN
+
+Anything you ask----
+
+                             BETTY
+
+I've promised my fiancé that I would get an appointment for him to see
+the President on something very important----
+
+                             MRS. LINCOLN
+
+Mr. Lincoln will be here in a few minutes. I'll have him see your
+sweetheart first----
+
+                             BETTY
+
+But--it's a personal matter and he doesn't wish to come to a public
+reception. He wants an hour alone---- Could you get it for him,
+to-night?
+
+                             MRS. LINCOLN
+
+I--think--so----
+
+                             BETTY
+
+You'll try----?
+
+                             MRS. LINCOLN
+
+I'll _do_ it, child--certainly! You're one loyal friend we have in
+that crowd of wolves on the Capitol Hill----
+
+                             BETTY
+
+All right, I'll find out if they're discussing politics or your
+dressmaker's bill.
+
+    [BETTY _hurries to the door, followed by_ MRS. LINCOLN.]
+
+                             MRS. LINCOLN
+
+God bless you, child----
+
+    [NICOLAY _enters by the other door._]
+
+--Hurry!
+
+                             BETTY
+
+If it's dresses--I'll beat them to the White House!
+
+    [BETTY _exits._]
+
+                             NICOLAY
+
+The President is coming, Madam----
+
+                             MRS. LINCOLN
+
+I'm going. But I may want to see him before that Committee--in case I
+send in--see that he comes, will you?
+
+                             NICOLAY
+
+I'll try to manage it. The friends of the Chief may call on you for
+some inside work, Madam.
+
+                             MRS. LINCOLN
+
+    [_Eagerly._]
+
+I'll do my part, never fear!
+
+    [MRS. LINCOLN _exits and_ NICOLAY _hastily arranges his desk and
+    stands at attention as_ LINCOLN _enters._]
+
+    [LINCOLN _crosses the room with long nervous stride, reaches his
+    desk, looks at the pile of letters and shakes his head wearily._]
+
+                             LINCOLN
+
+Sorry for you, John, with all these letters on your hands----
+
+    [_Laughs._]
+
+_You_ have to work----!
+
+                             NICOLAY
+
+I'm trying to get them out of your way, sir----
+
+                             LINCOLN
+
+Thank you--you know the ones I want to see----
+
+                             NICOLAY
+
+Yes, sir----
+
+                             LINCOLN
+
+    [_Softly._]
+
+And don't forget that no man or woman can be turned from that door, who
+comes here to ask for the saving of a human life----
+
+    [_Pauses._]
+
+There's a firing squad shooting a boy down in Virginia this
+morning----!
+
+    [_Shakes his head._]
+
+I hope I didn't do wrong to let them. Somehow I could not find an
+excuse to save him----
+
+    [_Sighs._]
+
+The Generals are all after me about my pardons----
+
+                             NICOLAY
+
+The Secretary of War is out there now, champing his bit, to head you
+off on some of them, I think----
+
+                             LINCOLN
+
+Don't let old Mars in yet. He's no business here at this hour. Let him
+paw a hole in the ground.
+
+    [_Pauses._]
+
+Any news from the front, this morning?
+
+                             NICOLAY
+
+    [_Handing him a telegram._]
+
+From General Grant's lines--only this, sir----
+
+                             LINCOLN
+
+    [_Reads._]
+
+"Confederate Cavalry raiders capture a Brigadier General and fifty army
+mules."--Too bad--rush a regiment after the mules--they're worth $200 a
+piece--Jeff Davis can have my Brigadier General----!
+
+                             NICOLAY
+
+    [_Laughs._]
+
+Yes, sir--and this came in code from Sherman--
+
+    [_Hands_ LINCOLN _another telegram._]
+
+                             LINCOLN
+
+    [_Eagerly._]
+
+Word from Sherman! Good!
+
+    [_Reads._]
+
+--"Scouts report Hood's trenches before Atlanta are impregnable--carefully
+considering a flank movement--but as yet, I cannot find the position or
+strength of Hood's second line----" W. T. Sherman----
+
+    [_Pauses._]
+
+Grant's deadlocked with Lee at
+Petersburg--If-Sherman-could-only-give-us-Atlanta!----
+
+    [_Pauses._]
+
+I've a notion to telegraph Sherman an order direct----!
+
+                             NICOLAY
+
+I wouldn't go over General Grant's head, sir, with a military
+order--he's sensitive----
+
+                             LINCOLN
+
+It might make trouble--Grant might resent my interference with his plan
+of campaign----
+
+                             NICOLAY
+
+It would have to be filed in the War Department----
+
+                             LINCOLN
+
+Yes--I know. Anything else----?
+
+                             NICOLAY
+
+    [_Handing him a large document._]
+
+Baker's full report of the secret service on the Copperhead
+Societies---- He asks for the immediate arrest of their leaders--and I
+think he's right----
+
+                             LINCOLN
+
+    [_Shakes his head._]
+
+It won't do--it won't do just now--it's an ugly business--too ugly for
+haste--I'll look it over carefully----
+
+    [_Lays the report on his desk._]
+
+I'm ready now to see the people----
+
+                             NICOLAY
+
+The Republican National Committee are in town, sir----
+
+                             LINCOLN
+
+What on earth are they doing here----?
+
+                             NICOLAY
+
+That's what everybody's asking----
+
+                             LINCOLN
+
+They should be in their States, leading the Party to victory---- What
+do they want?
+
+                             NICOLAY
+
+To see you----
+
+                             LINCOLN
+
+Umph----!
+
+                             NICOLAY
+
+Henry Raymond, their Chairman, is with them, and has just sent word
+demanding a hearing before your public reception this morning.
+
+                             LINCOLN
+
+Make the appointment later. They're all distinguished men. They can
+wait while the humbler people have their turn. I came up here from the
+wilderness. I know what it means to have the great rush by me----
+
+    [_Laughs._]
+
+No--I'll see the common folks first----
+
+                             NICOLAY
+
+I think you'd better see this Committee right away, sir----
+
+                             LINCOLN
+
+Why----? What have you heard----?
+
+                             NICOLAY
+
+Some ugly rumors----
+
+                             LINCOLN
+
+Spare me the rumors! We've enough of them flying around Washington to
+poison us all. They can only wish me to hedge on some of my principles
+in this crisis. I've made all the campaign statements I'm going to
+make. I've faith in the good sense of the people. I'm going to plant my
+feet squarely on that faith and wait the verdict of this election----
+
+                             NICOLAY
+
+You won't see the Committee now----?
+
+                             LINCOLN
+
+No----! I'll take my bath of public opinion first. I want to see real
+men and women and feel their hearts beat close to mine. It tones me up
+for the day's work--let them in.
+
+    [STANTON _bursts into the room in a towering rage._]
+
+                             STANTON
+
+Mr. President, I've been kept waiting!
+
+    [_Confronting_ NICOLAY.]
+
+    [NICOLAY _turns away and laughs._]
+
+Nicolay! How dare you keep me waiting in an anteroom, while you talk to
+the President! I want you to understand, sir, that as Secretary of War,
+I've the right to enter this room at any hour, day or night, announced
+or unannounced, and by God, I'm going to exercise that privilege!
+
+    [STANTON _paces the floor furiously._]
+
+                             LINCOLN
+
+    [_Laughing._]
+
+Well, you're here now, and it's all right, Stanton--Easy! Easy, or
+we'll have to put some rocks in your pocket to hold you down. What can
+I do----?
+
+                             STANTON
+
+Mr. President, I've come here this morning to make a square issue with
+you on the abuse of the pardoning power which you are making daily----
+
+                             LINCOLN
+
+As Chief Magistrate of the people, I have been clothed with that power,
+Stanton----
+
+                             STANTON
+
+    [_Angrily._]
+
+You have no right to exercise it under the present conditions!
+Discipline in our armies must be maintained. You are hamstringing me
+and every General in the field--by suspending the death penalty of our
+Courts-Martial. Men are deserting in thousands and we've got to put a
+stop to it.
+
+                             LINCOLN
+
+That's what I say----! Bring to me the traitors who are causing them to
+desert, and see what I'll do to them!
+
+                             STANTON
+
+You can't evade the issue I'm making, sir! You'll be asked this morning
+to pardon a deserter. I call a halt here and now--will you stop to-day
+the use of this pardoning power----?
+
+                             LINCOLN
+
+I've got to hear both sides--it's my solemn duty----
+
+                             STANTON
+
+All right, I'm done. There's my resignation as your Secretary of
+War--Good-by!
+
+    [STANTON _strides angrily to the door and_ LINCOLN _speaks as he
+    puts his hand on the knob._]
+
+                             LINCOLN
+
+Wait a minute----
+
+                             STANTON
+
+It's no use----
+
+                             LINCOLN
+
+Come back here. I've something to say to you.
+
+    [STANTON _returns._]
+
+                             STANTON
+
+You're wasting your breath----
+
+                             LINCOLN
+
+Stanton, I appointed you Secretary of War against the advice of every
+man about me. You were a cantankerous Democrat and my enemy. You had
+said the meanest things about me that were ever spoken in
+Washington--and that's putting it pretty strong. You called me a low
+clown--the original gorilla. In spite of all this, I saw _your_ great
+qualities! I saw that you were absolutely fearless and absolutely
+honest, that your nerves were made of steel and your capacity for work
+was boundless. Even in your passions and hatreds, you showed a loyalty
+to the Union that rose above the parties and creeds of a lifetime. I
+like men of your strong personality. They stand between a nation and
+hell. And so, I appointed you, my bitter foe, to my cabinet. I've never
+regretted it for a minute in these years of blood and anguish. You've
+made the best Secretary of War this country ever had. In spite of your
+mean traits and your awful profanity, I've learned to love you! Now,
+you've resigned, and done your duty, as you see it. I've accepted your
+resignation, _conscripted_ you again, and reappointed you----!
+
+    [_Pauses and strokes his shoulder._]
+
+Go back to your desk and stick to the rules--that's your business; and
+I'll keep right on here tempering Justice with Mercy when I get a
+chance.
+
+                             STANTON
+
+    [_Gazing at him a moment hopelessly._]
+
+Well,--I suppose I'll have to try----!
+
+    [_Snorts._]
+
+But--I'm--damned--if--you--interfere--with--me--again!
+
+    [STANTON _hurries to the door._]
+
+                             LINCOLN
+
+All right now---- But look here, Stanton----
+
+    [STANTON _pauses._]
+
+If I _have_ to send over a pardon or two to you this morning----
+
+                             STANTON
+
+Hell fire!
+
+                             LINCOLN
+
+Easy--easy now! You'll know they're _very_ urgent, and will admit of no
+delay on account of red tape----
+
+                             STANTON
+
+    [_Throws his hands up in wild gesture of despair._]
+
+Oh, my God!
+
+    [STANTON _exits._]
+
+                             LINCOLN
+
+John, the old Fox _was_ trying to head me off, wasn't he----? Get them
+in here quick--who's the first in turn----?
+
+                             NICOLAY
+
+A young lady to plead for the life of her brother----
+
+                             LINCOLN
+
+Bring her in!
+
+    [_As_ NICOLAY _goes to the door_, LINCOLN _follows to meet the
+    young woman. She enters, a forlorn little figure with baby face and
+    blonde hair. She is plainly dressed in homespun cloth and does not
+    wear hoopskirts. The President greets her with the utmost
+    deference._]
+
+    [_Taking both her hands._]
+
+My dear young lady--I'm glad to see you--good old Pennsylvania Dutch! I
+knew you before you spoke--my folks came down to Virginia from there,
+in the old Colonial days----
+
+                             THE SISTER
+
+    [_Overcome._]
+
+Oh--Meester--Presiden--you are so goot to me--you are so kind----
+
+    [_Pauses overcome._]
+
+I haf no speech----
+
+                             LINCOLN
+
+Come now, tell me in your own way what I can do to help you----
+
+                             THE SISTER
+
+Oh--Meester Presiden--you can do all--you can do any t'ing--und I am so
+happy to see you--I cannot begin----
+
+                             LINCOLN
+
+    [_Soothing her._]
+
+Take your time, little girl--all the others will have to wait on you
+now----
+
+                             THE SISTER
+
+Ya-ya--it is my turn now--ya, und I must hurry. You see, it's mine
+brudder--he ist just von leetle poy, Meester Presiden--von leetle poy
+with curly hair like mine----
+
+    [_She chokes._]
+
+                             LINCOLN
+
+    [_Taking her hand._]
+
+And what happened to him, my dear?
+
+                             THE SISTER
+
+Vell, you see he lif wid me in Pennsylvania--ve are all alone
+to-gedder--und he lef me und go into der armee--und von bad man he giv
+him a leetle book vot tell him to desert und go home to his peoples--I
+haf dot leetle book, Meester Presiden----
+
+    [_She hands him the book._]
+
+Und my brudder he's such a leetle poy, he read und he tink vot ze book
+say is so, und he leef ze armee und come home und kiss me und say, "I
+vill take care of you now, mein seester----"
+
+    [_Breaks down._]
+
+Und zey come und take heem, und now he is to be shot----
+
+    [_She chokes._]
+
+    [LINCOLN _reads the title of the little book._]
+
+                             LINCOLN
+
+"Why should Brothers Fight?" "By Richard Vaughan"--an old Copperhead
+leader I'll warrant!
+
+    [_Pauses._]
+
+And you came to me, all alone, little girl?
+
+                             THE SISTER
+
+Ya--I haf no friens here----
+
+                             LINCOLN
+
+Your Congressman does not know of this?
+
+    [NICOLAY _begins to make out the pardon._]
+
+                             THE SISTER
+
+I do not know ze Congress-man--mein leetle brudder is all I haf----
+
+                             LINCOLN
+
+Alone, friendless--with no Congressman to speak for you! Well, little
+girl, you don't need anybody to speak for you--you speak for
+yourself--you're good and honest and love your brother--and by jings,
+you don't wear hoopskirts--I'm sorry to rile old Stanton again----
+
+    [_Laughs._]
+
+But I'm going to pardon your brother----!
+
+                             THE SISTER
+
+    [_Seizes and kisses his hand._]
+
+Oh--Meester Presiden--I praise ze good God----
+
+                             LINCOLN
+
+There! There! Now, don't do that, you'll have me crying in a minute and
+John Nicolay here will see me----
+
+                             THE SISTER
+
+Ya! Meester Nicolay--won't mind--he so kind to me too----
+
+    [NICOLAY _has prepared the pardon and the President signs and hands
+    it to her._]
+
+                             THE SISTER
+
+    [_Seizing the pardon._]
+
+Wiz all my heart!
+
+                             LINCOLN
+
+    [_To_ NICOLAY.]
+
+Send her to Stanton, and tell him to rush that order to stay the
+execution. They shall not shoot this poor boy, ignorant of our laws,
+but if he can find the man who put that little book----
+
+    [_Holds up book._]
+
+into his hand, advising desertion--I'll hang him on a gallows forty
+cubits high!
+
+    [_He lays the booklet on his desk._]
+
+    [NICOLAY _writes on the back of the pardon._]
+
+                             THE SISTER
+
+    [_Joyfully._]
+
+Mein brudder he vill go back und he vill be von goot poy for you,
+Meester Presiden----
+
+                             LINCOLN
+
+Yes, I know he will, my child, I know he will. Good-by, and God bless
+you.
+
+                             THE SISTER
+
+Und God bless you, Meester Presiden----!
+
+    [NICOLAY _pauses at the door and gives orders to the doorman._]
+
+                             NICOLAY
+
+Edward, take her to the War Office with this message----
+
+                             EDWARD
+
+Yes, sir----
+
+                             CONGRESSMAN
+
+I demand to see the President at once----
+
+                             NICOLAY
+
+I can't admit you, Mr. Congressman, just now----
+
+                             CONGRESSMAN
+
+    [_Forcing his way in._]
+
+I demand it, sir----
+
+    [LINCOLN _crosses to the door._]
+
+                             LINCOLN
+
+What is it, John----
+
+                             CONGRESSMAN
+
+Mr. President, I have been here three times! I demand the right to see
+you--to ask the pardon of one of my constituents.
+
+                             LINCOLN
+
+All right! Out with it!
+
+                             CONGRESSMAN
+
+He is one of the solid citizens of Massachusetts; a slave trader whose
+ship has been confiscated. He has spent five years in prison, and
+cannot pay the heavy fine in money imposed---- He is not a bad man at
+heart.
+
+                             LINCOLN
+
+And he wants _me_ to pardon him--this slave-trader----!
+
+                             CONGRESSMAN
+
+I ask it as a matter of justice--he has paid the penalty--five long
+years in prison----
+
+                             LINCOLN
+
+    [_Laughs._]
+
+I might pardon a murderer from old Massachusetts, she's done glorious
+service in this war--but a man who can make a business of going to
+Africa and robbing her of helpless men, women and children and selling
+them into bondage----!
+
+    [_He pauses and stiffens._]
+
+--before that man can have liberty by any act of mine, he can stay in
+jail and rot!
+
+                             NICOLAY
+
+    [_To the Congressman._]
+
+Now, you've got it----!
+
+                             CONGRESSMAN
+
+    [_Crestfallen._]
+
+Yes--I heard it----
+
+                             LINCOLN
+
+    [_Turning back to his desk, and examining his papers._]
+
+Good---- Bring in the next one, John!
+
+    [_As_ NICOLAY _exits with the Congressman who continues to talk in
+    loud tones, a sweet little girl of twelve slips by and reaches the
+    President's desk unannounced. The President has taken his seat and
+    is writing. While the President continues to write, the little girl
+    slips close and watches him wistfully. He lifts his head, sees her,
+    and smiles._]
+
+Why, what a wee girl--and you got in here all by yourself----?
+
+                             VIRGINIA
+
+I slipped in when no one was looking----
+
+                             LINCOLN
+
+Did you? What did you do that for?
+
+                             VIRGINIA
+
+I was afraid they wouldn't let me in, if they knew what I wanted----
+
+                             LINCOLN
+
+    [_Tenderly._]
+
+And what _do_ you want?
+
+                             VIRGINIA
+
+If you please, sir--a pass to go through the lines to Virginia--my
+brother's there--he was shot in the last battle--and I want to see him.
+
+                             LINCOLN
+
+Of course, you do--and you shall too.
+
+    [_He seizes his pen, writes a pass and hands it to her._]
+
+                             VIRGINIA
+
+    [_Breathlessly._]
+
+Oh, thank you--thank you!
+
+                             LINCOLN
+
+    [_Casually placing his hand on her head._]
+
+Of course, you're loyal----?
+
+    [VIRGINIA'S _lips quiver, she hesitates, looks up into his face
+    through dimmed eyes, and her slender body stiffens as she slowly
+    speaks._]
+
+                             VIRGINIA
+
+Yes--loyal--with all my heart--to Virginia!
+
+    [_The trembling little fingers hand the pass back as the tears roll
+    down her cheeks. LINCOLN looks away to hide from her his own
+    emotion, stoops and takes her hand in his. His voice is low and
+    tender and full of feeling._]
+
+                             LINCOLN
+
+I know what it cost you to say that, child. You're a brave little girl!
+And I'll love you always for this glimpse you've given me of a great
+spirit and a great people. That's why I can't let the South go---- They
+can't leave this Union. We need them---- Now I can trust you----?
+
+                             VIRGINIA
+
+    [_Eagerly._]
+
+Yes, sir!
+
+    [NICOLAY _enters with a young mother and baby and hesitates at
+    sight of the little girl._]
+
+                             LINCOLN
+
+Come on in, John--it's all right. I'm about through with this young
+lady----
+
+    [NICOLAY _brings the young mother to the desk and_ LINCOLN _takes_
+    VIRGINIA _down stage._]
+
+Come down here, dear, so old man Nicolay can't hear us--he mightn't
+understand.
+
+    [_He sits on a chair and draws the girl close._]
+
+You see, I understand you--and can trust you implicitly. Now if I give
+you back this and let you go--will you promise me that no word shall
+pass your lips of what you've seen inside our lines?
+
+                             VIRGINIA
+
+Oh, yes--I promise----!
+
+                             LINCOLN
+
+    [_Handing her the pass._]
+
+May God speed the day, child, when your people and mine shall no longer
+be enemies----
+
+                             VIRGINIA
+
+Thank you, sir!
+
+                             LINCOLN
+
+Run now!
+
+    [VIRGINIA _exits. At the door she throws him a kiss._]
+
+    [LINCOLN _comes quickly to the mother and greets her cheerily._]
+
+Well, little mother, what's the matter?
+
+    [_She hesitates and appeals to_ NICOLAY.]
+
+                             NICOLAY
+
+Tell him yourself----
+
+                             THE MOTHER
+
+    [_Trembling._]
+
+If you please, sir, we ain't been married but a little over a year, and
+my husband's never seen the baby----
+
+                             LINCOLN
+
+That's too bad----
+
+                             THE MOTHER
+
+He's in the army and I couldn't stand it any longer--so I came down to
+Washington to get a pass to take the baby to him. But he wouldn't let
+me have it at the War Office----
+
+                             LINCOLN
+
+    [_Laughs._]
+
+I'll bet old Mars wouldn't--Phew!
+
+    [_Pauses and turns to_ NICOLAY.]
+
+What do you say. John--let's send her down?
+
+                             NICOLAY
+
+The strictest orders have been issued to allow no more women to go to
+the front----
+
+                             LINCOLN
+
+Humph----! Well, I'll tell you what we _can_ do--give her husband a
+leave of absence, and let _him_ come up here to see _them_!
+
+                             THE MOTHER
+
+    [_Laughing and crying._]
+
+You don't mind my laughing, do you? I just can't help it--I can't stop!
+I can't stop laughing!
+
+                             LINCOLN
+
+Laugh and cry as much as you please--but tell me where are you
+stopping?
+
+                             THE MOTHER
+
+Nowhere yet, sir----
+
+                             LINCOLN
+
+How's that?
+
+                             THE MOTHER
+
+I went straight from the depot to the War Office and then I just walked
+the street blind with crying till I made up my mind to come here.
+
+                             LINCOLN
+
+We'll fix that then! Nicolay will write you an order that will take you
+and your baby to a good hospital and care for you till your husband
+comes--and fix it so _he_ can stay here a week with you----
+
+                             THE MOTHER
+
+    [_Laughs._]
+
+I just can't thank you! I'm so happy, all I can do is to laugh!
+
+                             LINCOLN
+
+Laugh on, little mother--and off with you now--clear out!
+
+    [_The mother goes out laughing._]
+
+    [NICOLAY _shows the little mother out and returns to_ LINCOLN.]
+
+                             NICOLAY
+
+The deputation of colored men whom you asked to come this morning are
+waiting, sir--will you see them now?
+
+                             LINCOLN
+
+At once----
+
+    [LINCOLN _turns to his desk and takes up a document containing his
+    plan of Colonization and examines it as_ NICOLAY _and three
+    well-dressed colored men enter. They are typical Africans._]
+
+                             FIRST NEGRO
+
+    [_Bowing deferentially._]
+
+Mr. President----!
+
+                             SECOND NEGRO
+
+    [_Tenderly._]
+
+_Our_ Father Abraham----
+
+                             THIRD NEGRO
+
+    [_With religious feeling._]
+
+We salute our Savior!
+
+                             LINCOLN
+
+Welcome, my friends. I have sent for you this morning to place in your
+hands a copy of my plan for colonization and to ask your help----
+
+                             FIRST NEGRO
+
+Yes, sir----
+
+    [_The ebony faces with their cream white teeth showing in smiles
+    and their wide rolling eyes make a striking contrast to the rugged
+    face and poise of the President._]
+
+                             LINCOLN
+
+Your race is suffering, in my judgment, the greatest wrong inflicted on
+any people. But even when you cease to be slaves, you are yet far
+removed from being placed on an equality with the white race. On this
+broad continent, not a single man of your race is made the equal of a
+single man of ours----
+
+                             FIRST NEGRO
+
+It's so--yes, it's so----!
+
+                             LINCOLN
+
+Go where you are treated best and the ban is still upon you. I cannot
+alter it if I would. It is better for us both, therefore, to be
+separated. For the sake of your people you should sacrifice something
+of your present comfort.
+
+                             FIRST NEGRO
+
+Let our great leader show us the way----
+
+                             LINCOLN
+
+The Colony of Liberia is an old one, and it is open to you. I am now
+arranging to open another in Central America. You are intelligent and
+know that success does not so much depend on external help as on
+self-reliance. If you will engage in the enterprise I will spend the
+money Congress has entrusted to me for this purpose. I ask you to
+consider it seriously, not for yourselves merely, nor for your race and
+ours for the present time, BUT FOR THE GOOD OF MANKIND.
+
+                             FIRST NEGRO
+
+We will, sir----!
+
+                             LINCOLN
+
+The practical thing I want to ascertain is whether I can get a number
+of able-bodied men with their wives and children to go at once--men who
+"can cut their own fodder" so to speak----? Take this plan, show it to
+your people----
+
+    [_Hands the document to the First Negro._]
+
+--and find this out for me----
+
+                             FIRST NEGRO
+
+We'll do our best----
+
+                             THIRD NEGRO
+
+    [_Bowing out with religious ecstasy._]
+
+Praise God forever for our Savior-Leader----!
+
+    [NICOLAY _ushers out the three Negroes and shows in a stately
+    black-robed figure in mourning for her dead. She walks quietly to
+    the President and extends her hand with a gracious smile._]
+
+                             THE WOMAN
+
+Perhaps I've done wrong to take up your time----
+
+                             LINCOLN
+
+My time belongs to the people, Madam----
+
+                             THE WOMAN
+
+I've come to you, Mr. President, under an impulse I could not resist.
+Mr. Stoddard, your third Secretary, is my friend. He told me this
+morning that all night the sound of your footfall came from this room.
+He heard it at nine, at ten, at eleven. At midnight the Secretary of
+War left the door ajar and the steady tramp came with heavier sound.
+The last thing he heard at three was the muffled beat upstairs. The
+guard said it had not stopped at daylight. I saw you staggering alone
+under a Nation's sorrow and I wondered if you had been given the vision
+to see the dawn of a new life for our people. I know I'm looking into
+the eyes of the man whose word can stop this war and divide the
+Union--I have come to tell you that I lost my first born son at
+Fredericksburg--a lad of twenty----
+
+    [_She pauses and_ LINCOLN _bends and presses her hand._]
+
+May God help you in your trials, Mr. President, as he has helped me in
+mine----
+
+                             LINCOLN
+
+    [_Startled._]
+
+You lost your first born at Fredericksburg and come to say this to me?
+
+                             THE WOMAN
+
+And I've been praying for you, day and night since----
+
+                             LINCOLN
+
+    [_Softly._]
+
+Will you say that again, Madam----
+
+                             THE WOMAN
+
+I have been praying for you, day and night, and I've come this morning
+to bring you this message--Be strong and courageous, and God will bring
+the Nation through!
+
+                             LINCOLN
+
+You say this to me--standing beside the grave of your son?
+
+                             THE WOMAN
+
+And beside the cot of my other boy of sixteen who was dangerously
+wounded in General Grant's last battle. I am proud of two such sons to
+lay on the altar of my country. I _had_ to tell you that I'm
+praying for you.
+
+    [LINCOLN _closes both hands over hers and holds them a moment in
+    silence._]
+
+                             LINCOLN
+
+    [_With upward gaze._]
+
+How strange that you should come to me in this black hour with such a
+message. I've often wondered if the soul of my mother were not speaking
+to me! The day she died in the woods of Indiana, she told me that if
+dark hours came, her spirit would be watching, and she'd help me if she
+could! While you were talking to me--I got the tremor of her voice and
+the quiver of her lips--how strange!
+
+    [_Looking down into her face._]
+
+Thank you, Madam! You have brought me medicine for both body and soul.
+
+    [LINCOLN _presses her hand again and she quietly goes as he gazes
+    after her._]
+
+    [NICOLAY _starts to follow her to the door_--LINCOLN _lifts his
+    hand._]
+
+John, I'm rested now--I'm ready for any work----!
+
+                             NICOLAY
+
+The National Committee have just arrived, sir.
+
+                             LINCOLN
+
+All right--let them in!
+
+    [LINCOLN _resumes his place beside his desk and the Committee
+    headed by_ HENRY RAYMOND, _Editor of the New York Times, enter and
+    solemnly range themselves about the President._]
+
+    [_To_ HENRY RAYMOND--_taking his hand formally._]
+
+Raymond, this is an unexpected honor you and your Committee do me. I
+thought you were at your desk in the _Times_ office pouring hot shot
+into the flanks of our enemies, and the boys were all at home fighting
+for the victory that must be ours on the first Tuesday in November. Not
+that you're unwelcome. You are the leaders of public opinion. The
+people rule this country, and I am their servant--what is it----?
+
+                             RAYMOND
+
+You may be sure, Mr. President, that our mission is of the gravest
+importance. These gentlemen have brought such startling reports from
+their several states as to the bitterness and closeness of the fight,
+that they have reached a unanimous conclusion----
+
+                             LINCOLN
+
+And that is----?
+
+                             RAYMOND
+
+That with your personality and record against General McClellan's, your
+Democratic opponent--the election for us is lost.
+
+                             LINCOLN
+
+Your statement is blunt. But, as I have been renominated for a second
+term, my administration has been endorsed by our party, and the
+election is only eight weeks off--there is but one conclusion
+possible--and that is, that you should roll up your sleeves and get to
+work.
+
+                             RAYMOND
+
+The National Committee, Mr. President, has reached a different
+conclusion----
+
+                             LINCOLN
+
+Yes----?
+
+                             RAYMOND
+
+In view of your unpopularity, in view of the criticism of your
+policies, and your conduct of the war--they have decided to ask you to
+withdraw from the ticket and permit them to name a new candidate----
+
+                             LINCOLN
+
+    [_Springing to his feet._]
+
+What----!
+
+                             RAYMOND
+
+I _have_ stated it bluntly----
+
+                             LINCOLN
+
+And this is your unanimous verdict, gentlemen----?
+
+                             ALL
+
+Yes.
+
+                             LINCOLN
+
+    [_Paces the floor a moment and then faces the Committee._]
+
+It surpasses human belief! Future generations will hold it
+incredible--that you, my party leaders, should heap this insult upon
+the man who led you to your first and only victory. That you should
+come here to-day to ask me to quit under fire, to sacrifice without a
+blow all I hold worth fighting for on this earth----!
+
+                             RAYMOND
+
+The Committee made their request solely on the ground of patriotic
+duty--and ask you for the sacrifice upon the same grounds. They have
+found it impossible to defend your policies----
+
+                             LINCOLN
+
+    [_Brusquely._]
+
+What policies?
+
+                             RAYMOND
+
+Understand me, Mr. President--I am telling you the conclusion of this
+Committee----
+
+                             LINCOLN
+
+All right, Raymond--fire away--spare me the oratory, please--just give
+me the plain reasons, one at a time, why you wish me to get off the
+ticket----
+
+                             RAYMOND
+
+The first policy found indefensible has been your handling of the
+border slave states of Maryland, Kentucky and Missouri. You have not
+yet declared the slaves free in these states, the only ones in which
+you actually have the power to do so--at all.
+
+                             LINCOLN
+
+The first policy of my Administration has been to save for the Union
+the great border states--for the simple reason--with these border slave
+states, we have such a balance of power that the Union _may_ be
+saved! Without these states, the Union _cannot_ be saved!
+Therefore in my Proclamation of Emancipation, I purposely did not raise
+the question of the right or wrong of slavery. If slavery is not wrong,
+nothing is wrong. But the Constitution of the United States, which I
+have sworn to uphold in the border states of Maryland, Kentucky and
+Missouri, guarantees to their people the right to hold slaves if they
+choose.
+
+                             RAYMOND
+
+But why pat on the back the slaveholder of Maryland and strike at the
+slaveholder of South Carolina?
+
+                             LINCOLN
+
+Because Maryland is loyal to the Union, and South Carolina is fighting
+it. My Proclamation was not a sermon on the rights of man--black or
+white. It was an act of war--a blow aimed at the heart of the seceding
+South to break its wealth and power, end the war, and save the Union. I
+know the spell of _State loyalty_ in the South, gentlemen. I was born
+there. Many a mother in Richmond wept the day our flag fell from their
+Capitol. But they brushed their tears away and sent their sons to the
+front the next day, to fight that flag--_in the name of Virginia_! So
+would thousands of mothers in these border slave states, if I put them
+to the test. In God's own time slavery will be destroyed. I have saved
+these states for our cause by conciliation and compromise. I will not
+apologize for this act.
+
+    [_He lifts his hand to stop interruption._]
+
+My paramount object is to save the Union, and not, either to save or
+destroy slavery. If I could save the Union, without freeing a slave, I
+would do it. And if I could save it by freeing all the slaves, I would
+do it. And if I could save it by freeing some and leaving others alone,
+I would also do that. What I do about slavery and the colored race, I
+do because I believe it _helps to save this Union_!
+
+    [_Pauses and faces his accusers._]
+
+I'll test this question right here--will the three Committeemen from
+Kentucky, Missouri and Maryland stand up for a minute?
+
+    [_The three Committeemen rise._]
+
+Will the gentleman from Kentucky tell me what would have been the
+effect if I had included his state in my proclamation freeing the
+slaves----?
+
+                             THE KENTUCKY COMMITTEEMAN
+
+The state would have seceded from the Union, sir.
+
+                             LINCOLN
+
+Just so, and in Missouri?
+
+                             THE MISSOURI COMMITTEEMAN
+
+The Legislature would have joined the Confederacy within twenty-four
+hours.
+
+                             LINCOLN
+
+And Maryland----?
+
+                             THE MARYLAND COMMITTEEMAN
+
+Maryland would have promptly cut the railroads leading into Washington,
+isolated the Capital and joined the South.
+
+                             LINCOLN
+
+And with the loss of our Capital, Europe, eager to strike, would have
+recognized the Confederacy, would they not?
+
+                             THE MARYLAND COMMITTEEMAN
+
+Undoubtedly, sir----
+
+                             LINCOLN
+
+So I hold----
+
+                             THE MARYLAND COMMITTEEMAN
+
+Our State believed you when you said in your Inaugural: "I have no
+purpose directly or indirectly to interfere with the institution of
+slavery in the states where it exists!"
+
+                             LINCOLN
+
+Then you three gentlemen, at least, are with me on this issue?
+
+                             ALL THREE
+
+Yes--! Yes--! Yes--!
+
+                             LINCOLN
+
+I thought so----
+
+    [_To Raymond._]
+
+What next?
+
+                             RAYMOND
+
+Your plan to _colonize_ the Negro race as expressed in your Proclamation
+of Emancipation and in the bill which you have had passed through
+Congress has hurt your best friends----
+
+                             LINCOLN
+
+And why should it? My views on that subject were known to all men
+before you nominated me first in Chicago, four years ago. I said then
+that I believed there is a sharp physical difference between the white
+and black races, and I have always linked colonization with freedom.
+The Negro cannot remain in a free democracy unless we absorb him into
+our social and political life. Therefore, we must colonize him. We owe
+it to ourselves, we owe it to future generations--above all, we owe it
+to the Negro himself. He was brought here by cruel force. At our own
+expense, therefore, we should return him to the home of his fathers,
+and build there a free republic for his children. We should give him
+our language and our ideals, and we should give him millions of our
+money, until he can stand alone. We must face this problem squarely
+now.
+
+                             RAYMOND
+
+Yet you compromise on other issues.
+
+                             LINCOLN
+
+Only because I must to save the Union. Trim and hedge on _this_ issue,
+and future generations will feel their way back to it through blood and
+tears. I have always held that the happiness and progress of this Union
+of Free Democratic States will be secure only in the separation of the
+white and black races, and I will not eat my words!----
+
+    [_Pauses._]
+
+--the next charge in your bill of indictment, gentlemen?
+
+                             RAYMOND
+
+I now present the Hon. Thaddeus Stevens, leader of Congress, the
+representative of the radical wing of our party, who have split our
+organization by nominating another candidate for President--Mr. Stevens
+will give their views.
+
+                             STEVENS
+
+    [_Pompously to the Committee._]
+
+The radical wing of the party, gentlemen, has been the only creative
+force within it--and is the only thing that gives it an excuse for
+being to-day.
+
+                             LINCOLN
+
+    [_Firmly._]
+
+Which means that you think that I am superfluous and always have
+been--I thank you--proceed!
+
+                             STEVENS
+
+We denounce first your policy of reconstruction in the South as weak
+and vacillating--a civil and military failure. As the army advances,
+the South should be held as conquered soil, its civilization torn up by
+the roots, the property of the Southern white people confiscated and
+given to the negroes. The ballot must be taken from the whites and
+given to their slaves. We demand this just vengeance and we will be
+content with nothing less!
+
+                             LINCOLN
+
+Stevens, I greet with shame your demands! Surely the vastness of this
+war, its grim battles, its heroism, its anguish, its sublime earnestness,
+should sink all schemes of revenge. Before the grandeur of its simple
+story our children will walk with uncovered heads. Conquered soil! The
+South has never been out of this Union. Secession was null and void
+from the beginning. I say to the South now, as I have always said:
+"Come back home! You can have peace at any moment, by simply laying
+down your arms and submitting to the National Authority." When the
+South lies crushed at our feet, God's vengeance shall be enough.
+
+                             STEVENS
+
+The life of our party, sir, demands that the Negro be given the ballot
+and made the ruler of the South. This is not vengeance. It is
+justice--it is patriotism.
+
+                             LINCOLN
+
+The Nation cannot be healed until the South is healed. Let the gulf be
+closed in which we bury strifes and hatreds. The good sense of our
+people will never consent to your scheme of vengeance.
+
+                             STEVENS
+
+The people have no sense! And a new fool is born every second.
+
+                             LINCOLN
+
+I have an abiding faith in their honesty and good purpose. I have
+trusted the people before, and they have not failed me.
+
+                             STEVENS
+
+Bah----!
+
+                             LINCOLN
+
+I can't tell you, Stevens, how your venomous plans sicken me. I'd
+rather work with you than fight you, if it's possible. But the line is
+drawn now--we've got to fight--and I'm not afraid of you.
+
+                             STEVENS
+
+You had better listen----
+
+                             LINCOLN
+
+I'll suffer my right arm to be severed from my body before I'll sign
+one measure of revenge on a brave, fallen foe!
+
+                             STEVENS
+
+I have always known you had a sneaking admiration for the South!
+
+                             LINCOLN
+
+I love the South--it is a part of this Union! And when the curse of
+slavery is lifted, it should be the garden spot of the world--I love
+every foot of its soil--every hill and valley, and every man, woman and
+child in it. I am an American!
+
+                             STEVENS
+
+The kind of an American that makes the election of your opponent,
+General George B. McClellan, a certainty----
+
+                             LINCOLN
+
+Well, who would you put in my place?
+
+    [_He faces_ RAYMOND _and_ STEVENS, _and dead silence follows._]
+
+Come on--out with his name----!
+
+    [_They remain silent._]
+
+You can't name him? Let me try to nominate him for you---- On a
+platform of proscription and revenge, the hanging of rebel leaders, the
+confiscation of the property of the white people of the South and its
+bestowment upon the negroes, the taking of the ballot from the whites
+and setting their slaves to rule over them--on this program I resign as
+your candidate and nominate for President, the Hon. Thaddeus
+Stevens----
+
+                             THE COMMITTEE
+
+    [_In a wild uproar._]
+
+No! No! No! Not by a damn sight! To hell with Stevens!
+
+    [LINCOLN _quietly laughs and_ STEVENS _angrily lifts his hand to
+    quiet them._]
+
+                             STEVENS
+
+Now that you've had your joke--let me remind you that the radical wing
+of the Republican Party has already named General John C. Fremont
+against you----
+
+                             LINCOLN
+
+    [_To the Committee._]
+
+What say you, gentlemen----? Shall I resign in favor of the bolter who
+attempted to dictate to you your platform and your candidate before
+your convention met? Do you ask me to resign in favor of General
+Fremont?
+
+                             THE COMMITTEE
+
+No! No! Down with the bolter! To the devil with Fremont. No! No! No!
+Damnation--no----
+
+    [RAYMOND _quiets the uproar._]
+
+                             STEVENS
+
+I am not asking you to nominate Fremont. We split the party and named
+Fremont because we wouldn't have you. Get off the ticket and we will
+withdraw Fremont and put up a man who can be elected! Whatever the
+chances of General Fremont at this moment the election of McClellan on
+a Democratic Copperhead Platform is conceded by your own party
+councils. McClellan is even now choosing his Cabinet----
+
+                             LINCOLN
+
+They say it is not wise to count chickens before they're hatched--we
+still have our chance!
+
+                             STEVENS
+
+You have no chance! You have _already_ been weighed and found
+wanting! In the Congressional election, what happened?--your majorities
+were wiped out. Maine cut you down from nineteen thousand to four! The
+Democrats swept Ohio. Indiana deserted us. In Pennsylvania even, we
+lost by four thousand. New York elected Horatio Seymour against us. New
+Jersey turned you down. Wisconsin was a tie. In your own state of
+Illinois, the Democrats won by seventeen thousand----!
+
+                             LINCOLN
+
+Even so, Stevens--the ballots in _this_ election have not yet been
+counted! My faith in the ultimate good sense of the people is unshaken.
+You can fool some of the people all the time. You can fool all of the
+people sometimes. But you can't fool all the people all the time!
+
+                             STEVENS
+
+That's why we ask you to get off the ticket! You are to-day the most
+unpopular man who ever sat in the Presidential chair. For the first
+time in our history the effigy of a living President--your effigy--has
+been publicly burned in the streets of American towns and cities, amid
+the curses and jeers of the men who elected you! Your administration is
+a failure--your conduct of the war a series of blunders----
+
+                             LINCOLN
+
+    [_Brusquely._]
+
+For example----
+
+                             STEVENS
+
+    [_Furiously._]
+
+For one thing--you have never yet chosen a successful General. The
+South has not changed Commanders since Jeff Davis appointed Robert E.
+Lee. In thirty days of the last campaign in a series of massacres, Lee
+has killed and wounded sixty-two thousand of our men--more than he
+himself commanded--and Grant has only reached the point where McClellan
+stood in 1862. He could have marched there by McClellan's old line
+without the loss of a man. Washington is piled with the wounded, the
+dying and the dead. Your mail is choked with letters demanding the
+removal of this butcher as our Commander, and you refuse--why?
+
+                             LINCOLN
+
+    [_Smiling calmly._]
+
+Well, now that you've _really_ let off steam, I think you'll feel
+better, Stevens----!
+
+                             STEVENS
+
+I demand, sir, an answer to my question--why have you not removed
+Grant?
+
+                             LINCOLN
+
+    [_Quickly._]
+
+Because I can't spare him! He is the one General we have developed who
+knows how to fight--his business is not to reach any particular spot
+where McClellan stood. McClellan was generally _standing_ somewhere--he
+was a great engineer--of the stationary type---- Grant is a fighter.
+His business is to find and destroy Lee's army--and his sledge hammer
+blows are winning this war!
+
+                             STEVENS
+
+Winning--is he? And yet Lee sends a division under Jubal Early and
+reconquers the Valley of Virginia--invades Maryland and Pennsylvania,
+throws his shells into Washington and burns the home of one of your
+Cabinet----
+
+                             LINCOLN
+
+And if old Jubal Early had been a little _earlier_, he would have
+burned Washington, too--but thank God, Grant got here in time--didn't
+he? What have you got to say to that?
+
+                             STEVENS
+
+That Lee's strategy has been superb, his moral victory complete! He
+holds Grant by the throat while he invades the North, and _shells_
+our Capitol--a feat that not one of your generals has yet done for
+Richmond in four years--and still you cling to Grant----!
+
+                             LINCOLN
+
+    [_Angrily._]
+
+Now, I'm going to talk plain English to you, Stevens. You're an
+Abolitionist, and you can't do Grant justice. Your crowd demanded his
+removal after the battle of Shiloh--and you made it so hot for me then,
+I had to appoint General Halleck his superior, to save him for the
+country. You can't forget that Grant is a Democrat, and therefore he
+may vote for McClellan against our party, in this election!
+
+                             STEVENS
+
+I've heard that he _is_ for McClellan.
+
+                             LINCOLN
+
+Exactly! And you can't forget that his wife is a Southern woman whose
+dowry was in Slaves, and therefore at this moment, Grant is constructively
+a slaveholder, whose slaves I have not freed----
+
+                             STEVENS
+
+I protest----
+
+                             LINCOLN
+
+It's no use--I know the process of your mind--I can see the wheels go
+round inside! You tell me that the star of Grant has set in a welter of
+blood before Lee's army. I do not believe it. I know that miles of
+hospital barracks are the witnesses of our agony. I know that every
+city, town and village is in mourning. From these stricken homes there
+has arisen a storm of protest against the new leader of the army. The
+word butcher is bandied from lip to lip. They tell me that Grant is
+merely a bulldog fighter--that he can win only as long as thousands are
+poured into his ranks to take the place of the dead--They tell me that
+he has no genius, no strategy, no skill. My reply to this is simple but
+unanswerable. We must fight to win. Grant is the ablest general we have
+developed. His losses are appalling--but the struggle is on now to the
+bitter end! Our resources are exhaustless. The South cannot replace
+_her_ fallen soldiers--and therefore _her_ losses are fatal! If we
+continue to fight, five millions cannot whip twenty millions--the end
+is certain--and we're now locked in the last death grapple
+before--VICTORY!
+
+                             STEVENS
+
+It's a waste of time to talk----!
+
+                             LINCOLN
+
+I've thought so from the first, but I've tried to be polite----
+
+                             STEVENS
+
+    [_Trying to go._]
+
+Good day, sir----!
+
+                             LINCOLN
+
+    [_Cordially._]
+
+Good day, Stevens----
+
+    [_Pauses._]
+
+You know this meeting reminds me of what happened in Illinois once----
+
+                             STEVENS
+
+    [_Throwing up his hands in anger._]
+
+I won't hear it, sir! You and your stories are sending this country to
+hell--it's not more than a mile from there now!
+
+                             LINCOLN
+
+I believe it _is_ just a mile from here to the Capitol where you
+sit!
+
+                             STEVENS
+
+    [_Going in rage._]
+
+Damnation!
+
+    [STEVENS _goes muttering furiously._]
+
+                             RAYMOND
+
+You will consider our request, Mr. President?
+
+                             LINCOLN
+
+Raymond, this is the most brutal insult ever offered to a man in my
+position in the history of this country. I'm going to waive the insult
+and give your request my earnest thought. If I can save the
+Union--that's the only question--that's the only question!
+
+                             RAYMOND
+
+You will give us your answer to-day?
+
+                             LINCOLN
+
+    [_Firmly._]
+
+No. I must have time to think. As I've listened to you, the conviction
+grows on me that the life of the Union _may_ be bound with mine now,
+and I'm not going to give up--_without a fight_.
+
+                             RAYMOND
+
+    [_Brusquely._]
+
+We cannot leave Washington _without your answer_, Mr. President.
+
+                             LINCOLN
+
+You'll get it in due time.
+
+                             RAYMOND
+
+The time is short----
+
+                             LINCOLN
+
+It may be long enough yet, to save the Nation----
+
+                             RAYMOND
+
+    [_Firmly._]
+
+The Committee _must_ take definite action before we leave--we will give
+you ten days to decide----
+
+                             LINCOLN
+
+I understand. Good day, gentlemen!
+
+                             ALL
+
+    [_Bowing out._]
+
+Good day, Mr. President.
+
+    [LINCOLN _stands erect, with_ NICOLAY _watching them go in silence.
+    When the last man is gone, he turns to_ NICOLAY.]
+
+                             LINCOLN
+
+It's infamous, John! Infamous!
+
+    [MRS. LINCOLN _enters hurriedly._]
+
+Don't tell her the nasty things old Thad said to me. It will hurt her.
+
+                             NICOLAY
+
+Of course not.
+
+                             MRS. LINCOLN
+
+    [_Tensely._]
+
+What is it, Father--what did they say?
+
+    [_He pauses and she presses him tremblingly._]
+
+What did they say? What did they say?
+
+                             LINCOLN
+
+    [_With dreamy look._]
+
+They told me in plain English that I am the most unpopular man in the
+United States--that my conduct of the war is a series of blunders, my
+administration a failure!
+
+                             MRS. LINCOLN
+
+    [_Relieved._]
+
+Oh!--is _that_ all!
+
+                             LINCOLN
+
+What more----?
+
+                             MRS. LINCOLN
+
+I thought they had something important to tell you----
+
+                             LINCOLN
+
+    [_Laughs._]
+
+Oh!----
+
+                             MRS. LINCOLN
+
+That is of no importance, because it's a lie----
+
+                             LINCOLN
+
+But, if they believe it, and millions of people believe it----
+
+                             MRS. LINCOLN
+
+Well, they won't. I've something important to ask of you--Betty
+Winter's in my room and wants to bring her lover here to see you alone
+for an hour to-night----
+
+                             LINCOLN
+
+I'll see Miss Betty Winter any time--she is my good friend--make it
+nine o'clock.
+
+                             MRS. LINCOLN
+
+    [_Going._]
+
+At nine--don't forget now!
+
+                             LINCOLN
+
+I'll not----
+
+    [MRS. LINCOLN _exits._]
+
+John, is General McClellan at home?
+
+                             NICOLAY
+
+I saw him to-day, sir.
+
+                             LINCOLN
+
+Go to his house immediately and tell him I want to see him here at
+eight o'clock to-night. Say that it's a matter of the gravest
+importance--both to him and to the country--he can't refuse.
+
+                             NICOLAY
+
+Yes, sir.
+
+                             LINCOLN
+
+Say to General McClellan that I would come to him but for the fact that
+it would attract attention which I wish to avoid. It will be the best
+for both that this meeting should not be known. Ask him to come in a
+closed carriage. Assure him that you will meet him at the door and he
+will see no one but me----
+
+                             NICOLAY
+
+You can't take me into your confidence, Chief?
+
+                             LINCOLN
+
+    [_Pauses._]
+
+Partly--I'm going to put McClellan to the supreme test, John. If he
+will make me one pledge on the Copperhead issue which I will ask of
+him, I'll name for this Committee a candidate they're not looking
+for--I'll give them the surprise of their life--so help me God!
+
+                             NICOLAY
+
+I don't think the General will give that pledge, sir.
+
+                             LINCOLN
+
+    [_Gazing upward and folding his arms._]
+
+I wonder!--I wonder if he will!
+
+    [NICOLAY _exits._]
+
+I wonder if he will----
+
+
+CURTAIN
+
+
+ACT II
+
+
+SET SCENE: _The same as Act I at a quarter to eight the same evening_.
+
+AT RISE: EDWARD, _the old Doorman, is straightening the furniture in
+the room. He clumsily clears the floor of a litter of letters and
+places them in the corner with the unopened bag. He draws the heavy
+draperies of the windows and adjusts them so that no ray of light can
+reach the outside._ MRS. LINCOLN _enters and watches him fix the
+draperies._
+
+
+                             MRS. LINCOLN
+
+    [_Speaking suddenly._]
+
+Edward----!
+
+                             EDWARD
+
+    [_Jumping in fright._]
+
+Yes, Madam!
+
+                             MRS. LINCOLN
+
+What on earth are you doing in here----?
+
+                             EDWARD
+
+    [_In terror of_ MRS. LINCOLN.]
+
+Just--er drawin'--er the curtains, Madam.
+
+                             MRS. LINCOLN
+
+    [_Sternly._]
+
+These curtains haven't been drawn in a year----
+
+                             EDWARD
+
+    [_Stammering._]
+
+I-don't-think-they-have-either----
+
+                             MRS. LINCOLN
+
+You know they haven't!
+
+                             EDWARD
+
+    [_Gulping wind._]
+
+Yes'm----
+
+                             MRS. LINCOLN
+
+Who told you to draw them?
+
+                             EDWARD
+
+Colonel Nicolay!
+
+                             MRS. LINCOLN
+
+Where is he?
+
+                             EDWARD
+
+Down-stairs, on the door.
+
+                             MRS. LINCOLN
+
+In your place?
+
+                             EDWARD
+
+Yes'm----
+
+                             MRS. LINCOLN
+
+While you're up here acting as house maid?
+
+                             EDWARD
+
+    [_Embarrassed._]
+
+Well, so it seems, Madam----
+
+                             MRS. LINCOLN
+
+    [_Sternly._]
+
+What does this mean?
+
+                             EDWARD
+
+I do not know, Madam----
+
+                             MRS. LINCOLN
+
+    [_Sarcastically._]
+
+And you haven't the slightest idea--I suppose?
+
+                             EDWARD
+
+Not the slightest. My experience as Doorman of the White House has
+taught me that my first duty is to obey the orders of my Chief----
+
+                             MRS. LINCOLN
+
+Mr. Lincoln asked you to remain on duty here to-night?
+
+                             EDWARD
+
+    [_Bows._]
+
+Asked me as a particular personal favor to him, that I remain on duty
+until eight o'clock and dismiss all the other White House attendants----
+
+                             MRS. LINCOLN
+
+The _guard_ has been dismissed!
+
+                             EDWARD
+
+Yes, Madam, both of them--inside and out.
+
+                             MRS. LINCOLN
+
+Ask Colonel Nicolay to come here----
+
+                             EDWARD
+
+    [_Hesitates._]
+
+Yes'm----
+
+                             MRS. LINCOLN
+
+    [_Sharply._]
+
+Quick!
+
+                             EDWARD
+
+    [_Jumps._]
+
+Right away, Madam!
+
+    [MRS. LINCOLN _quickly examines the President's desk, looking for a
+    memorandum of his appointments--she finds a pad and reads._]
+
+                             MRS. LINCOLN
+
+At eight o'clock ---- ----
+
+At nine o'clock--Miss Betty Winter----
+
+    [NICOLAY _enters hurriedly._]
+
+                             NICOLAY
+
+What is it, Madam?
+
+                             MRS. LINCOLN
+
+Who has this mysterious appointment with the President at eight
+o'clock--the name is blank.
+
+                             NICOLAY
+
+I am forbidden to discuss it with any one.
+
+                             MRS. LINCOLN
+
+    [_Angrily._]
+
+Indeed!
+
+                             NICOLAY
+
+I am sorry.
+
+                             MRS. LINCOLN
+
+Do you know who is coming?
+
+                             NICOLAY
+
+Yes----
+
+                             MRS. LINCOLN
+
+Do you know the subject for discussion at this meeting?
+
+                             NICOLAY
+
+I wish to God I did----
+
+    [LINCOLN _enters and glances at his wife in surprise._]
+
+                             LINCOLN
+
+Will you go back to the door, John----
+
+                             NICOLAY
+
+At once--sir----
+
+                             LINCOLN
+
+And tell Edward I'm much obliged to him for staying, but he can go
+now----
+
+                             NICOLAY
+
+Yes, sir----
+
+                             LINCOLN
+
+See that he goes before our visitor arrives. I have asked him to say
+nothing about this appointment.
+
+                             NICOLAY
+
+You can trust him implicitly, sir----
+
+    [NICOLAY _exits._]
+
+                             MRS. LINCOLN
+
+But, you can't trust your wife, to-night, it seems----
+
+                             LINCOLN
+
+    [_Whimsically._]
+
+Well, you know you're a woman, Mother----
+
+                             MRS. LINCOLN
+
+    [_Angrily._]
+
+Thank God----
+
+                             LINCOLN
+
+Amen! So say I!
+
+                             MRS. LINCOLN
+
+You're _afraid_ to tell me--who this man is----?
+
+                             LINCOLN
+
+I may tell you to-morrow----
+
+                             MRS. LINCOLN
+
+When--you've-made-some-fatal-blunder----
+
+                             LINCOLN
+
+I'll make no mistake this time----
+
+                             MRS. LINCOLN
+
+Then why are you afraid of my woman's intuition----
+
+                             LINCOLN
+
+    [_Smiling._]
+
+I'm not afraid of your _intuition_, Mother----
+
+                             MRS. LINCOLN
+
+Thank you.
+
+                             LINCOLN
+
+I didn't say it!----
+
+    [_Laughs._]
+
+--But you know you do _talk_ too much sometimes!
+
+                             MRS. LINCOLN
+
+    [_Angrily._]
+
+And I'm going to say something to you now. I thought this morning that
+you would treat those scoundrels with the contempt they deserve when
+they dared to ask you to sacrifice yourself and the cause of the Union
+to the ambitions of some traitor behind them.
+
+                             LINCOLN
+
+No! No! They're honest in what they say----
+
+                             MRS. LINCOLN
+
+    [_Furious._]
+
+You're too good and simple for this world! Don't you know that some
+schemer is behind all this----?
+
+                             LINCOLN
+
+Maybe---- It's not a crime, Mother, for a man to aspire to high office,
+if the bee's in his bonnet. You know I've felt it tickle me lots of
+times----
+
+                             MRS. LINCOLN
+
+Don't--don't--don't say such foolish things. You need a guardian. You
+kept three men in your Cabinet who used their position to try to climb
+into the Presidency over your head. And you didn't kick them out.
+
+                             LINCOLN
+
+The country needed them.
+
+                             MRS. LINCOLN
+
+    [_With earnest dignity._]
+
+The country needs you--you are the man, and the only man who has the
+simple common sense to save this Union first, and settle all other
+questions afterwards----
+
+                             LINCOLN
+
+That may be so--too----
+
+                             MRS. LINCOLN
+
+Tell me one thing--is the man who has this appointment at eight the
+traitor whom Raymond's Committee is trying to put in your place----?
+
+                             LINCOLN
+
+No! Yet--if there _is_ anywhere a better man who can render the
+country a greater service than I can, he _ought_ to be in my
+place----
+
+                             MRS. LINCOLN
+
+But don't you see that it isn't really the man who can give the greater
+service who will win in such a treacherous fight? It's the liar and the
+hypocrite who may win.
+
+                             LINCOLN
+
+I have no right in such an hour to think of my own ambitions. My
+personal desire for a second term is the biggest thing in my life, God
+knows----
+
+    [_He pauses as his voice breaks--he struggles a moment and lifts
+    his hand as if to throw off an obsession with a determined smile._]
+
+And yet, my personal desire is a petty thing! My duty to-day is the
+_biggest_ thing in the world!
+
+                             MRS. LINCOLN
+
+You won't take my advice and send these men about their business?
+
+                             LINCOLN
+
+Mary, I've got to fight this thing out alone, with myself and God----
+
+                             MRS. LINCOLN
+
+I sometimes think, Father, that you're the stubbornest man the Lord
+ever made!
+
+                             LINCOLN
+
+I've got to be--to do this job----
+
+    [MRS. LINCOLN _exits._]
+
+    [LINCOLN _paces the floor with his arms locked behind him in tense
+    thought._]
+
+    [NICOLAY _enters._]
+
+                             NICOLAY
+
+The carriage is approaching, sir.
+
+                             LINCOLN
+
+The coast is clear?
+
+                             NICOLAY
+
+Yes. Edward has gone----
+
+    [_He pauses._]
+
+You, of course, realize, Chief, the importance of a cool head in
+dealing with McClellan----
+
+                             LINCOLN
+
+I won't lose my temper, John.
+
+                             NICOLAY
+
+McClellan may lose his----
+
+                             LINCOLN
+
+I'll watch out----
+
+    [_Looking over his desk._]
+
+That report of Baker's on the Copperhead Societies----
+
+                             NICOLAY
+
+    [_Pointing._]
+
+Under that paper weight, sir----
+
+                             LINCOLN
+
+Oh, yes, I see----
+
+    [_Picks up report, glances at it, and lays it back on his desk._]
+
+I'm ready--bring him in. See that we are not interrupted, and when he
+goes, I'll not need you any more to-night. I'll let in the young people
+myself, at nine o'clock.
+
+                             NICOLAY
+
+Yes, sir.
+
+    [NICOLAY _exits and_ LINCOLN _returns to his desk and writes._]
+
+    [NICOLAY _enters with_ GENERAL MCCLELLAN. _The General is
+    thirty-eight years old, dressed in a uniform of immaculate cut,
+    flashing with gold. While his figure is short and stocky, in
+    striking contrast to the President, he is a man of commanding
+    appearance, and gives one the impression of a born leader of men.
+    He enters with quick military precision and salutes with studied
+    formality the President as his superior officer. The President
+    answers his salute, as_ NICOLAY _exits._]
+
+                             LINCOLN
+
+I suggest, General McClellan, that we forget for the moment that I am
+the Commander in Chief of the Army and Navy--and we have a little heart
+to heart talk in a perfectly informal way----
+
+                             McCLELLAN
+
+    [_Stiffening._]
+
+May I enquire, Mr. President, at once, to what I owe this extraordinary
+summons?
+
+                             LINCOLN
+
+    [_Cordially._]
+
+Will you be seated, General----?
+
+                             McCLELLAN
+
+Thank you, I prefer to stand.
+
+    [_Angrily._]
+
+What right have you to send for me or ask anything, after the foul
+injustice with which you have treated me as Commanding General----
+
+                             LINCOLN
+
+    [_Interrupting._]
+
+Just a moment--I have not treated you with injustice--I have treated
+you with more than justice. I have treated you with the generous faith
+and love of a father for a wayward boy----
+
+                             McCLELLAN
+
+Really!
+
+                             LINCOLN
+
+I have. When I appointed you to the chief command of our Army, you were
+but thirty-four years old. I did it against the bitterest opposition of
+my party leaders. They told me you were a pro-Slavery Democrat--a
+political meddler, and that you were opposed to me on every issue
+before the people. I refused to listen. I asked but one question: Is
+McClellan the man to whip the new army into a mighty fighting machine,
+and hurl it against the Confederacy? I said to them: "I don't care what
+his religion is, or his politics may be. The question is, not whether I
+shall save the Union--but that the Union shall be saved. My future and
+the future of my party can take care of themselves"--and I appointed
+you.
+
+                             McCLELLAN
+
+And forced me to march against Richmond before I was ready!
+
+                             LINCOLN
+
+I ordered you to move, because it was necessary to forestall a great
+tragedy. Your army of 180,000 men had gone into winter quarters around
+a glittering camp over which a young Napoleon presided. Fools about you
+daily advised that you proclaim the end of the Republic and establish
+yourself as Dictator. You do not deny this----?
+
+                             McCLELLAN
+
+No. The fact is well known. Besides, Stanton, your Secretary of War,
+was at that time my attorney, and he knew----
+
+                             LINCOLN
+
+Exactly. I took the bull by the horns and ordered your grand army to
+move on Richmond. When you failed and retreated, I refused to dismiss
+you against the fierce protest of my Cabinet. I left you in command of
+half our men and appointed General Pope to lead the other half.
+
+                             McCLELLAN
+
+    [_Sneeringly._]
+
+And he led them to overwhelming disaster at the second battle of
+Manassas----
+
+                             LINCOLN
+
+    [_Quickly._]
+
+For which disaster, you must share the blame. You were ordered to join
+Pope. You didn't move. Pope was broken by a deliberate design, that was
+little short of treason, sir. But instead of agreeing to the demand for
+your trial by court martial, I did the most unpopular act of my life. I
+reappointed you to the chief command of the whole army--defied public
+opinion, and faced a storm of abuse in my party councils.
+
+                             McCLELLAN
+
+And when I led that superb, reorganized army to our first victory at
+Antietam, you removed me from my command before I could win my
+campaign.
+
+                             LINCOLN
+
+I removed you from your command because, after you had cut Lee's army
+to pieces, and he had but 23,000 men left, and you had 75,000--three to
+one--you lay down on your arms and allowed Lee to escape across the
+river without a blow--while Jeb. Stuart with his cavalry once more
+insulted you by riding around your army. Come now, can't we leave to
+posterity to settle the merits of our controversy over the command of
+armies? Can't you believe me to-day, when I tell you with God as my
+witness, that I have never allowed a personal motive to enter into a
+single appointment or removal which I have made----?
+
+                             McCLELLAN
+
+I cannot believe it----
+
+                             LINCOLN
+
+In spite of the fact that when I reappointed you to the chief command
+of the army after the disaster to Pope, _you_ thought that my
+messenger was an officer with a warrant for your arrest! You still say
+no----?
+
+                             McCLELLAN
+
+I still say no--you _had_ to do it--and you know that you
+_had_ to reappoint me.
+
+                             LINCOLN
+
+Well, I'll not pretend that I didn't understand the seriousness of that
+hour. The Army _was_ behind you, to a man! I sounded the officers,
+I sounded the men. They were against me and with you. If the leaders
+had dared risk their necks on a revolution, they might have won and set
+up a Dictatorship!
+
+                             McCLELLAN
+
+Just so!
+
+                             LINCOLN
+
+This power over men which you possess, General McClellan, is a
+marvelous thing. It is a dangerous force. It can be used to create a
+Nation, or destroy one. Because you held this power over your men, I
+honestly believed you were the ablest General in sight, and I called
+you back to your high position.
+
+                             McCLELLAN
+
+    [_With a smile._]
+
+Very kind!
+
+                             LINCOLN
+
+You had to win or lose at Antietam. If you had won I was vindicated,
+and your success would have been mine! But when Lee's army escaped, you
+lost the power over the imagination of your men, the threat of a
+Dictatorship had passed--the supremacy of the civil government was
+restored, and I removed you from command----
+
+                             McCLELLAN
+
+    [_Angrily._]
+
+I repeat that your act was one of foul injustice!
+
+                             LINCOLN
+
+    [_Cordially._]
+
+All right then. I've given you my side. Granted for the sake of
+argument that I have treated you unfairly, I'm going to put you to a
+supreme test. I am going to propose, on a certain condition, to the man
+whom I have wronged, an amazing thing----
+
+                             McCLELLAN
+
+Hence the secrecy with which I am summoned!
+
+                             LINCOLN
+
+Yes. I have just written out on this sheet of paper----
+
+    [_Takes up the sheet._]
+
+and addressed to Henry Raymond, Chairman of our National Committee, my
+resignation as a Candidate for the Presidency for a second term--and I
+will give it to him to-night, if you will agree to take my place and
+_save_ the Union?
+
+                             McCLELLAN
+
+    [_Overwhelmed with excitement._]
+
+What-can-you-mean----?
+
+                             LINCOLN
+
+Exactly what I've said.
+
+                             McCLELLAN
+
+    [_Paces the floor trembling._]
+
+And your conditions----?
+
+                             LINCOLN
+
+Very simple. Agree to preside to-morrow night at a great Democratic
+Union Mass Meeting in New York, and boldly put yourself at the head of
+that wing of your party which stands for the preservation of the
+Union----
+
+                             McCLELLAN
+
+And you----?
+
+                             LINCOLN
+
+I will withdraw from the race, secure your endorsement, or prevent my
+party from naming a successor, take the stump for you and guarantee
+your election.
+
+                             McCLELLAN
+
+    [_Studies_ LINCOLN _a moment with suspicion._]
+
+You are in earnest----?
+
+                             LINCOLN
+
+I was never more so.
+
+                             McCLELLAN
+
+And there is no string to this offer?
+
+                             LINCOLN
+
+On my word of honor----
+
+    [_Dreamily._]
+
+It is needless for me to say that I came into this office with high
+ambitions to serve my country. My dream of glory may be at an end and I
+have left only the agony and the tears----
+
+    [_He pauses, breathes deeply, and struggles with his emotions,
+    recovers himself, and goes on wistfully._]
+
+I did want a chance to stay here for another term to see the sun shine
+again, to heal my country's wounds, and show all the people, North,
+South, East and West, that I love them. But I can't risk the chances of
+this election--if you and I can come to a perfect understanding, and
+you agree to take my place upon the solemn pledge to save the Union
+without division. I've made up my mind to this, because I have on my
+desk here a report from our Secret Service----
+
+    [_Pauses and picks up the report._]
+
+showing that the Copperhead Societies are of your party and are
+thoroughly organized in every state of the North--that they demand an
+immediate peace and will accept a division of the Union----
+
+                             McCLELLAN
+
+    [_Interrupting._]
+
+What has this to do with me, may I ask----?
+
+                             LINCOLN
+
+    [_Evenly._]
+
+This report shows that they propose to end the war on the night of the
+election by a revolutionary uprising which will result in the
+recognition of the Confederacy. I am now being urged to arrest their
+leaders.
+
+    [_He pauses and watches_ McCLELLAN _closely._]
+
+I shall answer no. Let sleeping dogs lie. One revolution at a time. If
+the Union candidate wins the election, they won't dare to rise. If he
+loses, it's all over anyhow--and it makes no difference what they do.
+
+                             McCLELLAN
+
+A sensible decision----
+
+                             LINCOLN
+
+I'm glad you agree with it. Now the Democratic Convention meets in
+Chicago next week--you have no opposition. Your nomination will be
+unanimous. The question is,--what will they do on the issue of the war?
+The leaders of the Copperhead Societies are now in touch with the rebel
+government in Richmond----
+
+                             McCLELLAN
+
+That's a large statement, sir--even about Copperhead Societies----
+
+                             LINCOLN
+
+I have the _proofs_ in this document----
+
+    [_Touches_ BAKER'S _report._]
+
+My fear is, that they may get complete control of your Convention----
+
+                             McCLELLAN
+
+    [_Angrily._]
+
+Indeed----?
+
+                             LINCOLN
+
+I have heard the ugly rumor that they are counting on you----
+
+                             McCLELLAN
+
+    [_Advancing._]
+
+Stop----!
+
+                             LINCOLN
+
+    [_Going to meet_ McCLELLAN _and holding his gaze firmly._]
+
+Well----?
+
+                             McCLELLAN
+
+No man can couple the word Treason with my name, sir----!
+
+                             LINCOLN
+
+Have I done so----?
+
+                             McCLELLAN
+
+You are insinuating it!
+
+                             LINCOLN
+
+_Am_ I?
+
+                             McCLELLAN
+
+I demand a retraction!
+
+                             LINCOLN
+
+    [_Smiling._]
+
+Then, I apologize for my careless expressions. I am glad to see you
+meet the ugly subject in this way! I have never believed you a traitor
+to the Union. That's why I sent for you to-night. Will you denounce
+these men publicly at a Union Mass Meeting, and let me resign and take
+the stump for you----?
+
+                             McCLELLAN
+
+    [_Hesitates._]
+
+I am sure of this election without your help, sir!
+
+                             LINCOLN
+
+You can't be----
+
+                             McCLELLAN
+
+A straw vote was taken yesterday in the Carver Hospital. The wounded
+soldiers gave me three votes to your one. Straws show which way the
+wind is blowing. I know that your party is divided--that John C.
+Fremont has split your organization, and is daily gaining ground--that
+unless _he_ retires, _you_ can't be elected! Your party is in
+a hopeless panic--and my election is conceded. Yet, you ask me allow
+you to dictate the policy of my administration!
+
+                             LINCOLN
+
+    [_Evenly and pressingly._]
+
+Will you denounce these conspirators within your party----?
+
+                             McCLELLAN
+
+No----! When I need your advice on any public utterance, I'll let you
+know.
+
+                             LINCOLN
+
+Will you preside over this Union Meeting?
+
+                             McCLELLAN
+
+    [_Firmly._]
+
+Never! I'll do my best to save my country, but in my own way without
+suggestion or assistance from you----
+
+                             LINCOLN
+
+    [_With firm conviction._]
+
+Then, sir, you _are_ committed by your pledges to the possible division
+of this Union! I suspected it--but I had hoped for the best--good
+night!
+
+    [_The General bows stiffly and leaves the President standing in
+    sorrowful silence, his deep eyes staring into space, seeing nothing
+    as_ NICOLAY _enters._]
+
+    [_Pausing, and looking up._]
+
+I thought you'd gone----?
+
+                             NICOLAY
+
+I hope there may be something else I can do for you, sir----?
+
+                             LINCOLN
+
+Yes--there is----
+
+                             NICOLAY
+
+What?
+
+                             LINCOLN
+
+Bear witness with me to this, the blackest hour of my life--I have
+touched the depths of despair----
+
+    [_Springs to his feet._]
+
+But I can't give up--there's too much at stake!
+
+                             NICOLAY
+
+Corruption, intrigue and malice are doing their work, Chief--but you
+can't be beaten! Unless _you should_ give up!
+
+                             LINCOLN
+
+Well! I won't give up!
+
+                             NICOLAY
+
+McClellan refused the pledge you asked?
+
+                             LINCOLN
+
+Yes. He is bound hand and foot to the Copperhead leaders who will
+control his convention----
+
+                             NICOLAY
+
+I thought so----
+
+                             LINCOLN
+
+John, if I could win one man out of the inner councils of the
+Copperhead orders--one man who really loves his country----
+
+                             NICOLAY
+
+Can a Copperhead love his country----?
+
+                             LINCOLN
+
+Why not----? A rattlesnake might love his own fence corner! There are
+plenty of honest misguided men among them. I have been studying Baker's
+report this afternoon---- If I could just get hold of _one_
+Copperhead who knows the signs and passwords of their inner council,
+I've worked out A PLAN THAT CAN WIN THIS FIGHT!
+
+                             NICOLAY
+
+    [_Suddenly._]
+
+The very man may be on the way here at this moment!
+
+                             LINCOLN
+
+    [_Eagerly._]
+
+What's that----?
+
+                             NICOLAY
+
+    [_Thinking._]
+
+Miss Winter is due here with her lover--a young Captain of Grant's
+Army----
+
+    [_Pauses._]
+
+                             LINCOLN
+
+Well----?
+
+                             NICOLAY
+
+    [_Slowly._]
+
+In view of the attempts to take your life--I made some inquiries to-day
+about him--I knew the White House would be without guards to-night----
+
+    [_Pauses._]
+
+                             LINCOLN
+
+Yes--yes--go on----! What about him?
+
+                             NICOLAY
+
+He was on McClellan's staff at one time----
+
+                             LINCOLN
+
+That's promising----!
+
+                             NICOLAY
+
+He's a McClellan man--then----
+
+                             LINCOLN
+
+Beyond a doubt----
+
+                             NICOLAY
+
+In the hospital the past two months he has heard a lot of bitter
+talk----
+
+                             LINCOLN
+
+    [_Quickly._]
+
+And may have joined The Knights of the Golden Circle----!
+
+                             NICOLAY
+
+It's almost a certainty----
+
+                             LINCOLN
+
+Of course. Their infernal agents haunt our hospitals daily, and pour
+their poison into every open wound----
+
+                             NICOLAY
+
+Prove to this boy to-night that these men are liars----
+
+                             LINCOLN
+
+If he'll listen----
+
+                             NICOLAY
+
+He's got to listen! He comes to ask of you a great favor----
+
+                             LINCOLN
+
+I wonder what?
+
+                             NICOLAY
+
+I couldn't find out. But you can use the opportunity to gain his
+confidence. He is engaged to a girl who is Mrs. Lincoln's intimate
+friend--a girl who admires and trusts you. You can _win him_,
+Chief, if you only try!
+
+                             LINCOLN
+
+    [_With excited emphasis._]
+
+Don't you worry--I'm going to try----!
+
+    [_Pauses._]
+
+--You wait and show them in. I'll report to Mother my talk with
+McClellan. She'll be uneasy about it. I'll be back in a minute----
+
+                             NICOLAY
+
+All right, sir.
+
+    [LINCOLN _exits._]
+
+    [NICOLAY _watches him go with deep sympathy, shaking his head as_
+    BETTY _and_ VAUGHAN _enter._]
+
+Oh, Miss Winter----
+
+                             BETTY
+
+Captain Vaughan,--Colonel Nicolay----
+
+                             NICOLAY
+
+    [_Studying_ VAUGHAN.]
+
+Pleased to meet you, Captain--the President will be back in a moment.
+He has just stepped in to speak to Mrs. Lincoln. He is expecting
+you--make yourselves at home----
+
+                             BETTY
+
+Thank you, Colonel----
+
+    [NICOLAY _exits._]
+
+What's the matter, dear----?
+
+                             VAUGHAN
+
+Nothing--nothing----
+
+                             BETTY
+
+But your arm is trembling---- I didn't realize you're so weak--I keep
+forgetting that you're just out of the hospital----
+
+                             VAUGHAN
+
+Oh--I'm all right----
+
+                             BETTY
+
+I'm afraid of the strain of this interview----!
+
+    [_Pauses._]
+
+--You've never told me, dear--for what _was_ your father imprisoned?
+
+                             VAUGHAN
+
+    [_Deliberately._]
+
+He made a speech against the war in our town in Missouri and printed it
+in a pamphlet----
+
+                             BETTY
+
+Oh--for making and circulating seditious writing----
+
+                             VAUGHAN
+
+Technically, yes--in reality for exercising the right of free speech on
+a policy of the government----
+
+                             BETTY
+
+It may be very serious----
+
+    [_Pauses._]
+
+--I've an idea----! Let me stay and help you----
+
+                             VAUGHAN
+
+But I may have something to say that a girl's ears should not hear----
+
+                             BETTY
+
+Please don't say it! You differ with the President in politics. You
+must say nothing to offend him----
+
+                             VAUGHAN
+
+I'll not----! I think I love my country as well as I love my father----
+
+                             BETTY
+
+Let me stay!
+
+                             VAUGHAN
+
+You mustn't--I don't need a chaperone----
+
+                             BETTY
+
+But you may need a friend----
+
+                             VAUGHAN
+
+    [_Bitterly._]
+
+He does wield a terrible power, doesn't he?
+
+                             BETTY
+
+Yes--with the tenderness and love of a father----
+
+                             VAUGHAN
+
+    [_Lightly._]
+
+All right, dear, run along now, see Mrs. Lincoln and get the President
+to come----
+
+                             BETTY
+
+Can't I stay and help you----?
+
+                             VAUGHAN
+
+No, no----
+
+                             BETTY
+
+It means so much to me now----!
+
+    [_She nestles in his arms and_ VAUGHAN _kisses her._]
+
+                             VAUGHAN
+
+I'll know how to plead my cause----
+
+                             BETTY
+
+All right--good luck. I'm sure you'll win----
+
+    [BETTY _exits._]
+
+    [VAUGHAN _walks to the door leading to the Lincoln Apartments, and
+    listens a moment, and walks to the President's desk. His eye rests
+    on the worn copy of the Bible which_ LINCOLN _always kept on his
+    desk. He gazes at the thumbed pages in amazement._]
+
+                             VAUGHAN
+
+The Bible--My God!
+
+    [_Turns its leaves._]
+
+And every page thumbed----!
+
+    [_He continues to turn the leaves of the Bible._]
+
+    [_The sound of_ LINCOLN'S _voice is heard outside talking to_ MRS.
+    LINCOLN.]
+
+                             LINCOLN
+
+    [_Outside._]
+
+Go back, and talk to Miss Betty!
+
+    [VAUGHAN _quickly places the Bible back on his desk and takes his
+    stand near the door to the hall, as if he had just entered._
+    LINCOLN _enters from the other door, still talking to his wife who
+    follows him._]
+
+Don't worry, Mother! Who cares for a few old dresses more or less in
+these times! But if I'd known they cost that much, I'd taken a second
+look at them and tried to get my money's worth!
+
+                             MRS. LINCOLN
+
+You're sure it won't influence your decision?
+
+                             LINCOLN
+
+Not a bit! If we stay here--it'll be all right. We can skimp a little.
+If we don't stay--the old sign still swings on the door in
+Springfield--Billy Herndon's waiting for me and the law business will
+be better than ever. Go back now, and don't worry! It's my business to
+do _all_ the worrying----
+
+    [LINCOLN _closes the door after she goes, and comes down toward the
+    desk, lifts his haggard eyes in a dazed way and looks about the
+    room. Anxiety and suffering again mark his rugged face. He sees_
+    VAUGHAN, _and at once throws off the spell of his troubles,
+    advances to meet him and takes his hand._]
+
+I'm glad to see you, my boy--Will you pull up a chair?
+
+    [LINCOLN _drops wearily into his chair and his voice has a far-away
+    dreamy expression in its tones while he studies_ VAUGHAN
+    _carefully._]
+
+And what can I do for you?
+
+                             VAUGHAN
+
+My name is Vaughan--the elder son of Dr. Richard Vaughan of Palmyra,
+Missouri----
+
+                             LINCOLN
+
+    [_Thoughtfully._]
+
+Vaughan--Richard Vaughan--I've heard that name--But you're _one_ of our
+boys fighting with Grant's army?
+
+                             VAUGHAN
+
+Yes----
+
+                             LINCOLN
+
+    [_Looking him over._]
+
+You've been very ill, I see--wounded of course?
+
+                             VAUGHAN
+
+Yes----
+
+                             LINCOLN
+
+    [_Rises, takes_ VAUGHAN'S _hands in both his, and presses it._]
+
+There's nothing I won't do for one of our wounded boys--if I can----
+
+                             VAUGHAN
+
+Thank you----
+
+                             LINCOLN
+
+What is it?
+
+                             VAUGHAN
+
+    [_With cold precision._]
+
+My mother writes me that my father has been arrested without warrant,
+is held in prison without bail, and denied the right of trial----
+
+    [_He pauses, trembling with excitement._]
+
+                             LINCOLN
+
+Go on--my boy----
+
+                             VAUGHAN
+
+I have come to ask for justice----
+
+                             LINCOLN
+
+He shall have it----
+
+                             VAUGHAN
+
+I ask that he be confronted by his accusers in open court and given a
+fair trial----
+
+                             LINCOLN
+
+    [_Interrupting._]
+
+For what was he arrested?
+
+                             VAUGHAN
+
+For exercising the right of free speech. In a public address, he
+denounced the war----
+
+                             LINCOLN
+
+Oh!--And his address was printed?
+
+    [LINCOLN _picks up the little booklet and looks again at the title
+    page and then at_ VAUGHAN.]
+
+                             VAUGHAN
+
+He had as much right to print as to speak it----
+
+                             LINCOLN
+
+No, he hadn't----
+
+    [_Pauses and looks at_ VAUGHAN.]
+
+You say your father's name is Richard Vaughan----?
+
+                             VAUGHAN
+
+Yes--Dr. Richard Vaughan--and I ask for him a fair trial confronted by
+his accusers--I ask for justice--will you grant him this trial----?
+
+    [LINCOLN _lays the pamphlet down on his desk and rises._]
+
+                             LINCOLN
+
+    [_Shakes his head._]
+
+I cannot----! I cannot do it!
+
+    [_He folds his arms behind his back and paces the floor,
+    unconscious of the glitter of murder in_ VAUGHAN'S _eyes_. VAUGHAN
+    _slowly draws his revolver and is about to lift to fire, when_
+    LINCOLN _suddenly turns and speaks._]
+
+    [_With sharp emphasis._]
+
+That little pamphlet, sir, found its way into the ranks and caused a
+number of soldiers to desert----
+
+                             VAUGHAN
+
+Who says this?
+
+                             LINCOLN
+
+I happen to know it!
+
+    [LINCOLN _pauses and shakes his head sorrowfully._]
+
+You see, my boy, your house is divided against itself--the symbol of
+our unhappy country. Of course, I didn't know of this particular case.
+Such things hurt me so, I refuse to know them unless I must. They tell
+me that Seward and Stanton have arrested without warrant and hold in
+jail more than thirty-five thousand men at this moment. I hope the
+number is exaggerated--still it may be so----
+
+                             VAUGHAN
+
+    [_Angrily._]
+
+It's true--I've learned it since my father's arrest!
+
+                             LINCOLN
+
+    [_Tenderly._]
+
+But, come now, my son, put yourself in my place! I'm here to save the
+Union for which you are fighting--for which you have poured out your
+blood. I've armed two million men and we are spending four millions a
+day, to fight the South for trying to secede. My opponents, taking
+advantage of our sorrow, harangue the people and elect hostile
+legislatures in the Northern states. They were about to pass ordinances
+of Secession and establish a Northwestern Confederacy! Shall I fight
+Secession in the South and merely argue with it here? I was compelled
+to suspend the civil law, arrest these men and hold them without bail
+or trial----
+
+                             VAUGHAN
+
+You _are_ using the naked power of an emperor then?
+
+                             LINCOLN
+
+    [_Shaking his head sadly._]
+
+I have been entrusted with that power for a brief term by the people. I
+am using it sorrowfully but firmly--and I am backed by the prayers of
+the mothers whose sons are dying for our cause--and the silent millions
+out there, whom I can't at this moment see--but whom I love and trust.
+
+                             VAUGHAN
+
+    [_With angry tears._]
+
+The Constitution of the Republic guarantees to every freeman the right
+to trial in open court, confronted by his accusers----
+
+                             LINCOLN
+
+    [_Passionately._]
+
+But we are fighting a war for the life of the Constitution itself! I
+did not begin it. Once begun it must be fought to the end and the
+Nation saved. We must prove now that among freemen there _can be_
+no successful appeal from the ballot to the bayonet. To preserve the
+Constitution of the Republic I must in this crisis strain some of its
+provisions----
+
+                             VAUGHAN
+
+    [_In hard tones._]
+
+And you will not interfere to give these accused men a trial?
+
+                             LINCOLN
+
+I dare not interfere! The civil law must be suspended for the
+moment--as the law of life is suspended while the surgeon cuts a cancer
+out of bleeding flesh! I cannot shoot one soldier for desertion if I
+allow the man to go free who causes him to desert----
+
+    [_He pauses, and puts his hands on_ VAUGHAN'S _shoulders._]
+
+Don't think, my son, that all the suffering of this war is not mine!
+Every shell from those guns finds _my_ heart. The tears of widows and
+orphans--all, the blue and the gray--are mine! For we are equally
+responsible for this war! When I came here from the West, I found a
+panic-stricken North, strangling with the poison of Secession. Our
+fathers had only _dreamed_ a Union--they never lived to see it. The
+North had threatened Secession for thirty years. Horace Greeley in his
+great paper on the day of my inauguration was telling the millions who
+hung on his word as the oracle from Heaven, that Secession was
+inevitable! "Therefore let our erring sisters of the South go!" was his
+daily cry. I could not have prevented this war, nor could Jefferson
+Davis. We are in the grip of mighty forces sweeping in from the
+centuries. We are fighting the battle of the ages----
+
+    [_He pauses again._]
+
+But our country's worth it, my boy, if we can only save it! Out of this
+agony will be born a united people. There has never been a democracy
+_in this world_ because there's never been one without the shadow of a
+slave. We must build a real Government of the people, by the people,
+for the people. It's not the question merely of four million black
+slaves. It's a question of the life of freemen yet unborn. I hear the
+tread of these coming millions. Their destiny is in your hands and
+mine. A mighty Union of free democratic states without a slave--the
+hope, refuge and inspiration of the world--a beacon light on the shores
+of time!
+
+    [_Pauses._]
+
+--There's but one tragedy, that can have no ray of light, and that is
+that this blood we are now pouring out shall have flowed in vain, and
+these brave men shall die for naught, that the old curse shall remain,
+the Union be broken into hostile sections and these battles must be
+fought again.
+
+    [_He pauses, breathes deeply, and lifts his figure as if to throw
+    off another nightmare and slips his arm around_ VAUGHAN.]
+
+My enemies call me a tyrant and usurper! I who came up here from a
+pioneer's cabin in the wilderness, out of rags and poverty----
+
+    [_Pauses._]
+
+--How well I remember when my mother looked at them and said--"This is
+nothing--it doesn't count here--it's what you feel--it's what you
+believe--it's what you see that counts----"
+
+    [_Struggles with his emotions._]
+
+Now I'm going to show you something, my son, and I'll let _you_ be
+the judge as to whether I'm a tyrant--
+
+    [_He takes up the booklet and hands it to_ VAUGHAN.]
+
+Read the title page.
+
+                             VAUGHAN
+
+    [_Reading in amazement._]
+
+"Why Should Brothers Fight?" By Dr. Richard Vaughan.
+
+                             LINCOLN
+
+That pamphlet was taken by his sister from the pocket of a poor
+ignorant boy, who was sentenced to be shot for desertion to-morrow at
+sunrise----
+
+                             VAUGHAN
+
+No! No!----
+
+                             LINCOLN
+
+I pardoned him this morning----
+
+    [VAUGHAN _sighs his relief._]
+
+Your father wrote and printed that poison, and has forfeited his life
+for that boy's act----
+
+                             VAUGHAN
+
+    [_Trembling._]
+
+I know you could order his execution----
+
+                             LINCOLN
+
+I said to-day that I'd hang such a man on a gallows forty cubits
+high--but now that I see you trembling----
+
+    [_He pauses._]
+
+I shall _not_ order his execution. I shall only hold him until the
+war is over, and then let him and all the others go----
+
+    [_Pauses._]
+
+Tyrant and usurper they call me! And I'm the humblest man who walks the
+earth to-night!
+
+                             VAUGHAN
+
+    [_Slowly sinking to a seat and covering his face with his hands in
+    a cry of despair._]
+
+Oh,--my God----!
+
+                             LINCOLN
+
+    [_Bending in sorrowful amazement and touching_ VAUGHAN'S _head._]
+
+Why,--what's the matter, my boy----? I'm the only man to despair.
+You're just a Captain in the army. You have only to obey your superior
+officer. If to be the head of hell is as hard as what I've had to
+undergo here, I could find it in my heart to pity Satan himself. And if
+there's a man outside of perdition who suffers more than I do, I pity
+him----!
+
+                             VAUGHAN
+
+    [_Springing to his feet and throwing his hands up in anguish._]
+
+You don't understand----! You don't understand----!
+
+                             LINCOLN
+
+Understand--what----?
+
+                             VAUGHAN
+
+    [_Impetuously._]
+
+When I lay in the hospital suffering from my wounds, I received the
+letter telling me of my father's imprisonment. I must have gone
+mad--for when you refused to-night to give him a trial--I started
+to--kill--you---- Oh, my God!
+
+    [_Breaks down._]
+
+                             LINCOLN
+
+To kill me----! You are the second man to try it. He'll get me the next
+time--I who envy the dead their rest!
+
+    [_Laughs._]
+
+What a strange thing this life of ours!
+
+    [_Pauses._]
+
+Why didn't you _do_ it----?
+
+                             VAUGHAN
+
+Because, for the first time you made me see things as they are, and I
+got a glimpse of the inside----
+
+                             LINCOLN
+
+    [_Eagerly._]
+
+Then, I won--didn't I----?
+
+                             VAUGHAN
+
+Yes--and I can never forgive myself the thought of harming you----!
+
+                             LINCOLN
+
+    [_Ignoring his grief._]
+
+If I've won _you_, I can win others, if I only get their ear and make
+them know as you know! All I need is a little time! And I'm going to
+fight for it now----
+
+    [_With quick uplift of spirit._]
+
+I've told you the truth and the truth has turned a murderer into my
+friend! If only the people can know--can have time to think, I'll
+win--I'll win--! Look here--I've _won_ you now----?
+
+                             VAUGHAN
+
+    [_Eagerly._]
+
+Just give me a chance to prove it----!
+
+    [LINCOLN _studies_ VAUGHAN _thoughtfully._]
+
+                             LINCOLN
+
+You doubtless said many bitter things in Washington?
+
+                             VAUGHAN
+
+Many of them----
+
+                             LINCOLN
+
+Then, you were approached by the leaders of a Copperhead Secret Order
+called The Knights of the Golden Circle--were you not?
+
+                             VAUGHAN
+
+Yes----!
+
+                             LINCOLN
+
+I thought so----
+
+    [_Cautiously._]
+
+You--joined the Order----?
+
+                             VAUGHAN
+
+    [_Hesitates._]
+
+I joined, and I'm one of their officers----
+
+                             LINCOLN
+
+    [_Carefully._]
+
+Of their inner council?
+
+                             VAUGHAN
+
+Yes----
+
+                             LINCOLN
+
+You--know--all their signs and passwords?
+
+                             VAUGHAN
+
+Every one----
+
+                             LINCOLN
+
+    [_With sudden deep excitement._]
+
+Young man, you may have thought you came here to-night with murder in
+your heart--but Almighty God sent you for a different purpose----!
+
+                             VAUGHAN
+
+What do you mean?
+
+                             LINCOLN
+
+You'll stand by me now, through thick and thin?
+
+                             VAUGHAN
+
+    [_Passionately._]
+
+I'd count it an honor to die for you----!
+
+                             LINCOLN
+
+Well, I'm going to ask you to do something harder than that for a man
+of sensitive honor. These Copperhead traitors took advantage of your
+illness and grief over your father to inveigle you into a scheme of
+high treason----
+
+                             VAUGHAN
+
+What----!
+
+                             LINCOLN
+
+You believed their purpose to be patriotic--didn't you----?
+
+                             VAUGHAN
+
+Of course----
+
+                             LINCOLN
+
+    [_Seizing_ BAKER'S _Report._]
+
+This document from Baker's Office contains the original order of their
+Chief for an uprising on the night of the election----
+
+                             VAUGHAN
+
+Uprising for what----?
+
+                             LINCOLN
+
+To overturn the Government, recognize the Confederacy, and divide the
+Union----
+
+                             VAUGHAN
+
+Is it possible----!
+
+                             LINCOLN
+
+You know--after what has passed between us to-night--that I speak the
+truth----
+
+                             VAUGHAN
+
+Yes----!
+
+                             LINCOLN
+
+You came in here to demand a trial for your father--and find him in
+reality justly condemned to death. I have pardoned him. I want you to
+atone for his wrongs and your own tragic mistake, by placing yourself
+with the signs and passwords of that Society at my disposal. You have
+been basely deceived and betrayed--will you do it?
+
+                             VAUGHAN
+
+If my country calls--yes--and I'll thank God for the chance to
+atone----!
+
+                             LINCOLN
+
+Good----! You are the one man on earth to-night whom I need and didn't
+think I could get! I'm going to send you on a dangerous mission. I need
+two things to carry this election and save the Union--a single victory
+in the field to lift our people out of the dumps, and a word from
+Jefferson Davis _that there can be no peace save in division_! I
+know Davis. We were both born in Kentucky, on almost the same day. He
+holds that position. But the peace party of the North refuse to believe
+it. They say he will compromise. Now I've sent two men down
+there--Colonel Jacquess, a Methodist clergyman, of our hospital
+service, and John R. Gilmore of the _Tribune_, old Greeley's
+paper. They go as private citizens of the North, who desire peace. They
+are to draw Davis out, and get his declaration for me. Technically,
+they are spies--for they have no credentials. They may be imprisoned or
+executed. They passed through our lines but twenty miles from Richmond,
+seven days ago. I haven't been able to hear from them. The silence is
+ominous.
+
+                             VAUGHAN
+
+And you wish me to find out what has happened to them----?
+
+                             LINCOLN
+
+    [_Eagerly._]
+
+I want another man in Richmond, quick--whose identity will be
+unknown--a man who can win the confidence of Judah P. Benjamin, Davis'
+Secretary of State, who is preventing my interview with the Confederate
+President. Benjamin is the ablest and by far the most dangerous man in
+the South to-day. I know from this document on my desk----
+
+    [_Touches_ BAKER'S _Report._]
+
+that he is in close touch with the Copperhead Societies of the
+North--if his keen mind is not actually directing them. You have their
+signs and passwords. It seems too good to be true! If you carry to
+Benjamin a special report of this planned uprising, you can gain his
+confidence, and persuade him to let my men see Davis. If you can only
+get through the lines and reach him before being arrested----!
+
+                             VAUGHAN
+
+I've a brother in General Lee's army--sir--for whom I've often been
+mistaken before the war----
+
+                             LINCOLN
+
+That's great----!
+
+                             VAUGHAN
+
+He is an officer too--a First Lieutenant.
+
+                             LINCOLN
+
+Fine! Before you go, confer with Baker. He will give you the names of
+our agents in Richmond and decide on your disguise. He will probably
+put you in Confederate uniform and make out in your brother's name a
+rebel leave of absence to use in an emergency. You are a Southern man.
+Your accent is perfect. Your chances of success great. I want you to
+leave within an hour----
+
+    [_He writes on two cards._]
+
+                             VAUGHAN
+
+In five minutes, if you wish----
+
+                             LINCOLN
+
+If you can get for Jacquess and Gilmore a hearing and they are allowed
+to return and tell their story, all right--your work in Richmond is
+done. But if they are imprisoned or executed, report this fact and Mr.
+Davis' answer, and it will be _doubly_ effective--you understand----?
+
+                             VAUGHAN
+
+Perfectly, sir----
+
+                             LINCOLN
+
+That's your first job. Your next will be to get a special message
+through from _inside the Confederacy_ to General Sherman, who is
+laying siege to Atlanta.
+
+    [_Takes up telegram._]
+
+This message from him, received this morning, says that he has as yet
+been unable to locate and count up Hood's second line of defense which
+he must fight in a flank movement. Take the train from Richmond to
+Atlanta. Keep your eyes open every foot of the way. Find out from
+inside, the position of this second line, and the number of regiments
+holding it. Make no mistake about it. Break through to Sherman, and
+report to him----
+
+                             VAUGHAN
+
+A tough job, sir--but I believe I can do it----
+
+                             LINCOLN
+
+That's the way to talk, my boy----! When you reach General Sherman, you
+will deliver to him a verbal message--I'll give you a sign that will
+identify you. This is the big thing I'm sending you to do. I could
+telegraph my order direct to Sherman, but it would have to be filed in
+the War Office, and might offend General Grant. As an officer, you
+understand that----
+
+                             VAUGHAN
+
+Clearly, sir----
+
+                             LINCOLN
+
+For this reason I'm sending you on this urgent and dangerous business.
+Tell General Sherman for me, that if he can take Atlanta at once, the
+blow will lift our people from despair, carry the election, and save
+the Union! I send by you the order for him to strike. If he wins, the
+order will remain a secret--the credit shall all be his! If he strikes
+and loses, I'll publish my order and take the blame on myself.--You
+_think_ you can _do this_----?
+
+                             VAUGHAN
+
+    [_Quietly._]
+
+I'll do it--or I'll die trying, sir----
+
+                             LINCOLN
+
+    [_Writing on the back of his card._]
+
+All right, take this card to Stanton's Office and tell him what I've
+told you. Ask him to arrange to send you by boat to Aquia, Virginia, by
+horse from there. This card to Baker's Office--Return here for your
+papers, and say good-by to your sweetheart----
+
+                             VAUGHAN
+
+At once, sir----
+
+                             LINCOLN
+
+My boy--I trust you implicitly! My mother's God has been talking to me
+since you entered this room! You've lifted my spirit to the heights!
+
+    [VAUGHAN _exits._]
+
+
+CURTAIN
+
+
+ACT III
+
+
+SCENE I
+
+SET SCENE: _Jefferson Davis' room in the Confederate Capitol at
+Richmond, two days later. A long table is on the right. Two small
+tables on left. Doors right and left, and mantel center._
+
+AT RISE: A DOORMAN _in Confederate uniform arranges the chairs about a
+long table as if for a Cabinet Meeting._
+
+
+    [BENJAMIN _enters._]
+
+                             BENJAMIN
+
+Mr. Davis has not yet arrived----?
+
+                             THE DOORMAN
+
+Not yet, Mr. Benjamin--I am expecting him at ten o'clock--it's now a
+quarter of----
+
+                             BENJAMIN
+
+I've asked a young man to wait in your room for me--has he come----?
+
+                             THE DOORMAN
+
+He's there now--sir----
+
+                             BENJAMIN
+
+You've talked with him freely----?
+
+                             THE DOORMAN
+
+    [_Laughs._]
+
+Oh, yes, sir--we've been swappin' yarns for half an hour----
+
+                             BENJAMIN
+
+I thought so--that's why I asked him to wait in your room----
+
+                             THE DOORMAN
+
+Well, I always try to be sociable----!
+
+                             BENJAMIN
+
+I know! Did you get much out of him?
+
+                             THE DOORMAN
+
+Why, how--how do ye mean?
+
+                             BENJAMIN
+
+Find out anything about his people--where he came from, where he's
+going to--what he's doing in Richmond?
+
+                             THE DOORMAN
+
+Oh, no, sir! He's full of fun--he kept me laughin' most o' the time----
+
+                             BENJAMIN
+
+I see----!
+
+    [_Laughs._]
+
+He knows his business. Show him in.
+
+                             THE DOORMAN
+
+Yes, sir----
+
+    [BENJAMIN _seats himself at one of the small tables at left and
+    examines his schedule for the day's work._ THE DOORMAN _opens the
+    door and shows_ VAUGHAN _in, dressed in Confederate uniform._
+    BENJAMIN _rises and greets him cordially._]
+
+                             BENJAMIN
+
+Good morning, young man----
+
+    [_Gives_ VAUGHAN _the Sign of the Knights of the Golden Circle._]
+
+                             VAUGHAN
+
+    [_Returns Sign._]
+
+Good morning, Mr. Benjamin--I hope you've rested well?
+
+                             BENJAMIN
+
+Not so well as usual--the truth is I've been wrestling all night with
+the problem of Jacquess and Gilmore. I've confirmed your view that they
+have given their real names. Gilmore _is_ a reporter of the New York
+_Tribune_ and Colonel Jacquess is a Methodist clergyman well known in
+the hospital service, in fact famous for his kindly treatment of
+Southern prisoners----
+
+                             VAUGHAN
+
+Just as I told you----
+
+                             BENJAMIN
+
+I've allowed the Commissioner of Exchange who has been holding them in
+custody to bring them here this morning----
+
+                             VAUGHAN
+
+Good!
+
+                             BENJAMIN
+
+Last night, I made up my mind to take your advice and to let them see
+Mr. Davis----
+
+                             VAUGHAN
+
+I'm glad----
+
+                             BENJAMIN
+
+This morning I'm puzzling over it!
+
+                             VAUGHAN
+
+    [_Showing his disappointment._]
+
+Why----?
+
+                             BENJAMIN
+
+I agree with you that we could use the interview for our own purposes.
+But the trouble is, Mr. Davis is soft-hearted sometimes. He may refuse
+to take my advice. He may let these men go.
+
+                             VAUGHAN
+
+You surely can depend on his allowing you to hold them in Libby Prison
+until after the election?
+
+                             BENJAMIN
+
+I'm not sure of it. If he takes a notion to let them go--he's as
+stubborn as a mule.
+
+                             VAUGHAN
+
+All right--Let me be present at the interview and take notes. If Mr.
+Davis makes an important declaration about peace and lets them go, I'll
+beat them to the North and give _your_ version of the interview
+first----!
+
+                             BENJAMIN
+
+    [_Hesitating._]
+
+I might do that--yes----!
+
+                             VAUGHAN
+
+I could not only head off any injury from their report, but I could
+give it a twist that would make it a boomerang on Lincoln----
+
+    [BENJAMIN _hesitates while_ VAUGHAN _watches him breathlessly._]
+
+                             BENJAMIN
+
+    [_Thinking._]
+
+You could act as my special secretary for the meeting and take
+shorthand notes--or pretend to----
+
+                             VAUGHAN
+
+I take shorthand. I've been a reporter in Washington----
+
+                             BENJAMIN
+
+Then it would be easy.
+
+                             VAUGHAN
+
+No matter what is said, I can make a report that will harden the
+purpose of our Societies to swing the uprising on the night of the
+election.
+
+                             BENJAMIN
+
+You are sure the order for the revolt against the Lincoln Government
+has been issued?
+
+                             VAUGHAN
+
+Absolutely sure.
+
+                             BENJAMIN
+
+I know they have discussed it and may have decided to do it, but are
+the actual preparations under way?
+
+                             VAUGHAN
+
+In every Lodge of the Knights of the Golden Circle, the command is now
+on record. Our forces are being drilled. I have read the original
+order with the signature of the Commander----
+
+                             BENJAMIN
+
+    [_Elated._]
+
+It's great news you've brought us, young man--great news!
+
+    [BENJAMIN _hesitates and_ VAUGHAN _watches him._]
+
+All right, we'll risk it----!
+
+    [VAUGHAN _shows his secret joy and deep excitement._]
+
+These men are Lincoln's spies beyond a doubt--but we'll dig out of them
+all the information possible, and then use them for our purpose----
+
+    [THE DOORMAN _enters._]
+
+                             THE DOORMAN
+
+Judge Ould, the Commissioner of Exchange----
+
+    [OULD _enters._]
+
+                             OULD
+
+Our visitors are outside, Mr. Benjamin.
+
+                             BENJAMIN
+
+You understand, Judge Ould, that these men are prisoners of war in your
+charge as Exchange Commissioner?
+
+                             OULD
+
+I am painfully aware of that fact, sir--and the responsibility is not
+to my liking.
+
+                             BENJAMIN
+
+While in Richmond, they are to be held under the strictest guard and on
+no conditions allowed a liberty except by my order, or the order of the
+President.
+
+                             OULD
+
+I can trust them here with you, I hope, for half an hour?
+
+                             BENJAMIN
+
+You can. Show them in.
+
+    [VAUGHAN _takes his seat at the small table near_ BENJAMIN _who
+    gives him a note book and he prepares to take notes._ OULD
+    _reënters conducting_ JACQUESS _and_ GILMORE.]
+
+                             OULD
+
+Colonel James F. Jacquess and Mr. John R. Gilmore,--Mr. Secretary of
+State----
+
+    [OULD _bows and exits, while_ BENJAMIN _advances with marked
+    cordiality to greet his visitors. He does not shake hands but bows
+    politely._]
+
+                             BENJAMIN
+
+I am delighted to see you, gentlemen--pray be seated.
+
+    [_The two men sit and_ GILMORE _shoots at_ VAUGHAN _a look of
+    startled recognition which_ VAUGHAN _fails to return._]
+
+You bring overtures from your Government I trust.
+
+                             JACQUESS
+
+No, sir, we bring no overtures----
+
+                             GILMORE
+
+We have no authority from our Government.
+
+                             JACQUESS
+
+We have come simply as private citizens to know what terms will be
+acceptable to Mr. Davis for ending the war?
+
+                             BENJAMIN
+
+You are acquainted with Mr. Lincoln's views, however?
+
+                             JACQUESS
+
+One of us is fully----
+
+                             BENJAMIN
+
+I supposed so. May I ask, did Mr. Lincoln in any way authorize you to
+come here?
+
+                             GILMORE
+
+No, sir. We came on his pass through the lines, of course, but not by
+his request.
+
+                             JACQUESS
+
+We came, Mr. Benjamin, simply as men and Christians, not as diplomats,
+hoping in a frank talk with Mr. Davis to discover some way by which
+this war may be stopped.
+
+                             BENJAMIN
+
+On my advice, gentlemen, Mr. Davis will see you----
+
+                             JAQUESS AND GILMORE
+
+Thank you----
+
+                             BENJAMIN
+
+I think he is here now----
+
+    [BENJAMIN _exits._]
+
+                             GILMORE
+
+    [_In low tones to_ VAUGHAN.]
+
+What are you doing here?
+
+                             VAUGHAN
+
+Writing! I don't know you----
+
+                             GILMORE
+
+The hell you don't!
+
+                             VAUGHAN
+
+No!
+
+                             GILMORE
+
+We worked on the same paper in Washington, once----
+
+                             VAUGHAN
+
+Never saw you before----
+
+                             GILMORE
+
+Get-word-through-will you! _We're in a trap!_
+
+                             VAUGHAN
+
+Shut your damned trap! or we'll both make our breakfast on lead at
+sunrise to-morrow morning! Get back to your seat!
+
+    [_The sound of approaching steps are heard._ BENJAMIN _enters as_
+    GILMORE _drops into his seat._]
+
+                             BENJAMIN
+
+Gentlemen: The President of the Confederate States of America!
+
+    [DAVIS _enters and bows to his visitors, who rise. His figure is
+    about five foot ten and quite thin. His features are typically the
+    Southern scholar and thinker with angular cheeks and high cheek
+    bones. His iron gray hair is long and thick and inclined to curl at
+    the ends. His whiskers are thin and trimmed farmer fashion, on the
+    lower end of his strong chin. His eyes flash with strong vitality.
+    His forehead is broad, his mouth strong. He wears a brown suit of
+    foreign cloth which fits him perfectly. His shoulders slightly
+    droop. His manner is easy and graceful, his voice charming and
+    cultured._]
+
+                             DAVIS
+
+I am glad to meet you, gentlemen. You are very welcome to Richmond.
+
+                             GILMORE
+
+We thank you, Mr. Davis.
+
+                             DAVIS
+
+Mr. Benjamin tells me that you have asked to see me----
+
+    [_He pauses and waits for his visitors to finish the sentence._]
+
+                             JACQUESS
+
+Yes, sir. Our people want Peace. Your people do. We have come to ask
+how it may be brought about?
+
+                             DAVIS
+
+Very simply. Withdraw your armies from the South, let us alone and
+Peace comes at once.
+
+                             JACQUESS
+
+But we cannot let you alone so long as you seek to divide the Union.
+
+                             DAVIS
+
+I know. You deny us, what you exact for yourselves--the right of
+self-government.
+
+                             JACQUESS
+
+Even so, Mr. Davis, we cannot fight forever. The war must end sometime.
+We must finally agree on something. Can we not find the basis of
+agreement now, and stop this slaughter?
+
+    [VAUGHAN _takes notes rapidly._]
+
+                             DAVIS
+
+I wish peace as much as you do. I deplore bloodshed. But I feel that
+not one drop of this blood is on my hands. I can look up to God and say
+this. I tried to avert this war. I saw it coming and for twelve years I
+worked day and night to prevent it. The North was mad and blind and
+would not let us govern ourselves, and now it must go on until the last
+man of this generation falls in his tracks and their children seize
+their muskets and fight our battle--_unless you acknowledge our right
+to self-government_. We are not fighting for Slavery. We are fighting
+for _independence_ and that or _extermination_ we will have----
+
+                             JACQUESS
+
+    [_Protesting._]
+
+We have no wish to exterminate the South! But we must crush your
+armies. Is it not already nearly done? Grant has shut you up in
+Richmond, and Sherman is before Atlanta.
+
+                             DAVIS
+
+    [_Laughs._]
+
+You don't seem to understand the situation! We're not exactly shut up
+in Richmond yet. If your papers tell the truth, it is your Capitol that
+is in danger, not ours. Lee's front has never yet been broken. He holds
+Grant, invades the North and shells Washington. Sherman, to be sure, is
+before Atlanta. But suppose he is? His position is a dangerous one. The
+further he goes from his base of supplies, the more disastrous defeat
+must be. And his defeat may be at hand.
+
+                             JACQUESS
+
+And yet, the odds are overwhelmingly against you. How can you hope for
+success in the end?
+
+                             DAVIS
+
+My friend, the South stands for a principle--their equal rights under
+the Constitution which their fathers created. This country has always
+been a Republic of Republics--not an Empire. We are fighting for the
+right of local self-government which we won from the tyrants of the old
+world. The states of the Union have always been sovereign. We never
+paused to figure on success or failure, sir. Five million Southern
+freemen drew their sword against twenty millions because their rights
+had been invaded.
+
+                             JACQUESS
+
+And yet, Mr. Davis, you know as well as I that five millions cannot
+hold out forever against twenty. Have we not reached the end?
+
+                             DAVIS
+
+Hardly! Do you think there _are_ twenty millions in the North still
+determined to crush us? If so, let me tell you that I am better
+informed on the present situation inside your lines than you are. The
+North at this moment is hopelessly divided, sir----
+
+    [BENJAMIN _exchanges signs with_ VAUGHAN.]
+
+                             JACQUESS
+
+The dispute then with your government is narrowed to this--union--or
+disunion?
+
+                             DAVIS
+
+Let us say independence or subjugation. We mean to govern ourselves. We
+will hold this principle if we have to see every Southern plantation
+sacked and every city in flames----
+
+    [JACQUESS _and_ GILMORE _rise._ VAUGHAN _catches_ GILMORE'S _eye._]
+
+                             JACQUESS
+
+I am sorry, sir.
+
+[DAVIS _takes_ JACQUESS' _hand in both his in
+the same way_ LINCOLN _did._]
+
+                             DAVIS
+
+I respect your character, Colonel Jacquess and your motives and I wish
+you well--every good wish possible consistent with the interests of the
+Confederacy----
+
+    [_He presses_ GILMORE'S _hand and follows them to the door._]
+
+                             JACQUESS
+
+Thank you.
+
+                             DAVIS
+
+    [_At door._]
+
+And say to Mr. Lincoln that I shall be pleased to receive proposals for
+peace direct from him, at any time, on the basis of our independence.
+It will be useless to approach me with any other.
+
+    [JACQUESS _and_ GILMORE _exit and_ OULD _reënters._]
+
+                             OULD
+
+    [_To Davis._]
+
+And shall I conduct these gentlemen back to Grant's lines?
+
+                             BENJAMIN
+
+    [_Quickly._]
+
+No, these men are spies straight from Lincoln's desk. It's the slyest
+trick the old fox has ever tried to play on us. He knows that
+McClellan's election on a peace platform is a certainty. He's after
+ammunition for this campaign. We dare not play into his hands! Our very
+life may depend on it! Make no mistake--these men must be locked up
+to-night and shot at sunrise.
+
+                             OULD
+
+    [_Shakes his head._]
+
+I wouldn't do it if I were you----
+
+                             BENJAMIN
+
+Why?
+
+                             OULD
+
+For one reason this----
+
+    [OULD _unfolds a note._]
+
+Ben Butler sent this note to me by their hands. It was sealed. Read it.
+
+                             DAVIS
+
+    [_Interrupting._]
+
+Just a moment----
+
+    [_To_ THE DOORMAN.]
+
+General Lee is in the War Office--ask him if he can see me for a few
+minutes, please.
+
+    [THE DOORMAN _bows and exits._]
+
+Go on, gentlemen.
+
+                             OULD
+
+    [_To_ BENJAMIN--_handing him the note._]
+
+Read it!
+
+                             BENJAMIN
+
+    [_Reading._]
+
+"If these men do not return to my lines within ten days, I shall demand
+them, and if you don't produce them--I'll execute two for one.
+
+"(Signed) B. F. BUTLER."
+
+    [_Angrily._]
+
+Bluff! Bluff!
+
+                             DAVIS
+
+He's a beast. He'll do it.
+
+                             BENJAMIN
+
+All right! Let him try it! Two can play that game. We can execute four
+for one----
+
+                             DAVIS
+
+I don't like these bloody reprisals. There's no end, once we begin.
+
+                             BENJAMIN
+
+The decision is yours, sir.
+
+                             DAVIS
+
+I reserve my decision. I'll give it to you presently. I want a word
+with General Lee--first--if you will give me this room.
+
+                             BENJAMIN
+
+Certainly, we'll retire until you're ready. This way.
+
+    [BENJAMIN _conducts_ VAUGHAN _and_ OULD _into the room
+    right--opposite the door through which_ JACQUESS _and_ GILMORE
+    _made their exit._--THE DOORMAN _enters and announces._]
+
+                             THE DOORMAN
+
+General Lee!
+
+                             DAVIS
+
+    [_Advances cordially and takes_ LEE'S _hand in both of his._]
+
+Thank you, General. I wish to consult you first on a peculiar
+matter--of small importance from one point of view--of tremendous
+importance from another. Two men have been passed into our lines to
+sound me on the question of Peace. I have just talked with them. I am
+certain--so is Benjamin--that they come straight from Lincoln though
+they have no credentials. Benjamin demands their execution--Judge Ould
+protests. Are they spies?
+
+                             LEE
+
+Technically, yes--morally, no.
+
+                             DAVIS
+
+Thank you. Before I decide whether to let these men go with a message
+to the North, I must ask you one or two questions----
+
+                             LEE
+
+At your service, sir.
+
+                             DAVIS
+
+How long can you hold Grant?
+
+                             LEE
+
+Certainly a year--unless----
+
+                             DAVIS
+
+Yes?
+
+                             LEE
+
+Unless Atlanta falls.
+
+                             DAVIS
+
+And then?
+
+                             LEE
+
+If General Hood fails to hold Atlanta, Sherman can cut the South in two
+and my supplies fail. My men are living now on parched corn. If Sherman
+takes Atlanta, I cannot get the corn.
+
+                             DAVIS
+
+What is the spirit of your men at this moment, General?
+
+                             LEE
+
+A more formidable force was never set in motion than the army I
+command, sir. They are our stark fighters--men who individually or in
+the mass can be depended on for any feat of arms in the power of
+mortals to accomplish. I know them from experience. They will blanch at
+nothing--yet they must have food.
+
+                             DAVIS
+
+You shall have it. But after one year--then what?
+
+                             LEE
+
+It's solely a question of man power, sir. I _must_ have more men.
+
+                             DAVIS
+
+And you suggest?
+
+                             LEE
+
+That you immediately begin to arm and drill 500,000 negroes for my
+command.
+
+                             DAVIS
+
+And you think they would make good soldiers?
+
+                             LEE
+
+Led by their old masters--they'll fight--to a man.
+
+                             DAVIS
+
+It would be necessary to give each black volunteer his freedom?
+
+                             LEE
+
+Of course. I, as you know, freed my own slaves before entering the
+service of the South. It is one of the ironies of Fate that I am
+supposed to be fighting for slavery--I who refuse to own a slave and my
+opponent General Grant is through his wife's estate a slaveholder.
+Slavery is doomed, sir. It can never survive this tragedy. The
+Legislature of Virginia came within one vote of freeing her slaves,
+years ago.
+
+                             DAVIS
+
+I know. But the great Gulf States and South Carolina with their
+majority of Negro population will never agree to the arming of half a
+million slaves.
+
+                             LEE
+
+And you will allow Mississippi, Louisiana, and South Carolina to defeat
+a plan necessary to save the life of the Confederacy?
+
+                             DAVIS
+
+The States are sovereign, General Lee--for this principle we are
+fighting.
+
+                             LEE
+
+Then I think it may be time to ask ourselves, heart to heart, the
+question whether the Confederacy, as organized, does not carry within
+its own body the seeds of death? The rights of a state must somewhere
+yield to the supreme power of a nation. The Negro will make a brave
+soldier, and he can save the South. Will you use him?
+
+                             DAVIS
+
+I'll consider your suggestion, General, but I can't see it--I can't see
+it now. I won't detain you longer.
+
+    [GENERAL LEE _salutes and exits_--DAVIS _goes to the opposite
+    door--opens it and calls._]
+
+I am ready, gentlemen.
+
+    [OULD, BENJAMIN _and_ VAUGHAN _reënter._]
+
+                             BENJAMIN
+
+You have decided?
+
+                             DAVIS
+
+Yes.
+
+    [_He sits and writes a pass._]
+
+It is probably a bad business for us----
+
+                             BENJAMIN
+
+There can be no doubt about that, sir----
+
+                             DAVIS
+
+But it would alienate many of our Northern friends if we held these
+men. I have decided to let them go. Give them this pass.
+
+    [_Hands pass to_ OULD.]
+
+Show them through the hospitals and Libby Prison and conduct them back
+to General Grant's lines.
+
+                             OULD
+
+You have acted wisely, sir.
+
+                             BENJAMIN
+
+    [_With deep feeling to_ VAUGHAN.]
+
+He has made exactly the blunder I feared----
+
+                             VAUGHAN
+
+    [_With elation._]
+
+We'll hope for the best, sir! With the twist I'll give the news----
+
+
+CURTAIN
+
+
+SCENE II
+
+SET SCENE: _The same as Acts I and II, except that a small table has
+been placed down center on the side near Lincoln's desk. A telegraph
+instrument has been installed on this table._
+
+AT RISE: _At rise, the audience sees only_ LINCOLN _and_ OPERATOR, _the
+lights gradually rise until full day shows the entire room. It is the
+morning of September 3, 1864._
+
+
+                             LINCOLN
+
+    [_Bending over the key._]
+
+Try to get Atlanta again, my boy.
+
+    [_The_ OPERATOR _tries again and again to get Atlanta._]
+
+                             OPERATOR
+
+It's no use, sir----
+
+                             LINCOLN
+
+We don't seem to have any luck, do we? My messenger should have reached
+Sherman! He must be there now. He must be there--he can't be lost!
+
+    [_Laughs forlornly._]
+
+Two whole days I've listened to that thing click----
+
+    [_The_ OPERATOR _calls Atlanta, with a peculiar loud call._]
+
+Is that the word Atlanta you're clicking off?
+
+                             OPERATOR
+
+Yes, sir--calling--over this wire we have a direct connection to-day.
+The trouble is Sherman's old headquarters don't answer either.
+
+                             LINCOLN
+
+Call Atlanta again. Do it slowly. I want to learn it--Uncle Billy----
+
+    [_The_ OPERATOR _clicks off each letter in the Morse Code, spelling
+    it slowly._]
+
+Must be there by this time!
+
+                             OPERATOR
+
+A--T--L--A--N--T--A-- G--A-- Atlanta, Ga.
+
+                             LINCOLN
+
+Once more.
+
+    [_The_ OPERATOR _repeats the call and_ LINCOLN _follows it
+    repeating after him._]
+
+I want to catch that as quick as you do--when it comes!
+
+    [_Aside._]
+
+Oh, my God, why don't it come!--Why don't it come!
+
+    [NICOLAY _enters._]
+
+                             NICOLAY
+
+The time's up. Raymond and his damned Committee are here, sir, and
+insist on your final answer at Once----
+
+                             LINCOLN
+
+Hold them back awhile. We're bound to hear something to-day. I promised
+them my decision this morning, I know--but I'm still full of foolish
+hopes.
+
+                             NICOLAY
+
+They are not foolish hopes,--Chief!
+
+                             LINCOLN
+
+This machine here seems to think they are. The darn fool thing will
+talk one way but won't chirp the other.
+
+                             NICOLAY
+
+What shall I tell them?
+
+                             LINCOLN
+
+    [_Listening at the instrument._]
+
+Anything--tell them a funny story!
+
+    [_Listening._]
+
+They need a laugh--the bunch of undertakers! Waiting for me to deliver
+my corpse to them!--Restless, because I haven't given it up sooner!
+
+    [_The sharp click of the telegraph receiver catches his ear and
+    he starts to the table._]
+
+No--that wasn't it----
+
+    [_Turns again to_ NICOLAY.]
+
+Tell them positively, I will see them within half an hour.
+
+    [NICOLAY _exits and_ LINCOLN _returns to his vigil by the telegraph
+    table._]
+
+How close can you get to Atlanta over the Chattanooga line----?
+
+                             OPERATOR
+
+Twenty miles out is the last station that answers and he don't know
+what's the matter with the line.
+
+                             LINCOLN
+
+Strange--we got closer than that yesterday--Sherman's on the move....
+
+    [BETTY _enters timidly._]
+
+That's certain.
+
+    [_Looking up._]
+
+Come right in, Miss Betty--I know what you want.
+
+                             BETTY
+
+Nothing yet from General Sherman?
+
+                             LINCOLN
+
+Nothing----
+
+                             BETTY
+
+And no message of any kind from John since he left?
+
+                             LINCOLN
+
+Not yet.
+
+                             BETTY
+
+Why--_why_ hasn't he reported?
+
+                             LINCOLN
+
+    [_Hopefully._]
+
+I'm sure--remember, _sure to a moral certainty_--that he left
+Richmond safely.
+
+                             BETTY
+
+    [_Eagerly._]
+
+You _have_ a message then?
+
+                             LINCOLN
+
+Indirectly----
+
+                             BETTY
+
+Oh----
+
+                             LINCOLN
+
+    [_To_ EDWARD _at door._]
+
+Edward, ask Mr. Gilmore to step in here a minute.
+
+                             EDWARD
+
+Yes, sir.
+
+                             LINCOLN
+
+Gilmore's report ought to be worth half a million votes for me--it may
+be worth something to you--
+
+    [GILMORE _enters._]
+
+Gilmore, did you see a handsome young fellow in Confederate uniform
+taking notes at your interview with Davis----
+
+                             GILMORE
+
+Yes, sir, and I knew him too----
+
+                             BETTY
+
+    [_Eagerly._]
+
+It was Captain Vaughan?
+
+                             GILMORE
+
+Sure! He denied it, of course, but I knew him all right.
+
+                             BETTY
+
+He was well?
+
+                             GILMORE
+
+I never saw him looking better. He was scared stiff, of course, and so
+were we----
+
+                             BETTY
+
+Thank you!
+
+                             LINCOLN
+
+That'll do, Gilmore. I wish you'd help Nicolay choke that Committee off
+a little while--and you come with them when they break in--will you?
+
+                             GILMORE
+
+Gladly, Mr. President.
+
+    [GILMORE _exits._]
+
+                             LINCOLN
+
+    [_To_ BETTY _lightly._]
+
+Now you've had some good news----
+
+                             BETTY
+
+    [_Forlornly._]
+
+How long since any word came from General Sherman?
+
+                             LINCOLN
+
+Two days. I know the hole where he went in at. But I can't tell where
+the old varmint's going to come out----
+
+                             BETTY
+
+    [_Chokes._]
+
+If he ever comes out!
+
+                             LINCOLN
+
+Oh! He'll come out----
+
+    [_He stops and listens at the telegraph instrument again, and sighs
+    in disappointment._]
+
+He'll come out somewhere--It's a habit Uncle Billy has----
+
+                             BETTY
+
+    [_Hopelessly._]
+
+They've no news at the War Department either.
+
+                             LINCOLN
+
+No news is generally good news from Sherman.
+
+    [BETTY _turns away to hide her tears and_ LINCOLN _follows her with
+    tender pleading._]
+
+Come, come, my dear--these tears won't do! You've got to help me now!
+
+    [BETTY _brushes the tears away._]
+
+I may have sent your lover to his death. I know that! But he went with
+a smile on his face and a great joy in his heart for the service he was
+doing his country----
+
+                             BETTY
+
+Yes--I know--I know--I'm proud of the honor you did him.
+
+                             LINCOLN
+
+    [_Whispering._]
+
+Give me a little lift, then----
+
+    [_Pauses._]
+
+I'm just whistling to keep up _my_ courage!
+
+    [_He pauses again in an agony of suffering._]
+
+I know that he got to Atlanta----
+
+    [_Pauses._]
+
+Sherman has disappeared!
+
+                             BETTY
+
+Forgive me--I forgot. _You're_ going to win. I feel it. I know it!
+
+                             LINCOLN
+
+That's the way to talk! That's the way I'm talking to myself though I'm
+scared within an inch of my life----
+
+    [_He pauses and goes over to the_ OPERATOR--BETTY _following._]
+
+Say, boy--can't you beat it a little harder and make the blame thing
+talk for us?
+
+                             OPERATOR
+
+I wish I could, sir.
+
+                             LINCOLN
+
+Try him again-----
+
+    [_The_ OPERATOR _calls Atlanta and pauses_--LINCOLN _and_ BETTY
+    _bend over with breathless suspense. The instrument gives one
+    click_--LINCOLN _starts. The instrument stops._]
+
+Didn't the thing start to answer?
+
+    [_The_ OPERATOR _shakes his head._]
+
+Call the War Office and ask Stanton to step over here--My God--why
+can't we hear!
+
+                             BETTY
+
+    [_Wistfully._]
+
+I'm not going to cry again--but I just want to ask _one_ question--you
+won't mind?
+
+                             LINCOLN
+
+As many as you like!
+
+                             BETTY
+
+He--he--had to enter Atlanta a spy, didn't he?
+
+    [_Sobs and catches herself._]
+
+                             LINCOLN
+
+Yes--of course----
+
+                             BETTY
+
+Well, if he should be captured--could--they execute him without our
+knowing it?
+
+                             LINCOLN
+
+They might--but he's a very bright young man! He'll be too smart for
+them----
+
+                             BETTY
+
+    [_Hopelessly._]
+
+I don't know--I don't know----!
+
+                             LINCOLN
+
+Now listen--! I'm going to tell you something--I _know_! I've a sort of
+second sight that tells me things sometimes, my dear. After the battle
+of Gettysburg I saw General Daniel E. Sickles in the hospital. They
+told me that he was mortally wounded and could not possibly live. _I_
+told General Sickles that he _would_ live and get well, and he did! I
+saw his living body that day at work in health and strength as plainly
+as I see you! We have not heard from Captain Vaughan yet, but it will
+_come_--! He has reached Atlanta. The General got my message. I know
+that. I felt it flash through the air from his soul to mine! I can see
+you and your lover at this moment seated side by side smiling and
+happy----
+
+                             BETTY
+
+    [_In awe._]
+
+You--see--this----!
+
+                             LINCOLN
+
+    [_In dreamy tones._]
+
+As plainly as I see the sunlight dancing on the leaves outside that
+window now----
+
+    [STANTON _enters and_ LINCOLN _turns to meet him eagerly._]
+
+                             STANTON
+
+You've no news?
+
+                             LINCOLN
+
+I sent for you, to ask that----
+
+                             STANTON
+
+Nothing----
+
+                             LINCOLN
+
+    [_In low tones._]
+
+What does it mean?
+
+                             STANTON
+
+A storm swept Atlanta yesterday--the wires may be all down----
+
+                             LINCOLN
+
+You think that's it----?
+
+                             STANTON
+
+No--I don't.
+
+                             LINCOLN
+
+Neither do I----
+
+                             STANTON
+
+Something big has happened! Sherman has either taken Atlanta or Hood
+has cut his communications and his army may be imperiled.
+
+                             LINCOLN
+
+    [_His head droops._]
+
+That's what I think too--God help us!
+
+    [_The sharp click of the telegraph instrument causes him to start
+    quickly, cross to the table and listen. The committee headed by_
+    RAYMOND _and_ STEVENS _crowd through the door against the protests
+    of_ NICOLAY.]
+
+                             NICOLAY
+
+I promised you an answer in half an hour, gentleman!--you must wait.
+
+                             RAYMOND
+
+Not another minute!
+
+                             STEVENS
+
+    [_Waving a telegram._]
+
+The matter is too urgent!
+
+                             LINCOLN
+
+All right--John--let 'em in--I'm ready.
+
+                             RAYMOND
+
+We have just heard a most painful and startling piece of news from the
+War Department----
+
+                             LINCOLN
+
+    [_To_ STANTON.]
+
+War Department----
+
+    [_Low voice._]
+
+--What is it, Stanton?
+
+                             STANTON
+
+Something I didn't believe and wouldn't repeat to you.
+
+                             LINCOLN
+
+    [_Whispering to_ OPERATOR.]
+
+Pull for me, boy, pull for me--keep picking at that thing!
+
+                             STEVENS
+
+    [_Triumphantly._]
+
+You were advised to withhold the new draft of men until after the
+election! Well, read that copy of a telegram from New York, just
+received by General Halleck, sir!
+
+    [_Offers telegram to_ LINCOLN _and he refuses to take it._]
+
+                             LINCOLN
+
+I don't want to read it, Stevens. Your face is enough for me. It must
+be bad, or you wouldn't be so happy. You're almost smiling!
+
+                             STEVENS
+
+Read it!
+
+                             LINCOLN
+
+    [_Ignoring the proffered telegram._]
+
+You know, Stevens, you remind of an old farmer I knew in Illinois----
+
+    [_The committee gather around_ LINCOLN _eager for the story,
+    glancing at_ STEVENS.]
+
+                             STEVENS
+
+Go on, give 'em the joke. It's your funeral--not mine!
+
+                             LINCOLN
+
+    [_Facing the committee._]
+
+This old farmer raised the biggest hog ever seen in the county. He was
+so fat the news of his size spread over the country and people came
+from far and near to see this wonder in pork. A stranger came up one
+day and asked the farmer to see him. The old man said: "Wal I've got
+sech a animal an' he's the biggest one I ever seed. I'll say that. But
+so many folks are comin' here pesterin' me to look at him, I've decided
+to charge a shillin' a look." The stranger put his hand in his pocket,
+pulled out the money, paid the shilling, stared at the old man, turned
+and walked away. The farmer called after him--"Hi--there--ain't yer
+goin' ter see the hog?" "No"--the fellow answered--"I've seen you! I've
+got my money's worth."
+
+    [_All laugh except_ STEVENS. _During the laugh_ LINCOLN _bends over
+    the telegraph instrument--in low tones._]
+
+How goes it, boy? How goes it?
+
+    [_The_ OPERATOR _shakes his head._]
+
+Not a click----?
+
+    [_Operator_ _shakes his head again--and_ LINCOLN'S _face contracts
+    in suffering._]
+
+                             STEVENS
+
+Just a minute, Mr. President,--I'll give you the telegram if you won't
+read it.
+
+                             LINCOLN
+
+Fire away, Stevens, if it makes you happy.
+
+                             STEVENS
+
+    [_Reading._]
+
+"New York, Sept. 3, 1864.
+
+"The Federal authorities have just discovered a nation-wide conspiracy
+to resist by force of arms the new draft. It will be necessary for
+General Grant to detach half his army from Lee's front immediately to
+put down this counter revolution. Send these soldiers without delay to
+our great cities."
+
+The signature is in code.
+
+                             RAYMOND
+
+It's the blackest news yet, sir--and it's true.
+
+                             STEVENS
+
+You must realize that we cannot delay a moment in placing another man
+at the head of the ticket.
+
+    [_There is a moment of dead silence while all watch_ LINCOLN'S
+    _face. Suddenly the sharp click of the telegraph instrument begins
+    to spell the word A-T-lanta._ LINCOLN _starts--his face flashing
+    with excitement._]
+
+                             LINCOLN
+
+What's _that_?
+
+    [_He follows breathlessly the spelling of the full word--his face
+    expressing his joy._]
+
+                             OPERATOR
+
+Mr. President--It's come! It's here!
+
+    [LINCOLN _rushes to the table, the crowd following._]
+
+It's for you, sir!
+
+                             LINCOLN
+
+Out with it, boy, word for word as you get it!
+
+                             OPERATOR
+
+    [_Click-click._]
+
+Atlanta--
+
+    [_Click-click._]
+
+Georgia--
+
+    [_Click-click-click._]
+
+September 3, 1864.
+
+                             LINCOLN
+
+Glory to God!
+
+                             OPERATOR
+
+    [_Click-click._]
+
+--Atlanta
+
+    [_Click-click._]
+
+--is ours--
+
+    [_Click--click--click._]
+
+and fairly won--W. T. Sherman----
+
+                             LINCOLN
+
+O my soul, lift up thy head!
+
+    [_To_ BETTY.]
+
+Go tell Mother, quick, tell her to come here!
+
+    [BETTY _exits running._]
+
+                             NICOLAY
+
+Three cheers for General William Tecumseh Sherman!
+
+                             ALL SHOUT
+
+Sherman! Sherman! Sherman!
+
+    [_When the shout dies away_ LINCOLN _lifts his head solemnly and
+    cries._]
+
+                             LINCOLN
+
+Unto thee, O God, we give all the praise now and forever more!
+
+    [MRS. LINCOLN _enters with_ BETTY _and rushes to meet the
+    President. He takes her in his arms._]
+
+Mother! It's all right!--Uncle Billy's there!
+
+                             MRS. LINCOLN
+
+You'll never doubt again?
+
+                             LINCOLN
+
+Never!----
+
+    [_Turning to the committee._]
+
+My friends! A poem is singing in my heart!
+
+    "Mine eyes have seen the glory of the coming of the Lord!
+    He is trampling out the vintage where the grapes of wrath are stored:
+    He has loosed the fateful lightning of His terrible swift sword--
+    His truth is marching on!
+
+    "He has sounded forth the trumpet that shall never call retreat!
+    He is sifting out the hearts of men before His judgment seat:
+    Oh! Be swift my soul to answer Him! Be jubilant my feet!
+    Our God is marching on!"
+
+                             STANTON
+
+That draft will be all right, Stevens! Now all together!
+
+    [STANTON _leads and all sing._]
+
+    [LINCOLN _listens with bowed head._]
+
+    We are coming, Father Abraham, three hundred thousand more,
+    From Mississippi's winding stream and from New England's shore;
+    We leave our plows and workshop, our wives and children dear,
+    With hearts too full for utterance, with but a single tear,
+    We dare not look behind us but steadfastly before,
+    We are coming, Father Abraham, three hundred thousand more!
+
+                             CHORUS
+
+    We are coming, we are coming, our Union to restore!
+    We are coming, Father Abraham, three hundred thousand more,
+    We are coming, Father Abraham, three hundred thousand more!
+
+                             LINCOLN
+
+And remember, gentlemen, U. S. Grant sent Sherman on that mission. You
+know I didn't remove him! Well, Raymond, what say you, now!
+
+                             RAYMOND
+
+It's glorious. It's a miracle! Lee's army can't survive. The end is
+sure! McClellan is beaten--the Union is saved!
+
+                             LINCOLN
+
+What say you all?
+
+                             A COMMITTEEMAN
+
+Your triumph is sure!
+
+                             ANOTHER COMMITTEEMAN
+
+You'll sweep the nation, sir!
+
+                             NICOLAY
+
+Three cheers for the old President and three cheers for the new!
+
+                             ALL
+
+Lincoln! Lincoln! Lincoln!
+
+    [_All join except_ STEVENS, _whose face remains a mask._]
+
+                             LINCOLN
+
+Come on, Stevens, smile! Take a chance. It may kill you, but my Lord,
+man, take a chance!
+
+                             STEVENS
+
+You're not elected yet, sir--and such levity ill becomes a Nation's
+Chief in these tragic hours----
+
+                             LINCOLN
+
+    [_Laughs._]
+
+If I couldn't laugh I'd have died long ago at this job!
+
+
+CURTAIN
+
+
+EPILOGUE
+
+
+SET SCENE: _The great pillars of the Capitol at Washington fill the
+entire stage from arch to arch. In the foreground stands the platform
+on which the Justices of the Supreme Court of the United States, headed
+by Salmon P. Chase, Chief Justice, are grouped about the President, who
+is delivering his Second Inaugural._ JOHN VAUGHAN _beside_ BETTY WINTER
+_is conspicuously leading the applause._
+
+AT RISE: _The President is reading his Inaugural. A great burst of
+cheering follows the sentence he is closing before the curtain rises:_
+
+
+                             LINCOLN
+
+    [_Before rise._]
+
+Shall we discern therein any departure from those divine attributes
+which the believers in a living God always ascribe to Him?
+
+    [_Applause as curtain rises._]
+
+Fondly do we hope--fervently do we pray--that this mighty scourge of
+war may speedily pass away. Yet, if God wills that it continue until
+all the wealth piled by the bondman's two hundred and fifty years of
+unrequited toil shall be sunk, and until every drop of blood drawn with
+the lash shall be paid by another drawn with the sword, as was said
+three thousand years ago, so still it must be said, "The judgments of
+the Lord are true and righteous altogether."
+
+    [_Applause._]
+
+With malice toward none; with charity for all; with firmness in the
+right, as God gives us to see the right, let us strive on to finish the
+work we are in; to bind up the nation's wounds; to care for him who
+shall have borne the battle, and for his widow, and his orphan--to do
+all which may achieve and cherish a just and lasting peace among
+ourselves and all nations.
+
+    [_Fade out with the light on Lincoln's face as he utters the last
+    word._]
+
+
+CURTAIN

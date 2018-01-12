@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document01898.txt">
+  <feature name="project-gutenberg" etext_number="7004" url="http://www.gutenberg.org/files/7004/7004.txt"/>
+  <feature name="language" value="en" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="17784" this_length="3929" source_reference="source-document06012.txt" source_offset="183724" source_length="3982" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="27186" this_length="226" source_reference="source-document06012.txt" source_offset="270848" source_length="236" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="35660" this_length="1781" source_reference="source-document00389.txt" source_offset="62644" source_length="1808" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="55106" this_length="3525" source_reference="source-document06012.txt" source_offset="38270" source_length="3543" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="high" this_offset="71266" this_length="1461" source_reference="source-document00389.txt" source_offset="40810" source_length="1477" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="78949" this_length="2005" source_reference="source-document00389.txt" source_offset="24936" source_length="1994" />
+  <feature name="artificial-plagiarism" translation="false" obfuscation="none" this_offset="88083" this_length="513" source_reference="source-document00389.txt" source_offset="1594" source_length="543" />
+  <!-- Use tags like the one below to annotate plagiarism you detected. -->
+  <!-- <feature name="detected-plagiarism" this_offset="50" this_length="1000" source_reference="source-documentX.txt" source_offset="750" source_length="1700"/> -->
+</document>
+

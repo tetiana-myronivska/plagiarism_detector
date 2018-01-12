@@ -1,0 +1,617 @@
+﻿  Introduction                                               235
+  Construction of the Medicine Lodge                         237
+  First day                                                  237
+    Personators of the gods                                  237
+  Second day                                                 239
+    Description of the sweat houses                          239
+    Sweat houses and masks                                   242
+    Preparation of the sacred reeds (cigarettes)
+        and prayer-sticks                                    242
+  Third day                                                  244
+    First ceremony                                           244
+    Second ceremony                                          245
+    Third ceremony                                           247
+    Fourth ceremony (night)                                  248
+  Fourth day                                                 249
+    First ceremony                                           249
+    Second ceremony                                          250
+    Third ceremony                                           250
+    Fourth ceremony                                          252
+    Fifth ceremony                                           253
+    Sixth ceremony                                           253
+    Foods brought into the lodge                             256
+  Fifth day                                                  257
+    First ceremony                                           257
+    Second ceremony                                          259
+    Third ceremony                                           260
+  Sixth day                                                  261
+  Seventh day                                                263
+  Eighth day                                                 265
+  Ninth day                                                  269
+    First ceremony                                           269
+    Second ceremony                                          270
+      Song of the Etsethle                                   272
+      Prayer to the Etsethle                                 272
+    Conclusion--the dance                                    273
+  Myths of the Navajo                                        275
+    Creation of the sun                                      275
+    Hasjelti and Hostjoghon                                  277
+    The floating logs                                        278
+    Naiyenesgony and Tobaidischinni                          279
+    The brothers                                             280
+    The old man and woman of the first world                 284
+
+
+ILLUSTRATIONS.
+
+                                                              Page.
+   Plate I. Map of the provinces of Tusayan and Cibola          12
+        II. Old Mashongnavi, plan                               14
+       III. General view of Awatubi                             16
+        IV. Awatubi (Talla-Hogan), plan                         18
+         V. Standing walls of Awatubi                           20
+        VI. Adobe fragment in Awatubi                           22
+       VII. Horn House ruin, plan                               24
+      VIII. Bat House                                           26
+        IX. Mishiptonga (Jeditoh)                               28
+         X. A small ruin near Moen-kopi                         30
+        XI. Masonry on the outer wall of the Fire-House,
+              detail                                            32
+       XII. Chukubi, plan                                       34
+      XIII. Payupki, plan                                       36
+       XIV. General view of Payupki                             38
+        XV. Standing walls of Payupki                           40
+       XVI. Plan of Hano                                        42
+      XVII. View of Hano                                        44
+     XVIII. Plan of Sichumovi                                   46
+       XIX. View of Sichumovi                                   48
+        XX. Plan of Walpi                                       50
+       XXI. View of Walpi                                       52
+      XXII. South passageway of Walpi                           54
+     XXIII. Houses built over irregular sites, Walpi            56
+      XXIV. Dance rock and kiva, Walpi                          58
+       XXV. Foot trail to Walpi                                 60
+      XXVI. Mashongnavi, plan                                   62
+     XXVII. Mashongnavi with Shupaulovi in distance             64
+    XXVIII. Back wall of a Mashongnavi house-row                66
+      XXIX. West side of a principal row in Mashongnavi         68
+       XXX. Plan of Shupaulovi                                  70
+      XXXI. View of Shupaulovi                                  72
+     XXXII. A covered passageway of Shupaulovi                  74
+    XXXIII. The chief kiva of Shupaulovi                        76
+     XXXIV. Plan of Shumopavi                                   78
+      XXXV. View of Shumopavi                                   80
+     XXXVI. Oraibi, plan                                 In pocket.
+    XXXVII. Key to the Oraibi plan, also showing
+              localization of gentes                            82
+   XXXVIII. A court of Oraibi                                   84
+     XXXIX. Masonry terraces of Oraibi                          86
+        XL. Oraibi house row, showing court side                88
+       XLI. Back of Oraibi house row                            90
+      XLII. The site of Moen-kopi                               92
+     XLIII. Plan of Moen-kopi                                   94
+      XLIV. Moen-kopi                                           96
+       XLV. The Mormon mill at Moen-kopi                        98
+      XLVI. Hawikuh, plan                                      100
+     XLVII. Hawikuh, view                                      102
+    XLVIII. Adobe church at Hawikuh                            104
+      XLIX. Ketchipanan, plan                                  106
+         L. Ketchipauan                                        108
+        LI. Stone church at Ketchipauan                        110
+       LII. K'iakima, plan                                     112
+      LIII. Site of K'iakima, at base of Tâaaiyalana           114
+       LIV. Recent wall at K'iakima                            116
+        LV. Matsaki, plan                                      118
+       LVI. Standing wall at Pinawa                            120
+      LVII. Halona excavations as seen from Zuñi               122
+     LVIII. Fragments of Halona wall                           124
+       LIX. The mesa of Tâaaiyalana, from Zuñi                 126
+        LX. Tâaaiyalana, plan                                  128
+       LXI. Standing walls of Tâaaiyalana ruins                130
+      LXII. Remains of a reservoir on Tâaaiyalana              132
+     LXIII. Kin-tiel, plan (also showing excavations)          134
+      LXIV. North wall of Kin-tiel                             136
+       LXV. Standing walls of Kin-tiel                         138
+      LXVI. Kinna-Zinde                                        140
+     LXVII. Nutria, plan                                       142
+    LXVIII. Nutria, view                                       144
+      LXIX. Pescado, plan                                      146
+       LXX. Court view of Pescado, showing corrals             148
+      LXXI. Pescado houses                                     150
+     LXXII. Fragments of ancient masonry in Pescado            152
+    LXXIII. Ojo Caliente, plan                           In pocket.
+     LXXIV. General view of Ojo Caliente                       154
+      LXXV. House at Ojo Caliente                              156
+     LXXVI. Zuñi, plan                                   In pocket.
+    LXXVII. Outline plan of Zuñi, showing distribution
+              of oblique openings                              158
+   LXXVIII. General inside view of Zuñi, looking west          160
+     LXXIX. Zuñi terraces                                      162
+      LXXX. Old adobe church of Zuñi                           164
+     LXXXI. Eastern rows of Zuñi                               166
+    LXXXII. A Zuñi court                                       168
+   LXXXIII. A Zuñi small house                                 170
+    LXXXIV. A house-building at Oraibi                         172
+     LXXXV. A Tusayan interior                                 174
+    LXXXVI. A Zuñi interior                                    176
+   LXXXVII. A kiva hatchway of Tusayan                         178
+  LXXXVIII. North kivas of Shumopavi, from the northeast       180
+    LXXXIX. Masonry in the north wing of Kin-tiel              182
+        XC. Adobe garden walls near Zuñi.                      184
+       XCI. A group of stone corrals near Oraibi               186
+      XCII. An inclosing wall of upright stones at
+              Ojo Caliente                                     188
+     XCIII. Upright blocks of sandstone built into an
+              ancient pueblo wall                              190
+      XCIV. Ancient wall of upright rocks in southwestern
+              Colorado                                         192
+       XCV. Ancient floor-beams at Kin-tiel                    194
+      XCVI. Adobe walls in Zuñi                                196
+     XCVII. Wall coping and oven at Zuñi                       198
+    XCVIII. Cross-pieces on Zuñi ladders                       200
+      XCIX. Outside steps at Pescado                           202
+         C. An excavated room at Kin-tiel                      204
+        CI. Masonry chimneys of Zuñi                           206
+       CII. Remains of a gateway in Awatubi                    208
+      CIII. Ancient gateway, Kin-tiel                          210
+       CIV. A covered passageway in Mashongnavi                212
+        CV. Small square openings in Pueblo Bonito             214
+       CVI. Sealed openings in a detached house of Nutria      216
+      CVII. Partial filling-in of a large opening in
+              Oraibi, converting it into a doorway             218
+     CVIII. Large openings reduced to small windows, Oraibi    220
+       CIX. Stone corrals and kiva of Mashongnavi              222
+        CX. Portion of a corral in Pescado                     224
+       CXI. Zuñi eagle-cage                                    226
+      CXII. A, Rainbow over eastern sweat house;
+              B, Rainbow over western sweat house              240
+     CXIII. Blanket rug and medicine tubes                     242
+      CXIV. Blanket rug and medicine tubes                     244
+       CXV. Masks: 1, Naiyenesyong; 2, 3, Tobaidischinne;
+              4, 5, Hasjelti; 6, Hostjoghon; 7, Hostjobokon;
+              8, Hostjoboard                                   246
+      CXVI. Blanket rug and medicine tubes                     248
+     CXVII. 1, Pine boughs on sand bed; 2, Apache basket
+              containing yucca suds lined with corn pollen;
+              3, Basket of water surface covered with pine
+              needles                                          250
+    CXVIII. Blanket rug and medicine tubes and sticks          252
+      CXIX. Blanket rug and medicine tube                      258
+       CXX. First sand painting                                260
+      CXXI. Second sand painting                               262
+     CXXII. Third sand painting                                264
+    CXXIII. Fourth sand painting                               266
+
+
+                                                              Page.
+Fig. 1. View of the First Mesa                                  43
+     2. Ruins, Old Walpi mound                                  47
+     3. Ruin between Bat House and Horn House                   51
+     4. Ruin near Moen-kopi, plan                               53
+     5. Ruin 7 miles north of Oraibi                            55
+     6. Ruin 14 miles north of Oraibi (Kwaituki)                56
+     7. Oval fire-house ruin, plan. (Tebugkihu)                 58
+     8. Topography of the site of Walpi                         64
+     9. Mashongnavi and Shupaulovi from Shumopavi               66
+    10. Diagram showing growth of Mashongnavi                   67
+    11. Diagram showing growth of Mashongnavi                   68
+    12. Diagram showing growth of Mashongnavi                   69
+    13. Topography of the site of Shupaulovi                    71
+    14. Court kiva of Shumopavi                                 75
+    15. Hampassawan, plan                                       84
+    16. Pinawa, plan                                            87
+    17. Nutria, plan; small diagram, old wall                   94
+    18. Pescado, plan, old wall diagram                         95
+    19. A Tusayan wood-rack                                    103
+    20. Interior ground plan of a Tusayan room                 108
+    21. North kivas of Shumopavi from the southwest            114
+    22. Ground plan of the chief-kiva of Shupaulovi            122
+    23. Ceiling-plan of the chief-kiva of Shupaulovi           123
+    24. Interior view of a Tusayan kiva                        124
+    25. Ground-plan of a Shupaulovi kiva                       125
+    26. Ceiling-plan of a Shupaulovi kiva                      125
+    27. Ground-plan of the chief-kiva of Mashongnavi           126
+    28. Interior view of a kiva hatchway in Tusayan            127
+    29. Mat used in closing the entrance of Tusayan kivas      128
+    30. Rectangular sipapuh in a Mashongnavi kiva              131
+    31. Loom-post in kiva floor at Tusayan                     132
+    32. A Zuñi chimney showing pottery fragments embedded in
+          its adobe base                                       139
+    33. A Zuñi oven with pottery scales embedded in
+          its surface                                          139
+    34. Stone wedges of Zuñi masonry exposed in a
+          rain-washed wall                                     141
+    35. An unplastered house wall in Ojo Caliente              142
+    36. Wall decorations in Mashongnavi, executed in pink
+          on a white ground                                    146
+    37. Diagram of Zuñi roof construction                      149
+    38. Showing abutment of smaller roof-beams over
+          round girders                                        151
+    39. Single stone roof-drains                               153
+    40. Trough roof-drains of stone                            153
+    41. Wooden roof-drains                                     154
+    42. Curved roof-drains of stone in Tusayan                 154
+    43. Tusayan roof-drains; a discarded metate and a gourd    155
+    44. Zuñi roof-drain, with splash-stones on roof below      156
+    45. A modern notched ladder in Oraibi                      157
+    46. Tusayan notched ladders from Mashongnavi               157
+    47. Aboriginal American forms of ladder                    158
+    48. Stone steps at Oraibi with platform at corner          161
+    49. Stone steps, with platform at chimney, in Oraibi       161
+    50. Stone steps in Shumopavi                               162
+    51. A series of cooking pits in Mashongnavi                163
+    52. Pi-gummi ovens of Mashongnavi                          163
+    53. Cross sections of pi-gummi ovens of Mashongnavi        163
+    54. Diagrams showing foundation stones of a Zuñi oven      164
+    55. Dome-shaped oven on a plinth of masonry                165
+    56. Oven in Pescado exposing stones of masonry             166
+    57. Oven in Pescado exposing stones of masonry             166
+    58. Shrines in Mashongnavi                                 167
+    59. A poultry house in Sichumovi resembling an oven        167
+    60. Ground-plan of an excavated room in Kin-tiel           168
+    61. A corner chimney-hood with two supporting poles,
+          Tusayan                                              170
+    62. A curved chimney-hood of Mashongnavi                   170
+    63. A Mashongnavi chimney-hood and walled-up fireplace     171
+    64. A chimney-hood of Shupaulovi                           172
+    65. A semi-detached square chimney-hood of Zuñi            172
+    66. Unplastered Zuñi chimney-hoods,
+          illustrating construction                            173
+    67. A fireplace and mantel in Sichumovi                    174
+    68. A second-story fireplace in Mashongnavi                174
+    69. Piki stone and chimney-hood in Sichumovi               175
+    70. Piki stone and primitive andiron in Shumopavi          176
+    71. A terrace fireplace and chimney of Shumopavi           177
+    72. A terrace cooking-pit and chimney of Walpi             177
+    73. A ground cooking-pit of Shumopavi covered with
+          a chimney                                            178
+    74. Tusayan chimneys                                       179
+    75. A barred Zuñi door                                     183
+    76. Wooden pivot hinges of a Zuñi door                     184
+    77. Paneled wooden doors in Hano                           185
+    78. Framing of a Zuñi door panel                           186
+    79. Rude transoms over Tusayan openings                    188
+    80. A large Tusayan doorway, with small transom openings   189
+    81. A doorway and double transom in Walpi                  189
+    82. An ancient doorway in a Canyon de Chelly cliff ruin    190
+    83. A symmetrical notched doorway in Mashongnavi           190
+    84. A Tusayan notched doorway                              191
+    85. A large Tusayan doorway with one notched jamb          192
+    86. An ancient circular doorway, or "stone-close,"
+          in Kin-tiel                                          193
+    87. Diagram illustrating symmetrical arrangement of
+          small openings in Pueblo Bonito                      195
+    88. Incised decoration on a rude window-sash in Zuñi       196
+    89. Sloping selenite window at base of Zuñi wall
+          on upper terrace                                     197
+    90. A Zuñi window glazed with selenite                     197
+    91. Small openings in the back wall of a Zuñi
+          house cluster                                        198
+    92. Sealed openings in Tusayan                             199
+    93. A Zuñi doorway converted into a window                 201
+    94. Zuñi roof-openings                                     202
+    95. A Zuñi roof-opening with raised coping                 203
+    96. Zuñi roof-openings with one raised end                 203
+    97. A Zuñi roof-hole with cover                            204
+    98. Kiva trap-door in Zuñi                                 205
+    99. Halved and pinned trap-door frame of a Zuñi kiva       206
+   100. Typical sections of Zuñi oblique openings              208
+   101. Arrangement of mealing stones in a Tusayan house       209
+   102. A Tusayan grain bin                                    210
+   103. A Zuñi plume-box                                       210
+   104. A Zuñi plume-box                                       210
+   105. A Tusayan mealing trough                               211
+   106. An ancient pueblo form of metate                       211
+   107. Zuñi stools                                            213
+   108. A Zuñi chair                                           213
+   109. Construction of a Zuñi corral                          215
+   110. Gardens of Zuñi                                        216
+   111. "Kishoni," or uncovered shade, of Tusayan              218
+   112. A Tusayan field shelter, from southwest                219
+   113. A Tusayan field shelter, from northeast                219
+   114. Diagram showing ideal section of terraces,
+          with Tusayan names                                   223
+   115. Exterior lodge                                         236
+   116. Interior lodge                                         237
+   117. Gaming ring                                            238
+   118. Sweat house                                            240
+
+
+       *       *       *       *       *
+
+            REPORT OF THE DIRECTOR.
+
+       *       *       *       *       *
+
+
+LETTER OF TRANSMITTAL.
+
+
+  Smithsonian Institution,
+  Bureau of Ethnology,
+  _Washington, D.C., October 1, 1887_.
+
+SIR: I have the honor to submit my Eighth Annual Report as Director of
+the Bureau of Ethnology.
+
+The first part presents an explanation of the plan and operations of
+the Bureau; the second consists of a series of papers on anthropologic
+subjects, prepared by my assistants to illustrate the methods and
+results of the work of the Bureau.
+
+I desire to express my thanks for your earnest support and your wise
+counsel relating to the work under my charge.
+
+I am, with respect, your obedient servant,
+
+
+[Signature:] J. W. Powell
+
+
+  Prof. S. P. LANGLEY,
+    _Secretary of the Smithsonian Institution._
+
+
+       *       *       *       *       *
+
+              EIGHTH ANNUAL REPORT
+
+                     of the
+
+              BUREAU OF ETHNOLOGY.
+
+           By J. W. POWELL, Director.
+
+       *       *       *       *       *
+
+
+INTRODUCTION.
+
+
+The prosecution of research among the North American Indians, as
+directed by act of Congress, was continued during the fiscal year
+1886-'87.
+
+The general plan upon which the work has been prosecuted has been
+explained in former reports and has not been changed. After certain
+lines of investigation had been decided upon, they were confided to
+persons trained in their pursuit, with the intention that the results of
+their labors, when completed or well advanced, should be presented from
+time to time in the publications of the Bureau provided for by law.
+A brief statement of the work upon which each one of the special
+students was actively engaged during the fiscal year is furnished below,
+but this statement does not embrace all the studies undertaken or
+services rendered by them, since particular lines of research have been
+suspended in this, as in former years, in order to prosecute unto
+substantial completeness work regarded as of paramount importance. From
+this cause delays have been occasioned in the completion of several
+treatises and monographs, already partly in type, which otherwise would
+have been published.
+
+Invitation is renewed for the assistance of explorers, writers, and
+students who are not and may not desire to be officially connected with
+the Bureau. Their contributions, whether in the shape of suggestions or
+of extended communications, will be gratefully acknowledged, and will
+always receive proper credit if published either in the series of
+reports or in monographs or bulletins, as the liberality of Congress may
+in future allow.
+
+The items now reported upon are presented in three principal divisions.
+The first relates to the publication made; the second, to the work
+prosecuted in the field; and the third, to the office work, which
+largely consists of the preparation for publication of the results of
+field work, with the corrections and additions obtained from the
+literature relating to the subjects discussed and by correspondence.
+
+
+PUBLICATION.
+
+
+The only publication actually issued during the year was the Fourth
+Animal Report of the Bureau of Ethnology to the Smithsonian Institution,
+1882-'83. It is an imperial octavo volume of lxiii + 532 pages,
+illustrated by 83 plates, of which 11 are colored, and 564 figures in
+the text. The official report of the Director, occupying 39 pages
+(pp. xxv-lxiii), is accompanied by the following papers:
+
+Pictographs of the North American Indians, a preliminary paper, by
+Garrick Mallery; pp. 3-256, Pls. I-LXXXIII, Figs. 1-209.
+
+Pottery of the Ancient Pueblos, by William H. Holmes; pp. 257-360, Figs.
+210-360.
+
+Ancient Pottery of the Mississippi Valley, by William H. Holmes; pp.
+361-436, Figs. 361-463.
+
+Origin and Development of Form and Ornament in Ceramic Art, by William
+H. Holmes; pp. 437-465, Figs. 464-489.
+
+A Study of Pueblo Pottery, as illustrative of Zuñi culture growth, by
+Frank Hamilton Cushing; pp. 467-521, Figs. 490-564.
+
+
+FIELD WORK.
+
+
+The field work of the year is divided into (1) mound explorations and
+(2) general field studies, embracing those relating to social customs,
+institutions, linguistics, pictography, and other divisions of
+anthropology.
+
+
+MOUND EXPLORATIONS.
+
+WORK OF PROF. CYRUS THOMAS.
+
+The work of exploring the mounds of the eastern United States was, as in
+previous years, under the charge of Prof. Cyrus Thomas.
+
+Although Prof. Thomas and his assistants have devoted a large portion of
+the year to the study of the collections made in the division of mound
+exploration and to the preparation of a report of its operations for the
+last five years, yet some field work of importance has been done.
+
+Prof. Thomas in person examined the more important ancient works of New
+York and Ohio. He gave special attention to the latter, with a view of
+determining where new and more accurate descriptions, surveys, and
+illustrations were necessary. It was found requisite to undertake a
+careful resurvey and description of a number of the well known works in
+Ohio. This reexamination was the more necessary in view of the light
+shed on the origin and use of these monuments by the explorations which
+had been carried on in West Virginia, western North Carolina, and
+eastern Tennessee.
+
+Mr. J. P. Rogan continued his work as assistant until the close of
+November, when he voluntarily resigned his position to enter upon other
+engagements. A portion of his time during the first month was occupied
+in arranging and preparing for shipment the collection purchased of Mrs.
+McGlashan, in Savannah, Georgia. The rest of his time was employed in
+exploring mounds along the upper Savannah River in Georgia and South
+Carolina and along the lower Yazoo River in Mississippi.
+
+Mr. J. W. Emmert continued to act as field assistant until the end of
+February, when the field work closed. His labors, with the exception of
+a short visit to central New York, were confined to eastern Tennessee,
+chiefly Blount, Monroe, and Loudon counties, where numerous extensive
+and very interesting groups are found in the section formerly occupied
+by the Cherokees. Prof. Thomas thought it necessary to devote
+considerable attention to the ancient works of that region, as it is
+probable that there and in western North Carolina is to be found the key
+that will materially assist in solving the problem of the peculiar works
+of Ohio. The results of these explorations are of unusual interest,
+independent of their supposed bearing on the Ohio mounds.
+
+Mr. James D. Middleton, who has been a constant assistant in the
+division since its organization, after completing some investigations
+begun in southern Illinois, visited western Kentucky for the purpose of
+investigating the works of that section, but was soon afterwards called
+to Washington to take part in the office work. During the month of June
+he visited and made a thorough survey of the extensive group of works
+near Charleston, West Virginia, of which Colonel Norris had made a
+partial exploration, the latter having been prevented from completing it
+by the sickness which immediately preceded his death. During the same
+month Mr. Middleton commenced the survey of the Ohio works before
+alluded to, obtaining some valuable results in the short time before the
+close of the year.
+
+Mr. Gerard Fowke was also engaged for a short time in field work in
+western Pennsylvania, Ohio, and Kentucky, but was called early in autumn
+to Washington to assist in office work.
+
+
+GENERAL FIELD STUDIES.
+
+WORK OF MR. A. S. GATSCHET.
+
+During October and December Mr. Albert S. Gatschet was engaged in
+gathering historic and linguistic data in Louisiana, Texas, and the
+portion of Mexico adjoining the Rio Grande, which region contains the
+remnants of a number of tribes whose language and linguistic affinity
+are practically unknown. After a long search Mr. Gatschet found a small
+settlement of Biloxi Indians at Indian Creek, five or six miles west of
+Lecompte, Rapides Parish, Louisiana, where they gain a livelihood as day
+laborers. Most of them speak English more than their native tongue; in
+fact, about two-thirds of the thirty-two survivors speak English only.
+The vocabulary obtained by him discloses the interesting fact that the
+Biloxi belong to the Siouan linguistic family.
+
+He heard of about twenty-five of the Tunika tribe still living in their
+old homes on the Marksville Prairie, Avoyelles Parish, Louisiana. An
+excellent vocabulary was obtained of their language at Lecompte,
+Louisiana, and a careful comparison of this with other Indian languages
+shows that the Tunika is related to none, but represents a distinct
+linguistic family. He was unable to collect any information in regard to
+the Karankawa tribe, concerning which little is known except that they
+lived upon the Texan coast near Lavaca Bay.
+
+Leaving Laredo County, Texas, he visited Camargo, in Tamaulipas, Mexico,
+finding near San Miguel the remnants of the Comecrudo tribe, or, as they
+are called by the whites, Carrizos. Only the older men and women still
+remember their language. The full-blood Comecrudos seen were tall and
+thin, some of them with fairer complexions than the Mexicans.
+Subsequently the Cotoname language, formerly spoken in the same
+district, was studied and found to be a distinctly related dialect of
+Comecrudo. Both of them belong to the Coahuiltecan family. From the
+Comecrudo Mr. Gatschet obtained the names of a number of extinct tribes
+which formerly lived in their vicinity, but of which no representatives
+are left. These are the Casas Chiquitas, Tejones (or "Raccoons"), Pintos
+or Pakawas, Miakkan, and Cartujanos. He next visited the Tlaskaltec
+Indians, who live in the city of Saltillo. Of these Indians about two
+hundred still speak their own language, which is almost identical with
+the Aztec, although largely mixed with Spanish.
+
+WORK OF MR. JEREMIAH CURTIN.
+
+Mr. Jeremiah Curtin was engaged from the middle of March to June 1 in
+completing investigations begun the previous year into the history,
+myths, and language of the Iroquois Indians at Versailles, Cattaraugus
+County, New York. The material obtained by him is of great interest and
+value.
+
+WORK OF DR. W. J. HOFFMAN.
+
+Dr. W. J. Hoffman proceeded early in August to Paint Rock, North
+Carolina, to secure sketches of pictographs upon the canyon walls of the
+French Broad River near that place. Owing to disintegration of the
+sandstone rocks, the painted outlines of animals and other figures are
+becoming slowly obliterated, though sufficient remained to show their
+similarity to others in various portions of the region which it is
+believed was occupied by the Cherokee Indians. Similar outlines were
+reported to have been formerly visible on the same river, as well as on
+the Tennessee, near Knoxville, Tennessee, though no traces of them were
+found.
+
+The next place visited was a few miles distant from and northwest of
+Liberty, Tazewell County, Virginia, where some painted characters still
+remain in a good state of preservation. They are on the sandstone cliffs
+near the summit of the mountains and consist of human figures, birds,
+and other forms, appearing to resemble artistically those of North
+Carolina. Five miles eastward, on the same range, is a single
+diamond-shaped cluster of red and black marks, no other forms being
+visible. This rock is known in the surrounding country as the
+"Handkerchief Rock," because of its resemblance to an outspread colored
+handkerchief. He then proceeded to Charleston, West Virginia, obtaining
+copies of petroglyphs on Big Horse Creek, 12 miles southwest of that
+place, and at several points along the Kanawha River. It was learned
+that 20 miles south of Charleston, on the reputed trail leading from the
+Kanawha Valley into Kentucky, "painted trees" formerly marked the
+direction of the trails leading into the Cherokee country, and into
+Kentucky. These trees bore various marks in red, but no accurate
+information pertaining to the precise form of the characters could be
+ascertained. At the other points mentioned characters were noticed
+resembling in general those found in other portions of the Eastern and
+Middle States known to have been occupied by tribes of the Algonquian
+linguistic family.
+
+The "Indian God-Rock," 115 miles north of Pittsburg, Pennsylvania, on
+the Alleghany River, was next examined and sketches were made of the
+figures. This rock is an immense bowlder, the sculptured face of which
+is about 15 feet high and from 8 to 10 feet broad, and lies at the
+water's edge. The figures upon the lower surface are being gradually
+obliterated by erosion from floating logs and driftwood during seasons
+of high water, while those upon the upper portions are being ruined by
+the visitors who cut names and dates over and upon the sculptured
+surfaces. Another place visited was on the Susquehanna River, 3 miles
+below Columbia, Pennsylvania. Here a small stream empties into the river
+from the east, along whose course several rocks were found bearing
+deeply cut and polished grooves, indicating a nearly east and west
+direction. These rocks are believed to be on the line of one of the
+Indian trails leading to the Delaware River, similar to that at
+Conowingo, Maryland, which was the last locality inspected, and which is
+known as "Bald Friar." A large mass of rock projecting from the bed of
+the river is almost covered with numerous circles, cup-shaped
+depressions, human forms, and ellipses, strongly resembling characters
+from other points in the regions formerly occupied by the Algonquian
+family. Measurements and sketches of these petroglyphs were made, with a
+view to future reproduction upon models.
+
+
+OFFICE WORK.
+
+
+The Director, Maj. J. W. POWELL, has continued the work of the
+linguistic classification of the Indian tribes in North America north of
+Mexico, and in connection with it is preparing a map upon a linguistic
+basis showing the original habitat of the tribes. The work is now far
+advanced.
+

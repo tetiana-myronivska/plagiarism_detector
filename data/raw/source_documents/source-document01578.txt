@@ -1,0 +1,129 @@
+﻿ The combined system at each end
+of the line will then consist of the telephone-set, T1, the telegraph
+instruments (comprising battery, B1, key, M1 and Morse receiver, R1),
+the "graduating" electromagnets, E1, and E2, the "graduating"
+condenser, C1, and the "separating" condenser, C2. It was found by
+actual experiments that the same arrangement was good for lines
+varying from 28 to 200 miles in length. A single wire between
+Brussels, Ghent, and Ostend is now regularly employed for transmission
+by telegraph of the ordinary messages and of the telemeteorographic
+signals between the two observatories at those places, and by
+telephone of verbal simultaneous correspondence, for one of the Ghent
+newspapers. A still more interesting arrangement is possible, and is
+indicated in Fig. 4. Here a separating condenser is introduced at the
+intermediate station at Ghent between earth and the line, which is
+thereby cut into two independent sections for telephonic purposes,
+while remaining for telegraphic purposes a single undivided line
+between Brussels and Ostend. Brussels can telegraph to Ostend, or
+Ostend to Brussels, and at the same time the wire can be used to
+telephone between Ghent and Ostend, or between Ghent and Brussels, or
+both sections may be simultaneously used.
+
+[Illustration: Fig. 3]
+
+[Illustration: Fig. 4]
+
+It would appear, then, that M. Van Rysselberghe has made an advance of
+very extraordinary merit in devising these combinations. We have seen
+in recent years how duplex telegraphy superseded single working, only
+to be in turn superseded by the quadruplex system. Multiplex
+telegraphy of various kinds has been actively pursued, but chiefly on
+the other side of the Atlantic rather than in this country, where our
+fast-speed automatic system has proved quite adequate hitherto.
+Whether we shall see the adoption in the United Kingdom of Van
+Rysselberghe's system is, however, by no means certain. The essence of
+it consists in retarding the telegraphic signals to a degree quite
+incompatible with the fast-speed automatic transmission of telegraphic
+messages in which our Post Office system excels. We are not likely to
+spoil our telegraphic system for the sake of simultaneous telephony,
+unless there is something to be gained of much greater advantage than
+as yet appears.--_Nature._
+
+       *       *       *       *       *
+
+
+THE ELECTRIC MARIGRAPH.
+
+
+For registering the height of the tide at every instant, hydrographic
+services generally adopt quite a simple marigraph. The apparatus
+consists in principle of a counterpoised float whose rising and
+falling motion, reduced to a tenth, by means of a system of toothed
+wheels, is transmitted to a pencil which moves in front of a vertical
+cylinder. This cylinder itself moves around its axis by means of a
+clockwork mechanism, and accomplishes one entire revolution every
+twenty-four hours. By this means is obtained a curve of the tide in
+which the times are taken for abscisses and the heights of the sea for
+ordinates. However little such marigraphs have had to be used, great
+defects have been recognized in them. When we come to change the sheet
+on the cylinder (and such change should be made at least once every
+fifteen days), there is an interruption in the curve. It is necessary,
+besides, to perform office work of the most detailed kind in order to
+refer to the same origin all these curves, which are intercrossed and
+often superposed in certain parts upon the original sheet. In order to
+render such a disentanglement possible, it is indispensable to mark by
+hand, at least once every twenty-four hours, upon each curve, the date
+of the day corresponding to it. It is equally useful to verify the
+exactness of the indications given by the apparatus by making readings
+several times a day on a scale of tides placed alongside of the float.
+Nine times out of ten the rise of the waves renders such readings very
+difficult and the control absolutely illusory.
+
+All these conditions united, as well as others that we neglect in this
+brief discussion, necessitate a surveillance at every instant. The
+result is that these marigraphs must be installed in a special
+structure, very near the bank, so as to be reachable at all times, and
+that the indications that they give are always vitiated by error,
+since the operation is performed upon a level at which are exerted
+disturbing influences that are not found at a kilometer at sea. It
+were to be desired that the float could be isolated by placing it a
+certain distance from the shore, and transmit its indications, by
+meant of a play of currents, to a registering apparatus situated upon
+_terra firma_.
+
+In the course of one of his lectures published in the December number
+(1883) of the _Elektrotechnische Zeitschrift_, Mr. Von Hefner-Alteneck
+tells us that such a desideratum has been supplied by the firm of
+Siemens & Halske. This marigraph, constructed on an order of the
+German Admiralty, gives the level of the sea every ten minutes with an
+approximation of 0.12 per cent., and that too for a difference of 8
+meters between the highest and lowest sea. The apparatus consists, as
+we said above, of a float and registering device, connected with each
+other by means of a cable. This latter is formed of three ordinary
+conductors covered with gutta percha and surrounded with a leaden
+sheath, which latter is itself protected against accident by means of
+a strong covering of iron wire and hemp. The return is effected
+through the earth. We shall enter into details concerning each of
+these two apparatus in-succession, by beginning with the float, of
+which Fig. 1 gives a general view, and Fig. 2 a diagrammatic sketch.
+The float moves in a cast iron cylinder, having at its lower part a
+large number of apertures of small diameter, so that the motion of the
+waves does not perceptibly influence the level of the water in the
+interior of the cylinder. It is attached to a copper ribbon, B, whose
+other extremity is fixed to the drum, T. The ribbon winds around the
+latter in the rising motion of the float, owing to a spiral spring
+arranged so as to act upon the drum. The tension of this spring goes
+on increasing in measure as the float descends.
+
+[Illustration: FIG. 1.--FLOAT OF SIEMENS AND HALSKE'S MARIGRAPH.]
+
+[Illustration: FIG. 2.]
+
+This difference in tension is utilized for balancing at every instant
+the weight of the ribbon unwound, and thus causing the float to
+immerse itself in the water to a constant degree. The ribbon, B, is
+provided throughout its length with equidistant apertures that exactly
+correspond to tappets that project from the circumference of the
+wheel, R. When the float moves its position, the wheel, R, begins to
+turn and carries along in doing so the pinion, w, which revolves
+over the toothed wheels, s1, s2, and s3. The thickness of w
+is equal to that of the three wheels, s1, s2, and s3, and a
+special spring secures at every instant an intimate contact between
+the pinion and the said wheels. These latter are insulated from each
+other and from the axle upon which they are keyed, and communicate,
+each of them, with conductors, I., II., and III. They are so formed
+and mounted that, in each of them, the tooth in one corresponds to the
+interspace in the two others. As a result of this, in the motion of
+the pinion, w, the latter is never in contact with but one of the
+three wheels, s1, s2, and s3.
+
