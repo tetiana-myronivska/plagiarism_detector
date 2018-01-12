@@ -41,9 +41,16 @@ The subset of the original corpus has been preprocessed by parsing the xml annot
 
 
 ## First results
-IN PROGRESS. WILL BE UPDATED SHORTLY.
+|Metrics | Models
+|-----   | ----------------- |
+|        | **3_char_0.5_thresh** |
+| Precision| 0.505 |
+| Recall | 1.0 |
+| F1    | 0.6711 |
 
-Currently, the system is calculating Precision, Recall and F1-measure.
+
+
+Currently, the system is calculating Precision, Recall and F1-measure for different variants of LSH.
 
 ## Additional questions
 1. How would you assess the performances of your system?
