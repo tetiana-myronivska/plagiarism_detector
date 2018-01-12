@@ -1,7 +1,6 @@
 # Comments
 
 ## Project workflow
-_______
  1. Research existing approaches to plagiarism detection:
     - Substring matching
     - Text parsing
@@ -30,27 +29,23 @@ _______
 
 
  ## Algorithm rationale
- _______
- The algorithm chosen for this task is fingerprinting with Locality Sensitive Hashing (LSH, [link](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)). The main idea of LSH lies in calculating and saving hash values for each document in the existing database. The incoming document that has to be checked for plagiarism also gets its hash value, and this value is then queried in LSH object. If there is a collision between the new hash and existing hashes, the document is plagiarized.
+The algorithm chosen for this task is fingerprinting with Locality Sensitive Hashing (LSH, [link](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)). The main idea of LSH lies in calculating and saving hash values for each document in the existing database. The incoming document that has to be checked for plagiarism also gets its hash value, and this value is then queried in LSH object. If there is a collision between the new hash and existing hashes, the document is plagiarized.
 
  Such choice of algorithm is determined by the key requirements, which are speed and scalability: the LSH values are calculated only once for each of the documents in the database.
 
 
 ## Data choice and preprocessing
-_____
 For creating the database of the documents, a part of PAN-PC-09 corpus ([link](https://www.uni-weimar.de/en/media/chairs/computer-science-and-media/webis/corpora/corpus-pan-pc-09/)) has been used. The corpus was initially created for the evaluation of automatic plagiarism detection algorithms. It can be used free of charge for research purposes.
 
 The subset of the original corpus has been preprocessed by parsing the xml annotations of the source .txt files (See [README.md](README.md) for the structure of the **data** folder).
 
 
 ## First results
-______
 IN PROGRESS. WILL BE UPDATED SHORTLY.
 
 Currently, the system is calculating Precision, Recall and F1-measure.
 
 ## Additional questions
-______
 1. How would you assess the performances of your system?
  At this moment, the system is quite raw. It needs algorithm quality improvement, a lot of refactoring, and UI implementation. [Next steps](#next-steps) have been defined for further work on the system.
 2. How could malicious authors potentially fool your system?
@@ -61,7 +56,6 @@ Also, its Precision and Recall of the system depend heavily on the choice of the
 scalability (in terms of algorithms, infrastructure, or both)?
 
 ## Next steps
-_______
 1. Improve the LSH quality:
    - Choose optimal threshold and ngrams through experiments.
    - Experiment with data preprocessing by removing punctuation, stop words, and stemming.
