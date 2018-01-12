@@ -1,0 +1,7 @@
+Precision: 0.505050505051
+Recall: 1.0
+F1 measure: 0.671140939597
+TPs: 50
+TNs: 1
+FPs: 49
+FNs: 0
