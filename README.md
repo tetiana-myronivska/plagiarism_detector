@@ -3,10 +3,10 @@ This is a plagiarism detection tool built using the locality sensitive hashing (
 
 The tool uses Python `datasketch` library for calculating `MinHash` and `MinHashLSH`.
 
-### Usage
+## Usage
 Open the project. In `lsh/check_new_lsh.py` script specify `check_file` for the file to be checked for plagiarism, and run the script. Output: message about whether the document is plagiarized or not. If the document is plagiarized, the list of source document names is printed.
 
-### Project structure
+## Project structure
 `data` - folder with data files. Subfolders and files:
   - `golden` - documents retrieved from the `raw` folder: `tn_docs` - folder with files that are not plagiarized (true negatives); `tp_docs` - folder with files that are plagiarized (true positives); `tp_source_references` - folder with files that contain source references for plagiarized files
   - `raw` - part of the original PAN-PC-09 corpus corpus, [link](https://www.uni-weimar.de/en/media/chairs/computer-science-and-media/webis/corpora/corpus-pan-pc-09/))
