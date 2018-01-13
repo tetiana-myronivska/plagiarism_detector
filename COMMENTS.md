@@ -44,6 +44,10 @@ The subset of the original corpus has been preprocessed by parsing the xml annot
 |Metrics | Models
 |-----   | ----------------- |
 |        | **3_char_0.5_thresh** |
+|TP| 50|
+|TN| 1|
+|FP| 49|
+|FN| 0|
 | Precision| 0.505 |
 | Recall | 1.0 |
 | F1    | 0.6711 |
